@@ -29,6 +29,9 @@
     "reset": "Clear filters",
     "open": "Filters",
     "selected": "{count} selected",
+    "active": "Active filters",
+    "clearAll": "Clear all",
+    "remove": "Remove {name}",
     "showMore": "Show more",
     "noResults": "No works match these filters.",
     "noResultsHint": "Try removing a filter or changing your search term."

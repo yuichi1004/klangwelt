@@ -29,6 +29,9 @@
     "reset": "条件をクリア",
     "open": "絞り込み",
     "selected": "{count}件選択中",
+    "active": "適用中の条件",
+    "clearAll": "すべてクリア",
+    "remove": "{name} を解除",
     "showMore": "さらに表示",
     "noResults": "条件に合う楽曲が見つかりませんでした。",
     "noResultsHint": "条件を減らすか、キーワードを変えてお試しください。"

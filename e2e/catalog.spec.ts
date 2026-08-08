@@ -72,6 +72,118 @@ test.describe("catalogue filtering", () => {
   });
 });
 
+test.describe("active filter chips", () => {
+  test.skip(
+    ({ isMobile }) => Boolean(isMobile),
+    "filter sidebar is desktop-only; the mobile sheet is covered separately",
+  );
+
+  test("removing a chip drops only that filter", async ({ page }) => {
+    await page.goto("/ja?e=Baroque&g=Keyboard");
+    await expect(resultCount(page)).toHaveText(/^[\d,]+曲 \/ 全1,286曲$/);
+
+    await page.getByRole("button", { name: "バロック を解除" }).click();
+    await expect(page).toHaveURL(/g=Keyboard/);
+    await expect(page).not.toHaveURL(/e=Baroque/);
+    await expect(page.getByRole("button", { name: "鍵盤楽器 を解除" })).toBeVisible();
+  });
+
+  test("clear all empties every filter, including the search text", async ({
+    page,
+  }) => {
+    await page.goto("/ja?e=Baroque");
+    await searchBox(page).fill("Sonata");
+    await expect(page).toHaveURL(/q=Sonata/);
+
+    await page.getByRole("button", { name: "すべてクリア" }).click();
+    await expect(page).toHaveURL(/\/ja$/);
+    await expect(searchBox(page)).toHaveValue("");
+    await expect(resultCount(page)).toHaveText("1,286曲");
+  });
+});
+
+test.describe("filters survive an in-page round trip", () => {
+  test.skip(
+    ({ isMobile }) => Boolean(isMobile),
+    "filter sidebar is desktop-only; the mobile sheet is covered separately",
+  );
+
+  test("returning from a work page keeps the applied filters", async ({
+    page,
+  }) => {
+    await page.goto("/ja");
+    await page.getByRole("button", { name: "バロック" }).click();
+    await expect(page).toHaveURL(/e=Baroque/);
+    await expect(resultCount(page)).toHaveText(/^[\d,]+曲 \/ 全1,286曲$/);
+
+    await workCards(page).first().click();
+    await expect(page).toHaveURL(/\/works\//);
+
+    await page.getByRole("link", { name: "楽曲一覧に戻る" }).click();
+    await expect(page).toHaveURL(/e=Baroque/);
+    await expect(resultCount(page)).toHaveText(/^[\d,]+曲 \/ 全1,286曲$/);
+    await expect(page.getByRole("button", { name: "バロック を解除" })).toBeVisible();
+  });
+
+  test("the header's browse-works link also restores the filters", async ({
+    page,
+  }) => {
+    await page.goto("/ja");
+    await page.getByRole("button", { name: "バロック" }).click();
+    await expect(page).toHaveURL(/e=Baroque/);
+
+    await workCards(page).first().click();
+    await expect(page).toHaveURL(/\/works\//);
+
+    await page.getByRole("link", { name: "楽曲を探す" }).first().click();
+    await expect(page).toHaveURL(/e=Baroque/);
+  });
+
+  test("clearing filters is remembered across the round trip", async ({
+    page,
+  }) => {
+    await page.goto("/ja?e=Baroque&pop=popular");
+    await page.getByRole("button", { name: "すべてクリア" }).click();
+    await expect(page).toHaveURL(/\/ja$/);
+
+    await workCards(page).first().click();
+    await expect(page).toHaveURL(/\/works\//);
+
+    await page.getByRole("link", { name: "楽曲一覧に戻る" }).click();
+    await expect(page).toHaveURL(/\/ja$/);
+    await expect(resultCount(page)).toHaveText("1,286曲");
+  });
+
+  test("a link with its own filters wins over a saved one", async ({ page }) => {
+    await page.goto("/ja");
+    await page.getByRole("button", { name: "バロック" }).click();
+    await expect(page).toHaveURL(/e=Baroque/);
+
+    // A full navigation, as if the user had followed a shared link rather
+    // than clicking something inside the app.
+    await page.goto("/ja?q=Moonlight");
+    await expect(page).toHaveURL(/q=Moonlight/);
+    await expect(page).not.toHaveURL(/e=Baroque/);
+  });
+
+  test("a new browser context never sees another tab's filters", async ({
+    browser,
+  }) => {
+    const first = await browser.newContext();
+    const firstPage = await first.newPage();
+    await firstPage.goto("/ja");
+    await firstPage.getByRole("button", { name: "バロック" }).click();
+    await expect(firstPage).toHaveURL(/e=Baroque/);
+    await first.close();
+
+    const second = await browser.newContext();
+    const secondPage = await second.newPage();
+    await secondPage.goto("/ja");
+    await expect(resultCount(secondPage)).toHaveText("1,286曲");
+    await second.close();
+  });
+});
+
 test.describe("favourites", () => {
   test("survive a reload and appear on the favourites page", async ({ page }) => {
     await page.goto("/ja/works/16406");
