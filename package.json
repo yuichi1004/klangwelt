@@ -12,7 +12,8 @@
     "seed:portraits": "tsx scripts/seed/fetch-portraits.ts",
     "seed:catalog": "tsx scripts/seed/build-catalog.ts",
     "test:e2e": "playwright test",
-    "test:e2e:ui": "playwright test --ui"
+    "test:e2e:ui": "playwright test --ui",
+    "build:icons": "tsx scripts/build-icons.ts"
   },
   "dependencies": {
     "next": "16.3.0",
