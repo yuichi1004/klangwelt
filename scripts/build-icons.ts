@@ -39,6 +39,10 @@ const PNG_ICONS = [
   // iOS composites this onto the home screen and adds its own rounding, so it
   // must be opaque — which the parchment ground already gives us.
   { file: "apple-touch-icon.png", size: 180 },
+  // Shown in the site header at 28px. Sized for a 3× display rather than
+  // reusing icon-192.png, which would put 55 kB on every page for a mark
+  // that never renders above 84 physical pixels.
+  { file: "logo-mark.png", size: 96 },
 ];
 
 function render(size: number): Promise<Buffer> {

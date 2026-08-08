@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
@@ -35,9 +36,19 @@ export function SiteHeader({ locale }: { locale: Locale }) {
       <div className="mx-auto flex max-w-6xl items-center gap-3 px-4 py-3 sm:px-6">
         <Link
           href={`/${locale}`}
-          className="mr-auto font-serif text-xl font-medium tracking-tight text-ink"
+          className="mr-auto flex items-center gap-2.5 font-serif text-xl font-medium tracking-tight text-ink"
         >
-          {messages.site.name}
+          {/* Decorative: the wordmark beside it already names the site, so
+              announcing the image too would just repeat it. */}
+          <Image
+            src="/logo-mark.png"
+            alt=""
+            width={28}
+            height={28}
+            priority
+            className="h-7 w-7 rounded-md"
+          />
+          <span className="hidden min-[360px]:inline">{messages.site.name}</span>
         </Link>
 
         <nav className="hidden items-center gap-1 sm:flex">
@@ -57,7 +68,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
           ))}
         </nav>
 
-        <div className="flex items-center gap-1 rounded-full border border-line p-0.5">
+        <div className="flex shrink-0 items-center gap-1 rounded-full border border-line p-0.5">
           {LOCALES.map((candidate) => (
             <Link
               key={candidate}
@@ -71,7 +82,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
                   // Storage blocked; the link still works.
                 }
               }}
-              className={`rounded-full px-2.5 py-1 text-xs font-medium transition-colors ${
+              className={`rounded-full whitespace-nowrap px-2.5 py-1 text-xs font-medium transition-colors ${
                 candidate === locale
                   ? "bg-accent-fill text-accent-ink"
                   : "text-ink-faint hover:text-ink"

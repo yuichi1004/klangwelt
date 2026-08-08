@@ -190,6 +190,28 @@ test.describe("responsive layout", () => {
     }
   });
 
+  test("header stays on one line down to the narrowest phones", async ({
+    page,
+    isMobile,
+  }) => {
+    test.skip(Boolean(isMobile), "drives the viewport directly");
+    await page.goto("/ja");
+
+    // Adding the logo mark once pushed the language pill over the edge at
+    // 320px, and "日本語" wrapped to three stacked characters — the bar grew
+    // from 59px to 87px. Nothing in the header may wrap.
+    for (const width of [320, 344, 360, 390, 412]) {
+      await page.setViewportSize({ width, height: 720 });
+      await page.waitForTimeout(120);
+      const { height, docWidth } = await page.evaluate(() => ({
+        height: document.querySelector("header")!.getBoundingClientRect().height,
+        docWidth: document.documentElement.scrollWidth,
+      }));
+      expect(height, `header wraps at ${width}px`).toBeLessThan(70);
+      expect(docWidth, `${width}px overflows`).toBeLessThanOrEqual(width + 1);
+    }
+  });
+
   test("mobile navigation lives behind the menu button", async ({
     page,
     isMobile,
