@@ -56,13 +56,20 @@ export function ComposerPortrait({
       title={creditText}
       width={size}
       height={size}
-      className="h-auto w-full rounded-lg border border-line object-contain"
+      className={
+        showCredit
+          ? "h-auto w-full rounded-lg border border-line object-contain"
+          : "max-h-full w-auto object-contain"
+      }
     />
   );
 
   if (!showCredit) {
     return (
-      <div className="shrink-0" style={{ width: size }}>
+      <div
+        className="flex shrink-0 items-center justify-center overflow-hidden rounded-lg border border-line bg-paper"
+        style={{ width: size, height: size }}
+      >
         {image}
       </div>
     );

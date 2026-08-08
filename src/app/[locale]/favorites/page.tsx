@@ -30,7 +30,7 @@ export default async function FavoritesPage(
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
-      <h1 className="text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
+      <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
         {messages.favorites.heading}
       </h1>
       <p className="mb-6 mt-2 text-xs text-ink-faint">

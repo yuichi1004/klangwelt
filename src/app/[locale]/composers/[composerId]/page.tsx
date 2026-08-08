@@ -78,7 +78,7 @@ export default async function ComposerPage(
         <ComposerPortrait locale={locale} composer={composer} credit={credit} />
 
         <div className="min-w-0 flex-1">
-          <h1 className="text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
+          <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
             {name}
           </h1>
           {locale === "ja" && composer.nameJa !== composer.completeName && (
@@ -117,12 +117,12 @@ export default async function ComposerPage(
       </header>
 
       <section className="mt-9">
-        <h2 className="mb-3 text-sm font-semibold text-ink">
+        <h2 className="mb-3 font-serif text-lg font-medium text-ink">
           {messages.composer.biographyHeading}
         </h2>
         {editorial?.biography ? (
           <div className="space-y-5">
-            <p className="whitespace-pre-line text-sm leading-relaxed text-ink-soft">
+            <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
               {editorial.biography[locale]}
             </p>
             {editorial.story && (
@@ -130,7 +130,7 @@ export default async function ComposerPage(
                 <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
                   {messages.composer.storyHeading}
                 </h3>
-                <p className="whitespace-pre-line text-sm leading-relaxed text-ink-soft">
+                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
                   {editorial.story[locale]}
                 </p>
               </div>
@@ -144,11 +144,11 @@ export default async function ComposerPage(
       </section>
 
       {coreWorks.length > 0 && (
-        <section className="mt-10">
-          <h2 className="mb-3 text-sm font-semibold text-ink">
+        <section className="mt-12">
+          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
             {messages.composer.coreWorks}
           </h2>
-          <ul className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+          <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
             {coreWorks.map((work) => (
               <li key={work.id}>
                 <WorkCard

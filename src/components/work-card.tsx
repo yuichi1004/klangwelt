@@ -34,23 +34,22 @@ export function WorkCard({
   const body = (
     <>
       <div className="min-w-0 flex-1">
-        <p className="font-medium leading-snug text-ink break-words">{title}</p>
+        <p className="font-serif text-[1.0625rem] font-medium leading-snug text-ink break-words">
+          {title}
+        </p>
         {secondaryTitle && secondaryTitle !== title && (
           <p className="mt-0.5 truncate text-xs text-ink-faint">
             {secondaryTitle}
           </p>
         )}
-        <p className="mt-1.5 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-ink-soft">
+        <p className="mt-2.5 flex flex-wrap items-center gap-x-2 gap-y-1.5 text-xs text-ink-soft">
+          {/* min-w-0 so a long name wraps instead of widening the card. */}
           {composerName && (
-            <>
-              {/* min-w-0 so a long name wraps instead of widening the card. */}
-              <span className="min-w-0 break-words">{composerName}</span>
-              <span aria-hidden="true" className="text-line">
-                ·
-              </span>
-            </>
+            <span className="min-w-0 break-words">{composerName}</span>
           )}
-          <span>{GENRE_LABELS[genre][locale]}</span>
+          <span className="rounded-full bg-terra-surface px-2 py-0.5 text-ink">
+            {GENRE_LABELS[genre][locale]}
+          </span>
           {popular && (
             <span className="rounded-full bg-accent-soft px-2 py-0.5 text-accent">
               {messages.filters.popular}
@@ -68,7 +67,7 @@ export function WorkCard({
   );
 
   const className =
-    "flex items-start gap-2 rounded-lg border border-line bg-paper-raised p-3.5 transition-colors";
+    "flex items-start gap-3 rounded-lg border border-line bg-paper-raised p-5 transition-colors";
 
   if (!linkToDetail) {
     return <div className={className}>{body}</div>;
@@ -77,7 +76,7 @@ export function WorkCard({
   return (
     <Link
       href={`/${locale}/works/${workId}`}
-      className={`${className} hover:border-accent/40 hover:bg-accent-soft/30`}
+      className={`${className} hover:border-accent/50 hover:bg-accent-soft`}
     >
       {body}
     </Link>

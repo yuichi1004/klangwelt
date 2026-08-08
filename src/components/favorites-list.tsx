@@ -69,7 +69,7 @@ export function FavoritesList({
       <p className="mb-4 text-sm text-ink-soft">
         {messages.favorites.count.replace("{count}", String(saved.length))}
       </p>
-      <ul className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+      <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         {saved.map((work) => (
           <li key={work.id}>
             <WorkCard

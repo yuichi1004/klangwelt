@@ -365,7 +365,7 @@ export function CatalogBrowser({
           </div>
         ) : (
           <>
-            <ul className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+            <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
               {results.slice(0, visible).map((work) => (
                 <li key={work.id}>
                   <WorkCard
@@ -422,7 +422,7 @@ export function CatalogBrowser({
             <button
               type="button"
               onClick={() => setPanelOpen(false)}
-              className="mt-6 w-full rounded-md bg-ink py-3 text-sm font-medium text-paper"
+              className="mt-6 w-full rounded-full bg-accent-fill py-3.5 text-sm font-semibold text-accent-ink"
             >
               {messages.catalog.resultCount.replace(
                 "{count}",

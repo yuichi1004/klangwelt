@@ -45,13 +45,13 @@ export default async function CreditsPage(
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
-      <h1 className="text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
+      <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
         {messages.credits.heading}
       </h1>
       <p className="mt-3 text-sm text-ink-soft">{messages.credits.intro}</p>
 
       <section className="mt-9">
-        <h2 className="text-lg font-medium text-ink">
+        <h2 className="font-serif text-xl font-medium text-ink">
           {messages.credits.dataHeading}
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-ink-soft">
@@ -79,7 +79,7 @@ export default async function CreditsPage(
       </section>
 
       <section className="mt-9">
-        <h2 className="text-lg font-medium text-ink">
+        <h2 className="font-serif text-xl font-medium text-ink">
           {messages.credits.servicesHeading}
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-ink-soft">
@@ -88,7 +88,7 @@ export default async function CreditsPage(
       </section>
 
       <section className="mt-9">
-        <h2 className="text-lg font-medium text-ink">
+        <h2 className="font-serif text-xl font-medium text-ink">
           {messages.credits.portraitsHeading}
         </h2>
         <p className="mt-2 text-sm leading-relaxed text-ink-soft">
