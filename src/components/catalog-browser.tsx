@@ -34,10 +34,15 @@ import {
 
 const PAGE_SIZE = 40;
 
+/** How long typing must pause before the query is written to the URL. */
+const QUERY_COMMIT_DELAY_MS = 250;
+
 /**
- * Filters live in the query string so a result set can be shared, and the URL
- * is the single source of truth — they are derived on every render rather
- * than mirrored into component state.
+ * Filters live in the query string so a result set can be shared. Everything
+ * except the search text is read straight back out of the URL; the text field
+ * keeps its own state and writes to the URL on a debounce, because binding an
+ * input's value to an asynchronous navigation breaks typing (see the note in
+ * the component).
  */
 function readFilters(params: URLSearchParams | ReadonlyURLSearchParams): {
   filters: CatalogFilters;
@@ -107,6 +112,41 @@ export function CatalogBrowser({
   const [panelOpen, setPanelOpen] = useState(false);
   const [composerQuery, setComposerQuery] = useState("");
 
+  /*
+   * The search text lives here rather than being read back out of the URL.
+   *
+   * Binding `value` to `useSearchParams()` while `onChange` went through
+   * `router.replace()` meant the field's value round-tripped through an
+   * asynchronous navigation: React re-rendered with the *previous* query and
+   * wrote it back into the input before the new one landed. Latin typing lost
+   * every character but the last, and writing to `input.value` during an IME
+   * composition made the browser commit it, so flick-typing ベートーベン on iOS
+   * piled up as `へべべーべーとべーとー`.
+   *
+   * Now the field owns its text and updates synchronously; the URL is written
+   * on a debounce so a shared link still carries the query.
+   */
+  const [queryText, setQueryText] = useState(filters.query);
+  const [lastUrlQuery, setLastUrlQuery] = useState(filters.query);
+  // State rather than a ref: ending a composition has to re-run the effect
+  // below so the finished word gets written to the URL.
+  const [isComposing, setIsComposing] = useState(false);
+
+  // Back/forward and "clear filters" change the query from outside. Adjusting
+  // state during render is React's documented answer here; an effect would
+  // trip the project's no-setState-in-effect rule and render one stale frame.
+  if (filters.query !== lastUrlQuery) {
+    setLastUrlQuery(filters.query);
+    setQueryText(filters.query);
+  }
+
+  /** The filters as the user currently sees them, including text that has
+   *  not reached the URL yet. */
+  const effectiveFilters = useMemo<CatalogFilters>(
+    () => ({ ...filters, query: queryText }),
+    [filters, queryText],
+  );
+
   // The full index is a separate static asset rather than inlined HTML.
   // Until it arrives, the statically rendered first page stays on screen.
   //
@@ -133,20 +173,42 @@ export function CatalogBrowser({
   );
 
   const update = useCallback(
-    (nextFilters: CatalogFilters, nextSort: SortKey = sort) => {
+    (nextFilters: CatalogFilters, nextSort: SortKey) => {
+      // Remember that this navigation is ours, so when the query comes back
+      // through `useSearchParams()` it is not mistaken for an external change
+      // and used to overwrite what the user is typing.
+      setLastUrlQuery(nextFilters.query);
       setVisible(PAGE_SIZE);
       router.replace(`/${locale}${writeFilters(nextFilters, nextSort)}`, {
         scroll: false,
       });
     },
-    [locale, router, sort],
+    [locale, router],
   );
+
+  /**
+   * Writes the search text to the URL once typing pauses.
+   *
+   * Re-running on every keystroke gives the debounce for free: the cleanup
+   * cancels the previous timer. Nothing is scheduled while a composition is
+   * open, and once the query has landed `queryText === lastUrlQuery` short-
+   * circuits it — including after a chip click, which writes the URL itself.
+   */
+  useEffect(() => {
+    if (isComposing || queryText === lastUrlQuery) return;
+    const timer = setTimeout(() => {
+      update({ ...filters, query: queryText }, sort);
+    }, QUERY_COMMIT_DELAY_MS);
+    return () => clearTimeout(timer);
+  }, [isComposing, queryText, lastUrlQuery, filters, sort, update]);
 
   const loaded = works !== null;
   const results = useMemo(() => {
     const source = works ?? initialWorks;
-    return sortWorks(filterWorks(source, filters), sort, locale);
-  }, [works, initialWorks, filters, sort, locale]);
+    // Filters on the live text so results keep up with typing, while the URL
+    // catches up on the debounce.
+    return sortWorks(filterWorks(source, effectiveFilters), sort, locale);
+  }, [works, initialWorks, effectiveFilters, sort, locale]);
 
   const composerName = (composer: ComposerOption) =>
     locale === "ja" ? composer.nameJa : composer.completeName;
@@ -175,7 +237,7 @@ export function CatalogBrowser({
     filters.epochs.length +
     filters.genres.length +
     (filters.popularity === "all" ? 0 : 1) +
-    (filters.query ? 1 : 0);
+    (queryText ? 1 : 0);
 
   const filterPanel = (
     <div className="space-y-6">
@@ -183,11 +245,22 @@ export function CatalogBrowser({
         <input
           type="search"
           aria-label={messages.filters.search}
-          value={filters.query}
-          onChange={(event) =>
-            update({ ...filters, query: event.target.value })
-          }
+          value={queryText}
+          onChange={(event) => setQueryText(event.target.value)}
+          onCompositionStart={() => setIsComposing(true)}
+          onCompositionEnd={(event) => {
+            // Safari fires compositionend *before* the final input event and
+            // Chrome after it, so read the value here rather than relying on
+            // onChange having already run.
+            setQueryText(event.currentTarget.value);
+            setIsComposing(false);
+          }}
           placeholder={messages.filters.searchPlaceholder}
+          autoComplete="off"
+          autoCorrect="off"
+          autoCapitalize="none"
+          spellCheck={false}
+          enterKeyHint="search"
           className="w-full rounded-md border border-line bg-paper px-3 py-2 text-sm text-ink placeholder:text-ink-faint"
         />
       </FilterGroup>
@@ -198,7 +271,7 @@ export function CatalogBrowser({
             <Chip
               key={value}
               active={filters.popularity === value}
-              onClick={() => update({ ...filters, popularity: value })}
+              onClick={() => update({ ...effectiveFilters, popularity: value }, sort)}
             >
               {messages.filters[value === "all" ? "all" : value]}
             </Chip>
@@ -213,7 +286,10 @@ export function CatalogBrowser({
               key={epoch}
               active={filters.epochs.includes(epoch)}
               onClick={() =>
-                update({ ...filters, epochs: toggleIn(filters.epochs, epoch) })
+                update(
+                  { ...effectiveFilters, epochs: toggleIn(filters.epochs, epoch) },
+                  sort,
+                )
               }
               title={EPOCH_YEARS[epoch]}
             >
@@ -230,7 +306,10 @@ export function CatalogBrowser({
               key={genre}
               active={filters.genres.includes(genre)}
               onClick={() =>
-                update({ ...filters, genres: toggleIn(filters.genres, genre) })
+                update(
+                  { ...effectiveFilters, genres: toggleIn(filters.genres, genre) },
+                  sort,
+                )
               }
             >
               {GENRE_LABELS[genre][locale]}
@@ -263,10 +342,13 @@ export function CatalogBrowser({
                   type="checkbox"
                   checked={filters.composerIds.includes(composer.id)}
                   onChange={() =>
-                    update({
-                      ...filters,
-                      composerIds: toggleIn(filters.composerIds, composer.id),
-                    })
+                    update(
+                      {
+                        ...effectiveFilters,
+                        composerIds: toggleIn(filters.composerIds, composer.id),
+                      },
+                      sort,
+                    )
                   }
                   className="accent-[var(--color-accent)]"
                 />
@@ -287,13 +369,20 @@ export function CatalogBrowser({
           type="button"
           onClick={() => {
             setComposerQuery("");
-            update({
-              query: "",
-              composerIds: [],
-              epochs: [],
-              genres: [],
-              popularity: "all",
-            });
+            // The field owns its text, so clearing the URL is not enough —
+            // `update` marks the empty query as ours, which suppresses the
+            // usual URL-to-field sync.
+            setQueryText("");
+            update(
+              {
+                query: "",
+                composerIds: [],
+                epochs: [],
+                genres: [],
+                popularity: "all",
+              },
+              sort,
+            );
           }}
           className="text-sm text-accent underline underline-offset-2"
         >
@@ -332,7 +421,7 @@ export function CatalogBrowser({
             <select
               value={sort}
               onChange={(event) =>
-                update(filters, event.target.value as SortKey)
+                update(effectiveFilters, event.target.value as SortKey)
               }
               className="rounded-md border border-line bg-paper px-2 py-1.5 text-sm text-ink"
             >
