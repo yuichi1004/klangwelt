@@ -1,11 +1,7 @@
 "use client";
 
-import {
-  useRouter,
-  useSearchParams,
-  type ReadonlyURLSearchParams,
-} from "next/navigation";
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 import { WorkCard } from "@/components/work-card";
 import { getMessages, type Locale } from "@/i18n/config";
@@ -19,15 +15,19 @@ import {
   type SearchableWork,
   type SortKey,
 } from "@/lib/catalog";
+import { readSavedCatalogQuery, saveCatalogQuery } from "@/lib/catalog-session";
 import type { WorkIndexRow } from "@/lib/catalog-types";
+import {
+  readFilters,
+  sanitizeQueryString,
+  writeFilters,
+} from "@/lib/catalog-url";
 import {
   EPOCHS,
   EPOCH_LABELS,
   EPOCH_YEARS,
   GENRES,
   GENRE_LABELS,
-  isEpoch,
-  isGenre,
   type Epoch,
   type Genre,
 } from "@/lib/epochs";
@@ -36,49 +36,6 @@ const PAGE_SIZE = 40;
 
 /** How long typing must pause before the query is written to the URL. */
 const QUERY_COMMIT_DELAY_MS = 250;
-
-/**
- * Filters live in the query string so a result set can be shared. Everything
- * except the search text is read straight back out of the URL; the text field
- * keeps its own state and writes to the URL on a debounce, because binding an
- * input's value to an asynchronous navigation breaks typing (see the note in
- * the component).
- */
-function readFilters(params: URLSearchParams | ReadonlyURLSearchParams): {
-  filters: CatalogFilters;
-  sort: SortKey;
-} {
-  const list = (key: string) =>
-    (params.get(key) ?? "").split(",").filter(Boolean);
-  const popularity = params.get("pop");
-  const sort = params.get("sort");
-
-  return {
-    filters: {
-      query: params.get("q") ?? "",
-      composerIds: list("c"),
-      epochs: list("e").filter(isEpoch),
-      genres: list("g").filter(isGenre),
-      popularity:
-        popularity === "popular" || popularity === "recommended"
-          ? popularity
-          : "all",
-    },
-    sort: sort === "title" || sort === "composer" ? sort : "popular",
-  };
-}
-
-function writeFilters(filters: CatalogFilters, sort: SortKey): string {
-  const params = new URLSearchParams();
-  if (filters.query) params.set("q", filters.query);
-  if (filters.composerIds.length) params.set("c", filters.composerIds.join(","));
-  if (filters.epochs.length) params.set("e", filters.epochs.join(","));
-  if (filters.genres.length) params.set("g", filters.genres.join(","));
-  if (filters.popularity !== "all") params.set("pop", filters.popularity);
-  if (sort !== "popular") params.set("sort", sort);
-  const query = params.toString();
-  return query ? `?${query}` : "";
-}
 
 function toggleIn<T>(list: T[], value: T): T[] {
   return list.includes(value)
@@ -187,6 +144,34 @@ export function CatalogBrowser({
   );
 
   /**
+   * Keeps the filters alive across an in-page trip to a work page and back.
+   *
+   * Restoring only fires once per mount, and only when the URL arrives empty
+   * — a shared link like `/ja?e=Baroque` always wins over whatever is saved.
+   * Following a site-internal link back to `/${locale}` remounts this
+   * component (it is a different route), so the restore runs; switching
+   * filters while already on the catalogue does not remount it, so clearing
+   * everything and then navigating elsewhere on the site does not bring the
+   * old filters back.
+   */
+  const queryString = useMemo(() => writeFilters(filters, sort), [filters, sort]);
+  const restoreChecked = useRef(false);
+
+  useEffect(() => {
+    if (!restoreChecked.current) {
+      restoreChecked.current = true;
+      if (queryString === "") {
+        const saved = sanitizeQueryString(readSavedCatalogQuery());
+        if (saved) {
+          router.replace(`/${locale}${saved}`, { scroll: false });
+          return;
+        }
+      }
+    }
+    saveCatalogQuery(queryString);
+  }, [queryString, locale, router]);
+
+  /**
    * Writes the search text to the URL once typing pauses.
    *
    * Re-running on every keystroke gives the debounce for free: the cleanup
@@ -238,6 +223,101 @@ export function CatalogBrowser({
     filters.genres.length +
     (filters.popularity === "all" ? 0 : 1) +
     (queryText ? 1 : 0);
+
+  const clearAll = useCallback(() => {
+    setComposerQuery("");
+    // The field owns its text, so clearing the URL is not enough — `update`
+    // marks the empty query as ours, which suppresses the usual
+    // URL-to-field sync.
+    setQueryText("");
+    update(
+      {
+        query: "",
+        composerIds: [],
+        epochs: [],
+        genres: [],
+        popularity: "all",
+      },
+      sort,
+    );
+  }, [sort, update]);
+
+  /** One removable chip per active filter, shown above the results so they
+   *  can be undone individually without opening the filter panel. */
+  const activeChips = useMemo(() => {
+    const chips: Array<{ key: string; label: string; onRemove: () => void }> =
+      [];
+
+    if (queryText) {
+      chips.push({
+        key: "query",
+        label: queryText,
+        onRemove: () => {
+          setQueryText("");
+          update({ ...effectiveFilters, query: "" }, sort);
+        },
+      });
+    }
+    if (filters.popularity !== "all") {
+      chips.push({
+        key: "popularity",
+        label: messages.filters[filters.popularity],
+        onRemove: () => update({ ...effectiveFilters, popularity: "all" }, sort),
+      });
+    }
+    for (const epoch of filters.epochs) {
+      chips.push({
+        key: `epoch-${epoch}`,
+        label: EPOCH_LABELS[epoch][locale],
+        onRemove: () =>
+          update(
+            { ...effectiveFilters, epochs: toggleIn(filters.epochs, epoch) },
+            sort,
+          ),
+      });
+    }
+    for (const genre of filters.genres) {
+      chips.push({
+        key: `genre-${genre}`,
+        label: GENRE_LABELS[genre][locale],
+        onRemove: () =>
+          update(
+            { ...effectiveFilters, genres: toggleIn(filters.genres, genre) },
+            sort,
+          ),
+      });
+    }
+    for (const composerId of filters.composerIds) {
+      const composer = composers.find((candidate) => candidate.id === composerId);
+      if (!composer) continue;
+      chips.push({
+        key: `composer-${composerId}`,
+        label: locale === "ja" ? composer.nameJa : composer.completeName,
+        onRemove: () =>
+          update(
+            {
+              ...effectiveFilters,
+              composerIds: toggleIn(filters.composerIds, composerId),
+            },
+            sort,
+          ),
+      });
+    }
+
+    return chips;
+  }, [
+    queryText,
+    filters.popularity,
+    filters.epochs,
+    filters.genres,
+    filters.composerIds,
+    composers,
+    effectiveFilters,
+    sort,
+    update,
+    messages.filters,
+    locale,
+  ]);
 
   const filterPanel = (
     <div className="space-y-6">
@@ -367,23 +447,7 @@ export function CatalogBrowser({
       {activeCount > 0 && (
         <button
           type="button"
-          onClick={() => {
-            setComposerQuery("");
-            // The field owns its text, so clearing the URL is not enough —
-            // `update` marks the empty query as ours, which suppresses the
-            // usual URL-to-field sync.
-            setQueryText("");
-            update(
-              {
-                query: "",
-                composerIds: [],
-                epochs: [],
-                genres: [],
-                popularity: "all",
-              },
-              sort,
-            );
-          }}
+          onClick={clearAll}
           className="text-sm text-accent underline underline-offset-2"
         >
           {messages.filters.reset}
@@ -444,6 +508,31 @@ export function CatalogBrowser({
             )}
           </button>
         </div>
+
+        {activeChips.length > 0 && (
+          <div
+            role="group"
+            aria-label={messages.filters.active}
+            className="mb-4 flex flex-wrap items-center gap-1.5"
+          >
+            {activeChips.map((chip) => (
+              <RemovableChip
+                key={chip.key}
+                onRemove={chip.onRemove}
+                ariaLabel={messages.filters.remove.replace("{name}", chip.label)}
+              >
+                {chip.label}
+              </RemovableChip>
+            ))}
+            <button
+              type="button"
+              onClick={clearAll}
+              className="ml-1 text-sm text-accent underline underline-offset-2"
+            >
+              {messages.filters.clearAll}
+            </button>
+          </div>
+        )}
 
         {results.length === 0 ? (
           <div className="rounded-lg border border-dashed border-line p-10 text-center">
@@ -577,6 +666,29 @@ function Chip({
       }`}
     >
       {children}
+    </button>
+  );
+}
+
+/** A chip for the active-filters row: its own label plus a `×` to remove it. */
+function RemovableChip({
+  onRemove,
+  ariaLabel,
+  children,
+}: {
+  onRemove: () => void;
+  ariaLabel: string;
+  children: React.ReactNode;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onRemove}
+      aria-label={ariaLabel}
+      className="flex max-w-full items-center gap-1.5 rounded-full border border-accent bg-accent-soft px-3 py-1.5 text-sm text-accent"
+    >
+      <span className="min-w-0 truncate break-words">{children}</span>
+      <span aria-hidden="true">×</span>
     </button>
   );
 }
