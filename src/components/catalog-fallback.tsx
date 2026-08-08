@@ -37,7 +37,7 @@ export function CatalogFallback({
             totalCount.toLocaleString(),
           )}
         </p>
-        <ul className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+        <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
           {works.map((work) => (
             <li key={work.id}>
               <WorkCard

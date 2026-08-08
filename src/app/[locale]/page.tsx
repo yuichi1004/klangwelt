@@ -34,15 +34,15 @@ export default async function CatalogPage(props: PageProps<"/[locale]">) {
 
   return (
     <>
-      <section className="border-b border-line bg-paper-raised">
-        <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-14">
-          <h1 className="text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
+      <section className="border-b border-terra/40 bg-terra-surface">
+        <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-20">
+          <h1 className="font-serif text-[1.75rem] font-medium leading-snug text-ink sm:text-4xl">
             {messages.site.tagline}
           </h1>
-          <p className="mt-3 max-w-2xl text-sm leading-relaxed text-ink-soft">
+          <p className="mt-4 max-w-2xl text-sm leading-loose text-ink-soft">
             {messages.site.description}
           </p>
-          <p className="mt-4 text-xs text-ink-faint">
+          <p className="mt-6 text-xs text-ink-faint">
             {locale === "ja"
               ? `作曲家 ${catalogMeta.composerCount}名 / 楽曲 ${catalogMeta.coreWorkCount.toLocaleString()}曲`
               : `${catalogMeta.composerCount} composers · ${catalogMeta.coreWorkCount.toLocaleString()} works`}

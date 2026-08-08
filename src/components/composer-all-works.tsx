@@ -62,9 +62,11 @@ export function ComposerAllWorks({
         type="button"
         onClick={() => setOpen((current) => !current)}
         aria-expanded={open}
-        className="flex w-full items-center justify-between rounded-lg border border-line px-4 py-3 text-sm text-ink-soft hover:border-accent/40"
+        className="flex w-full items-center justify-between rounded-lg border border-line bg-paper-raised px-5 py-4 text-sm text-ink-soft transition-colors hover:border-accent/50 hover:bg-accent-soft"
       >
-        <span className="font-medium text-ink">{messages.composer.allWorks}</span>
+        <span className="font-serif text-lg font-medium text-ink">
+          {messages.composer.allWorks}
+        </span>
         <span className="text-ink-faint">
           {messages.composer.allWorksCount.replace(
             "{count}",
@@ -113,7 +115,7 @@ export function ComposerAllWorks({
                 ))}
               </div>
 
-              <ul className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+              <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
                 {filtered.slice(0, visible).map((work) => (
                   <li key={work.id}>
                     <WorkCard

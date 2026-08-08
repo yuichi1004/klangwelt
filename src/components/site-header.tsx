@@ -31,11 +31,11 @@ export function SiteHeader({ locale }: { locale: Locale }) {
     href === `/${locale}` ? pathname === href : pathname.startsWith(href);
 
   return (
-    <header className="sticky top-0 z-30 border-b border-line bg-paper/90 backdrop-blur">
+    <header className="sticky top-0 z-30 border-b border-line bg-paper-raised/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center gap-3 px-4 py-3 sm:px-6">
         <Link
           href={`/${locale}`}
-          className="mr-auto text-lg font-semibold tracking-tight text-ink"
+          className="mr-auto font-serif text-xl font-medium tracking-tight text-ink"
         >
           {messages.site.name}
         </Link>
@@ -73,7 +73,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
               }}
               className={`rounded-full px-2.5 py-1 text-xs font-medium transition-colors ${
                 candidate === locale
-                  ? "bg-ink text-paper"
+                  ? "bg-accent-fill text-accent-ink"
                   : "text-ink-faint hover:text-ink"
               }`}
             >

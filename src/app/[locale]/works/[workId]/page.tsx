@@ -87,7 +87,7 @@ export default async function WorkPage(
 
       <header className="mt-4 flex items-start gap-3">
         <div className="min-w-0 flex-1">
-          <h1 className="text-2xl font-semibold leading-tight tracking-tight text-ink sm:text-3xl">
+          <h1 className="font-serif text-2xl font-medium leading-snug text-ink sm:text-3xl">
             {title}
           </h1>
           {showOriginal && (
@@ -104,7 +104,7 @@ export default async function WorkPage(
       </header>
 
       <section className="mt-8">
-        <h2 className="mb-3 text-sm font-semibold text-ink">
+        <h2 className="mb-3 font-serif text-lg font-medium text-ink">
           {messages.work.listenHeading}
         </h2>
         <StreamingButtons locale={locale} links={links} />
@@ -113,7 +113,7 @@ export default async function WorkPage(
       <WorkDataPanel locale={locale} work={work} composer={composer} />
 
       <section className="mt-8">
-        <h2 className="mb-3 text-sm font-semibold text-ink">
+        <h2 className="mb-3 font-serif text-lg font-medium text-ink">
           {messages.work.notesHeading}
         </h2>
         {editorial ? (
@@ -123,7 +123,7 @@ export default async function WorkPage(
                 <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
                   {messages.work.structureHeading}
                 </h3>
-                <p className="whitespace-pre-line text-sm leading-relaxed text-ink-soft">
+                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
                   {editorial.structure[locale]}
                 </p>
               </div>
@@ -133,7 +133,7 @@ export default async function WorkPage(
                 <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
                   {messages.work.storyHeading}
                 </h3>
-                <p className="whitespace-pre-line text-sm leading-relaxed text-ink-soft">
+                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
                   {editorial.story[locale]}
                 </p>
               </div>
@@ -147,11 +147,11 @@ export default async function WorkPage(
       </section>
 
       {siblings.length > 0 && (
-        <section className="mt-10">
-          <h2 className="mb-3 text-sm font-semibold text-ink">
+        <section className="mt-12">
+          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
             {messages.work.moreByComposer.replace("{name}", composerName)}
           </h2>
-          <ul className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+          <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
             {siblings.map((sibling) => (
               <li key={sibling.id}>
                 <WorkCard
@@ -228,7 +228,7 @@ function WorkDataPanel({
 
   return (
     <section className="mt-8">
-      <h2 className="mb-3 text-sm font-semibold text-ink">
+      <h2 className="mb-3 font-serif text-lg font-medium text-ink">
         {messages.work.dataHeading}
       </h2>
       <dl className="overflow-hidden rounded-lg border border-line">

@@ -37,14 +37,14 @@ export default async function ComposersPage(
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6 sm:py-12">
-      <h1 className="text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
+      <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
         {messages.nav.composers}
       </h1>
 
       {byEpoch.map((group) => (
         <section key={group.epoch} className="mt-10">
           <h2 className="mb-4 flex items-baseline gap-3 border-b border-line pb-2">
-            <span className="text-lg font-medium text-ink">
+            <span className="font-serif text-xl font-medium text-ink">
               {EPOCH_LABELS[group.epoch][locale]}
             </span>
             <span className="text-xs text-ink-faint">

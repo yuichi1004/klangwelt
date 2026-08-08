@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Inter, Lora } from "next/font/google";
 import { notFound } from "next/navigation";
 
 import "../globals.css";
@@ -12,6 +12,19 @@ import { getMessages, isLocale, LOCALES, type Locale } from "@/i18n/config";
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
+  display: "swap",
+});
+
+/**
+ * Latin serif for headings. Japanese headings fall through to the OS Mincho
+ * (see `--font-serif` in globals.css) rather than pulling a CJK webfont:
+ * self-hosting Noto Serif JP means 248 font files and roughly 27 MB in the
+ * build output, which this project deliberately avoids.
+ */
+const lora = Lora({
+  subsets: ["latin"],
+  weight: ["500", "600"],
+  variable: "--font-lora",
   display: "swap",
 });
 
@@ -51,7 +64,7 @@ export default async function LocaleLayout(props: LayoutProps<"/[locale]">) {
   if (!isLocale(locale)) notFound();
 
   return (
-    <html lang={locale} className={inter.variable}>
+    <html lang={locale} className={`${inter.variable} ${lora.variable}`}>
       <body className="flex min-h-screen flex-col font-sans">
         <FavoritesProvider>
           <SiteHeader locale={locale as Locale} />

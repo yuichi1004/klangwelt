@@ -1,40 +1,60 @@
 @import "tailwindcss";
 
+/*
+ * "Warmth and resonance" — the colour of wood, late-afternoon light and a
+ * room lit by a fire. Dark only: the palette is built around a deep olive
+ * ground with parchment text, and a light inversion would mean inventing a
+ * second set of colours that says something different.
+ *
+ * Every value below has been checked for WCAG contrast; the ratios in the
+ * comments are against the surfaces each token is actually used on, and
+ * `src/app/theme.test.ts` fails the build if a change drops one below AA.
+ */
 @theme {
-  --color-ink: #14110f;
-  --color-ink-soft: #4a423c;
-  --color-ink-faint: #7d736b;
-  --color-paper: #fbf9f6;
-  --color-paper-raised: #ffffff;
-  --color-line: #e5ded4;
-  --color-accent: #8a5a2b;
-  --color-accent-soft: #f0e6d8;
+  /* Surfaces. The card sits only 1.34:1 above the page, so cards always
+     carry a border rather than relying on the fill alone to separate them. */
+  --color-paper: #2c3630;
+  --color-paper-raised: #3d4a3e;
+  --color-line: #5a6a54;
+
+  /* Text. ink-soft and ink-faint are lightened from the brief's #A8A59E,
+     which reads at only 3.80 on olive — too low for the composer names and
+     badges inside cards. Hue is unchanged; only lightness moved. */
+  --color-ink: #f4f1ea; /* page 11.10, card 8.28 */
+  --color-ink-soft: #bfbab0; /* page  6.48, card 4.83 */
+  --color-ink-faint: #b6bdb0; /* page  6.49, card 4.85 */
+
+  /* Amber — the light at dusk. Split by role: the brief's #D97D27 is fine as
+     a fill but only 3.08 as text, so type and icons use the lighter tone and
+     the CTA keeps the original as its ground with a dark label. */
+  --color-accent: #f0a960; /* page  6.29, card 4.69 */
+  --color-accent-fill: #d97d27; /* vs page 4.12 (UI 3:1) */
+  --color-accent-ink: #241e17; /* on amber fill 5.43 */
+  --color-accent-soft: #4a3b26; /* hover and selected surfaces */
+
+  /* Terracotta — earth and depth. Decorative only: at 1.98 on olive it can
+     never carry text. Tags and section grounds use the darkened tone. */
+  --color-terra: #b35a42;
+  --color-terra-surface: #5a3a31; /* parchment on it: 8.93 */
+
+  /* Curves rather than corners, echoing the body of a string instrument. */
+  --radius-md: 0.625rem;
+  --radius-lg: 0.875rem;
+  --radius-xl: 1.25rem;
+
+  /* Headings are set in a serif for the weight of history; body text stays
+     sans for legibility. Japanese falls back to whichever Mincho the OS
+     ships — self-hosting Noto Serif JP would add 248 files and ~27 MB to the
+     build, and every desktop and mobile platform already has one. */
+  --font-serif:
+    var(--font-lora), "Hiragino Mincho ProN", "Yu Mincho", "YuMincho",
+    "Noto Serif CJK JP", "Noto Serif JP", serif;
   --font-sans:
     var(--font-inter), "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
 }
 
-/*
- * Dark mode overrides the custom properties on :root rather than declaring a
- * second `@theme` block. `@theme` is not media-query aware — nesting it here
- * replaces the light palette outright, leaving the site dark in both schemes.
- * Tailwind's generated utilities read `var(--color-*)`, so re-assigning the
- * same names at runtime is all that is needed.
- */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-ink: #f2ece4;
-    --color-ink-soft: #c4b8aa;
-    --color-ink-faint: #8d8177;
-    --color-paper: #16130f;
-    --color-paper-raised: #211c17;
-    --color-line: #332c25;
-    --color-accent: #d8a25f;
-    --color-accent-soft: #2c231a;
-  }
-}
-
 html {
-  color-scheme: light dark;
+  color-scheme: dark;
 }
 
 body {
@@ -47,5 +67,5 @@ body {
 :focus-visible {
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
-  border-radius: 2px;
+  border-radius: 4px;
 }
