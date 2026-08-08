@@ -17,6 +17,7 @@ Next.js 16（App Router）を `output: "export"` で完全静的出力する。�
 | 生成ページ数 | 3,022（2言語） |
 
 ```
+assets/brand/            ロゴ原画（アイコン生成の元、配信はしない）
 data/
   raw/openopus.json      Open Opus の生レスポンス（シード時に取得、コミット済み）
   catalog/               配信用に整形した JSON（サーバーコンポーネントが直接 import）
@@ -25,6 +26,7 @@ data/
   portraits.json         肖像画1点ごとの出典・ライセンス台帳
 public/
   index.html             `/` の言語振り分け（静的、JS のみ）
+  favicon.ico, icon-*.png, apple-touch-icon.png
   portraits/             肖像画
   data/                  遅延ロードされる JSON（全曲インデックス・作曲家別全作品）
 scripts/seed/            データ取得・生成スクリプト（手動実行）
@@ -58,6 +60,7 @@ npx serve out      # 出力を静的配信して確認
 npm run seed:openopus    # Open Opus から作曲家・楽曲を取得（約2分）
 npm run seed:portraits   # Wikidata/Commons から肖像画を取得（約15分）
 npm run seed:catalog     # 配信用 JSON を生成（数秒）
+npm run build:icons      # assets/brand のロゴから favicon 一式を生成
 ```
 
 `seed:catalog` は他の2つの出力と `data/ja/`・`data/editorial/` を読むので、日本語データや解説文を書き足したあとは必ず再実行する。
@@ -76,6 +79,7 @@ Vercel にリポジトリを接続するだけでよい。Next.js が自動検�
 
 - **楽曲・作曲家メタデータ**: [Open Opus](https://openopus.org/) — CC0 1.0（パブリックドメイン）。同プロジェクトの PHP 実装は GPLv3 だが、本プロジェクトはコードを一切利用していないため GPL は及ばない。
 - **肖像画**: Wikimedia Commons。Wikidata の P18 プロパティ経由で取得し、パブリックドメインまたは CC のフリーライセンスと確認できたものだけを採用している。Open Opus も肖像画を配布しているが、1点ごとの出典・ライセンスを開示しておらず、収録作曲家220名のうち72名は1955年以降に没または存命であるため、再配布は避けた。判定ロジックは `src/lib/licenses.ts`、台帳は `data/portraits.json`、検証テストは `src/lib/licenses.test.ts` にある。
+- **ロゴ・ファビコン**: `assets/brand/klangwelt-k.jpg` を元に生成。本プロジェクト固有の素材。
 - **解説文**: 本プロジェクトのために書き下ろしたもの。執筆時の注意は [CONTRIBUTING.md](./CONTRIBUTING.md) を参照。
 - **Spotify / YouTube Music**: 各サービスの検索ページへのリンクのみ。本サイトは両社と提携関係にない。
 
