@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Klangwelt</title>
+    <link rel="alternate" hreflang="ja" href="/ja" />
+    <link rel="alternate" hreflang="en" href="/en" />
+    <link rel="alternate" hreflang="x-default" href="/ja" />
+    <!--
+      Static language splash for `/`.
+
+      The whole site is exported statically so there is no middleware and no
+      serverless function to negotiate the language — this page does it in the
+      browser instead, honouring a previously chosen locale before falling
+      back to the browser's own preference.
+    -->
+    <script>
+      (function () {
+        var locales = ["ja", "en"];
+        var chosen = null;
+        try {
+          chosen = window.localStorage.getItem("klangwelt.locale");
+        } catch (error) {
+          /* storage blocked; fall through to language detection */
+        }
+        if (locales.indexOf(chosen) === -1) {
+          var preferred = navigator.languages || [navigator.language || "ja"];
+          chosen = "ja";
+          for (var i = 0; i < preferred.length; i++) {
+            var tag = String(preferred[i]).toLowerCase();
+            if (tag.indexOf("ja") === 0) {
+              chosen = "ja";
+              break;
+            }
+            if (tag.indexOf("en") === 0) {
+              chosen = "en";
+              break;
+            }
+          }
+        }
+        window.location.replace("/" + chosen + window.location.search);
+      })();
+    </script>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: #fbf9f6;
+        color: #4a423c;
+        font-family: system-ui, sans-serif;
+      }
+      a {
+        color: #8a5a2b;
+      }
+      @media (prefers-color-scheme: dark) {
+        body {
+          background: #16130f;
+          color: #c4b8aa;
+        }
+        a {
+          color: #d8a25f;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Shown only when JavaScript is unavailable. -->
+    <noscript>
+      <p>
+        <a href="/ja">日本語で見る</a> · <a href="/en">View in English</a>
+      </p>
+    </noscript>
+  </body>
+</html>
