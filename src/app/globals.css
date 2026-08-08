@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #14110f;
+  --color-ink-soft: #4a423c;
+  --color-ink-faint: #7d736b;
+  --color-paper: #fbf9f6;
+  --color-paper-raised: #ffffff;
+  --color-line: #e5ded4;
+  --color-accent: #8a5a2b;
+  --color-accent-soft: #f0e6d8;
+  --font-sans:
+    var(--font-inter), "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+}
+
+/*
+ * Dark mode overrides the custom properties on :root rather than declaring a
+ * second `@theme` block. `@theme` is not media-query aware — nesting it here
+ * replaces the light palette outright, leaving the site dark in both schemes.
+ * Tailwind's generated utilities read `var(--color-*)`, so re-assigning the
+ * same names at runtime is all that is needed.
+ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-ink: #f2ece4;
+    --color-ink-soft: #c4b8aa;
+    --color-ink-faint: #8d8177;
+    --color-paper: #16130f;
+    --color-paper-raised: #211c17;
+    --color-line: #332c25;
+    --color-accent: #d8a25f;
+    --color-accent-soft: #2c231a;
+  }
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Keyboard focus stays visible everywhere; pointer focus does not. */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
