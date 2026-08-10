@@ -37,7 +37,7 @@
   "8": {
     "name": "Frederick Delius",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "9": {
     "name": "Marc-Antoine Charpentier",
@@ -62,7 +62,7 @@
   "13": {
     "name": "Michael Tippett",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "14": {
     "name": "Carlo Gesualdo",
@@ -107,7 +107,7 @@
   "22": {
     "name": "Edgard Varèse",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "23": {
     "name": "Clément Janequin",
@@ -162,7 +162,7 @@
   "33": {
     "name": "Josef Suk",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "34": {
     "name": "Zoltán Kodály",
@@ -182,7 +182,7 @@
   "37": {
     "name": "Manuel de Falla",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "38": {
     "name": "George Enescu",
@@ -212,12 +212,12 @@
   "43": {
     "name": "Alexander Borodin",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "44": {
     "name": "William Walton",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "45": {
     "name": "Camille Saint-Saëns",
@@ -247,7 +247,7 @@
   "50": {
     "name": "Josquin Des Prez",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "51": {
     "name": "Vincenzo Bellini",
@@ -262,7 +262,7 @@
   "53": {
     "name": "Gabriel Fauré",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "54": {
     "name": "John Taverner",
@@ -297,12 +297,12 @@
   "60": {
     "name": "Gioachino Rossini",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "61": {
     "name": "Ernest Chausson",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "62": {
     "name": "Arnold Schoenberg",
@@ -362,7 +362,7 @@
   "73": {
     "name": "Dietrich Buxtehude",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "74": {
     "name": "John Field",
@@ -372,7 +372,7 @@
   "75": {
     "name": "Gustav Holst",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "76": {
     "name": "Enrique Granados",

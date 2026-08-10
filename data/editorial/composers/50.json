@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "フランス・フランドル楽派を代表するルネサンス期最大の作曲家とされ、同時代人であったマルティン・ルターをはじめ、当時から高い賞賛を受けていた。イタリア各地の宮廷やローマ教皇庁のシスティーナ礼拝堂聖歌隊、フランス王室など、名だたる後援者のもとで活動した。\n生年や初期の経歴について確実にわかっていることは少なく、伝わる伝記的事実の多くは同時代人の証言ではなく、断片的に残る支払い記録などの文書資料からの推測に基づいている。あまりに名声が高かったため、他の作曲家の作品が権威づけのために彼の名で流通することもあり、これは今日の研究者が真作を特定する際の課題になっている。",
+    "en": "He is regarded as the greatest composer of the Renaissance Franco-Flemish polyphonic school, praised highly even in his own lifetime, including by his contemporary Martin Luther. He worked for a succession of prestigious patrons, including courts across Italy, the Sistine Chapel choir in Rome, and the French royal court.\nLittle is known with certainty about his early life and exact chronology; most surviving biographical facts are inferred not from contemporary testimony but from scattered archival payment records. His fame was such that other composers' works were sometimes circulated under his name to lend them prestige, a documented attribution problem that still complicates the modern scholarly catalogue of his authentic works."
+  },
+  "style": {
+    "ja": "各声部が同じ旋律的な着想を順に模倣しながら多声の織物を織りなす模倣対位法を、当時としては前例のない大規模な構造的統一感と、歌詞に応じた表現力とともに駆使した。宗教的な声楽曲において、多声の書法を歌われる歌詞の感情的・修辞的な意味に応答させる技法——言葉の描写や表現力豊かな朗誦——を切り拓き、それ以前の世代のより抽象的な多声書法からの大きな転換をもたらした。ミサ曲、モテット、世俗のシャンソンのいずれにおいても等しく高い完成度を示し、当時の声楽ジャンル全体を包括的に極めていたことをうかがわせる。",
+    "en": "He mastered pervasive imitative counterpoint — each vocal line entering in turn with the same melodic idea, weaving through the polyphonic texture — applied with a then-unprecedented sense of large-scale structural unity and expressive text-setting. In sacred vocal music he pioneered techniques for making the polyphonic texture responsive to the emotional and rhetorical meaning of the sung text — word-painting and expressive declamation — a significant departure from the more purely abstract polyphonic construction of earlier generations. He wrote masses, motets and secular chansons with equal mastery, demonstrating a comprehensive command of the full vocal genres of his era."
+  },
+  "impact": {
+    "ja": "パレストリーナ以前のルネサンス期においてもっとも影響力のあった作曲家として音楽学者に広く認められており、その模倣対位法と表現力豊かな歌詞設定の技法は、以後何世代にもわたってヨーロッパ各地の宗教的多声音楽の作曲における基礎的な模範になった。他の作曲家の作品が彼の名で流通するほどの当時の名声の大きさそのものが、この時代に生まれつつあった楽譜出版市場において、作曲家の評判が一種の文化的通貨として機能していたことを示す歴史的な証拠として重要である。",
+    "en": "He is widely regarded by musicologists as the most influential composer of the Renaissance before Palestrina; his imitative counterpoint and expressive text-setting techniques became the foundational model for sacred polyphonic composition for generations of composers across Europe who followed him. The sheer scale of his contemporary fame, including the phenomenon of misattributed works circulated under his name, is itself historically significant as evidence of how a composer's reputation could function as a form of cultural currency in the music-publishing marketplace then beginning to emerge."
+  },
+  "keywords": {
+    "ja": [
+      "模倣対位法の確立",
+      "歌詞に応答する表現力",
+      "名声ゆえの帰属問題"
+    ],
+    "en": [
+      "Establishing imitative counterpoint",
+      "Text-responsive expression",
+      "An attribution problem born of fame"
+    ]
+  }
+}

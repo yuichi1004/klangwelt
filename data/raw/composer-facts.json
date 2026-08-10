@@ -278,7 +278,7 @@
  {
   "composerId": "8",
   "wikidataId": "Q312698",
-  "birthPlace": "Q22905",
+  "birthPlace": "Bradford",
   "deathPlace": "Grez-sur-Loing",
   "teachers": [
    "Carl Reinecke"
@@ -286,7 +286,7 @@
   "students": [],
   "notableWorks": [
    "Piano Concerto",
-   "Q2109950",
+   "Légende",
    "Requiem"
   ],
   "movements": [],
@@ -647,8 +647,7 @@
    "Sergei Ivanovich Taneyev"
   ],
   "students": [
-   "Alfred La Liberté",
-   "Q111077443"
+   "Alfred La Liberté"
   ],
   "notableWorks": [],
   "movements": [
@@ -720,7 +719,6 @@
   "teachers": [],
   "students": [],
   "notableWorks": [
-   "Q2427480",
    "Symphony No. 4"
   ],
   "movements": [],
@@ -1451,8 +1449,7 @@
    "Romanian Rhapsody No. 1",
    "Poeme roumain",
    "Œdipe",
-   "Violin Sonata No. 3",
-   "Q3503312"
+   "Violin Sonata No. 3"
   ],
   "movements": [],
   "instruments": [
@@ -1633,7 +1630,6 @@
   ],
   "notableWorks": [
    "Concerto da Camera in C minor for piano and String Quartet",
-   "Q1942981",
    "Merry Mount"
   ],
   "movements": [],
@@ -2114,8 +2110,7 @@
    "Knight of the Legion of Honour",
    "Officer of the Legion of Honour",
    "Commander of the Legion of Honour",
-   "Grand Officer of the Legion of Honour",
-   "Q62096450"
+   "Grand Officer of the Legion of Honour"
   ],
   "employers": [
    "Conservatoire de Paris"
@@ -3007,8 +3002,7 @@
    "Goyescas",
    "Partitura",
    "Danzas Españolas",
-   "María del Carmen",
-   "Q3476609"
+   "María del Carmen"
   ],
   "movements": [],
   "instruments": [
@@ -3208,7 +3202,6 @@
   "notableWorks": [
    "Raise the Roof",
    "Fire and Blood",
-   "Q2552678",
    "UFO"
   ],
   "movements": [],
@@ -4141,7 +4134,6 @@
    "Margaret Sutherland"
   ],
   "notableWorks": [
-   "Q15734289",
    "Symphony No. 4",
    "Symphony No. 2",
    "Symphony No. 1",
@@ -4302,7 +4294,6 @@
   "teachers": [],
   "students": [],
   "notableWorks": [
-   "Q1851908",
    "Piano Concerto No. 2"
   ],
   "movements": [],
@@ -4342,7 +4333,6 @@
   ],
   "notableWorks": [
    "Tom Sawyer",
-   "Q2265816",
    "Symphony No. 4",
    "Secret communication system"
   ],
@@ -5524,7 +5514,6 @@
   "teachers": [],
   "students": [],
   "notableWorks": [
-   "Q2097043",
    "Symphony No. 0",
    "Symphony No. 9"
   ],
@@ -6990,7 +6979,6 @@
    "Albert Leman",
    "Salix Säydäşef",
    "Näcip Cihanof",
-   "Q41890274",
    "Nikolay Peyko",
    "Vissarion Shebalin"
   ],
@@ -7842,7 +7830,6 @@
    "Magnificat",
    "Die Auferstehung und Himmelfahrt Jesu",
    "Die Israeliten in der Wüste",
-   "Q15857789",
    "Versuch über die wahre Art das Clavier zu spielen",
    "Klopstocks Morgengesang am Schöpfungsfeste"
   ],
@@ -8253,7 +8240,6 @@
    "Lorne Betts"
   ],
   "notableWorks": [
-   "Q2014949",
    "Folk Song Symphony"
   ],
   "movements": [],
@@ -8329,7 +8315,6 @@
   "students": [],
   "notableWorks": [
    "Polish Requiem",
-   "Q1813637",
    "Symphony No. 8"
   ],
   "movements": [],

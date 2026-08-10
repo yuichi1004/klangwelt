@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "パリ音楽院ではなく、教会音楽を専門とするニデルメイエール学校で学び、グレゴリオ聖歌や古い教会旋法についての素養を身につけた。これは通常の音楽院教育とは異なる出自である。フランクやブルックナーと同様、長年教会オルガニストとして働きながら作曲を続けた。\nキャリア後期にはパリ音楽院の院長に就任し、ラヴェル、ナディア・ブーランジェ、エネスクをはじめ多くの重要な音楽家を育てた。晩年は次第に聴力を失いながらも作曲を続けている。",
+    "en": "Rather than the Paris Conservatoire, he studied at the École Niedermeyer, a school specialising in church music, which gave him a grounding in Gregorian chant and the old church modes distinct from mainstream conservatory training. Like Franck and Bruckner, he worked for decades as a church organist while composing.\nLate in his career he became director of the Paris Conservatoire, where he taught Ravel, Nadia Boulanger, Enescu and many other important musicians. In his final years he gradually lost his hearing but continued to compose."
+  },
+  "style": {
+    "ja": "遠い調性の間を、劇的な転換や唐突さを伴わずに滑らかに移り変わっていく、抑制の効いた洗練された和声の動きを特徴とする、独自の和声語法を持つ。これは技術的にも際立った特徴で、後期ロマン派と、教え子たちが切り拓くことになる印象主義とを橋渡しする、当時もっとも洗練され静かに革新的な和声語彙の一つと評されている。教会音楽の教育で身につけたグレゴリオ聖歌の旋法は、世俗的な歌曲や室内楽においても独特の旋法的な風合いを旋律にもたらしている。「レクイエム」は多くのレクイエムが劇的に描く「怒りの日」の歌詞をあえて省き、死を穏やかに慰めに満ちたものとして描くという、意図的な選択によって同時代のより演劇的なレクイエムとは一線を画している。",
+    "en": "His harmonic language moves smoothly between distantly related keys without abrupt or dramatic transitions, achieving a uniquely understated, refined sense of harmonic motion — a technically distinctive trait, described by scholars as among the most sophisticated and quietly innovative harmonic vocabularies of his era, bridging late Romanticism and the Impressionism his students would go on to develop. His grounding in Gregorian modes from his church-music training gave even his secular songs and chamber works a distinctive modal flavour. His *Requiem* notably omits the dramatic 'Dies Irae' text that most Requiem settings dramatise, emphasising instead a serene, consoling vision of death — a deliberate choice that sets it apart from the more theatrical Requiems of his contemporaries."
+  },
+  "impact": {
+    "ja": "パリ音楽院の院長として、またラヴェルやブーランジェ、エネスクらの師として、驚くほど影響力の大きい師弟の系譜の頂点に立っている。ブーランジェ一人だけをとっても、その教え子にはコプランド、バーンスタイン、グラス、ヒナステラの弟子ピアソラまで含まれ、フォーレの教育的な影響は二段階を経て、このデータセット全体に登場する20世紀音楽の広大な領域にまで及んでいる。抑制の効いた洗練された和声語法は、彼自身は通常印象主義には分類されないものの、ロマン派の和声とドビュッシーやラヴェルの印象主義的な革新とを結ぶ重要な橋渡しとして音楽史家に評価されている。「レクイエム」の静謐で演劇的でないアプローチは、この分野における影響力のある代替モデルを確立し、後続のレクイエム作曲家たちに今も参照されている。",
+    "en": "As director of the Paris Conservatoire and teacher of Ravel, Boulanger and Enescu among others, he sits at the head of an extraordinarily influential teaching lineage — Boulanger alone went on to teach Copland, Bernstein, Glass and, through Ginastera, Piazzolla, meaning his pedagogical influence reaches, at two removes, across an enormous swath of twentieth-century music. His understated, refined harmonic language is credited by historians as an important bridge between Romantic harmony and the Impressionist innovations of Debussy and Ravel, even though he himself is not usually classified as an Impressionist. His *Requiem*'s serene, non-dramatic approach to the genre established an influential alternative model still referenced by later composers writing Requiem settings."
+  },
+  "keywords": {
+    "ja": [
+      "抑制の効いた和声語法",
+      "教会旋法に根ざした旋律感覚",
+      "驚異的な師弟の系譜"
+    ],
+    "en": [
+      "Understated harmonic language",
+      "Melody rooted in church modes",
+      "An extraordinary teaching lineage"
+    ]
+  }
+}
