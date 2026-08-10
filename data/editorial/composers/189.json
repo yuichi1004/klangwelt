@@ -2,5 +2,25 @@
   "biography": {
     "ja": "肉屋の家に生まれ、プラハのオルガン学校で学んだ。長く無名だったが、ブラームスに才能を認められて楽譜出版の道が開け、40代で国際的な名声を得た。\n1892年から3年間、ニューヨークの音楽院の院長として渡米する。この滞在中に交響曲第9番「新世界より」、弦楽四重奏曲「アメリカ」、チェロ協奏曲を書いた。ボヘミアの舞曲のリズムと、アメリカで耳にした黒人霊歌や先住民の音楽への関心が交差したのがこの時期の作品である。",
     "en": "The son of a butcher, he trained at the organ school in Prague. He remained obscure for years until Brahms recognised his talent and opened the door to publication; international fame came in his forties.\nFrom 1892 he spent three years in New York as director of a conservatory, and it was there that he wrote the Ninth Symphony (*From the New World*), the *American* quartet and the Cello Concerto. The music of those years sits at the crossing point of Bohemian dance rhythms and his interest in the spirituals and Native American music he encountered in the United States."
+  },
+  "style": {
+    "ja": "ボヘミアの舞曲に由来するリズムと、民謡のように親しみやすい旋律を、ブラームスから受け継いだドイツ的に堅固な形式の中で書いた。旋律をつくる才能に恵まれ、素朴に聞こえる主題の多くは実際には彼自身の創作である。弦と木管を柔らかく溶け合わせる管弦楽法も持ち味とした。",
+    "en": "He set rhythms drawn from Bohemian dance and melodies with a folk-like immediacy inside formal structures as solid as anything he learned from Brahms. He had an unusually generous gift for melody, and many themes that sound like folk tunes are in fact entirely his own. His orchestration favours a soft blending of strings and woodwinds."
+  },
+  "impact": {
+    "ja": "民族的な素材を、交響曲や室内楽といったドイツ・オーストリア系の大きな形式のなかで洗練された音楽として書けることを示し、各地の国民楽派の作曲家たちにとっての手本となった。ニューヨークの音楽院の院長を務めた際には、アメリカの作曲家に自国の民謡や黒人霊歌、先住民の音楽を素材にするよう説き、その後のアメリカ音楽の方向性にも影響を与えた。",
+    "en": "He showed that folk-rooted material could be written into the large Austro-German forms — the symphony, chamber music — without losing sophistication, and became a model for national-school composers elsewhere. While directing the conservatory in New York he urged American composers to draw on their own folk songs, spirituals and Native American music, shaping the direction American concert music later took."
+  },
+  "keywords": {
+    "ja": [
+      "民族色と交響的構成の融合",
+      "歌うような旋律",
+      "国民楽派の手本"
+    ],
+    "en": [
+      "Folk idiom in symphonic form",
+      "Singing melody",
+      "Model for national schools"
+    ]
   }
 }

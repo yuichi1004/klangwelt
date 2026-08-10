@@ -2,5 +2,25 @@
   "biography": {
     "ja": "ワルシャワ近郊に生まれ、20歳でポーランドを離れてパリに定住した。故郷はその後、蜂起の失敗によりロシアの統治下に入り、彼は二度と帰ることがなかった。\n作品のほぼすべてがピアノのための音楽である。マズルカとポロネーズという故国の舞曲の形式を、洗練された和声とともに芸術音楽へと引き上げた。演奏はもっぱら少人数のサロンで行い、大ホールでの演奏会をほとんど開かなかった。",
     "en": "Born near Warsaw, he left Poland at twenty and settled in Paris. After the failed uprising his homeland passed under Russian rule, and he never returned.\nAlmost everything he wrote is for piano. He took the mazurka and polonaise, the dance forms of his country, and raised them into art music with a harmonic refinement no one had brought to them before. He played almost exclusively in small salons and gave very few public concerts."
+  },
+  "style": {
+    "ja": "小規模な形式の中に大胆な転調と半音階的な和声を凝縮させ、テンポを一定に保たず微妙に伸び縮みさせる「ルバート」を旋律表現の核に据えた。ピアノという楽器の共鳴と手の動きに即した書法を追求し、他の楽器へ編曲することを前提としない、ピアノでしか成立しない音楽を書いた。",
+    "en": "Within small forms he packed bold modulations and chromatic harmony, and put a flexible, unmetronomic *rubato* at the centre of how a melody breathes. He wrote for the piano's own resonance and the hand's own reach, producing music that works only on that instrument rather than music that happens to be scored for it."
+  },
+  "impact": {
+    "ja": "彼が切り拓いた半音階的な和声は、リストやワーグナーら後続の作曲家が推し進めた語法の先触れとなった。前奏曲や夜想曲、バラードといった小規模な性格的小品を、ソナタ形式の大曲に劣らない内容を持つ音楽として確立し、以後の作曲家たちがピアノのための小品を書く際の手本になっている。",
+    "en": "The chromatic harmony he opened up anticipated language that Liszt and Wagner would push further. He established the short character piece — prelude, nocturne, ballade — as capable of carrying as much musical weight as a large sonata-form work, and it became the model later composers reached for when writing shorter pieces for piano."
+  },
+  "keywords": {
+    "ja": [
+      "半音階的和声",
+      "ルバート",
+      "性格的小品"
+    ],
+    "en": [
+      "Chromatic harmony",
+      "Rubato",
+      "Character pieces"
+    ]
   }
 }

@@ -2,5 +2,25 @@
   "biography": {
     "ja": "フィンランドがロシア帝国の統治下にあった時代に生まれ、その音楽は独立運動の象徴として受け止められた。交響詩「フィンランディア」は、ロシア当局の検閲を避けるため別の題名で演奏されたこともある。\n7曲の交響曲では、断片的な動機が次第に集まって一つの主題を形づくるという独自の構成法を深めていった。60歳を前に第8番の作曲に取りかかったが完成させず、その後30年近く、ほとんど新作を発表しないまま生涯を終えた。",
     "en": "He was born while Finland was under Russian rule, and his music came to be heard as a symbol of the independence movement — the tone poem *Finlandia* was sometimes performed under an alternative title to slip past the censors.\nAcross seven symphonies he developed a way of building a movement in which fragmentary motifs gradually converge into a single theme. He began an eighth in his late fifties but never finished it, and spent nearly thirty further years publishing almost nothing new."
+  },
+  "style": {
+    "ja": "民謡の旋律を直接引用することは少なく、その代わりに北欧の民俗音楽に通じる旋法的な響きを独自の語法として使った。長く保持される低音や、ゆっくりと移り変わる和声の層を重ねることで、自然の広がりを思わせる音楽をつくった。交響曲第7番では複数楽章の構成を一つの連続した楽章に凝縮させ、交響曲という形式そのものを解体寸前まで押し進めた。",
+    "en": "He rarely quoted a folk tune outright, using instead a modal sonority related to Nordic folk music as a language of his own. Long-held bass notes and slowly shifting layers of harmony give his music a sense of open, natural expanse. In the Seventh Symphony he compressed a multi-movement design into a single continuous span, pushing the symphony as a form almost to the point of dissolving it."
+  },
+  "impact": {
+    "ja": "小国フィンランドから出た作曲家として、独墺仏露の中心地に依らない独自の交響的な声を打ち立て、他の周辺地域の作曲家たちが自国の語法を探る際の手本になった。晩年30年近くにわたり新作をほとんど発表しなかった「沈黙」は、創作の行き詰まりという主題への関心を呼び続け、批評的な研究対象であり続けている。",
+    "en": "Coming from a small country outside the German-Austrian, French and Russian centres of the tradition, he built an independent symphonic voice, and became a model for composers from other peripheral countries looking for an idiom of their own. His near-silence over his last three decades has kept scholars fascinated as a case study in creative block."
+  },
+  "keywords": {
+    "ja": [
+      "自然を思わせる響き",
+      "単一楽章への凝縮",
+      "長い沈黙"
+    ],
+    "en": [
+      "Nature-evoking sonority",
+      "Single-movement form",
+      "The long silence"
+    ]
   }
 }

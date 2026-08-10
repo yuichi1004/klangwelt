@@ -2,5 +2,25 @@
   "biography": {
     "ja": "独学に近いかたちで作曲を学び、戦後の日本の作曲界を国際的に代表する存在となった。西洋の前衛的な語法を吸収しながら、尺八や琵琶といった日本の伝統楽器を管弦楽と組み合わせる試みを続けた。\n「間」——音と音のあいだの沈黙——を音そのものと同じだけ重視する姿勢が作品の核にある。映画音楽も100本以上手がけ、コンサート作品との間に垣根を設けなかった。",
     "en": "Largely self-taught as a composer, he became the international face of postwar Japanese music. He absorbed the language of the Western avant-garde while pursuing his own line of work combining traditional Japanese instruments such as the shakuhachi and biwa with the orchestra.\nAt the centre of his music is *ma* — the silence between sounds — treated as being worth exactly as much as the sounds themselves. He also wrote for more than a hundred films, and drew no line between that work and his concert music."
+  },
+  "style": {
+    "ja": "強い展開や対立よりも、音と音のあいだの間隔そのものを設計する姿勢を貫いた。日本庭園を歩くときのように、聴き手が一つの道筋をたどるのではなく次々と現れる情景に出会うような、非直線的な形式を好んだ。琵琶や尺八の音色を西洋のオーケストラに単に混ぜるのではなく、両者が同じ響きの世界に属するように書いた。",
+    "en": "Rather than strong development or conflict, he composed the intervals of silence between sounds as carefully as the sounds themselves. He favoured a non-linear form closer to walking through a Japanese garden, where a listener meets one scene after another rather than following a single argument. He did not simply mix the timbres of biwa and shakuhachi into a Western orchestra but wrote as though both belonged to the same sound world from the start."
+  },
+  "impact": {
+    "ja": "日本人作曲家として国際的な現代音楽と映画音楽の両方で継続的な評価を得た最初期の一人となった。ニューヨーク・フィルハーモニックの委嘱で書いた「ノヴェンバー・ステップス」は、日本の伝統楽器がオーケストラの中で異国趣味に陥ることなく機能しうることを示す先例となり、以後の日本人作曲家の国際的な受容にも道を開いた。",
+    "en": "He became one of the first Japanese composers to gain sustained international standing in both contemporary concert music and film music. *November Steps*, commissioned by the New York Philharmonic, demonstrated that traditional Japanese instruments could function within an orchestra without falling into exoticism, and it opened the door for the international reception of later Japanese composers."
+  },
+  "keywords": {
+    "ja": [
+      "間の美学",
+      "庭園的な形式",
+      "東西の音色の融合"
+    ],
+    "en": [
+      "Aesthetics of ma",
+      "Garden-like form",
+      "East-West timbre fusion"
+    ]
   }
 }

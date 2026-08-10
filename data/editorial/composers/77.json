@@ -2,5 +2,25 @@
   "biography": {
     "ja": "ボヘミアのユダヤ人家庭に生まれ、生前は作曲家としてよりも指揮者として知られた。ウィーン宮廷歌劇場の監督を10年務め、夏の休暇に集中して作曲するという生活を続けた。\n交響曲9曲と歌曲集を中心に、声楽と管弦楽を融合させた大規模な作品を書いた。行進曲、レントラー、軍隊ラッパ、鳥の声といった日常の音を交響曲のなかに持ち込み、それらを崇高な響きと並置する手法は、当時しばしば趣味を疑われたが、20世紀後半に再評価された。",
     "en": "Born into a Jewish family in Bohemia, he was known in his lifetime as a conductor rather than a composer. He directed the Vienna Court Opera for ten years and composed in concentrated bursts during the summer holidays.\nHis output centres on nine symphonies and several song cycles, large-scale works that fuse voices with orchestra. He brought everyday sounds into the symphony — marches, ländler, military fanfares, birdsong — and set them beside passages of great solemnity. Contemporaries often doubted his taste for it; the later twentieth century decided he had been right."
+  },
+  "style": {
+    "ja": "百人規模の大編成が咆哮する箇所と、独奏楽器だけが室内楽のように語る箇所を同じ交響曲の中に同居させ、編成の両極を行き来する構成を好んだ。若い頃に書いた歌曲の旋律を交響曲の主題として転用することが多く、歌曲と交響曲というジャンルの境界を薄くした。和声は調性の枠を保ちながらもその限界に何度も触れ、次の世代の無調への接近を予感させる。",
+    "en": "He liked to let a single symphony swing between a hundred-strong orchestra roaring at full force and a passage where one solo instrument speaks almost like chamber music. He often recycled melodies from songs he had written earlier as symphonic themes, thinning the line between the song and the symphony as genres. His harmony stays inside tonality but keeps testing its edges, anticipating the move toward atonality the following generation would make."
+  },
+  "impact": {
+    "ja": "指揮者としてウィーンやニューヨークのオーケストラと歌劇場の演奏水準を引き上げ、演奏の在り方そのものに影響を残した。個人的な体験や不安を交響曲という大きな器に注ぎ込む姿勢は、シェーンベルクら第二次ウィーン楽派の作曲家たちに敬愛され、後期ロマン派の極限から20世紀の音楽へと橋を架けた作曲家と位置づけられている。",
+    "en": "As a conductor he raised performance standards at the orchestras and opera houses of Vienna and New York, leaving a mark on performance practice itself. His willingness to pour personal experience and anxiety into the large vessel of a symphony was admired by Schoenberg and the Second Viennese School, and he is now seen as the composer who bridged the extremes of late Romanticism and the music of the twentieth century."
+  },
+  "keywords": {
+    "ja": [
+      "編成の両極",
+      "歌曲と交響曲の融合",
+      "調性の限界への接近"
+    ],
+    "en": [
+      "Extremes of scale",
+      "Song-symphony fusion",
+      "Edge of tonality"
+    ]
   }
 }

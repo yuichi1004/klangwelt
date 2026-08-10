@@ -3,8 +3,28 @@
     "ja": "ザルツブルクの宮廷音楽家の家に生まれ、幼少期から父に連れられてヨーロッパ各地を演奏旅行した。故郷の宮廷での職に満足できず、25歳でウィーンに移って独立した音楽家として生きる道を選ぶ。当時としては珍しい選択で、定収入のないまま演奏会と作曲の依頼で生計を立てた。\n35年の生涯で600曲を超える作品を残した。交響曲、協奏曲、室内楽、宗教曲、そしてオペラと、当時存在したほとんどすべてのジャンルにわたる。とりわけオペラでは、登場人物それぞれの心情を同時に響かせる重唱の書き方に他の追随を許さない手腕を見せた。",
     "en": "Born into a court musician's family in Salzburg, he was taken on concert tours across Europe from early childhood. Dissatisfied with his position at the Salzburg court, at 25 he moved to Vienna to work as an independent musician — an unusual choice at the time, leaving him to live on concerts and commissions without a salary.\nIn a life of thirty-five years he wrote more than six hundred works, covering almost every genre then in existence: symphonies, concertos, chamber music, sacred music and opera. In opera above all he had a gift no one has matched, writing ensembles in which several characters sing their conflicting feelings at once and every one of them stays audible."
   },
+  "style": {
+    "ja": "旋律は少ない音で性格を描き分け、器楽曲の主題ですら舞台上の人物のように個性を持つ。技巧を誇示する走句の裏に対位法的な仕掛けを忍ばせることが多く、聴きやすさと構造の緻密さを両立させた。ピアノ協奏曲では独奏と管弦楽を対等な話し相手として書き、それまでの技巧誇示の場から音楽的な対話の場へと性格を変えた。",
+    "en": "His melodies sketch a character in very few notes, so that even an instrumental theme can feel like a figure on a stage. Beneath passages that look like simple display he often hides contrapuntal working, holding ease of listening and structural rigour together. In the piano concertos he treats soloist and orchestra as equal partners in conversation, turning a genre built for display into one built for musical dialogue."
+  },
+  "impact": {
+    "ja": "イタリアの叙情的な旋律、ドイツの対位法的な書法、フランス風の優雅さを一つの語法に統合し、のちに「古典派様式」と呼ばれる基準を作った。オペラの重唱で示した手法は以後の作曲家の手本となり、ピアノ協奏曲の対話的な設計は現在の協奏曲観の土台になっている。",
+    "en": "He fused Italian lyricism, German counterpoint and French elegance into a single language, setting the standard later called the Classical style. His ensemble writing in opera became a model other composers studied, and his conversational design for the piano concerto still underlies how the genre is understood today."
+  },
   "story": {
     "ja": "最後の年に取りかかったレクイエムは、依頼主の名を伏せた仲介人を通じて注文された。作曲は未完のまま彼の死で中断し、弟子のジュスマイヤーらが補筆して完成させている。匿名の依頼主は、亡き妻の追悼のために自作として発表しようと考えていた貴族だったことが後に判明した。",
     "en": "The Requiem he took up in his final year was commissioned through an intermediary who withheld the patron's name. He died with the work unfinished, and his pupil Süssmayr and others completed it. The anonymous patron turned out to be an aristocrat who had intended to present it as his own, in memory of his late wife."
+  },
+  "keywords": {
+    "ja": [
+      "旋律の明快さ",
+      "会話的な協奏曲",
+      "様式の統合"
+    ],
+    "en": [
+      "Melodic clarity",
+      "Conversational concertos",
+      "Stylistic synthesis"
+    ]
   }
 }

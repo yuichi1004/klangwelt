@@ -227,7 +227,7 @@
   "46": {
     "name": "Dmitri Shostakovich",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "47": {
     "name": "Heinrich Franz von Biber",
@@ -382,7 +382,7 @@
   "77": {
     "name": "Gustav Mahler",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "78": {
     "name": "Michael Praetorius",
@@ -392,12 +392,12 @@
   "79": {
     "name": "Pyotr Ilyich Tchaikovsky",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "80": {
     "name": "Johannes Brahms",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "81": {
     "name": "Michael Daugherty",
@@ -432,7 +432,7 @@
   "87": {
     "name": "Johann Sebastian Bach",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "88": {
     "name": "Orlande de Lassus",
@@ -522,7 +522,7 @@
   "105": {
     "name": "Claude Debussy",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "106": {
     "name": "Ernest Bloch",
@@ -722,7 +722,7 @@
   "145": {
     "name": "Ludwig van Beethoven",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "146": {
     "name": "Giacomo Puccini",
@@ -757,7 +757,7 @@
   "152": {
     "name": "Frédéric Chopin",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "153": {
     "name": "Joly Braga Santos",
@@ -927,7 +927,7 @@
   "186": {
     "name": "Jean Sibelius",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "187": {
     "name": "Alessandro Marcello",
@@ -942,7 +942,7 @@
   "189": {
     "name": "Antonín Dvořák",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "190": {
     "name": "Igor Stravinsky",
@@ -977,7 +977,7 @@
   "196": {
     "name": "Wolfgang Amadeus Mozart",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "197": {
     "name": "Franz Liszt",
@@ -1062,7 +1062,7 @@
   "213": {
     "name": "Toru Takemitsu",
     "phase": 1,
-    "status": "pending_style_impact"
+    "status": "done"
   },
   "214": {
     "name": "Giovanni Pierluigi da Palestrina",
