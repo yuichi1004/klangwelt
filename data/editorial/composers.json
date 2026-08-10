@@ -77,6 +77,32 @@
       ]
     }
   },
+  "5": {
+    "biography": {
+      "ja": "エストニア出身の作曲家である。1970年代、創作の沈黙期を経て、グレゴリオ聖歌や初期の多声音楽をはじめとする中世・ルネサンスの宗教音楽を研究したのち、「ティンティナブリ(小さな鐘の意)」と自ら名づけた、きわめて個人的な作曲技法を編み出した。\nソ連統治下では、作品の明確な宗教的内容ゆえに公的な圧力と制約を受け、これがのちの西側への亡命の一因になった。国際的にもっとも頻繁に演奏される存命の作曲家の一人となり、素材を切り詰めた点では表面的に似ているものの、グラスやライヒらのアメリカのミニマリズムとは異なる、きわめて簡素で瞑想的、準宗教的なミニマリズムの様式で知られている。",
+      "en": "An Estonian composer, in the 1970s, after a period of creative silence during which he studied medieval and Renaissance sacred music — Gregorian chant and early polyphony among them — he developed a highly personal compositional technique he named 'tintinnabuli' (Latin for 'little bells').\nUnder Soviet rule his works faced official pressure and restriction, particularly for their overt religious content, contributing to his eventual emigration to the West. He became one of the most performed living composers globally, known for an extremely spare, meditative, quasi-religious minimalist style distinct from American minimalism, despite superficial similarities in reduced material."
+    },
+    "style": {
+      "ja": "一方の声部が旋律的な音階を順次進行で動き、もう一方の声部が主和音の構成音のみを響かせることで、簡素で鐘の音のような響きの和声的な質感を生み出す、自ら発明した独自の作曲技法「ティンティナブリ」を用いる。これは、すでに触れたグラスやライヒによるアメリカのミニマリズムの過程重視の反復とは異なる、独立して発展させた精密に定義された個人的な体系である。長い沈黙や単純な全音階的和声、遅いテンポといったきわめて切り詰められた音楽素材を用いて、瞑想的で明確に精神的・宗教的な雰囲気を作り出す。中世の宗教聖歌や初期の多声音楽の研究に深く裏づけられている。",
+      "en": "He uses 'tintinnabuli', a self-invented compositional technique in which one voice moves stepwise through a melodic scale while a second voice sounds only notes of the tonic triad, generating a spare, bell-like, resonant harmonic texture — a precisely defined personal system distinct from, and independently developed from, the process-based repetition of American minimalism already covered through Glass and Reich. He uses extremely reduced musical material — long silences, simple diatonic harmony, slow tempos — to create a contemplative, overtly spiritual and religious atmosphere, deeply informed by his study of medieval sacred chant and early polyphony."
+    },
+    "impact": {
+      "ja": "グラスやライヒと並んで、国際的にもっとも認知され頻繁に演奏される存命の作曲家の一人となったが、アメリカの過程重視の音楽ではなく中世の宗教的な伝統に根ざした、簡素化・ミニマル化された作曲のまったく別の系統を代表しており、「ミニマリズム」が異なる文化的・宗教的な文脈でどのような意味を持ちうるかを広げている。明確に精神的で瞑想的な美学は、伝統的なクラシックの演奏会に足を運ぶ聴衆を超えた異例なほど広い受け手を得ており、映画や瞑想、信仰的な文脈で頻繁に用いられている点で、コルンゴルトやアダムズについてすでに記録した映画音楽を通じた影響力とは異なるが匹敵する文化的な到達点を持つ。",
+      "en": "Alongside Glass and Reich, he became one of the most internationally recognised and frequently performed living composers, but represents a genuinely distinct branch of reduced, minimalist composition rooted in sacred medieval tradition rather than American process music, broadening what 'minimalism' can mean across different cultural and religious contexts. His overtly spiritual, contemplative aesthetic has found an unusually wide audience beyond traditional classical concert-goers, frequently used in film, meditation and devotional contexts, giving him a cultural reach comparable to, but distinct from, the film-scoring influence already documented for Korngold and Adams."
+    },
+    "keywords": {
+      "ja": [
+        "ティンティナブリという独自技法",
+        "中世聖歌への回帰",
+        "宗教的・瞑想的な広い受容"
+      ],
+      "en": [
+        "The tintinnabuli technique",
+        "A return to medieval chant",
+        "Wide spiritual and meditative reception"
+      ]
+    }
+  },
   "6": {
     "biography": {
       "ja": "シェーンベルクに学んだ弟子の中でもとりわけ簡潔で禁欲的な作風を追求し、同門のベルクが十二音技法の枠内でも保ち続けた温かみのあるロマン派的な残響とは対照的な道を歩んだ。\n生前はほとんど無名のまま過ごし、作品が演奏される機会もごくわずかだった。第二次世界大戦後のオーストリア占領下、夜間外出禁止令下で葉巻を吸うために外に出たところをアメリカ軍兵士に誤って射殺されるという、悲劇的な最期を遂げている。彼の音楽は、戦後の前衛世代——ブーレーズやシュトックハウゼンら——によって没後に「再発見」され、彼ら自身のセリー主義にとってもっとも重要な先駆者として位置づけられた。",
@@ -152,6 +178,32 @@
         "A static, contemplative orchestral landscape",
         "Memories of Florida spirituals",
         "Late-career composition by dictation"
+      ]
+    }
+  },
+  "9": {
+    "biography": {
+      "ja": "ローマでジャコモ・カリッシミに師事しており、当時の主流だったリュリの影響のもとで国内で学ぶのが一般的だったフランス人作曲家としては異例の、直接イタリアで学んだ経歴を持つ。\nその才能にもかかわらず、フランス宮廷とオペラ音楽をほぼ独占していたジャン=バティスト・リュリの存在によって、キャリアの多くの期間、機会を制限された。リュリは国王からオペラ上演に関する排他的な特権を得ており、他の作曲家の活動の余地を狭めていた。彼の「テ・デウム」の器楽による前奏部分は、20世紀にヨーロッパ放送連合のファンファーレのテーマ音楽として、とりわけユーロビジョン・ソング・コンテストの冒頭で使われることで国際的に有名になった。17世紀の宗教曲としては驚くべき第二の人生である。",
+      "en": "He studied in Rome under Giacomo Carissimi, giving him direct Italian training unusual among French composers of his generation, who typically trained domestically under the dominant influence of Lully.\nDespite his talent, he spent much of his career with his opportunities limited by Jean-Baptiste Lully, who held near-monopolistic control over French court and operatic music through exclusive royal privileges restricting others' access to full operatic production. The instrumental prelude to his *Te Deum* became internationally famous in the twentieth century as the fanfare theme music of the European Broadcasting Union, most notably heard introducing the Eurovision Song Contest — an extraordinary afterlife for a seventeenth-century sacred work."
+    },
+    "style": {
+      "ja": "ローマでカリッシミから直接学んだイタリアの作曲技法と、フランス宮廷の音楽的慣習とを独自に融合させ、リュリの影響下で国内のみで学んだ同時代人たちのより純粋なフランス的語法とは異なる、フランス・イタリア混淆の様式を生み出した。カリッシミから学んだイタリアのオラトリオの伝統を受け継いだ宗教的なオラトリオ風の作品と、フランス宮廷様式の器楽・声楽曲の双方を巧みに書き分け、フランスの同時代人には珍しい様式的な柔軟性を示した。",
+      "en": "He uniquely blended the Italian compositional training he learned directly from Carissimi in Rome with French court musical conventions, producing a hybrid Franco-Italian style distinct from the more purely French idiom of contemporaries trained only domestically under Lully's shadow. He was a skilled writer of sacred oratorio-style works, following the Italian oratorio tradition he learned from Carissimi, alongside French court-style instrumental and vocal music, giving him a stylistic versatility uncommon among his French peers."
+    },
+    "impact": {
+      "ja": "同時代人(リュリ)の制度的・政治的な支配によってキャリアと機会を制限された、真に才能ある作曲家の記録された事例であり、宮廷の庇護制度が音楽的才能を単に支援するだけでなく抑圧しうることを示す歴史的な警鐘となっている。「テ・デウム」の前奏がユーロビジョンのテーマ・ファンファーレに採用されたことは、17世紀のフランス宗教曲にまったく予想外の、大規模な現代的文化的到達点をもたらしており、放送メディアを通じた第二の人生という点で、このコレクションですでに触れたグノーの「操り人形の葬送行進曲」の事例とも重なる。",
+      "en": "He represents a documented case of a genuinely talented composer whose career and opportunities were constrained by a contemporary's institutional and political dominance — Lully's royal monopoly — a cautionary historical example of how court patronage systems could suppress rather than merely support musical talent. The adoption of the Te Deum prelude as Eurovision's theme fanfare gave a piece of seventeenth-century French sacred music an entirely unexpected, massive contemporary cultural reach, a case of afterlife through broadcast media paralleling Gounod's 'Funeral March of a Marionette', already covered in this collection."
+    },
+    "keywords": {
+      "ja": [
+        "イタリア仕込みのフランス・イタリア混淆様式",
+        "リュリの独占が制限した機会",
+        "ユーロビジョンのテーマとなった前奏"
+      ],
+      "en": [
+        "Italian-trained Franco-Italian style",
+        "Opportunity limited by Lully's monopoly",
+        "The prelude that became Eurovision's theme"
       ]
     }
   },
@@ -1683,6 +1735,58 @@
       ]
     }
   },
+  "123": {
+    "biography": {
+      "ja": "フランス内務省の官吏として約18年間勤務したのち、辞職して作曲に専念した。ワーグナーの「トリスタンとイゾルデ」を聴いた経験が、この転身の大きなきっかけになったと伝えられる。\n印象派の画家たちと親しく交流し、マネやルノワールの作品を収集する熱心な蒐集家でもあった。スペイン旅行で耳にした民俗音楽に基づく管弦楽狂詩曲「スペイン」は、彼のより実験的で和声的に大胆な他の作品群に比して不釣り合いなほどの人気を博し、結果としてその幅広い業績を覆い隠す形にもなっている。晩年は梅毒の進行により健康と精神状態を著しく損ない、その合併症により世を去った。",
+      "en": "He worked as a civil servant in the French Ministry of the Interior for about eighteen years before resigning to devote himself entirely to composition, a shift said to have been prompted in large part by hearing Wagner's *Tristan und Isolde*.\nHe was close friends with Impressionist painters and an avid collector of works by Manet and Renoir. His orchestral rhapsody *España*, based on folk music he heard on a trip to Spain, became immensely, disproportionately popular compared to his more experimental, harmonically adventurous work, somewhat overshadowing his broader legacy. His health and mental capacities declined significantly in his final years, and he died of complications from syphilis."
+    },
+    "style": {
+      "ja": "和声的に冒険的で、しばしば機知に富んだ型破りな和音進行と管弦楽法を特徴とし、これはのちのドビュッシーやラヴェルの印象主義的な和声革新を先取りし、直接に影響を与えたことが知られている。フランス的な機知と管弦楽の色彩感を、根底にある構造的な洗練と結びつけており、同時代の聴衆の関心が「スペイン」のような親しみやすく民俗色豊かな人気曲に集中する一方で、後続の作曲家たちはその実験性を認識し高く評価した。",
+      "en": "His harmonically adventurous, often wittily unconventional chord progressions and orchestration anticipated and directly influenced the Impressionist harmonic innovations of Debussy and Ravel. He combined a French sense of wit and orchestral colour with an underlying structural sophistication that later composers recognised and admired, even as contemporary audiences focused mainly on his more accessible, folk-flavoured crowd-pleasers such as *España*."
+    },
+    "impact": {
+      "ja": "ドビュッシーとラヴェル自身から、自らの和声語法への直接的で重要な影響源として広く認められており、フランス・ロマン派中期の音楽と印象主義とを結ぶ、過小評価されがちだが重要な橋渡し役になっている。「スペイン」の絶大な人気は、より和声的に洗練された彼の幅広い作品群に対して不釣り合いであり、一曲の親しみやすい作品が作曲家のより実質的な芸術的業績を覆い隠してしまうという、このコレクションに繰り返し現れるパターンを例証している。",
+      "en": "He is widely credited by Debussy and Ravel themselves as a direct and significant influence on their own harmonic language, making him an important but often underrecognised bridge figure between mid-Romantic French music and Impressionism. The massive popularity of *España*, disproportionate to his broader and more harmonically sophisticated output, exemplifies a recurring pattern in this collection of a single accessible work overshadowing a composer's more substantial artistic achievements."
+    },
+    "keywords": {
+      "ja": [
+        "印象主義への直接的な先駆",
+        "画家たちとの交流",
+        "スペインの人気が覆い隠した業績"
+      ],
+      "en": [
+        "A direct precursor to Impressionism",
+        "Friendship with painters",
+        "Fame that overshadowed the broader work"
+      ]
+    }
+  },
+  "124": {
+    "biography": {
+      "ja": "驚異的な多作家で、当時のフランスでもっとも上演回数の多いオペラ作曲家の一人であり、商業的にも大きな成功を収めた。パリ音楽院で長年教鞭を執り、教え子にはすでに触れたエネスクやケクランがいる。\nとりわけソプラノの役どころにおける、官能的で優雅、旋律的に洗練された声楽書法で高く評価された。オペラ「タイス」の間奏曲として書かれたヴァイオリン独奏曲「瞑想曲」は、原曲の文脈から切り離されて演奏会用の独立した曲として広く親しまれ、演奏会用ヴァイオリン曲の中でもっとも有名な作品の一つになっている。",
+      "en": "An extraordinarily prolific and commercially successful opera composer, he was one of the most performed opera composers in France of his era. He taught for decades at the Paris Conservatoire, and his students included Enescu, already covered here, and Koechlin.\nHe was highly regarded for sensuous, elegant, melodically graceful vocal writing, especially for soprano roles. 'Méditation', a violin solo interlude from the opera *Thaïs*, became widely loved as a standalone concert piece separated from its original context, one of the most famous pieces in the violin repertoire."
+    },
+    "style": {
+      "ja": "とりわけソプラノの声にふさわしい叙情的な美しさと劇的な人物描写を重視した、優雅で官能的な旋律的声楽書法を特徴とする。フランスの伝統に連なる洗練され抑制の効いた管弦楽法を用い、概して器楽的な複雑さよりも声楽の表現力を優先した。「タイス」の「瞑想曲」の根強い独立した人気が示すように、オペラ全体の文脈から切り離されても単独で成立する、旋律的にまとまった見せ場(アリアや器楽的な間奏曲)を作り上げる手腕にも長けていた。",
+      "en": "His elegant, sensuous, melodically graceful vocal writing prioritises lyrical beauty and dramatic characterisation suited especially to the soprano voice. His refined, restrained orchestration, in the French tradition, generally subordinates instrumental complexity to vocal expressiveness. He was skilled at crafting individually extractable, self-contained melodic set-pieces — arias, instrumental interludes — capable of standing on their own outside the full operatic context, as demonstrated by the enduring independent popularity of the *Thaïs* 'Méditation'."
+    },
+    "impact": {
+      "ja": "当時のフランスでもっとも商業的に成功したオペラ作曲家の一人として、19世紀末フランスの舞台における主流のオペラ趣味を形づくった。エネスクを教え子に持つパリ音楽院の教師として、その影響を国境を越えて次の世代へと広げた。「タイス」の「瞑想曲」は、独立した演奏会用ヴァイオリン曲としてもっとも愛される作品の一つという第二の人生を歩んでおり、グノー、ヴィドール、マセネと、このコレクションがすでに複数のフランス人作曲家について記録してきた「抜粋された一部分が名声を得る」というパターンを裏づけている。",
+      "en": "As one of the most commercially dominant opera composers of his generation in France, he shaped the mainstream operatic taste of the late nineteenth-century French stage. As a Paris Conservatoire teacher whose students included Enescu, he extended his influence into the following generation across national lines. The 'Méditation' from *Thaïs* achieved a second, independent life as one of the concert violin repertoire's most beloved standalone pieces, a pattern of excerpted fame this collection has now documented across several French composers — Gounod, Widor, Massenet."
+    },
+    "keywords": {
+      "ja": [
+        "ソプラノ向けの優美な声楽書法",
+        "独立した名曲となった瞑想曲",
+        "エネスクを育てた師"
+      ],
+      "en": [
+        "Graceful vocal writing for soprano",
+        "The Méditation's independent fame",
+        "Teacher of Enescu"
+      ]
+    }
+  },
   "125": {
     "biography": {
       "ja": "コダーイとともにハンガリーや東欧、北アフリカの農村を回り、蓄音機を用いて民謡を録音・採譜する調査を続けた。この活動は後の民族音楽学という学問分野の基礎を築いたと評価されている。\nファシズムへの反対を鮮明にしていたため、第二次世界大戦下のヨーロッパを逃れて1940年にアメリカへ渡った。しかし現地では十分な評価を得られないまま、ニューヨークで困窮のうちに世を去っている。",
@@ -1951,6 +2055,32 @@
       ]
     }
   },
+  "140": {
+    "biography": {
+      "ja": "もともと海軍士官として本格的なキャリアを積んでおり、比較的遅くになってから音楽に転じた。海軍勤務時代の東南アジアなどへの航海で非西洋の音楽に触れた経験は、のちの異国趣味的な作品に影響を残している。作曲はダンディに師事して比較的遅くから本格的に学んだ。\n作風は、初期の印象主義の影響を受けた時期から、成熟期・晩年にはより角ばった、リズムの推進力の強い新古典主義的な作風へと移行しており、生涯を通じて変化している。",
+      "en": "He originally built a career as a naval officer before turning to music relatively late in life. Voyages made during his naval service, including to Southeast Asia, exposed him to non-Western music that left its mark on his later exoticist works. He studied composition relatively late, under d'Indy.\nHis style moved through several phases across his career, from an early period influenced by Impressionism toward a more angular, rhythmically driven neoclassicism in his mature and late work."
+    },
+    "style": {
+      "ja": "海軍時代の東南アジアやインドへの航海から直接得た異国趣味的な音楽素材を、当初は印象主義の影響を受けた和声語法のなかに取り込んだ。成熟期・晩年の様式は、角ばった旋律線と力強いリズムの推進力、より辛口で新古典主義的な影響を受けた和声語法へと移行しており、初期のより柔らかな印象主義的な出発点とは異なる、異例なほど遅くから始まったキャリアを通じての本格的な様式の変遷を示している。",
+      "en": "He drew exoticist musical material directly from his own naval voyages to Southeast Asia and India, incorporating it into an initially Impressionist-influenced harmonic language. His mature and late style shifted toward angular melodic writing, driving rhythmic energy, and a more astringent, neoclassically influenced harmonic language, distinct from his softer Impressionist beginnings — a genuine, documented stylistic evolution across a career that began unusually late."
+    },
+    "impact": {
+      "ja": "マルティヌーの師として、フランスの新古典主義と他の国民的伝統との間を行き来する次の世代の作曲家たちにその影響を広げた。本格的な音楽の学習に先立って海軍でのキャリアを全うしたという異色の経歴は、ボロディンの化学者、ベルワルドの理学療法施設、アイヴズの保険業と並んで、まったく別の専門的な人生を経た、あるいはそれと並行して音楽キャリアを発展させた作曲家のさらなる記録された事例になっている。",
+      "en": "As a teacher of Martinů, he extended his influence into the next generation of composers navigating between French neoclassicism and other national traditions. His unusual career path — a full naval career preceding serious musical study — stands alongside Borodin's chemistry, Berwald's physiotherapy institute, and Ives's insurance business as another documented case of a major composer whose musical career developed after, or alongside, an entirely separate professional life."
+    },
+    "keywords": {
+      "ja": [
+        "海軍士官から作曲家への転身",
+        "航海がもたらした異国趣味",
+        "印象主義から新古典主義への変遷"
+      ],
+      "en": [
+        "From naval officer to composer",
+        "Exoticism from his own voyages",
+        "Impressionism to neoclassicism"
+      ]
+    }
+  },
   "142": {
     "biography": {
       "ja": "ナチス占領下のワルシャワでは、生活のために仲間の作曲家パヌフニクとピアノ二重奏を組み、カフェで編曲を演奏して糊口をしのいだ。戦後は社会主義リアリズムの文化政策のもと、モダニズム色の強い交響曲第1番が「形式主義的」と当局に批判され、しばらくの間は民謡に基づく分かりやすい作品を公に発表する一方、独自の語法を私的に育てる時期を過ごしている。\n後年は、演奏者にある程度の裁量を委ねながら全体の構造は厳密に統制するという、独自の「管理された偶然性」の技法を確立した。",
@@ -1974,6 +2104,32 @@
         "Controlled aleatorism",
         "An independent voice under state control",
         "Local freedom, global control"
+      ]
+    }
+  },
+  "144": {
+    "biography": {
+      "ja": "父は長年にわたってニューヨーク・フィルの首席奏者を務めたヴァイオリニストで、幼少期からオーケストラの現場を身近に見て育った。\nピュリッツァー賞とアカデミー賞(映画音楽)の双方を受賞した数少ない作曲家の一人であり、演奏会音楽と映画音楽の両方にまたがるキャリアを築いている。交響曲第1番は、エイズの流行で友人たちを失った経験に部分的に応える形で書かれた、社会的な関心を強く反映する重要な作品である。",
+      "en": "His father, John Corigliano Sr., was longtime concertmaster of the New York Philharmonic, and he grew up in an environment close to a major orchestra.\nHe is one of the relatively few composers to have won both a Pulitzer Prize and an Academy Award for film score, building a career that bridges concert and film music. His Symphony No. 1 was written partly in response to losing friends during the AIDS epidemic, a significant, socially engaged work."
+    },
+    "style": {
+      "ja": "特定の一つの流派に定住することなく、20世紀の幅広い技法を取り入れる折衷的で技巧的に確かな現代語法を特徴とし、すでに触れたトーマス・アデスの様式的な幅広さにも通じる。交響曲第1番は、エイズ危機のさなかに友人を失った経験への応答という成立の背景を、構造と内容の双方に直接反映しており、特定の楽曲の引用や個人への献呈を明示的な追悼の手段として用いている。映画音楽では、演奏会用作曲で培った技法を映像の劇的な要求に応じて巧みに適用した。",
+      "en": "His eclectic, technically assured contemporary idiom draws on a wide range of twentieth-century techniques without settling permanently into one school, in a spirit similar to the stylistic breadth already noted for Thomas Adès. Symphony No. 1's structure and content directly reflect its origin as a response to personal loss during the AIDS crisis, using specific musical quotation and dedication to individuals as an explicit memorial device. His skilled, idiomatic film scoring applies the technique of his concert music to the dramatic needs of cinema."
+    },
+    "impact": {
+      "ja": "交響曲第1番は、エイズの流行に対するもっとも重要かつ広く演奏された音楽的応答の一つとなり、主要な演奏会用作品が特定の現代的な社会的危機に直接向き合った記録された事例として、ブリテンやティペット、メシアンとも通じる、政治的・社会的な状況に明示的に関わる音楽というこのコレクションに繰り返し現れる主題に加わっている。演奏会場と映画音楽の双方で成功した作曲家として、コルンゴルトの受容にとって歴史的に重要だった両者の間の隔たりが、20世紀後半までにかなり狭まったことを示している。",
+      "en": "Symphony No. 1 became one of the most significant and widely performed musical responses to the AIDS epidemic, a documented case of a major concert work directly engaging with a specific contemporary social crisis, adding to this collection's recurring theme of music engaging explicitly with political and social circumstance, alongside Britten, Tippett and Messiaen. As a composer successful in both the concert hall and film scoring, he demonstrates that the divide between these worlds, historically significant for Korngold's reception, had narrowed considerably by the late twentieth century."
+    },
+    "keywords": {
+      "ja": [
+        "エイズ危機への応答としての交響曲第1番",
+        "演奏会と映画音楽の両立",
+        "折衷的な現代語法"
+      ],
+      "en": [
+        "Symphony No. 1 as a response to AIDS",
+        "Success in both concert and film music",
+        "Eclectic contemporary idiom"
       ]
     }
   },
@@ -2059,6 +2215,32 @@
       ]
     }
   },
+  "148": {
+    "biography": {
+      "ja": "アフリカ系アメリカ人の作曲家で、ラグタイムというアメリカ独自の音楽形式をもっとも有名かつ商業的に成功させた立役者である。「メイプル・リーフ・ラグ」は楽譜の売り上げが100万部を超えた最初の作品となり、当時としては驚異的な商業的現象になった。\n本格的な演奏会用・オペラ的な大作の作曲家としても真剣に評価されることを望み、オペラ「トリーモニシャ」を書いたが、生前に上演されることはなく、没後何十年もの間ほとんど忘れられていた。のちにようやく上演され、没後にピュリッツァー賞特別賞が贈られている。晩年は梅毒の進行に苦しみ、精神状態にも影響が及んで、キャリア上の苦境と最終的な死の一因になった。",
+      "en": "An African American composer, he was the most famous and commercially successful figure of ragtime, a genuinely distinctive American musical form he helped define and popularise. 'Maple Leaf Rag' became the first piece of sheet music to sell over a million copies, an extraordinary commercial phenomenon for its era.\nHe also aspired to be taken seriously as a composer of large-scale concert and operatic works, writing the opera *Treemonisha*, which he could not get produced during his lifetime and which was largely forgotten for decades after his death. It was finally staged much later, and he was posthumously awarded a special Pulitzer Prize. In his final years, advancing syphilis affected his mental capacity and contributed to his professional struggles and eventual death."
+    },
+    "style": {
+      "ja": "規則的な行進曲風の左手の伴奏と、シンコペーションを効かせたオフビートの右手の旋律という、ラグタイムに特有の「ラグド(ぎくしゃくした)」リズムを、単なる即興的な民衆の慣習にとどめず、独自の慣習(行進曲に似た複数の主題部からなる形式が典型的)を持つ、記譜され形式的に構成されたジャンルとして体系化・確立した先駆者である。厳密な記譜と演奏指示(ラグタイムは速く弾きすぎてはならないという有名な指示など)にこだわり、大衆的な出自にもかかわらず、演奏会用音楽と同じだけの形式的な真剣さでこのジャンルを扱った。",
+      "en": "He pioneered and codified ragtime's characteristic syncopated, 'ragged' rhythm — a steady, march-like left-hand accompaniment against a syncopated, off-beat right-hand melody — into a notated, formally structured genre with its own conventions, typically multi-strain forms similar to marches, rather than leaving it as a purely improvisatory folk practice. He insisted on precise notation and performance instructions — famously specifying that ragtime should not be played too fast — treating the genre with the same formal seriousness as concert music despite its popular origins."
+    },
+    "impact": {
+      "ja": "ラグタイムをアメリカ音楽の主要なジャンルとして確立し、後のジャズの発展と、20世紀アメリカ大衆音楽のリズム語彙の多くに直接影響を与えた。「トリーモニシャ」の没後の再発見と、死後何十年も経ってからのピュリッツァー賞受賞は、このコレクションに繰り返し現れる遅れてきた評価というパターンを例証しており、ここには黒人作曲家が生前に本格的なオペラを上演してもらうことに直面した、さらなる歴史的な障壁が重なっている。「メイプル・リーフ・ラグ」の前例のない楽譜売り上げは、アメリカ大衆音楽の商業史における早い時期の画期になった。",
+      "en": "He established ragtime as a major American musical genre with lasting historical significance, directly influencing the subsequent development of jazz and much of twentieth-century American popular music's rhythmic vocabulary. *Treemonisha*'s posthumous rediscovery and eventual Pulitzer Prize decades after his death exemplifies this collection's recurring pattern of delayed recognition, compounded here by the additional historical barriers a Black composer faced in getting a serious opera staged in his own lifetime. 'Maple Leaf Rag''s unprecedented sheet music sales marked an early landmark in the commercial history of American popular music."
+    },
+    "keywords": {
+      "ja": [
+        "ラグタイムの体系化",
+        "楽譜100万部という商業的偉業",
+        "没後に認められたオペラ"
+      ],
+      "en": [
+        "Codifying ragtime",
+        "A million-selling sheet music landmark",
+        "An opera recognized after death"
+      ]
+    }
+  },
   "149": {
     "biography": {
       "ja": "スティーヴ・ライヒやフィリップ・グラスに続く世代のアメリカ人作曲家で、ミニマル・ミュージックの語法から出発しながら、そこに劇的でロマン派的な身振りを取り入れる「ポストミニマリズム」と呼ばれる方向へと進んだ。\nオペラ「ニクソン・イン・チャイナ」は、ニクソン大統領の中国訪問という当時なお記憶に新しい政治的出来事を題材にした画期的な作品として大きな注目を集めた。「ドクター・アトミック」では原子爆弾の開発というきわめて重い主題に取り組んでいる。",
@@ -2138,6 +2320,32 @@
         "Chromatic harmony",
         "Rubato",
         "Character pieces"
+      ]
+    }
+  },
+  "153": {
+    "biography": {
+      "ja": "20世紀ポルトガルを代表する交響曲作家であり、ポルトガル音楽民族主義の重要な人物ルイス・デ・フレイタス・ブランコに師事した。\n初期の交響曲(第1番から第4番)は、ポルトガルの歴史的・文化的な主題や旋法的な色彩を取り入れた、比較的国民主義的でネオ・ロマン主義的な語法で書かれているが、後期の作品ではより半音階的で国際的なモダニズムの語法へと様式を転換させている。ポルトガル国内では映画音楽の作曲家、音楽批評家としても活動した。",
+      "en": "A leading twentieth-century Portuguese symphonist, he studied under Luís de Freitas Branco, a significant figure in Portuguese musical nationalism.\nHis early symphonies (Nos. 1–4) are written in a relatively nationalist, neo-Romantic idiom drawing on Portuguese historical and cultural themes and modal colour, but his later works shift toward a more chromatic, internationally modernist idiom. In Portugal he also worked as a film composer and music critic."
+    },
+    "style": {
+      "ja": "初期の交響作品では、シベリウスやニールセン、ヴォーン・ウィリアムズらすでに触れた国民楽派の交響曲作家たちの伝統に連なる、ポルトガルの歴史的・旋法的な民俗色を帯びた素材を、ネオ・ロマン主義的な管弦楽語法のなかに取り入れている。後年により密度の高い半音階主義と国際的なモダニズムの技法へと様式を転じたことは、国民主義的な出発点から離れていく記録された進化であり、国民的な語法と国際的なモダニズムの語法の間を行き来した20世紀の他の複数の作曲家たちの様式的な軌跡とも重なる。",
+      "en": "His early symphonic works draw on Portuguese historical and modal folk-adjacent material within a neo-Romantic orchestral idiom, in the broader tradition of national symphonic composers such as Sibelius, Nielsen and Vaughan Williams. His later stylistic shift toward denser chromaticism and more internationally modernist technique represents a documented evolution away from his early nationalist starting point, paralleling the stylistic journeys of several other twentieth-century composers in this collection navigating between national and international modernist idioms."
+    },
+    "impact": {
+      "ja": "シベリウスやニールセン、グリーグが自国のためになし得たことに類する、ポルトガルの国民的な交響曲の伝統を確立したが、今日までのところ国際的な認知度はそれらに及んでいない。国民主義から国際主義へという様式的な変遷は、戦後の音楽的な国際化がもたらす圧力と機会に向き合う、より小規模な国民的伝統出身の20世紀半ばの作曲家たちに共通する軌跡を記録している。イベリア半島およびポルトガル語圏の作曲家たちが、中欧の同格の作曲家たちに比べて西洋の標準的な演奏会規範において受ける注目が少ないという、より広いパターンの一部として、国際的には比較的過小評価された存在であり続けている。",
+      "en": "He established a Portuguese national symphonic tradition comparable in kind to what Sibelius, Nielsen and Grieg achieved for their own countries, though with less international recognition to date. His stylistic evolution from nationalism toward internationalism documents a common trajectory for mid-twentieth-century composers from smaller national traditions navigating the pressures and opportunities of postwar musical internationalism. He remains a relatively underrecognised figure internationally, part of a broader pattern of Iberian and Portuguese-language composers receiving less attention in the standard Western concert canon than their Central European counterparts."
+    },
+    "keywords": {
+      "ja": [
+        "ポルトガル交響曲の伝統の確立",
+        "国民主義から国際主義への転換",
+        "国際的な過小評価"
+      ],
+      "en": [
+        "Founding a Portuguese symphonic tradition",
+        "From nationalism to internationalism",
+        "International underrecognition"
       ]
     }
   },
@@ -2427,6 +2635,32 @@
       ]
     }
   },
+  "174": {
+    "biography": {
+      "ja": "メキシコ音楽民族主義を代表する人物であり、メキシコの国立交響楽団(メヒコ交響楽団)の創設指揮者を務めた。これはグラズノフの音楽院運営やコプランドの「アメリカ作曲家の学長」としての役割に通じる、大きな制度構築上の役割である。\nコロンブス以前の先住民メキシコの音楽素材や楽器を作品に広く取り入れており、これはヴィラ=ロボスやヒナステラ、バルトークら他の国民楽派の作曲家たちとも通じるが、より新しい民俗素材ではなく植民地化以前の先住民文化にまで遡って素材を求めた点で異なる企てだった。ハーバード大学で客員教授も務めている。コプランドとは親しい友人であり、互いに影響を与え合う関係にあり、二人はより広い意味での「アメリカ」の演奏会用音楽がどのようなものでありうるかという発想を直接形づくった。",
+      "en": "A leading figure of Mexican musical nationalism, he was the founding conductor of Mexico's national symphony orchestra, the Orquesta Sinfónica de México — a major institution-building role comparable to Glazunov's conservatory leadership or Copland's role as 'Dean of American Composers'.\nHe drew extensively on pre-Columbian Indigenous Mexican musical material and instruments in his compositions, a nationalist project related to, but distinct from, those of Villa-Lobos, Ginastera and Bartók in reaching back to pre-colonial Indigenous culture rather than more recent folk material. He also taught as a visiting professor at Harvard. He was a close friend of, and mutual influence on, Copland, and the two directly shaped ideas about what 'American' — in the broad, hemispheric sense — concert music could be."
+    },
+    "style": {
+      "ja": "コロンブス以前の先住民メキシコの楽器やリズム、旋法的な素材を、そのまま管弦楽の演奏会用形式に取り込んだ、他の多くの民俗国民主義的な作曲家たちのより新しい民俗的素材の源泉よりもさらに遡る、歴史的に特異な国民主義的企てである。素材を通常の管弦楽的色彩へとロマン化するのではなく、先住民の打楽器や管楽器といった実際の楽器の性格を反映した、禁欲的でリズムの推進力の強い、しばしば打楽器的な管弦楽書法を特徴とする。",
+      "en": "He incorporated pre-Columbian Indigenous Mexican instruments, rhythms and modal material directly into orchestral concert forms, a historically distinctive nationalist project reaching further back than most other folk-nationalist composers' more recent folk sources. His austere, rhythmically driven, often percussive orchestral writing reflects the actual instrumental character of the pre-Columbian material — native percussion, wind instruments — rather than romanticising it into conventional orchestral colour."
+    },
+    "impact": {
+      "ja": "メキシコの国立オーケストラの創設者・指揮者として、グラズノフやリムスキー=コルサコフ、コプランドについてすでに記録されている制度構築上の役割に通じる、メキシコの演奏会用音楽の基盤を直接築く役割を果たした。コロンブス以前の文化に特化したその国民主義的な企ては、ヴィラ=ロボスやヒナステラを通じてすでに触れたより広いラテンアメリカの国民主義運動の中で、多くの同時代人よりもさらに深く植民地化以前の文化的源泉に遡る、独自のメキシコ的な変種を確立した。コプランドとの友情と相互の影響は、より広い半球的な「アメリカ」演奏会用音楽という発想を形づくる一助となった。",
+      "en": "As founder and conductor of Mexico's national orchestra, he played a direct, foundational institutional role in establishing Mexico's concert music infrastructure, comparable in kind to the institution-building roles already documented for Glazunov, Rimsky-Korsakov and Copland. His specifically pre-Columbian nationalist project established a distinctive Mexican variant within the broader Latin American nationalist movement already covered through Villa-Lobos and Ginastera, reaching for a deeper, pre-colonial cultural source than most contemporaries. His friendship and mutual influence with Copland helped shape a broader hemispheric conception of 'American' concert music."
+    },
+    "keywords": {
+      "ja": [
+        "先住民文化への遡及的な国民主義",
+        "メキシコ国立楽団の創設",
+        "コプランドとの相互影響"
+      ],
+      "en": [
+        "Nationalism reaching to Indigenous culture",
+        "Founding Mexico's national orchestra",
+        "Mutual influence with Copland"
+      ]
+    }
+  },
   "175": {
     "biography": {
       "ja": "医師だった父の意向でパリに送られ医学を学んだが、解剖実習に強い嫌悪感を抱いたこともあって医学を離れ、家族の反対を押し切って音楽の道に進んだ。\nアイルランド出身の女優ハリエット・スミッソンの舞台に心を奪われ、その一途な恋慕をもとに「幻想交響曲」を書いた。作品には、恋する芸術家がアヘンによる幻覚の中で繰り返し思い浮かべる恋人を表す「イデー・フィクス」という主題が用いられている。二人はのちに結婚した。管弦楽法に関する著作「管弦楽法」は、以後何世代もの作曲家に読み継がれる古典的な教本になっている。",
@@ -2502,6 +2736,32 @@
         "Continuing the Mighty Handful tradition",
         "Protecting the conservatory through revolution",
         "The unusual Saxophone Concerto"
+      ]
+    }
+  },
+  "181": {
+    "biography": {
+      "ja": "ロシア国民楽派「ロシア五人組」の一員である。作曲についてはほぼ独学に近く、当初は軍人として任官していたが、辞職して音楽に専念する道を選んだ。\n成人期を通じて深刻なアルコール依存に苦しみ、これが作品を完成させる能力に次第に影響を及ぼし、最終的には42歳での早世の一因になった。死の直前に描かれたレーピンによる肖像画は、病の影響が色濃く表れたものとして、ロシア美術史上もっとも広く知られる肖像画の一つになっている。死去の時点で多くの作品が未完成、あるいは粗い草稿の状態で残されており、リムスキー=コルサコフがその多くを大幅に改訂・完成・再管弦楽化した。「ボリス・ゴドゥノフ」や「はげ山の一夜」は、いずれも長らくリムスキー=コルサコフによる補筆版でおもに知られてきたが、近年の研究と演奏では、ムソルグスキー自身のより生々しい原典版に立ち返る動きが強まっている。",
+      "en": "A member of the Russian nationalist 'Mighty Handful'. Largely self-taught as a composer, he had begun as a military officer before resigning his commission to focus on music.\nThroughout his adult life he suffered from severe alcoholism, which increasingly affected his ability to complete works and ultimately contributed to his early death at 42. The portrait Repin painted of him shortly before his death, showing the visible effects of his illness, became one of the most widely recognised images in the history of Russian art. Many of his works were left incomplete or in rough draft form at his death, and Rimsky-Korsakov extensively revised, completed and reorchestrated much of his output; *Boris Godunov* and *Night on Bald Mountain* were both long known primarily in Rimsky-Korsakov's completed versions, though modern scholarship and performance practice have increasingly returned to Mussorgsky's own rawer originals."
+    },
+    "style": {
+      "ja": "従来のなめらかさをあえて避け、直接的でしばしば荒々しい感情的・劇的な写実性を優先する、生々しく洗練されていない、意図的に型破りな和声・管弦楽法を特徴とし、とりわけ声楽書法ではロシア語の話し言葉の自然なリズムと抑揚に忠実に従っている(これはヤナーチェクが独立して発展させた発話旋律と概念的に通じる技法である)。もとはピアノ独奏用の組曲として、亡くなった友人の絵画作品群を描写した「展覧会の絵」は、鮮やかな音楽的性格描写と絵画的な表現の才能を示している。かつては技術的に不完全とみなされリムスキー=コルサコフによって「修正」された、より粗削りな彼自身の原典版の管弦楽法は、今日ではその生々しく独特な表現力ゆえに、研究者から高く評価されている。",
+      "en": "His raw, unpolished, deliberately unconventional harmonic and orchestrational style eschews conventional smoothness in favour of direct, often stark emotional and dramatic realism, especially in vocal writing that closely follows the natural rhythms and inflections of Russian speech — a technique conceptually related to, though independently developed from, Janáček's own speech-melody. *Pictures at an Exhibition*, originally a solo piano suite depicting a series of paintings by a deceased friend, demonstrates his gift for vivid musical characterisation and pictorial representation. His rougher original orchestrations, once considered technically deficient and therefore 'corrected' by Rimsky-Korsakov, are now valued by scholars precisely for their raw, distinctive expressive power."
+    },
+    "impact": {
+      "ja": "「ボリス・ゴドゥノフ」と「展覧会の絵」(とりわけラヴェルによる有名な管弦楽編曲版)は、国際的にもっとも演奏されるロシア音楽の作品群に数えられる。話し言葉に由来する声楽的な写実主義は、同様の技法を探求する後続のロシア・チェコの作曲家たちに直接影響を与えた。「真正なムソルグスキー」とリムスキー=コルサコフによる改訂版のどちらを取るべきかをめぐる学術的・演奏上の論争は、このコレクションですでに記録したブルックナーの複数版問題とも重なり、作者の意図と没後の編集介入をめぐる、いまだ解決を見ない重要な事例研究になっている。",
+      "en": "*Boris Godunov* and *Pictures at an Exhibition* — the latter especially in Ravel's famous orchestration — rank among the most performed works of Russian music internationally. His speech-derived vocal realism directly influenced later Russian and Czech composers exploring similar techniques. The ongoing scholarly and performance debate over 'authentic Mussorgsky' versus Rimsky-Korsakov's revisions parallels the version-authenticity debates already documented for Bruckner in this collection, and represents a significant, unresolved case study in questions of authorial intent versus posthumous editorial intervention."
+    },
+    "keywords": {
+      "ja": [
+        "ロシア語の話し言葉に根ざした写実主義",
+        "原典版と改訂版をめぐる論争",
+        "アルコール依存という悲劇"
+      ],
+      "en": [
+        "Realism rooted in Russian speech",
+        "The original-versus-revision debate",
+        "The tragedy of alcoholism"
       ]
     }
   },
@@ -2803,6 +3063,32 @@
       ]
     }
   },
+  "199": {
+    "biography": {
+      "ja": "イギリス・バロック音楽を代表する作曲家であり、ウェストミンスター寺院のオルガニストを務めた。オペラ「ディドとエネアス」は、最初の本格的な英語オペラとされ、この時代の英語によるオペラでは数少ない、今日も標準的なレパートリーに残る作品である。\nわずか36歳で、やや不明瞭な事情のもとに世を去っている(結核とも言われるが、深夜に妻から締め出されて風邪をひいたためという、おそらく作り話であろう当時の噂も伝えられている)。彼の死後、エルガーが現れるまでのおよそ2世紀にわたり、イギリスは国際的に匹敵する地位の作曲家を輩出しておらず、これはこのコレクションの「イギリス音楽ルネサンス」に関する既出の項目でも触れた、際立った歴史的な空白期間である。",
+      "en": "England's most celebrated Baroque composer, he served as organist of Westminster Abbey. His opera *Dido and Aeneas* is widely regarded as the first great English opera and one of the very few English-language operas of this era to remain in the standard repertoire.\nHe died very young, at 36, under somewhat unclear circumstances — possibly tuberculosis, though a contemporary, probably apocryphal rumour held that he caught a chill after being locked out of his house by his wife late at night. After his death, England produced no composer of comparable international stature for roughly two centuries, until Elgar — a striking historical gap already noted elsewhere in this collection's entries on the 'English Musical Renaissance'."
+    },
+    "style": {
+      "ja": "イタリアとフランスのバロック様式の要素を、とりわけ声楽・劇音楽における英語のテキスト設定と韻律への鋭敏な感性と融合させ、のちの作曲家(すでに触れたブリテン)も追求することになる、英語に特有の声楽的なアプローチを先取りした。反復する低音線の上で旋律や和声の素材を変化させていく「グラウンド・バス」の技法に長け、もっとも有名な例は「ディドの嘆き」の「私が土に横たわるとき」であり、バロック・レパートリーの中でももっとも感情に訴えるアリアの一つとされる。宗教的なアンセム、演劇の劇付随音楽、器楽曲にわたって幅広く筆を執り、17世紀末のイギリス音楽の全ジャンルにわたる包括的な熟達を示した。",
+      "en": "He fused Italian and French Baroque stylistic elements with a distinctly English sensitivity to text-setting and prosody, particularly in his vocal and theatrical music, prefiguring the specifically English approach to vocal writing that later composers, Britten among them, would also pursue. He was skilled at the ground bass technique — a repeating bass line over which melodic and harmonic material varies — most famously in Dido's lament 'When I am laid in earth', one of the most emotionally affecting arias in the Baroque repertoire. He wrote extensively across sacred anthems, theatrical incidental music and instrumental works, demonstrating comprehensive mastery across the full range of late-seventeenth-century English musical genres."
+    },
+    "impact": {
+      "ja": "「ディドとエネアス」は、その後何世代にもわたって並ぶもののない、英語オペラの一つの基準を打ち立て、この時代唯一の広く上演され続ける英語オペラであり続けている。早すぎる死に続いて、イギリスがおよそ2世紀にわたり国際的に匹敵する地位の作曲家を輩出しなかったことは、エルガーやヴォーン・ウィリアムズ、ブリテンといった、このコレクションですでに触れた「イギリス音楽ルネサンス」がやがて埋めることになる歴史的な空白の始まりを示している。そのグラウンド・バスの技法とテキスト設定の熟達は、英語声楽音楽の作曲家や研究者にとって、今も研究され続ける模範であり続けている。",
+      "en": "*Dido and Aeneas* established a benchmark for English-language opera that would not be matched for generations, standing as the sole widely performed English opera of its era. His premature death, followed by roughly two centuries without a British composer of comparable international standing, marks the beginning of the historical gap that the 'English Musical Renaissance' — Elgar, Vaughan Williams and Britten, all already covered in this collection — would eventually close. His ground-bass technique and text-setting mastery remain studied models for composers and scholars of English vocal music."
+    },
+    "keywords": {
+      "ja": [
+        "最初の本格的な英語オペラ",
+        "グラウンド・バスの技法",
+        "2世紀に及ぶイギリス音楽の空白の始まり"
+      ],
+      "en": [
+        "The first great English opera",
+        "Ground bass technique",
+        "The start of a two-century English gap"
+      ]
+    }
+  },
   "200": {
     "biography": {
       "ja": "スイス国籍を持ちながらパリで活動し、若い作曲家たちの前衛的な集団「フランス六人組」の一員に数えられた。同じ六人組のメンバーであるプーランクらが軽妙で反ロマン主義的な作風を志向したのに対し、彼はより重厚で劇的な、交響的な感性を持ち続けており、グループの中でもやや異質な存在だった。\n舞台音楽や映画音楽を数多く手がけ、代表作「パシフィック231」は蒸気機関車が加速し減速していく様子を管弦楽だけで描写した、標題性の強い作品として知られている。",
@@ -2852,6 +3138,32 @@
         "Worldly wit and devout faith",
         "Master of French song",
         "Revitalising sacred choral music"
+      ]
+    }
+  },
+  "203": {
+    "biography": {
+      "ja": "きわめて若くして、質感的に極端な前衛的作風の初期作品によって国際的な名声を得た。初期の前衛時代には、弦楽器の拡張奏法や密度の高い音の房(トーン・クラスター)による響きを先駆的に用いた。\nキャリア後期には劇的な様式の転換を遂げ、極端な前衛から離れて、より明確にロマン派的で調性に根ざした、広がりのある交響的な語法へと移行しており、これは20世紀音楽においてもっとも広く論じられる様式的な「方向転換」の一つとされる。何年もかけて書き継がれ拡張された「ポーランド・レクイエム」は、カティンの虐殺や連帯運動をめぐる出来事など、ポーランドの20世紀の政治的な悲劇に直接向き合っている。",
+      "en": "He became internationally famous very young for radically avant-garde, texturally extreme early works. In his early avant-garde period he pioneered extended string techniques and dense tone-cluster textures.\nLater in his career he underwent a dramatic stylistic reversal, moving away from the extreme avant-garde toward a more overtly Romantic, tonally grounded, expansive symphonic idiom — one of the most extensively discussed stylistic 'about-faces' in twentieth-century music. His *Polish Requiem*, written and expanded over many years, engages directly with Poland's twentieth-century political traumas, dedicated to victims of events including the Katyn massacre and the Solidarity movement."
+    },
+    "style": {
+      "ja": "初期は、密度の高い音の房、弦楽器の拡張奏法(駒の向こう側を弾く、楽器の胴を叩くなど)、伝統的な記譜法ではなく図形楽譜を用いるなど、旋律や和声ではなく管弦楽の質感と音色そのものを主要な構成要素として扱う、急進的な音の塊による作曲によって特徴づけられる。後期は一転して、より親しみやすく広がりのある、調性に根ざしたネオ・ロマン主義的な交響的語法へと戻っており、このコレクションで取り上げた作曲家の中でももっとも広く論じられ議論を呼ぶ様式的な転換の一つである。",
+      "en": "His early period is marked by radical sound-mass composition — dense tone clusters, extended string techniques such as playing behind the bridge or striking the instrument body, and graphic rather than traditional notation — treating orchestral texture and timbre as the primary structural material rather than melody or harmony. His later period represents a dramatic reversal toward a more accessible, expansive, tonally grounded neo-Romantic symphonic idiom, one of the most discussed and debated stylistic transformations of any composer covered in this collection."
+    },
+    "impact": {
+      "ja": "初期の前衛的な作品、とりわけ「広島の犠牲者に捧げる哀歌」は、音の塊と拡張奏法による作曲の歴史における画期となり、質感を主要な音楽的要素として探求する後続の世代の作曲家たちに直接影響を与えた。後期の劇的な様式転換は、芸術的な真正性と再創造をめぐる広範な批評的論争を呼び、作曲家の様式的な進化が本物の芸術的成長を意味するのか、それとも以前の急進性からの後退を意味するのかという議論において、しばしば引き合いに出される事例になっている。「ポーランド・レクイエム」は、ブリテンやティペット、ショスタコーヴィチとも並ぶ、このコレクションにおける政治的・歴史的な関心を反映した作品群の一つとして、特定の国民的な悲劇に対する重要な音楽的応答となっている。",
+      "en": "His early avant-garde works, especially the Threnody, became landmark pieces in the history of sound-mass and extended-technique composition, directly influencing generations of composers exploring texture as a primary musical parameter. His later, dramatic stylistic reversal sparked extensive critical debate about artistic authenticity and reinvention, becoming a frequently cited case study in discussions of whether a composer's stylistic evolution represents genuine artistic growth or a retreat from earlier radicalism. The *Polish Requiem* stands alongside other politically and historically engaged works in this collection — Britten, Tippett, Shostakovich — as a major musical response to specific national trauma."
+    },
+    "keywords": {
+      "ja": [
+        "音の塊による前衛様式",
+        "劇的な様式の方向転換",
+        "ポーランドの悲劇への応答"
+      ],
+      "en": [
+        "Sound-mass avant-garde style",
+        "A dramatic stylistic reversal",
+        "Responding to Poland's national trauma"
       ]
     }
   },
