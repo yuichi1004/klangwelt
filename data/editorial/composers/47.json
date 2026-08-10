@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "17世紀最大のヴァイオリンの名手の一人である。モラヴィアの領主に仕える職を無断で放棄し、ザルツブルクでのより良い地位に就くという、当時の奉公契約からすれば重大な違反行為を犯したと伝えられるが、大きな処罰を受けることなくその後も輝かしいキャリアを築いている。\n代表作「ロザリオのソナタ(神秘のソナタ)」では、曲ごとにヴァイオリンの弦の調律を通常とは異なる音高に変える「スコルダトゥーラ」という技法を用いており、通常では不可能な和音や響きを生み出している。この極端な技巧は、各曲がロザリオの祈りの「玄義」を描くという宗教的・神秘的な標題性に奉仕するものだった。",
+    "en": "One of the greatest violin virtuosos of the seventeenth century, he is said to have abandoned his post in the service of a Moravian nobleman without permission to take up a better position in Salzburg — a serious breach of the service contracts of the time — yet somehow avoided major punishment and went on to a distinguished career.\nHis *Rosary Sonatas* ('Mystery Sonatas') employ *scordatura* — deliberately retuning the violin's strings to different pitches for each sonata — producing chords and resonances otherwise impossible on the instrument. This extreme technical device was in service of a devotional programme, each sonata depicting a mystery of the rosary."
+  },
+  "style": {
+    "ja": "極端な技巧的手法、とりわけ曲ごとに開放弦の調律をあえて変える「スコルダトゥーラ」を駆使し、通常では出せない和音の配置や響きの効果を引き出す、技巧的で和声的に冒険的なヴァイオリン書法を特徴とする。この技法は単なる妙技の誇示ではなく、明確な標題性・信仰上の目的に奉仕するものであり、「ロザリオのソナタ」の各曲は、それぞれの調律と性格を通じて特定の宗教的玄義を音楽で描いている。一台の楽器で複数の声部を同時に響かせるかのような多声的なヴァイオリン書法も特徴で、当時の一般的な技術水準をはるかに超えていた。",
+    "en": "His virtuosic, harmonically adventurous violin writing exploits extreme technical devices, above all scordatura — deliberately retuning the open strings for each piece — to access chord voicings and resonant effects otherwise impossible on the instrument. The technique was not mere display but served an explicit programmatic and devotional purpose: each of the Rosary Sonatas musically depicts a specific religious mystery through its particular tuning and character. His polyphonic, multi-voiced violin writing, sounding as though several voices are playing simultaneously on a single instrument, was far ahead of the typical technical demands of his era."
+  },
+  "impact": {
+    "ja": "「ロザリオのソナタ」は17世紀ヴァイオリン音楽の頂点の一つ、スコルダトゥーラ技法の歴史における画期とされており、今日も古楽専門のヴァイオリニストによって研究・演奏され続けている。その極端な技巧と多声的な要求を持つヴァイオリン書法は、のちにバッハが数十年後に書くことになる無伴奏ヴァイオリン曲(しばしば比較の対象となる)へと至る、独奏ヴァイオリン・レパートリーの拡張を先取りするものであり、ヴァイオリン・レパートリーの発展における、広くは知られていないものの重要な先駆者として位置づけられる。",
+    "en": "The Rosary Sonatas are considered one of the pinnacles of seventeenth-century violin music and a landmark in the history of scordatura technique, still studied and performed by specialist early-music violinists today. His violin writing's extreme technical and polyphonic demands anticipated the expansion of solo violin repertoire that later composers would bring to full maturity — Bach's own unaccompanied violin works, written decades later, are frequently compared — positioning him as an important, if less widely known, precursor within the violin repertoire's development."
+  },
+  "keywords": {
+    "ja": [
+      "スコルダトゥーラによる標題的表現",
+      "多声的なヴァイオリン書法",
+      "バッハ無伴奏曲への先駆"
+    ],
+    "en": [
+      "Programmatic use of scordatura",
+      "Polyphonic violin writing",
+      "A precursor to Bach's unaccompanied works"
+    ]
+  }
+}
