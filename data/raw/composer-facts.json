@@ -1,0 +1,8950 @@
+[
+ {
+  "composerId": "1",
+  "wikidataId": "Q239214",
+  "birthPlace": "Keszthely",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Leopold Jansa",
+   "Joseph Böhm",
+   "Gottfried von Preyer"
+  ],
+  "students": [
+   "Jean Sibelius"
+  ],
+  "notableWorks": [
+   "Die Königin von Saba"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "music educator",
+   "pianist",
+   "violinist",
+   "conductor",
+   "music teacher"
+  ],
+  "awards": [],
+  "employers": [
+   "Carltheater"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "2",
+  "wikidataId": "Q81752",
+  "birthPlace": "Ansfelden",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Leopold von Zenetti",
+   "Simon Sechter",
+   "Otto Kitzler"
+  ],
+  "students": [
+   "Károly Aggházy",
+   "Émile Jaques-Dalcroze",
+   "Alexander von Zemlinsky",
+   "Franz Schmidt",
+   "Vladimir de Pachmann"
+  ],
+  "notableWorks": [
+   "Symphony No. 3",
+   "Symphony No. 4",
+   "Symphony No. 5",
+   "Symphony No. 6",
+   "Symphony No. 7",
+   "Symphony No. 8"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "music theorist",
+   "music educator",
+   "organist",
+   "university teacher"
+  ],
+  "awards": [
+   "Knight's Cross of the Order of Franz Joseph",
+   "honorary doctor of the University of Vienna"
+  ],
+  "employers": [
+   "University of Vienna",
+   "University of Music and Performing Arts Vienna"
+  ],
+  "genres": [
+   "classical music",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "3",
+  "wikidataId": "Q66075",
+  "birthPlace": "Genoa",
+  "deathPlace": "Nice",
+  "teachers": [
+   "Ferdinando Paer",
+   "Alessandro Rolla",
+   "Gasparo Ghiretti",
+   "Rodolphe Kreutzer"
+  ],
+  "students": [
+   "Camillo Sivori"
+  ],
+  "notableWorks": [
+   "24 Caprices for Solo Violin",
+   "Violin Concerto No. 1",
+   "Violin Concerto n 2 of Niccolò Paganini",
+   "Violin Concerto No. 3",
+   "Violin Concerto No. 4",
+   "Violin Concerto No. 5"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "viola",
+   "guitar"
+  ],
+  "occupations": [
+   "classical composer",
+   "violinist",
+   "violin virtuoso",
+   "violist",
+   "guitarist",
+   "composer"
+  ],
+  "awards": [
+   "Order of the Golden Spur"
+  ],
+  "employers": [],
+  "genres": [
+   "art music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "4",
+  "wikidataId": "Q435688",
+  "birthPlace": "Stockholm",
+  "deathPlace": "Jonsered",
+  "teachers": [
+   "Richard Andersson",
+   "Karl Heinrich Barth"
+  ],
+  "students": [
+   "Ruth Almén"
+  ],
+  "notableWorks": [
+   "Piano Concerto No. 2"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "composer",
+   "pianist",
+   "musician"
+  ],
+  "awards": [
+   "honorary doctor of the University of Gothenburg"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "5",
+  "wikidataId": "Q189534",
+  "birthPlace": "Paide",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Für Lennart in memoriam",
+   "Adam's Lament",
+   "Spiegel im Spiegel",
+   "In principio",
+   "Für Alina",
+   "Fratres"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "classical composer",
+   "musician",
+   "composer"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Herder Prize",
+   "Praemium Imperiale",
+   "Léonie Sonning Music Prize",
+   "Recipient of the Order of the National Coat of Arms, 1st Class",
+   "Honorary doctor of the University of Liège"
+  ],
+  "employers": [],
+  "genres": [
+   "symphony",
+   "contemporary classical music",
+   "minimalist music",
+   "religious music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "6",
+  "wikidataId": "Q190933",
+  "birthPlace": "Vienna",
+  "deathPlace": "Mittersill",
+  "teachers": [
+   "Arnold Schoenberg"
+  ],
+  "students": [
+   "Humphrey Searle",
+   "Hans Swarowsky"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "musician",
+   "composer",
+   "music arranger"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "impressionism in music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "7",
+  "wikidataId": "Q313371",
+  "birthPlace": "Brno",
+  "deathPlace": "Hollywood",
+  "teachers": [
+   "Alexander von Zemlinsky"
+  ],
+  "students": [
+   "Jean Fenn"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "pianist",
+   "conductor",
+   "film score composer",
+   "librettist",
+   "composer"
+  ],
+  "awards": [
+   "Academy Award for Best Original Score"
+  ],
+  "employers": [
+   "University of Music and Performing Arts Vienna"
+  ],
+  "genres": [
+   "opera",
+   "film score"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "8",
+  "wikidataId": "Q312698",
+  "birthPlace": "Q22905",
+  "deathPlace": "Grez-sur-Loing",
+  "teachers": [
+   "Carl Reinecke"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Piano Concerto",
+   "Q2109950",
+   "Requiem"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [
+   "Royal Philharmonic Society Gold Medal",
+   "Order of the Companions of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "9",
+  "wikidataId": "Q55524",
+  "birthPlace": "Paris",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Giacomo Carissimi"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Venez divin Messie",
+   "Te Deum"
+  ],
+  "movements": [
+   "classical music",
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ",
+   "voice"
+  ],
+  "occupations": [
+   "composer",
+   "choreographer",
+   "singer",
+   "organist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "10",
+  "wikidataId": "Q1192",
+  "birthPlace": "Florence",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Nicolas Métru",
+   "Nicolas Gigault",
+   "François Roberday"
+  ],
+  "students": [
+   "Georg Muffat",
+   "Marin Marais",
+   "Pascal Collasse",
+   "Jean-Baptiste Lully fils",
+   "Johann Sigismund Kusser",
+   "Johann Caspar Ferdinand Fischer"
+  ],
+  "notableWorks": [
+   "Bellérophon",
+   "Isis",
+   "Thésée",
+   "Le Bourgeois gentilhomme"
+  ],
+  "movements": [
+   "classical music",
+   "Baroque music"
+  ],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "choreographer",
+   "violinist",
+   "music educator",
+   "ballet dancer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "classical music",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "11",
+  "wikidataId": "Q223258",
+  "birthPlace": "Polička",
+  "deathPlace": "Liestal",
+  "teachers": [
+   "Albert Roussel",
+   "Arthur Honegger",
+   "Josef Suk"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Ariane",
+   "Concerto for Oboe and Small Orchestra",
+   "Les Larmes du couteau",
+   "The Opening of the Wells",
+   "Julietta",
+   "The Epic of Gilgamesh"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "classical composer",
+   "librettist",
+   "composer",
+   "draftsperson",
+   "violinist",
+   "university teacher"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Rome Prize",
+   "Order of Tomáš Garrigue Masaryk, 2nd class"
+  ],
+  "employers": [
+   "Princeton University"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "12",
+  "wikidataId": "Q50187",
+  "birthPlace": "Liège",
+  "deathPlace": "boulevard Saint-Michel",
+  "teachers": [
+   "Pierre-Joseph-Guillaume Zimmermann",
+   "François Benoist",
+   "Anton Reicha",
+   "Joseph Daussoigne-Méhul",
+   "Henri-Jean Rigel"
+  ],
+  "students": [
+   "Francis Casadesus",
+   "Arthur Coquard",
+   "Charles Tournemire",
+   "Edmond Diet",
+   "Henri Libert",
+   "Mélanie Bonis"
+  ],
+  "notableWorks": [
+   "Prelude, Chorale and Fugue",
+   "Les Béatitudes",
+   "Les Djinns",
+   "Symphony in D minor"
+  ],
+  "movements": [],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "music educator",
+   "pianist",
+   "teacher"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Knight of the French Order of Academic Palms"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "Royal Conservatory of Brussels"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "13",
+  "wikidataId": "Q356499",
+  "birthPlace": "London Borough of Hillingdon",
+  "deathPlace": "London",
+  "teachers": [
+   "R. O. Morris"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Symphony No. 4",
+   "Symphony No. 3",
+   "The Midsummer Marriage",
+   "King Priam"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "conductor",
+   "classical composer",
+   "autobiographer",
+   "musicologist",
+   "librettist",
+   "composer"
+  ],
+  "awards": [
+   "Commander of the Order of the British Empire",
+   "Gramophone Award for Lifetime Achievement",
+   "Royal Philharmonic Society Gold Medal",
+   "Order of Merit",
+   "Companion of Honour",
+   "honorary doctor of the Royal College of Music"
+  ],
+  "employers": [
+   "Morley College"
+  ],
+  "genres": [
+   "opera",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "14",
+  "wikidataId": "Q192958",
+  "birthPlace": "Venosa",
+  "deathPlace": "Gesualdo",
+  "teachers": [
+   "Stefano Felis",
+   "Pomponio Nenna"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Renaissance"
+  ],
+  "instruments": [
+   "lute"
+  ],
+  "occupations": [
+   "composer",
+   "lutenist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "15",
+  "wikidataId": "Q221289",
+  "birthPlace": "Chennai",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano",
+   "voice",
+   "saxophone"
+  ],
+  "occupations": [
+   "singer"
+  ],
+  "awards": [
+   "star on Hollywood Walk of Fame"
+  ],
+  "employers": [],
+  "genres": [
+   "easy listening"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "16",
+  "wikidataId": "Q102124394",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "17",
+  "wikidataId": "Q152880",
+  "birthPlace": "Brăila",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Aristotelis Koundouroff"
+  ],
+  "students": [
+   "John Cale",
+   "Nil Parent",
+   "Nikos Kypourgos",
+   "Haris Xanthoudakis"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "architect",
+   "engineer",
+   "music educator",
+   "musician",
+   "poet"
+  ],
+  "awards": [
+   "Kyoto Prize in Arts and Philosophy",
+   "honorary doctor of the University of Sydney",
+   "Commander of the National Order of Merit",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "Gresham College",
+   "Indiana University Bloomington"
+  ],
+  "genres": [
+   "contemporary classical music",
+   "electronic music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "18",
+  "wikidataId": "Q185647",
+  "birthPlace": "Moscow",
+  "deathPlace": "Moscow",
+  "teachers": [
+   "Nikolai Zverev",
+   "Vasily Safonov",
+   "Anton Arensky",
+   "Sergei Ivanovich Taneyev"
+  ],
+  "students": [
+   "Alfred La Liberté",
+   "Q111077443"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "Russian symbolism"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "university teacher"
+  ],
+  "awards": [],
+  "employers": [
+   "Moscow Conservatory"
+  ],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "19",
+  "wikidataId": "Q216870",
+  "birthPlace": "West Chester",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Rosario Scalero"
+  ],
+  "students": [
+   "Charles Turner"
+  ],
+  "notableWorks": [
+   "Cello Concerto",
+   "Adagio for Strings",
+   "Agnus Dei",
+   "Violin Concerto",
+   "Antony and Cleopatra",
+   "Capricorn Concerto"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "pianist",
+   "conductor",
+   "musician"
+  ],
+  "awards": [
+   "Rome Prize",
+   "Guggenheim Fellowship",
+   "Pulitzer Prize for Music",
+   "Fellow of the American Academy of Arts and Sciences"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "20",
+  "wikidataId": "Q313554",
+  "birthPlace": "Northampton",
+  "deathPlace": "Norwich",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Q2427480",
+   "Symphony No. 4"
+  ],
+  "movements": [],
+  "instruments": [
+   "trumpet"
+  ],
+  "occupations": [
+   "classical composer",
+   "trumpeter",
+   "conductor",
+   "jazz musician",
+   "film score composer",
+   "composer"
+  ],
+  "awards": [
+   "Commander of the Order of the British Empire",
+   "Academy Award for Best Score, Adaptation or Treatment",
+   "Knight Bachelor"
+  ],
+  "employers": [],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "21",
+  "wikidataId": "Q185040",
+  "birthPlace": "Nizhny Novgorod",
+  "deathPlace": "Saint Petersburg",
+  "teachers": [
+   "Alexandre Dubuque"
+  ],
+  "students": [
+   "Fedir Yakymenko",
+   "Nikolai Rimsky-Korsakov"
+  ],
+  "notableWorks": [
+   "Tamara"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pedagogue",
+   "musicologist",
+   "pianist",
+   "music educator"
+  ],
+  "awards": [
+   "Order of Saint Stanislaus, 2nd class",
+   "Order of Saint Stanislaus"
+  ],
+  "employers": [
+   "Saint Petersburg – Warsaw Railway",
+   "Saint Petersburg Court Capella",
+   "Free Music School"
+  ],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "22",
+  "wikidataId": "Q57247",
+  "birthPlace": "Paris",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Charles-Marie Widor",
+   "Albert Roussel",
+   "Vincent d'Indy"
+  ],
+  "students": [
+   "Chou Wen-chung",
+   "André Jolivet"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "avant-garde",
+   "20th-century classical music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "conductor"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "23",
+  "wikidataId": "Q71526",
+  "birthPlace": "Châtellerault",
+  "deathPlace": "Paris",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Renaissance music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "liturgical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "24",
+  "wikidataId": "Q503225",
+  "birthPlace": "The Bronx",
+  "deathPlace": "New York City",
+  "teachers": [],
+  "students": [
+   "Seymour Shifrin"
+  ],
+  "notableWorks": [
+   "Symphony No. 8"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "conductor",
+   "classical composer",
+   "musicologist",
+   "music educator",
+   "university teacher",
+   "composer"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "National Medal of Arts",
+   "Handel Medallion",
+   "Pulitzer Prize for Music",
+   "Kennedy Center Honors",
+   "Arts and Letters Award in Music"
+  ],
+  "employers": [
+   "Juilliard School",
+   "Sarah Lawrence College",
+   "Federal Theatre Project"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "25",
+  "wikidataId": "Q78524",
+  "birthPlace": "Vienna",
+  "deathPlace": "Larchmont",
+  "teachers": [
+   "Anton Door",
+   "Robert Fuchs",
+   "Johann Nepomuk Fuchs",
+   "Anton Bruckner",
+   "Wilhelm Rauch"
+  ],
+  "students": [
+   "Johanna Müller-Hermann",
+   "Alma Mahler",
+   "Otto Janowitz"
+  ],
+  "notableWorks": [
+   "Der Kreidekreis",
+   "Sonata in A minor for cello and piano"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "conductor",
+   "classical composer",
+   "writer",
+   "teacher",
+   "composer",
+   "music arranger"
+  ],
+  "awards": [],
+  "employers": [
+   "National Theatre",
+   "Divadlo 5. května",
+   "Nové německé divadlo"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "26",
+  "wikidataId": "Q154331",
+  "birthPlace": "Târnăveni",
+  "deathPlace": "Vienna",
+  "teachers": [],
+  "students": [
+   "Ulf Schirmer",
+   "Giuseppe Sinopoli",
+   "Ari Angervo",
+   "Jan Bark",
+   "Silvia Fómina",
+   "Gunnar Ahlberg"
+  ],
+  "notableWorks": [
+   "Poème symphonique"
+  ],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "music educator",
+   "university teacher",
+   "pianist",
+   "musician",
+   "librettist"
+  ],
+  "awards": [
+   "Kossuth Prize",
+   "Ring of Honour of the City of Vienna",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Pour le Mérite for Sciences and Arts order",
+   "Theodor W. Adorno Award",
+   "Balzan Prize"
+  ],
+  "employers": [
+   "Hamburg University of Music and Drama"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "27",
+  "wikidataId": "Q174606",
+  "birthPlace": "Venice",
+  "deathPlace": "Venice",
+  "teachers": [
+   "Giovanni Legrenzi"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "violinist",
+   "chef de chant",
+   "playwright",
+   "writer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "28",
+  "wikidataId": "Q311629",
+  "birthPlace": "Ghent",
+  "deathPlace": "Ferrara",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "church music",
+   "Renaissance music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "29",
+  "wikidataId": "Q180278",
+  "birthPlace": "Paris",
+  "deathPlace": "Saint-Cloud",
+  "teachers": [
+   "Anton Reicha",
+   "Fromental Halévy"
+  ],
+  "students": [
+   "Pierre-Auguste Renoir",
+   "Spiro Samara",
+   "Charles-Édouard Lefebvre",
+   "Henri Büsser"
+  ],
+  "notableWorks": [
+   "Faust",
+   "Roméo et Juliete",
+   "Funeral March of a Marionette"
+  ],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "classical composer",
+   "musicologist",
+   "music educator",
+   "organist",
+   "composer"
+  ],
+  "awards": [
+   "Prix de Rome",
+   "Royal Philharmonic Society Gold Medal",
+   "Commander of the Legion of Honour",
+   "Grand Officer of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "oratorio"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "30",
+  "wikidataId": "Q151953",
+  "birthPlace": "Bratislava",
+  "deathPlace": "Weimar",
+  "teachers": [
+   "Wolfgang Amadeus Mozart",
+   "Muzio Clementi",
+   "Joseph Haydn",
+   "Johann Georg Albrechtsberger",
+   "Hiller",
+   "Antonio Salieri"
+  ],
+  "students": [
+   "Charles Zeuner",
+   "Adolf von Henselt",
+   "Carl Czerny",
+   "Julius Benedict",
+   "Franz Xaver Wolfgang Mozart"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "guitar",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pianist",
+   "concertmaster",
+   "music educator",
+   "music arranger"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "sardana"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "31",
+  "wikidataId": "Q356804",
+  "birthPlace": "Charleston",
+  "deathPlace": "Media",
+  "teachers": [],
+  "students": [
+   "Ricardo Zohn-Muldoon"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "university teacher"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Pulitzer Prize for Music",
+   "Fulbright Scholarship",
+   "Arts and Letters Award in Music"
+  ],
+  "employers": [
+   "Arizona State University",
+   "University of Pennsylvania",
+   "University of Colorado Boulder"
+  ],
+  "genres": [
+   "classical music",
+   "contemporary classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "32",
+  "wikidataId": "Q311389",
+  "birthPlace": "Buenos Aires",
+  "deathPlace": "Geneva",
+  "teachers": [
+   "Youra Guller",
+   "Aaron Copland"
+  ],
+  "students": [
+   "Astor Piazzolla",
+   "Alcides Lanza",
+   "Waldo de los Ríos",
+   "Jacqueline Nova",
+   "Regina Benavente"
+  ],
+  "notableWorks": [
+   "Harp Concerto"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "film score composer",
+   "librettist"
+  ],
+  "awards": [
+   "Guggenheim Fellowship"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "sardana"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "33",
+  "wikidataId": "Q707845",
+  "birthPlace": "Prague",
+  "deathPlace": "Prague",
+  "teachers": [
+   "Jaroslav Kocián",
+   "Marie Hlounova",
+   "Alexandr Plocek"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "viola",
+   "violin"
+  ],
+  "occupations": [
+   "conductor",
+   "pedagogue",
+   "chamber musician",
+   "composer",
+   "violinist",
+   "musician"
+  ],
+  "awards": [
+   "Národní umělec",
+   "Czech Medal of Merit",
+   "Knight of the Legion of Honour",
+   "honorary citizen of Prague 2",
+   "National Artist",
+   "Merited Artist of Czechoslovakia"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "34",
+  "wikidataId": "Q153008",
+  "birthPlace": "Kecskemét",
+  "deathPlace": "Budapest",
+  "teachers": [
+   "Hans von Koessler",
+   "Charles-Marie Widor"
+  ],
+  "students": [
+   "Béla Tardos",
+   "Anne Lauber",
+   "Antal Doráti",
+   "István Pártos",
+   "Helen Glatz",
+   "Ferenc Fricsay"
+  ],
+  "notableWorks": [
+   "Háry János",
+   "The Transylvanian Spinning-room",
+   "Dances of Galánta",
+   "Psalmus Hungaricus",
+   "Sonata for Solo Cello"
+  ],
+  "movements": [],
+  "instruments": [
+   "cello"
+  ],
+  "occupations": [
+   "linguist",
+   "classical composer",
+   "conductor",
+   "politician",
+   "secondary school teacher",
+   "musicologist"
+  ],
+  "awards": [
+   "Kossuth Prize",
+   "Kossuth Order of Merit",
+   "Corvin Wreath",
+   "Hungarian Heritage Award",
+   "Great Artist of Hungary Award"
+  ],
+  "employers": [
+   "Franz Liszt Academy of Music",
+   "Nyugat"
+  ],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "35",
+  "wikidataId": "Q7317",
+  "birthPlace": "Le Roncole",
+  "deathPlace": "Milan",
+  "teachers": [
+   "Vincenzo Lavigna",
+   "Ferdinando Provesi"
+  ],
+  "students": [],
+  "notableWorks": [
+   "La traviata",
+   "Rigoletto",
+   "Aida",
+   "Nabucco",
+   "Il trovatore",
+   "Messa da Requiem"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "writer",
+   "politician"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Knight Grand Cross of the Order of Saints Maurice and Lazarus",
+   "Order of Saint Stanislaus",
+   "Knight of the Legion of Honour",
+   "Grand Cross of the Legion of Honour",
+   "Civil Order of Savoy"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "36",
+  "wikidataId": "Q207947",
+  "birthPlace": "Down Ampney",
+  "deathPlace": "London",
+  "teachers": [
+   "Charles Villiers Stanford",
+   "Hubert Parry",
+   "Walter Parratt",
+   "Max Bruch",
+   "Charles Wood"
+  ],
+  "students": [
+   "Dorothy Gow",
+   "Joan Trimble",
+   "Helen Glatz",
+   "Gustav Holst",
+   "Ina Boyle",
+   "Elizabeth Maconchy"
+  ],
+  "notableWorks": [
+   "Symphony No. 4",
+   "Symphony No. 5",
+   "Sir John in Love",
+   "A Sea Symphony",
+   "The Lark Ascending",
+   "A Pastoral Symphony"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "conductor",
+   "classical composer",
+   "choreographer",
+   "organist",
+   "pedagogue",
+   "musicologist"
+  ],
+  "awards": [
+   "Royal Philharmonic Society Gold Medal",
+   "Albert Medal",
+   "Walter Willson Cobbett Medal",
+   "Order of Merit",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "Birkbeck, University of London"
+  ],
+  "genres": [
+   "classical music",
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "37",
+  "wikidataId": "Q193283",
+  "birthPlace": "Cádiz",
+  "deathPlace": "Alta Gracia",
+  "teachers": [
+   "José Tragó",
+   "Felip Pedrell",
+   "Alejandro Odero",
+   "Enrique Broca"
+  ],
+  "students": [],
+  "notableWorks": [
+   "El amor brujo",
+   "The Three-Cornered Hat",
+   "Fantasía Bética",
+   "El retablo de maese Pedro",
+   "Harpsichord Concerto"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "poet",
+   "pianist",
+   "musician"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Grand Cross of the Civil Order of Alfonso X the Wise",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [],
+  "genres": [
+   "orchestra",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "38",
+  "wikidataId": "Q77177",
+  "birthPlace": "George Enescu",
+  "deathPlace": "8th arrondissement of Paris",
+  "teachers": [
+   "Gabriel Fauré",
+   "Robert Fuchs",
+   "Joseph Hellmesberger",
+   "Jules Massenet",
+   "André Gedalge",
+   "Martin Pierre Marsick"
+  ],
+  "students": [
+   "Marius Constant",
+   "Yehudi Menuhin",
+   "Christian Ferras",
+   "Ivry Gitlis",
+   "Arthur Grumiaux",
+   "Serge Blanc"
+  ],
+  "notableWorks": [
+   "Octet",
+   "Romanian Rhapsody No. 1",
+   "Poeme roumain",
+   "Œdipe",
+   "Violin Sonata No. 3",
+   "Q3503312"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "violinist",
+   "pianist",
+   "conductor",
+   "music educator",
+   "university teacher"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "École Normale de Musique de Paris Alfred Cortot",
+   "Accademia Musicale Chigiana",
+   "George Enescu Philharmonic Orchestra",
+   "New York Philharmonic",
+   "BBC Symphony Orchestra"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "chamber music",
+   "piano"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "39",
+  "wikidataId": "Q53068",
+  "birthPlace": "Cremona",
+  "deathPlace": "Venice",
+  "teachers": [
+   "Marc'Antonio Ingegneri"
+  ],
+  "students": [
+   "Giovanni Rovetta"
+  ],
+  "notableWorks": [
+   "L'incoronazione di Poppea",
+   "L'Orfeo",
+   "Il ritorno d'Ulisse in patria",
+   "Il combattimento di Tancredi e Clorinda"
+  ],
+  "movements": [
+   "Renaissance music",
+   "Baroque music"
+  ],
+  "instruments": [
+   "viola da braccio",
+   "viol",
+   "pipe organ"
+  ],
+  "occupations": [
+   "music theorist",
+   "viol player",
+   "Catholic priest",
+   "classical composer",
+   "singer",
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "Baroque music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "40",
+  "wikidataId": "Q172505",
+  "birthPlace": "Mar del Plata",
+  "deathPlace": "Buenos Aires",
+  "teachers": [
+   "Nadia Boulanger",
+   "Alberto Ginastera"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Adiós Nonino",
+   "Libertango",
+   "Estaciones Porteñas",
+   "Suite del Ángel",
+   "Five Tango Sensations",
+   "Le Grand Tango"
+  ],
+  "movements": [],
+  "instruments": [
+   "bandoneon"
+  ],
+  "occupations": [
+   "composer",
+   "bandoneonist",
+   "conductor",
+   "film score composer"
+  ],
+  "awards": [
+   "César Award for Best Music Written for a Film",
+   "Latin Grammy Hall of Fame"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "nuevo tango",
+   "tango"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "41",
+  "wikidataId": "Q215161",
+  "birthPlace": "Lyon",
+  "deathPlace": "16th arrondissement of Paris",
+  "teachers": [
+   "François-Joseph Fétis",
+   "Jacques-Nicolas Lemmens"
+  ],
+  "students": [
+   "Arthur Honegger",
+   "Olivier Messiaen",
+   "Darius Milhaud",
+   "Charles Tournemire",
+   "Emil Frey",
+   "Henri Libert"
+  ],
+  "notableWorks": [
+   "Symphony for Organ No. 5",
+   "Symphony for Organ No. 9"
+  ],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "classical composer",
+   "organist",
+   "music educator",
+   "music critic",
+   "university teacher",
+   "pedagogue"
+  ],
+  "awards": [
+   "Grand Officer of the Legion of Honour",
+   "Grand Officer of the Order of the Crown",
+   "Commander of the Order of Christ",
+   "Order of Saint Stanislaus",
+   "Knight Commander of the Order of St. Gregory the Great"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "Église Saint-François-de-Sales de Lyon",
+   "Church of Saint-Sulpice"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "42",
+  "wikidataId": "Q382748",
+  "birthPlace": "Wahoo",
+  "deathPlace": "Rochester",
+  "teachers": [],
+  "students": [
+   "Ulysses Kay",
+   "Dorothy James"
+  ],
+  "notableWorks": [
+   "Concerto da Camera in C minor for piano and String Quartet",
+   "Q1942981",
+   "Merry Mount"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "pianist",
+   "classical composer",
+   "musicologist",
+   "music theorist",
+   "composer"
+  ],
+  "awards": [
+   "Rome Prize",
+   "Charles E. Lutton Man of Music Award",
+   "Pulitzer Prize for Music",
+   "Laurel Leaf Award"
+  ],
+  "employers": [
+   "Eastman School of Music"
+  ],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "43",
+  "wikidataId": "Q164004",
+  "birthPlace": "Saint Petersburg",
+  "deathPlace": "Saint Petersburg",
+  "teachers": [
+   "Nikolay Zinin"
+  ],
+  "students": [],
+  "notableWorks": [
+   "String Quartet No. 2",
+   "Prince Igor"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano",
+   "flute",
+   "cello"
+  ],
+  "occupations": [
+   "classical composer",
+   "chemist",
+   "pianist",
+   "flautist",
+   "cellist",
+   "physician"
+  ],
+  "awards": [
+   "Honorary Citizen of the Russian Empire",
+   "Tony Award for Best Musical"
+  ],
+  "employers": [
+   "First Pavlov State Medical University of St. Petersburg"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "romance",
+   "chamber music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "44",
+  "wikidataId": "Q310939",
+  "birthPlace": "Oldham",
+  "deathPlace": "Ischia",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Spitfire Prelude and Fugue"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "film score composer",
+   "opera composer",
+   "composer",
+   "musician"
+  ],
+  "awards": [
+   "Royal Philharmonic Society Gold Medal",
+   "Benjamin Franklin Medal",
+   "Knight Bachelor",
+   "Walter Willson Cobbett Medal",
+   "Order of Merit"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "45",
+  "wikidataId": "Q150445",
+  "birthPlace": "11th arrondissement of Paris",
+  "deathPlace": "Algiers",
+  "teachers": [
+   "François Benoist",
+   "Fromental Halévy",
+   "Camille-Marie Stamaty"
+  ],
+  "students": [
+   "Gabriel Fauré",
+   "André Messager"
+  ],
+  "notableWorks": [
+   "Piano Concerto No. 1",
+   "Piano Concerto No. 2",
+   "Symphony No. 3",
+   "Danse macabre",
+   "The Carnival of the Animals"
+  ],
+  "movements": [
+   "classical music",
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano",
+   "violin",
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "conductor",
+   "pianist",
+   "music critic",
+   "music teacher"
+  ],
+  "awards": [
+   "Grand Cross of the Legion of Honour",
+   "Pour le Mérite for Sciences and Arts order",
+   "Grand Officer of the Legion of Honour",
+   "Commander of the Legion of Honour",
+   "Officer of the Legion of Honour",
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "concerto"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "46",
+  "wikidataId": "Q80135",
+  "birthPlace": "Saint Petersburg",
+  "deathPlace": "Moscow",
+  "teachers": [
+   "Leonid Nikolayev",
+   "Alexandra Rozanova",
+   "Ignatiy Glyasser",
+   "Maximilian Steinberg",
+   "Nikolay Sokolov",
+   "Alexander Ossovsky"
+  ],
+  "students": [
+   "German Galynin",
+   "Georgy Sviridov",
+   "Galina Ustvolskaya",
+   "Elmira Nəzirova",
+   "Mstislav Rostropovich"
+  ],
+  "notableWorks": [
+   "Symphony No. 1",
+   "Symphony No. 10",
+   "Lady Macbeth of the Mtsensk District",
+   "Symphony No. 5",
+   "The Nose",
+   "Piano Concerto No. 2"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "choreographer",
+   "pianist",
+   "politician",
+   "jazz musician",
+   "university teacher"
+  ],
+  "awards": [
+   "Stalin Prize",
+   "USSR State Prize",
+   "Order of Lenin",
+   "Order of the October Revolution",
+   "People's Artist of the USSR",
+   "Star of People's Friendship"
+  ],
+  "employers": [
+   "Meyerhold State Theatre",
+   "Workers' Youth Theatre",
+   "Saint Petersburg Conservatory",
+   "Moscow Conservatory"
+  ],
+  "genres": [
+   "symphony",
+   "chamber music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "47",
+  "wikidataId": "Q153455",
+  "birthPlace": "Stráž pod Ralskem",
+  "deathPlace": "Salzburg",
+  "teachers": [
+   "Johann Heinrich Schmelzer"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Rosary Sonatas"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "violinist",
+   "musician"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "48",
+  "wikidataId": "Q354335",
+  "birthPlace": "Accrington",
+  "deathPlace": "Mere",
+  "teachers": [
+   "Richard Hall"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "music educator",
+   "film score composer",
+   "musician"
+  ],
+  "awards": [
+   "Chevalier des Arts et des Lettres",
+   "Grawemeyer Awards",
+   "Wihuri Sibelius Prize",
+   "Ernst von Siemens Music Prize",
+   "Grawemeyer Award for Music Composition",
+   "Companion of Honour"
+  ],
+  "employers": [
+   "Royal Academy of Music",
+   "King's College London"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "49",
+  "wikidataId": "Q295400",
+  "birthPlace": "Tymoshivka",
+  "deathPlace": "Lausanne",
+  "teachers": [
+   "Zygmunt Noskowski"
+  ],
+  "students": [
+   "Bolesław Szabelski"
+  ],
+  "notableWorks": [
+   "3 Paganini Caprices",
+   "Symphony No. 3"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "music educator",
+   "university teacher",
+   "pianist",
+   "author"
+  ],
+  "awards": [
+   "Order of St. Sava",
+   "Golden Laurel of the Polish Academy of Literature",
+   "Gold Cross of Merit‎",
+   "Officer of the Order of Polonia Restituta",
+   "Commander of the Order of Polonia Restituta",
+   "Grand Cross of the Order of Polonia Restituta"
+  ],
+  "employers": [
+   "Chopin University of Music"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "50",
+  "wikidataId": "Q143100",
+  "birthPlace": "Beaurevoir",
+  "deathPlace": "Condé-sur-l'Escaut",
+  "teachers": [
+   "Johannes Ockeghem"
+  ],
+  "students": [
+   "Jean Richafort",
+   "Jean Mouton"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "mass",
+   "motet",
+   "chanson"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "51",
+  "wikidataId": "Q170209",
+  "birthPlace": "Catania",
+  "deathPlace": "Puteaux",
+  "teachers": [
+   "Niccolò Antonio Zingarelli"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Norma",
+   "La sonnambula",
+   "I Capuleti e i Montecchi",
+   "I puritani",
+   "La straniera",
+   "Mass in A minor"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "52",
+  "wikidataId": "Q205139",
+  "birthPlace": "Sortelung",
+  "deathPlace": "Copenhagen",
+  "teachers": [],
+  "students": [
+   "Nancy Dalberg",
+   "Trygve Lindeman"
+  ],
+  "notableWorks": [
+   "Min Jesus, lad mit hjerte få",
+   "Clarinet Concerto",
+   "Forunderligt at sige",
+   "Den milde dag er lys og lang",
+   "Min pige er så lys som rav",
+   "Irmelin Rose"
+  ],
+  "movements": [],
+  "instruments": [
+   "flugelhorn",
+   "piano",
+   "violin",
+   "alto trombone",
+   "trumpet",
+   "bugle"
+  ],
+  "occupations": [
+   "conductor",
+   "classical composer",
+   "choreographer",
+   "autobiographer",
+   "music educator",
+   "pianist"
+  ],
+  "awards": [
+   "commander of the Order of the Dannebrog"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "53",
+  "wikidataId": "Q104919",
+  "birthPlace": "Pamiers",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Camille Saint-Saëns",
+   "Gustave Lefèvre"
+  ],
+  "students": [
+   "Maurice Ravel",
+   "Charles Koechlin",
+   "George Enesco",
+   "Nadia Boulanger",
+   "Émile Vuillermoz",
+   "Louis Aubert"
+  ],
+  "notableWorks": [
+   "Requiem",
+   "Élégie",
+   "Piano Quintet No. 2"
+  ],
+  "movements": [
+   "Romantic music",
+   "impressionism in music"
+  ],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "university teacher",
+   "composer",
+   "organist",
+   "musicologist",
+   "music educator",
+   "teacher"
+  ],
+  "awards": [
+   "Grand Cross of the Legion of Honour",
+   "Knight of the Legion of Honour",
+   "Officer of the Legion of Honour",
+   "Commander of the Legion of Honour",
+   "Grand Officer of the Legion of Honour",
+   "Q62096450"
+  ],
+  "employers": [
+   "Conservatoire de Paris"
+  ],
+  "genres": [
+   "opera",
+   "Romantic music",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "54",
+  "wikidataId": "Q315353",
+  "birthPlace": "Lincolnshire",
+  "deathPlace": "Boston",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "55",
+  "wikidataId": "Q203514",
+  "birthPlace": "Rio de Janeiro",
+  "deathPlace": "Rio de Janeiro",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "String Quartet No. 14",
+   "Chôros No. 1",
+   "String Quartet No. 3",
+   "Bachianas Brasileiras"
+  ],
+  "movements": [],
+  "instruments": [
+   "guitar"
+  ],
+  "occupations": [
+   "composer",
+   "choreographer",
+   "conductor",
+   "musicologist",
+   "secondary school teacher",
+   "classical guitarist"
+  ],
+  "awards": [
+   "honorary doctor of the University of Miami",
+   "Commander of the Legion of Honour",
+   "Livro dos Heróis e Heroínas da Pátria"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "56",
+  "wikidataId": "Q180727",
+  "birthPlace": "Los Angeles",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Fannie Charles Dillon",
+   "Arnold Schoenberg",
+   "Henry Cowell",
+   "Adolph Weiss",
+   "Richard Buhlig"
+  ],
+  "students": [
+   "Geeta Sarabhai"
+  ],
+  "notableWorks": [
+   "The Perilous Night",
+   "Two²",
+   "In the Name of the Holocaust",
+   "Bacchanale",
+   "4′33″",
+   "Sonatas and Interludes"
+  ],
+  "movements": [
+   "Fluxus",
+   "20th-century classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "writer",
+   "poet",
+   "university teacher",
+   "musicologist",
+   "philosopher"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Kyoto Prize in Arts and Philosophy",
+   "Fellow of the American Academy of Arts and Sciences",
+   "Arts and Letters Award in Music",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "Wesleyan University",
+   "Black Mountain College"
+  ],
+  "genres": [
+   "aleatoric music",
+   "opera",
+   "classical music",
+   "electronic music",
+   "experimental music",
+   "musique concrète"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "57",
+  "wikidataId": "Q1178",
+  "birthPlace": "Ciboure",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Gabriel Fauré",
+   "Charles-Wilfrid de Bériot",
+   "André Gedalge",
+   "Emile Pessard",
+   "Santiago Riera",
+   "Eugène Anthiome"
+  ],
+  "students": [
+   "Roland-Manuel",
+   "Manuel Rosenthal"
+  ],
+  "notableWorks": [
+   "Daphnis et Chloé",
+   "Boléro",
+   "Miroirs",
+   "Piano Concerto",
+   "Gaspard de la nuit"
+  ],
+  "movements": [
+   "impressionism in music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "pianist",
+   "composer"
+  ],
+  "awards": [
+   "Prix de Rome",
+   "Knight of the Legion of Honour",
+   "Grammy Hall of Fame",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "classical music",
+   "impressionism in music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "58",
+  "wikidataId": "Q209212",
+  "birthPlace": "Ferrara",
+  "deathPlace": "Rome",
+  "teachers": [
+   "Luzzasco Luzzaschi"
+  ],
+  "students": [
+   "Johann Jakob Froberger",
+   "Johann Kaspar Kerll",
+   "Franz Tunder"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music",
+   "Baroque"
+  ],
+  "instruments": [
+   "organ",
+   "harpsichord"
+  ],
+  "occupations": [
+   "organist",
+   "composer",
+   "harpsichordist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "Baroque music",
+   "Baroque"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "59",
+  "wikidataId": "Q224002",
+  "birthPlace": "Lille",
+  "deathPlace": "17th arrondissement of Paris",
+  "teachers": [
+   "Pierre Baillot",
+   "François Habeneck",
+   "Julius Schulhoff"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Symphonie espagnole",
+   "Le roi d'Ys",
+   "Namouna"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "viola"
+  ],
+  "occupations": [
+   "classical composer",
+   "composer",
+   "violinist"
+  ],
+  "awards": [
+   "Officer of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "60",
+  "wikidataId": "Q9726",
+  "birthPlace": "Casa Rossini",
+  "deathPlace": "Passy",
+  "teachers": [
+   "Stanislao Mattei"
+  ],
+  "students": [
+   "Marietta Alboni",
+   "Adolphe Nourrit",
+   "Anna de La Grange"
+  ],
+  "notableWorks": [
+   "The Barber of Seville",
+   "La Cenerentola",
+   "L'italiana in Algeri",
+   "Il turco in Italia",
+   "Il viaggio a Reims"
+  ],
+  "movements": [],
+  "instruments": [
+   "cello"
+  ],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Grand Officer of the Legion of Honour",
+   "Order of Saint Stanislaus"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "cantata",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "61",
+  "wikidataId": "Q312368",
+  "birthPlace": "Paris",
+  "deathPlace": "Limay",
+  "teachers": [
+   "Jules Massenet"
+  ],
+  "students": [],
+  "notableWorks": [
+   "The Moods of Marianne",
+   "Poème"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "composer",
+   "pianist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "62",
+  "wikidataId": "Q154770",
+  "birthPlace": "Vienna",
+  "deathPlace": "Los Angeles",
+  "teachers": [
+   "Alexander von Zemlinsky"
+  ],
+  "students": [
+   "Josef Rufer",
+   "Alban Berg",
+   "Viktor Ullmann",
+   "Hanns Eisler",
+   "Paul Pisk",
+   "Winfried Zillig"
+  ],
+  "notableWorks": [
+   "Erwartung",
+   "Verklärte Nacht",
+   "A Survivor from Warsaw",
+   "Coalition Chess"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "painter",
+   "musicologist",
+   "music theorist",
+   "writer",
+   "conductor"
+  ],
+  "awards": [
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "Prussian Academy of Arts"
+  ],
+  "genres": [
+   "20th-century classical music",
+   "opera",
+   "atonality",
+   "serialism",
+   "classical music",
+   "Expressionism"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "63",
+  "wikidataId": "Q153776",
+  "birthPlace": "Saint Petersburg",
+  "deathPlace": "Moscow",
+  "teachers": [
+   "Nikolai Myaskovsky",
+   "Georgy Catoire",
+   "Alexander Goldenweiser"
+  ],
+  "students": [
+   "Alexandre Rabinovitch-Barakovsky"
+  ],
+  "notableWorks": [
+   "Piano Concerto No. 3"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "choreographer",
+   "musicologist",
+   "music educator",
+   "university teacher"
+  ],
+  "awards": [
+   "Stalin Prize",
+   "USSR State Prize",
+   "Order of Lenin",
+   "Hero of Socialist Labour",
+   "Order of the Badge of Honour",
+   "People's Artist of the USSR"
+  ],
+  "employers": [
+   "Moscow Conservatory"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "chamber music",
+   "incidental music",
+   "20th-century classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "64",
+  "wikidataId": "Q716174",
+  "birthPlace": "São Paulo",
+  "deathPlace": "Rio de Janeiro",
+  "teachers": [
+   "Luigi Chiaffarelli"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano",
+   "voice"
+  ],
+  "occupations": [
+   "composer",
+   "choreographer",
+   "pianist",
+   "conductor"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "65",
+  "wikidataId": "Q183087",
+  "birthPlace": "Palermo",
+  "deathPlace": "Naples",
+  "teachers": [
+   "Giacomo Carissimi",
+   "Vincenzo Amato",
+   "Marc'Antonio Sportonio"
+  ],
+  "students": [
+   "Francesco Geminiani",
+   "Francesco Durante",
+   "Nicola Fago"
+  ],
+  "notableWorks": [
+   "La Santissima Annunziata",
+   "Stabat Mater",
+   "Griselda",
+   "Mitridate Eupatore",
+   "Il Sedecia"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "harpsichord"
+  ],
+  "occupations": [
+   "composer",
+   "harpsichordist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera",
+   "liturgical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "66",
+  "wikidataId": "Q189766",
+  "birthPlace": "Lucca",
+  "deathPlace": "Madrid",
+  "teachers": [
+   "Giovanni Battista Costanzi"
+  ],
+  "students": [],
+  "notableWorks": [
+   "String Quintet in E major",
+   "Symphony Op. 12 No. 4 (Boccherini)"
+  ],
+  "movements": [],
+  "instruments": [
+   "cello"
+  ],
+  "occupations": [
+   "cellist",
+   "classical pianist",
+   "composer",
+   "property master",
+   "conductor"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "67",
+  "wikidataId": "Q7302",
+  "birthPlace": "Halle (Saale)",
+  "deathPlace": "London",
+  "teachers": [
+   "Friedrich Wilhelm Zachow"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Messiah",
+   "Water Music",
+   "Music for the Royal Fireworks",
+   "Giulio Cesare in Egitto",
+   "Alcina",
+   "Serse"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "pipe organ",
+   "harpsichord",
+   "oboe"
+  ],
+  "occupations": [
+   "composer",
+   "harpsichordist",
+   "organist",
+   "violinist",
+   "opera composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "oratorio",
+   "concerto",
+   "anthem",
+   "classical music",
+   "coronation anthem"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "68",
+  "wikidataId": "Q56158",
+  "birthPlace": "Rue Louise-Émilie-de-La-Tour-d'Auvergne",
+  "deathPlace": "Bougival",
+  "teachers": [
+   "Antonin Marmontel",
+   "Pierre-Joseph-Guillaume Zimmermann",
+   "François Benoist",
+   "Fromental Halévy",
+   "Antoine-François Marmontel"
+  ],
+  "students": [
+   "Paul Lacombe"
+  ],
+  "notableWorks": [
+   "Carmen",
+   "The Pearl Fishers"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "pianist",
+   "composer"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Prix de Rome"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "French opera",
+   "Romantic music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "69",
+  "wikidataId": "Q181894",
+  "birthPlace": "Livorno",
+  "deathPlace": "Rome",
+  "teachers": [
+   "Amilcare Ponchielli",
+   "Alfredo Soffredini",
+   "Michele Saladino"
+  ],
+  "students": [
+   "Josip Hatze",
+   "Edward Kilenyi",
+   "Riccardo Zandonai"
+  ],
+  "notableWorks": [
+   "Cavalleria rusticana",
+   "L'amico Fritz",
+   "Iris"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "conductor",
+   "composer"
+  ],
+  "awards": [
+   "Grand Officer of the Order of Saints Maurice and Lazarus",
+   "Knight grand cross of the order of the crown of Italy"
+  ],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "70",
+  "wikidataId": "Q1352656",
+  "birthPlace": "Richmond Hill",
+  "deathPlace": "Orlando",
+  "teachers": [
+   "Abby Whiteside"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Cowboy Rhapsody"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "pianist",
+   "composer",
+   "film score composer",
+   "television presenter",
+   "musician"
+  ],
+  "awards": [
+   "Grammy Lifetime Achievement Award",
+   "Pulitzer Prize for Music",
+   "Kennedy Center Honors",
+   "star on Hollywood Walk of Fame"
+  ],
+  "employers": [],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "71",
+  "wikidataId": "Q208546",
+  "birthPlace": "Vilnius",
+  "deathPlace": "Saint Petersburg",
+  "teachers": [
+   "Stanisław Moniuszko"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Mateo Falcone",
+   "Feast in Time of Plague",
+   "Mademoiselle Fifi",
+   "Prisoner of the Caucasus",
+   "The Mandarin's Son"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "military engineer",
+   "writer",
+   "military officer",
+   "pianist",
+   "music critic"
+  ],
+  "awards": [
+   "Knight of the Order of St. Alexander Nevsky",
+   "Order of Saint Anna, 1st class",
+   "Order of Saint Anna, 2nd class",
+   "Order of Saint Anna, 3rd class",
+   "Order of the White Eagle",
+   "Order of Saint Stanislaus, 1st class"
+  ],
+  "employers": [
+   "Mikhailovskaya Military Artillery Academy"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "72",
+  "wikidataId": "Q57139",
+  "birthPlace": "Brand",
+  "deathPlace": "Leipzig",
+  "teachers": [
+   "Hugo Riemann",
+   "Albert Fuchs"
+  ],
+  "students": [
+   "Dezső Antalffy-Zsiross",
+   "Sándor Jemnitz",
+   "Mansi Barberis",
+   "Othmar Schoeck",
+   "Erwin Schulhoff",
+   "Hermann Keller"
+  ],
+  "notableWorks": [
+   "Requiem"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ",
+   "piano",
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pianist",
+   "musicologist",
+   "university teacher",
+   "organist"
+  ],
+  "awards": [],
+  "employers": [
+   "Ludwig-Maximilians-Universität München",
+   "University of Music and Theatre Leipzig",
+   "University of Music and Theatre Munich"
+  ],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "73",
+  "wikidataId": "Q153637",
+  "birthPlace": "Helsingborg",
+  "deathPlace": "Lübeck",
+  "teachers": [
+   "Johann Theile"
+  ],
+  "students": [
+   "Nicolaus Bruhns",
+   "Johann Sebastian Bach"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "church musician"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "74",
+  "wikidataId": "Q209684",
+  "birthPlace": "Dublin",
+  "deathPlace": "Moscow",
+  "teachers": [
+   "Muzio Clementi",
+   "Tommaso Giordani",
+   "Johann Georg Albrechtsberger"
+  ],
+  "students": [
+   "Maria Szymanowska",
+   "Edmund Passy",
+   "Charles Meyer",
+   "Boris von Vietinghoff-Scheel",
+   "Alexey Verstovsky",
+   "Antoni Kątski"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "pianist",
+   "composer",
+   "teacher",
+   "poet",
+   "conductor",
+   "music teacher"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "nocturne"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "75",
+  "wikidataId": "Q200867",
+  "birthPlace": "Cheltenham",
+  "deathPlace": "London",
+  "teachers": [
+   "Charles Villiers Stanford"
+  ],
+  "students": [
+   "Jane M. Joseph",
+   "Donald Pond"
+  ],
+  "notableWorks": [
+   "The Planets",
+   "In the Bleak Midwinter"
+  ],
+  "movements": [],
+  "instruments": [
+   "trombone"
+  ],
+  "occupations": [
+   "composer",
+   "librettist",
+   "music teacher",
+   "conductor",
+   "music arranger",
+   "musician"
+  ],
+  "awards": [
+   "Royal Philharmonic Society Gold Medal"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "76",
+  "wikidataId": "Q294225",
+  "birthPlace": "Lleida",
+  "deathPlace": "United Kingdom of Great Britain and Ireland",
+  "teachers": [
+   "Joan Baptista  Pujol",
+   "Felip Pedrell",
+   "Charles-Wilfrid de Bériot"
+  ],
+  "students": [
+   "Frank Marshall",
+   "Conchita Badía",
+   "Alicia de Larrocha",
+   "Rosa Sabater",
+   "Francesca Madriguera i Rodon",
+   "Mercedes Moner Raguer"
+  ],
+  "notableWorks": [
+   "Goyescas",
+   "Partitura",
+   "Danzas Españolas",
+   "María del Carmen",
+   "Q3476609"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist"
+  ],
+  "awards": [
+   "Order of Charles III",
+   "Knight of the Legion of Honour",
+   "Officier de l'Instruction publique"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "sardana"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "77",
+  "wikidataId": "Q7304",
+  "birthPlace": "Kaliště",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Robert Fuchs",
+   "Julius Epstein",
+   "Franz Krenn"
+  ],
+  "students": [
+   "Anna von Mildenburg",
+   "Klaus Pringsheim"
+  ],
+  "notableWorks": [
+   "Symphony No. 1",
+   "Symphony No. 8",
+   "Symphony No. 2",
+   "Symphony No. 5",
+   "Symphony No. 9"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "conductor",
+   "composer",
+   "classical composer",
+   "bandleader",
+   "theatre manager",
+   "chapelmaster"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "symphony",
+   "chamber music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "78",
+  "wikidataId": "Q108278",
+  "birthPlace": "Creuzburg",
+  "deathPlace": "Wolfenbüttel",
+  "teachers": [
+   "Giovanni Gabrieli"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "German Renaissance",
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "music theorist",
+   "librettist",
+   "organist",
+   "conductor"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "79",
+  "wikidataId": "Q7315",
+  "birthPlace": "Votkinsk",
+  "deathPlace": "Saint Petersburg",
+  "teachers": [
+   "Nikolai Zaremba",
+   "Anton Rubinstein"
+  ],
+  "students": [
+   "Alexander Siloti",
+   "Pyotr Danilchenko",
+   "Thomas Matthew James Joyce",
+   "Alexander Vasylovych Khimichenko",
+   "Ina Lange"
+  ],
+  "notableWorks": [
+   "Swan Lake",
+   "The Nutcracker",
+   "The Sleeping Beauty",
+   "Symphony No. 6",
+   "Piano Concerto No. 1",
+   "1812 Overture"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "librettist",
+   "conductor",
+   "choreographer",
+   "music educator",
+   "pianist"
+  ],
+  "awards": [
+   "Order of St. Vladimir, 4th class",
+   "Order of St. Vladimir"
+  ],
+  "employers": [
+   "Moscow Conservatory",
+   "University of Washington"
+  ],
+  "genres": [
+   "symphony",
+   "opera",
+   "ballet",
+   "classical music",
+   "Romantic music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "80",
+  "wikidataId": "Q7294",
+  "birthPlace": "Hamburg",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Eduard Marxsen"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Symphony No. 4",
+   "Symphony No. 1",
+   "Academic Festival Overture",
+   "Tragic Overture",
+   "A German Requiem",
+   "Symphony No. 3"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano",
+   "cello",
+   "horn"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pianist"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Bavarian Maximilian Order for Science and Art",
+   "Royal Philharmonic Society Gold Medal",
+   "honorary doctor of the University of Wrocław",
+   "honorary doctorate from the University of Cambridge",
+   "honorary citizen of Hamburg"
+  ],
+  "employers": [
+   "University of Music and Performing Arts Vienna",
+   "Wiener Singakademie",
+   "Gesellschaft der Musikfreunde"
+  ],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "81",
+  "wikidataId": "Q2251665",
+  "birthPlace": "Cedar Rapids",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Raise the Roof",
+   "Fire and Blood",
+   "Q2552678",
+   "UFO"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "pianist",
+   "composer",
+   "musicologist",
+   "teacher"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Fulbright Scholarship",
+   "Stoeger Prize"
+  ],
+  "employers": [
+   "University of Michigan"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "82",
+  "wikidataId": "Q207717",
+  "birthPlace": "Beersel",
+  "deathPlace": "Cambrai",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Missa Se la face ay pale",
+   "Missa L'Homme armé",
+   "Vassilissa Ergo Gaude",
+   "Nuper rosarum flores",
+   "Lamentatio sanctae matris ecclesiae Constantinopolitanae",
+   "Dieu gard la dame sans reprise"
+  ],
+  "movements": [
+   "Burgundian School"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "music theorist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "polyphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "83",
+  "wikidataId": "Q75854",
+  "birthPlace": "Magdeburg",
+  "deathPlace": "Hamburg",
+  "teachers": [],
+  "students": [
+   "Ferdinand Zellbell Jr."
+  ],
+  "notableWorks": [
+   "Water Music",
+   "Emma und Eginhard",
+   "Germanicus",
+   "Der neumodische Liebhaber Damon",
+   "Der geduldige Socrates",
+   "Sieg der Schönheit"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "classical composer",
+   "chapelmaster",
+   "organist",
+   "composer",
+   "independent publisher",
+   "conductor"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "84",
+  "wikidataId": "Q219551",
+  "birthPlace": "Empoli",
+  "deathPlace": "Berlin",
+  "teachers": [
+   "Wilhelm Mayer"
+  ],
+  "students": [
+   "Zdenka Ticharich",
+   "Michael Zadora",
+   "Egon Petri",
+   "Leo Sirota",
+   "Natalie Curtis",
+   "Emile-Robert Blanchet"
+  ],
+  "notableWorks": [
+   "Turandot"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "conductor",
+   "musicologist",
+   "music educator",
+   "music theorist"
+  ],
+  "awards": [
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "University of Music and Performing Arts Vienna"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "85",
+  "wikidataId": "Q316795",
+  "birthPlace": "Kyiv",
+  "deathPlace": "Moscow",
+  "teachers": [
+   "Sergei Ivanovich Taneyev",
+   "Mikhail Ippolitov-Ivanov",
+   "Otakar Ševčík",
+   "Anton Arensky",
+   "Georgi Conus",
+   "Jan Hřímalý"
+  ],
+  "students": [
+   "Sergei Prokofiev",
+   "Nikolai Myaskovsky",
+   "Aram Khachaturian",
+   "Lev Knipper",
+   "Boris Aleksandrovich Diev",
+   "Aleksandr Davidenko"
+  ],
+  "notableWorks": [
+   "Symphony No. 3",
+   "The Red Poppy"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "choreographer",
+   "musicologist",
+   "music educator",
+   "university teacher"
+  ],
+  "awards": [
+   "Order of Lenin",
+   "Order of the Badge of Honour",
+   "People's Artist of the USSR",
+   "Order of the Red Banner of Labour",
+   "Medal \"For Valiant Labour in the Great Patriotic War 1941–1945\"",
+   "Medal \"In Commemoration of the 800th Anniversary of Moscow\""
+  ],
+  "employers": [
+   "Moscow Conservatory",
+   "Ukrainian National Academy of Music"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "folk music",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "86",
+  "wikidataId": "Q208375",
+  "birthPlace": "Lincolnshire",
+  "deathPlace": "Stondon Massey",
+  "teachers": [
+   "Thomas Tallis",
+   "Sebastian Westcott"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "87",
+  "wikidataId": "Q1339",
+  "birthPlace": "Eisenach",
+  "deathPlace": "Leipzig",
+  "teachers": [
+   "Johann Ambrosius Bach",
+   "Johann Christoph Bach III",
+   "Johann Ludwig Bach",
+   "Johann Christoph Bach II",
+   "Dietrich Buxtehude"
+  ],
+  "students": [
+   "Johann Friedrich Agricola",
+   "Johann Christoph Altnickol",
+   "Johann Friedrich Doles",
+   "Carl Gotthelf Gerlach",
+   "Johann Ludwig Krebs",
+   "Johann Gottfried Müthel"
+  ],
+  "notableWorks": [
+   "Brandenburg Concertos",
+   "Cello Suites",
+   "Sonatas and partitas for solo violin",
+   "Notebook for Anna Magdalena Bach",
+   "Klavierbüchlein für Wilhelm Friedemann Bach",
+   "Mass in B minor"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ",
+   "harpsichord",
+   "violin",
+   "viola",
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "harpsichordist",
+   "violinist",
+   "violist",
+   "conductor"
+  ],
+  "awards": [],
+  "employers": [
+   "Johann Ernst III, Duke of Saxe-Weimar",
+   "Bachkirche Arnstadt",
+   "Saint Blaise",
+   "Leopold, Prince of Anhalt-Köthen",
+   "Thomasschule zu Leipzig",
+   "Collegium Musicum"
+  ],
+  "genres": [
+   "Baroque music",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "88",
+  "wikidataId": "Q154792",
+  "birthPlace": "Mons",
+  "deathPlace": "Munich",
+  "teachers": [
+   "Hoste da Reggio"
+  ],
+  "students": [
+   "Andrea Gabrieli",
+   "Giovanni Gabrieli",
+   "Francisco Leontaritis"
+  ],
+  "notableWorks": [
+   "Lagrime di San Pietro"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "court chapel master",
+   "conductor"
+  ],
+  "awards": [
+   "Order of the Golden Spur"
+  ],
+  "employers": [],
+  "genres": [
+   "motet",
+   "polyphony",
+   "Renaissance music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "89",
+  "wikidataId": "Q101698",
+  "birthPlace": "Bergamo",
+  "deathPlace": "Bergamo",
+  "teachers": [
+   "Johann Simon Mayr",
+   "Stanislao Mattei"
+  ],
+  "students": [
+   "Michele Puccini"
+  ],
+  "notableWorks": [
+   "L'elisir d'amore",
+   "Lucia di Lammermoor",
+   "Don Pasquale",
+   "La Fille du régiment",
+   "Maria Stuarda"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Order of the Golden Spur"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "Catholic Mass",
+   "cantata"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "90",
+  "wikidataId": "Q77031",
+  "birthPlace": "Karlsruhe",
+  "deathPlace": "Ettlingen",
+  "teachers": [],
+  "students": [
+   "Jörg Widmann",
+   "Rebecca Saunders"
+  ],
+  "notableWorks": [
+   "Concerto",
+   "Zwiesprache",
+   "Klavierstück Nr. 6",
+   "Jakob Lenz",
+   "Die Hamletmaschine"
+  ],
+  "movements": [
+   "Neue Musik"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "university teacher",
+   "librettist",
+   "musicologist",
+   "essayist"
+  ],
+  "awards": [
+   "Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Order of Merit of Baden-Württemberg",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Musikpreis der Stadt Duisburg",
+   "Pour le Mérite for Sciences and Arts order",
+   "Bavarian Maximilian Order for Science and Art"
+  ],
+  "employers": [
+   "Hochschule für Musik Karlsruhe"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "91",
+  "wikidataId": "Q183256",
+  "birthPlace": "Louviers",
+  "deathPlace": "Louveciennes",
+  "teachers": [
+   "Noël Gallon",
+   "Jean Gallon"
+  ],
+  "students": [
+   "Georges Prêtre",
+   "Xavier Darasse",
+   "Jean-Claude Touche",
+   "André Jorrand"
+  ],
+  "notableWorks": [
+   "Requiem"
+  ],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "music educator",
+   "conductor",
+   "music arranger",
+   "musician"
+  ],
+  "awards": [
+   "Grand Prix du Disque"
+  ],
+  "employers": [
+   "Conservatoire de Paris"
+  ],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "92",
+  "wikidataId": "Q130759",
+  "birthPlace": "Erasbach",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Giovanni Battista Sammartini",
+   "Giovanni Battista Martini"
+  ],
+  "students": [
+   "Franz Ignaz von Beecke",
+   "Jan Antonín Koželuh"
+  ],
+  "notableWorks": [
+   "Orfeo ed Euridice",
+   "Iphigénie en Tauride",
+   "Alceste",
+   "Iphigénie en Aulide",
+   "Armide"
+  ],
+  "movements": [
+   "Classical period"
+  ],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "conductor"
+  ],
+  "awards": [
+   "Order of the Golden Spur"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "classical music",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "93",
+  "wikidataId": "Q44086",
+  "birthPlace": "Munich",
+  "deathPlace": "Munich",
+  "teachers": [
+   "Hermann Zilcher"
+  ],
+  "students": [
+   "Edwin Carr",
+   "Wilfried Hiller",
+   "Thrasybulos Georgiades",
+   "Giorgos Hadjinikos"
+  ],
+  "notableWorks": [
+   "Die Kluge",
+   "Carmina Burana",
+   "Der Mond",
+   "Catulli Carmina"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ",
+   "piano",
+   "cello",
+   "percussion instrument",
+   "xylophone"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "music educator",
+   "university teacher",
+   "music theorist",
+   "librettist"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "honorary citizen of Munich",
+   "Bavarian Order of Merit",
+   "National Prize of East Germany",
+   "Great Cross with Star and Sash of the Order of Merit of the Federal Republic of Germany",
+   "Goethe Plaque of the City of Frankfurt"
+  ],
+  "employers": [
+   "University of Music and Theatre Munich",
+   "Mozarteum University Salzburg",
+   "Musikheim"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "94",
+  "wikidataId": "Q1275145",
+  "birthPlace": "Dublin",
+  "deathPlace": "New York City",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "cello"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "screenwriter",
+   "cellist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "operetta"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "95",
+  "wikidataId": "Q189729",
+  "birthPlace": "Baltimore",
+  "teachers": [
+   "Nadia Boulanger",
+   "Vincent Persichetti",
+   "William Bergsma",
+   "Darius Milhaud"
+  ],
+  "students": [
+   "Antonio Pinto"
+  ],
+  "notableWorks": [
+   "Symphony No. 7",
+   "Monsters of Grace",
+   "Symphony No. 4",
+   "La Belle et la Bête"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano",
+   "bass",
+   "drum kit"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "film score composer",
+   "librettist",
+   "supporting actor"
+  ],
+  "awards": [
+   "Chevalier des Arts et des Lettres",
+   "Praemium Imperiale",
+   "BAFTA Award for Best Original Music",
+   "Glenn Gould Prize",
+   "James Parks Morton Interfaith Award",
+   "Fulbright Scholarship"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "Dixieland jazz",
+   "minimalist music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "96",
+  "wikidataId": "Q184933",
+  "birthPlace": "Hukvaldy",
+  "deathPlace": "Ostrava",
+  "teachers": [
+   "Pavel Křížkovský",
+   "Gregor Mendel",
+   "František Klácel",
+   "František Blažek",
+   "František Zdeněk Skuherský",
+   "Oscar Paul"
+  ],
+  "students": [
+   "Rudolf Firkušný",
+   "Jaroslav Kvapil"
+  ],
+  "notableWorks": [
+   "Jenůfa",
+   "The Cunning Little Vixen",
+   "Káťa Kabanová",
+   "The Makropulos Affair",
+   "From the House of the Dead",
+   "Sinfonietta"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "pedagogue",
+   "conductor",
+   "librettist",
+   "teacher"
+  ],
+  "awards": [
+   "honorary doctorate of the Masaryk University"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "97",
+  "wikidataId": "Q167837",
+  "birthPlace": "Naples",
+  "deathPlace": "Madrid",
+  "teachers": [
+   "Francesco Gasparini"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Essercizi per gravicembalo"
+  ],
+  "movements": [
+   "Baroque music",
+   "Classical period"
+  ],
+  "instruments": [
+   "harpsichord"
+  ],
+  "occupations": [
+   "composer",
+   "harpsichordist",
+   "organist"
+  ],
+  "awards": [
+   "Knight of the Military Order of Saint James of the Sword"
+  ],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "98",
+  "wikidataId": "Q1340",
+  "birthPlace": "Venice",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Giovanni Battista Vivaldi",
+   "Giovanni Legrenzi"
+  ],
+  "students": [
+   "Johann Georg Pisendel",
+   "František Jiránek",
+   "Giovanni Battista Somis",
+   "Anna Girò"
+  ],
+  "notableWorks": [
+   "The Four Seasons",
+   "Orlando furioso",
+   "Juditha triumphans",
+   "Manchester Sonatas",
+   "L'estro armonico, Op. 3",
+   "Gloria in D Major"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "violin",
+   "harpsichord",
+   "viola d'amore"
+  ],
+  "occupations": [
+   "opera composer",
+   "Latin Catholic priest",
+   "composer",
+   "musician",
+   "violinist",
+   "chapelmaster"
+  ],
+  "awards": [],
+  "employers": [
+   "Ospedale della Pietà",
+   "Philip of Hesse-Darmstadt",
+   "Teatro San Angelo"
+  ],
+  "genres": [
+   "opera",
+   "chamber music",
+   "church music",
+   "concerto",
+   "sinfonia",
+   "sardana"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "99",
+  "wikidataId": "Q318354",
+  "birthPlace": "Melbourne",
+  "deathPlace": "White Plains",
+  "teachers": [
+   "Louis Pabst",
+   "James Kwast"
+  ],
+  "students": [
+   "Netty Simons",
+   "Mary Barratt Due"
+  ],
+  "notableWorks": [
+   "County Derry Air",
+   "Afterword",
+   "Shallow Brown"
+  ],
+  "movements": [],
+  "instruments": [
+   "saxophone",
+   "piano"
+  ],
+  "occupations": [
+   "pianist",
+   "composer",
+   "saxophonist",
+   "conductor",
+   "musicologist",
+   "ethnomusicologist"
+  ],
+  "awards": [
+   "St. Olav's Medal"
+  ],
+  "employers": [
+   "New York University"
+  ],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "100",
+  "wikidataId": "Q433592",
+  "birthPlace": "Helsinki",
+  "deathPlace": "Helsinki",
+  "teachers": [
+   "Aarre Merikanto",
+   "Aaron Copland",
+   "Wladimir Vogel",
+   "Roger Sessions",
+   "Vincent Persichetti",
+   "Janne Raitio"
+  ],
+  "students": [
+   "Harri Ahmas",
+   "Magnus Lindberg",
+   "Kalevi Aho",
+   "Olli Mustonen",
+   "Esa-Pekka Salonen",
+   "Olli Kortekangas"
+  ],
+  "notableWorks": [
+   "Die Liebenden",
+   "Cantus Arcticus",
+   "Symphony No. 7"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "university teacher"
+  ],
+  "awards": [
+   "Pro Finlandia Medal of the Order of the Lion of Finland",
+   "Wihuri Sibelius Prize",
+   "Finnish State Prize for Music",
+   "Commander of the Order of the Lion of Finland",
+   "Knight's Crosses of the Order of Merit of the Republic of Hungary"
+  ],
+  "employers": [
+   "Sibelius Academy",
+   "Juilliard School"
+  ],
+  "genres": [
+   "contemporary classical music",
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "101",
+  "wikidataId": "Q154556",
+  "birthPlace": "Mödrath",
+  "deathPlace": "Kürten",
+  "teachers": [],
+  "students": [
+   "Atli Heimir Sveinsson",
+   "Julio Estrada",
+   "Holger Czukay",
+   "Roger Smalley",
+   "Fuzzy",
+   "Yannis Ioannidis"
+  ],
+  "notableWorks": [
+   "Mixtur",
+   "Jubilee",
+   "Momente",
+   "Solo",
+   "Licht",
+   "Klang"
+  ],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [
+   "piano",
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "music educator",
+   "music theorist",
+   "university teacher",
+   "musician"
+  ],
+  "awards": [
+   "Officer's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Order of Merit of North Rhine-Westphalia",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Ernst von Siemens Music Prize",
+   "Commandeur des Arts et des Lettres‎"
+  ],
+  "employers": [
+   "Hochschule für Musik und Tanz Köln"
+  ],
+  "genres": [
+   "opera",
+   "electronic music",
+   "experimental music",
+   "serialism",
+   "aleatoric music",
+   "20th-century classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "102",
+  "wikidataId": "Q207355",
+  "birthPlace": "London",
+  "deathPlace": "London",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "lute"
+  ],
+  "occupations": [
+   "composer",
+   "lutenist",
+   "songwriter",
+   "singer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "103",
+  "wikidataId": "Q143198",
+  "birthPlace": "Streatham",
+  "deathPlace": "Cork",
+  "teachers": [
+   "Tobias Matthay",
+   "Frederick Corder"
+  ],
+  "students": [
+   "Margaret Sutherland"
+  ],
+  "notableWorks": [
+   "Q15734289",
+   "Symphony No. 4",
+   "Symphony No. 2",
+   "Symphony No. 1",
+   "Symphony No. 3",
+   "Symphony No. 5"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "poet",
+   "writer",
+   "pianist",
+   "conductor",
+   "composer"
+  ],
+  "awards": [
+   "Knight Commander of the Royal Victorian Order",
+   "Royal Philharmonic Society Gold Medal",
+   "Knight Bachelor",
+   "Walter Willson Cobbett Medal"
+  ],
+  "employers": [],
+  "genres": [
+   "symphony",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "104",
+  "wikidataId": "Q187192",
+  "birthPlace": "Honfleur",
+  "deathPlace": "rue Pierre-Larousse",
+  "teachers": [
+   "Vincent d'Indy"
+  ],
+  "students": [],
+  "notableWorks": [
+   "La Diva de l'Empire",
+   "Sports et divertissements",
+   "Parade",
+   "Gymnopédies",
+   "Gnossiennes"
+  ],
+  "movements": [
+   "avant-garde"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "Romantic music",
+   "Impressionism"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "105",
+  "wikidataId": "Q4700",
+  "birthPlace": "Saint-Germain-en-Laye",
+  "deathPlace": "16th arrondissement of Paris",
+  "teachers": [
+   "Antoine-François Marmontel",
+   "Albert Lavignac"
+  ],
+  "students": [
+   "Raoul Bardac",
+   "María Grever"
+  ],
+  "notableWorks": [
+   "Pelléas et Mélisande",
+   "Préludes",
+   "Children's Corner",
+   "La Damoiselle élue",
+   "Suite bergamasque",
+   "Prélude à l'après-midi d'un faune"
+  ],
+  "movements": [
+   "impressionism in music",
+   "Symbolism"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "music critic"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Prix de Rome"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "classical music",
+   "impressionist music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "106",
+  "wikidataId": "Q123234",
+  "birthPlace": "Geneva",
+  "deathPlace": "Portland",
+  "teachers": [
+   "Émile Jaques-Dalcroze",
+   "Louis Rey"
+  ],
+  "students": [
+   "Randall Thompson",
+   "Ernst Bacon",
+   "Fernande Peyrot",
+   "Ethel Glenn Hier",
+   "Jean Binet"
+  ],
+  "notableWorks": [
+   "Macbeth",
+   "String Quartet No. 2"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "photographer",
+   "music educator",
+   "pianist"
+  ],
+  "awards": [],
+  "employers": [
+   "San Francisco Conservatory of Music",
+   "Mannes College The New School for Music",
+   "Cleveland Institute of Music",
+   "University of California, Berkeley"
+  ],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "107",
+  "wikidataId": "Q733299",
+  "birthPlace": "Richmond",
+  "deathPlace": "New York City",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Q1851908",
+   "Piano Concerto No. 2"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "diarist",
+   "writer",
+   "university teacher",
+   "actor",
+   "pianist"
+  ],
+  "awards": [
+   "Chevalier des Arts et des Lettres",
+   "Guggenheim Fellowship",
+   "Rome Prize",
+   "Pulitzer Prize for Music",
+   "Arts and Letters Award in Music"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "108",
+  "wikidataId": "Q137739",
+  "birthPlace": "Trenton",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Nadia Boulanger"
+  ],
+  "students": [
+   "Benjamin Lees"
+  ],
+  "notableWorks": [
+   "Tom Sawyer",
+   "Q2265816",
+   "Symphony No. 4",
+   "Secret communication system"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "film score composer",
+   "inventor"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "EFF Award",
+   "National Inventors Hall of Fame"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "109",
+  "wikidataId": "Q106641",
+  "birthPlace": "Leipzig",
+  "deathPlace": "London",
+  "teachers": [
+   "Johann Sebastian Bach",
+   "Carl Philipp Emanuel Bach",
+   "Giovanni Battista Martini"
+  ],
+  "students": [
+   "Wolfgang Amadeus Mozart",
+   "Wilhelm Friedrich Ernst Bach"
+  ],
+  "notableWorks": [
+   "Lucio Sila"
+  ],
+  "movements": [],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "music arranger"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "110",
+  "wikidataId": "Q318829",
+  "birthPlace": "Angers",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Noël Gallon",
+   "Maurice Emmanuel"
+  ],
+  "students": [
+   "André Jorrand"
+  ],
+  "notableWorks": [
+   "Sonate for piano",
+   "Petit air à dormir debout"
+  ],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "film score composer",
+   "pianist"
+  ],
+  "awards": [
+   "Grand Cross of the Legion of Honour",
+   "Ernst von Siemens Music Prize",
+   "Commander of the Order of Saint-Charles",
+   "Praemium Imperiale",
+   "Royal Philharmonic Society Gold Medal",
+   "Maurice Ravel Prize"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "École Normale de Musique de Paris Alfred Cortot"
+  ],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "111",
+  "wikidataId": "Q3266502",
+  "birthPlace": "Terminal Fusina",
+  "deathPlace": "Venice",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "painter"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "genre painting"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "112",
+  "wikidataId": "Q78532",
+  "birthPlace": "Bratislava",
+  "deathPlace": "New York City",
+  "teachers": [
+   "István Thomán",
+   "Hans von Koessler"
+  ],
+  "students": [
+   "Ervin Nyiregyházi",
+   "György Ferenczy",
+   "Astrid Berwald",
+   "Tibor Wehner",
+   "Georges Solchany",
+   "Mikloš Schwalb"
+  ],
+  "notableWorks": [
+   "String Quartet No. 2",
+   "Ruralia Hungarica"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "composer",
+   "pianist",
+   "musicologist",
+   "music educator",
+   "university teacher"
+  ],
+  "awards": [
+   "Kossuth Prize"
+  ],
+  "employers": [
+   "Florida State University",
+   "Berlin University of the Arts",
+   "Franz Liszt Academy of Music"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "113",
+  "wikidataId": "Q185312",
+  "birthPlace": "Jesi",
+  "deathPlace": "Pozzuoli",
+  "teachers": [
+   "Francesco Durante",
+   "Gaetano Greco"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "114",
+  "wikidataId": "Q450467",
+  "birthPlace": "New York City",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Joachim Raff",
+   "Teresa Carreño",
+   "Antoine-François Marmontel",
+   "Carl Heymann"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Piano Concerto No. 2 in D minor",
+   "Woodland Sketches"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "pianist",
+   "composer",
+   "piano teacher",
+   "music professor",
+   "music teacher",
+   "musician"
+  ],
+  "awards": [],
+  "employers": [
+   "Columbia University"
+  ],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "115",
+  "wikidataId": "Q76485",
+  "birthPlace": "Nuremberg",
+  "deathPlace": "Nuremberg",
+  "teachers": [
+   "Heinrich Schwemmer",
+   "Georg Caspar Wecker"
+  ],
+  "students": [
+   "Johann Christoph Bach I",
+   "Johann Heinrich Buttstett"
+  ],
+  "notableWorks": [
+   "Canon and Gigue in D"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "teacher"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "fugue",
+   "canon",
+   "chaconne",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "116",
+  "wikidataId": "Q215556",
+  "birthPlace": "1st arrondissement of Paris",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Georges Mathias",
+   "Théodore Dubois",
+   "Ernest Guiraud"
+  ],
+  "students": [
+   "Olivier Messiaen",
+   "Claude Arrieu",
+   "Tony Aubin",
+   "Darius Milhaud",
+   "Elsa Barraine",
+   "Yvonne Desportes"
+  ],
+  "notableWorks": [
+   "The Sorcerer's Apprentice",
+   "Ariane et Barbe-bleue",
+   "Piano Sonata"
+  ],
+  "movements": [
+   "impressionism in music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "choreographer",
+   "pedagogue",
+   "music educator",
+   "university teacher",
+   "pianist"
+  ],
+  "awards": [
+   "Prix de Rome",
+   "Officer of the Legion of Honour",
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "École Normale de Musique de Paris Alfred Cortot"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "impressionist music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "117",
+  "wikidataId": "Q143059",
+  "birthPlace": "Saint-Ghislain",
+  "deathPlace": "Tours",
+  "teachers": [
+   "Gilles Binchois"
+  ],
+  "students": [
+   "Johannes Prioris",
+   "Johannes Ghiselin",
+   "Josquin des Prez"
+  ],
+  "notableWorks": [
+   "music for the Requiem Mass",
+   "Masses",
+   "Motets",
+   "Songs"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "cantus firmus"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "118",
+  "wikidataId": "Q93227",
+  "birthPlace": "Tikhvin",
+  "deathPlace": "Lyubensk",
+  "teachers": [
+   "Mily Alexeyevich Balakirev"
+  ],
+  "students": [
+   "Igor Stravinsky",
+   "Anton Arensky",
+   "Fedir Yakymenko",
+   "Alexander Gretchaninov",
+   "Petr Petrovich Evstafʹev",
+   "Yuliya Veysberg"
+  ],
+  "notableWorks": [
+   "Scheherazade",
+   "Symphony No. 1",
+   "The Golden Cockerel"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "autobiographer",
+   "music educator",
+   "music theorist"
+  ],
+  "awards": [],
+  "employers": [
+   "Saint Petersburg Conservatory"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "119",
+  "wikidataId": "Q3267715",
+  "birthPlace": "Tomar",
+  "deathPlace": "Parede",
+  "teachers": [
+   "José Vianna da Motta"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "conductor",
+   "composer",
+   "musicologist"
+  ],
+  "awards": [
+   "Grand Cross of the Order of Prince Henry",
+   "Grand Officer of the Military Order of Saint James of the Sword"
+  ],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "120",
+  "wikidataId": "Q20721",
+  "birthPlace": "Florence",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Giuseppe Sarti"
+  ],
+  "students": [
+   "Pierre-Joseph-Guillaume Zimmermann",
+   "Fromental Halévy",
+   "Antoine Dessane",
+   "Michele Carafa",
+   "Bernhard Klein"
+  ],
+  "notableWorks": [
+   "Les Abencérages",
+   "Médée",
+   "Ave Maria",
+   "Les deux journées, ou Le porteur de l'eau",
+   "Requiem in C minor"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "music educator",
+   "music theorist"
+  ],
+  "awards": [
+   "Commander of the Legion of Honour"
+  ],
+  "employers": [
+   "Conservatoire de Paris"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "121",
+  "wikidataId": "Q186264",
+  "birthPlace": "Marseille",
+  "deathPlace": "Geneva",
+  "teachers": [
+   "André Gedalge",
+   "Charles-Marie Widor",
+   "Paul Dukas"
+  ],
+  "students": [
+   "Philip Glass",
+   "Yvonne Loriod",
+   "Anne Lauber",
+   "Anne-Marie Ørbeck",
+   "Steve Reich",
+   "María Teresa Prieto"
+  ],
+  "notableWorks": [
+   "Le Bœuf sur le toit",
+   "Symphony No. 4",
+   "Symphony No. 1",
+   "Pacem in terris",
+   "L'Orestie d'Eschyle"
+  ],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "autobiographer",
+   "musicologist",
+   "music educator",
+   "jazz musician",
+   "music critic"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Officer of the Legion of Honour",
+   "Commander of the Legion of Honour",
+   "Commander of the order of Nichan Iftikhar",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "Mills College at Northeastern University"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "122",
+  "wikidataId": "Q296828",
+  "birthPlace": "Paris",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Nadia Boulanger",
+   "Emile Pessard",
+   "André Gedalge",
+   "Paul Vidal"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Escales",
+   "Angélique"
+  ],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "conductor",
+   "composer",
+   "musicologist",
+   "film score composer"
+  ],
+  "awards": [
+   "Commander of the Legion of Honour",
+   "Prix de Rome"
+  ],
+  "employers": [
+   "Réunion des théâtres lyriques nationaux"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "123",
+  "wikidataId": "Q313374",
+  "birthPlace": "Ambert",
+  "deathPlace": "9th arrondissement of Paris",
+  "teachers": [
+   "Aristide Hignard",
+   "Théophile Semet"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Le roi malgré lui",
+   "Bourrée fantasque",
+   "España, rhapsody for orchestra"
+  ],
+  "movements": [
+   "Romantic music",
+   "Romanticism"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "124",
+  "wikidataId": "Q194436",
+  "birthPlace": "Saint-Étienne",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Napoléon Henri Reber",
+   "Ambroise Thomas",
+   "François Benoist",
+   "Marie Gabriel Augustin Savard",
+   "François Bazin"
+  ],
+  "students": [
+   "Charles Koechlin",
+   "Spiro Samara",
+   "Mon Schjelderup",
+   "Rose Caron",
+   "Eugène-Philippe Bellenot",
+   "George Enesco"
+  ],
+  "notableWorks": [
+   "Werther",
+   "Manon",
+   "Don Quichotte",
+   "Cendrillon",
+   "Thaïs",
+   "Hérodiade"
+  ],
+  "movements": [],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "music educator",
+   "university teacher",
+   "pianist",
+   "librettist"
+  ],
+  "awards": [
+   "Prix de Rome",
+   "Grand Officer of the Legion of Honour",
+   "resident at the Villa Medici",
+   "Knight of the Legion of Honour",
+   "Officer of the Legion of Honour",
+   "Commander of the Legion of Honour"
+  ],
+  "employers": [
+   "Conservatoire de Paris"
+  ],
+  "genres": [
+   "opera",
+   "classical music",
+   "oratorio",
+   "operetta",
+   "incidental music",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "125",
+  "wikidataId": "Q83326",
+  "birthPlace": "Sânnicolau Mare",
+  "deathPlace": "New York City",
+  "teachers": [
+   "László Erkel",
+   "István Thomán",
+   "Hans von Koessler"
+  ],
+  "students": [
+   "Joseph Kosma",
+   "Fritz Reiner",
+   "Sándor Veress",
+   "György Sándor",
+   "Alice Carrard",
+   "Ilona Vincze-Kraus"
+  ],
+  "notableWorks": [
+   "Bluebeard's Castle",
+   "String Quartet No. 2",
+   "String Quartet No. 1",
+   "Sonata for Two Pianos and Percussion",
+   "Music for Strings, Percussion and Celesta",
+   "Concerto for Orchestra"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "classical pianist",
+   "choreographer",
+   "musicologist",
+   "music educator",
+   "ethnomusicologist"
+  ],
+  "awards": [
+   "Kossuth Prize",
+   "Grammy Trustees Award",
+   "Knight of the Legion of Honour",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "Franz Liszt Academy of Music",
+   "Nyugat"
+  ],
+  "genres": [
+   "opera",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "126",
+  "wikidataId": "Q207789",
+  "birthPlace": "Kent",
+  "deathPlace": "Greenwich",
+  "teachers": [],
+  "students": [
+   "William Byrd"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "choral music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "127",
+  "wikidataId": "Q313584",
+  "birthPlace": "Paris",
+  "deathPlace": "Paris",
+  "teachers": [
+   "César Franck",
+   "Albert Lavignac"
+  ],
+  "students": [
+   "Roland-Manuel",
+   "Arthur Honegger",
+   "László Lajtha",
+   "Raymond Loucheur",
+   "Helena Munktell",
+   "Gösta Nystroem"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "writer",
+   "music educator",
+   "music theorist"
+  ],
+  "awards": [
+   "Grand Officer of the Legion of Honour",
+   "Knight Commander of the Order of Carlos III",
+   "Commander of the Order of the Crown",
+   "Grand Officer of the Order of Leopold"
+  ],
+  "employers": [
+   "Conservatoire de Paris"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "128",
+  "wikidataId": "Q50186",
+  "birthPlace": "Paris",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Jacques Thomelin",
+   "Charles Couperin"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "classical music",
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ",
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "viol player",
+   "harpsichordist",
+   "harpist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "Baroque music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "129",
+  "wikidataId": "Q7351",
+  "birthPlace": "Zwickau",
+  "deathPlace": "Endenich",
+  "teachers": [
+   "Friedrich Wieck",
+   "Heinrich Dorn",
+   "Johann Gottfried Kuntsch"
+  ],
+  "students": [
+   "Carl Reinecke",
+   "Albert Dietrich",
+   "Wilhelm Joseph von Wasielewski"
+  ],
+  "notableWorks": [
+   "Symphony No. 1",
+   "Symphony No. 2",
+   "Symphony No. 3",
+   "Kinderszenen"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "music critic",
+   "conductor",
+   "musicologist",
+   "music educator"
+  ],
+  "awards": [],
+  "employers": [
+   "University of Music and Theatre Leipzig"
+  ],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "130",
+  "wikidataId": "Q439572",
+  "birthPlace": "London",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Totentanz",
+   "Asyla",
+   "Chamber Symphony"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "conductor",
+   "music educator"
+  ],
+  "awards": [
+   "Léonie Sonning Music Prize",
+   "Grammy Awards",
+   "Ernst von Siemens Music Prize",
+   "Stoeger Prize",
+   "Grawemeyer Award for Music Composition",
+   "Commander of the Order of the British Empire"
+  ],
+  "employers": [
+   "Royal Academy of Music"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "131",
+  "wikidataId": "Q55004",
+  "birthPlace": "Dessau",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Ferruccio Busoni",
+   "Engelbert Humperdinck"
+  ],
+  "students": [
+   "Nikos Skalkottas",
+   "Rio Gebhardt",
+   "Giannis Konstantinidis"
+  ],
+  "notableWorks": [
+   "The Threepenny Opera",
+   "Rise and Fall of the City of Mahagonny",
+   "The Seven Deadly Sins",
+   "Street Scene",
+   "Der Silbersee"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pedagogue",
+   "film score composer",
+   "chapelmaster",
+   "musician"
+  ],
+  "awards": [
+   "Tony Award for Best Original Score",
+   "Drama Desk Award for Outstanding Music",
+   "National Medal of Science"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "132",
+  "wikidataId": "Q156193",
+  "birthPlace": "Montbrison",
+  "deathPlace": "Baden-Baden",
+  "teachers": [
+   "Olivier Messiaen"
+  ],
+  "students": [
+   "Jean-Claude Casadesus",
+   "Lourival Silvestre",
+   "Kåre Opdal"
+  ],
+  "notableWorks": [
+   "Le marteau sans maître"
+  ],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "composer",
+   "musicologist",
+   "music theorist",
+   "ondist",
+   "university teacher"
+  ],
+  "awards": [
+   "Commandeur des Arts et des Lettres‎",
+   "Pour le Mérite for Sciences and Arts order",
+   "Medal for Merit to Culture",
+   "Decoration of Honour in Gold for Services to the State of Vienna",
+   "Theodor W. Adorno Award",
+   "Praemium Imperiale"
+  ],
+  "employers": [
+   "Collège de France"
+  ],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "133",
+  "wikidataId": "Q221450",
+  "birthPlace": "Imperia",
+  "deathPlace": "Rome",
+  "teachers": [
+   "Luigi Dallapiccola"
+  ],
+  "students": [
+   "Ludovico Einaudi"
+  ],
+  "notableWorks": [
+   "Sequenza",
+   "Sinfonia"
+  ],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "pedagogue",
+   "music educator",
+   "university teacher",
+   "pianist"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Praemium Imperiale",
+   "Ernst von Siemens Music Prize",
+   "Knight Grand Cross of the Order of Merit of the Italian Republic",
+   "Fellow of the American Academy of Arts and Sciences",
+   "Feltrinelli Prize"
+  ],
+  "employers": [
+   "Harvard University",
+   "Accademia Nazionale di Santa Cecilia",
+   "Juilliard School"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "134",
+  "wikidataId": "Q41555",
+  "birthPlace": "Cologne",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Fromental Halévy",
+   "Louis-Pierre Norblin"
+  ],
+  "students": [],
+  "notableWorks": [
+   "The Tales of Hoffmann",
+   "Orpheus in the Underworld"
+  ],
+  "movements": [
+   "Romanticism"
+  ],
+  "instruments": [
+   "cello"
+  ],
+  "occupations": [
+   "composer",
+   "cellist",
+   "conductor",
+   "theatre entrepreneur",
+   "theatre manager",
+   "chapelmaster"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [
+   "Théâtre de l'Ambigu-Comique",
+   "Opéra-Comique",
+   "Théâtre des Bouffes-Parisiens",
+   "Comédie-Française",
+   "Théâtre des Variétés-Amusantes"
+  ],
+  "genres": [
+   "opera",
+   "opéra bouffe",
+   "operetta",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "135",
+  "wikidataId": "Q152505",
+  "birthPlace": "Lawrence",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Richard Stöhr",
+   "Nadia Boulanger"
+  ],
+  "students": [
+   "Marin Alsop",
+   "Evelyn Lear",
+   "Yutaka Sado",
+   "Paavo Järvi",
+   "Jeannette Sorrell",
+   "Herbert Blomstedt"
+  ],
+  "notableWorks": [
+   "Symphony No. 1",
+   "Symphony No. 2",
+   "Symphony No. 3",
+   "West Side Story",
+   "Candide"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "pianist",
+   "composer",
+   "musicologist",
+   "film score composer",
+   "music teacher"
+  ],
+  "awards": [
+   "Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Ring of Honour of the City of Vienna",
+   "Great Golden Medal of Honour for Services to the Republic of Austria",
+   "Grammy Lifetime Achievement Award",
+   "Praemium Imperiale",
+   "Léonie Sonning Music Prize"
+  ],
+  "employers": [
+   "Brandeis University"
+  ],
+  "genres": [
+   "symphony",
+   "classical music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "136",
+  "wikidataId": "Q123829",
+  "birthPlace": "Brooklyn",
+  "deathPlace": "Hollywood",
+  "teachers": [
+   "Rubin Goldmark",
+   "Henry Cowell",
+   "Edward Kilenyi",
+   "Charles Hambitzer",
+   "Nadia Boulanger"
+  ],
+  "students": [],
+  "notableWorks": [
+   "The Man I Love",
+   "Rhapsody in Blue",
+   "Porgy and Bess",
+   "An American in Paris"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "jazz pianist",
+   "songwriter",
+   "film score composer",
+   "painter",
+   "conductor"
+  ],
+  "awards": [
+   "Grammy Trustees Award",
+   "Congressional Gold Medal",
+   "star on Hollywood Walk of Fame",
+   "Pulitzer Prize Special Citations and Awards"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "jazz",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "137",
+  "wikidataId": "Q158078",
+  "birthPlace": "Engels",
+  "deathPlace": "Hamburg",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Q2097043",
+   "Symphony No. 0",
+   "Symphony No. 9"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "music educator",
+   "university teacher",
+   "film score composer",
+   "musician"
+  ],
+  "awards": [
+   "Knight Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Praemium Imperiale",
+   "Honored art worker of the Russian Soviet Federative Socialist Republic",
+   "State Prize of the Russian Federation",
+   "Krupskaya State Prize of the RSFSR"
+  ],
+  "employers": [
+   "Moscow Conservatory"
+  ],
+  "genres": [
+   "20th-century classical music",
+   "opera",
+   "symphony",
+   "art music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "138",
+  "wikidataId": "Q1511",
+  "birthPlace": "Leipzig",
+  "deathPlace": "Venice",
+  "teachers": [
+   "Christian Theodor Weinlig"
+  ],
+  "students": [
+   "Anton Seidl"
+  ],
+  "notableWorks": [
+   "The Flying Dutchman",
+   "Tristan und Isolde",
+   "Tannhäuser",
+   "Das Rheingold",
+   "Lohengrin",
+   "Der Ring des Nibelungen"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "librettist",
+   "conductor",
+   "essayist",
+   "theatre director",
+   "autobiographer"
+  ],
+  "awards": [
+   "Bavarian Maximilian Order for Science and Art"
+  ],
+  "employers": [
+   "University of Music and Performing Arts Vienna"
+  ],
+  "genres": [
+   "opera",
+   "choral symphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "139",
+  "wikidataId": "Q164475",
+  "birthPlace": "Fusignano",
+  "deathPlace": "Rome",
+  "teachers": [
+   "Leonardo Brugnoli",
+   "Giovanni Benvenuti",
+   "Giovanni Battista Bassani"
+  ],
+  "students": [
+   "Pietro Locatelli",
+   "Francesco Geminiani",
+   "Giovanni Battista Somis",
+   "Giovanni Battista Tibaldi",
+   "Francesco Gasparini"
+  ],
+  "notableWorks": [
+   "Concerti grossi, op. 6",
+   "Twelve Violin Sonatas, Op.5"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "violist",
+   "violinist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "Baroque music",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "140",
+  "wikidataId": "Q313376",
+  "birthPlace": "Tourcoing",
+  "deathPlace": "Royan",
+  "teachers": [
+   "Vincent d'Indy"
+  ],
+  "students": [
+   "Roland-Manuel",
+   "Bohuslav Martinů"
+  ],
+  "notableWorks": [
+   "Les rêves"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "choreographer",
+   "pianist",
+   "musicologist",
+   "music educator",
+   "university teacher"
+  ],
+  "awards": [
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "141",
+  "wikidataId": "Q312857",
+  "birthPlace": "Liège",
+  "deathPlace": "Brussels",
+  "teachers": [
+   "Henri Vieuxtemps",
+   "Henri Wieniawski",
+   "Rodolphe Massart"
+  ],
+  "students": [
+   "Julia Klumpke"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "violinist",
+   "music educator",
+   "university teacher",
+   "concertmaster"
+  ],
+  "awards": [
+   "Royal Philharmonic Society Gold Medal",
+   "Grand Officer of the Order of Leopold",
+   "Knight of the Order of the Crown",
+   "Commander of the Legion of Honour",
+   "Grand Officer of the Order of the Nile",
+   "commander of the Order of the Crown of Italy‎"
+  ],
+  "employers": [
+   "Royal Conservatory of Brussels"
+  ],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "142",
+  "wikidataId": "Q156472",
+  "birthPlace": "Warsaw",
+  "deathPlace": "Warsaw",
+  "teachers": [
+   "Witold Maliszewski"
+  ],
+  "students": [
+   "Paavo Heininen"
+  ],
+  "notableWorks": [
+   "Symphony No. 1",
+   "Mi-Parti",
+   "Symphony No. 3"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "pianist",
+   "music teacher",
+   "musician"
+  ],
+  "awards": [
+   "Knight of the Order of Polonia Restituta",
+   "Herder Prize",
+   "Order of the White Eagle",
+   "Medal of the 10th Anniversary of People's Poland",
+   "Pour le Mérite for Sciences and Arts order",
+   "Léonie Sonning Music Prize"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "143",
+  "wikidataId": "Q51088",
+  "birthPlace": "Legnago",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Francesco Salieri",
+   "Giuseppe Simoni",
+   "Florian Leopold Gassmann",
+   "Giovanni Battista Pescetti",
+   "Giuseppe Tartini"
+  ],
+  "students": [
+   "Franz Liszt",
+   "Anton Reicha",
+   "Ludwig van Beethoven",
+   "Therese Rosenbaum",
+   "Franz Schubert",
+   "Simon Sechter"
+  ],
+  "notableWorks": [
+   "Europa riconosciuta",
+   "Il Moro"
+  ],
+  "movements": [],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "music educator",
+   "chapelmaster",
+   "music teacher"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [
+   "University of Music and Performing Arts Vienna"
+  ],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "144",
+  "wikidataId": "Q450620",
+  "birthPlace": "New York City",
+  "teachers": [],
+  "students": [
+   "Deolus W. Husband"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "university teacher",
+   "concertmaster",
+   "film score composer",
+   "professor of music composition",
+   "composer"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Rome Prize",
+   "Academy Award for Best Original Score",
+   "Pulitzer Prize for Music",
+   "Grawemeyer Awards",
+   "Grawemeyer Award for Music Composition"
+  ],
+  "employers": [
+   "City University of New York",
+   "New York University",
+   "Juilliard School"
+  ],
+  "genres": [
+   "classical music",
+   "symphonic music",
+   "concerto",
+   "chamber music",
+   "opera",
+   "film score"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "145",
+  "wikidataId": "Q255",
+  "birthPlace": "Bonn",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Christian Gottlob Neefe",
+   "Joseph Haydn",
+   "Antonio Salieri",
+   "Johann Baptist Schenk",
+   "Johann Georg Albrechtsberger",
+   "Gilles van der Eeden"
+  ],
+  "students": [
+   "Carl Czerny",
+   "Dorothea von Ertmann",
+   "Ferdinand Ries",
+   "Archduke Rudolf of Austria",
+   "Babette Countess Keglevich de Buzin",
+   "Giulietta Guicciardi"
+  ],
+  "notableWorks": [
+   "Für Elise",
+   "Symphony No. 9",
+   "Piano Sonata No. 14",
+   "Missa Solemnis",
+   "Piano Sonata No. 8",
+   "Symphony No. 5"
+  ],
+  "movements": [
+   "Classical period",
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano",
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "conductor",
+   "music educator",
+   "organist",
+   "virtuoso"
+  ],
+  "awards": [
+   "Bröckemännche Award"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "art music",
+   "opera",
+   "symphony",
+   "sonata"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "146",
+  "wikidataId": "Q7311",
+  "birthPlace": "Lucca",
+  "deathPlace": "Brussels",
+  "teachers": [
+   "Amilcare Ponchielli",
+   "Antonio Bazzini"
+  ],
+  "students": [],
+  "notableWorks": [
+   "La bohème",
+   "Tosca",
+   "Madama Butterfly",
+   "Turandot",
+   "Gianni Schicchi",
+   "Crisantemi"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "opera composer",
+   "composer",
+   "politician",
+   "conductor",
+   "organist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera",
+   "verismo",
+   "religious music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "147",
+  "wikidataId": "Q46096",
+  "birthPlace": "Hamburg",
+  "deathPlace": "Leipzig",
+  "teachers": [
+   "Carl Friedrich Zelter",
+   "Ludwig Berger",
+   "Marie Bigot",
+   "Lea Mendelssohn Bartholdy",
+   "Franz Lauska",
+   "Ignaz Moscheles"
+  ],
+  "students": [
+   "Charles Edward Horsley",
+   "Camille-Marie Stamaty",
+   "Hildur Sommerfeldt",
+   "Eduard Franck",
+   "Carl Reinecke",
+   "Gustav Nottebohm"
+  ],
+  "notableWorks": [
+   "A Midsummer Night's Dream",
+   "Symphony No. 3",
+   "Symphony No. 4",
+   "Violin Concerto in E minor",
+   "The Hebrides",
+   "St. Paul"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "organ",
+   "piano",
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "organist",
+   "conductor",
+   "musicologist",
+   "music educator"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "honorary citizen of Leipzig",
+   "Pour le Mérite"
+  ],
+  "employers": [
+   "University of Music and Theatre Leipzig"
+  ],
+  "genres": [
+   "opera",
+   "classical music",
+   "symphonic music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "148",
+  "wikidataId": "Q191499",
+  "birthPlace": "Texarkana",
+  "deathPlace": "New York City",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Maple Leaf Rag",
+   "The Entertainer"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano",
+   "guitar",
+   "violin",
+   "cornet"
+  ],
+  "occupations": [
+   "pianist",
+   "composer",
+   "banjoist",
+   "jazz musician",
+   "musician"
+  ],
+  "awards": [
+   "Pulitzer Prize Special Citations and Awards",
+   "Songwriters Hall of Fame"
+  ],
+  "employers": [],
+  "genres": [
+   "ragtime"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "149",
+  "wikidataId": "Q11806",
+  "birthPlace": "Braintree",
+  "deathPlace": "Quincy",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "lawyer",
+   "politician",
+   "diplomat",
+   "political philosopher",
+   "statesperson",
+   "writer"
+  ],
+  "awards": [
+   "Fellow of the American Academy of Arts and Sciences"
+  ],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "150",
+  "wikidataId": "Q151593",
+  "birthPlace": "Avignon",
+  "deathPlace": "Clichy",
+  "teachers": [
+   "Noël Gallon",
+   "Jean Gallon",
+   "Maurice Emmanuel",
+   "Marcel Dupré",
+   "Paul Dukas",
+   "Charles-Marie Widor"
+  ],
+  "students": [
+   "Yvonne Loriod",
+   "André Hodeir",
+   "Marius Constant",
+   "Michaël Levinas",
+   "Odette Gartenlaub",
+   "Jean-Claude Henry"
+  ],
+  "notableWorks": [
+   "Saint François d'Assise",
+   "Éclairs sur l'au-delà...",
+   "Thème et variations",
+   "Quatuor pour la fin du temps",
+   "Trois Petites Liturgies de la Présence Divine",
+   "Quatre Études de rythme"
+  ],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "ornithologist",
+   "music educator",
+   "musicologist",
+   "music theorist"
+  ],
+  "awards": [
+   "Grand Cross of the Legion of Honour",
+   "Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Commander of the Order of the Crown",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Erasmus Prize",
+   "Léonie Sonning Music Prize"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "École Normale de Musique de Paris Alfred Cortot",
+   "Schola Cantorum de Paris"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "151",
+  "wikidataId": "Q311913",
+  "birthPlace": "Oxford",
+  "deathPlace": "Canterbury",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "classical composer",
+   "organist",
+   "composer",
+   "pianist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "152",
+  "wikidataId": "Q1268",
+  "birthPlace": "Żelazowa Wola",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Wojciech Żywny",
+   "Józef Elsner",
+   "Wilhelm Würfel"
+  ],
+  "students": [
+   "Carl Filtsch",
+   "Charlotte de Rothschild",
+   "Josephine Camille O'Meara",
+   "Emilie Timm",
+   "Georges Mathias"
+  ],
+  "notableWorks": [
+   "Études",
+   "Polonaise in A-flat major \"Heroic\", Op. 53",
+   "Nocturnes",
+   "Ballades"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "piano teacher",
+   "virtuoso",
+   "musician",
+   "pedagogue"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "153",
+  "wikidataId": "Q599303",
+  "birthPlace": "Lisbon",
+  "deathPlace": "Lisbon",
+  "teachers": [
+   "Luís de Freitas Branco",
+   "Virgilio Mortari",
+   "Hermann Scherchen"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Requiem, op. 41 (1964)",
+   "Symphony No. 1, D minor (1947)",
+   "Symphony No. 2, B minor, op. 13 (1948)",
+   "Symphony No. 3, C major, op. 15 (1949)",
+   "Symphony No. 4, E minor, op. 16 (1950)",
+   "Symphony No. 5 (1966)"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "music critic",
+   "conductor",
+   "music educator"
+  ],
+  "awards": [
+   "Military Order of Saint James of the Sword",
+   "Medal of Cultural Merit"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "film score"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "154",
+  "wikidataId": "Q57244",
+  "birthPlace": "Hanau",
+  "deathPlace": "Frankfurt",
+  "teachers": [
+   "Adolf Rebner",
+   "Arnold Mendelssohn",
+   "Bernhard Sekles"
+  ],
+  "students": [
+   "Lukas Foss",
+   "Graham George",
+   "Norman Dello Joio",
+   "Mel Powell",
+   "Yehudi Wyner",
+   "Harold Shapero"
+  ],
+  "notableWorks": [
+   "String Quartet No. 2",
+   "Symphony in B-flat for Band",
+   "Der Schwanendreher",
+   "Konzertmusik, Op. 41"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ",
+   "viola",
+   "violin"
+  ],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "professor of music composition",
+   "musicologist",
+   "music educator",
+   "music theorist"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Balzan Prize",
+   "Wihuri Sibelius Prize",
+   "Goethe Plaque of the City of Frankfurt",
+   "Berliner Kunstpreis"
+  ],
+  "employers": [
+   "Harvard University",
+   "Berlin University of the Arts",
+   "Amar Quartet",
+   "Yale University",
+   "Hacettepe University Ankara State Conservatory",
+   "University of Zurich"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "155",
+  "wikidataId": "Q76915",
+  "birthPlace": "Gütersloh",
+  "deathPlace": "Dresden",
+  "teachers": [
+   "Josef Rufer",
+   "Wolfgang Fortner"
+  ],
+  "students": [
+   "Jörg Widmann"
+  ],
+  "notableWorks": [
+   "Der Prinz von Homburg",
+   "Gisela!",
+   "Boulevard Solitude",
+   "The English Cat",
+   "Das Floß der Medusa"
+  ],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "jazz musician",
+   "university teacher",
+   "conductor",
+   "film score composer"
+  ],
+  "awards": [
+   "Knight Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Musikpreis der Stadt Duisburg",
+   "Praemium Imperiale",
+   "Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Bavarian Maximilian Order for Science and Art"
+  ],
+  "employers": [
+   "Hochschule für Musik und Tanz Köln"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "vocal music",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "156",
+  "wikidataId": "Q181885",
+  "birthPlace": "Novospasskoye",
+  "deathPlace": "Saint Petersburg",
+  "teachers": [
+   "Siegfried Wilhelm Dehn",
+   "John Field",
+   "Francesco Basili",
+   "Charles Meyer"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Patrioticheskaya Pesnya",
+   "Ruslan and Lyudmila",
+   "Waltz-Fantasia",
+   "A Life for the Tsar"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "romance",
+   "symphonic music",
+   "chamber music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "157",
+  "wikidataId": "Q200580",
+  "birthPlace": "Reims",
+  "deathPlace": "Reims",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Œuvres poétiques de Guillaume de Machaut",
+   "Messe de Nostre Dame",
+   "La louange des dames",
+   "Hoquet David",
+   "Le dit du cheval",
+   "Le dit de l'alerion"
+  ],
+  "movements": [
+   "classical music",
+   "medieval music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "poet",
+   "writer",
+   "songwriter"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "ars nova",
+   "dit",
+   "lay",
+   "virelai",
+   "rondeau"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "158",
+  "wikidataId": "Q918832",
+  "birthPlace": "Horsens",
+  "deathPlace": "Ramløse",
+  "teachers": [
+   "Finn Høffding"
+  ],
+  "students": [
+   "Per Norgård",
+   "Ole Schmidt",
+   "Ib Nørholm"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "classical composer",
+   "composer"
+  ],
+  "awards": [],
+  "employers": [
+   "Royal Danish Academy of Music"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "159",
+  "wikidataId": "Q721439",
+  "birthPlace": "Tietê",
+  "deathPlace": "São Paulo",
+  "teachers": [
+   "Ernani Braga"
+  ],
+  "students": [
+   "Lina Pires de Campos"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "pianist",
+   "poet"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "160",
+  "wikidataId": "Q434601",
+  "birthPlace": "Bratislava",
+  "deathPlace": "Perchtoldsdorf",
+  "teachers": [
+   "Anton Bruckner",
+   "Theodor Leschetizky",
+   "Robert Fuchs",
+   "Ferdinand Hellmesberger"
+  ],
+  "students": [
+   "Egon Kemény",
+   "Anna Maria Klechniowska",
+   "Frida Kern",
+   "Johanna Müller-Hermann"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano",
+   "cello"
+  ],
+  "occupations": [
+   "composer",
+   "music educator",
+   "cellist",
+   "university teacher",
+   "pianist",
+   "violinist"
+  ],
+  "awards": [
+   "Order of Franz Joseph",
+   "honorary doctor of the University of Vienna"
+  ],
+  "employers": [
+   "University of Music and Performing Arts Vienna"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "161",
+  "wikidataId": "Q215747",
+  "birthPlace": "Slovenj Gradec",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Robert Fuchs"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Italienisches Liederbuch"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "music critic",
+   "musicologist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "162",
+  "wikidataId": "Q80621",
+  "birthPlace": "Bergen",
+  "deathPlace": "Bergen",
+  "teachers": [
+   "Carl Reinecke"
+  ],
+  "students": [
+   "Barbara Larssen",
+   "Astrid Onarheim"
+  ],
+  "notableWorks": [
+   "Piano Concerto",
+   "Holberg Suite",
+   "In the Hall of the Mountain King",
+   "Peer Gynt Suites",
+   "Peer Gynt"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist"
+  ],
+  "awards": [
+   "Knight Grand Cross of the Order of St. Olav‎"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "sardana"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "163",
+  "wikidataId": "Q318835",
+  "birthPlace": "Manhattan",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Nadia Boulanger"
+  ],
+  "students": [
+   "Ellen Taaffe Zwilich",
+   "Gitta Steiner"
+  ],
+  "notableWorks": [
+   "String Quartet No. 1",
+   "String Quartet No. 5",
+   "String Quartet No. 3",
+   "String Quartet No. 2"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "music educator",
+   "university teacher"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Rome Prize",
+   "National Medal of Arts",
+   "Grammy Trustees Award",
+   "Harvard Centennial Medal",
+   "Pulitzer Prize for Music"
+  ],
+  "employers": [
+   "Cornell University",
+   "Juilliard School",
+   "Queens College"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "164",
+  "wikidataId": "Q1356404",
+  "birthPlace": "Heston",
+  "deathPlace": "Kenmare",
+  "teachers": [
+   "John Ireland",
+   "Charles Villiers Stanford",
+   "Robert Sterndale Bennett"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Symphony in G minor"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "musicologist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "165",
+  "wikidataId": "Q83309",
+  "birthPlace": "Neubau",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Franz Amon",
+   "Joseph Drechsler"
+  ],
+  "students": [
+   "Johann Resch‏"
+  ],
+  "notableWorks": [
+   "The Gypsy Baron",
+   "Die Fledermaus",
+   "The Blue Danube"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "conductor",
+   "composer"
+  ],
+  "awards": [
+   "Knight's Cross of the Order of Franz Joseph",
+   "Knight of the Legion of Honour",
+   "4th class, Order of the Medjidie",
+   "Knight of the Order of the Lion and the Sun",
+   "Knight of the Order of St. Alexander Nevsky",
+   "honorary member"
+  ],
+  "employers": [],
+  "genres": [
+   "instrumental music",
+   "operetta"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "166",
+  "wikidataId": "Q57226",
+  "birthPlace": "Brunswick",
+  "deathPlace": "Kassel",
+  "teachers": [
+   "Franz Eck",
+   "Charles Louis Maucourt"
+  ],
+  "students": [
+   "Ferdinand David",
+   "Fredrik Pacius",
+   "Bernhard Molique",
+   "Hubert Ries",
+   "Nikodem Biernacki",
+   "Karl Julius Abt"
+  ],
+  "notableWorks": [
+   "Faust",
+   "Nonet in F Major, Op. 31",
+   "Die letzten Dinge",
+   "Sonatas, violin, harp, op. 113, D major"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "music educator",
+   "violinist",
+   "musician"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Bavarian Maximilian Order for Science and Art",
+   "Pour le Mérite"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "167",
+  "wikidataId": "Q108555",
+  "birthPlace": "Piran",
+  "deathPlace": "Padua",
+  "teachers": [
+   "Bohuslav Matěj Černohorský"
+  ],
+  "students": [
+   "Francesco Salieri",
+   "Anders Wesström",
+   "Johann Gottlieb Naumann",
+   "Pietro Nardini",
+   "Giuseppe Antonio Paganelli",
+   "Antonio Salieri"
+  ],
+  "notableWorks": [
+   "Violin Sonata in G minor"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "music theorist",
+   "violinist",
+   "music educator"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "Baroque music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "168",
+  "wikidataId": "Q154812",
+  "birthPlace": "Eutin",
+  "deathPlace": "London",
+  "teachers": [
+   "Michael Haydn",
+   "Georg Joseph Vogler"
+  ],
+  "students": [
+   "Caroline Ridderstolpe",
+   "Julius Benedict",
+   "Ernst Christian Friedrich Wehrstedt"
+  ],
+  "notableWorks": [
+   "Der Freischütz",
+   "Oberon"
+  ],
+  "movements": [],
+  "instruments": [
+   "guitar",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pianist",
+   "guitarist",
+   "classical guitarist",
+   "music critic"
+  ],
+  "awards": [
+   "Honorary Member of the Royal Philharmonic Society"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "169",
+  "wikidataId": "Q150767",
+  "birthPlace": "Lowestoft",
+  "deathPlace": "Aldeburgh",
+  "teachers": [
+   "Harold Samuel",
+   "John Ireland",
+   "Frank Bridge"
+  ],
+  "students": [],
+  "notableWorks": [
+   "A Midsummer Night's Dream",
+   "The Turn of the Screw",
+   "Peter Grimes",
+   "The Rape of Lucretia",
+   "Albert Herring",
+   "The Young Person's Guide to the Orchestra"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "composer",
+   "pianist",
+   "politician",
+   "choreographer"
+  ],
+  "awards": [
+   "Léonie Sonning Music Prize",
+   "Royal Philharmonic Society Gold Medal",
+   "Wihuri Sibelius Prize",
+   "Ernst von Siemens Music Prize",
+   "Johann Heinrich Merck Honour",
+   "Companion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "170",
+  "wikidataId": "Q192185",
+  "birthPlace": "Brooklyn",
+  "deathPlace": "Sleepy Hollow",
+  "teachers": [
+   "Nadia Boulanger",
+   "Rubin Goldmark"
+  ],
+  "students": [
+   "Ramon Zupko",
+   "Alberto Ginastera",
+   "Eda Rapoport"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "conductor",
+   "pianist",
+   "composer",
+   "choreographer",
+   "musicologist",
+   "music educator"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "Academy Award for Best Original Dramatic or Comedy Score",
+   "Rome Prize",
+   "National Medal of Arts",
+   "Handel Medallion"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "ballet"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "171",
+  "wikidataId": "Q13894",
+  "birthPlace": "Munich",
+  "deathPlace": "Garmisch-Partenkirchen",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Also sprach Zarathustra",
+   "Salome",
+   "Der Rosenkavalier",
+   "Ariadne auf Naxos",
+   "Elektra"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "librettist",
+   "musician",
+   "general music director"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "honorary citizen of Munich",
+   "Bavarian Maximilian Order for Science and Art",
+   "Royal Philharmonic Society Gold Medal",
+   "honorary citizen of Vienna",
+   "Order of the Redeemer"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "sardana"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "172",
+  "wikidataId": "Q165668",
+  "birthPlace": "Chistopol",
+  "deathPlace": "Appen",
+  "teachers": [
+   "Albert Leman",
+   "Salix Säydäşef",
+   "Näcip Cihanof",
+   "Q41890274",
+   "Nikolay Peyko",
+   "Vissarion Shebalin"
+  ],
+  "students": [],
+  "notableWorks": [
+   "The Deceitful Face of Hope and Despair",
+   "Johannes-Passion"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "film score composer",
+   "classical pianist"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Knight Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Bach Prize of the Free and Hanseatic City of Hamburg",
+   "Alexander Men Prize",
+   "Praemium Imperiale",
+   "Léonie Sonning Music Prize"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "173",
+  "wikidataId": "Q243837",
+  "birthPlace": "Bologna",
+  "deathPlace": "Rome",
+  "teachers": [
+   "Giuseppe Martucci",
+   "Nikolai Rimsky-Korsakov",
+   "Luigi Torchi",
+   "Ferruccio Busoni",
+   "Max Bruch"
+  ],
+  "students": [
+   "Elsa Respighi",
+   "Normand Lockwood",
+   "Fernando Germani"
+  ],
+  "notableWorks": [
+   "Fountains of Rome",
+   "Marie Victoire",
+   "Feste Romane",
+   "Maria egiziaca",
+   "La campana sommersa",
+   "Pines of Rome"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "viola"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "music educator",
+   "university teacher",
+   "violist"
+  ],
+  "awards": [],
+  "employers": [
+   "Accademia Nazionale di Santa Cecilia"
+  ],
+  "genres": [
+   "symphonic poem",
+   "impressionism in music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "174",
+  "wikidataId": "Q357326",
+  "birthPlace": "Popotla",
+  "deathPlace": "Mexico City",
+  "teachers": [],
+  "students": [
+   "Blas Galindo",
+   "Eduardo Mata",
+   "María Teresa Prieto"
+  ],
+  "notableWorks": [
+   "Symphony No. 3",
+   "Symphony No. 5"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "choreographer",
+   "musicologist",
+   "journalist",
+   "music arranger"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "National Prize for Arts and Sciences"
+  ],
+  "employers": [
+   "Harvard University"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "175",
+  "wikidataId": "Q1151",
+  "birthPlace": "La Côte-Saint-André",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Anton Reicha",
+   "Jean-François Le Sueur"
+  ],
+  "students": [
+   "Antoine Elwart",
+   "Théodore Ritter"
+  ],
+  "notableWorks": [
+   "Requiem",
+   "Roméo et Juliette",
+   "Symphonie fantastique",
+   "La damnation de Faust",
+   "Les Troyens",
+   "Le carnaval romain"
+  ],
+  "movements": [
+   "Romanticism"
+  ],
+  "instruments": [
+   "guitar",
+   "flageolet",
+   "flute",
+   "saxophone"
+  ],
+  "occupations": [
+   "conductor",
+   "writer",
+   "autobiographer",
+   "music critic",
+   "librettist",
+   "virtuoso"
+  ],
+  "awards": [
+   "Prix de Rome",
+   "Officer of the Legion of Honour",
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music",
+   "Romantic music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "176",
+  "wikidataId": "Q262791",
+  "birthPlace": "New York City",
+  "teachers": [
+   "Darius Milhaud"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Variations for Vibes, Piano, and Strings",
+   "Daniel Variations",
+   "Eight Lines",
+   "Double Sextet"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "musician",
+   "videographer"
+  ],
+  "awards": [
+   "Commandeur des Arts et des Lettres‎",
+   "Guggenheim Fellowship",
+   "Praemium Imperiale",
+   "Pulitzer Prize for Music",
+   "BBVA Foundation Frontiers of Knowledge Award",
+   "Nemmers Prize in Music Composition"
+  ],
+  "employers": [],
+  "genres": [
+   "Minimalism"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "177",
+  "wikidataId": "Q312784",
+  "birthPlace": "Venice",
+  "deathPlace": "Brescia",
+  "teachers": [
+   "Francesco Gasparini",
+   "Antonio Lotti"
+  ],
+  "students": [
+   "Baldassare Galuppi"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "poet",
+   "writer",
+   "teacher"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "178",
+  "wikidataId": "Q1145",
+  "birthPlace": "Dijon",
+  "deathPlace": "Paris",
+  "teachers": [],
+  "students": [
+   "Jean-Claude Trial"
+  ],
+  "notableWorks": [
+   "Dardanus",
+   "Pièces de clavecin en concerts",
+   "Traité de l'harmonie réduite à ses principes naturels",
+   "Pièces de Clavecin",
+   "Castor et Pollux",
+   "Les Indes galantes"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "choreographer",
+   "musicologist",
+   "music theorist",
+   "organist",
+   "harpsichordist"
+  ],
+  "awards": [
+   "Order of Saint Michael"
+  ],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "179",
+  "wikidataId": "Q25872",
+  "birthPlace": "Saint Petersburg",
+  "deathPlace": "Neuilly-sur-Seine",
+  "teachers": [
+   "Nikolai Rimsky-Korsakov"
+  ],
+  "students": [
+   "Arthur Lourié",
+   "Natalia Pravosudovich",
+   "Mikhail Klimov",
+   "Dimitri Tiomkin"
+  ],
+  "notableWorks": [
+   "String Quartet No. 2",
+   "Saxophone Concerto"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pedagogue",
+   "musicologist",
+   "music educator",
+   "university teacher"
+  ],
+  "awards": [
+   "People's Artist of the RSFSR"
+  ],
+  "employers": [
+   "Saint Petersburg Conservatory"
+  ],
+  "genres": [
+   "symphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "180",
+  "wikidataId": "Q318518",
+  "birthPlace": "Philadelphia",
+  "deathPlace": "Princeton",
+  "teachers": [
+   "Marion Bauer",
+   "Philip James"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "20th-century classical music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "mathematician",
+   "composer",
+   "musicologist",
+   "music educator",
+   "music theorist",
+   "university teacher"
+  ],
+  "awards": [
+   "Guggenheim Fellowship",
+   "MacArthur Fellows Program",
+   "Fellow of the American Academy of Arts and Sciences",
+   "James Madison Medal",
+   "Arts and Letters Award in Music",
+   "Pulitzer Prize Special Citations and Awards"
+  ],
+  "employers": [
+   "Princeton University",
+   "Juilliard School"
+  ],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "181",
+  "wikidataId": "Q132682",
+  "birthPlace": "Karevo",
+  "deathPlace": "Saint Petersburg",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Boris Godunov",
+   "Pictures at an Exhibition",
+   "Night on Bald Mountain"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "librettist",
+   "military personnel",
+   "musician"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "182",
+  "wikidataId": "Q110294",
+  "birthPlace": "Deventer",
+  "deathPlace": "Amsterdam",
+  "teachers": [],
+  "students": [
+   "Heinrich Scheidemann",
+   "Jacob Praetorius",
+   "Melchior Schildt",
+   "Andreas Düben",
+   "Samuel Scheidt",
+   "Paul Siefert"
+  ],
+  "notableWorks": [],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "teacher",
+   "musicologist",
+   "music theorist",
+   "harpsichordist"
+  ],
+  "awards": [],
+  "employers": [
+   "Oude Kerk",
+   "Amsterdam"
+  ],
+  "genres": [
+   "Renaissance music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "183",
+  "wikidataId": "Q7312",
+  "birthPlace": "Himmelpfortgrund",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Antonio Salieri"
+  ],
+  "students": [
+   "Maria Theresia, Gräfin Esterházy de Galántha"
+  ],
+  "notableWorks": [
+   "Symphony No. 8",
+   "Symphony No. 9",
+   "Symphony No. 3",
+   "Winterreise",
+   "Death and the Maiden",
+   "Ellens dritter Gesang"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano",
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "teacher"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "184",
+  "wikidataId": "Q106434",
+  "birthPlace": "Cologne",
+  "deathPlace": "Friedenau",
+  "teachers": [
+   "Carl Reinecke",
+   "Ferdinand Hiller"
+  ],
+  "students": [
+   "Sara Wennerberg-Reuter",
+   "Clara Mathilda Faisst",
+   "Elisabeth Kuyper",
+   "Ottorino Respighi",
+   "Oscar Straus",
+   "Fartein Valen"
+  ],
+  "notableWorks": [
+   "Scottish Fantasy"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "teacher"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Honorary doctor of the Humboldt University of Berlin",
+   "Bavarian Maximilian Order for Science and Art",
+   "Pour le Mérite"
+  ],
+  "employers": [
+   "Berlin University of the Arts"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "185",
+  "wikidataId": "Q49481",
+  "birthPlace": "Sontsivka",
+  "deathPlace": "Moscow",
+  "teachers": [
+   "Reinhold Glière",
+   "Nikolai Rimsky-Korsakov",
+   "Nikolai Tcherepnin",
+   "Anna Yesipova"
+  ],
+  "students": [
+   "Mark Eddinger"
+  ],
+  "notableWorks": [
+   "Symphony No. 1",
+   "Symphony No. 4",
+   "Symphony No. 2",
+   "The Love for Three Oranges",
+   "Peter and the Wolf"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "conductor",
+   "choreographer",
+   "musicologist",
+   "film score composer"
+  ],
+  "awards": [
+   "Stalin Prize",
+   "Lenin Prize",
+   "Order of the Red Banner of Labour",
+   "Medal \"For Valiant Labour in the Great Patriotic War 1941–1945\"",
+   "Royal Philharmonic Society Gold Medal"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "ballet",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "186",
+  "wikidataId": "Q45682",
+  "birthPlace": "Hämeenlinna",
+  "deathPlace": "Järvenpää",
+  "teachers": [
+   "Martin Wegelius",
+   "Albert Becker",
+   "Karl Goldmark",
+   "Robert Fuchs",
+   "Robert Kajanus",
+   "Karl Flodin"
+  ],
+  "students": [
+   "Heikki Klemetti",
+   "Toivo Kuula",
+   "Leevi Madetoja"
+  ],
+  "notableWorks": [
+   "Finlandia",
+   "Kullervo",
+   "Valse triste",
+   "Violin Concerto",
+   "Andante Festivo"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "university teacher",
+   "violinist"
+  ],
+  "awards": [
+   "Grand Cross of the Order of the White Rose of Finland",
+   "Wihuri Sibelius Prize",
+   "Royal Philharmonic Society Gold Medal",
+   "Finnish Music Hall of Fame",
+   "Goethe Medal for Art and Science",
+   "commander of the Order of the Dannebrog"
+  ],
+  "employers": [
+   "University of Helsinki"
+  ],
+  "genres": [
+   "classical music",
+   "opera",
+   "symphony",
+   "incidental music",
+   "20th-century classical music",
+   "art song"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "187",
+  "wikidataId": "Q336137",
+  "birthPlace": "Venice",
+  "deathPlace": "Venice",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Concerto for Oboe and Strings in D minor"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "mathematician",
+   "jurist",
+   "poet",
+   "philosopher",
+   "writer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "188",
+  "wikidataId": "Q131861",
+  "birthPlace": "Starorussky Uyezd",
+  "deathPlace": "Beverly Hills",
+  "teachers": [
+   "Nikolai Zverev",
+   "Anton Arensky",
+   "Sergei Ivanovich Taneyev",
+   "Alexander Siloti"
+  ],
+  "students": [
+   "Gina Bachauer",
+   "Ruth Slenczynska"
+  ],
+  "notableWorks": [
+   "Symphony No. 1",
+   "All-Night Vigil",
+   "Piano Concerto No. 2",
+   "Prelude in C-sharp minor",
+   "Pyrrique",
+   "Scherzo in D minor"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "conductor",
+   "musicologist",
+   "virtuoso"
+  ],
+  "awards": [
+   "Royal Philharmonic Society Gold Medal"
+  ],
+  "employers": [
+   "Moscow school number 19"
+  ],
+  "genres": [
+   "opera",
+   "symphony",
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "189",
+  "wikidataId": "Q7298",
+  "birthPlace": "Nelahozeves",
+  "deathPlace": "Prague",
+  "teachers": [
+   "Josef Leopold Zvonař",
+   "Antonín Liehmann"
+  ],
+  "students": [
+   "Vítězslav Novák",
+   "Oskar Nedbal",
+   "Josef Suk",
+   "Camille Zeckwer",
+   "John Stepan Zamecnik",
+   "Emil Kühnel"
+  ],
+  "notableWorks": [
+   "Symphony No. 9",
+   "Stabat Mater",
+   "Saint Ludmila, Op. 71, B. 144",
+   "Requiem",
+   "Te Deum",
+   "Alfred"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "pipe organ",
+   "piano",
+   "violin",
+   "viola"
+  ],
+  "occupations": [
+   "classical composer",
+   "organist",
+   "professor",
+   "conductor",
+   "musicologist",
+   "violinist"
+  ],
+  "awards": [
+   "Order of the Iron Crown (Kingdom of Italy)",
+   "honorary doctor of the Charles University of Prague",
+   "Order of the Iron Crown (Austria)",
+   "Honorary Member of the Royal Philharmonic Society"
+  ],
+  "employers": [
+   "Provisional Theatre",
+   "Church of Saint Adalbert",
+   "National Conservatory of Music of America",
+   "Prague Conservatory"
+  ],
+  "genres": [
+   "classical music",
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "190",
+  "wikidataId": "Q7314",
+  "birthPlace": "Lomonosov",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Nikolai Rimsky-Korsakov",
+   "Wassili Kalafati"
+  ],
+  "students": [],
+  "notableWorks": [
+   "The Rite of Spring",
+   "Movements for Piano and Orchestra",
+   "Symphony in E-flat",
+   "Scherzo fantastique",
+   "Petrushka",
+   "The Firebird"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pianist",
+   "librettist"
+  ],
+  "awards": [
+   "Grammy Lifetime Achievement Award",
+   "Léonie Sonning Music Prize",
+   "Grammy Award for Best Contemporary Classical Composition",
+   "Grammy Award for Best Orchestral Performance",
+   "Grammy Award for Best Classical Album"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony",
+   "chamber music",
+   "20th-century classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "191",
+  "wikidataId": "Q153643",
+  "birthPlace": "Bad Köstritz",
+  "deathPlace": "Dresden",
+  "teachers": [
+   "Giovanni Gabrieli",
+   "Georg Otto"
+  ],
+  "students": [
+   "Johann Vierdanck",
+   "David Pohle",
+   "Johann Wilhelm Furchheim",
+   "Adam Krieger",
+   "Johann Schelle",
+   "Christoph Bernhard"
+  ],
+  "notableWorks": [
+   "Dafne",
+   "Musikalische Exequien",
+   "Psalmen Davids",
+   "Cantiones sacrae",
+   "Die sieben Worte Jesu Christi am Kreuz"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "independent publisher",
+   "chapelmaster",
+   "court chapel master"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "motet",
+   "cantata",
+   "madrigal"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "192",
+  "wikidataId": "Q76428",
+  "birthPlace": "Weimar",
+  "deathPlace": "Hamburg",
+  "teachers": [
+   "Johann Sebastian Bach"
+  ],
+  "students": [
+   "Jan Ladislav Dussek"
+  ],
+  "notableWorks": [
+   "Magnificat",
+   "Die Auferstehung und Himmelfahrt Jesu",
+   "Die Israeliten in der Wüste",
+   "Q15857789",
+   "Versuch über die wahre Art das Clavier zu spielen",
+   "Klopstocks Morgengesang am Schöpfungsfeste"
+  ],
+  "movements": [
+   "classical music"
+  ],
+  "instruments": [
+   "organ",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "musicologist",
+   "music theorist",
+   "harpsichordist",
+   "organist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "Baroque",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "193",
+  "wikidataId": "Q207951",
+  "birthPlace": "La Flèche",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Adolphe Adam"
+  ],
+  "students": [
+   "Maurice Emmanuel",
+   "Spiro Samara",
+   "Émile Jaques-Dalcroze",
+   "Camille Erlanger"
+  ],
+  "notableWorks": [
+   "Lakmé",
+   "Sylvia",
+   "Le roi l'a dit",
+   "Coppélia"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "university teacher",
+   "organist"
+  ],
+  "awards": [
+   "Officer of the Legion of Honour"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "Paris Opera",
+   "Theatre Lyrique"
+  ],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "194",
+  "wikidataId": "Q189015",
+  "birthPlace": "Naples",
+  "deathPlace": "Montecatini Terme",
+  "teachers": [
+   "Giosuè Carducci",
+   "Beniamino Cesi"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Pagliacci"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "librettist",
+   "composer",
+   "pianist",
+   "screenwriter",
+   "conductor",
+   "musician"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "195",
+  "wikidataId": "Q217044",
+  "birthPlace": "Stockholm",
+  "deathPlace": "Stockholm",
+  "teachers": [
+   "Christian Friedrich Georg Berwald",
+   "Jean Baptiste Édouard Du Puy"
+  ],
+  "students": [
+   "Johan Alfred Ahlström",
+   "Joseph Gottlieb Dente",
+   "Conrad Nordqvist",
+   "Hilda Thegerström",
+   "Christina Nilsson",
+   "Johan van Boom"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "viola"
+  ],
+  "occupations": [
+   "composer",
+   "musicologist",
+   "university teacher",
+   "surgeon",
+   "violinist",
+   "violist"
+  ],
+  "awards": [],
+  "employers": [
+   "Royal College of Music in Stockholm",
+   "Kungliga Hovkapellet"
+  ],
+  "genres": [
+   "classical music",
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "196",
+  "wikidataId": "Q254",
+  "birthPlace": "Salzburg",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Johann Schobert",
+   "Johann Christian Bach",
+   "Leopold Mozart",
+   "Giovanni Battista Martini"
+  ],
+  "students": [
+   "Johann Nepomuk Hummel",
+   "Franz Xaver Süssmayr",
+   "Barbara Ployer",
+   "Thomas Attwood",
+   "Ignaz von Seyfried",
+   "Anton Eberl"
+  ],
+  "notableWorks": [
+   "The Magic Flute",
+   "The Marriage of Figaro",
+   "Don Giovanni",
+   "Così fan tutte",
+   "Die Entführung aus dem Serail",
+   "Symphony No. 40"
+  ],
+  "movements": [
+   "Classical period"
+  ],
+  "instruments": [
+   "organ",
+   "clavichord",
+   "harpsichord",
+   "fortepiano",
+   "violin",
+   "viola"
+  ],
+  "occupations": [
+   "composer",
+   "music educator",
+   "pianist",
+   "musician",
+   "organist",
+   "violinist"
+  ],
+  "awards": [
+   "Order of the Golden Spur"
+  ],
+  "employers": [
+   "Count Hieronymus von Colloredo",
+   "Joseph II, Holy Roman Emperor"
+  ],
+  "genres": [
+   "Classical period",
+   "chamber music",
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "197",
+  "wikidataId": "Q41309",
+  "birthPlace": "Raiding",
+  "deathPlace": "Bayreuth",
+  "teachers": [
+   "Adam Liszt",
+   "Carl Czerny",
+   "Antonio Salieri",
+   "Anton Reicha",
+   "Ferdinando Paer"
+  ],
+  "students": [
+   "Árpád Szendy",
+   "Carl Filtsch",
+   "Antal Siposs",
+   "Caroline Montigny-Rémaury",
+   "Eugen d'Albert",
+   "Hilda Thegerström"
+  ],
+  "notableWorks": [
+   "Hamlet",
+   "Dante Symphony",
+   "Mazeppa",
+   "Hungarian Rhapsody No. 1",
+   "Hungarian Roidy No. 2"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano",
+   "organ"
+  ],
+  "occupations": [
+   "classical composer",
+   "pianist",
+   "conductor",
+   "music educator",
+   "virtuoso",
+   "composer"
+  ],
+  "awards": [
+   "Pour le Mérite for Sciences and Arts order",
+   "Order of the Golden Spur",
+   "Bavarian Maximilian Order for Science and Art",
+   "Commander of the Order of Christ",
+   "honorary doctor of the University of Königsberg",
+   "Knight of the Order of the Iron Crown (Austria)"
+  ],
+  "employers": [
+   "Franz Liszt Academy of Music"
+  ],
+  "genres": [
+   "symphony",
+   "classical music",
+   "Hungarian folk music",
+   "symphonic poem"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "198",
+  "wikidataId": "Q179631",
+  "birthPlace": "Lower Broadheath",
+  "deathPlace": "Worcester",
+  "teachers": [
+   "Adolf Pollitzer"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Salut d'Amour",
+   "Concert Allegro",
+   "Dream Children",
+   "Enigma Variations",
+   "Pomp and Circumstance Marches",
+   "The Dream of Gerontius"
+  ],
+  "movements": [],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer",
+   "conductor"
+  ],
+  "awards": [
+   "Knight Grand Cross of the Royal Victorian Order",
+   "Royal Philharmonic Society Gold Medal",
+   "Walter Willson Cobbett Medal",
+   "Order of Merit",
+   "baronet"
+  ],
+  "employers": [
+   "University of Birmingham"
+  ],
+  "genres": [
+   "classical music",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "199",
+  "wikidataId": "Q9695",
+  "birthPlace": "Westminster",
+  "deathPlace": "Westminster",
+  "teachers": [
+   "Pelham Humfrey",
+   "John Blow",
+   "Henry Cooke",
+   "Matthew Locke"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Dido and Aeneas",
+   "Who can from joy refrain?",
+   "The Fairy-Queen",
+   "Hail, bright Cecilia",
+   "I attempt from Love's sickness to fly",
+   "Thou knowest, Lord, the secrets of our hearts"
+  ],
+  "movements": [
+   "Baroque music"
+  ],
+  "instruments": [
+   "pipe organ",
+   "harpsichord"
+  ],
+  "occupations": [
+   "composer",
+   "organist",
+   "musicologist",
+   "music theorist",
+   "author"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "hymn",
+   "ode"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "200",
+  "wikidataId": "Q123164",
+  "birthPlace": "Le Havre",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Charles-Marie Widor",
+   "Vincent d'Indy"
+  ],
+  "students": [
+   "Marius Constant",
+   "Yves Ramette",
+   "Bohuslav Martinů",
+   "Ginette Martenot"
+  ],
+  "notableWorks": [
+   "Concerto da camera",
+   "Danse de la chèvre",
+   "Pacific 231",
+   "Roi David",
+   "Joan of Arc"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "classical composer",
+   "musicologist",
+   "music educator",
+   "film score composer",
+   "composer"
+  ],
+  "awards": [
+   "Grand Officer of the Legion of Honour",
+   "Honorary Member of the International Society for Contemporary Music"
+  ],
+  "employers": [
+   "Conservatoire de Paris",
+   "École Normale de Musique de Paris Alfred Cortot"
+  ],
+  "genres": [
+   "symphony",
+   "oratorio",
+   "string quartet",
+   "soundtrack"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "201",
+  "wikidataId": "Q959136",
+  "birthPlace": "Lincoln County",
+  "deathPlace": "Santa Monica",
+  "teachers": [
+   "Nadia Boulanger"
+  ],
+  "students": [
+   "Lorne Betts"
+  ],
+  "notableWorks": [
+   "Q2014949",
+   "Folk Song Symphony"
+  ],
+  "movements": [],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "music educator"
+  ],
+  "awards": [
+   "Guggenheim Fellowship"
+  ],
+  "employers": [
+   "University of California, Los Angeles",
+   "California State University"
+  ],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "202",
+  "wikidataId": "Q191408",
+  "birthPlace": "Paris",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Charles Koechlin",
+   "Ricard Viñes"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Dialogues of the Carmelites",
+   "La voix humaine",
+   "Les biches",
+   "Concert champêtre",
+   "Organ Concerto",
+   "Flute Sonata"
+  ],
+  "movements": [
+   "modernism",
+   "classical music"
+  ],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "music critic"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour",
+   "Officer of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "classical music",
+   "religious music",
+   "choral music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "203",
+  "wikidataId": "Q153469",
+  "birthPlace": "Dębica",
+  "deathPlace": "Kraków",
+  "teachers": [
+   "Stanisław Wiechowicz",
+   "Artur Malawski"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Polish Requiem",
+   "Q1813637",
+   "Symphony No. 8"
+  ],
+  "movements": [],
+  "instruments": [
+   "violin",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "pedagogue",
+   "musicologist",
+   "music educator",
+   "violinist"
+  ],
+  "awards": [
+   "Commandeur des Arts et des Lettres‎",
+   "Order of the White Eagle (Third Polish Republic)",
+   "Golden Medal for Merit to Culture",
+   "Commander with Star of the Order of Polonia Restituta",
+   "Polish Academy Award for Best Film Score",
+   "Commander's Cross of the Order of Merit of the Federal Republic of Germany"
+  ],
+  "employers": [
+   "Yale University"
+  ],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "204",
+  "wikidataId": "Q213519",
+  "birthPlace": "Paris",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Monsieur de Sainte-Colombe",
+   "Jean-Baptiste Lully"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "classical music",
+   "Baroque music"
+  ],
+  "instruments": [
+   "viol"
+  ],
+  "occupations": [
+   "composer",
+   "viol player"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "205",
+  "wikidataId": "Q215128",
+  "birthPlace": "Ávila",
+  "deathPlace": "Madrid",
+  "teachers": [
+   "Giovanni Pierluigi da Palestrina",
+   "Juan Navarro Hispalensis",
+   "Bernardino de Ribera"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Renaissance music"
+  ],
+  "instruments": [
+   "organ"
+  ],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "206",
+  "wikidataId": "Q78522",
+  "birthPlace": "Vienna",
+  "deathPlace": "Nový Dvůr",
+  "teachers": [
+   "Giuseppe Bonno"
+  ],
+  "students": [
+   "Johann Baptist Vanhal"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "bandleader",
+   "violinist",
+   "musician",
+   "singer"
+  ],
+  "awards": [
+   "Order of the Golden Spur"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "207",
+  "wikidataId": "Q263855",
+  "birthPlace": "Campinas",
+  "deathPlace": "Belém",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist"
+  ],
+  "awards": [
+   "Imperial Order of the Rose",
+   "Livro dos Heróis e Heroínas da Pátria"
+  ],
+  "employers": [],
+  "genres": [
+   "opera"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "208",
+  "wikidataId": "Q7349",
+  "birthPlace": "Rohrau",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Nicola Porpora"
+  ],
+  "students": [
+   "Pavel Vranický",
+   "Friedrich Kalkbrenner",
+   "Marianna Martines",
+   "Ignaz Pleyel",
+   "Franciszek Lessel",
+   "Antonín Kraft"
+  ],
+  "notableWorks": [
+   "Symphony No. 100",
+   "Symphony No. 101",
+   "Deutschlandlied"
+  ],
+  "movements": [
+   "Classicism"
+  ],
+  "instruments": [
+   "organ",
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "musicologist",
+   "pianist",
+   "independent publisher"
+  ],
+  "awards": [
+   "honorary citizen of Vienna"
+  ],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "209",
+  "wikidataId": "Q157898",
+  "birthPlace": "Mannheim",
+  "deathPlace": "Jena",
+  "teachers": [
+   "Johann Stamitz",
+   "Ignaz Holzbauer",
+   "Franz Xaver Richter",
+   "Christian Cannabich"
+  ],
+  "students": [
+   "Anton Stamitz"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "violinist",
+   "musician",
+   "violist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "210",
+  "wikidataId": "Q78475",
+  "birthPlace": "Vienna",
+  "deathPlace": "Vienna",
+  "teachers": [
+   "Arnold Schoenberg"
+  ],
+  "students": [
+   "Fritz Heinrich Klein",
+   "Hans Erich Apostel",
+   "Theodor W. Adorno",
+   "Hanns Jelinek",
+   "Lars-Erik Larsson",
+   "Gottfried Kassowitz"
+  ],
+  "notableWorks": [
+   "Three Pieces for Orchestra",
+   "Wozzeck",
+   "Lulu",
+   "Violin Concerto"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pianist",
+   "musician",
+   "librettist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "opera",
+   "twelve-tone technique"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "211",
+  "wikidataId": "Q48173",
+  "birthPlace": "Litomyšl",
+  "deathPlace": "Prague",
+  "teachers": [
+   "Josef Proksch"
+  ],
+  "students": [
+   "Klementina Kalašová"
+  ],
+  "notableWorks": [
+   "The Bartered Bride",
+   "Má vlast",
+   "String Quartet No. 1"
+  ],
+  "movements": [
+   "Romantic music"
+  ],
+  "instruments": [
+   "piano",
+   "violin"
+  ],
+  "occupations": [
+   "composer",
+   "conductor",
+   "teacher",
+   "pedagogue",
+   "pianist",
+   "music educator"
+  ],
+  "awards": [],
+  "employers": [
+   "Harmonious Society",
+   "Hlahol Prague",
+   "Provisional Theatre"
+  ],
+  "genres": [
+   "classical music",
+   "opera",
+   "symphonic poem"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "212",
+  "wikidataId": "Q254110",
+  "birthPlace": "Barcelona",
+  "deathPlace": "Paris",
+  "teachers": [
+   "Anselm Viola i Valentí"
+  ],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "Romanticism"
+  ],
+  "instruments": [
+   "violin",
+   "classical guitar",
+   "piano"
+  ],
+  "occupations": [
+   "guitarist",
+   "composer",
+   "classical guitarist",
+   "performing artist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "classical music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "213",
+  "wikidataId": "Q155467",
+  "birthPlace": "Tokyo City",
+  "deathPlace": "Tokyo",
+  "teachers": [
+   "Yasuji Kiyose"
+  ],
+  "students": [
+   "Alexandros Kalogeras"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "pedagogue",
+   "film score composer",
+   "writer",
+   "classical guitarist",
+   "autodidact"
+  ],
+  "awards": [
+   "Glenn Gould Prize",
+   "Chevalier des Arts et des Lettres",
+   "Grawemeyer Award for Music Composition",
+   "Otaka prize",
+   "Honorary Member of the International Society for Contemporary Music",
+   "Maurice Ravel Prize"
+  ],
+  "employers": [
+   "Yale University"
+  ],
+  "genres": [
+   "impressionism in music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "214",
+  "wikidataId": "Q179277",
+  "birthPlace": "Palestrina",
+  "deathPlace": "Rome",
+  "teachers": [
+   "Robin Mallapert",
+   "Firmin Lebel",
+   "Giacomo Coppola",
+   "Giovanni Animuccia",
+   "Claude Goudimel",
+   "Robert de Févin"
+  ],
+  "students": [
+   "Tomás Luis de Victoria",
+   "Giovanni Maria Nanino",
+   "Giovanni Francesco Anerio",
+   "Francesco Soriano",
+   "Francisco Leontaritis",
+   "Asprilio Pacelli"
+  ],
+  "notableWorks": [],
+  "movements": [],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "composer",
+   "chapelmaster",
+   "music educator",
+   "organist",
+   "choir director",
+   "singer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [
+   "Renaissance music",
+   "religious music",
+   "mass",
+   "motet",
+   "church music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "215",
+  "wikidataId": "Q151084",
+  "birthPlace": "Sagunto",
+  "deathPlace": "Madrid",
+  "teachers": [
+   "Francesc Antich Carbonell",
+   "Paul Dukas",
+   "Maurice Emmanuel",
+   "André Pirro"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Concierto de Aranjuez"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "composer",
+   "choreographer",
+   "pianist",
+   "pedagogue",
+   "musicologist",
+   "guitarist"
+  ],
+  "awards": [
+   "Commander's Cross of the Order of Merit of the Federal Republic of Germany",
+   "Princess of Asturias Award for the Arts",
+   "Commandeur des Arts et des Lettres‎",
+   "Premios Ondas",
+   "Grand Cross of the Civil Order of Alfonso X the Wise",
+   "Gold Medal of Merit in the Fine Arts"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "zarzuela"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "216",
+  "wikidataId": "Q185812",
+  "birthPlace": "Camprodon",
+  "deathPlace": "Cambo-les-Bains",
+  "teachers": [
+   "Antoine-François Marmontel",
+   "François-Auguste Gevaert",
+   "Felip Pedrell",
+   "Eduard Compta i Torres",
+   "Manuel Mendizábal",
+   "Carl Reinecke"
+  ],
+  "students": [
+   "Déodat de Séverac",
+   "René de Castéra",
+   "Clara Sansoni"
+  ],
+  "notableWorks": [
+   "Iberia",
+   "Pepita Jiménez",
+   "Chants d'Espagne",
+   "Asturias",
+   "Córdoba",
+   "Merlin"
+  ],
+  "movements": [],
+  "instruments": [
+   "piano"
+  ],
+  "occupations": [
+   "classical pianist",
+   "composer",
+   "conductor",
+   "virtuoso",
+   "pianist"
+  ],
+  "awards": [
+   "Knight of the Legion of Honour"
+  ],
+  "employers": [],
+  "genres": [
+   "opera",
+   "zarzuela",
+   "sardana"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "217",
+  "wikidataId": "Q309648",
+  "birthPlace": "Danbury",
+  "deathPlace": "New York City",
+  "teachers": [
+   "Horatio Parker"
+  ],
+  "students": [],
+  "notableWorks": [
+   "Variations on \"America\"",
+   "Symphony No. 3"
+  ],
+  "movements": [],
+  "instruments": [
+   "pipe organ"
+  ],
+  "occupations": [
+   "actuary",
+   "composer"
+  ],
+  "awards": [
+   "Pulitzer Prize for Music"
+  ],
+  "employers": [],
+  "genres": [
+   "symphony"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "218",
+  "wikidataId": "Q152293",
+  "birthPlace": "Tbilisi",
+  "deathPlace": "Moscow",
+  "teachers": [
+   "Reinhold Glière"
+  ],
+  "students": [
+   "Mikael Tariverdiev",
+   "Nobuo Terahara"
+  ],
+  "notableWorks": [
+   "Piano Concerto",
+   "Masquerade"
+  ],
+  "movements": [],
+  "instruments": [
+   "cello",
+   "piano",
+   "violin"
+  ],
+  "occupations": [
+   "classical composer",
+   "conductor",
+   "music educator",
+   "choreographer",
+   "musicologist",
+   "university teacher"
+  ],
+  "awards": [
+   "Stalin Prize",
+   "USSR State Prize",
+   "Order of Lenin",
+   "Hero of Socialist Labour",
+   "Order of the October Revolution",
+   "People's Artist of the USSR"
+  ],
+  "employers": [
+   "Moscow Conservatory",
+   "Gnessin Russian Academy of Music"
+  ],
+  "genres": [
+   "art music",
+   "ballet",
+   "concerto",
+   "symphony",
+   "chamber music"
+  ],
+  "extraYears": []
+ },
+ {
+  "composerId": "219",
+  "wikidataId": "Q206275",
+  "birthPlace": "Paris",
+  "deathPlace": "Kingdom of France",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [],
+  "movements": [
+   "medieval music"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer",
+   "musicologist"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ },
+ {
+  "composerId": "220",
+  "wikidataId": "Q297501",
+  "teachers": [],
+  "students": [],
+  "notableWorks": [
+   "Magnus Liber"
+  ],
+  "movements": [
+   "Notre Dame school"
+  ],
+  "instruments": [],
+  "occupations": [
+   "composer"
+  ],
+  "awards": [],
+  "employers": [],
+  "genres": [],
+  "extraYears": []
+ }
+]

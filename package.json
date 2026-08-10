@@ -11,9 +11,12 @@
     "seed:openopus": "tsx scripts/seed/fetch-openopus.ts",
     "seed:portraits": "tsx scripts/seed/fetch-portraits.ts",
     "seed:catalog": "tsx scripts/seed/build-catalog.ts",
+    "seed:composer-facts": "tsx scripts/seed/fetch-composer-facts.ts",
+    "check:composer-editorial": "tsx scripts/seed/check-composer-editorial.ts",
     "test:e2e": "playwright test",
     "test:e2e:ui": "playwright test --ui",
-    "build:icons": "tsx scripts/build-icons.ts"
+    "build:icons": "tsx scripts/build-icons.ts",
+    "build:editorial": "tsx scripts/seed/build-editorial.ts"
   },
   "dependencies": {
     "next": "16.3.0",

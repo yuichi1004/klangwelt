@@ -1,0 +1,1102 @@
+{
+  "1": {
+    "name": "Karl Goldmark",
+    "phase": 4,
+    "status": "pending"
+  },
+  "2": {
+    "name": "Anton Bruckner",
+    "phase": 3,
+    "status": "pending"
+  },
+  "3": {
+    "name": "Niccolò Paganini",
+    "phase": 4,
+    "status": "pending"
+  },
+  "4": {
+    "name": "Wilhelm Stenhammar",
+    "phase": 3,
+    "status": "pending"
+  },
+  "5": {
+    "name": "Arvo Pärt",
+    "phase": 4,
+    "status": "pending"
+  },
+  "6": {
+    "name": "Anton Webern",
+    "phase": 3,
+    "status": "pending"
+  },
+  "7": {
+    "name": "Erich Wolfgang Korngold",
+    "phase": 4,
+    "status": "pending"
+  },
+  "8": {
+    "name": "Frederick Delius",
+    "phase": 3,
+    "status": "pending"
+  },
+  "9": {
+    "name": "Marc-Antoine Charpentier",
+    "phase": 4,
+    "status": "pending"
+  },
+  "10": {
+    "name": "Jean-Baptiste Lully",
+    "phase": 4,
+    "status": "pending"
+  },
+  "11": {
+    "name": "Bohuslav Martinů",
+    "phase": 3,
+    "status": "pending"
+  },
+  "12": {
+    "name": "César Franck",
+    "phase": 3,
+    "status": "pending"
+  },
+  "13": {
+    "name": "Michael Tippett",
+    "phase": 3,
+    "status": "pending"
+  },
+  "14": {
+    "name": "Carlo Gesualdo",
+    "phase": 4,
+    "status": "pending"
+  },
+  "15": {
+    "name": "Engelbert Humperdinck",
+    "phase": 4,
+    "status": "pending"
+  },
+  "16": {
+    "name": "Henryk Górecki",
+    "phase": 4,
+    "status": "pending"
+  },
+  "17": {
+    "name": "Iannis Xenakis",
+    "phase": 4,
+    "status": "pending"
+  },
+  "18": {
+    "name": "Alexander Scriabin",
+    "phase": 3,
+    "status": "pending"
+  },
+  "19": {
+    "name": "Samuel Barber",
+    "phase": 3,
+    "status": "pending"
+  },
+  "20": {
+    "name": "Malcolm Arnold",
+    "phase": 4,
+    "status": "pending"
+  },
+  "21": {
+    "name": "Mily Balakirev",
+    "phase": 4,
+    "status": "pending"
+  },
+  "22": {
+    "name": "Edgard Varèse",
+    "phase": 3,
+    "status": "pending"
+  },
+  "23": {
+    "name": "Clément Janequin",
+    "phase": 4,
+    "status": "pending"
+  },
+  "24": {
+    "name": "William Schuman",
+    "phase": 4,
+    "status": "pending"
+  },
+  "25": {
+    "name": "Alexander von Zemlinsky",
+    "phase": 4,
+    "status": "pending"
+  },
+  "26": {
+    "name": "György Ligeti",
+    "phase": 3,
+    "status": "pending"
+  },
+  "27": {
+    "name": "Tomaso Albinoni",
+    "phase": 4,
+    "status": "pending"
+  },
+  "28": {
+    "name": "Jacob Obrecht",
+    "phase": 4,
+    "status": "pending"
+  },
+  "29": {
+    "name": "Charles Gounod",
+    "phase": 4,
+    "status": "pending"
+  },
+  "30": {
+    "name": "Johann Nepomuk Hummel",
+    "phase": 4,
+    "status": "pending"
+  },
+  "31": {
+    "name": "George Crumb",
+    "phase": 4,
+    "status": "pending"
+  },
+  "32": {
+    "name": "Alberto Ginastera",
+    "phase": 3,
+    "status": "pending"
+  },
+  "33": {
+    "name": "Josef Suk",
+    "phase": 3,
+    "status": "pending"
+  },
+  "34": {
+    "name": "Zoltán Kodály",
+    "phase": 3,
+    "status": "pending"
+  },
+  "35": {
+    "name": "Giuseppe Verdi",
+    "phase": 2,
+    "status": "pending"
+  },
+  "36": {
+    "name": "Ralph Vaughan Williams",
+    "phase": 3,
+    "status": "pending"
+  },
+  "37": {
+    "name": "Manuel de Falla",
+    "phase": 3,
+    "status": "pending"
+  },
+  "38": {
+    "name": "George Enescu",
+    "phase": 4,
+    "status": "pending"
+  },
+  "39": {
+    "name": "Claudio Monteverdi",
+    "phase": 4,
+    "status": "pending"
+  },
+  "40": {
+    "name": "Astor Piazzolla",
+    "phase": 4,
+    "status": "pending"
+  },
+  "41": {
+    "name": "Charles-Marie Widor",
+    "phase": 4,
+    "status": "pending"
+  },
+  "42": {
+    "name": "Howard Hanson",
+    "phase": 4,
+    "status": "pending"
+  },
+  "43": {
+    "name": "Alexander Borodin",
+    "phase": 3,
+    "status": "pending"
+  },
+  "44": {
+    "name": "William Walton",
+    "phase": 3,
+    "status": "pending"
+  },
+  "45": {
+    "name": "Camille Saint-Saëns",
+    "phase": 3,
+    "status": "pending"
+  },
+  "46": {
+    "name": "Dmitri Shostakovich",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "47": {
+    "name": "Heinrich Franz von Biber",
+    "phase": 4,
+    "status": "pending"
+  },
+  "48": {
+    "name": "Harrison Birtwistle",
+    "phase": 4,
+    "status": "pending"
+  },
+  "49": {
+    "name": "Karol Szymanowski",
+    "phase": 3,
+    "status": "pending"
+  },
+  "50": {
+    "name": "Josquin Des Prez",
+    "phase": 3,
+    "status": "pending"
+  },
+  "51": {
+    "name": "Vincenzo Bellini",
+    "phase": 4,
+    "status": "pending"
+  },
+  "52": {
+    "name": "Carl Nielsen",
+    "phase": 3,
+    "status": "pending"
+  },
+  "53": {
+    "name": "Gabriel Fauré",
+    "phase": 3,
+    "status": "pending"
+  },
+  "54": {
+    "name": "John Taverner",
+    "phase": 4,
+    "status": "pending"
+  },
+  "55": {
+    "name": "Heitor Villa-Lobos",
+    "phase": 3,
+    "status": "pending"
+  },
+  "56": {
+    "name": "John Cage",
+    "phase": 3,
+    "status": "pending"
+  },
+  "57": {
+    "name": "Maurice Ravel",
+    "phase": 2,
+    "status": "pending"
+  },
+  "58": {
+    "name": "Girolamo Frescobaldi",
+    "phase": 4,
+    "status": "pending"
+  },
+  "59": {
+    "name": "Edouard Lalo",
+    "phase": 4,
+    "status": "pending"
+  },
+  "60": {
+    "name": "Gioachino Rossini",
+    "phase": 3,
+    "status": "pending"
+  },
+  "61": {
+    "name": "Ernest Chausson",
+    "phase": 3,
+    "status": "pending"
+  },
+  "62": {
+    "name": "Arnold Schoenberg",
+    "phase": 3,
+    "status": "pending"
+  },
+  "63": {
+    "name": "Dmitry Kabalevsky",
+    "phase": 4,
+    "status": "pending"
+  },
+  "64": {
+    "name": "Francisco Mignone",
+    "phase": 4,
+    "status": "pending"
+  },
+  "65": {
+    "name": "Alessandro Scarlatti",
+    "phase": 4,
+    "status": "pending"
+  },
+  "66": {
+    "name": "Luigi Boccherini",
+    "phase": 3,
+    "status": "pending"
+  },
+  "67": {
+    "name": "George Frideric Handel",
+    "phase": 2,
+    "status": "pending"
+  },
+  "68": {
+    "name": "Georges Bizet",
+    "phase": 3,
+    "status": "pending"
+  },
+  "69": {
+    "name": "Pietro Mascagni",
+    "phase": 4,
+    "status": "pending"
+  },
+  "70": {
+    "name": "Morton Gould",
+    "phase": 4,
+    "status": "pending"
+  },
+  "71": {
+    "name": "César Cui",
+    "phase": 4,
+    "status": "pending"
+  },
+  "72": {
+    "name": "Max Reger",
+    "phase": 4,
+    "status": "pending"
+  },
+  "73": {
+    "name": "Dietrich Buxtehude",
+    "phase": 3,
+    "status": "pending"
+  },
+  "74": {
+    "name": "John Field",
+    "phase": 4,
+    "status": "pending"
+  },
+  "75": {
+    "name": "Gustav Holst",
+    "phase": 3,
+    "status": "pending"
+  },
+  "76": {
+    "name": "Enrique Granados",
+    "phase": 4,
+    "status": "pending"
+  },
+  "77": {
+    "name": "Gustav Mahler",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "78": {
+    "name": "Michael Praetorius",
+    "phase": 4,
+    "status": "pending"
+  },
+  "79": {
+    "name": "Pyotr Ilyich Tchaikovsky",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "80": {
+    "name": "Johannes Brahms",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "81": {
+    "name": "Michael Daugherty",
+    "phase": 4,
+    "status": "pending"
+  },
+  "82": {
+    "name": "Guillaume Dufay",
+    "phase": 4,
+    "status": "pending"
+  },
+  "83": {
+    "name": "Georg Philipp Telemann",
+    "phase": 3,
+    "status": "pending"
+  },
+  "84": {
+    "name": "Ferruccio Busoni",
+    "phase": 3,
+    "status": "pending"
+  },
+  "85": {
+    "name": "Reinhold Glière",
+    "phase": 4,
+    "status": "pending"
+  },
+  "86": {
+    "name": "William Byrd",
+    "phase": 4,
+    "status": "pending"
+  },
+  "87": {
+    "name": "Johann Sebastian Bach",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "88": {
+    "name": "Orlande de Lassus",
+    "phase": 4,
+    "status": "pending"
+  },
+  "89": {
+    "name": "Gaetano Donizetti",
+    "phase": 4,
+    "status": "pending"
+  },
+  "90": {
+    "name": "Wolfgang Rihm",
+    "phase": 4,
+    "status": "pending"
+  },
+  "91": {
+    "name": "Maurice Duruflé",
+    "phase": 4,
+    "status": "pending"
+  },
+  "92": {
+    "name": "Christoph Willibald von Gluck",
+    "phase": 4,
+    "status": "pending"
+  },
+  "93": {
+    "name": "Carl Orff",
+    "phase": 4,
+    "status": "pending"
+  },
+  "94": {
+    "name": "Victor Herbert",
+    "phase": 4,
+    "status": "pending"
+  },
+  "95": {
+    "name": "Philip Glass",
+    "phase": 3,
+    "status": "pending"
+  },
+  "96": {
+    "name": "Leoš Janáček",
+    "phase": 3,
+    "status": "pending"
+  },
+  "97": {
+    "name": "Domenico Scarlatti",
+    "phase": 3,
+    "status": "pending"
+  },
+  "98": {
+    "name": "Antonio Vivaldi",
+    "phase": 2,
+    "status": "pending"
+  },
+  "99": {
+    "name": "Percy Grainger",
+    "phase": 4,
+    "status": "pending"
+  },
+  "100": {
+    "name": "Einojuhani Rautavaara",
+    "phase": 3,
+    "status": "pending"
+  },
+  "101": {
+    "name": "Karlheinz Stockhausen",
+    "phase": 4,
+    "status": "pending"
+  },
+  "102": {
+    "name": "John Dowland",
+    "phase": 4,
+    "status": "pending"
+  },
+  "103": {
+    "name": "Arnold Bax",
+    "phase": 4,
+    "status": "pending"
+  },
+  "104": {
+    "name": "Erik Satie",
+    "phase": 4,
+    "status": "pending"
+  },
+  "105": {
+    "name": "Claude Debussy",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "106": {
+    "name": "Ernest Bloch",
+    "phase": 4,
+    "status": "pending"
+  },
+  "107": {
+    "name": "Ned Rorem",
+    "phase": 4,
+    "status": "pending"
+  },
+  "108": {
+    "name": "George Antheil",
+    "phase": 4,
+    "status": "pending"
+  },
+  "109": {
+    "name": "Johann Christian Bach",
+    "phase": 3,
+    "status": "pending"
+  },
+  "110": {
+    "name": "Henri Dutilleux",
+    "phase": 3,
+    "status": "pending"
+  },
+  "111": {
+    "name": "Luigi Nono",
+    "phase": 4,
+    "status": "pending"
+  },
+  "112": {
+    "name": "Ernst von Dohnányi",
+    "phase": 4,
+    "status": "pending"
+  },
+  "113": {
+    "name": "Giovanni Battista Pergolesi",
+    "phase": 4,
+    "status": "pending"
+  },
+  "114": {
+    "name": "Edward MacDowell",
+    "phase": 4,
+    "status": "pending"
+  },
+  "115": {
+    "name": "Johann Pachelbel",
+    "phase": 4,
+    "status": "pending"
+  },
+  "116": {
+    "name": "Paul Dukas",
+    "phase": 4,
+    "status": "pending"
+  },
+  "117": {
+    "name": "Johannes Ockeghem",
+    "phase": 4,
+    "status": "pending"
+  },
+  "118": {
+    "name": "Nikolai Rimsky-Korsakov",
+    "phase": 3,
+    "status": "pending"
+  },
+  "119": {
+    "name": "Fernando Lopes-Graça",
+    "phase": 4,
+    "status": "pending"
+  },
+  "120": {
+    "name": "Luigi Cherubini",
+    "phase": 4,
+    "status": "pending"
+  },
+  "121": {
+    "name": "Darius Milhaud",
+    "phase": 3,
+    "status": "pending"
+  },
+  "122": {
+    "name": "Jacques Ibert",
+    "phase": 4,
+    "status": "pending"
+  },
+  "123": {
+    "name": "Emmanuel Chabrier",
+    "phase": 4,
+    "status": "pending"
+  },
+  "124": {
+    "name": "Jules Massenet",
+    "phase": 4,
+    "status": "pending"
+  },
+  "125": {
+    "name": "Béla Bartók",
+    "phase": 3,
+    "status": "pending"
+  },
+  "126": {
+    "name": "Thomas Tallis",
+    "phase": 4,
+    "status": "pending"
+  },
+  "127": {
+    "name": "Vincent d'Indy",
+    "phase": 4,
+    "status": "pending"
+  },
+  "128": {
+    "name": "François Couperin",
+    "phase": 4,
+    "status": "pending"
+  },
+  "129": {
+    "name": "Robert Schumann",
+    "phase": 2,
+    "status": "pending"
+  },
+  "130": {
+    "name": "Thomas Adès",
+    "phase": 3,
+    "status": "pending"
+  },
+  "131": {
+    "name": "Kurt Weill",
+    "phase": 3,
+    "status": "pending"
+  },
+  "132": {
+    "name": "Pierre Boulez",
+    "phase": 3,
+    "status": "pending"
+  },
+  "133": {
+    "name": "Luciano Berio",
+    "phase": 4,
+    "status": "pending"
+  },
+  "134": {
+    "name": "Jacques Offenbach",
+    "phase": 4,
+    "status": "pending"
+  },
+  "135": {
+    "name": "Leonard Bernstein",
+    "phase": 3,
+    "status": "pending"
+  },
+  "136": {
+    "name": "George Gershwin",
+    "phase": 2,
+    "status": "pending"
+  },
+  "137": {
+    "name": "Alfred Schnittke",
+    "phase": 3,
+    "status": "pending"
+  },
+  "138": {
+    "name": "Richard Wagner",
+    "phase": 2,
+    "status": "pending"
+  },
+  "139": {
+    "name": "Arcangelo Corelli",
+    "phase": 3,
+    "status": "pending"
+  },
+  "140": {
+    "name": "Albert Roussel",
+    "phase": 4,
+    "status": "pending"
+  },
+  "141": {
+    "name": "Eugene Ysaÿe",
+    "phase": 4,
+    "status": "pending"
+  },
+  "142": {
+    "name": "Witold Lutoslawski",
+    "phase": 3,
+    "status": "pending"
+  },
+  "143": {
+    "name": "Antonio Salieri",
+    "phase": 4,
+    "status": "pending"
+  },
+  "144": {
+    "name": "John Corigliano",
+    "phase": 4,
+    "status": "pending"
+  },
+  "145": {
+    "name": "Ludwig van Beethoven",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "146": {
+    "name": "Giacomo Puccini",
+    "phase": 2,
+    "status": "pending"
+  },
+  "147": {
+    "name": "Felix Mendelssohn",
+    "phase": 2,
+    "status": "pending"
+  },
+  "148": {
+    "name": "Scott Joplin",
+    "phase": 4,
+    "status": "pending"
+  },
+  "149": {
+    "name": "John Adams",
+    "phase": 3,
+    "status": "pending"
+  },
+  "150": {
+    "name": "Olivier Messiaen",
+    "phase": 3,
+    "status": "pending"
+  },
+  "151": {
+    "name": "Orlando Gibbons",
+    "phase": 4,
+    "status": "pending"
+  },
+  "152": {
+    "name": "Frédéric Chopin",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "153": {
+    "name": "Joly Braga Santos",
+    "phase": 4,
+    "status": "pending"
+  },
+  "154": {
+    "name": "Paul Hindemith",
+    "phase": 3,
+    "status": "pending"
+  },
+  "155": {
+    "name": "Hans Werner Henze",
+    "phase": 4,
+    "status": "pending"
+  },
+  "156": {
+    "name": "Mikhail Ivanovich Glinka",
+    "phase": 4,
+    "status": "pending"
+  },
+  "157": {
+    "name": "Guillaume de Machaut",
+    "phase": 4,
+    "status": "pending"
+  },
+  "158": {
+    "name": "Vagn Holmboe",
+    "phase": 3,
+    "status": "pending"
+  },
+  "159": {
+    "name": "Camargo Guarnieri",
+    "phase": 3,
+    "status": "pending"
+  },
+  "160": {
+    "name": "Franz Schmidt",
+    "phase": 3,
+    "status": "pending"
+  },
+  "161": {
+    "name": "Hugo Wolf",
+    "phase": 4,
+    "status": "pending"
+  },
+  "162": {
+    "name": "Edvard Grieg",
+    "phase": 3,
+    "status": "pending"
+  },
+  "163": {
+    "name": "Elliott Carter",
+    "phase": 4,
+    "status": "pending"
+  },
+  "164": {
+    "name": "Ernest Moeran",
+    "phase": 4,
+    "status": "pending"
+  },
+  "165": {
+    "name": "Johann Strauss Jr",
+    "phase": 2,
+    "status": "pending"
+  },
+  "166": {
+    "name": "Louis Spohr",
+    "phase": 4,
+    "status": "pending"
+  },
+  "167": {
+    "name": "Giuseppe Tartini",
+    "phase": 4,
+    "status": "pending"
+  },
+  "168": {
+    "name": "Carl Maria von Weber",
+    "phase": 3,
+    "status": "pending"
+  },
+  "169": {
+    "name": "Benjamin Britten",
+    "phase": 3,
+    "status": "pending"
+  },
+  "170": {
+    "name": "Aaron Copland",
+    "phase": 3,
+    "status": "pending"
+  },
+  "171": {
+    "name": "Richard Strauss",
+    "phase": 3,
+    "status": "pending"
+  },
+  "172": {
+    "name": "Sofia Gubaidulina",
+    "phase": 4,
+    "status": "pending"
+  },
+  "173": {
+    "name": "Ottorino Respighi",
+    "phase": 3,
+    "status": "pending"
+  },
+  "174": {
+    "name": "Carlos Chávez",
+    "phase": 4,
+    "status": "pending"
+  },
+  "175": {
+    "name": "Hector Berlioz",
+    "phase": 3,
+    "status": "pending"
+  },
+  "176": {
+    "name": "Steve Reich",
+    "phase": 3,
+    "status": "pending"
+  },
+  "177": {
+    "name": "Benedetto Marcello",
+    "phase": 4,
+    "status": "pending"
+  },
+  "178": {
+    "name": "Jean-Philippe Rameau",
+    "phase": 4,
+    "status": "pending"
+  },
+  "179": {
+    "name": "Alexander Glazunov",
+    "phase": 3,
+    "status": "pending"
+  },
+  "180": {
+    "name": "Milton Babbitt",
+    "phase": 4,
+    "status": "pending"
+  },
+  "181": {
+    "name": "Modest Mussorgsky",
+    "phase": 4,
+    "status": "pending"
+  },
+  "182": {
+    "name": "Jan Pieterszoon Sweelinck",
+    "phase": 4,
+    "status": "pending"
+  },
+  "183": {
+    "name": "Franz Schubert",
+    "phase": 2,
+    "status": "pending"
+  },
+  "184": {
+    "name": "Max Bruch",
+    "phase": 4,
+    "status": "pending"
+  },
+  "185": {
+    "name": "Sergei Prokofiev",
+    "phase": 3,
+    "status": "pending"
+  },
+  "186": {
+    "name": "Jean Sibelius",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "187": {
+    "name": "Alessandro Marcello",
+    "phase": 4,
+    "status": "pending"
+  },
+  "188": {
+    "name": "Sergei Rachmaninoff",
+    "phase": 3,
+    "status": "pending"
+  },
+  "189": {
+    "name": "Antonín Dvořák",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "190": {
+    "name": "Igor Stravinsky",
+    "phase": 2,
+    "status": "pending"
+  },
+  "191": {
+    "name": "Heinrich Schütz",
+    "phase": 4,
+    "status": "pending"
+  },
+  "192": {
+    "name": "Carl Philipp Emanuel Bach",
+    "phase": 3,
+    "status": "pending"
+  },
+  "193": {
+    "name": "Léo Delibes",
+    "phase": 4,
+    "status": "pending"
+  },
+  "194": {
+    "name": "Ruggero Leoncavallo",
+    "phase": 4,
+    "status": "pending"
+  },
+  "195": {
+    "name": "Franz Berwald",
+    "phase": 3,
+    "status": "pending"
+  },
+  "196": {
+    "name": "Wolfgang Amadeus Mozart",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "197": {
+    "name": "Franz Liszt",
+    "phase": 2,
+    "status": "pending"
+  },
+  "198": {
+    "name": "Edward Elgar",
+    "phase": 3,
+    "status": "pending"
+  },
+  "199": {
+    "name": "Henry Purcell",
+    "phase": 4,
+    "status": "pending"
+  },
+  "200": {
+    "name": "Arthur Honegger",
+    "phase": 3,
+    "status": "pending"
+  },
+  "201": {
+    "name": "Roy Harris",
+    "phase": 4,
+    "status": "pending"
+  },
+  "202": {
+    "name": "Francis Poulenc",
+    "phase": 3,
+    "status": "pending"
+  },
+  "203": {
+    "name": "Krzysztof Penderecki",
+    "phase": 4,
+    "status": "pending"
+  },
+  "204": {
+    "name": "Marin Marais",
+    "phase": 4,
+    "status": "pending"
+  },
+  "205": {
+    "name": "Tomás Luis de Victoria",
+    "phase": 4,
+    "status": "pending"
+  },
+  "206": {
+    "name": "Karl Ditters von Dittersdorf",
+    "phase": 4,
+    "status": "pending"
+  },
+  "207": {
+    "name": "Antonio Carlos Gomes",
+    "phase": 4,
+    "status": "pending"
+  },
+  "208": {
+    "name": "Franz Joseph Haydn",
+    "phase": 2,
+    "status": "pending"
+  },
+  "209": {
+    "name": "Carl Stamitz",
+    "phase": 4,
+    "status": "pending"
+  },
+  "210": {
+    "name": "Alban Berg",
+    "phase": 3,
+    "status": "pending"
+  },
+  "211": {
+    "name": "Bedrich Smetana",
+    "phase": 3,
+    "status": "pending"
+  },
+  "212": {
+    "name": "Fernando Sor",
+    "phase": 4,
+    "status": "pending"
+  },
+  "213": {
+    "name": "Toru Takemitsu",
+    "phase": 1,
+    "status": "pending_style_impact"
+  },
+  "214": {
+    "name": "Giovanni Pierluigi da Palestrina",
+    "phase": 4,
+    "status": "pending"
+  },
+  "215": {
+    "name": "Joaquín Rodrigo",
+    "phase": 4,
+    "status": "pending"
+  },
+  "216": {
+    "name": "Isaac Albéniz",
+    "phase": 4,
+    "status": "pending"
+  },
+  "217": {
+    "name": "Charles Ives",
+    "phase": 3,
+    "status": "pending"
+  },
+  "218": {
+    "name": "Aram Khachaturian",
+    "phase": 3,
+    "status": "pending"
+  },
+  "219": {
+    "name": "Pérotin",
+    "phase": 4,
+    "status": "pending"
+  },
+  "220": {
+    "name": "Léonin",
+    "phase": 4,
+    "status": "pending"
+  }
+}
