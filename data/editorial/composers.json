@@ -3,36 +3,156 @@
     "biography": {
       "ja": "ソヴィエト連邦を代表する作曲家として国内外で演奏される一方、当局からの批判と復権を繰り返した。1936年に歌劇「ムツェンスク郡のマクベス夫人」が党機関紙で糾弾されて以降、彼の創作は常に政治的な緊張のもとに置かれた。\n15曲の交響曲と15曲の弦楽四重奏曲を残した。公的な場面での勇壮な響きと、室内楽に見られる沈鬱で私的な表現との落差が大きく、その二面性をどう読むかは今も議論が続いている。",
       "en": "The leading Soviet composer of his generation, performed at home and abroad, he was denounced and rehabilitated by the authorities more than once. After the party newspaper attacked his opera *Lady Macbeth of the Mtsensk District* in 1936, everything he wrote was produced under political pressure.\nHe left fifteen symphonies and fifteen string quartets. The gap between the heroic tone of the public works and the bleak, private voice of the chamber music is wide, and how to read that doubleness is still argued over."
+    },
+    "style": {
+      "ja": "同じ旋律が英雄的にも聞こえれば皮肉にも聞こえるという両義性を、意図的に音楽の中に埋め込んだ。自らの名前の頭文字に由来するD-S-C-Hという4音の音型を晩年の作品に繰り返し忍ばせ、自身の署名のように使った。荒々しい諧謔と沈痛な嘆きを一つの楽章の中で隣り合わせに置く、極端な対比も特徴である。",
+      "en": "He deliberately built ambiguity into his music, so that the same passage can be heard as heroic or as bitterly ironic depending on how you listen. From his name's initials he drew a four-note motif, D-S-C-H, and wove it into his later works like a personal signature. Coarse humour set right beside grave lament, with almost no transition between them, is another hallmark."
+    },
+    "impact": {
+      "ja": "検閲下でも二重の意味を持たせることで表現を続けた例として、政治的な圧力のもとでの芸術のあり方を考える際にたびたび参照される存在になった。生涯にわたって書き続けた15曲の弦楽四重奏曲は、ベートーヴェンの後期四重奏曲になぞらえられる個人的な日記のような連作とみなされ、以後の作曲家が四重奏という形式を自伝的な手段として用いる先例になっている。",
+      "en": "As an example of an artist who kept working under censorship by building in double meanings, he is repeatedly cited in discussions of how art functions under political pressure. The fifteen string quartets he wrote across his life are treated as a diary-like cycle comparable to Beethoven's late quartets, and stand as a precedent for later composers who used the quartet as a vehicle for autobiography."
+    },
+    "keywords": {
+      "ja": [
+        "両義的な音楽言語",
+        "DSCH音型による署名",
+        "弦楽四重奏という日記"
+      ],
+      "en": [
+        "Ambiguous musical language",
+        "DSCH musical signature",
+        "Quartets as a diary"
+      ]
     }
   },
   "77": {
     "biography": {
       "ja": "ボヘミアのユダヤ人家庭に生まれ、生前は作曲家としてよりも指揮者として知られた。ウィーン宮廷歌劇場の監督を10年務め、夏の休暇に集中して作曲するという生活を続けた。\n交響曲9曲と歌曲集を中心に、声楽と管弦楽を融合させた大規模な作品を書いた。行進曲、レントラー、軍隊ラッパ、鳥の声といった日常の音を交響曲のなかに持ち込み、それらを崇高な響きと並置する手法は、当時しばしば趣味を疑われたが、20世紀後半に再評価された。",
       "en": "Born into a Jewish family in Bohemia, he was known in his lifetime as a conductor rather than a composer. He directed the Vienna Court Opera for ten years and composed in concentrated bursts during the summer holidays.\nHis output centres on nine symphonies and several song cycles, large-scale works that fuse voices with orchestra. He brought everyday sounds into the symphony — marches, ländler, military fanfares, birdsong — and set them beside passages of great solemnity. Contemporaries often doubted his taste for it; the later twentieth century decided he had been right."
+    },
+    "style": {
+      "ja": "百人規模の大編成が咆哮する箇所と、独奏楽器だけが室内楽のように語る箇所を同じ交響曲の中に同居させ、編成の両極を行き来する構成を好んだ。若い頃に書いた歌曲の旋律を交響曲の主題として転用することが多く、歌曲と交響曲というジャンルの境界を薄くした。和声は調性の枠を保ちながらもその限界に何度も触れ、次の世代の無調への接近を予感させる。",
+      "en": "He liked to let a single symphony swing between a hundred-strong orchestra roaring at full force and a passage where one solo instrument speaks almost like chamber music. He often recycled melodies from songs he had written earlier as symphonic themes, thinning the line between the song and the symphony as genres. His harmony stays inside tonality but keeps testing its edges, anticipating the move toward atonality the following generation would make."
+    },
+    "impact": {
+      "ja": "指揮者としてウィーンやニューヨークのオーケストラと歌劇場の演奏水準を引き上げ、演奏の在り方そのものに影響を残した。個人的な体験や不安を交響曲という大きな器に注ぎ込む姿勢は、シェーンベルクら第二次ウィーン楽派の作曲家たちに敬愛され、後期ロマン派の極限から20世紀の音楽へと橋を架けた作曲家と位置づけられている。",
+      "en": "As a conductor he raised performance standards at the orchestras and opera houses of Vienna and New York, leaving a mark on performance practice itself. His willingness to pour personal experience and anxiety into the large vessel of a symphony was admired by Schoenberg and the Second Viennese School, and he is now seen as the composer who bridged the extremes of late Romanticism and the music of the twentieth century."
+    },
+    "keywords": {
+      "ja": [
+        "編成の両極",
+        "歌曲と交響曲の融合",
+        "調性の限界への接近"
+      ],
+      "en": [
+        "Extremes of scale",
+        "Song-symphony fusion",
+        "Edge of tonality"
+      ]
     }
   },
   "79": {
     "biography": {
       "ja": "法務省の官吏として働いたのち、23歳で職を辞してペテルブルク音楽院に入学した。ロシア国民楽派の作曲家たちが民謡的な素材を前面に出したのに対し、彼は西欧の交響曲やバレエの様式を土台にしながら、その上に濃密な旋律を書いた。\nバレエ「白鳥の湖」「くるみ割り人形」「眠れる森の美女」の3作は、それまで舞踊の伴奏にすぎなかったバレエ音楽を、単独で聴くに堪える交響的な音楽に変えた。晩年の交響曲第6番「悲愴」は初演の9日後に彼が急死したこともあり、特別な位置を占め続けている。",
       "en": "He worked as a civil servant in the Ministry of Justice before resigning at 23 to enrol at the St Petersburg Conservatory. Where the Russian nationalist composers foregrounded folk material, he built on Western symphonic and balletic forms and wrote dense, long-breathed melody on top of them.\nHis three ballets — *Swan Lake*, *The Nutcracker* and *The Sleeping Beauty* — turned ballet music from mere accompaniment for dancing into symphonic music worth hearing on its own. The Sixth Symphony, the *Pathétique*, has kept a place apart ever since: he died suddenly nine days after conducting its premiere."
+    },
+    "style": {
+      "ja": "感情の起伏をためらわず旋律に直接乗せる書き方を貫き、当時のドイツ流の交響曲に比べて表現がむき出しだと評されることもあった。3拍子のワルツのリズムを舞踊音楽の外、交響曲や室内楽の楽章にまで持ち込み、弦と金管を明確に塗り分ける色彩感のある管弦楽法を得意とした。感情の強さと、それを支える構成上の統制を両立させている。",
+      "en": "He put emotional swings directly into the melodic line without hedging, which struck some contemporaries as too exposed next to the German symphonic tradition of the day. He carried the three-beat waltz out of the ballroom and into symphonies and chamber works alike, and favoured an orchestration that kept strings and brass in clearly separated colours. The intensity of feeling sits on top of tight formal control, not instead of it."
+    },
+    "impact": {
+      "ja": "国際的に演奏された最初のロシア人作曲家として、ロシアの音楽的素材と西欧の演奏会の伝統を橋渡しした。ピアノ協奏曲第1番やヴァイオリン協奏曲は今日も主要なコンクールの課題曲であり続け、後続のロシア・ソヴィエトの作曲家たちにとって越えるべき基準であり続けている。",
+      "en": "As the first Russian composer to be performed internationally on a large scale, he bridged Russian musical material and the Western concert tradition. The First Piano Concerto and the Violin Concerto remain staples of major competitions today, and he set a standard the Russian and Soviet composers who came after him had to reckon with."
+    },
+    "keywords": {
+      "ja": [
+        "濃密な叙情性",
+        "ワルツの拍子",
+        "国際的な評価"
+      ],
+      "en": [
+        "Intense lyricism",
+        "Waltz metre",
+        "International standing"
+      ]
     }
   },
   "80": {
     "biography": {
       "ja": "ハンブルクの貧しい音楽家の家に生まれ、少年時代は酒場でピアノを弾いて家計を助けた。20歳のときシューマン夫妻に見出され、以後クララ・シューマンとは生涯にわたる友情を保った。\n古典派の形式を厳格に守りながら、そこに濃密なロマン派の感情を注ぎ込んだ。ベートーヴェンの9曲という重圧を意識するあまり、最初の交響曲を完成させるのに20年以上を費やしたと伝えられる。",
       "en": "Born to a poor musician's family in Hamburg, he helped support the household as a boy by playing piano in taverns. At twenty he was discovered by the Schumanns, and his friendship with Clara Schumann lasted the rest of his life.\nHe kept strictly to Classical forms while pouring a thoroughly Romantic intensity into them. The weight of Beethoven's nine symphonies pressed on him so heavily that he is said to have spent more than twenty years finishing his first."
+    },
+    "style": {
+      "ja": "ソナタ形式や変奏曲といった古典的な設計を厳格に守りながら、一つの短い主題を絶えず形を変えて展開させる書き方を徹底した。管弦楽は高音の輝きよりもヴィオラやホルンなど中低音の厚みを生かした渋い響きを好み、ハンガリーやロマの舞曲の語法を交響曲や協奏曲の中に取り込んだ。",
+      "en": "He held strictly to Classical designs — sonata form, variation form — while relentlessly reworking a single short theme into new shapes across a movement. His orchestration favours the weight of the middle and lower registers, violas and horns over bright top lines, and he folded the idiom of Hungarian and Romani dance music into symphonies and concertos."
+    },
+    "impact": {
+      "ja": "リストやワーグナーが標題音楽で新しい表現を追求した同じ時代に、古典的な形式そのものにまだ語るべきことが残っていることを示した。絶対音楽の立場を代表する存在として当時の美学論争の一方の極となり、標題を持たない交響曲や室内楽を書き続けようとするその後の作曲家たちにとっての拠りどころになっている。",
+      "en": "At the same time that Liszt and Wagner pursued new expression through programme music, he showed that the old Classical forms still had something left to say. He became a standard-bearer for absolute music on one side of the era's aesthetic arguments, and remains a touchstone for later composers who wanted to keep writing symphonies and chamber music without an attached programme."
+    },
+    "keywords": {
+      "ja": [
+        "古典形式への回帰",
+        "主題の経済的な展開",
+        "渋い管弦楽法"
+      ],
+      "en": [
+        "Classical forms renewed",
+        "Thematic economy",
+        "Autumnal orchestration"
+      ]
     }
   },
   "87": {
     "biography": {
       "ja": "音楽家の一族に生まれ、生涯をドイツ中部の限られた土地で過ごした。ヴァイマルの宮廷楽師、ケーテンの宮廷楽長を経て、38歳でライプツィヒの聖トーマス教会のカントルに就任し、以後27年間その職にあった。教会暦にあわせて毎週のようにカンタータを書き、少年たちにラテン語と音楽を教える日々だった。\n対位法——複数の旋律を同時に走らせながら全体を破綻なくまとめる技法——を、以後だれも超えられない水準にまで高めた。生前は作曲家としてより名オルガニストとして知られ、作品の多くは死後しばらく忘れられていたが、19世紀に再評価されて以降、西洋音楽の土台とみなされるようになった。",
       "en": "Born into a family of musicians, he spent his whole life within a small area of central Germany. After posts at the Weimar and Köthen courts he became cantor of the Thomaskirche in Leipzig at 38 and held the job for twenty-seven years, writing cantatas week by week to follow the church calendar and teaching Latin and music to the choir boys.\nHe raised counterpoint — running several melodies at once and keeping the whole coherent — to a level no one since has surpassed. In his lifetime he was better known as an organist than a composer, and much of his music was forgotten for decades after his death; since its rediscovery in the nineteenth century it has been treated as the foundation of Western music."
+    },
+    "style": {
+      "ja": "同時に鳴る複数の声部それぞれが独立した旋律でありながら、全体では一つの和声として破綻なく響く書法を突き詰めた。ドイツの対位法、イタリアの協奏曲様式、フランスの舞曲を一つの語法に統合し、コラール旋律を土台に据えた教会カンタータから鍵盤独奏曲まで同じ手法で書いた。『平均律クラヴィーア曲集』では長短24全ての調でプレリュードとフーガを書き、鍵盤楽器の調律法が開く可能性を体系的に示した。",
+      "en": "He pushed the idea that several simultaneous melodic lines, each independent, could still add up to a single coherent harmony as far as it would go. He folded German counterpoint, Italian concerto style and French dance forms into one personal language, applying it equally to church cantatas built on a chorale tune and to solo keyboard pieces. In *The Well-Tempered Clavier* he wrote a prelude and fugue in all twenty-four major and minor keys, laying out systematically what equal temperament made possible."
+    },
+    "impact": {
+      "ja": "対位法の到達点として、以後の作曲家が技法を学ぶための基準になった。生前は忘れられかけていたが、19世紀に入って再演の機会が増えたことをきっかけに再評価が進み、モーツァルトやベートーヴェン、ブラームスをはじめ多くの作曲家が彼の作品を研究の対象とした。今日では西洋音楽の基礎教養として、対位法の学習に必ず参照される存在になっている。",
+      "en": "He became the benchmark against which later composers measured their own counterpoint. Largely forgotten for decades after his death, his music was rediscovered as performances of it grew more frequent in the nineteenth century, and Mozart, Beethoven and Brahms, among many others, studied his scores closely. His work is now treated as a basic reference point for anyone learning counterpoint."
+    },
+    "keywords": {
+      "ja": [
+        "多声の対位法",
+        "様式の統合",
+        "平均律の探求"
+      ],
+      "en": [
+        "Contrapuntal density",
+        "Stylistic synthesis",
+        "Exploring all keys"
+      ]
     }
   },
   "105": {
     "biography": {
       "ja": "パリ音楽院で学んだが、和声の規則に収まらない響きを好み、教師たちとしばしば衝突した。1889年のパリ万国博覧会でジャワのガムランに接した経験は、機能和声とは別の音の組み立て方がありうることを彼に確信させたと言われる。\n和音を「次にどこへ進むか」ではなく「その響き自体」として扱い、全音音階や教会旋法を用いて調性の重力をゆるめた。この手法はしばしば絵画になぞらえて「印象主義」と呼ばれるが、本人はこの呼び名を好まなかった。",
       "en": "He studied at the Paris Conservatoire, where his taste for sonorities that broke the rules of harmony often set him against his teachers. Hearing a Javanese gamelan at the 1889 Paris Exposition is said to have convinced him that sound could be organised on principles quite unlike functional harmony.\nHe treated a chord as a sonority worth hearing in itself rather than as a step towards the next one, and used whole-tone scales and church modes to loosen the pull of a key. The approach is usually labelled Impressionism by analogy with painting — a term he disliked."
+    },
+    "style": {
+      "ja": "楽曲の区切りをはっきりした終止で示さず、場面が溶け合うように次へ移る書き方を好んだ。和音を機能的な進行の一部としてではなく、それ自体の響きの質として並べる「平行和音」を多用し、ピアノでは弱音ペダルによる倍音の混ざり方まで作曲の要素として扱った。標題は物語ではなく情景や光の質感を示すことが多い。",
+      "en": "He preferred to let one passage dissolve into the next rather than mark sections off with a clear cadence. He often moved chords in parallel, treating each one as a sonority worth hearing for its own colour rather than as a step in a functional progression, and in his piano writing even the blend of overtones raised by the soft pedal became a compositional element. His titles usually name a scene or a quality of light rather than tell a story."
+    },
+    "impact": {
+      "ja": "機能和声の進行という前提から作曲家を解き放ち、和音そのものの響きを目的として扱う道を開いた。管弦楽の音色を主題の展開と同格の作曲要素として扱う発想は、ラヴェルをはじめとするその後の作曲家、さらには音色そのものを構成原理とする20世紀後半の作曲へとつながっている。",
+      "en": "He freed composers from the assumption that a piece has to move through a functional harmonic progression, opening a path where a chord's own sonority could be the point. Treating orchestral colour as a compositional element on a par with thematic development carried through to Ravel and, further on, to the later twentieth-century music that makes timbre itself an organising principle."
+    },
+    "keywords": {
+      "ja": [
+        "色彩としての和音",
+        "輪郭のにじむ形式",
+        "全音音階"
+      ],
+      "en": [
+        "Chords as colour",
+        "Blurred form",
+        "Whole-tone scale"
+      ]
     }
   },
   "145": {
@@ -40,27 +160,107 @@
       "ja": "ボンに生まれ、22歳でウィーンに移って以降、生涯をこの街で過ごした。当初は即興演奏の名手として名を上げたが、20代の終わりから聴力を失いはじめ、30代前半には人前での演奏がほとんど不可能になる。演奏家としての道を断たれた彼が選んだのは、作曲家として書き続けることだった。\n交響曲を9曲、ピアノ・ソナタを32曲、弦楽四重奏曲を16曲残している。初期は古典派の様式を受け継いだが、中期には楽章どうしを主題で結びつけて全体をひとつの物語のように構成する方法を確立し、後期には形式そのものを自由に組み替える境地に達した。彼が押し広げた表現の幅は、その後のロマン派の作曲家すべての出発点になっている。",
       "en": "Born in Bonn, he moved to Vienna at 22 and stayed there for the rest of his life. He first made his name as a virtuoso improviser, but his hearing began to fail in his late twenties and by his early thirties public performance had become nearly impossible. Cut off from the career of a performer, he chose to go on writing.\nHe left nine symphonies, thirty-two piano sonatas and sixteen string quartets. The early works inherit the Classical style; in his middle period he learned to bind movements together with shared material so that a whole piece reads as a single argument; in the late works he rebuilds the forms themselves at will. The expressive range he opened up became the starting point for every Romantic composer who followed."
     },
+    "style": {
+      "ja": "楽章全体を、冒頭に置いた数音の短い動機だけで組み立てる手法を多用した。同じ音型を執拗に繰り返しながら少しずつ形を変え、聴き手の緊張を高めてから一気に解放する。強弱の振れ幅も従来より大きく、静寂から突然のフォルティッシモへ切り替える箇所や、拍の裏に置かれた不意のアクセントが随所に現れる。",
+      "en": "He liked to build a whole movement from a handful of notes stated at the outset, repeating and reshaping the same cell until the accumulated tension demands release. His dynamic range is wider than his predecessors': a sudden fortissimo can erupt out of near silence, and off-beat accents land where a listener does not expect them."
+    },
+    "impact": {
+      "ja": "交響曲を、宮廷での余興や様式美を示す音楽から、一曲全体で緊張と解決を描く物語へと作り替えた。フィナーレを全曲の到達点として設計するという発想は、その後のロマン派交響曲の標準的な作法になった。あわせて、作曲家を貴族に仕える職人ではなく自らの内面を語る芸術家とみなす現在の理解を築いた最初の一人でもある。",
+      "en": "He remade the symphony from courtly entertainment or a display of formal elegance into a single dramatic arc of tension and resolution across an entire work. Treating the finale as the goal the whole symphony builds toward became standard practice for the Romantic composers who followed. He was also among the first to be seen not as a craftsman in noble service but as an artist speaking in his own voice — an idea of what a composer is that has stuck ever since."
+    },
     "story": {
       "ja": "1802年、悪化する難聴に絶望した彼は、弟たちに宛てた手紙のかたちで遺書のような文章を書いた。滞在先の村の名をとって「ハイリゲンシュタットの遺書」と呼ばれるこの文書は、投函されることなく彼の死後に発見された。しかし彼はここで筆を折らず、翌年から交響曲第3番「英雄」の作曲に取りかかっている。",
       "en": "In 1802, in despair over his worsening deafness, he wrote what reads like a will in the form of a letter to his brothers. Known as the Heiligenstadt Testament after the village where he was staying, it was never sent and came to light only after his death. He did not stop there: the following year he began work on the Third Symphony, the *Eroica*."
+    },
+    "keywords": {
+      "ja": [
+        "動機の展開",
+        "強弱の落差",
+        "交響曲の物語化"
+      ],
+      "en": [
+        "Motivic development",
+        "Dynamic extremes",
+        "Symphonic narrative"
+      ]
     }
   },
   "152": {
     "biography": {
       "ja": "ワルシャワ近郊に生まれ、20歳でポーランドを離れてパリに定住した。故郷はその後、蜂起の失敗によりロシアの統治下に入り、彼は二度と帰ることがなかった。\n作品のほぼすべてがピアノのための音楽である。マズルカとポロネーズという故国の舞曲の形式を、洗練された和声とともに芸術音楽へと引き上げた。演奏はもっぱら少人数のサロンで行い、大ホールでの演奏会をほとんど開かなかった。",
       "en": "Born near Warsaw, he left Poland at twenty and settled in Paris. After the failed uprising his homeland passed under Russian rule, and he never returned.\nAlmost everything he wrote is for piano. He took the mazurka and polonaise, the dance forms of his country, and raised them into art music with a harmonic refinement no one had brought to them before. He played almost exclusively in small salons and gave very few public concerts."
+    },
+    "style": {
+      "ja": "小規模な形式の中に大胆な転調と半音階的な和声を凝縮させ、テンポを一定に保たず微妙に伸び縮みさせる「ルバート」を旋律表現の核に据えた。ピアノという楽器の共鳴と手の動きに即した書法を追求し、他の楽器へ編曲することを前提としない、ピアノでしか成立しない音楽を書いた。",
+      "en": "Within small forms he packed bold modulations and chromatic harmony, and put a flexible, unmetronomic *rubato* at the centre of how a melody breathes. He wrote for the piano's own resonance and the hand's own reach, producing music that works only on that instrument rather than music that happens to be scored for it."
+    },
+    "impact": {
+      "ja": "彼が切り拓いた半音階的な和声は、リストやワーグナーら後続の作曲家が推し進めた語法の先触れとなった。前奏曲や夜想曲、バラードといった小規模な性格的小品を、ソナタ形式の大曲に劣らない内容を持つ音楽として確立し、以後の作曲家たちがピアノのための小品を書く際の手本になっている。",
+      "en": "The chromatic harmony he opened up anticipated language that Liszt and Wagner would push further. He established the short character piece — prelude, nocturne, ballade — as capable of carrying as much musical weight as a large sonata-form work, and it became the model later composers reached for when writing shorter pieces for piano."
+    },
+    "keywords": {
+      "ja": [
+        "半音階的和声",
+        "ルバート",
+        "性格的小品"
+      ],
+      "en": [
+        "Chromatic harmony",
+        "Rubato",
+        "Character pieces"
+      ]
     }
   },
   "186": {
     "biography": {
       "ja": "フィンランドがロシア帝国の統治下にあった時代に生まれ、その音楽は独立運動の象徴として受け止められた。交響詩「フィンランディア」は、ロシア当局の検閲を避けるため別の題名で演奏されたこともある。\n7曲の交響曲では、断片的な動機が次第に集まって一つの主題を形づくるという独自の構成法を深めていった。60歳を前に第8番の作曲に取りかかったが完成させず、その後30年近く、ほとんど新作を発表しないまま生涯を終えた。",
       "en": "He was born while Finland was under Russian rule, and his music came to be heard as a symbol of the independence movement — the tone poem *Finlandia* was sometimes performed under an alternative title to slip past the censors.\nAcross seven symphonies he developed a way of building a movement in which fragmentary motifs gradually converge into a single theme. He began an eighth in his late fifties but never finished it, and spent nearly thirty further years publishing almost nothing new."
+    },
+    "style": {
+      "ja": "民謡の旋律を直接引用することは少なく、その代わりに北欧の民俗音楽に通じる旋法的な響きを独自の語法として使った。長く保持される低音や、ゆっくりと移り変わる和声の層を重ねることで、自然の広がりを思わせる音楽をつくった。交響曲第7番では複数楽章の構成を一つの連続した楽章に凝縮させ、交響曲という形式そのものを解体寸前まで押し進めた。",
+      "en": "He rarely quoted a folk tune outright, using instead a modal sonority related to Nordic folk music as a language of his own. Long-held bass notes and slowly shifting layers of harmony give his music a sense of open, natural expanse. In the Seventh Symphony he compressed a multi-movement design into a single continuous span, pushing the symphony as a form almost to the point of dissolving it."
+    },
+    "impact": {
+      "ja": "小国フィンランドから出た作曲家として、独墺仏露の中心地に依らない独自の交響的な声を打ち立て、他の周辺地域の作曲家たちが自国の語法を探る際の手本になった。晩年30年近くにわたり新作をほとんど発表しなかった「沈黙」は、創作の行き詰まりという主題への関心を呼び続け、批評的な研究対象であり続けている。",
+      "en": "Coming from a small country outside the German-Austrian, French and Russian centres of the tradition, he built an independent symphonic voice, and became a model for composers from other peripheral countries looking for an idiom of their own. His near-silence over his last three decades has kept scholars fascinated as a case study in creative block."
+    },
+    "keywords": {
+      "ja": [
+        "自然を思わせる響き",
+        "単一楽章への凝縮",
+        "長い沈黙"
+      ],
+      "en": [
+        "Nature-evoking sonority",
+        "Single-movement form",
+        "The long silence"
+      ]
     }
   },
   "189": {
     "biography": {
       "ja": "肉屋の家に生まれ、プラハのオルガン学校で学んだ。長く無名だったが、ブラームスに才能を認められて楽譜出版の道が開け、40代で国際的な名声を得た。\n1892年から3年間、ニューヨークの音楽院の院長として渡米する。この滞在中に交響曲第9番「新世界より」、弦楽四重奏曲「アメリカ」、チェロ協奏曲を書いた。ボヘミアの舞曲のリズムと、アメリカで耳にした黒人霊歌や先住民の音楽への関心が交差したのがこの時期の作品である。",
       "en": "The son of a butcher, he trained at the organ school in Prague. He remained obscure for years until Brahms recognised his talent and opened the door to publication; international fame came in his forties.\nFrom 1892 he spent three years in New York as director of a conservatory, and it was there that he wrote the Ninth Symphony (*From the New World*), the *American* quartet and the Cello Concerto. The music of those years sits at the crossing point of Bohemian dance rhythms and his interest in the spirituals and Native American music he encountered in the United States."
+    },
+    "style": {
+      "ja": "ボヘミアの舞曲に由来するリズムと、民謡のように親しみやすい旋律を、ブラームスから受け継いだドイツ的に堅固な形式の中で書いた。旋律をつくる才能に恵まれ、素朴に聞こえる主題の多くは実際には彼自身の創作である。弦と木管を柔らかく溶け合わせる管弦楽法も持ち味とした。",
+      "en": "He set rhythms drawn from Bohemian dance and melodies with a folk-like immediacy inside formal structures as solid as anything he learned from Brahms. He had an unusually generous gift for melody, and many themes that sound like folk tunes are in fact entirely his own. His orchestration favours a soft blending of strings and woodwinds."
+    },
+    "impact": {
+      "ja": "民族的な素材を、交響曲や室内楽といったドイツ・オーストリア系の大きな形式のなかで洗練された音楽として書けることを示し、各地の国民楽派の作曲家たちにとっての手本となった。ニューヨークの音楽院の院長を務めた際には、アメリカの作曲家に自国の民謡や黒人霊歌、先住民の音楽を素材にするよう説き、その後のアメリカ音楽の方向性にも影響を与えた。",
+      "en": "He showed that folk-rooted material could be written into the large Austro-German forms — the symphony, chamber music — without losing sophistication, and became a model for national-school composers elsewhere. While directing the conservatory in New York he urged American composers to draw on their own folk songs, spirituals and Native American music, shaping the direction American concert music later took."
+    },
+    "keywords": {
+      "ja": [
+        "民族色と交響的構成の融合",
+        "歌うような旋律",
+        "国民楽派の手本"
+      ],
+      "en": [
+        "Folk idiom in symphonic form",
+        "Singing melody",
+        "Model for national schools"
+      ]
     }
   },
   "196": {
@@ -68,15 +268,55 @@
       "ja": "ザルツブルクの宮廷音楽家の家に生まれ、幼少期から父に連れられてヨーロッパ各地を演奏旅行した。故郷の宮廷での職に満足できず、25歳でウィーンに移って独立した音楽家として生きる道を選ぶ。当時としては珍しい選択で、定収入のないまま演奏会と作曲の依頼で生計を立てた。\n35年の生涯で600曲を超える作品を残した。交響曲、協奏曲、室内楽、宗教曲、そしてオペラと、当時存在したほとんどすべてのジャンルにわたる。とりわけオペラでは、登場人物それぞれの心情を同時に響かせる重唱の書き方に他の追随を許さない手腕を見せた。",
       "en": "Born into a court musician's family in Salzburg, he was taken on concert tours across Europe from early childhood. Dissatisfied with his position at the Salzburg court, at 25 he moved to Vienna to work as an independent musician — an unusual choice at the time, leaving him to live on concerts and commissions without a salary.\nIn a life of thirty-five years he wrote more than six hundred works, covering almost every genre then in existence: symphonies, concertos, chamber music, sacred music and opera. In opera above all he had a gift no one has matched, writing ensembles in which several characters sing their conflicting feelings at once and every one of them stays audible."
     },
+    "style": {
+      "ja": "旋律は少ない音で性格を描き分け、器楽曲の主題ですら舞台上の人物のように個性を持つ。技巧を誇示する走句の裏に対位法的な仕掛けを忍ばせることが多く、聴きやすさと構造の緻密さを両立させた。ピアノ協奏曲では独奏と管弦楽を対等な話し相手として書き、それまでの技巧誇示の場から音楽的な対話の場へと性格を変えた。",
+      "en": "His melodies sketch a character in very few notes, so that even an instrumental theme can feel like a figure on a stage. Beneath passages that look like simple display he often hides contrapuntal working, holding ease of listening and structural rigour together. In the piano concertos he treats soloist and orchestra as equal partners in conversation, turning a genre built for display into one built for musical dialogue."
+    },
+    "impact": {
+      "ja": "イタリアの叙情的な旋律、ドイツの対位法的な書法、フランス風の優雅さを一つの語法に統合し、のちに「古典派様式」と呼ばれる基準を作った。オペラの重唱で示した手法は以後の作曲家の手本となり、ピアノ協奏曲の対話的な設計は現在の協奏曲観の土台になっている。",
+      "en": "He fused Italian lyricism, German counterpoint and French elegance into a single language, setting the standard later called the Classical style. His ensemble writing in opera became a model other composers studied, and his conversational design for the piano concerto still underlies how the genre is understood today."
+    },
     "story": {
       "ja": "最後の年に取りかかったレクイエムは、依頼主の名を伏せた仲介人を通じて注文された。作曲は未完のまま彼の死で中断し、弟子のジュスマイヤーらが補筆して完成させている。匿名の依頼主は、亡き妻の追悼のために自作として発表しようと考えていた貴族だったことが後に判明した。",
       "en": "The Requiem he took up in his final year was commissioned through an intermediary who withheld the patron's name. He died with the work unfinished, and his pupil Süssmayr and others completed it. The anonymous patron turned out to be an aristocrat who had intended to present it as his own, in memory of his late wife."
+    },
+    "keywords": {
+      "ja": [
+        "旋律の明快さ",
+        "会話的な協奏曲",
+        "様式の統合"
+      ],
+      "en": [
+        "Melodic clarity",
+        "Conversational concertos",
+        "Stylistic synthesis"
+      ]
     }
   },
   "213": {
     "biography": {
       "ja": "独学に近いかたちで作曲を学び、戦後の日本の作曲界を国際的に代表する存在となった。西洋の前衛的な語法を吸収しながら、尺八や琵琶といった日本の伝統楽器を管弦楽と組み合わせる試みを続けた。\n「間」——音と音のあいだの沈黙——を音そのものと同じだけ重視する姿勢が作品の核にある。映画音楽も100本以上手がけ、コンサート作品との間に垣根を設けなかった。",
       "en": "Largely self-taught as a composer, he became the international face of postwar Japanese music. He absorbed the language of the Western avant-garde while pursuing his own line of work combining traditional Japanese instruments such as the shakuhachi and biwa with the orchestra.\nAt the centre of his music is *ma* — the silence between sounds — treated as being worth exactly as much as the sounds themselves. He also wrote for more than a hundred films, and drew no line between that work and his concert music."
+    },
+    "style": {
+      "ja": "強い展開や対立よりも、音と音のあいだの間隔そのものを設計する姿勢を貫いた。日本庭園を歩くときのように、聴き手が一つの道筋をたどるのではなく次々と現れる情景に出会うような、非直線的な形式を好んだ。琵琶や尺八の音色を西洋のオーケストラに単に混ぜるのではなく、両者が同じ響きの世界に属するように書いた。",
+      "en": "Rather than strong development or conflict, he composed the intervals of silence between sounds as carefully as the sounds themselves. He favoured a non-linear form closer to walking through a Japanese garden, where a listener meets one scene after another rather than following a single argument. He did not simply mix the timbres of biwa and shakuhachi into a Western orchestra but wrote as though both belonged to the same sound world from the start."
+    },
+    "impact": {
+      "ja": "日本人作曲家として国際的な現代音楽と映画音楽の両方で継続的な評価を得た最初期の一人となった。ニューヨーク・フィルハーモニックの委嘱で書いた「ノヴェンバー・ステップス」は、日本の伝統楽器がオーケストラの中で異国趣味に陥ることなく機能しうることを示す先例となり、以後の日本人作曲家の国際的な受容にも道を開いた。",
+      "en": "He became one of the first Japanese composers to gain sustained international standing in both contemporary concert music and film music. *November Steps*, commissioned by the New York Philharmonic, demonstrated that traditional Japanese instruments could function within an orchestra without falling into exoticism, and it opened the door for the international reception of later Japanese composers."
+    },
+    "keywords": {
+      "ja": [
+        "間の美学",
+        "庭園的な形式",
+        "東西の音色の融合"
+      ],
+      "en": [
+        "Aesthetics of ma",
+        "Garden-like form",
+        "East-West timbre fusion"
+      ]
     }
   }
 }

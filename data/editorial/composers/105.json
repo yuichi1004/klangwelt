@@ -2,5 +2,25 @@
   "biography": {
     "ja": "パリ音楽院で学んだが、和声の規則に収まらない響きを好み、教師たちとしばしば衝突した。1889年のパリ万国博覧会でジャワのガムランに接した経験は、機能和声とは別の音の組み立て方がありうることを彼に確信させたと言われる。\n和音を「次にどこへ進むか」ではなく「その響き自体」として扱い、全音音階や教会旋法を用いて調性の重力をゆるめた。この手法はしばしば絵画になぞらえて「印象主義」と呼ばれるが、本人はこの呼び名を好まなかった。",
     "en": "He studied at the Paris Conservatoire, where his taste for sonorities that broke the rules of harmony often set him against his teachers. Hearing a Javanese gamelan at the 1889 Paris Exposition is said to have convinced him that sound could be organised on principles quite unlike functional harmony.\nHe treated a chord as a sonority worth hearing in itself rather than as a step towards the next one, and used whole-tone scales and church modes to loosen the pull of a key. The approach is usually labelled Impressionism by analogy with painting — a term he disliked."
+  },
+  "style": {
+    "ja": "楽曲の区切りをはっきりした終止で示さず、場面が溶け合うように次へ移る書き方を好んだ。和音を機能的な進行の一部としてではなく、それ自体の響きの質として並べる「平行和音」を多用し、ピアノでは弱音ペダルによる倍音の混ざり方まで作曲の要素として扱った。標題は物語ではなく情景や光の質感を示すことが多い。",
+    "en": "He preferred to let one passage dissolve into the next rather than mark sections off with a clear cadence. He often moved chords in parallel, treating each one as a sonority worth hearing for its own colour rather than as a step in a functional progression, and in his piano writing even the blend of overtones raised by the soft pedal became a compositional element. His titles usually name a scene or a quality of light rather than tell a story."
+  },
+  "impact": {
+    "ja": "機能和声の進行という前提から作曲家を解き放ち、和音そのものの響きを目的として扱う道を開いた。管弦楽の音色を主題の展開と同格の作曲要素として扱う発想は、ラヴェルをはじめとするその後の作曲家、さらには音色そのものを構成原理とする20世紀後半の作曲へとつながっている。",
+    "en": "He freed composers from the assumption that a piece has to move through a functional harmonic progression, opening a path where a chord's own sonority could be the point. Treating orchestral colour as a compositional element on a par with thematic development carried through to Ravel and, further on, to the later twentieth-century music that makes timbre itself an organising principle."
+  },
+  "keywords": {
+    "ja": [
+      "色彩としての和音",
+      "輪郭のにじむ形式",
+      "全音音階"
+    ],
+    "en": [
+      "Chords as colour",
+      "Blurred form",
+      "Whole-tone scale"
+    ]
   }
 }

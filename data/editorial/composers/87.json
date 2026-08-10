@@ -2,5 +2,25 @@
   "biography": {
     "ja": "音楽家の一族に生まれ、生涯をドイツ中部の限られた土地で過ごした。ヴァイマルの宮廷楽師、ケーテンの宮廷楽長を経て、38歳でライプツィヒの聖トーマス教会のカントルに就任し、以後27年間その職にあった。教会暦にあわせて毎週のようにカンタータを書き、少年たちにラテン語と音楽を教える日々だった。\n対位法——複数の旋律を同時に走らせながら全体を破綻なくまとめる技法——を、以後だれも超えられない水準にまで高めた。生前は作曲家としてより名オルガニストとして知られ、作品の多くは死後しばらく忘れられていたが、19世紀に再評価されて以降、西洋音楽の土台とみなされるようになった。",
     "en": "Born into a family of musicians, he spent his whole life within a small area of central Germany. After posts at the Weimar and Köthen courts he became cantor of the Thomaskirche in Leipzig at 38 and held the job for twenty-seven years, writing cantatas week by week to follow the church calendar and teaching Latin and music to the choir boys.\nHe raised counterpoint — running several melodies at once and keeping the whole coherent — to a level no one since has surpassed. In his lifetime he was better known as an organist than a composer, and much of his music was forgotten for decades after his death; since its rediscovery in the nineteenth century it has been treated as the foundation of Western music."
+  },
+  "style": {
+    "ja": "同時に鳴る複数の声部それぞれが独立した旋律でありながら、全体では一つの和声として破綻なく響く書法を突き詰めた。ドイツの対位法、イタリアの協奏曲様式、フランスの舞曲を一つの語法に統合し、コラール旋律を土台に据えた教会カンタータから鍵盤独奏曲まで同じ手法で書いた。『平均律クラヴィーア曲集』では長短24全ての調でプレリュードとフーガを書き、鍵盤楽器の調律法が開く可能性を体系的に示した。",
+    "en": "He pushed the idea that several simultaneous melodic lines, each independent, could still add up to a single coherent harmony as far as it would go. He folded German counterpoint, Italian concerto style and French dance forms into one personal language, applying it equally to church cantatas built on a chorale tune and to solo keyboard pieces. In *The Well-Tempered Clavier* he wrote a prelude and fugue in all twenty-four major and minor keys, laying out systematically what equal temperament made possible."
+  },
+  "impact": {
+    "ja": "対位法の到達点として、以後の作曲家が技法を学ぶための基準になった。生前は忘れられかけていたが、19世紀に入って再演の機会が増えたことをきっかけに再評価が進み、モーツァルトやベートーヴェン、ブラームスをはじめ多くの作曲家が彼の作品を研究の対象とした。今日では西洋音楽の基礎教養として、対位法の学習に必ず参照される存在になっている。",
+    "en": "He became the benchmark against which later composers measured their own counterpoint. Largely forgotten for decades after his death, his music was rediscovered as performances of it grew more frequent in the nineteenth century, and Mozart, Beethoven and Brahms, among many others, studied his scores closely. His work is now treated as a basic reference point for anyone learning counterpoint."
+  },
+  "keywords": {
+    "ja": [
+      "多声の対位法",
+      "様式の統合",
+      "平均律の探求"
+    ],
+    "en": [
+      "Contrapuntal density",
+      "Stylistic synthesis",
+      "Exploring all keys"
+    ]
   }
 }

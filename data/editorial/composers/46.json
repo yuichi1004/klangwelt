@@ -2,5 +2,25 @@
   "biography": {
     "ja": "ソヴィエト連邦を代表する作曲家として国内外で演奏される一方、当局からの批判と復権を繰り返した。1936年に歌劇「ムツェンスク郡のマクベス夫人」が党機関紙で糾弾されて以降、彼の創作は常に政治的な緊張のもとに置かれた。\n15曲の交響曲と15曲の弦楽四重奏曲を残した。公的な場面での勇壮な響きと、室内楽に見られる沈鬱で私的な表現との落差が大きく、その二面性をどう読むかは今も議論が続いている。",
     "en": "The leading Soviet composer of his generation, performed at home and abroad, he was denounced and rehabilitated by the authorities more than once. After the party newspaper attacked his opera *Lady Macbeth of the Mtsensk District* in 1936, everything he wrote was produced under political pressure.\nHe left fifteen symphonies and fifteen string quartets. The gap between the heroic tone of the public works and the bleak, private voice of the chamber music is wide, and how to read that doubleness is still argued over."
+  },
+  "style": {
+    "ja": "同じ旋律が英雄的にも聞こえれば皮肉にも聞こえるという両義性を、意図的に音楽の中に埋め込んだ。自らの名前の頭文字に由来するD-S-C-Hという4音の音型を晩年の作品に繰り返し忍ばせ、自身の署名のように使った。荒々しい諧謔と沈痛な嘆きを一つの楽章の中で隣り合わせに置く、極端な対比も特徴である。",
+    "en": "He deliberately built ambiguity into his music, so that the same passage can be heard as heroic or as bitterly ironic depending on how you listen. From his name's initials he drew a four-note motif, D-S-C-H, and wove it into his later works like a personal signature. Coarse humour set right beside grave lament, with almost no transition between them, is another hallmark."
+  },
+  "impact": {
+    "ja": "検閲下でも二重の意味を持たせることで表現を続けた例として、政治的な圧力のもとでの芸術のあり方を考える際にたびたび参照される存在になった。生涯にわたって書き続けた15曲の弦楽四重奏曲は、ベートーヴェンの後期四重奏曲になぞらえられる個人的な日記のような連作とみなされ、以後の作曲家が四重奏という形式を自伝的な手段として用いる先例になっている。",
+    "en": "As an example of an artist who kept working under censorship by building in double meanings, he is repeatedly cited in discussions of how art functions under political pressure. The fifteen string quartets he wrote across his life are treated as a diary-like cycle comparable to Beethoven's late quartets, and stand as a precedent for later composers who used the quartet as a vehicle for autobiography."
+  },
+  "keywords": {
+    "ja": [
+      "両義的な音楽言語",
+      "DSCH音型による署名",
+      "弦楽四重奏という日記"
+    ],
+    "en": [
+      "Ambiguous musical language",
+      "DSCH musical signature",
+      "Quartets as a diary"
+    ]
   }
 }

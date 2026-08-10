@@ -3,8 +3,28 @@
     "ja": "ボンに生まれ、22歳でウィーンに移って以降、生涯をこの街で過ごした。当初は即興演奏の名手として名を上げたが、20代の終わりから聴力を失いはじめ、30代前半には人前での演奏がほとんど不可能になる。演奏家としての道を断たれた彼が選んだのは、作曲家として書き続けることだった。\n交響曲を9曲、ピアノ・ソナタを32曲、弦楽四重奏曲を16曲残している。初期は古典派の様式を受け継いだが、中期には楽章どうしを主題で結びつけて全体をひとつの物語のように構成する方法を確立し、後期には形式そのものを自由に組み替える境地に達した。彼が押し広げた表現の幅は、その後のロマン派の作曲家すべての出発点になっている。",
     "en": "Born in Bonn, he moved to Vienna at 22 and stayed there for the rest of his life. He first made his name as a virtuoso improviser, but his hearing began to fail in his late twenties and by his early thirties public performance had become nearly impossible. Cut off from the career of a performer, he chose to go on writing.\nHe left nine symphonies, thirty-two piano sonatas and sixteen string quartets. The early works inherit the Classical style; in his middle period he learned to bind movements together with shared material so that a whole piece reads as a single argument; in the late works he rebuilds the forms themselves at will. The expressive range he opened up became the starting point for every Romantic composer who followed."
   },
+  "style": {
+    "ja": "楽章全体を、冒頭に置いた数音の短い動機だけで組み立てる手法を多用した。同じ音型を執拗に繰り返しながら少しずつ形を変え、聴き手の緊張を高めてから一気に解放する。強弱の振れ幅も従来より大きく、静寂から突然のフォルティッシモへ切り替える箇所や、拍の裏に置かれた不意のアクセントが随所に現れる。",
+    "en": "He liked to build a whole movement from a handful of notes stated at the outset, repeating and reshaping the same cell until the accumulated tension demands release. His dynamic range is wider than his predecessors': a sudden fortissimo can erupt out of near silence, and off-beat accents land where a listener does not expect them."
+  },
+  "impact": {
+    "ja": "交響曲を、宮廷での余興や様式美を示す音楽から、一曲全体で緊張と解決を描く物語へと作り替えた。フィナーレを全曲の到達点として設計するという発想は、その後のロマン派交響曲の標準的な作法になった。あわせて、作曲家を貴族に仕える職人ではなく自らの内面を語る芸術家とみなす現在の理解を築いた最初の一人でもある。",
+    "en": "He remade the symphony from courtly entertainment or a display of formal elegance into a single dramatic arc of tension and resolution across an entire work. Treating the finale as the goal the whole symphony builds toward became standard practice for the Romantic composers who followed. He was also among the first to be seen not as a craftsman in noble service but as an artist speaking in his own voice — an idea of what a composer is that has stuck ever since."
+  },
   "story": {
     "ja": "1802年、悪化する難聴に絶望した彼は、弟たちに宛てた手紙のかたちで遺書のような文章を書いた。滞在先の村の名をとって「ハイリゲンシュタットの遺書」と呼ばれるこの文書は、投函されることなく彼の死後に発見された。しかし彼はここで筆を折らず、翌年から交響曲第3番「英雄」の作曲に取りかかっている。",
     "en": "In 1802, in despair over his worsening deafness, he wrote what reads like a will in the form of a letter to his brothers. Known as the Heiligenstadt Testament after the village where he was staying, it was never sent and came to light only after his death. He did not stop there: the following year he began work on the Third Symphony, the *Eroica*."
+  },
+  "keywords": {
+    "ja": [
+      "動機の展開",
+      "強弱の落差",
+      "交響曲の物語化"
+    ],
+    "en": [
+      "Motivic development",
+      "Dynamic extremes",
+      "Symphonic narrative"
+    ]
   }
 }

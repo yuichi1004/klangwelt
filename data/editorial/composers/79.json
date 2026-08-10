@@ -2,5 +2,25 @@
   "biography": {
     "ja": "法務省の官吏として働いたのち、23歳で職を辞してペテルブルク音楽院に入学した。ロシア国民楽派の作曲家たちが民謡的な素材を前面に出したのに対し、彼は西欧の交響曲やバレエの様式を土台にしながら、その上に濃密な旋律を書いた。\nバレエ「白鳥の湖」「くるみ割り人形」「眠れる森の美女」の3作は、それまで舞踊の伴奏にすぎなかったバレエ音楽を、単独で聴くに堪える交響的な音楽に変えた。晩年の交響曲第6番「悲愴」は初演の9日後に彼が急死したこともあり、特別な位置を占め続けている。",
     "en": "He worked as a civil servant in the Ministry of Justice before resigning at 23 to enrol at the St Petersburg Conservatory. Where the Russian nationalist composers foregrounded folk material, he built on Western symphonic and balletic forms and wrote dense, long-breathed melody on top of them.\nHis three ballets — *Swan Lake*, *The Nutcracker* and *The Sleeping Beauty* — turned ballet music from mere accompaniment for dancing into symphonic music worth hearing on its own. The Sixth Symphony, the *Pathétique*, has kept a place apart ever since: he died suddenly nine days after conducting its premiere."
+  },
+  "style": {
+    "ja": "感情の起伏をためらわず旋律に直接乗せる書き方を貫き、当時のドイツ流の交響曲に比べて表現がむき出しだと評されることもあった。3拍子のワルツのリズムを舞踊音楽の外、交響曲や室内楽の楽章にまで持ち込み、弦と金管を明確に塗り分ける色彩感のある管弦楽法を得意とした。感情の強さと、それを支える構成上の統制を両立させている。",
+    "en": "He put emotional swings directly into the melodic line without hedging, which struck some contemporaries as too exposed next to the German symphonic tradition of the day. He carried the three-beat waltz out of the ballroom and into symphonies and chamber works alike, and favoured an orchestration that kept strings and brass in clearly separated colours. The intensity of feeling sits on top of tight formal control, not instead of it."
+  },
+  "impact": {
+    "ja": "国際的に演奏された最初のロシア人作曲家として、ロシアの音楽的素材と西欧の演奏会の伝統を橋渡しした。ピアノ協奏曲第1番やヴァイオリン協奏曲は今日も主要なコンクールの課題曲であり続け、後続のロシア・ソヴィエトの作曲家たちにとって越えるべき基準であり続けている。",
+    "en": "As the first Russian composer to be performed internationally on a large scale, he bridged Russian musical material and the Western concert tradition. The First Piano Concerto and the Violin Concerto remain staples of major competitions today, and he set a standard the Russian and Soviet composers who came after him had to reckon with."
+  },
+  "keywords": {
+    "ja": [
+      "濃密な叙情性",
+      "ワルツの拍子",
+      "国際的な評価"
+    ],
+    "en": [
+      "Intense lyricism",
+      "Waltz metre",
+      "International standing"
+    ]
   }
 }
