@@ -1,0 +1,30 @@
+{
+  "biography": {
+    "ja": "北ドイツで屈指の名門とされたリューベックの聖マリア教会のオルガニストを務めた。「アーベントムジーク(夕べの音楽)」と呼ばれる演奏会シリーズを組織・拡充したことで知られ、これは音楽史上もっとも早い時期に定期開催された公開演奏会の一つとされる。\n若きヨハン・ゼバスティアン・バッハは、彼の演奏を聴き技法を学ぶため、アルンシュタットからリューベックまで数百キロの道のりを徒歩で旅したという逸話で知られる。当時の慣習では、後任者は前任者の娘と結婚することが期待されており、この慣習がバッハやヘンデルが後継者となることを思いとどまらせたとも伝えられている。",
+    "en": "He served as organist at the Marienkirche in Lübeck, one of the most prestigious organist posts in northern Germany. He is known for organising and expanding the *Abendmusik* ('evening music') concert series, among the earliest regularly scheduled public concert series in music history.\nThe young Johann Sebastian Bach famously walked several hundred kilometres from Arnstadt to Lübeck to hear him play and study his technique. Custom at the time held that a successor to the post would be expected to marry the incumbent's daughter to inherit the job — a custom said to have deterred both Bach and Handel from pursuing the succession."
+  },
+  "style": {
+    "ja": "北ドイツの伝統における即興的で技巧的なオルガン書法を特徴とし、輝かしいトッカータ風の部分と、より厳格な対位法的な部分とを交互に配置する自由で狂詩曲的な「幻想様式(スティルス・ファンタスティクス)」——北ドイツ・バロックのオルガン音楽の中核をなす、当時から名付けられた様式区分——によって特徴づけられる。複数の部分からなる大規模なオルガン用の前奏曲とフーガは、のちにバッハが最高度に完成させることになる形式を直接に先取りするものだった。「アーベントムジーク」のための声楽・カンタータ作品も数多く書いており、宗教的な声楽書法にオルガン音楽と同じ即興的な自由さを取り込んでいる。",
+    "en": "His virtuosic, improvisatory organ writing belongs to the North German tradition, characterised by the *stylus fantasticus* — a free, rhapsodic, sectional approach alternating brilliant toccata-like passages with stricter contrapuntal sections, a named stylistic category central to North German Baroque organ music. His large-scale, multi-sectional organ preludes and fugues directly modelled the form Bach would later bring to its fullest maturity. He also wrote a substantial body of vocal and cantata music for the Abendmusik concerts, bringing the same improvisatory freedom found in his organ music into sacred vocal writing."
+  },
+  "impact": {
+    "ja": "若きバッハが師と仰ぎ、巡礼のような旅をしてまで学びに行った直接の手本として、バッハ自身のオルガン・鍵盤様式へのもっとも重要な直接の先駆者の一人であり続けている。彼が組織・拡充した「アーベントムジーク」は、公開演奏会の歴史における重要な初期の制度として認められており、のちの世紀にはるかに広く発展することになる演奏会文化を先取りするものだった。彼が体現した「幻想様式」の伝統は、その後何世代にもわたって北ドイツのオルガン作曲に影響を残している。",
+    "en": "As Bach's acknowledged model and direct influence during a formative pilgrimage, he stands as one of the most important direct precursors to Bach's own organ and keyboard style, a well-documented and celebrated line of influence. The Abendmusik series he established or expanded is recognised as an important early institution in the history of the public concert, prefiguring the concert culture that would develop much more broadly in the centuries that followed. The stylus fantasticus tradition he exemplified remained influential in North German organ composition for generations."
+  },
+  "story": {
+    "ja": "1705年、当時20歳だったバッハは、雇い主から与えられたわずかな休暇を使い、アルンシュタットからリューベックまで数百キロの道のりを徒歩で旅して彼の演奏を聴きに行った。予定の休暇をはるかに超えて滞在したため、帰任後に雇い主から譴責を受けたと伝えられる。",
+    "en": "In 1705, the twenty-year-old Bach used what little leave his employer had granted him to walk several hundred kilometres from Arnstadt to Lübeck to hear him play. He reportedly stayed far longer than his approved leave allowed, and was reprimanded by his employer on his return."
+  },
+  "keywords": {
+    "ja": [
+      "幻想様式のオルガン書法",
+      "アーベントムジークの創設",
+      "バッハが徒歩で訪ねた師"
+    ],
+    "en": [
+      "Stylus fantasticus organ writing",
+      "Founding the Abendmusik series",
+      "The teacher Bach walked to visit"
+    ]
+  }
+}

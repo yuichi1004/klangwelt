@@ -77,6 +77,32 @@
       ]
     }
   },
+  "8": {
+    "biography": {
+      "ja": "ブラッドフォードでドイツ系移民の羊毛商の家庭に生まれた。父の意向でフロリダのオレンジ農園経営に送られ、そこでアフリカ系アメリカ人の音楽や黒人霊歌に初めて触れた経験が、後の作風に影響を残したとされる。ライプツィヒで正式に音楽を学んだのち、生涯の大半をフランスで過ごした。\n晩年は梅毒の進行により失明と麻痺に見舞われたが、若い音楽家エリック・フェンビーの助力を得て、口述筆記によって作曲を続けた。",
+      "en": "Born in Bradford to a family of German-immigrant wool merchants, he was sent by his father to manage an orange plantation in Florida, where his first encounter with African American music and spirituals is thought to have left a lasting mark on his music. He studied formally in Leipzig and spent most of his mature life in France.\nIn his final years, syphilis left him blind and paralysed, but he continued composing by dictation with the help of a young musician, Eric Fenby, who volunteered to assist him."
+    },
+    "style": {
+      "ja": "豊麗で和声的に密度の高い管弦楽の響きを、劇的に前進させるのではなくゆっくりと変化させ、物語というよりも音による「風景」に近い、瞑想的で静的な気分を醸し出す書法を特徴とする。調性と半音階的な和声を自由に流動的に扱い、明確な終止による解決を避けることで、絶えず霞がかかったような漂う感覚を生み出している。フロリダで耳にしたアフリカ系アメリカ人の霊歌や民謡に由来するとされる旋律的な要素が、後期ロマン派から印象主義に近い語法のなかに溶け込んでいる。",
+      "en": "He favours a lush, harmonically dense orchestral texture that evolves slowly rather than driving forward dramatically, closer to a musical landscape than a narrative. His free, fluid handling of tonality and chromatic harmony avoids clear cadential resolution, giving the music a persistently hazy, drifting quality. Melodic material sometimes traceable to the African American spirituals and folk songs he heard in Florida is absorbed into a fundamentally late-Romantic, Impressionist-adjacent idiom."
+    },
+    "impact": {
+      "ja": "20世紀初頭のイギリス音楽の中で、ヴォーン・ウィリアムズの民謡的な国民主義とも、エルガーの気高いロマン主義とも異なる、分類の難しい独自の声を代表しており、同時代のイギリス音楽により国際的な色彩を帯びた第三の道を示している。視力を失ってからフェンビーとともに口述筆記で作曲を続けたその晩年の協働は、適応的な芸術的共同作業の広く知られた事例であり、回想録やのちの映画の題材にもなり、専門的な音楽界を超えてその物語が伝わっている。",
+      "en": "He represents a distinctive, hard-to-classify voice in early twentieth-century English music, standing apart from both the folk-song nationalism of Vaughan Williams and the noble Romanticism of Elgar, offering a third, more internationally inflected path within English music of the period. His late-career collaboration with Fenby, dictating music after losing his sight, is a widely cited example of adaptive artistic collaboration and became the subject of a memoir and later a film, extending his story's reach beyond specialist musical circles."
+    },
+    "keywords": {
+      "ja": [
+        "静的で瞑想的な管弦楽の風景",
+        "フロリダの黒人霊歌の記憶",
+        "口述筆記による晩年の創作"
+      ],
+      "en": [
+        "A static, contemplative orchestral landscape",
+        "Memories of Florida spirituals",
+        "Late-career composition by dictation"
+      ]
+    }
+  },
   "11": {
     "biography": {
       "ja": "チェコの小さな町にある教会の鐘楼の上の部屋で育った。父がその教会の火の見番を務めていたためで、高い場所からの見晴らしのよい生活が、のちの作風にも影響したのではないかとしばしば指摘される。\nプラハ音楽院で学んだのちパリに移り、ルーセルに師事して新古典主義やジャズの語法を吸収した。ナチス・ドイツによる占領を逃れてアメリカに渡り、プリンストン大学などで教えた。生涯を通じて多作であり続け、晩年はヨーロッパに戻ってスイスで没している。",
@@ -126,6 +152,32 @@
         "Cyclic form",
         "Organ-rooted chromatic harmony",
         "Belated recognition"
+      ]
+    }
+  },
+  "13": {
+    "biography": {
+      "ja": "同性愛者であることを公にしていたが、これは当時のイギリスでは違法とされていた時代のことであり、ブリテンと同様の境遇にあった。良心的兵役拒否者として兵役を拒否し、実際に短期間服役している点はブリテンよりも直接的な代償を伴った。\nワーグナーと同様、自ら台本を書いて作曲する作曲家だった。オラトリオ「われらの時代の子」は、水晶の夜への応答として書かれ、伝統的なコラールの代わりにアフリカ系アメリカ人の霊歌を組み込んでいる。",
+      "en": "Openly gay at a time when homosexuality was illegal in Britain, he shared something of Britten's situation. As a conscientious objector he refused military service and, unlike Britten, actually served a short prison sentence for it.\nLike Wagner, he wrote his own librettos. His oratorio *A Child of Our Time*, written in response to Kristallnacht, incorporates African American spirituals in place of traditional chorales."
+    },
+    "style": {
+      "ja": "ジャズのリズム、イギリスの合唱の伝統、そして「われらの時代の子」ではバッハがルター派の讃美歌に与えたであろう役割を、代わりにアフリカ系アメリカ人の霊歌の旋律に担わせるという構造的な手法を融合させた。同じ時代のディーリアスが独立して同様の素材に触れていたことと比較しても興味深い。成熟期から晩年の作品では、複雑に層を成すリズムと形式の構造がますます密度を増し、エネルギッシュで技巧的に高い要求を課す書法として知られる。自ら書いた台本では、神話的・心理的・社会的な主題を、独特で詩的に凝縮された言葉で探求した。",
+      "en": "He fused jazz rhythm, the English choral tradition, and — in *A Child of Our Time* — African American spiritual melody used structurally, in the place Bach would have given a Lutheran chorale, an interesting point of comparison with Delius's independent encounter with similar material. In his mature and late works, increasingly complex, layered rhythmic and formal structures grew denser, in a style often described as energetic and technically demanding. In librettos he wrote himself, he explored mythological, psychological and social themes in idiosyncratic, densely poetic language."
+    },
+    "impact": {
+      "ja": "「われらの時代の子」は20世紀イギリスのオラトリオの金字塔となり、特定のナチスの暴力行為への直接的な政治的関与と、アフリカ系アメリカ人の霊歌を構造的に組み込むという独自の選択によって、この伝統の音楽的・文化的な語彙を広げた。公然と同性愛者であり、良心的兵役拒否によって服役した経歴を持つ彼の人生は、芸術家の政治的・個人的な信条が伝記と作曲の選択の双方を直接形づくった記録として、ブリテンやショスタコーヴィチ、メシアンとも通じる、作曲家と政治的良心という主題にさらなる事例を加えている。",
+      "en": "*A Child of Our Time* became a landmark of twentieth-century English oratorio, notable for its direct political engagement — a response to a specific act of Nazi violence — and for structurally incorporating African American spirituals, a distinctive choice that broadened the tradition's musical and cultural vocabulary. As an openly gay composer and a jailed conscientious objector, his life stands as a documented case of an artist's political and personal convictions directly shaping both biography and compositional choices, adding a further data point to this collection's recurring theme of composers and political conscience, alongside Britten, Shostakovich and Messiaen."
+    },
+    "keywords": {
+      "ja": [
+        "霊歌の構造的な組み込み",
+        "良心的兵役拒否と服役",
+        "自作台本による神話的探求"
+      ],
+      "en": [
+        "Structurally incorporating spirituals",
+        "Conscientious objection and imprisonment",
+        "Mythological exploration in his own librettos"
       ]
     }
   },
@@ -181,6 +233,32 @@
       ]
     }
   },
+  "22": {
+    "biography": {
+      "ja": "1915年に渡米し、のちにアメリカに帰化した。ヨーロッパ時代の初期作品の多くは失われており、一部は本人が処分したとも伝えられ、現存する主要作品はほぼアメリカ時代以降のものに限られている。\n旋律や伝統的な和声ではなく、音色と密度の「塊」や「面」として音を組織するという考え方を追求し、音楽を組織化された騒音や音の塊に近いものとして扱う、当時としてはきわめて急進的な姿勢を貫いた。作曲家として長い沈黙の時期を経たのち、晩年になって電子音響を本格的に用いた作品にも取り組んでいる。",
+      "en": "He emigrated to the United States in 1915 and later became a naturalised American citizen. Most of his early European works have been lost, some reportedly destroyed by his own hand, so his surviving major output comes almost entirely from his American period onward.\nHe pursued the idea of organising sound as 'masses' and 'planes' of timbre and density rather than melody or traditional harmony, treating music as closer to organised noise or sound-mass — a radically advanced position for its time. After a long fallow period as a composer, he turned in his later years to works that made serious use of electronic sound."
+    },
+    "style": {
+      "ja": "音楽を旋律による語りとしてではなく、音色と密度の「塊」の組織化——本人が「組織化された音」と呼んだもの——として捉える、他のほとんどの作曲家とは根本的に異なる前提から出発した。電子音響の生成と操作を早くから本格的に手がけた先駆者でもあり、当時登場したばかりの電子楽器や、最後の主要作品では専用に構成されたテープ音楽の手法までも用いている。器楽・打楽器を用いた作品でも、密度が高く攻撃的な書法を特徴とし、生音の作品の段階からすでに、のちの電子音響的な美学を予感させる、圧倒的な音の塊と刺々しい不協和を追求した。",
+      "en": "He conceived of music not as melodic discourse but as the organisation of sound-mass, timbre and density — what he himself called 'organised sound', a fundamentally different starting premise from almost any other composer here. He was also an early, serious pioneer of electronic sound generation and manipulation, using newly available electronic instruments and, in his final major work, purpose-built tape composition. Even his acoustic orchestral and percussion writing is dense and aggressive, foreshadowing his later electronic aesthetic through sheer sonic mass and abrasive dissonance."
+    },
+    "impact": {
+      "ja": "音の塊による作曲と電子音楽の双方を演奏会用の本格的な芸術形式として切り拓いた重要な先駆者として広く認められており、後続の電子音楽やスペクトル楽派の作曲家たちに直接影響を与えている。「組織化された音」という考え方は、正当な音楽素材とみなされうるものの定義そのものを押し広げ、クラシックの伝統をはるかに超えて、のちのノイズ・ミュージックやサウンド・アート、実験的な電子音楽にもその影響をたどることができる。初期作品の喪失や長い沈黙の時期のために現存する作品数は比較的少ないものの、20世紀の音響芸術の展開に及ぼした歴史的な影響は、その規模に不釣り合いなほど大きいと考えられている。",
+      "en": "He is widely credited as a crucial forerunner of both sound-mass composition and electronic music as serious concert art forms, directly influencing later generations of electronic and spectral composers. His conception of 'organised sound' broadened the very definition of legitimate musical material, an influence traceable in later noise music, sound art and experimental electronic composition well beyond the classical tradition. Despite a relatively small surviving output, due to lost early works and long fallow periods, his historical influence on the trajectory of twentieth-century sound art is considered disproportionately large."
+    },
+    "keywords": {
+      "ja": [
+        "組織化された音",
+        "電子音響の早期の探求",
+        "音楽素材の定義の拡張"
+      ],
+      "en": [
+        "Organized sound",
+        "Early exploration of electronic sound",
+        "Expanding the definition of musical material"
+      ]
+    }
+  },
   "26": {
     "biography": {
       "ja": "ハンガリーのユダヤ系家庭に生まれた。ホロコーストを生き延びたが、父と弟は強制収容所で命を落としている。\n1956年のハンガリー動乱がソ連軍によって鎮圧されると西側へ亡命し、それまで鉄のカーテンの向こうで触れる機会のなかった西欧の前衛音楽や電子音楽の潮流に初めて接した。「アトモスフェール」などの作品は、スタンリー・キューブリック監督の映画「2001年宇宙の旅」に無断で使用されたことをきっかけに国際的に広く知られるようになった。",
@@ -230,6 +308,36 @@
         "Three stages of nationalism",
         "Teacher of Piazzolla",
         "Facing state censorship"
+      ]
+    }
+  },
+  "33": {
+    "biography": {
+      "ja": "ドヴォルザークに師事し、のちにその娘オティリエと結婚して義理の息子となった。名門「チェコ弦楽四重奏団」のヴァイオリニストとして長年演奏活動を続けながら、作曲家としても活動する二重の音楽家人生を送った。\n義父ドヴォルザークが世を去った翌年、妻オティリエも急逝するという相次ぐ死別に見舞われ、この深い悲嘆から交響曲「アスラエル」を書き上げている。",
+      "en": "He studied under Dvořák and later married his daughter Otilie, becoming his son-in-law. He led a double musical life, performing for decades as a violinist in the celebrated Czech Quartet while also composing.\nWithin about a year, he lost first his father-in-law Dvořák and then, suddenly, his wife Otilie — a devastating double bereavement out of which he wrote the Symphony 'Asrael'."
+    },
+    "style": {
+      "ja": "当初はドヴォルザークの直接の影響のもと、チェコの民俗色を帯びた温かみのある後期ロマン派の語法から出発したが、義父と妻を相次いで失った個人的な悲劇を経て、成熟期の作風はより半音階的で心理的に緊張感の高い、構成的にも野心的な語法へと大きく暗転した。純粋な技法上の変化というより、伝記的な出来事に直接突き動かされた様式の転換である。何十年にもわたって現役の室内楽奏者であり続けた経験から、自作の室内楽にも実践に裏づけられた弦楽器の書法を反映させている。",
+      "en": "He began under Dvořák's direct influence, in a warm, Czech-folk-inflected late Romantic idiom, but following the personal tragedy of losing both his father-in-law and his wife, his mature style darkened considerably into a more chromatic, psychologically intense, and structurally ambitious language — a stylistic shift driven directly by biography rather than purely technical evolution. Decades as a working chamber musician gave his own chamber works a practically informed, idiomatic string writing."
+    },
+    "impact": {
+      "ja": "交響曲「アスラエル」は、レパートリーの中でももっとも力強く個人的な悲嘆を表現した交響的作品の一つとして高く評価されており、特定の伝記的な出来事と音楽内容・受容が切り離せない主要作品の例になっている。師弟関係と姻戚関係の両方でドヴォルザークの直接の音楽的後継者であり、チェコ国民楽派の伝統の継承者として位置づけられる一方、成熟期の作風は師の一貫して楽天的な民俗色豊かな語法とはかなり異なる方向へと進んでいる。",
+      "en": "The Asrael Symphony is widely regarded as one of the most powerful and personal expressions of grief in the symphonic repertoire, an example of a major work whose specific biographical origin is inseparable from its musical content and reception. As Dvořák's direct musical heir by both instruction and marriage, he represents a documented continuation of Dvořák's legacy within the Czech national tradition, even as his own mature voice diverged considerably from his teacher's more consistently folk-rooted optimism."
+    },
+    "story": {
+      "ja": "義父ドヴォルザークの死の翌年、妻オティリエも若くして急逝した。この相次ぐ悲しみのさなかに書き上げられた交響曲「アスラエル」(死の天使を意味する)は、彼の作品の中でもっとも個人的で深い喪失感に満ちた傑作とされている。",
+      "en": "The year after his father-in-law Dvořák died, his wife Otilie also died suddenly and young. The Symphony 'Asrael' (named for the angel of death), written in the midst of this compounded grief, is considered the most personal and profound of his works."
+    },
+    "keywords": {
+      "ja": [
+        "ドヴォルザークの後継者",
+        "相次ぐ死別が生んだ交響曲",
+        "演奏家と作曲家の二重生活"
+      ],
+      "en": [
+        "Dvořák's musical heir",
+        "A symphony born of double bereavement",
+        "A double life as performer and composer"
       ]
     }
   },
@@ -311,6 +419,84 @@
       ]
     }
   },
+  "37": {
+    "biography": {
+      "ja": "スペイン国民楽派の重要な先達ペドレルに師事した。パリで過ごした形成期にはドビュッシーやラヴェルと親交を結び、印象主義の影響を吸収している。\nスペインに戻ってからはフラメンコやアンダルシアの民俗語法を洗練された演奏会用の形式に取り込み、スペイン国民楽派の演奏会用音楽を代表する存在となった。敬虔なカトリック信者で晩年は隠遁的な生活を送り、スペイン内戦後はアルゼンチンに亡命し、大作「アトランティダ」を未完のまま同地で生涯を終えている。",
+      "en": "He studied under Felip Pedrell, a key figure of the Spanish nationalist musical revival. During his formative years in Paris he became friends with Debussy and Ravel and absorbed the influence of Impressionism.\nBack in Spain, he brought flamenco and Andalusian folk idioms into sophisticated concert forms and became the leading figure of Spanish nationalist concert music. A devout Catholic who grew increasingly reclusive in later life, he fled Spain after the Civil War and settled in Argentina, where he spent his final years working on a large-scale cantata, *Atlántida*, left unfinished at his death."
+    },
+    "style": {
+      "ja": "アンダルシアのフラメンコやカンテ・ホンド(深い歌)の声楽的な語法と、パリで学んだフランス印象主義の洗練された和声を融合させた。ビゼーやラヴェル、リムスキー=コルサコフのような非スペイン人作曲家が外側から借用した「スペイン風」の異国情緒とは異なる、内側からの本物の統合である点が特徴として際立つ。フラメンコ・ギターや舞踊の語法に根ざした、リズムの躍動感あふれる打楽器的な書法を用いた。晩年の作品では、初期のアンダルシア的な豊麗な色彩から一転して、より簡素で新古典主義的な、カスティーリャ地方の影響を思わせる禁欲的な作風へと移行している。",
+      "en": "He fused the vocal idiom of Andalusian flamenco and cante jondo (deep song) with the sophisticated harmony of French Impressionism he had learned in Paris. Unlike the 'Spanish' exoticism borrowed from outside by non-Spanish composers such as Bizet, Ravel, and Rimsky-Korsakov, this stands out as an authentic synthesis from within the tradition. He wrote with a rhythmically vital, percussive style rooted in flamenco guitar and dance idiom. His later works moved from the lusher Andalusian colour of his earlier output toward a sparer, more neoclassical austerity influenced by the Castilian region."
+    },
+    "impact": {
+      "ja": "20世紀のスペイン演奏会用音楽を国際的に代表する存在となり、外部から異国情緒として借用するのではなく、伝統の内側から民俗素材を汲み上げる本物の国民主義という手本を確立し、後続のスペイン・ラテンアメリカの作曲家たちに影響を与えた。「アトランティダ」を未完のまま残して世を去ったことは、モーツァルトのレクイエムやプッチーニの「トゥーランドット」、マーラーの交響曲第10番など、このデータセットに繰り返し現れる、作曲家の最後の大きな野心が未完に終わるという音楽史上の反復するパターンにも重なる。",
+      "en": "He became the internationally leading figure of twentieth-century Spanish concert music, establishing a model of authentic folk-derived nationalism — drawing from within the tradition rather than borrowing it as exotic colour from outside — that influenced later Spanish and Latin American composers. Leaving *Atlántida* unfinished at his death parallels several other cases in this collection of major late works left incomplete — Mozart's Requiem, Puccini's *Turandot*, Mahler's Tenth Symphony — a recurring pattern in how music history treats a composer's final, unrealised ambition."
+    },
+    "keywords": {
+      "ja": [
+        "内側からのスペイン民俗語法",
+        "フラメンコと印象主義の融合",
+        "未完に終わった最後の大作"
+      ],
+      "en": [
+        "Spanish folk idiom from within",
+        "Fusing flamenco and Impressionism",
+        "An unfinished final masterwork"
+      ]
+    }
+  },
+  "43": {
+    "biography": {
+      "ja": "グルジア人貴族の非嫡出子として生まれ、出生時にはその貴族に仕える農奴の息子として届け出られるという複雑な出自を持つ。化学の研究者・教授としても本格的なキャリアを築き、有機化学の分野で今日まで名を残す業績を残した音楽とは独立した科学者でもあった。\n作曲は余暇に行うのみで、自らを「日曜作曲家」と呼んでいた。代表作のオペラ「イーゴリ公」は未完のまま世を去り、リムスキー=コルサコフとグラズノフによって補筆・完成された。",
+      "en": "The illegitimate son of a Georgian prince, he was registered at birth as the son of one of the prince's serfs — a complex circumstance surrounding his birth. He also built a serious, independent career as a research chemist and professor, making contributions to organic chemistry still cited today, entirely apart from his music.\nHe composed only in his spare time, famously calling himself a 'Sunday composer'. His major opera, *Prince Igor*, was left unfinished at his death and was completed by Rimsky-Korsakov and Glazunov."
+    },
+    "style": {
+      "ja": "国民楽派「ロシア五人組」の一員として、「イーゴリ公」の「ダッタン人の踊り」に見られるように、中央アジアの草原文化を思わせる民俗的な旋律素材を、力強く色彩豊かに管弦楽化されたロマン派の語法に取り込んだ。余暇にしか作曲しなかったにもかかわらず、とりわけ弦楽四重奏曲第2番に見られるように、際立って洗練され構成的にも完成度の高い作品を残しており、「アマチュア」作曲家には珍しい自然な作曲の才能をうかがわせる。",
+      "en": "As a member of the nationalist 'Mighty Handful', he brought folk-inflected melodic material evoking Central Asian steppe culture — as in the 'Polovtsian Dances' from *Prince Igor* — into a robust, colourfully orchestrated Romantic idiom. Despite composing only part-time, he achieved a notably polished, structurally accomplished output, particularly in chamber music such as the Second String Quartet, suggesting a natural compositional facility uncommon among composers who worked at music only as a sideline."
+    },
+    "impact": {
+      "ja": "著名な化学者であると同時に重要な作曲家でもあったという事実は、科学と芸術の双方で本物の業績を同時に成し遂げた稀な歴史的事例として際立っている。「ダッタン人の踊り」はロシア管弦楽曲の中でもっとも人気が高く頻繁に抜粋演奏される曲の一つとなり、「イーゴリ公」がリムスキー=コルサコフとグラズノフによって完成されたことは、ムソルグスキーの作品に対するリムスキー=コルサコフの補筆と同じく、「ロシア五人組」という集団内部の緊密で共同体的な協力関係を象徴している。",
+      "en": "As both a distinguished chemist and a major composer, he stands as a striking historical example of genuine achievement sustained simultaneously in science and art, a rare dual legacy. The 'Polovtsian Dances' became one of the most popular and frequently excerpted pieces of Russian orchestral music, and the completion of *Prince Igor* by Rimsky-Korsakov and Glazunov, paralleling Rimsky-Korsakov's completions of Mussorgsky's works, exemplifies the close, almost communal working relationship within the 'Mighty Handful' circle."
+    },
+    "keywords": {
+      "ja": [
+        "科学と音楽の二重の業績",
+        "中央アジアを思わせる旋律",
+        "五人組の協働による作品完成"
+      ],
+      "en": [
+        "Dual achievement in science and music",
+        "Melody evoking Central Asia",
+        "Collaborative completion within the Mighty Handful"
+      ]
+    }
+  },
+  "44": {
+    "biography": {
+      "ja": "オックスフォード大学を学位を得ないまま中退したのち、著名な文人一族シットウェル家に引き取られ、若き才能としてロンドンの前衛的な芸術サークルで支援・後押しを受けるという、正規の音楽院教育とは異なる特異な経緯をたどった。\n詩人イーディス・シットウェルの詩を器楽に乗せて朗読する初期の挑発的な共作「ファサード」で最初に注目を集め、保守的な聴衆を驚かせた。のちには映画音楽の分野でも活躍し、とりわけ戦時中の愛国的な作品や、ローレンス・オリヴィエによるシェイクスピア映画のための音楽で知られている。",
+      "en": "After leaving Oxford without a degree, he was taken in by the Sitwell siblings, a prominent literary family, who supported and promoted him as a young talent within London's avant-garde artistic circles — an unusual path outside formal conservatory training.\nHe first drew attention with *Façade*, an early, provocative collaboration with the poet Edith Sitwell that set her poems to be recited over instrumental music, unsettling conservative audiences. He later became a significant film composer, known especially for patriotic wartime scores and for the music he wrote for Laurence Olivier's Shakespeare film adaptations."
+    },
+    "style": {
+      "ja": "「ファサード」で示した挑発的で風刺の効いた前衛的な機知から出発し、やがてエルガーの壮麗さを受け継ぎながらもより鋭く不協和な和声を持つ、より主流的で豊麗な管弦楽法によるイギリス的なロマン派・モダニズムの語法へと落ち着いていった。とりわけ戦時中や歴史的な題材にふさわしい、大規模で愛国的・英雄的な音楽的身振りを効果的に描く、劇的な映画音楽の書き手として高い評価を得た。生涯を通じて、自作を時間をかけて自己批判的に推敲し続けたことでも知られている。",
+      "en": "He began with the provocative, satirical avant-garde wit of *Façade* before settling into a more mainstream, richly orchestrated English Romantic-modernist idiom that drew on Elgar's grandeur but with sharper, more dissonant harmonic edges. He was a skilled, effective dramatic film composer, particularly good at the large-scale patriotic and heroic musical gestures suited to wartime and historical epic subject matter. He was known throughout his life for painstaking, slow, self-critical revision of his scores."
+    },
+    "impact": {
+      "ja": "20世紀半ばのイギリスを代表する演奏会・映画音楽の作曲家の一人となり、エルガーやヴォーン・ウィリアムズ、ブリテンの項目でも触れた「イギリス音楽ルネサンス」の系譜をさらに次の世代へと引き継いだ。とりわけ戦時中の愛国的な映画音楽は、第二次世界大戦に関するイギリスの大衆的な文化的記憶に深く刻み込まれており、ジャンルは異なるもののエルガーの「威風堂々」が持つ広い儀礼的な文化的到達点にも通じる、演奏会場を超えた異例なほど広い文化的な存在感を持つに至った。",
+      "en": "He became one of the leading English concert and film composers of the mid-twentieth century, extending the lineage of the English Musical Renaissance already noted in the entries for Elgar, Vaughan Williams and Britten into a further generation. His film scores, particularly the patriotic wartime music, became deeply embedded in British popular cultural memory of the Second World War, giving him an unusually wide cultural reach beyond the concert hall — comparable in kind, if different in genre, to Elgar's own broad ceremonial reach with *Pomp and Circumstance*."
+    },
+    "keywords": {
+      "ja": [
+        "文人一族による非正規の支援",
+        "風刺的な機知から壮麗な語法へ",
+        "戦時映画音楽への浸透"
+      ],
+      "en": [
+        "Unconventional patronage by a literary family",
+        "From satirical wit to grand idiom",
+        "Reach through wartime film music"
+      ]
+    }
+  },
   "45": {
     "biography": {
       "ja": "驚異的な神童として知られ、10歳で公開演奏会を開いている。作曲や演奏にとどまらず、天文学や考古学、数学にも本格的に取り組み、専門的な論文を残すほどの博識家でもあった。\n「動物の謝肉祭」は友人内輪の余興として書いた作品で、まじめな作曲家としての評価を損なうことを恐れた本人の意向により、「白鳥」を除いて生前の出版・公開演奏は禁じられていた。しかし没後に全曲が発表されると、皮肉にも彼のもっとも広く愛される作品になっている。",
@@ -389,6 +575,32 @@
       ]
     }
   },
+  "50": {
+    "biography": {
+      "ja": "フランス・フランドル楽派を代表するルネサンス期最大の作曲家とされ、同時代人であったマルティン・ルターをはじめ、当時から高い賞賛を受けていた。イタリア各地の宮廷やローマ教皇庁のシスティーナ礼拝堂聖歌隊、フランス王室など、名だたる後援者のもとで活動した。\n生年や初期の経歴について確実にわかっていることは少なく、伝わる伝記的事実の多くは同時代人の証言ではなく、断片的に残る支払い記録などの文書資料からの推測に基づいている。あまりに名声が高かったため、他の作曲家の作品が権威づけのために彼の名で流通することもあり、これは今日の研究者が真作を特定する際の課題になっている。",
+      "en": "He is regarded as the greatest composer of the Renaissance Franco-Flemish polyphonic school, praised highly even in his own lifetime, including by his contemporary Martin Luther. He worked for a succession of prestigious patrons, including courts across Italy, the Sistine Chapel choir in Rome, and the French royal court.\nLittle is known with certainty about his early life and exact chronology; most surviving biographical facts are inferred not from contemporary testimony but from scattered archival payment records. His fame was such that other composers' works were sometimes circulated under his name to lend them prestige, a documented attribution problem that still complicates the modern scholarly catalogue of his authentic works."
+    },
+    "style": {
+      "ja": "各声部が同じ旋律的な着想を順に模倣しながら多声の織物を織りなす模倣対位法を、当時としては前例のない大規模な構造的統一感と、歌詞に応じた表現力とともに駆使した。宗教的な声楽曲において、多声の書法を歌われる歌詞の感情的・修辞的な意味に応答させる技法——言葉の描写や表現力豊かな朗誦——を切り拓き、それ以前の世代のより抽象的な多声書法からの大きな転換をもたらした。ミサ曲、モテット、世俗のシャンソンのいずれにおいても等しく高い完成度を示し、当時の声楽ジャンル全体を包括的に極めていたことをうかがわせる。",
+      "en": "He mastered pervasive imitative counterpoint — each vocal line entering in turn with the same melodic idea, weaving through the polyphonic texture — applied with a then-unprecedented sense of large-scale structural unity and expressive text-setting. In sacred vocal music he pioneered techniques for making the polyphonic texture responsive to the emotional and rhetorical meaning of the sung text — word-painting and expressive declamation — a significant departure from the more purely abstract polyphonic construction of earlier generations. He wrote masses, motets and secular chansons with equal mastery, demonstrating a comprehensive command of the full vocal genres of his era."
+    },
+    "impact": {
+      "ja": "パレストリーナ以前のルネサンス期においてもっとも影響力のあった作曲家として音楽学者に広く認められており、その模倣対位法と表現力豊かな歌詞設定の技法は、以後何世代にもわたってヨーロッパ各地の宗教的多声音楽の作曲における基礎的な模範になった。他の作曲家の作品が彼の名で流通するほどの当時の名声の大きさそのものが、この時代に生まれつつあった楽譜出版市場において、作曲家の評判が一種の文化的通貨として機能していたことを示す歴史的な証拠として重要である。",
+      "en": "He is widely regarded by musicologists as the most influential composer of the Renaissance before Palestrina; his imitative counterpoint and expressive text-setting techniques became the foundational model for sacred polyphonic composition for generations of composers across Europe who followed him. The sheer scale of his contemporary fame, including the phenomenon of misattributed works circulated under his name, is itself historically significant as evidence of how a composer's reputation could function as a form of cultural currency in the music-publishing marketplace then beginning to emerge."
+    },
+    "keywords": {
+      "ja": [
+        "模倣対位法の確立",
+        "歌詞に応答する表現力",
+        "名声ゆえの帰属問題"
+      ],
+      "en": [
+        "Establishing imitative counterpoint",
+        "Text-responsive expression",
+        "An attribution problem born of fame"
+      ]
+    }
+  },
   "52": {
     "biography": {
       "ja": "貧しい農家に生まれ、家具塗装職人であり民俗音楽家でもあった父から幼いころに楽器の手ほどきを受けた。少年時代は軍楽隊でラッパやヴァイオリンを吹き、その後デンマーク王立音楽院で正規の教育を受けている。\n交響曲や協奏曲といった大規模な作品と並行して、素朴な旋律の歌曲や賛美歌も数多く書いた。これらの旋律の多くは学校教育や教会を通じてデンマークの日常生活に深く浸透しており、作曲者の名を意識しないまま歌われ続けている。",
@@ -412,6 +624,32 @@
         "Progressive tonality",
         "A national songbook legacy",
         "Nordic symphonism"
+      ]
+    }
+  },
+  "53": {
+    "biography": {
+      "ja": "パリ音楽院ではなく、教会音楽を専門とするニデルメイエール学校で学び、グレゴリオ聖歌や古い教会旋法についての素養を身につけた。これは通常の音楽院教育とは異なる出自である。フランクやブルックナーと同様、長年教会オルガニストとして働きながら作曲を続けた。\nキャリア後期にはパリ音楽院の院長に就任し、ラヴェル、ナディア・ブーランジェ、エネスクをはじめ多くの重要な音楽家を育てた。晩年は次第に聴力を失いながらも作曲を続けている。",
+      "en": "Rather than the Paris Conservatoire, he studied at the École Niedermeyer, a school specialising in church music, which gave him a grounding in Gregorian chant and the old church modes distinct from mainstream conservatory training. Like Franck and Bruckner, he worked for decades as a church organist while composing.\nLate in his career he became director of the Paris Conservatoire, where he taught Ravel, Nadia Boulanger, Enescu and many other important musicians. In his final years he gradually lost his hearing but continued to compose."
+    },
+    "style": {
+      "ja": "遠い調性の間を、劇的な転換や唐突さを伴わずに滑らかに移り変わっていく、抑制の効いた洗練された和声の動きを特徴とする、独自の和声語法を持つ。これは技術的にも際立った特徴で、後期ロマン派と、教え子たちが切り拓くことになる印象主義とを橋渡しする、当時もっとも洗練され静かに革新的な和声語彙の一つと評されている。教会音楽の教育で身につけたグレゴリオ聖歌の旋法は、世俗的な歌曲や室内楽においても独特の旋法的な風合いを旋律にもたらしている。「レクイエム」は多くのレクイエムが劇的に描く「怒りの日」の歌詞をあえて省き、死を穏やかに慰めに満ちたものとして描くという、意図的な選択によって同時代のより演劇的なレクイエムとは一線を画している。",
+      "en": "His harmonic language moves smoothly between distantly related keys without abrupt or dramatic transitions, achieving a uniquely understated, refined sense of harmonic motion — a technically distinctive trait, described by scholars as among the most sophisticated and quietly innovative harmonic vocabularies of his era, bridging late Romanticism and the Impressionism his students would go on to develop. His grounding in Gregorian modes from his church-music training gave even his secular songs and chamber works a distinctive modal flavour. His *Requiem* notably omits the dramatic 'Dies Irae' text that most Requiem settings dramatise, emphasising instead a serene, consoling vision of death — a deliberate choice that sets it apart from the more theatrical Requiems of his contemporaries."
+    },
+    "impact": {
+      "ja": "パリ音楽院の院長として、またラヴェルやブーランジェ、エネスクらの師として、驚くほど影響力の大きい師弟の系譜の頂点に立っている。ブーランジェ一人だけをとっても、その教え子にはコプランド、バーンスタイン、グラス、ヒナステラの弟子ピアソラまで含まれ、フォーレの教育的な影響は二段階を経て、このデータセット全体に登場する20世紀音楽の広大な領域にまで及んでいる。抑制の効いた洗練された和声語法は、彼自身は通常印象主義には分類されないものの、ロマン派の和声とドビュッシーやラヴェルの印象主義的な革新とを結ぶ重要な橋渡しとして音楽史家に評価されている。「レクイエム」の静謐で演劇的でないアプローチは、この分野における影響力のある代替モデルを確立し、後続のレクイエム作曲家たちに今も参照されている。",
+      "en": "As director of the Paris Conservatoire and teacher of Ravel, Boulanger and Enescu among others, he sits at the head of an extraordinarily influential teaching lineage — Boulanger alone went on to teach Copland, Bernstein, Glass and, through Ginastera, Piazzolla, meaning his pedagogical influence reaches, at two removes, across an enormous swath of twentieth-century music. His understated, refined harmonic language is credited by historians as an important bridge between Romantic harmony and the Impressionist innovations of Debussy and Ravel, even though he himself is not usually classified as an Impressionist. His *Requiem*'s serene, non-dramatic approach to the genre established an influential alternative model still referenced by later composers writing Requiem settings."
+    },
+    "keywords": {
+      "ja": [
+        "抑制の効いた和声語法",
+        "教会旋法に根ざした旋律感覚",
+        "驚異的な師弟の系譜"
+      ],
+      "en": [
+        "Understated harmonic language",
+        "Melody rooted in church modes",
+        "An extraordinary teaching lineage"
       ]
     }
   },
@@ -494,6 +732,58 @@
         "Precision orchestration",
         "Formal clarity",
         "Absorbing jazz idiom"
+      ]
+    }
+  },
+  "60": {
+    "biography": {
+      "ja": "若い頃はきわめて筆の速い多作家で、「セビリアの理髪師」はわずか3週間ほどで書き上げられたとも伝えられている。\nしかし絶頂期にあった37歳ごろ、事実上オペラ作曲から引退し、その後40年近く生きながら、以後は主に私的な楽しみのための作曲しか行わなかった。音楽史上もっとも有名な「早すぎる引退」の例の一つである。引退後はパリで有名なサロンを主催する美食家としても名を馳せ、彼にちなんだ「ロッシーニ風」と呼ばれる料理が今日も残っている。",
+      "en": "In his youth he was an extraordinarily fast, prolific composer; *The Barber of Seville* is said to have been written in as little as three weeks.\nYet at the height of his fame, around age 37, he effectively retired from opera composition and lived for nearly forty more years, composing thereafter mostly for his own private pleasure — one of the most famous cases of early retirement in music history. In retirement he became equally famous as a gourmet, hosting celebrated salons in Paris, and several dishes still bear his name, 'alla Rossini', today."
+    },
+    "style": {
+      "ja": "オペラ・ブッファ(喜劇オペラ)における鮮やかな喜劇的な間の取り方とリズムの機知を特徴とし、とりわけ「ロッシーニ・クレッシェンド」——同じ音型を繰り返しながら音量と管弦楽の密度を徐々に高め、喜劇的あるいは劇的な緊張感を高揚感あふれる頂点へと導く手法——で知られる。ベルカントの伝統を受け継ぎ発展させ、驚異的な俊敏さとコロラトゥーラの妙技を要求する声楽書法を特徴とする。きわめて速い作曲速度にもかかわらず、驚くほど即座に耳に残る旋律の才能を持っていた。",
+      "en": "He is known for a brilliant comic timing and rhythmic wit in opera buffa, above all for the 'Rossini crescendo' — a passage that repeats a figure while gradually building volume and orchestral density, driving comic or dramatic tension to an exhilarating climax, a specific, named signature technique. His vocal writing, continuing and extending the bel canto tradition, demands extraordinary agility and coloratura virtuosity. He had a remarkable gift for immediately memorable melody even at high compositional speed."
+    },
+    "impact": {
+      "ja": "「セビリアの理髪師」をはじめとする喜劇オペラは国際的なオペラ・レパートリーの礎石であり続けており、「ロッシーニ・クレッシェンド」は広く認知され模倣される作曲上の技法として、後続の作曲家たちにも研究されている。絶頂期に作曲活動から退きながら、その後何十年も著名な公人であり続けたという異例の経歴は、音楽史上もっとも特異なキャリアの軌跡の一つであり、その理由(健康上の問題、経済的な安定、オペラの流行の変化など)については今も学術的な議論が続いている。",
+      "en": "*The Barber of Seville* and his other comic operas remain cornerstones of the standard international opera repertoire, and the 'Rossini crescendo' became a recognised, frequently imitated compositional device studied by later composers. His unusual early retirement from composition, while remaining a celebrated public figure for decades afterward, stands as one of music history's most distinctive career trajectories, and the reasons behind it — health, financial security, the changing fashions of opera — remain a subject of ongoing scholarly debate."
+    },
+    "keywords": {
+      "ja": [
+        "ロッシーニ・クレッシェンド",
+        "驚異的な速筆",
+        "絶頂期での引退"
+      ],
+      "en": [
+        "The Rossini crescendo",
+        "Astonishing compositional speed",
+        "Retirement at the height of fame"
+      ]
+    }
+  },
+  "61": {
+    "biography": {
+      "ja": "当初は法律家としての資格を得ていたが、のちに音楽の道に転じた。裕福な家庭の出身で経済的な心配なく作曲に打ち込むことができ、多くの作曲家が経験した困窮とは無縁だった。\nセザール・フランクを中心とする芸術家サークルと関わりが深く、象徴主義の詩人や印象派の画家たちとも幅広く交流し、自らも著名なサロンを主催した。自転車の事故により若くして急死し、まだ上昇期にあったとみなされていたキャリアを絶たれている。",
+      "en": "He initially qualified as a lawyer before turning to music. Coming from a wealthy family, he was able to devote himself to composing without the financial pressure many of his contemporaries faced.\nHe was closely associated with the circle around César Franck, and mixed widely with Symbolist poets and Impressionist painters, hosting a well-known salon of his own. He died suddenly, and relatively young, in a bicycle accident, cutting short a career many considered still on the rise."
+    },
+    "style": {
+      "ja": "フランクの循環形式のサークルとワーグナーの半音階主義の双方の影響を受けた、豊かに半音階的で感情的な密度の高い和声語法を持ちながら、フランス的な抑制と管弦楽の明晰さによってそれが和らげられている。ヴァイオリンと管弦楽のための「詩曲」は、対照的な複数の部分を並べる従来の形式よりも、連続的な旋律と感情の展開を優先する、個人的で叙情的、狂詩曲的な単一楽章の形式を体現している。作品にはしばしば、もの悲しく郷愁を誘う感情的な性格が漂う。",
+      "en": "His richly chromatic, emotionally intense harmonic language, influenced by both Franck's cyclic-form circle and Wagner's chromaticism, is tempered by a distinctly French sense of restraint and orchestral clarity. The *Poème* for violin and orchestra exemplifies a personal, lyrical, rhapsodic single-movement form that prioritises continuous melodic and emotional development over conventional sectional contrast. His work often carries a melancholic, wistful emotional character."
+    },
+    "impact": {
+      "ja": "「詩曲」はヴァイオリンと管弦楽のためのレパートリーの中でもっとも長く愛され続けている作品の一つとなり、比較的小規模な現存作品数に比して不釣り合いなほど大きな演奏会場での存在感を彼に与えている。その早すぎる死は、ビゼーの場合と並んで、フランス・ロマン派音楽が完全に成熟する直前に重要な声を失った事例としてしばしば言及され、成熟した様式がどのような方向へ進んだかを研究者に推測させ続けている。作曲家であると同時に著名な芸術サロンの主催者でもあったその立場は、フランクのサークルと世紀末パリの象徴主義・印象主義的な芸術世界とを結ぶ結節点として記録されている。",
+      "en": "The *Poème* became one of the most enduringly popular works in the violin-and-orchestra repertoire, frequently performed and recorded, giving him a concert-hall presence disproportionate to his relatively small surviving output. His premature death is often cited, alongside Bizet's, as a case of French Romantic music losing a major voice just as it was reaching full maturity, leaving scholars to speculate about the trajectory his mature style might have taken. His role as both composer and prominent artistic host situates him as a documented node connecting Franck's circle to the broader Symbolist and Impressionist artistic world of fin-de-siècle Paris."
+    },
+    "keywords": {
+      "ja": [
+        "フランク派の半音階的和声",
+        "単一楽章の叙情的狂詩曲",
+        "早すぎる死という反復する主題"
+      ],
+      "en": [
+        "Chromatic harmony from Franck's circle",
+        "A lyrical single-movement rhapsody",
+        "The recurring theme of a life cut short"
       ]
     }
   },
@@ -602,6 +892,62 @@
         "Anticipating verismo",
         "Evoking Spanish exoticism",
         "From failed premiere to enduring masterpiece"
+      ]
+    }
+  },
+  "73": {
+    "biography": {
+      "ja": "北ドイツで屈指の名門とされたリューベックの聖マリア教会のオルガニストを務めた。「アーベントムジーク(夕べの音楽)」と呼ばれる演奏会シリーズを組織・拡充したことで知られ、これは音楽史上もっとも早い時期に定期開催された公開演奏会の一つとされる。\n若きヨハン・ゼバスティアン・バッハは、彼の演奏を聴き技法を学ぶため、アルンシュタットからリューベックまで数百キロの道のりを徒歩で旅したという逸話で知られる。当時の慣習では、後任者は前任者の娘と結婚することが期待されており、この慣習がバッハやヘンデルが後継者となることを思いとどまらせたとも伝えられている。",
+      "en": "He served as organist at the Marienkirche in Lübeck, one of the most prestigious organist posts in northern Germany. He is known for organising and expanding the *Abendmusik* ('evening music') concert series, among the earliest regularly scheduled public concert series in music history.\nThe young Johann Sebastian Bach famously walked several hundred kilometres from Arnstadt to Lübeck to hear him play and study his technique. Custom at the time held that a successor to the post would be expected to marry the incumbent's daughter to inherit the job — a custom said to have deterred both Bach and Handel from pursuing the succession."
+    },
+    "style": {
+      "ja": "北ドイツの伝統における即興的で技巧的なオルガン書法を特徴とし、輝かしいトッカータ風の部分と、より厳格な対位法的な部分とを交互に配置する自由で狂詩曲的な「幻想様式(スティルス・ファンタスティクス)」——北ドイツ・バロックのオルガン音楽の中核をなす、当時から名付けられた様式区分——によって特徴づけられる。複数の部分からなる大規模なオルガン用の前奏曲とフーガは、のちにバッハが最高度に完成させることになる形式を直接に先取りするものだった。「アーベントムジーク」のための声楽・カンタータ作品も数多く書いており、宗教的な声楽書法にオルガン音楽と同じ即興的な自由さを取り込んでいる。",
+      "en": "His virtuosic, improvisatory organ writing belongs to the North German tradition, characterised by the *stylus fantasticus* — a free, rhapsodic, sectional approach alternating brilliant toccata-like passages with stricter contrapuntal sections, a named stylistic category central to North German Baroque organ music. His large-scale, multi-sectional organ preludes and fugues directly modelled the form Bach would later bring to its fullest maturity. He also wrote a substantial body of vocal and cantata music for the Abendmusik concerts, bringing the same improvisatory freedom found in his organ music into sacred vocal writing."
+    },
+    "impact": {
+      "ja": "若きバッハが師と仰ぎ、巡礼のような旅をしてまで学びに行った直接の手本として、バッハ自身のオルガン・鍵盤様式へのもっとも重要な直接の先駆者の一人であり続けている。彼が組織・拡充した「アーベントムジーク」は、公開演奏会の歴史における重要な初期の制度として認められており、のちの世紀にはるかに広く発展することになる演奏会文化を先取りするものだった。彼が体現した「幻想様式」の伝統は、その後何世代にもわたって北ドイツのオルガン作曲に影響を残している。",
+      "en": "As Bach's acknowledged model and direct influence during a formative pilgrimage, he stands as one of the most important direct precursors to Bach's own organ and keyboard style, a well-documented and celebrated line of influence. The Abendmusik series he established or expanded is recognised as an important early institution in the history of the public concert, prefiguring the concert culture that would develop much more broadly in the centuries that followed. The stylus fantasticus tradition he exemplified remained influential in North German organ composition for generations."
+    },
+    "story": {
+      "ja": "1705年、当時20歳だったバッハは、雇い主から与えられたわずかな休暇を使い、アルンシュタットからリューベックまで数百キロの道のりを徒歩で旅して彼の演奏を聴きに行った。予定の休暇をはるかに超えて滞在したため、帰任後に雇い主から譴責を受けたと伝えられる。",
+      "en": "In 1705, the twenty-year-old Bach used what little leave his employer had granted him to walk several hundred kilometres from Arnstadt to Lübeck to hear him play. He reportedly stayed far longer than his approved leave allowed, and was reprimanded by his employer on his return."
+    },
+    "keywords": {
+      "ja": [
+        "幻想様式のオルガン書法",
+        "アーベントムジークの創設",
+        "バッハが徒歩で訪ねた師"
+      ],
+      "en": [
+        "Stylus fantasticus organ writing",
+        "Founding the Abendmusik series",
+        "The teacher Bach walked to visit"
+      ]
+    }
+  },
+  "75": {
+    "biography": {
+      "ja": "神経炎により手に障害を抱え、ピアノの技巧に限界があったことから、経済的な必要もあってトロンボーン奏者としてオーケストラ(オペラ管弦楽団を含む)で演奏する道に進んだのち、主に作曲家・教師としての地位を確立した。\nヒンドゥー教の哲学とサンスクリット語の文献に深い関心を寄せ、自ら声楽・合唱作品のためにサンスクリット語のテキストを翻訳できるまでに学んだ。友人であったヴォーン・ウィリアムズとは、何十年にもわたって互いの譜面を批評し合う関係を続けた。",
+      "en": "A nerve disorder in his hand limited his piano technique, and out of economic necessity he worked as a professional trombonist in orchestras, including opera orchestras, before establishing himself primarily as a composer and teacher.\nHe developed a deep interest in Hindu philosophy and Sanskrit texts, learning Sanskrit himself well enough to translate texts for his own vocal and choral works. He kept up a decades-long friendship with Vaughan Williams, the two critiquing each other's scores."
+    },
+    "style": {
+      "ja": "「惑星」は際立って個性的な組曲構成を体現しており、各楽章が天文学的な意味ではなく占星術的な性格を各惑星に結びつけて描き、「火星」の攻撃的で機械的なオスティナートから、「海王星」を締めくくる幽玄な舞台袖の無言の合唱まで、楽章ごとに大胆に対照的な管弦楽法とリズムの性格を用いている。ヒンドゥー教の文献とサンスクリット語の韻律について本格的に学んだ成果を声楽作品に直接取り込んでおり、同時代の作曲家に多く見られた一般化された「東洋趣味」的な異国情緒とは一線を画す。全体として、豊麗な和声の密度よりも、明快で鋭い管弦楽法とリズムの推進力を好んだ。",
+      "en": "*The Planets* exemplifies a highly individual orchestral suite structure, with each movement depicting the astrological — not astronomical — character associated with a planet, using boldly contrasting orchestration and rhythmic character from movement to movement, from the aggressive, mechanistic ostinato of 'Mars' to the ethereal, wordless offstage chorus that closes 'Neptune'. He incorporated genuine study of Hindu texts and Sanskrit prosody directly into his vocal works, distinct from the more generalised 'Orientalist' exoticism common among his contemporaries. He generally favoured clear, incisive orchestration and rhythmic drive over lush harmonic density."
+    },
+    "impact": {
+      "ja": "「惑星」は20世紀でもっとも人気が高く頻繁に演奏される管弦楽曲の一つとなり、その性格描写に富んだ鮮やかな管弦楽法は、とりわけSFやファンタジー映画の音楽への直接的な影響としてしばしば指摘され、後年のハリウッド映画音楽の系譜にしばしば結びつけられている。ヒンドゥー教文献への文献学的な裏づけを伴う本格的な取り組みは、より表面的な音楽的異国趣味とは一線を画す、真摯な異文化への学術的関与の記録された事例であり、このデータセットに繰り返し現れる「異国趣味」的な音楽の借用という主題に、評価の上でのニュアンスを加えている。",
+      "en": "*The Planets* became one of the most popular and frequently performed orchestral works of the twentieth century, and its vivid, character-driven orchestration is widely cited as a direct influence on later film scoring, particularly science fiction and fantasy genre music, a lineage commonly noted by film music scholars in relation to later Hollywood scores. His serious, philologically grounded engagement with Hindu texts stands as a documented example of genuine cross-cultural scholarly engagement distinct from more superficial musical exoticism, adding nuance to how this collection's recurring theme of 'exotic' musical borrowing can be evaluated."
+    },
+    "keywords": {
+      "ja": [
+        "性格描写に富む組曲構成",
+        "サンスクリット語への本格的な関心",
+        "映画音楽への系譜"
+      ],
+      "en": [
+        "Character-driven suite structure",
+        "Serious engagement with Sanskrit",
+        "A lineage into film scoring"
       ]
     }
   },

@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "神経炎により手に障害を抱え、ピアノの技巧に限界があったことから、経済的な必要もあってトロンボーン奏者としてオーケストラ(オペラ管弦楽団を含む)で演奏する道に進んだのち、主に作曲家・教師としての地位を確立した。\nヒンドゥー教の哲学とサンスクリット語の文献に深い関心を寄せ、自ら声楽・合唱作品のためにサンスクリット語のテキストを翻訳できるまでに学んだ。友人であったヴォーン・ウィリアムズとは、何十年にもわたって互いの譜面を批評し合う関係を続けた。",
+    "en": "A nerve disorder in his hand limited his piano technique, and out of economic necessity he worked as a professional trombonist in orchestras, including opera orchestras, before establishing himself primarily as a composer and teacher.\nHe developed a deep interest in Hindu philosophy and Sanskrit texts, learning Sanskrit himself well enough to translate texts for his own vocal and choral works. He kept up a decades-long friendship with Vaughan Williams, the two critiquing each other's scores."
+  },
+  "style": {
+    "ja": "「惑星」は際立って個性的な組曲構成を体現しており、各楽章が天文学的な意味ではなく占星術的な性格を各惑星に結びつけて描き、「火星」の攻撃的で機械的なオスティナートから、「海王星」を締めくくる幽玄な舞台袖の無言の合唱まで、楽章ごとに大胆に対照的な管弦楽法とリズムの性格を用いている。ヒンドゥー教の文献とサンスクリット語の韻律について本格的に学んだ成果を声楽作品に直接取り込んでおり、同時代の作曲家に多く見られた一般化された「東洋趣味」的な異国情緒とは一線を画す。全体として、豊麗な和声の密度よりも、明快で鋭い管弦楽法とリズムの推進力を好んだ。",
+    "en": "*The Planets* exemplifies a highly individual orchestral suite structure, with each movement depicting the astrological — not astronomical — character associated with a planet, using boldly contrasting orchestration and rhythmic character from movement to movement, from the aggressive, mechanistic ostinato of 'Mars' to the ethereal, wordless offstage chorus that closes 'Neptune'. He incorporated genuine study of Hindu texts and Sanskrit prosody directly into his vocal works, distinct from the more generalised 'Orientalist' exoticism common among his contemporaries. He generally favoured clear, incisive orchestration and rhythmic drive over lush harmonic density."
+  },
+  "impact": {
+    "ja": "「惑星」は20世紀でもっとも人気が高く頻繁に演奏される管弦楽曲の一つとなり、その性格描写に富んだ鮮やかな管弦楽法は、とりわけSFやファンタジー映画の音楽への直接的な影響としてしばしば指摘され、後年のハリウッド映画音楽の系譜にしばしば結びつけられている。ヒンドゥー教文献への文献学的な裏づけを伴う本格的な取り組みは、より表面的な音楽的異国趣味とは一線を画す、真摯な異文化への学術的関与の記録された事例であり、このデータセットに繰り返し現れる「異国趣味」的な音楽の借用という主題に、評価の上でのニュアンスを加えている。",
+    "en": "*The Planets* became one of the most popular and frequently performed orchestral works of the twentieth century, and its vivid, character-driven orchestration is widely cited as a direct influence on later film scoring, particularly science fiction and fantasy genre music, a lineage commonly noted by film music scholars in relation to later Hollywood scores. His serious, philologically grounded engagement with Hindu texts stands as a documented example of genuine cross-cultural scholarly engagement distinct from more superficial musical exoticism, adding nuance to how this collection's recurring theme of 'exotic' musical borrowing can be evaluated."
+  },
+  "keywords": {
+    "ja": [
+      "性格描写に富む組曲構成",
+      "サンスクリット語への本格的な関心",
+      "映画音楽への系譜"
+    ],
+    "en": [
+      "Character-driven suite structure",
+      "Serious engagement with Sanskrit",
+      "A lineage into film scoring"
+    ]
+  }
+}
