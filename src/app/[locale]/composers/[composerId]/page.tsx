@@ -56,6 +56,9 @@ export default async function ComposerPage(
   const editorial = getComposerEditorial(composerId);
   const credit = getPortraitCredit(composerId);
   const coreWorks = getCoreWorksByComposer(composerId);
+  // `coreWorks` is already popular-then-recommended (see build-catalog.ts),
+  // so the first few are a reasonable "start here" pick with no extra data.
+  const startHereWorks = coreWorks.slice(0, 3);
 
   const name = locale === "ja" ? composer.nameJa : composer.completeName;
   const lifespan =
@@ -116,32 +119,92 @@ export default async function ComposerPage(
         </div>
       </header>
 
-      <section className="mt-9">
-        <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-          {messages.composer.biographyHeading}
-        </h2>
-        {editorial?.biography ? (
-          <div className="space-y-5">
+      {(editorial?.style || editorial?.keywords) && (
+        <section className="mt-9 rounded-xl border border-accent/40 bg-accent-soft/40 p-5 sm:p-6">
+          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+            {messages.composer.styleHeading}
+          </h2>
+          {editorial.keywords && (
+            <ul className="mb-3 flex flex-wrap gap-1.5">
+              {editorial.keywords[locale].map((word) => (
+                <li
+                  key={word}
+                  className="rounded-full bg-accent-fill px-2.5 py-1 text-xs font-medium text-accent-ink"
+                >
+                  {word}
+                </li>
+              ))}
+            </ul>
+          )}
+          {editorial.style && (
             <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-              {editorial.biography[locale]}
+              {editorial.style[locale]}
             </p>
-            {editorial.story && (
-              <div>
-                <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
-                  {messages.composer.storyHeading}
-                </h3>
-                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                  {editorial.story[locale]}
-                </p>
-              </div>
-            )}
-          </div>
-        ) : (
+          )}
+          {startHereWorks.length > 0 && (
+            <div className="mt-4 flex flex-wrap items-center gap-2">
+              <span className="text-xs font-medium uppercase tracking-wide text-ink-faint">
+                {messages.composer.startHere}
+              </span>
+              {startHereWorks.map((work) => (
+                <Link
+                  key={work.id}
+                  href={`/${locale}/works/${work.id}`}
+                  className="rounded-full border border-accent/50 bg-paper px-3 py-1 text-sm text-accent hover:bg-accent-soft"
+                >
+                  {locale === "ja" ? work.titleJa : work.title}
+                </Link>
+              ))}
+            </div>
+          )}
+        </section>
+      )}
+
+      {editorial ? (
+        <>
+          {editorial.biography && (
+            <section className="mt-9">
+              <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+                {messages.composer.biographyHeading}
+              </h2>
+              <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                {editorial.biography[locale]}
+              </p>
+            </section>
+          )}
+
+          {editorial.impact && (
+            <section className="mt-9">
+              <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+                {messages.composer.impactHeading}
+              </h2>
+              <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                {editorial.impact[locale]}
+              </p>
+            </section>
+          )}
+
+          {editorial.story && (
+            <section className="mt-9">
+              <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+                {messages.composer.storyHeading}
+              </h2>
+              <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                {editorial.story[locale]}
+              </p>
+            </section>
+          )}
+        </>
+      ) : (
+        <section className="mt-9">
+          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+            {messages.composer.biographyHeading}
+          </h2>
           <p className="rounded-lg border border-dashed border-line p-5 text-sm text-ink-faint">
             {messages.composer.biographyMissing}
           </p>
-        )}
-      </section>
+        </section>
+      )}
 
       {coreWorks.length > 0 && (
         <section className="mt-12">

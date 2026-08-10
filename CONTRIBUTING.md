@@ -2,9 +2,9 @@
 
 主な作業は、機械的に生成できないコンテンツを書き足すことです。追加後は `npm run seed:catalog` を実行して配信用 JSON を作り直してください。
 
-## 解説文を書く（`data/editorial/`）
+## 楽曲の解説文を書く（`data/editorial/works.json`）
 
-`works.json` は Open Opus の楽曲 ID、`composers.json` は作曲家 ID をキーにします。日英の両方を必ず書いてください。片方だけだともう一方の言語で空欄になります。
+Open Opus の楽曲 ID をキーにします。日英の両方を必ず書いてください。片方だけだともう一方の言語で空欄になります。
 
 ```json
 {
@@ -25,6 +25,55 @@
 Wikipedia は CC BY-SA です。文章をそのまま使うと、帰属表示とシェアアライクの義務がページ全体に及びます。**生没年・作曲年・初演日・献呈先といった事実は著作権の対象ではない**ので参照して構いませんが、文章表現は必ず自分の言葉で書いてください。
 
 不確かな事柄は断定を避けてください（「〜と伝えられる」「〜という説がある」）。既存の解説の多くは伝説を事実として繰り返しています。
+
+## 作曲家の解説文を書く（`data/editorial/composers/<id>.json`）
+
+作曲家1名につき1ファイル（例: `data/editorial/composers/145.json`）に書きます。編集後は必ず `npm run build:editorial` を実行してください — アプリが実際に読み込む `data/editorial/composers.json` はこのコマンドで組み立てられる成果物で、手で直接編集するものではありません。
+
+```json
+{
+  "biography": { "ja": "…", "en": "…" },
+  "style":     { "ja": "…", "en": "…" },
+  "impact":    { "ja": "…", "en": "…" },
+  "story":     { "ja": "…", "en": "…" },
+  "keywords":  { "ja": ["対位法", "宗教音楽"], "en": ["Counterpoint", "Sacred music"] }
+}
+```
+
+- `biography` … 生涯
+- `style` … 音楽の特徴。作曲家ページでは他のセクションより上、キーワードと「まずはこの曲から」の直後に表示される
+- `impact` … 音楽史へのインパクト。何が変わったか
+- `story` … エピソード
+- `keywords` … 作風を表す3〜5個の短いタグ。多すぎるとチップが折り返して見苦しいので5個まで
+
+全フィールド省略可能ですが、書く場合は日英両方が必須です（`npm run build:editorial` が検証し、片方欠けていればエラーで止まります）。
+
+### Wikipedia を書き写さないこと（楽曲の解説と同じ理由）
+
+入力は Wikidata の構造化データ（CC0、下記のファクトシート）に限定してください。Wikipedia の文章を読んで言い回しを借りるだけでも CC BY-SA の義務が生じます。
+
+### ファクトシートを使う
+
+`npm run seed:composer-facts` が Wikidata から生没地・師弟関係・代表作・楽派・受賞歴などを取得し、`data/raw/composer-facts.json` に保存します（CC0 なのでコミットして構いません）。1回実行すれば220名分揃うので、通常は再実行不要です。解説はここに載っている事実をもとに、自分の言葉で書いてください。
+
+材料が薄い作曲家（`hasEnoughFacts` 基準で3カテゴリ未満）は無理に埋めず、既存の「準備中です」表示のままにしてください。
+
+### コミット前に機械チェックを通す
+
+```bash
+npx tsx scripts/seed/build-editorial.ts     # スキーマと日英対の検証
+npm run check:composer-editorial -- 145     # 年号とWikipedia類似度のチェック（対象IDを指定）
+npm run check:composer-editorial -- --all   # 全件チェック
+```
+
+`check:composer-editorial` は実行のたびに Wikipedia の記事を取得しますが、**取得したテキストは比較にのみ使い、保存も出力もしません**。落ちるのは主に次の2パターンです。
+
+- 生没年の範囲にもファクトシートにも無い年号を書いた（誤った年号を書いた可能性が高い）
+- 一文がまるごとWikipediaと一致するほど言い回しが近い（`src/lib/editorial-guard.ts` の `SIMILARITY_LIMITS`）
+
+### 進捗の管理（`data/editorial/ledger.json`）
+
+220名を一度に書くのは非現実的なので、優先度でフェーズ分けした進捗表です。作曲家 ID ごとに `phase`（1〜4、数字が小さいほど優先）と `status` を持ちます。1名分書き終えたら該当エントリの `status` を更新してください。本文そのものはここには置きません。
 
 ## 日本語タイトルを追加する（`data/ja/title-overrides.json`）
 
