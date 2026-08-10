@@ -82,7 +82,7 @@
   "17": {
     "name": "Iannis Xenakis",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "18": {
     "name": "Alexander Scriabin",
@@ -122,7 +122,7 @@
   "25": {
     "name": "Alexander von Zemlinsky",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "26": {
     "name": "György Ligeti",
@@ -192,12 +192,12 @@
   "39": {
     "name": "Claudio Monteverdi",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "40": {
     "name": "Astor Piazzolla",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "41": {
     "name": "Charles-Marie Widor",
@@ -292,7 +292,7 @@
   "59": {
     "name": "Edouard Lalo",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "60": {
     "name": "Gioachino Rossini",
@@ -312,7 +312,7 @@
   "63": {
     "name": "Dmitry Kabalevsky",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "64": {
     "name": "Francisco Mignone",
@@ -357,7 +357,7 @@
   "72": {
     "name": "Max Reger",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "73": {
     "name": "Dietrich Buxtehude",
@@ -402,12 +402,12 @@
   "81": {
     "name": "Michael Daugherty",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "82": {
     "name": "Guillaume Dufay",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "83": {
     "name": "Georg Philipp Telemann",
@@ -422,7 +422,7 @@
   "85": {
     "name": "Reinhold Glière",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "86": {
     "name": "William Byrd",
@@ -437,12 +437,12 @@
   "88": {
     "name": "Orlande de Lassus",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "89": {
     "name": "Gaetano Donizetti",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "90": {
     "name": "Wolfgang Rihm",

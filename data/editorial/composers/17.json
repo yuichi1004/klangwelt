@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ルーマニアで生まれギリシャで育ち、後半生をフランスで過ごした。工科大学で土木工学を修め、建築家ル・コルビュジエの事務所で長年働きながら独学で作曲を学んだという、作曲家としては異例の経歴を持つ。数学的な確率過程を音の配置に応用する「確率音楽」を切り拓き、建築設計で培った幾何学的思考を音響構造に転用した。",
+    "en": "Born in Romania and raised in Greece, he spent the latter half of his life in France. Unusually for a composer, he trained as a civil engineer and worked for years in the office of the architect Le Corbusier while teaching himself composition. He pioneered a form of \"stochastic music\" that applied probability mathematics to the placement of sound, carrying the geometric thinking of his architectural work directly into musical structure."
+  },
+  "style": {
+    "ja": "個々の音を旋律や和声の単位としてではなく、雲のように群をなす音響の塊(音群)として扱い、その密度や分布を確率計算やコンピュータープログラムで制御した。建築の設計図を音楽に変換する試みも行っており、代表作の一つは自身が設計に関わったパビリオンの構想と直接結びついている。電子音楽にも早くから取り組み、テープと生演奏を組み合わせる手法も追求した。",
+    "en": "He treated individual notes not as units of melody or harmony but as swarms of sound, clouds whose density and distribution he controlled through probability calculations and, later, computer programs. He also experimented with translating architectural blueprints directly into music, and one of his best-known works grew directly out of a pavilion design he worked on. He engaged early with electronic music and explored combining tape with live performance."
+  },
+  "impact": {
+    "ja": "作曲を建築・数学と直結させたその方法は、リゲティが探求した音響そのものの質感を扱う作曲とは別の道筋から、20世紀後半の音響を主題とする音楽に到達しており、両者はしばしば並べて論じられる。教育者としても後進に影響を与え、教え子の一人は後年ロックバンドの創設メンバーとなるなど、前衛音楽の外側にまで影響が及んだ異色の存在でもある。",
+    "en": "By fusing composition directly with architecture and mathematics, he arrived at a music centered on sound-mass and texture from a different direction than Ligeti's exploration of sonic texture itself, and the two are often discussed together. As a teacher he shaped younger musicians, and one of his students went on to become a founding member of a rock band, a reach beyond the avant-garde unusual for a composer of his generation."
+  },
+  "keywords": {
+    "ja": [
+      "確率音楽と建築的思考",
+      "音群による音響作曲",
+      "工学出身の異色の経歴"
+    ],
+    "en": [
+      "Stochastic music and architectural thinking",
+      "Sound-mass composition",
+      "Unusual path from engineering"
+    ]
+  }
+}

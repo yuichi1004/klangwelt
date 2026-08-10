@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "北イタリアのクレモナで生まれ、マントヴァ公の宮廷楽長を経て晩年はヴェネツィアのサン・マルコ大聖堂の楽長を務めた。妻の死後にカトリック司祭となったが、作曲活動を続けた。ルネサンス音楽の対位法の技法を極めつつ、それを打ち破る新しい書法を自ら「第二作法」と名付けて擁護し、旧来の様式を守ろうとした批評家との論争を巻き起こした。",
+    "en": "Born in Cremona in northern Italy, he served as court composer at Mantua before spending his final decades as maestro di cappella at St Mark's Basilica in Venice. After his wife's death he became a Catholic priest while continuing to compose. Having mastered the contrapuntal techniques of Renaissance polyphony, he defended a new manner of writing that broke from it, naming it himself the \"seconda pratica,\" and touched off a public dispute with critics who wanted to preserve the older style."
+  },
+  "style": {
+    "ja": "初期の作品はパレストリーナ以来の厳格なポリフォニーの延長線上にあるが、後年は歌詞の感情表現を優先し、不協和音を規則を無視してでも大胆に用いる語法へ踏み出した。現存する最初期のオペラの一つを手がけ、単旋律の朗唱(モノディー)と管弦楽的な伴奏を組み合わせる劇音楽の枠組みを確立し、ルネサンスからバロックへの転換を体現する作曲家となった。",
+    "en": "His early works extend the strict polyphony inherited from composers like Palestrina, but in later years he gave priority to expressing the emotional content of a text, boldly using dissonance in ways that broke the old rules. He composed one of the earliest surviving operas and established a framework combining monodic recitative with orchestral accompaniment, embodying in his own output the turn from Renaissance to Baroque."
+  },
+  "impact": {
+    "ja": "オペラという形式そのものを芸術的に確立した最初期の人物として、後のバロック・オペラの土台を築いた。その系譜は一世代を隔てて英国でオペラを開拓したパーセルにまで及ぶ流れとして語られることが多く、「セコンダ・プラティカ」の主張は、和声よりも歌詞の表現を優先する立場として、後世繰り返し参照される作曲美学上の論点となった。",
+    "en": "As one of the very first figures to establish opera as a serious art form, he laid the groundwork for Baroque opera as a whole, and his lineage is often traced forward to Purcell, who pioneered opera in England a generation later. His argument for the \"seconda pratica\" — prioritizing textual expression over harmonic rule — became a recurring reference point in later debates over compositional aesthetics."
+  },
+  "keywords": {
+    "ja": [
+      "セコンダ・プラティカの提唱",
+      "現存最初期のオペラ",
+      "ルネサンスからバロックへの転換"
+    ],
+    "en": [
+      "Advocate of the seconda pratica",
+      "Among the earliest surviving operas",
+      "Bridge from Renaissance to Baroque"
+    ]
+  }
+}
