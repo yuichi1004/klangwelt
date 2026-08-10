@@ -6046,27 +6046,46 @@
  },
  {
   "composerId": "149",
-  "wikidataId": "Q11806",
-  "birthPlace": "Braintree",
-  "deathPlace": "Quincy",
+  "wikidataId": "Q84114",
+  "birthPlace": "Worcester",
   "teachers": [],
   "students": [],
-  "notableWorks": [],
+  "notableWorks": [
+   "Nixon in China",
+   "Doctor Atomic Symphony",
+   "Guide to Strange Places",
+   "Harmonielehre"
+  ],
   "movements": [],
-  "instruments": [],
+  "instruments": [
+   "clarinet"
+  ],
   "occupations": [
-   "lawyer",
-   "politician",
-   "diplomat",
-   "political philosopher",
-   "statesperson",
-   "writer"
+   "conductor",
+   "composer",
+   "autobiographer",
+   "librettist",
+   "music arranger",
+   "musician"
   ],
   "awards": [
-   "Fellow of the American Academy of Arts and Sciences"
+   "Rome Prize",
+   "Harvard Centennial Medal",
+   "Pulitzer Prize for Music",
+   "Grawemeyer Awards",
+   "Fellow of the American Academy of Arts and Sciences",
+   "Erasmus Prize"
   ],
-  "employers": [],
-  "genres": [],
+  "employers": [
+   "San Francisco Conservatory of Music",
+   "Royal Academy of Music",
+   "Carnegie Hall"
+  ],
+  "genres": [
+   "opera",
+   "minimalist music",
+   "classical music"
+  ],
   "extraYears": []
  },
  {

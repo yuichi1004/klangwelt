@@ -17,7 +17,7 @@
   "4": {
     "name": "Wilhelm Stenhammar",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "5": {
     "name": "Arvo Pärt",
@@ -27,7 +27,7 @@
   "6": {
     "name": "Anton Webern",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "7": {
     "name": "Erich Wolfgang Korngold",
@@ -337,7 +337,7 @@
   "68": {
     "name": "Georges Bizet",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "69": {
     "name": "Pietro Mascagni",
@@ -412,7 +412,7 @@
   "83": {
     "name": "Georg Philipp Telemann",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "84": {
     "name": "Ferruccio Busoni",
@@ -497,7 +497,7 @@
   "100": {
     "name": "Einojuhani Rautavaara",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "101": {
     "name": "Karlheinz Stockhausen",
@@ -587,7 +587,7 @@
   "118": {
     "name": "Nikolai Rimsky-Korsakov",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "119": {
     "name": "Fernando Lopes-Graça",
@@ -742,8 +742,7 @@
   "149": {
     "name": "John Adams",
     "phase": 3,
-    "status": "pending",
-    "note": "Wikidata fact sheet for this ID resolved to the wrong entity (US President John Adams, not the composer) — birthPlace/deathPlace/occupations are contaminated. Needs a corrected fact sheet (e.g. by QID) before writing."
+    "status": "done"
   },
   "150": {
     "name": "Olivier Messiaen",
@@ -768,7 +767,7 @@
   "154": {
     "name": "Paul Hindemith",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "155": {
     "name": "Hans Werner Henze",
@@ -838,7 +837,7 @@
   "168": {
     "name": "Carl Maria von Weber",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "169": {
     "name": "Benjamin Britten",
@@ -878,7 +877,7 @@
   "176": {
     "name": "Steve Reich",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "177": {
     "name": "Benedetto Marcello",
@@ -1048,7 +1047,7 @@
   "210": {
     "name": "Alban Berg",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "211": {
     "name": "Bedrich Smetana",
