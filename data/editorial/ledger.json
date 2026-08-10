@@ -22,7 +22,7 @@
   "5": {
     "name": "Arvo Pärt",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "6": {
     "name": "Anton Webern",
@@ -42,7 +42,7 @@
   "9": {
     "name": "Marc-Antoine Charpentier",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "10": {
     "name": "Jean-Baptiste Lully",
@@ -612,12 +612,12 @@
   "123": {
     "name": "Emmanuel Chabrier",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "124": {
     "name": "Jules Massenet",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "125": {
     "name": "Béla Bartók",
@@ -697,7 +697,7 @@
   "140": {
     "name": "Albert Roussel",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "141": {
     "name": "Eugene Ysaÿe",
@@ -717,7 +717,7 @@
   "144": {
     "name": "John Corigliano",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "145": {
     "name": "Ludwig van Beethoven",
@@ -737,7 +737,7 @@
   "148": {
     "name": "Scott Joplin",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "149": {
     "name": "John Adams",
@@ -762,7 +762,7 @@
   "153": {
     "name": "Joly Braga Santos",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "154": {
     "name": "Paul Hindemith",
@@ -867,7 +867,7 @@
   "174": {
     "name": "Carlos Chávez",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "175": {
     "name": "Hector Berlioz",
@@ -902,7 +902,7 @@
   "181": {
     "name": "Modest Mussorgsky",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "182": {
     "name": "Jan Pieterszoon Sweelinck",
@@ -992,7 +992,7 @@
   "199": {
     "name": "Henry Purcell",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "200": {
     "name": "Arthur Honegger",
@@ -1012,7 +1012,7 @@
   "203": {
     "name": "Krzysztof Penderecki",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "204": {
     "name": "Marin Marais",
