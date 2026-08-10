@@ -1,0 +1,30 @@
+{
+  "biography": {
+    "ja": "実験好きなバンドマスターだった父ジョージから、幼いころに二つの調を同時に演奏したり、一つの旋律を別の調の伴奏に乗せて歌ったりする型破りな訓練を受けた。この経験が、のちの作風の土台になっている。\n保険業でも成功を収め、共同創業した保険代理店は業界で高い評価を得た。作曲は主に余暇に行っており、もっとも実験的な作品の多くは、書かれてから何十年も経ってようやく初演されるか、生前には演奏の機会すら得られなかった。",
+    "en": "As a boy, he was trained by his father George, an experimentally minded bandmaster, in unconventional exercises like playing in two keys at once or singing a tune against an accompaniment in a different key — an experience that underlies his mature style.\nHe also built a successful career in insurance, co-founding an agency that was highly regarded in the industry. He composed mostly in his spare time, and many of his most experimental works were not performed until decades after he wrote them, some not until after his death."
+  },
+  "style": {
+    "ja": "複数の独立した楽想——異なる調、異なる旋律、異なるリズム——を同時に重ね合わせる「多調性」やコラージュ的な手法を用い、複数の行進楽隊がすれ違いながら別々の曲を演奏する子ども時代の記憶のような、アメリカの日常の重層的で騒然とした体験を音楽に描き出した。讃美歌や愛国歌、ラグタイムといったアメリカの大衆的な旋律を作品に頻繁に引用したが、なめらかに統合するのではなく、継ぎ目をあえて残したまま並置することを好んだ。不協和音の密集や複合リズム、四分音といった技法を、ヨーロッパの作曲家たちが同様の手法にたどり着くよりも数十年早く独自に用いている。",
+    "en": "Using polytonality and collage — layering several independent musical ideas at once, different keys, tunes and rhythms happening simultaneously — he depicted the layered, chaotic texture of everyday American experience, as in a childhood memory of two marching bands passing each other playing different tunes at once. He frequently quoted American vernacular material — hymn tunes, patriotic songs, ragtime — but preferred to juxtapose it with the seams left visible rather than blend it smoothly. He used dense dissonance, polyrhythm and quarter-tones independently, decades before European composers arrived at comparable techniques."
+  },
+  "impact": {
+    "ja": "多調性や音の房(トーン・クラスター)、偶然性の要素など、ヨーロッパのモダニズムが独自に到達するより何年も早く用いていた技法の数々により、のちに20世紀前半でもっとも先駆的な作曲家の一人として再評価された。彼の経歴は、革新的な発想がほぼ完全に無名のまま埋もれ、何十年も経って再発見されるまで音楽史の主流に影響を及ぼせなかったという、際立った事例として音楽史学でしばしば取り上げられる。保険業を本業としながら余暇に作曲を続けたその生き方は、本格的な作曲活動には専業の音楽家であることが必要だという前提に対する異例の反例であり、アメリカ文化史における「アウトサイダーの天才」をめぐる議論でたびたび引き合いに出される。",
+    "en": "Because he had used techniques — polytonality, tone clusters, aleatoric elements — years before European modernists arrived at them independently, he was later recognised as one of the most prescient composers of the early twentieth century. His career is often cited in music historiography as a striking case of innovation lying almost completely unknown, unable to influence the mainstream of music history until it was rediscovered decades later. Working full-time in insurance while composing on the side, he stands as an unusual counter-example to the assumption that serious composition requires a dedicated musical career, and his case is frequently invoked in discussions of 'outsider' genius in American cultural history."
+  },
+  "story": {
+    "ja": "交響曲第3番で、作曲からおよそ40年後にピュリッツァー賞を受賞した際、賞金の半分を他の作曲家に分け与えたと伝えられる。その理由として、賞というものは若者のためのものであり、自分はすでに十分に年老いていると語ったとされる。",
+    "en": "When he won the Pulitzer Prize for Music for his Third Symphony, roughly forty years after writing it, he is said to have given away half the prize money to other composers, explaining that prizes were for the young and that he was, by then, old enough not to need one."
+  },
+  "keywords": {
+    "ja": [
+      "多調性とコラージュ",
+      "アメリカ大衆音楽の引用",
+      "先駆性と埋もれた評価"
+    ],
+    "en": [
+      "Polytonality and collage",
+      "Quoting American vernacular music",
+      "Prescience lost to obscurity"
+    ]
+  }
+}

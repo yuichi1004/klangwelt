@@ -1,0 +1,30 @@
+{
+  "biography": {
+    "ja": "敬虔なカトリック信者で、その信仰はほとんどすべての作品の中心にある。第二次世界大戦中はフランス軍の捕虜となり、収容所で入手できた楽器編成に合わせて「世の終わりのための四重奏曲」を作曲し、収容所内で初演した。\n戦後はパリ音楽院で教え、多くの重要な戦後世代の作曲家を育てた。生涯を通じて世界各地で野鳥の鳴き声を採譜する活動を続け、その精緻な採譜を主要な旋律素材として作品に取り込んでいる。",
+    "en": "A devout Catholic, his faith sits at the centre of nearly everything he wrote. Taken prisoner by the Germans during the Second World War, he composed the *Quatuor pour la fin du temps* for whatever instruments were available among his fellow prisoners and gave its premiere inside the camp.\nAfter the war he taught at the Paris Conservatoire, training a generation of major postwar composers. Throughout his life he transcribed birdsong in the wild all over the world, and worked these precise transcriptions into his scores as primary melodic material."
+  },
+  "style": {
+    "ja": "野鳥の鳴き声を科学的な精度で採譜し、単なる情緒的な模倣ではなく、他の主題と同格の作曲素材として作品に組み込んだ。限られた回数しか移調できない対称的な音階「移調の限られた旋法」という独自の理論を編み出し、通常の長短調や教会旋法とは異なる響きの基盤とした。多くの主要作品には熱烈な宗教的な内容が明示的に添えられ、和音を聴くと色彩を感じるという自身の証言とも結びついた、きわめて鮮やかで陶酔的な和声を特徴とする。",
+    "en": "He transcribed birdsong with scientific precision and worked it into his music not as evocative imitation but as compositional material on equal footing with any other theme. He developed his own theory of 'modes of limited transposition' — symmetrical scales that can only be transposed a limited number of times before repeating — as a harmonic foundation distinct from ordinary major-minor tonality or church modes. Many of his major works carry an explicit, ecstatic religious programme, marked by a vivid, intoxicating harmony that he himself connected to his testimony of perceiving colour when he heard certain chords."
+  },
+  "impact": {
+    "ja": "パリ音楽院の指導的な教師として、戦後ヨーロッパの前衛を担う世代の作曲家たちを直接育て、彼自身とはまったく異なる方向に進んだ弟子たちにも、リズムと音組織に関する厳密な分析的思考を伝えた。彼が体系的に行った野鳥の鳴き声の採譜は、音楽学と鳥類学の双方から、自然科学と音楽を橋渡しする本格的な仕事として評価されている。「世の終わりのための四重奏曲」の成立の経緯は、過酷な状況のもとで生み出された芸術のもっとも力強い記録の一つとして、純粋に音楽的な価値を超えた文化的な重みを持っている。",
+    "en": "As an influential teacher at the Paris Conservatoire, he directly shaped the generation of composers who would define the postwar European avant-garde, passing on rigorous analytical thinking about rhythm and pitch organisation even to students who developed in directions very different from his own. His systematic transcriptions of birdsong are recognised by musicologists and ornithologists alike as a serious body of work bridging music and natural science. The story behind the *Quatuor pour la fin du temps* has made it one of the most powerful documented examples of art created under conditions of extreme hardship, giving it a cultural weight beyond its purely musical qualities."
+  },
+  "story": {
+    "ja": "1941年、ドイツ軍の捕虜収容所で「世の終わりのための四重奏曲」を書き上げた。編成はクラリネット、ヴァイオリン、チェロ、ピアノという、たまたま収容所内にいた演奏者と入手できた楽器によって定められたものだった。初演は雪の降る屋外で、故障したピアノと弦の張り替えられたチェロを用い、収容されていた仲間や看守を前に行われたと伝えられる。",
+    "en": "In 1941, in a German prisoner-of-war camp, he completed the *Quatuor pour la fin du temps*. Its scoring — clarinet, violin, cello and piano — was fixed by whichever musicians and instruments happened to be available in the camp. The premiere is said to have taken place outdoors in the snow, on a broken-down piano and a cello restrung as best it could be, before an audience of fellow prisoners and guards."
+  },
+  "keywords": {
+    "ja": [
+      "鳥の声の採譜",
+      "移調の限られた旋法",
+      "宗教的法悦の和声"
+    ],
+    "en": [
+      "Birdsong transcription",
+      "Modes of limited transposition",
+      "Ecstatic religious harmony"
+    ]
+  }
+}

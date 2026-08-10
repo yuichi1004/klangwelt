@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ベルギーに生まれ、幼少期には父親の強い意向でピアノの神童として舞台に立たされた。パリに移ってからは長年サント・クロチルド教会のオルガニストを務め、即興演奏の名手として名声を得た。\n作曲家としての本格的な評価を得たのは60代に入ってからで、代表作とされる交響曲ニ短調の初演でさえ当初は賛否の割れる評価だった。晩年は多くの若い弟子たちに慕われる存在となったが、路上で乗合馬車にはねられた事故がもとで急死している。",
+    "en": "Born in Belgium, he was pushed onto the concert stage as a child prodigy pianist by his father. After moving to Paris he spent decades as organist of the church of Sainte-Clotilde, gaining fame as a master improviser.\nHe was not recognised as a serious composer until his sixties, and even the premiere of the Symphony in D minor, now considered his masterpiece, was met with a divided reception at the time. In his final years he became a beloved mentor to a circle of devoted younger students, but died suddenly after being struck by a horse-drawn omnibus in the street."
+  },
+  "style": {
+    "ja": "ある楽章で提示した主題を姿を変えながら後の楽章に再登場させ、複数の楽章を通じて全体を統一する「循環形式」の手法を追求し、多くの弟子たちにこの技法を伝えた。オルガニストとしての経験を反映し、鍵盤楽器以外の作品でも、持続音を多用した密度の高い半音階的な和声を書いている。敬虔な信仰心に裏打ちされた、同時代のフランス・オペラの劇場的な作風とは一線を画す、内省的で神秘的な作風を持つ。",
+    "en": "He pursued cyclic form, bringing back a theme introduced in an early movement, transformed, in later movements to unify a multi-movement work — a technique he passed on to many of his students. His background as an organist shaped a dense, chromatic harmony built on sustained tones, carried through even into works for other instruments. A deeply devout character underlies a searching, often mystical quality distinct from the theatrical French operatic tradition around him."
+  },
+  "impact": {
+    "ja": "彼が追求した循環形式は、弟子であるダンディやショーソン、デュパルクらを通じて次の世代のフランス音楽における重要な構成原理となり、19世紀末から20世紀初頭のフランス器楽曲全体の方向性を形づくった。生前ではなく主に没後、弟子たちの尽力によって高い評価を確立したことは、オペラが主流だったフランスにおいて、構成上厳密な器楽曲の伝統を切り開き、後続の作曲家たちに活動の場を用意することにつながった。",
+    "en": "The cyclic form he championed became, through his students d'Indy, Chausson and Duparc, a defining structural approach for the following generation of French music, shaping the direction of French instrumental music from the late nineteenth into the early twentieth century. His recognition as a major composer, established mostly after his death through his students' advocacy, opened a space for a tradition of structurally rigorous instrumental music in a France where opera had long dominated, clearing ground for the instrumental composers who followed."
+  },
+  "keywords": {
+    "ja": [
+      "循環形式",
+      "オルガン由来の半音階的和声",
+      "遅れて確立した評価"
+    ],
+    "en": [
+      "Cyclic form",
+      "Organ-rooted chromatic harmony",
+      "Belated recognition"
+    ]
+  }
+}
