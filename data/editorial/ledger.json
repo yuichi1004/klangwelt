@@ -7,7 +7,7 @@
   "2": {
     "name": "Anton Bruckner",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "3": {
     "name": "Niccolò Paganini",
@@ -167,7 +167,7 @@
   "34": {
     "name": "Zoltán Kodály",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "35": {
     "name": "Giuseppe Verdi",
@@ -242,7 +242,7 @@
   "49": {
     "name": "Karol Szymanowski",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "50": {
     "name": "Josquin Des Prez",
@@ -277,7 +277,7 @@
   "56": {
     "name": "John Cage",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "57": {
     "name": "Maurice Ravel",
@@ -542,7 +542,7 @@
   "109": {
     "name": "Johann Christian Bach",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "110": {
     "name": "Henri Dutilleux",
@@ -672,7 +672,7 @@
   "135": {
     "name": "Leonard Bernstein",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "136": {
     "name": "George Gershwin",
@@ -742,7 +742,8 @@
   "149": {
     "name": "John Adams",
     "phase": 3,
-    "status": "pending"
+    "status": "pending",
+    "note": "Wikidata fact sheet for this ID resolved to the wrong entity (US President John Adams, not the composer) — birthPlace/deathPlace/occupations are contaminated. Needs a corrected fact sheet (e.g. by QID) before writing."
   },
   "150": {
     "name": "Olivier Messiaen",
@@ -787,12 +788,12 @@
   "158": {
     "name": "Vagn Holmboe",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "159": {
     "name": "Camargo Guarnieri",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "160": {
     "name": "Franz Schmidt",
@@ -957,7 +958,7 @@
   "192": {
     "name": "Carl Philipp Emanuel Bach",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "193": {
     "name": "Léo Delibes",
@@ -987,7 +988,7 @@
   "198": {
     "name": "Edward Elgar",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "199": {
     "name": "Henry Purcell",
