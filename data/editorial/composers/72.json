@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ドイツ・バイエルンに生まれ、リーマンに音楽理論を学んだ。ミュンヘンやライプツィヒの音楽大学で教鞭を執りながら、オルガン曲を中心に膨大な数の作品を残したが、大酒と過労がたたって43歳で急逝した。バッハの対位法を深く研究し、その精神を自らの時代の和声語法で復活させようとした点で、当時のドイツ音楽界において独自の位置を占めた。",
+    "en": "Born in Bavaria, Germany, he studied music theory under Hugo Riemann. While teaching at conservatories in Munich and Leipzig he produced an enormous body of work, particularly for organ, but heavy drinking and overwork brought about his sudden death at forty-three. He studied Bach's counterpoint deeply and sought to revive its spirit within the harmonic language of his own era, giving him a distinctive place in German musical life of the time."
+  },
+  "style": {
+    "ja": "バッハ由来の緻密な対位法を、ブラームスやワーグナーが切り拓いた濃密な半音階的和声と融合させ、しばしば演奏至難な複雑さに至る作風で知られる。オルガン音楽の分野では即興的な性格の強い自由な楽曲形式を復興させ、教会音楽の伝統と世俗的な演奏会音楽の双方にまたがる作品を残した。",
+    "en": "He is known for fusing Bach-derived, dense counterpoint with the thick chromatic harmony pioneered by Brahms and Wagner, often reaching a complexity that pushes performers to their limits. In organ music he revived free, improvisatory forms, leaving works that bridge both the tradition of church music and secular concert music."
+  },
+  "impact": {
+    "ja": "バッハの対位法を近代の和声語法で蘇らせようとした試みは、ドイツにおけるオルガン音楽・教会音楽の復興運動に大きな影響を与えた。作品の演奏至難な複雑さから一般的な人気では後年のバッハ復興の立役者たちに比べて地味な扱いを受けがちだが、専門の演奏家・研究者からは対位法の継承者として高く評価され続けている。",
+    "en": "His attempt to revive Bach's counterpoint within a modern harmonic language had a major impact on the German revival of organ and church music. Because of the sheer difficulty and density of his works, he has often received less popular attention than other champions of the Bach revival, but among specialist performers and scholars he continues to be highly regarded as an heir to the contrapuntal tradition."
+  },
+  "keywords": {
+    "ja": [
+      "バッハ対位法の近代的復興",
+      "難度の高いオルガン音楽",
+      "教会音楽と演奏会音楽の架橋"
+    ],
+    "en": [
+      "Modern revival of Bachian counterpoint",
+      "Formidably difficult organ music",
+      "Bridge of church and concert music"
+    ]
+  }
+}

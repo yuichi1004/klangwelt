@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "現在のベルギーに生まれ、少年時代からカンブレー大聖堂の聖歌隊で学んだ。イタリア各地の宮廷や教皇庁の聖歌隊で活躍した後、晩年はカンブレーに戻って大聖堂に仕えた。生前からヨーロッパ各地で名声を博し、15世紀前半のブルゴーニュ楽派を代表する存在として国際的に知られた最初期の作曲家の一人である。",
+    "en": "Born in what is now Belgium, he trained from boyhood in the choir of Cambrai Cathedral. After working in courts and papal chapels across Italy, he returned to Cambrai in his later years to serve the cathedral there. He achieved fame across Europe in his own lifetime and stands as one of the earliest composers to be internationally known as a leading figure of the early fifteenth-century Burgundian School."
+  },
+  "style": {
+    "ja": "中世的な等リズム(イソリズム)の技法を高度に用いる一方で、より歌いやすく調和的に響く三度・六度の響きを積極的に取り入れ、中世からルネサンスへの様式の橋渡しを行った。ミサ曲では世俗歌曲の旋律を全楽章の統一に用いる「循環ミサ」の手法を洗練させ、多声音楽の構成原理に新しい可能性を開いた。",
+    "en": "He made sophisticated use of the medieval isorhythmic technique while also actively embracing the more consonant, singable sonorities of thirds and sixths, bridging the styles of the medieval and Renaissance eras. In his mass settings he refined the technique of the \"cyclic mass,\" using a single secular melody to unify all movements, opening new structural possibilities for polyphonic music."
+  },
+  "impact": {
+    "ja": "ある祝祭のために書かれた代表的なモテットは、献堂された建築物の比率に着想を得て音楽の構造を組み立てたとする説がしばしば紹介され、音楽と建築の対応関係を論じる際に繰り返し引用される。循環ミサの手法は後続世代のジョスカン・デ・プレらに直接受け継がれ、ルネサンス多声音楽全体の発展の出発点として位置づけられている。",
+    "en": "His best-known motet, written for a great cathedral dedication, is often discussed for a theory that its musical structure was inspired by the proportions of the building itself, and it is repeatedly cited in discussions of the relationship between music and architecture. His cyclic-mass technique was taken up directly by the following generation, including Josquin des Prez, and stands as a starting point for the development of Renaissance polyphony as a whole."
+  },
+  "keywords": {
+    "ja": [
+      "循環ミサの洗練",
+      "中世からルネサンスへの橋渡し",
+      "音楽と建築の比率をめぐる逸話"
+    ],
+    "en": [
+      "Refinement of the cyclic mass",
+      "Bridge from medieval to Renaissance style",
+      "Legend of music mirroring architectural proportion"
+    ]
+  }
+}

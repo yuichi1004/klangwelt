@@ -285,6 +285,32 @@
       ]
     }
   },
+  "17": {
+    "biography": {
+      "ja": "ルーマニアで生まれギリシャで育ち、後半生をフランスで過ごした。工科大学で土木工学を修め、建築家ル・コルビュジエの事務所で長年働きながら独学で作曲を学んだという、作曲家としては異例の経歴を持つ。数学的な確率過程を音の配置に応用する「確率音楽」を切り拓き、建築設計で培った幾何学的思考を音響構造に転用した。",
+      "en": "Born in Romania and raised in Greece, he spent the latter half of his life in France. Unusually for a composer, he trained as a civil engineer and worked for years in the office of the architect Le Corbusier while teaching himself composition. He pioneered a form of \"stochastic music\" that applied probability mathematics to the placement of sound, carrying the geometric thinking of his architectural work directly into musical structure."
+    },
+    "style": {
+      "ja": "個々の音を旋律や和声の単位としてではなく、雲のように群をなす音響の塊(音群)として扱い、その密度や分布を確率計算やコンピュータープログラムで制御した。建築の設計図を音楽に変換する試みも行っており、代表作の一つは自身が設計に関わったパビリオンの構想と直接結びついている。電子音楽にも早くから取り組み、テープと生演奏を組み合わせる手法も追求した。",
+      "en": "He treated individual notes not as units of melody or harmony but as swarms of sound, clouds whose density and distribution he controlled through probability calculations and, later, computer programs. He also experimented with translating architectural blueprints directly into music, and one of his best-known works grew directly out of a pavilion design he worked on. He engaged early with electronic music and explored combining tape with live performance."
+    },
+    "impact": {
+      "ja": "作曲を建築・数学と直結させたその方法は、リゲティが探求した音響そのものの質感を扱う作曲とは別の道筋から、20世紀後半の音響を主題とする音楽に到達しており、両者はしばしば並べて論じられる。教育者としても後進に影響を与え、教え子の一人は後年ロックバンドの創設メンバーとなるなど、前衛音楽の外側にまで影響が及んだ異色の存在でもある。",
+      "en": "By fusing composition directly with architecture and mathematics, he arrived at a music centered on sound-mass and texture from a different direction than Ligeti's exploration of sonic texture itself, and the two are often discussed together. As a teacher he shaped younger musicians, and one of his students went on to become a founding member of a rock band, a reach beyond the avant-garde unusual for a composer of his generation."
+    },
+    "keywords": {
+      "ja": [
+        "確率音楽と建築的思考",
+        "音群による音響作曲",
+        "工学出身の異色の経歴"
+      ],
+      "en": [
+        "Stochastic music and architectural thinking",
+        "Sound-mass composition",
+        "Unusual path from engineering"
+      ]
+    }
+  },
   "18": {
     "biography": {
       "ja": "モスクワ音楽院時代の同期にはラフマニノフがおり、当初は彼と同様、ショパンの影響を受けたロマン派的なピアノ作品から出発した。しかし後年、神智学に傾倒し、自らの音楽が人類の精神的な変容、さらには世界の終焉すらもたらしうるという神秘思想を深めていった。\n音楽と光、香り、舞踊を組み合わせ、ヒマラヤで数日間かけて上演することで人類全体の精神的な変容を引き起こすという、壮大な未完の総合芸術作品「神秘劇」を構想していたが、唇にできた腫れ物からの敗血症により43歳で急死し、実現しなかった。",
@@ -386,6 +412,32 @@
         "Organized sound",
         "Early exploration of electronic sound",
         "Expanding the definition of musical material"
+      ]
+    }
+  },
+  "25": {
+    "biography": {
+      "ja": "ウィーンで学び、ブルックナーにも師事した。妹マティルデがシェーンベルクに嫁いだことから、事実上シェーンベルクにとって数少ない師の一人となった人物でもある。作曲の弟子には後にグスタフ・マーラーの妻となるアルマ・シンドラーがおり、二人は師弟であると同時に一時期恋愛関係にもあった。生涯を通じて有力な歌劇場の指揮者としても活動し、ナチス台頭後はアメリカへ亡命した。",
+      "en": "He trained in Vienna, where his teachers included Bruckner. His sister Mathilde married Arnold Schoenberg, making him, in effect, one of the very few people Schoenberg could be said to have studied with. Among his composition pupils was Alma Schindler, later the wife of Gustav Mahler, with whom he was briefly romantically involved as well as her teacher. He worked throughout his career as a conductor at major opera houses and emigrated to the United States after the rise of the Nazis."
+    },
+    "style": {
+      "ja": "後期ロマン派の濃密な和声語法を土台としながら、義弟シェーンベルクが無調へ進んだ道とは異なり、調性の枠内にとどまりつつその限界近くまで和声を拡張した。歌劇では心理描写に富んだ台本を選び、オーケストレーションには師事したブルックナーの音響感覚と、当時のウィーンで交流のあった作曲家たちからの影響が入り混じっている。",
+      "en": "His idiom rests on the dense harmonic language of late Romanticism, and unlike his brother-in-law Schoenberg's path into atonality, he remained within tonality while pushing its harmonic limits. In opera he favored psychologically probing librettos, and his orchestration blends the sonic sensibility he absorbed from Bruckner with influences from the Viennese composers around him."
+    },
+    "impact": {
+      "ja": "生前はウィーン楽壇の中心的な指揮者・教師として重んじられたが、ナチスによる作品の弾圧と亡命先での不遇によって存在感が薄れ、長く忘れられた作曲家となった。20世紀後半以降に再評価が進み、シェーンベルクや、同じくウィーンで学んだコルンゴルトと並べて、世紀転換期ウィーンの豊かな音楽状況を伝える証言者として位置づけ直されている。",
+      "en": "In his lifetime he was a central conductor and teacher in Viennese musical life, but Nazi suppression of his works and a difficult exile left him largely forgotten for decades. Since the later twentieth century he has been reassessed, and is now placed alongside Schoenberg and, like the Vienna-trained Korngold, seen as a witness to the rich musical culture of turn-of-the-century Vienna."
+    },
+    "keywords": {
+      "ja": [
+        "シェーンベルクの義兄で数少ない師",
+        "アルマ・マーラーの作曲の師",
+        "世紀末ウィーンの再評価"
+      ],
+      "en": [
+        "Schoenberg's brother-in-law and rare teacher",
+        "Teacher of Alma Mahler",
+        "Reassessed fin-de-siècle Vienna"
       ]
     }
   },
@@ -650,6 +702,58 @@
         "Romanian folk music meets French refinement",
         "Teacher of Menuhin",
         "Œdipe's belated recognition"
+      ]
+    }
+  },
+  "39": {
+    "biography": {
+      "ja": "北イタリアのクレモナで生まれ、マントヴァ公の宮廷楽長を経て晩年はヴェネツィアのサン・マルコ大聖堂の楽長を務めた。妻の死後にカトリック司祭となったが、作曲活動を続けた。ルネサンス音楽の対位法の技法を極めつつ、それを打ち破る新しい書法を自ら「第二作法」と名付けて擁護し、旧来の様式を守ろうとした批評家との論争を巻き起こした。",
+      "en": "Born in Cremona in northern Italy, he served as court composer at Mantua before spending his final decades as maestro di cappella at St Mark's Basilica in Venice. After his wife's death he became a Catholic priest while continuing to compose. Having mastered the contrapuntal techniques of Renaissance polyphony, he defended a new manner of writing that broke from it, naming it himself the \"seconda pratica,\" and touched off a public dispute with critics who wanted to preserve the older style."
+    },
+    "style": {
+      "ja": "初期の作品はパレストリーナ以来の厳格なポリフォニーの延長線上にあるが、後年は歌詞の感情表現を優先し、不協和音を規則を無視してでも大胆に用いる語法へ踏み出した。現存する最初期のオペラの一つを手がけ、単旋律の朗唱(モノディー)と管弦楽的な伴奏を組み合わせる劇音楽の枠組みを確立し、ルネサンスからバロックへの転換を体現する作曲家となった。",
+      "en": "His early works extend the strict polyphony inherited from composers like Palestrina, but in later years he gave priority to expressing the emotional content of a text, boldly using dissonance in ways that broke the old rules. He composed one of the earliest surviving operas and established a framework combining monodic recitative with orchestral accompaniment, embodying in his own output the turn from Renaissance to Baroque."
+    },
+    "impact": {
+      "ja": "オペラという形式そのものを芸術的に確立した最初期の人物として、後のバロック・オペラの土台を築いた。その系譜は一世代を隔てて英国でオペラを開拓したパーセルにまで及ぶ流れとして語られることが多く、「セコンダ・プラティカ」の主張は、和声よりも歌詞の表現を優先する立場として、後世繰り返し参照される作曲美学上の論点となった。",
+      "en": "As one of the very first figures to establish opera as a serious art form, he laid the groundwork for Baroque opera as a whole, and his lineage is often traced forward to Purcell, who pioneered opera in England a generation later. His argument for the \"seconda pratica\" — prioritizing textual expression over harmonic rule — became a recurring reference point in later debates over compositional aesthetics."
+    },
+    "keywords": {
+      "ja": [
+        "セコンダ・プラティカの提唱",
+        "現存最初期のオペラ",
+        "ルネサンスからバロックへの転換"
+      ],
+      "en": [
+        "Advocate of the seconda pratica",
+        "Among the earliest surviving operas",
+        "Bridge from Renaissance to Baroque"
+      ]
+    }
+  },
+  "40": {
+    "biography": {
+      "ja": "アルゼンチンのマル・デル・プラタに生まれ、幼少期をニューヨークで過ごしてバンドネオンを習得した。帰国後はタンゴ楽団で演奏する傍ら、パリでナディア・ブーランジェに、またギナステラにも師事してクラシックの作曲技法を本格的に学んだ。師の勧めで自らのタンゴの語法に立ち返るよう促されたことが、その後の作風を決定づけたと語っている。",
+      "en": "Born in Mar del Plata, Argentina, he spent his early childhood in New York, where he learned the bandoneon. Back in Argentina he played in tango orchestras while also studying composition seriously with Nadia Boulanger in Paris and with Ginastera. He credited his teacher's advice to return to his own tango idiom rather than abandon it as the turning point that defined his mature style."
+    },
+    "style": {
+      "ja": "伝統的なタンゴの躍動するリズムを土台にしながら、ジャズの和声感覚とクラシック音楽の対位法や形式感を組み込み、「ヌエボ・タンゴ(新しいタンゴ)」と呼ばれる語法を作り上げた。バンドネオン奏者としての実演経験に裏打ちされた楽器法を持ち、舞踊のための音楽であったタンゴを、聴くための室内楽・演奏会用音楽へと組み替えた。",
+      "en": "Building on the driving rhythms of traditional tango, he incorporated jazz harmony and the counterpoint and formal thinking of classical music, creating an idiom that came to be called \"nuevo tango.\" His instrumental writing is grounded in his own experience as a performing bandoneon player, and he reshaped tango from music for dancing into chamber and concert music meant for listening."
+    },
+    "impact": {
+      "ja": "アルゼンチン国内では当初、伝統的なタンゴ愛好家から激しい反発を受けたが、次第に世界的な評価を確立し、タンゴを民族舞踊音楽から芸術音楽の一領域へと押し上げた最大の功労者となった。同じ南米出身でクラシックと民族的な語法を融合させたギナステラやヴィラ=ロボスの系譜に連なりつつ、大衆的な舞踊音楽を出発点とした点で独自の位置を占めている。",
+      "en": "In Argentina he initially met fierce resistance from traditional tango purists, but gradually won worldwide recognition and became the figure most responsible for elevating tango from folk dance music into a form of art music. He extends the lineage of Latin American composers such as Ginastera and Villa-Lobos who fused classical technique with vernacular idiom, while occupying a distinct place for having started from popular dance music itself."
+    },
+    "keywords": {
+      "ja": [
+        "ヌエボ・タンゴの創始",
+        "バンドネオン奏者としての実演",
+        "舞踊音楽から芸術音楽への転換"
+      ],
+      "en": [
+        "Creator of nuevo tango",
+        "Bandoneon virtuoso performer",
+        "Dance music transformed into art music"
       ]
     }
   },
@@ -1021,6 +1125,32 @@
       ]
     }
   },
+  "59": {
+    "biography": {
+      "ja": "フランス北部リールでスペイン系の家系に生まれ、パリ音楽院で学んだ後はヴァイオリン・ヴィオラ奏者として弦楽四重奏団で活動しながら作曲を続けた。長らく目立った成功を得られなかったが、名手パブロ・デ・サラサーテとの出会いを機に彼のために協奏的作品を書くようになり、40代半ばを過ぎてから作曲家としての評価が一気に高まった。",
+      "en": "Born in Lille, in northern France, to a family of Spanish descent, he studied at the Paris Conservatoire and worked for years as a violinist and violist in a string quartet while continuing to compose. Recognition came slowly, but a meeting with the virtuoso Pablo de Sarasate led him to write concertante works for the violinist, and his reputation as a composer rose sharply only after he had passed forty-five."
+    },
+    "style": {
+      "ja": "ドイツ音楽の重厚な構成感をフランス的な色彩感覚と結びつけ、自身の家系にちなんでスペイン風の旋律やリズムを取り入れた作品を得意とした。管弦楽法は色彩豊かで、独奏楽器を協奏曲的に扱う際にも旋律の歌わせ方に工夫を凝らし、演奏効果の高さで名手たちから重用された。",
+      "en": "He combined the solid structural sense of German music with a distinctly French feeling for orchestral color, and was especially drawn to Spanish-flavored melody and rhythm reflecting his own family background. His orchestration is richly colored, and even in concertante writing for soloists he shaped melodic lines with particular care, which made his music a favorite among virtuoso performers."
+    },
+    "impact": {
+      "ja": "代表作は今日でも協奏曲のレパートリーの定番として頻繁に演奏され、フランスの作曲家がスペインの民族色を借りて異国情緒を描くという、同時代のビゼーやその少し後のシャブリエにも通じる潮流の代表例として位置づけられる。フランス音楽界がドイツ音楽偏重から抜け出し独自の色彩を模索する動きの一翼を担った作曲家でもある。",
+      "en": "His best-known concertante work remains a staple of the repertoire today, and it stands as a leading example of a broader current — shared with his contemporary Bizet and, slightly later, Chabrier — in which French composers drew on Spanish color for exotic effect. He was also part of a movement within French musical life to move beyond German dominance and seek a distinct national color."
+    },
+    "keywords": {
+      "ja": [
+        "スペイン系の血統とスペイン風の旋律",
+        "サラサーテのための協奏的作品",
+        "フランスにおけるスペイン情緒の系譜"
+      ],
+      "en": [
+        "Spanish descent and Spanish-flavored melody",
+        "Concertante works for Sarasate",
+        "French current of Spanish exoticism"
+      ]
+    }
+  },
   "60": {
     "biography": {
       "ja": "若い頃はきわめて筆の速い多作家で、「セビリアの理髪師」はわずか3週間ほどで書き上げられたとも伝えられている。\nしかし絶頂期にあった37歳ごろ、事実上オペラ作曲から引退し、その後40年近く生きながら、以後は主に私的な楽しみのための作曲しか行わなかった。音楽史上もっとも有名な「早すぎる引退」の例の一つである。引退後はパリで有名なサロンを主催する美食家としても名を馳せ、彼にちなんだ「ロッシーニ風」と呼ばれる料理が今日も残っている。",
@@ -1096,6 +1226,32 @@
         "Twelve-tone technique",
         "Sprechstimme",
         "Systematic break from tonality"
+      ]
+    }
+  },
+  "63": {
+    "biography": {
+      "ja": "サンクトペテルブルクに生まれ、モスクワ音楽院でミャスコフスキーらに学んだ。ソ連の音楽教育制度の中枢を担い、子供や青少年のための平易で親しみやすい作品を数多く残したことで知られる。プロコフィエフやショスタコーヴィチが糾弾された1948年のジダーノフ批判の際には、体制側に近い立場にあり、二人とは対照的にソ連当局から一貫して高く評価され続けた。",
+      "en": "Born in Saint Petersburg, he studied at the Moscow Conservatory under Myaskovsky and others. He played a central role in Soviet music education and is especially known for a large body of accessible works written for children and young people. At the time of the 1948 Zhdanov denunciations that condemned Prokofiev and Shostakovich, he stood closer to the official establishment and, in contrast to those two composers, was consistently honored by Soviet authorities throughout his career."
+    },
+    "style": {
+      "ja": "社会主義リアリズムが求めた明快な旋律と親しみやすい調性書法を守りながら、青少年向けの教育的作品では技術的な難易度を抑えつつ音楽的な充実感を損なわない書法を追求した。同じくソ連の音楽教育を担ったグリエールの系譜に連なりながら、より直接的に子供のための音楽教材としての実用性を意識した点に特徴がある。",
+      "en": "He held to the clear melody and accessible tonal writing that socialist realism demanded, and in his works for young people he pursued a style that kept technical demands modest without sacrificing musical substance. He extends the lineage of Soviet music educators such as Glière, but is distinctive for how directly he aimed his music at practical use as teaching material for children."
+    },
+    "impact": {
+      "ja": "旧ソ連および現在のロシアの音楽教育カリキュラムに今も強い影響を残しており、多くの子供たちが最初に触れるクラシック音楽の一部として彼の作品が使われ続けている。体制内で優遇された経歴ゆえに、粛清の犠牲となったプロコフィエフやショスタコーヴィチと対比的に語られることが多く、ソ連の文化政策が個々の作曲家の運命をいかに左右したかを示す例としても引き合いに出される。",
+      "en": "His influence on music education curricula in the former Soviet Union and present-day Russia remains strong, and his works continue to serve as many children's first encounter with classical music. Because of his favored position within the system, he is frequently discussed in contrast to Prokofiev and Shostakovich, who suffered under the purges, and his career is often cited as an example of how Soviet cultural policy could shape the fates of individual composers so differently."
+    },
+    "keywords": {
+      "ja": [
+        "青少年のための教育的作品",
+        "ソ連体制下で優遇された立場",
+        "音楽教育カリキュラムへの影響"
+      ],
+      "en": [
+        "Educational works for young people",
+        "Favored position under the Soviet system",
+        "Lasting influence on music education"
       ]
     }
   },
@@ -1204,6 +1360,32 @@
         "Anticipating verismo",
         "Evoking Spanish exoticism",
         "From failed premiere to enduring masterpiece"
+      ]
+    }
+  },
+  "72": {
+    "biography": {
+      "ja": "ドイツ・バイエルンに生まれ、リーマンに音楽理論を学んだ。ミュンヘンやライプツィヒの音楽大学で教鞭を執りながら、オルガン曲を中心に膨大な数の作品を残したが、大酒と過労がたたって43歳で急逝した。バッハの対位法を深く研究し、その精神を自らの時代の和声語法で復活させようとした点で、当時のドイツ音楽界において独自の位置を占めた。",
+      "en": "Born in Bavaria, Germany, he studied music theory under Hugo Riemann. While teaching at conservatories in Munich and Leipzig he produced an enormous body of work, particularly for organ, but heavy drinking and overwork brought about his sudden death at forty-three. He studied Bach's counterpoint deeply and sought to revive its spirit within the harmonic language of his own era, giving him a distinctive place in German musical life of the time."
+    },
+    "style": {
+      "ja": "バッハ由来の緻密な対位法を、ブラームスやワーグナーが切り拓いた濃密な半音階的和声と融合させ、しばしば演奏至難な複雑さに至る作風で知られる。オルガン音楽の分野では即興的な性格の強い自由な楽曲形式を復興させ、教会音楽の伝統と世俗的な演奏会音楽の双方にまたがる作品を残した。",
+      "en": "He is known for fusing Bach-derived, dense counterpoint with the thick chromatic harmony pioneered by Brahms and Wagner, often reaching a complexity that pushes performers to their limits. In organ music he revived free, improvisatory forms, leaving works that bridge both the tradition of church music and secular concert music."
+    },
+    "impact": {
+      "ja": "バッハの対位法を近代の和声語法で蘇らせようとした試みは、ドイツにおけるオルガン音楽・教会音楽の復興運動に大きな影響を与えた。作品の演奏至難な複雑さから一般的な人気では後年のバッハ復興の立役者たちに比べて地味な扱いを受けがちだが、専門の演奏家・研究者からは対位法の継承者として高く評価され続けている。",
+      "en": "His attempt to revive Bach's counterpoint within a modern harmonic language had a major impact on the German revival of organ and church music. Because of the sheer difficulty and density of his works, he has often received less popular attention than other champions of the Bach revival, but among specialist performers and scholars he continues to be highly regarded as an heir to the contrapuntal tradition."
+    },
+    "keywords": {
+      "ja": [
+        "バッハ対位法の近代的復興",
+        "難度の高いオルガン音楽",
+        "教会音楽と演奏会音楽の架橋"
+      ],
+      "en": [
+        "Modern revival of Bachian counterpoint",
+        "Formidably difficult organ music",
+        "Bridge of church and concert music"
       ]
     }
   },
@@ -1367,6 +1549,58 @@
       ]
     }
   },
+  "81": {
+    "biography": {
+      "ja": "アイオワ州シーダーラピッズに生まれたアメリカの作曲家で、ミシガン大学で長く教鞭を執っている。アメリカのポップカルチャーやメディアのイメージを大胆に作品の主題に取り込むことで知られ、代表作の一つは新聞連載漫画やその映画化を音楽で描いた交響曲であり、他にも国道の名前をそのまま曲名に用いた作品などがある。",
+      "en": "An American composer born in Cedar Rapids, Iowa, he has long taught at the University of Michigan. He is known for boldly drawing on American popular culture and media imagery as subject matter; one of his best-known works is a symphony depicting a newspaper comic strip and its film adaptations, and another takes its title directly from the name of a US highway."
+    },
+    "style": {
+      "ja": "ミニマル・ミュージックのリズム的な反復や、映画音楽的な描写性、ジャズやロックの語法を大胆に取り込んだポストモダン的な折衷様式を特徴とする。管弦楽の扱いは色彩豊かで劇的、特定の物語やイメージを音楽で具体的に描写することを恐れず、演奏会用音楽と娯楽的な題材との距離を積極的に縮めている。",
+      "en": "His style features a postmodern eclecticism that boldly draws on the rhythmic repetition of minimalism, cinematic descriptive writing, and the idioms of jazz and rock. His orchestral writing is richly colored and dramatic, unafraid to depict specific stories or images directly in music, and he has actively narrowed the distance between concert music and popular subject matter."
+    },
+    "impact": {
+      "ja": "アダムズが探求したアメリカの現代性を映す音楽の系譜をさらに大衆文化の方向へ押し進め、演奏会用音楽が漫画やハイウェイといった一見「軽い」題材を正面から扱うことの可能性を切り拓いた。ポップカルチャーへの言及を明示的な追悼や社会批評の手段として用いたコリリアーノとは異なる、より遊戯的でアイロニカルなアプローチを提示している。",
+      "en": "He pushed the lineage of music reflecting American contemporary life explored by John Adams further toward popular culture, opening up the possibility for concert music to engage directly with seemingly \"light\" subjects like comic strips and highways. His approach is more playful and ironic than Corigliano's use of pop-culture reference as explicit memorial or social commentary."
+    },
+    "keywords": {
+      "ja": [
+        "ポップカルチャーを題材とする管弦楽曲",
+        "ポストモダン的な折衷様式",
+        "アメリカ現代音楽の遊戯的展開"
+      ],
+      "en": [
+        "Orchestral works on pop-culture subjects",
+        "Postmodern eclectic style",
+        "Playful strand of American contemporary music"
+      ]
+    }
+  },
+  "82": {
+    "biography": {
+      "ja": "現在のベルギーに生まれ、少年時代からカンブレー大聖堂の聖歌隊で学んだ。イタリア各地の宮廷や教皇庁の聖歌隊で活躍した後、晩年はカンブレーに戻って大聖堂に仕えた。生前からヨーロッパ各地で名声を博し、15世紀前半のブルゴーニュ楽派を代表する存在として国際的に知られた最初期の作曲家の一人である。",
+      "en": "Born in what is now Belgium, he trained from boyhood in the choir of Cambrai Cathedral. After working in courts and papal chapels across Italy, he returned to Cambrai in his later years to serve the cathedral there. He achieved fame across Europe in his own lifetime and stands as one of the earliest composers to be internationally known as a leading figure of the early fifteenth-century Burgundian School."
+    },
+    "style": {
+      "ja": "中世的な等リズム(イソリズム)の技法を高度に用いる一方で、より歌いやすく調和的に響く三度・六度の響きを積極的に取り入れ、中世からルネサンスへの様式の橋渡しを行った。ミサ曲では世俗歌曲の旋律を全楽章の統一に用いる「循環ミサ」の手法を洗練させ、多声音楽の構成原理に新しい可能性を開いた。",
+      "en": "He made sophisticated use of the medieval isorhythmic technique while also actively embracing the more consonant, singable sonorities of thirds and sixths, bridging the styles of the medieval and Renaissance eras. In his mass settings he refined the technique of the \"cyclic mass,\" using a single secular melody to unify all movements, opening new structural possibilities for polyphonic music."
+    },
+    "impact": {
+      "ja": "ある祝祭のために書かれた代表的なモテットは、献堂された建築物の比率に着想を得て音楽の構造を組み立てたとする説がしばしば紹介され、音楽と建築の対応関係を論じる際に繰り返し引用される。循環ミサの手法は後続世代のジョスカン・デ・プレらに直接受け継がれ、ルネサンス多声音楽全体の発展の出発点として位置づけられている。",
+      "en": "His best-known motet, written for a great cathedral dedication, is often discussed for a theory that its musical structure was inspired by the proportions of the building itself, and it is repeatedly cited in discussions of the relationship between music and architecture. His cyclic-mass technique was taken up directly by the following generation, including Josquin des Prez, and stands as a starting point for the development of Renaissance polyphony as a whole."
+    },
+    "keywords": {
+      "ja": [
+        "循環ミサの洗練",
+        "中世からルネサンスへの橋渡し",
+        "音楽と建築の比率をめぐる逸話"
+      ],
+      "en": [
+        "Refinement of the cyclic mass",
+        "Bridge from medieval to Renaissance style",
+        "Legend of music mirroring architectural proportion"
+      ]
+    }
+  },
   "83": {
     "biography": {
       "ja": "ライプツィヒ大学で法学を学んだが、家族の反対を押し切って音楽の道に転じた。\n驚異的な多作家で、生涯に残した作品数は同時代のどの作曲家をも上回るとされる。当時としては先駆的な取り組みとして、自作の楽譜を自ら出版し、ヨーロッパ各地の定期購読者に直接郵送で販売する事業を手がけた。ライプツィヒの聖トーマス教会のカントル職は当初彼に打診されていたが辞退し、この職はのちにバッハが引き受けることになった。",
@@ -1419,6 +1653,32 @@
       ]
     }
   },
+  "85": {
+    "biography": {
+      "ja": "キーウに生まれ、モスクワ音楽院でタネーエフらに学んだ後、同音楽院で長く教授を務めた。門下からはプロコフィエフやハチャトゥリアンら、後にソ連を代表する作曲家となる人材が数多く育った。革命後のソ連体制下でも一貫して高く評価され続け、当局から数々の栄誉を受けた数少ない作曲家の一人である。",
+      "en": "Born in Kyiv, he studied at the Moscow Conservatory under Taneyev and others before serving there for years as a professor. His students included Prokofiev and Khachaturian, who would go on to become leading Soviet composers of the following generation. He was consistently well regarded under the postrevolutionary Soviet system and was one of the few composers to receive numerous official honors throughout his career."
+    },
+    "style": {
+      "ja": "後期ロマン派の重厚な管弦楽法を土台に、ロシアの民族的・叙事的な題材を色彩豊かに描く作風を特徴とする。バレエでは同時代のソヴィエト社会を題材とする作品を手がけ、社会主義リアリズムが求める分かりやすい物語性と伝統的な管弦楽の華麗さを両立させた。",
+      "en": "His style rests on the richly colored orchestration of late Romanticism applied to Russian national and epic subjects. In ballet he took on contemporary Soviet society as subject matter, combining the clear narrative that socialist realism demanded with the traditional splendor of orchestral writing."
+    },
+    "impact": {
+      "ja": "作曲家としてよりも、むしろプロコフィエフとハチャトゥリアンという二人の重要な弟子を育てた教育者として音楽史に大きな足跡を残した。同時代のソ連の作曲教育を担ったカバレフスキーと並び、体制の枠内で高く評価されながら次世代の才能を輩出したという点で、ソ連音楽界における教師の役割を体現する存在である。",
+      "en": "He left his largest mark on music history less as a composer in his own right than as the teacher who nurtured two towering figures, Prokofiev and Khachaturian. Alongside his contemporary Kabalevsky in Soviet music education, he embodies the role of the teacher within Soviet musical life — someone honored within the system who still produced the talents of the next generation."
+    },
+    "keywords": {
+      "ja": [
+        "プロコフィエフとハチャトゥリアンの師",
+        "ソヴィエト初期のバレエ音楽",
+        "体制下で評価された教育者"
+      ],
+      "en": [
+        "Teacher of Prokofiev and Khachaturian",
+        "Early Soviet ballet music",
+        "Honored educator within the system"
+      ]
+    }
+  },
   "87": {
     "biography": {
       "ja": "音楽家の一族に生まれ、生涯をドイツ中部の限られた土地で過ごした。ヴァイマルの宮廷楽師、ケーテンの宮廷楽長を経て、38歳でライプツィヒの聖トーマス教会のカントルに就任し、以後27年間その職にあった。教会暦にあわせて毎週のようにカンタータを書き、少年たちにラテン語と音楽を教える日々だった。\n対位法——複数の旋律を同時に走らせながら全体を破綻なくまとめる技法——を、以後だれも超えられない水準にまで高めた。生前は作曲家としてより名オルガニストとして知られ、作品の多くは死後しばらく忘れられていたが、19世紀に再評価されて以降、西洋音楽の土台とみなされるようになった。",
@@ -1442,6 +1702,58 @@
         "Contrapuntal density",
         "Stylistic synthesis",
         "Exploring all keys"
+      ]
+    }
+  },
+  "88": {
+    "biography": {
+      "ja": "現在のベルギー、モンスに生まれ、少年聖歌隊員としての美声を見込まれてイタリア各地の宮廷に仕えた後、バイエルン公の宮廷楽長として長くミュンヘンで活動した。生涯で2000曲を超えるとされる作品を多様な言語・様式で書き残し、教皇からも栄誉を受けるなど、生前から国際的に名声を博した。",
+      "en": "Born in Mons, in present-day Belgium, he was recruited as a boy chorister for his fine voice and served courts across Italy before spending most of his career as court chapel master to the Duke of Bavaria in Munich. Over his lifetime he produced more than two thousand works across a remarkable range of languages and styles, and he achieved international fame in his own time, receiving honors even from the pope."
+    },
+    "style": {
+      "ja": "ラテン語のモテットから、フランス語のシャンソン、イタリア語のマドリガーレ、ドイツ語の歌曲まで、各国語の詩の抑揚や感情表現を的確に音楽へ移す語学的な柔軟さを特徴とする。宗教曲では対位法の精緻さを極めながら、世俗曲ではより軽妙で機知に富んだ書法を使い分け、両極端を自在に行き来した。",
+      "en": "From Latin motets to French chansons, Italian madrigals, and German songs, his style is marked by a linguistic flexibility that captured the inflection and emotional expression of each language's poetry with precision. In sacred works he pursued contrapuntal refinement to its limits, while in secular works he switched to a lighter, wittier manner, moving freely between the two extremes."
+    },
+    "impact": {
+      "ja": "門下からはヴェネツィアの分割合唱様式を確立したガブリエーリ兄弟が育ち、その系譜は後のバロック音楽の複合唱様式へとつながっていく。ジョスカン・デ・プレに続くフランドル楽派の到達点として、ルネサンス多声音楽の集大成的な存在に位置づけられている。",
+      "en": "His pupils included the Gabrieli brothers, who established the polychoral style of Venice, a lineage that fed forward into the multi-choir practice of Baroque music. As a successor to Josquin des Prez, he is regarded as a culminating figure of the Franco-Flemish school and of Renaissance polyphony as a whole."
+    },
+    "keywords": {
+      "ja": [
+        "多言語にわたる2000曲超の作品",
+        "宗教曲と世俗曲の書き分け",
+        "ガブリエーリ兄弟の師"
+      ],
+      "en": [
+        "Over 2,000 works across many languages",
+        "Mastery of both sacred and secular idioms",
+        "Teacher of the Gabrieli brothers"
+      ]
+    }
+  },
+  "89": {
+    "biography": {
+      "ja": "北イタリアのベルガモに生まれ、マイールに見出されて音楽教育を受けた。生涯に70曲近いオペラを書いたとされる多作家で、ロッシーニやベッリーニと並ぶベルカント・オペラ全盛期の三巨匠の一人に数えられる。晩年は梅毒による病に苦しみ、精神を病んだ末に故郷ベルガモで没した。",
+      "en": "Born in Bergamo in northern Italy, he was discovered and trained by Johann Simon Mayr. An extraordinarily prolific composer credited with nearly seventy operas, he is counted alongside Rossini and Bellini as one of the three great masters of the bel canto era. In his final years he suffered from illness caused by syphilis and, his mind deteriorating, died in his native Bergamo."
+    },
+    "style": {
+      "ja": "ロッシーニ譲りの快活な喜劇性とベッリーニに通じる甘美な旋律美を併せ持ち、両者の中間的な位置を占める作風を確立した。喜劇オペラでは軽妙な会話的レチタティーヴォを駆使し、悲劇オペラでは声楽の技巧を尽くした狂乱の場面を得意とするなど、幅広い題材に対応する多才さを示した。",
+      "en": "He combined the lively comic sensibility inherited from Rossini with a sweetness of melody close to Bellini's, establishing a style that occupies a middle ground between the two. In comic opera he made deft use of light, conversational recitative, while in tragic opera he excelled at vocally virtuosic mad scenes, showing a versatility that spanned a wide range of subject matter."
+    },
+    "impact": {
+      "ja": "ロッシーニ、ベッリーニと共にベルカント・オペラの黄金時代を築いた立役者として、その旋律書法は後のヴェルディ初期の作品にも直接的な影響を残した。門下の一人は後にプッチーニの父となる音楽家であり、意図せぬ形でオペラの巨匠を三世代にわたって間接的につなぐ役割も果たしている。",
+      "en": "Together with Rossini and Bellini, he built the golden age of bel canto opera, and his melodic craftsmanship left a direct imprint on Verdi's early works. One of his pupils was the musician who would later become Giacomo Puccini's father, an unintended but real thread connecting three generations of opera composers."
+    },
+    "keywords": {
+      "ja": [
+        "ベルカント三巨匠の一人",
+        "喜劇と悲劇を横断する多作家",
+        "プッチーニの父を教えた師"
+      ],
+      "en": [
+        "One of the three masters of bel canto",
+        "Prolific across comedy and tragedy",
+        "Teacher of Puccini's father"
       ]
     }
   },
