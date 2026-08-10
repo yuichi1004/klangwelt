@@ -1,4 +1,30 @@
 {
+  "2": {
+    "biography": {
+      "ja": "オーストリアの田舎町出身の敬虔な信者で、社会的にはどこか不器用な人物だったと伝えられる。オルガニストとして高く評価され即興演奏の名手として知られたが、交響曲の作曲家として本格的に評価を確立したのは比較的遅く、常に強い自己不信を抱えていた。\n批評家や弟子たちの助言を受けて自作の交響曲を繰り返し改訂したため、複数の版が並存する曲が少なくない。ウィーンの音楽批評界を二分していたブラームス対ワーグナーの論争では、有力な反ワーグナー派の批評家ハンスリックから「ワーグナー的な交響曲作家」とみなされ、長年にわたり酷評され続けた。",
+      "en": "He came from a small provincial town in Austria, a devout believer who was, by most accounts, socially awkward. Renowned as an organist and a masterly improviser, he did not fully establish his reputation as a symphonic composer until relatively late in life, and struggled throughout with deep self-doubt.\nActing on advice from critics and students, he repeatedly revised his own symphonies, so that several of them survive in more than one version. In the Brahms-versus-Wagner critical wars that divided Vienna's musical press, the powerful anti-Wagner critic Eduard Hanslick branded him a 'Wagnerian' symphonist and savaged his work in print for years."
+    },
+    "style": {
+      "ja": "自身の楽器であるオルガンのレジストレーションを思わせる、巨大な音の塊を積み重ねる大聖堂建築のような交響曲の構成を特徴とし、なめらかな連続的展開よりも、劇的な沈黙と急激な強弱の切り替えを好んだ。ワーグナーの和声語法と管弦楽の規模を、オペラではなく純粋な交響曲の文脈に取り入れながらも、根底にはカトリック信仰に根ざした敬虔さを保ち続け、交響曲にほとんど典礼的とも言える時間感覚と規模を与えている。ブラームス的な簡潔な交響曲の型を意図的に拒む、きわめて長大で広がりのある時間設計も特徴である。",
+      "en": "His symphonies favour a monumental, cathedral-like architecture built from massive blocks of sound, recalling the registration changes of his own instrument, the organ, rather than smooth continuous development — marked by dramatic silences and abrupt shifts in dynamics between sections. He absorbed Wagner's harmonic language and orchestral scale into a purely symphonic, non-operatic context, while retaining an underlying devout character rooted in his Catholic faith that gives his symphonies an almost liturgical sense of time and scale. His symphonies deliberately reject the more concise Brahmsian model in favour of an extremely long, expansive time span."
+    },
+    "impact": {
+      "ja": "マーラーと並んで、後期オーストリア・ドイツ交響曲の伝統を、古典派・ロマン派の枠をはるかに超えた規模と精神的な重みへと押し広げた二人の巨匠の一人となり、マーラーがさらに推し進めることになる先例を直接築いた。その師弟の系譜はツェムリンスキーへ、さらにその先のシェーンベルクへと直接つながっており、彼自身の保守的で信仰深い性格からは意外に思えるモダニズムの伝統の遠い祖先という側面も持つ。どの版を用いて演奏・研究すべきかという論争は、今日に至るまで続く異例なほど根強い音楽学的な課題であり、彼の音楽の受容のされ方を今も形づくり続けている。",
+      "en": "Alongside Mahler, he became one of the two towering symphonists of the late Austro-German tradition who expanded the symphony to a scale and spiritual weight far beyond the Classical-Romantic model, directly setting a precedent Mahler would push even further. His teaching lineage runs to Zemlinsky and, through him, to Schoenberg, making him an unexpected forebear of the very modernist tradition his own conservative, devout character might seem to stand apart from. The ongoing debate over which version of his symphonies to use or perform is an unusually persistent musicological issue that continues to shape how his music is studied and heard today."
+    },
+    "keywords": {
+      "ja": [
+        "大聖堂的な交響曲構造",
+        "複数版問題",
+        "マーラーへの先例"
+      ],
+      "en": [
+        "Cathedral-like symphonic structure",
+        "The multiple-versions problem",
+        "Setting a precedent for Mahler"
+      ]
+    }
+  },
   "11": {
     "biography": {
       "ja": "チェコの小さな町にある教会の鐘楼の上の部屋で育った。父がその教会の火の見番を務めていたためで、高い場所からの見晴らしのよい生活が、のちの作風にも影響したのではないかとしばしば指摘される。\nプラハ音楽院で学んだのちパリに移り、ルーセルに師事して新古典主義やジャズの語法を吸収した。ナチス・ドイツによる占領を逃れてアメリカに渡り、プリンストン大学などで教えた。生涯を通じて多作であり続け、晩年はヨーロッパに戻ってスイスで没している。",
@@ -155,6 +181,32 @@
       ]
     }
   },
+  "34": {
+    "biography": {
+      "ja": "バルトークとともにハンガリー各地の民謡を採集する調査を行った盟友であり、その関係は生涯続いた。言語学者としての顔も持ち、幼児から学べる階名唱法を軸にした音楽教育の体系「コダーイ・メソッド」を確立したことでも知られる。\nこの教育法は今日でも世界各地の学校教育で採用されており、作曲家としての仕事と並ぶ、あるいはそれ以上に広く知られる遺産になっている。第二次世界大戦後はハンガリーの文化政策にも関わった。",
+      "en": "A lifelong collaborator with Bartók in collecting folk songs across Hungary, their partnership lasted for decades. He was also a serious linguist, and is known for establishing the Kodály Method, a system of music education built around movable-do sight-singing that children can begin from an early age.\nThe method is still used in schools around the world today, a legacy that rivals, or arguably exceeds, his standing as a composer. After the Second World War he was also involved in shaping Hungary's cultural policy."
+    },
+    "style": {
+      "ja": "バルトークとともに採集したのと同じハンガリー民謡の素材を用いながらも、バルトークほど構造的に急進的にはならず、より親しみやすく歌謡的な作風を保った。合唱と管弦楽を組み合わせた大規模な作品では、民謡由来の旋律にロマン派的な温かみのある和声を添えている。音楽は分かりやすく歌いやすくあるべきだという教育者としての哲学は、演奏会用の作品にも一貫して表れている。",
+      "en": "Using the same Hungarian folk material he and Bartók collected together, he kept a more accessible, songful style than Bartók's more structurally radical absorption of it. In his large choral-orchestral works he sets folk-derived melody against a warmer, more Romantic-leaning harmony. His educator's conviction that music should be direct and singable shows through consistently, even in his concert works."
+    },
+    "impact": {
+      "ja": "「コダーイ・メソッド」は世界でもっとも広く採用されている音楽教育法の一つとなり、数十か国の学校で子どもたちが歌と読譜を学ぶ手段として使われている。演奏会用の作品よりも、この教育的な遺産のほうが世界的にはるかに多くの人々に届いていると言ってよい。バルトークとともにハンガリー民族音楽学の学問的な基礎を築き、合唱曲は今日もハンガリー国内外の合唱レパートリーの中心であり続けている。",
+      "en": "The Kodály Method became one of the most widely adopted systems of music education in the world, used in schools across dozens of countries to teach children to sing and read music from an early age — an educational legacy that likely reaches far more people worldwide than his concert music does. Alongside Bartók, he established the scholarly foundation of Hungarian ethnomusicology, and his choral works remain central to the choral repertoire both in Hungary and internationally."
+    },
+    "keywords": {
+      "ja": [
+        "コダーイ・メソッド",
+        "民謡に根ざした合唱曲",
+        "音楽教育への貢献"
+      ],
+      "en": [
+        "The Kodály Method",
+        "Folk-rooted choral music",
+        "Contribution to music education"
+      ]
+    }
+  },
   "35": {
     "biography": {
       "ja": "パルマ近郊の農村に生まれ、ミラノでラヴィーニャに師事した。20代で妻子を相次いで亡くす不幸のさなかに書いた歌劇が不評に終わり作曲をやめようとしたが、「ナブッコ」の成功で一転して名声を得る。以後60年近くにわたり26作の歌劇を書き続けた。\nイタリア統一運動のさなか、彼の歌劇の合唱曲は民族の心情を託す歌として愛唱され、統一後には上院議員も務めた。「椿姫」「リゴレット」「アイーダ」など、声楽の魅力を前面に押し出しながら劇的な緊張を保つ作風で、イタリア・オペラの中心的存在であり続けた。",
@@ -259,6 +311,32 @@
       ]
     }
   },
+  "49": {
+    "biography": {
+      "ja": "現在のウクライナにあたる地域の裕福な地主階級の家庭に生まれた。初期はワーグナーやリヒャルト・シュトラウスといったドイツ後期ロマン派、さらにスクリャービンの影響を受けた作風から出発している。\n北アフリカや地中海沿岸への旅を重ねた経験は、官能的で異国情緒あふれる中期の作風に大きな影響を与えた。晩年は一転して、タトラ山地の高地民ゴラーレの音楽など、より直接的にポーランド的な民俗素材に基づく国民主義的な作風へと向かった。ワルシャワ音楽院の院長を務めたが、晩年は結核による病苦と経済的な困窮に見舞われている。",
+      "en": "Born into a wealthy landowning family in a region now part of Ukraine, he began in a style shaped by German late Romanticism — Wagner, Richard Strauss — and by Scriabin.\nRepeated travels to North Africa and the Mediterranean profoundly shaped the sensuous, exotically coloured idiom of his middle period. In his later years he turned instead toward more directly Polish folk material, particularly the music of the Górale highlanders of the Tatra mountains, in a nationalist synthesis. He directed the Warsaw Conservatory, but his final years were marked by tuberculosis and financial hardship."
+    },
+    "style": {
+      "ja": "作風は生涯を通じて大きく三段階に変化した。初期はドイツ後期ロマン派とスクリャービンの影響を受け、中期は北アフリカや地中海への旅の経験と結びついた、官能的で色彩豊かな管弦楽と豊麗な和声を特徴とする。晩年にはタトラ山地の高地民ゴラーレに特有の、鋭い響きの旋法やドローンを伴うフィドルの音色を作品に取り込み、より直接的にポーランド的な民俗語法へと移行した。",
+      "en": "His style moved through three broad phases. His early work was shaped by German late Romanticism and by Scriabin; his middle period, tied to his travels in North Africa and the Mediterranean, is marked by a sensuous, richly coloured orchestration and opulent harmony; and in his later years he brought in the specific idiom of the Górale highlanders of the Tatra mountains — their sharp-edged modal scales and drone-based fiddle textures — moving toward a more directly Polish folk language."
+    },
+    "impact": {
+      "ja": "ショパンと20世紀の前衛世代の間の世代におけるもっとも国際的に重要なポーランド人作曲家となった。ドイツ的な語法、異国趣味的な色彩、ポーランドの民俗語法という複数の様式を、一つの様式に定住することなく生涯にわたって渡り歩いたその歩みは、作曲家が複数の伝統を統合していく過程の記録として研究されている。晩年に取り入れたゴラーレの音楽は、タトラ山地の高地民音楽を演奏会用音楽の正当な素材として位置づけ、後続のポーランドの作曲家たちが地域の民俗音楽への関心を持ち続ける流れにもつながっている。",
+      "en": "He became the most internationally significant Polish composer of the generation between Chopin and the twentieth-century avant-garde. His stylistic journey through German, exoticist and Polish-nationalist idioms, never settling permanently into one, offers a documented case study of a composer synthesising multiple traditions across a single career. His late turn to Górale material established Tatra highlander music as a legitimate source for concert music, an influence traceable in later Polish composers' continued interest in regional folk material."
+    },
+    "keywords": {
+      "ja": [
+        "三段階の様式変遷",
+        "地中海旅行と官能的な色彩",
+        "ゴラーレ民俗音楽の導入"
+      ],
+      "en": [
+        "Three stylistic phases",
+        "Mediterranean travel and sensuous colour",
+        "Introducing Górale folk music"
+      ]
+    }
+  },
   "52": {
     "biography": {
       "ja": "貧しい農家に生まれ、家具塗装職人であり民俗音楽家でもあった父から幼いころに楽器の手ほどきを受けた。少年時代は軍楽隊でラッパやヴァイオリンを吹き、その後デンマーク王立音楽院で正規の教育を受けている。\n交響曲や協奏曲といった大規模な作品と並行して、素朴な旋律の歌曲や賛美歌も数多く書いた。これらの旋律の多くは学校教育や教会を通じてデンマークの日常生活に深く浸透しており、作曲者の名を意識しないまま歌われ続けている。",
@@ -308,6 +386,32 @@
         "Bach meets Brazilian music",
         "Choro in the concert hall",
         "Shaping music education policy"
+      ]
+    }
+  },
+  "56": {
+    "biography": {
+      "ja": "シェーンベルクに師事したが、和声の感覚が欠けていると評されたと伝えられる。ダンス公演のために打楽器的な音色が必要になった際、スタジオに打楽器奏者を入れる場所がなかったことから、ピアノの弦にねじやゴムなどの物を挟んで音色を変える「プリペアド・ピアノ」を考案した。\n禅仏教への傾倒を深め、易経を用いて作曲上の判断を行う「偶然性の音楽」を追求し、自らの趣味や意図を作曲から排除しようとした。「4分33秒」では、演奏者が一切音を出さない時間を設け、聴衆の注意を会場の周囲の音そのものへと向けさせている。",
+      "en": "He studied with Schoenberg, who is said to have told him he lacked a feeling for harmony. Needing a percussive sound for a dance performance but with no room for a percussion ensemble in the studio, he devised the 'prepared piano' — inserting screws, rubber and other objects between the piano's strings to transform its timbre.\nHe grew deeply involved in Zen Buddhism and pursued 'chance music', using the I Ching to make compositional decisions in an effort to remove his own taste and intention from the process. In *4'33\"*, the performers play nothing at all for the piece's duration, directing the audience's attention instead to the ambient sound of the room itself."
+    },
+    "style": {
+      "ja": "ピアノの弦の間にねじやゴムなどの物体を挟み込むことで、一台の鍵盤楽器から打楽器アンサンブルのような音色を引き出す「プリペアド・ピアノ」という具体的な技法を考案した。易経のコイン投げなど形式的な手続きを用いて作曲上の判断を行う「偶然性の音楽」を追求し、禅の無執着の思想と結びつけながら、作曲家自身の意図や趣味を創作過程から意図的に排除した。周囲の環境音や沈黙そのものを、組織化された音高やリズムと対等な音楽的素材として扱うという、「音楽とは何か」という定義そのものを根底から問い直す姿勢を貫いた。",
+      "en": "By inserting screws, rubber and other objects between a piano's strings, he devised the concrete technique of the prepared piano, drawing a percussion-ensemble-like range of timbres out of a single keyboard instrument. He pursued 'chance music', using formal procedures such as tossing coins for the I Ching to make compositional decisions, deliberately removing his own intention and taste from the creative process in line with Zen philosophy's emphasis on non-attachment. He treated ambient environmental sound and silence itself as musical material on equal footing with organised pitch and rhythm, radically questioning the very definition of what music is."
+    },
+    "impact": {
+      "ja": "「4分33秒」は20世紀の芸術においてもっとも議論され、もっとも影響力を持ち続けている概念的な作品の一つであり、音楽作品とみなされうるものの境界を恒久的に押し広げ、音楽の枠を超えてフルクサスをはじめとするコンセプチュアル・アートの潮流にも直接影響を与えた。偶然性による作曲は、全面的な音列主義の統制ともロマン派的な自己表現とも異なる、厳密に文書化された代替の道を示し、戦後実験音楽の大きな一派として多くの後続の作曲家に受け継がれた。プリペアド・ピアノは今日も具体的な記譜技法として使われ続けており、この編成のために書かれた作品群も存在する。",
+      "en": "*4'33\"* remains one of the most discussed and influential conceptual works in all of twentieth-century art, permanently expanding the boundaries of what could count as a musical composition and directly influencing conceptual art movements beyond music, including Fluxus, of which he is considered a forerunner. Chance-based composition offered a rigorously documented alternative to both the control of total serialism and Romantic self-expression, becoming a major branch of postwar experimental music that many later composers followed. The prepared piano remains a specific, notated technique still used by composers today, with its own dedicated body of repertoire."
+    },
+    "keywords": {
+      "ja": [
+        "プリペアド・ピアノ",
+        "偶然性の音楽",
+        "音楽の定義への根源的な問い"
+      ],
+      "en": [
+        "Prepared piano",
+        "Chance music",
+        "Radically questioning what music is"
       ]
     }
   },
@@ -653,6 +757,32 @@
       ]
     }
   },
+  "109": {
+    "biography": {
+      "ja": "バッハの末子として生まれ、15歳で父を失ったのちはベルリンで異母兄カール・フィリップ・エマヌエルに引き取られ、音楽の手ほどきを受けた。敬虔なルター派だった一族の中で珍しくカトリックに改宗し、イタリアでオペラを学んだのち、最終的にロンドンに定住して「ロンドンのバッハ」と呼ばれるようになった。\nロンドン滞在中の幼いモーツァルトと出会い、その才能に大きな影響を与えたことで知られる。優美で親しみやすいギャラント様式は、少年モーツァルトの作風の初期の手本になったとされる。",
+      "en": "The youngest son of Johann Sebastian Bach, he lost his father at fifteen and was taken in and taught by his much older half-brother Carl Philipp Emanuel Bach in Berlin. Unusually for a family of devout Lutherans, he converted to Catholicism, studied opera in Italy, and eventually settled permanently in London, where he became known as 'the London Bach'.\nHe met the young Mozart during the Mozart family's visit to London and had a profound influence on him. His elegant, accessible galant style is thought to have served as an early model for the young Mozart's own."
+    },
+    "style": {
+      "ja": "父の緻密な対位法とは対照的に、旋律が主役でそれを伴奏が支える、より軽やかで簡潔な「ギャラント様式」を確立し、広めた立役者の一人である。これは18世紀半ばに音楽全体がバロックの複雑さから古典派の明快さへと移行していく大きな流れを代表する様式でもあった。ロンドンで初期の古典派交響曲や鍵盤協奏曲の形を整え、のちにハイドンやモーツァルトが完成させることになる古典派様式を先取りする、親しみやすく均整のとれた器楽曲を書いた。",
+      "en": "In contrast to his father's dense counterpoint, he was a leading figure in establishing and popularising the lighter, simpler 'galant' style, where melody leads and the accompaniment supports it — representing the broader mid-eighteenth-century shift away from Baroque complexity toward Classical clarity. In London he helped shape the early Classical symphony and keyboard concerto, writing accessible, well-proportioned instrumental works that anticipated the mature Classical style Haydn and Mozart would later bring to fruition."
+    },
+    "impact": {
+      "ja": "少年モーツァルトの直接の様式的な手本かつ人間的な師でもあったことから、その影響は成熟した古典派様式の本流に直接流れ込んでおり、バロックから古典派への移行における、過小評価されがちだが歴史的に重要な結節点になっている。異母兄カール・フィリップ・エマヌエルとともに、バッハの息子たち自身が父の緻密な対位法から決別し、次の世代のまったく異なる音楽語法を形づくる先頭に立ったことを示す、一つの家系の中での際立った様式的な断絶の例でもある。",
+      "en": "As the young Mozart's direct stylistic model and personal mentor, his influence flows directly into the mainstream of the mature Classical style, making him an underrecognised but historiographically crucial link between the Baroque and the Classical. Alongside his half-brother Carl Philipp Emanuel, he shows that Bach's own sons decisively broke from their father's dense counterpoint to help shape the very different musical language of the next generation — a striking case of stylistic rupture within a single family across one generation."
+    },
+    "keywords": {
+      "ja": [
+        "ギャラント様式の確立",
+        "少年モーツァルトへの影響",
+        "バロックから古典派への橋渡し"
+      ],
+      "en": [
+        "Establishing the galant style",
+        "Influence on the young Mozart",
+        "Bridging Baroque and Classical"
+      ]
+    }
+  },
   "125": {
     "biography": {
       "ja": "コダーイとともにハンガリーや東欧、北アフリカの農村を回り、蓄音機を用いて民謡を録音・採譜する調査を続けた。この活動は後の民族音楽学という学問分野の基礎を築いたと評価されている。\nファシズムへの反対を鮮明にしていたため、第二次世界大戦下のヨーロッパを逃れて1940年にアメリカへ渡った。しかし現地では十分な評価を得られないまま、ニューヨークで困窮のうちに世を去っている。",
@@ -702,6 +832,36 @@
         "Literary suite form",
         "Poetry-music fusion in song",
         "Composer as critic"
+      ]
+    }
+  },
+  "135": {
+    "biography": {
+      "ja": "指揮者ブルーノ・ワルターが急病になった際、リハーサルなしの代役として全米に放送されるニューヨーク・フィルハーモニックの公演を指揮し、一夜にして名声を得た。アメリカ生まれ・アメリカ育ちの指揮者として初めて同楽団の音楽監督に就任している。\n国際的な指揮者としての活動と、ブロードウェイ・演奏会の両方で活躍する作曲家としての活動を、生涯を通じて同時に高い水準で両立させた。テレビ番組「ヤング・ピープルズ・コンサート」の司会も長年務め、クラシック音楽の魅力を茶の間に伝える教育活動にも力を注いだ。",
+      "en": "When the conductor Bruno Walter fell suddenly ill, he stepped in without rehearsal to lead a nationally broadcast concert with the New York Philharmonic, and became famous overnight. He was the first American-born, American-trained conductor to become the orchestra's music director.\nHe sustained, at a consistently high level, both an international conducting career and a career as a composer for Broadway and the concert hall at the same time. He also hosted the long-running television programme *Young People's Concerts* for years, devoting himself to bringing the appeal of classical music into people's living rooms."
+    },
+    "style": {
+      "ja": "「ウェスト・サイド・ストーリー」に代表されるように、ラテンアメリカの舞曲のリズム、ジャズの和声、オペラ的な声楽書法を、ブロードウェイ・ミュージカルという枠組みの中で自在に融合させた。「真面目な」演奏会用の作品と大衆的なミュージカルの間を、恥じることなく行き来する作曲家であり、多くの同時代人が保持していた高尚・通俗の厳格な区別を拒んだ。テレビでの解説にも表れているように、クラシック音楽は一部の層に限られたものではなく広く伝えられるべきだという信念を、エネルギッシュで外向的な指揮ぶりとともに貫いた。",
+      "en": "As in *West Side Story*, he freely fused Latin American dance rhythms, jazz harmony and operatic vocal writing within the framework of a Broadway musical. He moved without embarrassment between 'serious' concert works and popular musical theatre, refusing the strict high-low cultural divide many of his contemporaries maintained. His energetic, extroverted conducting and gift for explaining music, evident in his television work, reflected a broader conviction that classical music should be communicated widely rather than confined to an elite audience."
+    },
+    "impact": {
+      "ja": "「ウェスト・サイド・ストーリー」は、ブロードウェイがオペラに匹敵する音楽的・演劇的な野心を十分に支えうることを示した、アメリカのミュージカル史上もっとも息の長い人気と影響力を持つ作品の一つになった。指揮者としての長い在任と国際的な名声は、アメリカのオーケストラとアメリカで教育を受けた音楽家たちを世界の舞台でヨーロッパと対等な存在として確立する一助となり、クラシック音楽の文化的な力学における重要な転換点となった。「ヤング・ピープルズ・コンサート」は何年にもわたり大規模なテレビ視聴者に届き、クラシック音楽の教育番組の金字塔として、後続の教育メディアにも影響を残している。",
+      "en": "*West Side Story* became one of the most enduringly popular and influential works in American musical theatre, showing that Broadway could sustain musical and dramatic ambition on the level of opera. His long tenure and international standing as a conductor helped establish American orchestras and American-trained musicians as fully equal to their European counterparts on the world stage, a significant shift in classical music's cultural geography. *Young People's Concerts* reached a mass television audience over many years and stands as a landmark in classical music education broadcasting, its influence still cited by later educational media."
+    },
+    "story": {
+      "ja": "1943年11月、指揮者ブルーノ・ワルターが体調を崩し、当時無名の副指揮者だった彼が代役に立てられた。リハーサルの時間もほとんどないまま臨んだこの公演は全米にラジオ中継され、翌日の新聞は彼を一躍時の人として取り上げた。",
+      "en": "In November 1943, when the conductor Bruno Walter fell ill, he was called on as a then-unknown assistant conductor to step in. With almost no time to rehearse, he led a concert broadcast nationally on the radio, and the next day's newspapers made him famous overnight."
+    },
+    "keywords": {
+      "ja": [
+        "ブロードウェイとクラシックの融合",
+        "米国指揮者としての地位確立",
+        "テレビを通じた音楽教育"
+      ],
+      "en": [
+        "Broadway meets classical music",
+        "Establishing American conductors",
+        "Music education through television"
       ]
     }
   },
@@ -922,6 +1082,58 @@
         "Chromatic harmony",
         "Rubato",
         "Character pieces"
+      ]
+    }
+  },
+  "158": {
+    "biography": {
+      "ja": "作曲家としての活動の一方、若い頃には妻でピアニストのメーテ・グラーフとともにルーマニアへ渡り、現地の民俗音楽を実地で調査した。この経験は、彼が「変容」と名づけた独自の作曲理論——一つの主題が楽曲を通じてゆっくりと姿を変えていくという考え方——の土台になっている。\n国際的な演奏活動よりもデンマーク国内での活動を中心とし、13曲の交響曲と20曲の弦楽四重奏曲を含む膨大な作品を生涯にわたって書き続けた。",
+      "en": "Alongside his work as a composer, in his youth he travelled to Romania with his wife, the pianist Meta Graf, to study the local folk music firsthand. This experience underlies his own compositional theory, which he called 'metamorphosis' — the idea that a theme gradually changes shape across the course of a work.\nHe centred his career in Denmark rather than international touring, and remained prolific throughout his life, writing thirteen numbered symphonies and twenty string quartets among a large body of work."
+    },
+    "style": {
+      "ja": "自ら「変容」と名づけた独自の理論を作曲の核に据えた。一つの根源的な楽想が、楽章あるいは作品全体を通じて連続的に形と性格、和声的な文脈を変えていくことで、対照的な複数の主題や区切られた反復に頼らずとも、有機的な大きな構造的一貫性を生み出す。ルーマニアでの実地調査の経験から、民謡を直接引用するのではなく、その旋律的な輪郭を直感的に自らの語法に取り込んでいる。",
+      "en": "He placed his self-coined theory of 'metamorphosis' at the centre of his compositional method: a single germinal idea continuously changes shape, character and harmonic context across a movement or work, generating large-scale structural coherence organically rather than through contrasting themes or sectional repetition. His fieldwork in Romania left him with an intuitive sense of folk-derived melodic contour, absorbed into his own language rather than quoted directly."
+    },
+    "impact": {
+      "ja": "「変容」の理論は、20世紀の楽曲形式と主題展開に関する思考への、デンマークならではの独自の貢献として、とりわけ北欧の音楽理論の分野で研究され続けている。長年教壇に立ち、次の世代のデンマークの作曲家たち、なかでもペア・ノアゴーを直接育てた。ノアゴーはホルンボーの構造的な発想をさらに発展させ、独自の「無限旋律」の理論を打ち立てている。13曲の交響曲と20曲の弦楽四重奏という一貫した大規模な連作は、録音の普及とともにデンマーク国外でも徐々に国際的な評価を高めつつある。",
+      "en": "The theory of metamorphosis remains a distinctively Danish contribution to twentieth-century thinking about musical form and thematic development, studied especially within Scandinavian music theory circles. As a longtime teacher, he directly shaped the next generation of Danish composers, notably Per Nørgård, who extended Holmboe's structural thinking further into his own theory of continuous transformation, the 'infinity series'. His large, cohesive cycle of thirteen symphonies and twenty string quartets has gradually gained wider international recognition posthumously as recordings have made his substantial output more accessible outside Denmark."
+    },
+    "keywords": {
+      "ja": [
+        "変容の理論",
+        "ルーマニア民俗音楽の実地調査",
+        "デンマーク国内での多作な活動"
+      ],
+      "en": [
+        "The theory of metamorphosis",
+        "Fieldwork in Romanian folk music",
+        "A prolific career centred in Denmark"
+      ]
+    }
+  },
+  "159": {
+    "biography": {
+      "ja": "ヴィラ=ロボスに続く世代のブラジル人作曲家である。パリに短期間留学したが、同世代の他のラテンアメリカの作曲家たちと異なり、ヨーロッパの前衛的な流行に同化することを意識的に避け、生涯を通じて強くブラジル民族主義的な美学を掲げ続けた。詩人としても作品を発表している。\n1950年代、ブラジルの若い作曲家たちが十二音技法をはじめとするヨーロッパの前衛様式に傾倒したことを、国民的な音楽の伝統への裏切りだとして公開書簡で批判し、国内の音楽界に大きな論争を巻き起こした。",
+      "en": "A Brazilian composer of the generation following Villa-Lobos, he studied briefly in Paris but, unlike many Latin American composers of his generation, deliberately avoided assimilating into European avant-garde fashion, maintaining a strongly Brazilian nationalist aesthetic throughout his career. He also published poetry.\nIn the 1950s he wrote an open letter criticising younger Brazilian composers' turn toward European avant-garde techniques, including twelve-tone composition, as a betrayal of the national musical tradition — sparking a major controversy within Brazilian musical circles."
+    },
+    "style": {
+      "ja": "ヴィラ=ロボスと同じくブラジルの音楽的素材を用いながらも、様式を大きく変化させることなく、一貫して国民主義的な語法を生涯にわたって保ち続けた。アフロ・ブラジル的な、あるいは地域的な旋律・リズムの素材を、基本的に調性的で親しみやすい演奏会用の形式のなかに取り込んでいる。十二音技法やセリー音楽をイデオロギー的な理由から拒み、保守的な調性的国民主義を、時代遅れではなく意図的な芸術的・政治的立場として貫いた。",
+      "en": "Like Villa-Lobos, he drew on Brazilian musical material, but unlike many of his peers he kept a consistent nationalist idiom throughout his career rather than moving through distinct stylistic phases. He incorporated Afro-Brazilian and regional melodic and rhythmic material within fundamentally tonal, accessible concert forms. He rejected twelve-tone and serial technique on ideological grounds, treating his conservative tonal nationalism not as unawareness of contemporary trends but as a deliberate artistic and political stance."
+    },
+    "impact": {
+      "ja": "ヴィラ=ロボスに続く世代のブラジル民族主義音楽の中心的な担い手となり、セリー音楽への公然たる反対は、国民的アイデンティティと国際的な前衛技法の関係をめぐる20世紀半ばのブラジル音楽界の実際の論争において、彼を中心的な人物にした。この論争は、バルトークやコダーイ、シベリウスの事例にも通じる、民族主義と国際主義の間で作曲家がどう身を処すかという、このデータセット全体に繰り返し現れる主題の一つでもある。国民主義的な語法による多数の演奏会用作品は、今日もブラジルの管弦楽・室内楽レパートリーの重要な一角を占めている。",
+      "en": "He became a central voice of Brazilian musical nationalism in the generation after Villa-Lobos, and his public opposition to serialism made him a central figure in a genuine debate within mid-twentieth-century Brazilian music over the relationship between national identity and international avant-garde technique — a debate echoing a theme recurring elsewhere among these entries, of composers navigating nationalism versus internationalism, as with Bartók, Kodály and Sibelius. His large catalogue of nationalist-idiom concert works remains an important part of the Brazilian orchestral and chamber repertoire today."
+    },
+    "keywords": {
+      "ja": [
+        "一貫したブラジル民族主義",
+        "セリー音楽への公然たる反対",
+        "国民的アイデンティティをめぐる論争"
+      ],
+      "en": [
+        "Consistent Brazilian nationalism",
+        "Public opposition to serialism",
+        "A debate over national identity"
       ]
     }
   },
@@ -1271,6 +1483,32 @@
       ]
     }
   },
+  "192": {
+    "biography": {
+      "ja": "バッハの次男として生まれ、異母弟のヨハン・クリスティアンに音楽の手ほどきをした。長年プロイセン王フリードリヒ大王の宮廷チェンバロ奏者を務めた。大王自身もフルートを演奏し作曲もこなす音楽通で、その宮廷は音楽的な要求の高い環境だった。\nのちに、名付け親でもあった作曲家テレマンの後任としてハンブルクの音楽監督に就任した。著書「クラヴィーア奏法試論」は鍵盤楽器の演奏技法と表現に関する規範的な教本となり、ハイドンやモーツァルト、ベートーヴェンをはじめ、以後の世代の作曲家たちに広く読まれた。",
+      "en": "The second surviving son of Johann Sebastian Bach, he taught music to his half-brother Johann Christian. He served for many years as court harpsichordist to Frederick the Great of Prussia, a king who was himself a knowledgeable flautist and composer, presiding over a musically demanding court.\nHe later succeeded his own godfather, the composer Telemann, as director of music in Hamburg. His treatise, *Essay on the True Art of Playing Keyboard Instruments*, became the standard reference on keyboard technique and expression, studied widely by Haydn, Mozart and Beethoven, among the generations that followed."
+    },
+    "style": {
+      "ja": "感情の起伏を、一つのフレーズの中でも予測不能なほど急激な転調や強弱、テンポの変化として表す「多感様式」を切り拓き、その代表的な担い手とされる。異母弟ヨハン・クリスティアンの穏やかなギャラント様式とは対照的に、意図的に聴き手の予想を裏切る、より不安定で強烈な感情表現を追求した。著書「クラヴィーア奏法試論」では、ルバートや装飾音、表現にふさわしい運指法まで、当時としては前例のない体系性で演奏習慣を明文化している。",
+      "en": "He pioneered — and is considered the leading figure of — the *Empfindsamer Stil* (sensitive style), expressing emotional volatility through sudden, unpredictable shifts of key, dynamics and tempo even within a single phrase. In contrast to his half-brother Johann Christian's smoother galant style, he deliberately unsettled the listener's expectations, pursuing a more unstable and intense expressiveness. His treatise, *Essay on the True Art of Playing Keyboard Instruments*, codified performance practice — rubato, ornamentation, fingering appropriate to expression — with unprecedented systematic detail for its time."
+    },
+    "impact": {
+      "ja": "「多感様式」は、バロック的な表現の型と、のちのシュトゥルム・ウント・ドラング、さらにはベートーヴェンの劇的な対比へと至る、感情表現の激しさが増していく音楽史上の重要な橋渡しとして音楽史家に位置づけられている。著書「クラヴィーア奏法試論」は古典派の時代に入ってからも鍵盤楽器の技法と表現に関する必須の教本であり続け、ハイドン、モーツァルト、ベートーヴェンが直接学び高く評価したことで知られる。その理論的な影響力は、作曲家としての相当な業績をも上回るとさえ言えるほどの、鍵盤楽器教育における基礎的な存在である。",
+      "en": "The Empfindsamer Stil is widely recognised by music historians as a crucial bridge between Baroque expressive convention and the growing emotional volatility of the coming Sturm und Drang movement and, eventually, Beethoven's own dramatic contrasts. His keyboard treatise remained an essential pedagogical reference for technique and expression well into the Classical era, studied directly and praised by Haydn, Mozart and Beethoven. His theoretical influence arguably outweighs even his considerable output as a composer, making him a foundational figure in keyboard pedagogy."
+    },
+    "keywords": {
+      "ja": [
+        "多感様式",
+        "クラヴィーア奏法試論",
+        "古典派への橋渡し"
+      ],
+      "en": [
+        "Empfindsamer Stil",
+        "The keyboard treatise",
+        "A bridge to the Classical era"
+      ]
+    }
+  },
   "196": {
     "biography": {
       "ja": "ザルツブルクの宮廷音楽家の家に生まれ、幼少期から父に連れられてヨーロッパ各地を演奏旅行した。故郷の宮廷での職に満足できず、25歳でウィーンに移って独立した音楽家として生きる道を選ぶ。当時としては珍しい選択で、定収入のないまま演奏会と作曲の依頼で生計を立てた。\n35年の生涯で600曲を超える作品を残した。交響曲、協奏曲、室内楽、宗教曲、そしてオペラと、当時存在したほとんどすべてのジャンルにわたる。とりわけオペラでは、登場人物それぞれの心情を同時に響かせる重唱の書き方に他の追随を許さない手腕を見せた。",
@@ -1324,6 +1562,32 @@
         "Thematic transformation",
         "Founding the symphonic poem",
         "Expanding piano technique"
+      ]
+    }
+  },
+  "198": {
+    "biography": {
+      "ja": "楽器店を営む父のもとで育ち、正規の音楽院教育をほとんど受けないまま、独学で作曲を学んだ。ウスターの中流階級という比較的つつましい出自から出発し、最終的にイギリス音楽を代表する存在として准男爵に叙せられるまでになった。\n代表作「エニグマ変奏曲」は、それぞれの変奏が友人たちの人物像を音楽で描いたものであるのに加え、曲全体の土台になっているはずの「隠された主題」が存在すると本人が主張しながら生涯明かさなかったため、今日に至るまで音楽学者の間で解釈をめぐる論争が続いている。行進曲「威風堂々」第1番は、のちに歌詞が付けられて「希望と栄光の国」として、英国の国家的な式典や世界各地の卒業式で歌われる曲になった。",
+      "en": "Raised by a father who ran a music shop, he had almost no formal conservatory training and was largely self-taught as a composer. Starting from the relatively modest, middle-class background of Worcester, he rose to become a leading figure in English music and was eventually made a baronet.\nHis best-known work, the *Enigma Variations*, portrays a circle of friends musically in each variation — and Elgar claimed the whole piece rests on a 'hidden theme' he never revealed, a claim that has kept scholars arguing over its solution to this day. The first of his *Pomp and Circumstance* marches, later fitted with words as 'Land of Hope and Glory', became a piece sung at British state occasions and at graduation ceremonies around the world."
+    },
+    "style": {
+      "ja": "ブラームスや大陸のロマン派の伝統に連なる、豊麗で堂々とした旋律と後期ロマン派的な管弦楽法を特徴とし、しばしば「いかにもイギリス的」と評される、温かく郷愁を誘う響きを持つ。民謡に根ざしたヴォーン・ウィリアムズの語法とはまったく異なる道筋から「イギリス的」な音楽を築いた例であり、両者は対照的な二つのイギリス音楽像を示している。「エニグマ変奏曲」に見られるように、それぞれの友人の人物像を音楽的な性格描写によって描き分ける肖像画的な手法に長けていた。",
+      "en": "His richly noble melodic sweep and lush late-Romantic orchestration, in the tradition of Brahms and continental Romanticism, is often described as quintessentially 'English' in a warm, nostalgic way. This is a strikingly different route to 'English' music than the folk-song-rooted idiom of his contemporary Vaughan Williams, and the two composers represent two contrasting images of English music. As the *Enigma Variations* shows, he was a master of musical portraiture, capturing each friend's personality through distinct musical characterisation."
+    },
+    "impact": {
+      "ja": "パーセル以来、国際的に高い評価を得た最初のイギリス人作曲家となり、ヴォーン・ウィリアムズやブリテンの項目でも触れた「イギリス音楽ルネサンス」の先駆けとなる、イギリス音楽の国際的評価における重要な転換点を築いた。行進曲「威風堂々」第1番、通称「希望と栄光の国」は世界でもっとも広く使われる式典音楽の一つとなり、演奏会場の外でも異例なほど広い文化的存在感を持つに至った。「エニグマ変奏曲」の未解決の謎は、音楽学における恒久的なパズルとして残り、何世代も経った今も学術的な議論と一般の関心を呼び続けている。",
+      "en": "He became the first English composer since Purcell to achieve major international standing, a significant turning point that anticipated the 'English Musical Renaissance' also noted in the entries for Vaughan Williams and Britten. *Pomp and Circumstance* March No. 1, known as 'Land of Hope and Glory', became one of the most widely used ceremonial pieces in the world, giving him an unusually broad cultural presence well beyond the concert hall. The unsolved 'enigma' of the Variations has become a permanent puzzle within musicology, still generating scholarly debate and public fascination generations later."
+    },
+    "keywords": {
+      "ja": [
+        "イギリス的な後期ロマン派様式",
+        "音楽による人物描写",
+        "未解決の「エニグマ」"
+      ],
+      "en": [
+        "English late-Romantic idiom",
+        "Musical portraiture",
+        "The unsolved Enigma"
       ]
     }
   },

@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "オーストリアの田舎町出身の敬虔な信者で、社会的にはどこか不器用な人物だったと伝えられる。オルガニストとして高く評価され即興演奏の名手として知られたが、交響曲の作曲家として本格的に評価を確立したのは比較的遅く、常に強い自己不信を抱えていた。\n批評家や弟子たちの助言を受けて自作の交響曲を繰り返し改訂したため、複数の版が並存する曲が少なくない。ウィーンの音楽批評界を二分していたブラームス対ワーグナーの論争では、有力な反ワーグナー派の批評家ハンスリックから「ワーグナー的な交響曲作家」とみなされ、長年にわたり酷評され続けた。",
+    "en": "He came from a small provincial town in Austria, a devout believer who was, by most accounts, socially awkward. Renowned as an organist and a masterly improviser, he did not fully establish his reputation as a symphonic composer until relatively late in life, and struggled throughout with deep self-doubt.\nActing on advice from critics and students, he repeatedly revised his own symphonies, so that several of them survive in more than one version. In the Brahms-versus-Wagner critical wars that divided Vienna's musical press, the powerful anti-Wagner critic Eduard Hanslick branded him a 'Wagnerian' symphonist and savaged his work in print for years."
+  },
+  "style": {
+    "ja": "自身の楽器であるオルガンのレジストレーションを思わせる、巨大な音の塊を積み重ねる大聖堂建築のような交響曲の構成を特徴とし、なめらかな連続的展開よりも、劇的な沈黙と急激な強弱の切り替えを好んだ。ワーグナーの和声語法と管弦楽の規模を、オペラではなく純粋な交響曲の文脈に取り入れながらも、根底にはカトリック信仰に根ざした敬虔さを保ち続け、交響曲にほとんど典礼的とも言える時間感覚と規模を与えている。ブラームス的な簡潔な交響曲の型を意図的に拒む、きわめて長大で広がりのある時間設計も特徴である。",
+    "en": "His symphonies favour a monumental, cathedral-like architecture built from massive blocks of sound, recalling the registration changes of his own instrument, the organ, rather than smooth continuous development — marked by dramatic silences and abrupt shifts in dynamics between sections. He absorbed Wagner's harmonic language and orchestral scale into a purely symphonic, non-operatic context, while retaining an underlying devout character rooted in his Catholic faith that gives his symphonies an almost liturgical sense of time and scale. His symphonies deliberately reject the more concise Brahmsian model in favour of an extremely long, expansive time span."
+  },
+  "impact": {
+    "ja": "マーラーと並んで、後期オーストリア・ドイツ交響曲の伝統を、古典派・ロマン派の枠をはるかに超えた規模と精神的な重みへと押し広げた二人の巨匠の一人となり、マーラーがさらに推し進めることになる先例を直接築いた。その師弟の系譜はツェムリンスキーへ、さらにその先のシェーンベルクへと直接つながっており、彼自身の保守的で信仰深い性格からは意外に思えるモダニズムの伝統の遠い祖先という側面も持つ。どの版を用いて演奏・研究すべきかという論争は、今日に至るまで続く異例なほど根強い音楽学的な課題であり、彼の音楽の受容のされ方を今も形づくり続けている。",
+    "en": "Alongside Mahler, he became one of the two towering symphonists of the late Austro-German tradition who expanded the symphony to a scale and spiritual weight far beyond the Classical-Romantic model, directly setting a precedent Mahler would push even further. His teaching lineage runs to Zemlinsky and, through him, to Schoenberg, making him an unexpected forebear of the very modernist tradition his own conservative, devout character might seem to stand apart from. The ongoing debate over which version of his symphonies to use or perform is an unusually persistent musicological issue that continues to shape how his music is studied and heard today."
+  },
+  "keywords": {
+    "ja": [
+      "大聖堂的な交響曲構造",
+      "複数版問題",
+      "マーラーへの先例"
+    ],
+    "en": [
+      "Cathedral-like symphonic structure",
+      "The multiple-versions problem",
+      "Setting a precedent for Mahler"
+    ]
+  }
+}

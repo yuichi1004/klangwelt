@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "バッハの次男として生まれ、異母弟のヨハン・クリスティアンに音楽の手ほどきをした。長年プロイセン王フリードリヒ大王の宮廷チェンバロ奏者を務めた。大王自身もフルートを演奏し作曲もこなす音楽通で、その宮廷は音楽的な要求の高い環境だった。\nのちに、名付け親でもあった作曲家テレマンの後任としてハンブルクの音楽監督に就任した。著書「クラヴィーア奏法試論」は鍵盤楽器の演奏技法と表現に関する規範的な教本となり、ハイドンやモーツァルト、ベートーヴェンをはじめ、以後の世代の作曲家たちに広く読まれた。",
+    "en": "The second surviving son of Johann Sebastian Bach, he taught music to his half-brother Johann Christian. He served for many years as court harpsichordist to Frederick the Great of Prussia, a king who was himself a knowledgeable flautist and composer, presiding over a musically demanding court.\nHe later succeeded his own godfather, the composer Telemann, as director of music in Hamburg. His treatise, *Essay on the True Art of Playing Keyboard Instruments*, became the standard reference on keyboard technique and expression, studied widely by Haydn, Mozart and Beethoven, among the generations that followed."
+  },
+  "style": {
+    "ja": "感情の起伏を、一つのフレーズの中でも予測不能なほど急激な転調や強弱、テンポの変化として表す「多感様式」を切り拓き、その代表的な担い手とされる。異母弟ヨハン・クリスティアンの穏やかなギャラント様式とは対照的に、意図的に聴き手の予想を裏切る、より不安定で強烈な感情表現を追求した。著書「クラヴィーア奏法試論」では、ルバートや装飾音、表現にふさわしい運指法まで、当時としては前例のない体系性で演奏習慣を明文化している。",
+    "en": "He pioneered — and is considered the leading figure of — the *Empfindsamer Stil* (sensitive style), expressing emotional volatility through sudden, unpredictable shifts of key, dynamics and tempo even within a single phrase. In contrast to his half-brother Johann Christian's smoother galant style, he deliberately unsettled the listener's expectations, pursuing a more unstable and intense expressiveness. His treatise, *Essay on the True Art of Playing Keyboard Instruments*, codified performance practice — rubato, ornamentation, fingering appropriate to expression — with unprecedented systematic detail for its time."
+  },
+  "impact": {
+    "ja": "「多感様式」は、バロック的な表現の型と、のちのシュトゥルム・ウント・ドラング、さらにはベートーヴェンの劇的な対比へと至る、感情表現の激しさが増していく音楽史上の重要な橋渡しとして音楽史家に位置づけられている。著書「クラヴィーア奏法試論」は古典派の時代に入ってからも鍵盤楽器の技法と表現に関する必須の教本であり続け、ハイドン、モーツァルト、ベートーヴェンが直接学び高く評価したことで知られる。その理論的な影響力は、作曲家としての相当な業績をも上回るとさえ言えるほどの、鍵盤楽器教育における基礎的な存在である。",
+    "en": "The Empfindsamer Stil is widely recognised by music historians as a crucial bridge between Baroque expressive convention and the growing emotional volatility of the coming Sturm und Drang movement and, eventually, Beethoven's own dramatic contrasts. His keyboard treatise remained an essential pedagogical reference for technique and expression well into the Classical era, studied directly and praised by Haydn, Mozart and Beethoven. His theoretical influence arguably outweighs even his considerable output as a composer, making him a foundational figure in keyboard pedagogy."
+  },
+  "keywords": {
+    "ja": [
+      "多感様式",
+      "クラヴィーア奏法試論",
+      "古典派への橋渡し"
+    ],
+    "en": [
+      "Empfindsamer Stil",
+      "The keyboard treatise",
+      "A bridge to the Classical era"
+    ]
+  }
+}
