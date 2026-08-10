@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ライプツィヒ音楽院でライネッケらに学んだが、ドイツ流の教育に息苦しさを感じていた。ノルウェーに戻ってから出会った作曲家リカルド・ノルドロークとの親交を通じて、より明確にノルウェー的な語法を追求する方向性を見出したとされる。ノルドロークが若くして病没したことは、彼に深い衝撃を与えた。\n劇作家イプセンの依頼で戯曲「ペール・ギュント」の劇音楽を作曲するなど、ノルウェーを代表する作曲家として国内外で活動した。",
+    "en": "He studied at the Leipzig Conservatory under Reinecke and others, but found the German training stifling. After returning to Norway, his friendship with the composer Rikard Nordraak is said to have shown him the way to a more distinctly Norwegian voice. Nordraak's early death from illness affected him deeply.\nHe wrote incidental music for Ibsen's play *Peer Gynt* at the playwright's request, among other work, and became Norway's leading composer at home and abroad."
+  },
+  "style": {
+    "ja": "ノルウェーの民俗フィドル音楽に特有の旋法や、開放的な5度を用いたドローン風の響きを取り入れ、明確にノルウェー的な和声語法を築いた。半音下降する特徴的な音型が、ピアノ協奏曲の冒頭をはじめ数多くの作品に繰り返し現れ、彼の音楽を特徴づける指紋のようになっている。大規模な交響曲的形式はほとんど手がけず、代わりに「抒情小曲集」のような、シューマンにも通じる小品を積み重ねる形式を好んだ。",
+    "en": "He drew on the modal inflections of Norwegian folk fiddle music and drone-like open fifths, building a distinctly Norwegian harmonic language. A characteristic falling half-step figure recurs across many works, from the opening of the Piano Concerto onward, becoming something close to a musical fingerprint. He rarely attempted large symphonic forms, preferring instead, as in his *Lyric Pieces*, the kind of accumulated short character pieces that also recall Schumann's suites."
+  },
+  "impact": {
+    "ja": "ノルウェーにとって、シベリウスがフィンランドに果たしたのと同じような役割を担う、国際的な音楽の顔となった。ピアノ協奏曲と「ペール・ギュント」組曲は、北欧出身の作曲家の作品としては例外的なほど頻繁に国際的なレパートリーで演奏され続けている。「抒情小曲集」という小品の積み重ねという形式は、後続の作曲家が短い性格的小品に取り組む際の手本の一つになっている。",
+    "en": "He became the international face of Norwegian music, playing a role comparable to what Sibelius would later be for Finland. The Piano Concerto and the *Peer Gynt* suites remain, for a composer from a small Nordic nation, exceptionally frequent fixtures of the international repertoire. The accumulated-miniature format of the *Lyric Pieces* became one model later composers drew on when writing short character pieces of their own."
+  },
+  "keywords": {
+    "ja": [
+      "ノルウェー民俗音楽の和声化",
+      "半音下降のグリーグ動機",
+      "抒情小品の連作"
+    ],
+    "en": [
+      "Norwegian folk harmony",
+      "The falling 'Grieg motif'",
+      "A cycle of lyric miniatures"
+    ]
+  }
+}

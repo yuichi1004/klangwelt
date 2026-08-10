@@ -57,7 +57,7 @@
   "12": {
     "name": "César Franck",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "13": {
     "name": "Michael Tippett",
@@ -92,7 +92,7 @@
   "19": {
     "name": "Samuel Barber",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "20": {
     "name": "Malcolm Arnold",
@@ -177,7 +177,7 @@
   "36": {
     "name": "Ralph Vaughan Williams",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "37": {
     "name": "Manuel de Falla",
@@ -327,7 +327,7 @@
   "66": {
     "name": "Luigi Boccherini",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "67": {
     "name": "George Frideric Handel",
@@ -482,7 +482,7 @@
   "97": {
     "name": "Domenico Scarlatti",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "98": {
     "name": "Antonio Vivaldi",
@@ -807,7 +807,7 @@
   "162": {
     "name": "Edvard Grieg",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "163": {
     "name": "Elliott Carter",
@@ -847,7 +847,7 @@
   "170": {
     "name": "Aaron Copland",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "171": {
     "name": "Richard Strauss",
@@ -862,7 +862,7 @@
   "173": {
     "name": "Ottorino Respighi",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "174": {
     "name": "Carlos Chávez",
@@ -872,7 +872,7 @@
   "175": {
     "name": "Hector Berlioz",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "176": {
     "name": "Steve Reich",
@@ -937,7 +937,7 @@
   "188": {
     "name": "Sergei Rachmaninoff",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "189": {
     "name": "Antonín Dvořák",

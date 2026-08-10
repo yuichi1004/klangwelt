@@ -25,6 +25,58 @@
       ]
     }
   },
+  "12": {
+    "biography": {
+      "ja": "ベルギーに生まれ、幼少期には父親の強い意向でピアノの神童として舞台に立たされた。パリに移ってからは長年サント・クロチルド教会のオルガニストを務め、即興演奏の名手として名声を得た。\n作曲家としての本格的な評価を得たのは60代に入ってからで、代表作とされる交響曲ニ短調の初演でさえ当初は賛否の割れる評価だった。晩年は多くの若い弟子たちに慕われる存在となったが、路上で乗合馬車にはねられた事故がもとで急死している。",
+      "en": "Born in Belgium, he was pushed onto the concert stage as a child prodigy pianist by his father. After moving to Paris he spent decades as organist of the church of Sainte-Clotilde, gaining fame as a master improviser.\nHe was not recognised as a serious composer until his sixties, and even the premiere of the Symphony in D minor, now considered his masterpiece, was met with a divided reception at the time. In his final years he became a beloved mentor to a circle of devoted younger students, but died suddenly after being struck by a horse-drawn omnibus in the street."
+    },
+    "style": {
+      "ja": "ある楽章で提示した主題を姿を変えながら後の楽章に再登場させ、複数の楽章を通じて全体を統一する「循環形式」の手法を追求し、多くの弟子たちにこの技法を伝えた。オルガニストとしての経験を反映し、鍵盤楽器以外の作品でも、持続音を多用した密度の高い半音階的な和声を書いている。敬虔な信仰心に裏打ちされた、同時代のフランス・オペラの劇場的な作風とは一線を画す、内省的で神秘的な作風を持つ。",
+      "en": "He pursued cyclic form, bringing back a theme introduced in an early movement, transformed, in later movements to unify a multi-movement work — a technique he passed on to many of his students. His background as an organist shaped a dense, chromatic harmony built on sustained tones, carried through even into works for other instruments. A deeply devout character underlies a searching, often mystical quality distinct from the theatrical French operatic tradition around him."
+    },
+    "impact": {
+      "ja": "彼が追求した循環形式は、弟子であるダンディやショーソン、デュパルクらを通じて次の世代のフランス音楽における重要な構成原理となり、19世紀末から20世紀初頭のフランス器楽曲全体の方向性を形づくった。生前ではなく主に没後、弟子たちの尽力によって高い評価を確立したことは、オペラが主流だったフランスにおいて、構成上厳密な器楽曲の伝統を切り開き、後続の作曲家たちに活動の場を用意することにつながった。",
+      "en": "The cyclic form he championed became, through his students d'Indy, Chausson and Duparc, a defining structural approach for the following generation of French music, shaping the direction of French instrumental music from the late nineteenth into the early twentieth century. His recognition as a major composer, established mostly after his death through his students' advocacy, opened a space for a tradition of structurally rigorous instrumental music in a France where opera had long dominated, clearing ground for the instrumental composers who followed."
+    },
+    "keywords": {
+      "ja": [
+        "循環形式",
+        "オルガン由来の半音階的和声",
+        "遅れて確立した評価"
+      ],
+      "en": [
+        "Cyclic form",
+        "Organ-rooted chromatic harmony",
+        "Belated recognition"
+      ]
+    }
+  },
+  "19": {
+    "biography": {
+      "ja": "若くしてカーティス音楽院に学んだ。同性のパートナーであった作曲家ジャン・カルロ・メノッティとは、数十年にわたる創作上・私生活上の伴侶関係にあった。\n1966年、リンカーンセンターに新設されたメトロポリタン歌劇場の柿落とし公演として委嘱されたオペラ「アントニーとクレオパトラ」は、過剰な演出も災いして酷評される結果に終わった。この経験は、その後の彼の創作活動に長く影を落としたとされる。",
+      "en": "He studied from a young age at the Curtis Institute. His partner, the composer Gian Carlo Menotti, was both a creative and a personal companion for decades.\nIn 1966, an opera he was commissioned to write, *Antony and Cleopatra*, opened the new Metropolitan Opera House at Lincoln Center — a high-profile premiere let down by an overblown production, and it was harshly received. The experience is said to have cast a long shadow over his work afterward."
+    },
+    "style": {
+      "ja": "20世紀半ばのアメリカでセリー音楽が主流となっていく中でも、調性に根ざした歌うような旋律を手放さない、抒情的なネオ・ロマン主義の作風を貫いた。「弦楽のためのアダージョ」に象徴されるように、順次進行による息の長い旋律線と、慎重に解決される保留和音だけで、きわめて簡素な手段から大きな感情の重みを生み出す書法を得意とした。",
+      "en": "Even as serialism became the dominant idiom in mid-century American composition, he held to a lyrical Neo-Romantic style rooted in tonality and singing melody. As the *Adagio for Strings* shows, he excelled at generating enormous emotional weight from very simple means — a long-breathed, stepwise melodic line and carefully, patiently resolved suspended dissonances."
+    },
+    "impact": {
+      "ja": "「弦楽のためのアダージョ」は、演奏会用作品としては異例なことに、国家的な追悼の場で繰り返し演奏される曲になった。大統領の国葬や、大きな悲劇の追悼放送、戦争の悲しみを描いた映画などで用いられ、アメリカの集団的な悲しみを表す音楽としてもっとも頻繁に呼び出される存在になっている。セリー音楽が学界の主流だった時代を通じて調性的な抒情性を貫いたことは、その後の世代に調性回帰の正当な選択肢を残す先例となった。",
+      "en": "The *Adagio for Strings* became, unusually for a concert work, a piece repeatedly invoked at moments of national mourning — played at state funerals, broadcast after major tragedies, and used memorably in films depicting the sorrow of war. It has arguably become the piece of American classical music most often called on to voice collective grief. His sustained commitment to tonal lyricism through the era when serialism dominated academic composition left later generations a validated alternative, helping keep tonal composition a legitimate option even during the period of its greatest critical disfavour."
+    },
+    "keywords": {
+      "ja": [
+        "調性的な抒情主義",
+        "簡素な手段による感情の重み",
+        "追悼の音楽としての受容"
+      ],
+      "en": [
+        "Tonal lyricism",
+        "Emotional weight from simple means",
+        "Music of public mourning"
+      ]
+    }
+  },
   "35": {
     "biography": {
       "ja": "パルマ近郊の農村に生まれ、ミラノでラヴィーニャに師事した。20代で妻子を相次いで亡くす不幸のさなかに書いた歌劇が不評に終わり作曲をやめようとしたが、「ナブッコ」の成功で一転して名声を得る。以後60年近くにわたり26作の歌劇を書き続けた。\nイタリア統一運動のさなか、彼の歌劇の合唱曲は民族の心情を託す歌として愛唱され、統一後には上院議員も務めた。「椿姫」「リゴレット」「アイーダ」など、声楽の魅力を前面に押し出しながら劇的な緊張を保つ作風で、イタリア・オペラの中心的存在であり続けた。",
@@ -48,6 +100,32 @@
         "Voice-centred drama",
         "Symbol of national identity",
         "Evolving Italian opera"
+      ]
+    }
+  },
+  "36": {
+    "biography": {
+      "ja": "国内各地をまわって民謡を採集し、聖歌集「イングリッシュ・ハイムナル」の編纂にも携わって、多くの民謡旋律を讃美歌として編曲した。第一次世界大戦では平均的な徴兵年齢を超えていたにもかかわらず志願し、担架兵として従軍している。\n友人であり同僚の作曲家でもあったホルストとは互いの草稿を見せ合って批評し合う習慣を長年続けた。9曲の交響曲を残しているが、牧歌的な初期の作風から、晩年の激しく不協和な作風まで、一人の作曲家とは思えないほど幅広い振れ幅を持つ。",
+      "en": "He travelled the country collecting folk songs and helped edit *The English Hymnal*, arranging many folk melodies as hymn tunes. Though past the average age for enlistment, he volunteered for the First World War and served as a stretcher-bearer.\nWith his friend and fellow composer Gustav Holst, he kept up a long-running habit of showing each other's manuscripts and critiquing them. He left nine symphonies, but the range between his pastoral early style and the harsh dissonance of his later works is so wide it can be hard to believe they came from the same composer."
+    },
+    "style": {
+      "ja": "イギリスの民謡と、テューダー朝時代の古い教会旋法を作品の土台に据え、ドイツ音楽の伝統に基づく通常の長短調とは異なる独自の和声語法を築いた。「ひばりの上昇」に代表される中期までの作品では牧歌的でおおらかなイギリスの田園風景を描いたが、晩年の交響曲第4番などでは一転して激しく不協和な響きを打ち出し、牧歌的な作風だけを期待していた同時代の聴衆を驚かせている。",
+      "en": "He built his music on English folk song and the church modes of Tudor-era music, developing a harmonic language distinct from the major-minor system most English composers absorbed through German training. Works up to his middle period, such as *The Lark Ascending*, evoke a pastoral, expansive English countryside, but his later symphonies, such as the Fourth, turn to a harsh, dissonant sound that startled contemporaries expecting only pastoral gentleness from him."
+    },
+    "impact": {
+      "ja": "何世代にもわたり停滞していたイギリスの器楽音楽に、ドイツ音楽への依存から独立した国民的な様式を打ち立てた「イギリス音楽ルネサンス」の中心人物であり、後のブリテンらが活動する土台を整えた。「イングリッシュ・ハイムナル」で編曲した民謡由来の讃美歌は、ニールセンの場合と同様に、今日もイギリスの教会で歌われ続けている。民謡と教会旋法に根ざした和声語法は、ドイツ・ロマン派とも大陸のモダニズムとも異なる道を後続のイギリスの作曲家たちに示した。",
+      "en": "As a central figure of the 'English Musical Renaissance', he established a national style independent of German training after generations of relative dormancy in English instrumental music, laying groundwork that Britten and others later built on. The folk-derived hymn tunes he arranged for *The English Hymnal* are, like Nielsen's songs, still sung in English churches today. His modal, folk-rooted harmonic language offered later English composers a path distinct from both German Romanticism and continental modernism."
+    },
+    "keywords": {
+      "ja": [
+        "民謡と教会旋法の融合",
+        "イギリス音楽ルネサンス",
+        "牧歌性と激しさの両極"
+      ],
+      "en": [
+        "Folk song meets church modes",
+        "English Musical Renaissance",
+        "Pastoral calm and stark violence"
       ]
     }
   },
@@ -211,6 +289,32 @@
       ]
     }
   },
+  "66": {
+    "biography": {
+      "ja": "自身も卓越したチェロの名手で、通奏低音楽器として扱われることが多かったチェロを独奏・室内楽の主役に押し上げた最初期の作曲家の一人である。\nイタリアで学んだのち生涯の大半をスペインで過ごし、王族に仕える宮廷音楽家として活動した。晩年は後ろ盾を失い、困窮のうちにマドリードで世を去っている。",
+      "en": "A brilliant cellist himself, he was one of the earliest composers to lift the cello, often relegated to a continuo bass role, into a leading voice in solo and chamber music.\nAfter training in Italy, he spent most of his life in Spain, working as a court musician in royal service. In his final years he lost his patronage and died in poverty in Madrid."
+    },
+    "style": {
+      "ja": "弦楽五重奏曲を、通常のヴィオラ2挺ではなくチェロ2挺を含む編成で書くことを好み、自らの楽器を生かして低音の豊かな独特の響きを持つアンサンブルを作り上げた。優雅で洗練された古典派の旋律美はハイドンに比されることもあるが、より軽やかで親しみやすい性格を持つ。この編成による弦楽五重奏曲だけで100曲以上を残す、一つの室内楽形式への特異なまでの集中を見せた。",
+      "en": "For his string quintets he favoured a scoring with two cellos rather than the more usual two violas, drawing on his own instrument to give the ensemble a rich, dark bass sound unlike the norm. His elegant, polished Classical melodic charm has at times been compared to Haydn's, though generally lighter in emotional weight. He wrote more than a hundred quintets in this format alone, an unusually concentrated devotion to a single chamber genre."
+    },
+    "impact": {
+      "ja": "チェロを独奏楽器として確立する道を切り開き、その後のチェロ協奏曲や室内楽のレパートリーの基礎を築いた。彼が好んだチェロ2挺による弦楽五重奏という編成は、今日でも特殊ながら認知された室内楽の形の一つとして残っている。皮肉なことに、膨大な作品群の中でもっとも広く知られているのは、多くの人が作曲者を意識しないまま耳にしている一曲の「メヌエット」であり、大きな全体像とは裏腹の受容のされ方をしている。",
+      "en": "He opened the way for the cello's emergence as a solo instrument, laying groundwork for the instrument's later concerto and chamber repertoire. The two-cello quintet format he favoured survives today as a recognised, if specialised, chamber configuration. Ironically, out of his vast output, what is most widely known is a single minuet that many people recognise without knowing who wrote it — a reception oddly out of proportion to the scale of his overall work."
+    },
+    "keywords": {
+      "ja": [
+        "チェロ2挺の五重奏",
+        "独奏楽器としてのチェロの確立",
+        "有名な一曲と全体像の落差"
+      ],
+      "en": [
+        "Two-cello quintet scoring",
+        "Establishing the solo cello",
+        "One famous piece, a vast catalogue"
+      ]
+    }
+  },
   "67": {
     "biography": {
       "ja": "バッハと同じ1685年にドイツで生まれたが、イタリアで学んだのちイギリスに定住し、後年は英国に帰化した。ロンドンでは自らオペラ興行主として資金を集め、劇場を運営する事業家としての顔も持っていた。\n当初はイタリア語のオペラ・セリアで名声を築いたが、この様式がロンドンで人気を失うと、英語による宗教的題材の演奏会用作品「オラトリオ」へと軸足を移した。「メサイア」はその代表作で、以後今日まで途切れず上演され続けている。",
@@ -364,6 +468,32 @@
         "Speech-melody",
         "Fragmentary dramatic structure",
         "Belated international recognition"
+      ]
+    }
+  },
+  "97": {
+    "biography": {
+      "ja": "バッハやヘンデルと同じ1685年に、作曲家アレッサンドロ・スカルラッティの息子として生まれた。生涯の大半をポルトガルとスペインの宮廷で過ごし、のちにスペイン王妃となるマリア・バルバラに鍵盤楽器を教える音楽教師として長年仕えた。\n単一楽章のチェンバロ・ソナタを500曲以上残しており、手の交差やギターを思わせる爪弾きの模倣など、同時代のどの作曲家とも異なる技巧的で独創的な書法を追求した。",
+      "en": "Born in 1685, the same year as Bach and Handel, the son of the composer Alessandro Scarlatti, he spent most of his career at the Portuguese and then Spanish courts, serving for decades as keyboard teacher to Maria Barbara, who later became Queen of Spain.\nHe left more than five hundred single-movement harpsichord sonatas, pursuing a virtuosic, highly original keyboard writing unlike any of his contemporaries — hand-crossings, guitar-like strumming effects, and touches that echo the Iberian music around him."
+    },
+    "style": {
+      "ja": "多くは単一楽章の二部形式によるソナタで、一曲ごとに一つの技巧的・表現的な着想を集中的に追求した。手を交差させる技巧や急速な同音連打、大きな跳躍など、当時としては異例なほど高い技巧を要求する書法を用いた。イベリア半島の民俗音楽やギターの奏法、さらにムーア文化の影響を受けた響きまでも鍵盤楽器の書法に直接取り込み、同時代のイタリアやドイツの鍵盤音楽とはまったく異なる個性を打ち立てた。",
+      "en": "Most of his sonatas are single movements in binary form, each pursuing one technical or expressive idea intensely. He demanded a virtuosity unusual for the era — crossed hands, rapid repeated notes, wide leaps. He brought the folk music and guitar idiom of the Iberian Peninsula, and even harmonies touched by Moorish influence, directly into keyboard writing, establishing a voice entirely unlike the mainstream Italian or German keyboard music of his time."
+    },
+    "impact": {
+      "ja": "鍵盤楽器の技巧と表現の可能性を当時の標準をはるかに超えて押し広げ、のちの古典派・ロマン派の鍵盤作曲家たちが追求する妙技の先触れとなった。彼のソナタは今日もチェンバロ、そしてピアノでの演奏会や試験の定番演目であり続けている。同じ1685年生まれのバッハ、ヘンデルと並び称される後期バロックの三巨星でありながら、イベリア半島の響きを吸収した彼の語法は、二人とはまったく異なる道を切り開いた。",
+      "en": "He expanded the technical and expressive possibilities of keyboard writing far beyond what was standard for his era, anticipating the virtuosity later Classical and Romantic keyboard composers would pursue. His sonatas remain a staple of harpsichord — and, on modern piano — recital and audition repertoire today. Alongside Bach and Handel, born in the same year of 1685, he stands as one of the three towering keyboard figures of the late Baroque, even as his Iberian-inflected voice charted a path entirely distinct from either of theirs."
+    },
+    "keywords": {
+      "ja": [
+        "単一楽章の技巧的ソナタ",
+        "イベリア音楽の吸収",
+        "1685年生まれの三巨星"
+      ],
+      "en": [
+        "Virtuosic single-movement sonatas",
+        "Absorbing Iberian idiom",
+        "One of three giants born in 1685"
       ]
     }
   },
@@ -635,6 +765,32 @@
       ]
     }
   },
+  "162": {
+    "biography": {
+      "ja": "ライプツィヒ音楽院でライネッケらに学んだが、ドイツ流の教育に息苦しさを感じていた。ノルウェーに戻ってから出会った作曲家リカルド・ノルドロークとの親交を通じて、より明確にノルウェー的な語法を追求する方向性を見出したとされる。ノルドロークが若くして病没したことは、彼に深い衝撃を与えた。\n劇作家イプセンの依頼で戯曲「ペール・ギュント」の劇音楽を作曲するなど、ノルウェーを代表する作曲家として国内外で活動した。",
+      "en": "He studied at the Leipzig Conservatory under Reinecke and others, but found the German training stifling. After returning to Norway, his friendship with the composer Rikard Nordraak is said to have shown him the way to a more distinctly Norwegian voice. Nordraak's early death from illness affected him deeply.\nHe wrote incidental music for Ibsen's play *Peer Gynt* at the playwright's request, among other work, and became Norway's leading composer at home and abroad."
+    },
+    "style": {
+      "ja": "ノルウェーの民俗フィドル音楽に特有の旋法や、開放的な5度を用いたドローン風の響きを取り入れ、明確にノルウェー的な和声語法を築いた。半音下降する特徴的な音型が、ピアノ協奏曲の冒頭をはじめ数多くの作品に繰り返し現れ、彼の音楽を特徴づける指紋のようになっている。大規模な交響曲的形式はほとんど手がけず、代わりに「抒情小曲集」のような、シューマンにも通じる小品を積み重ねる形式を好んだ。",
+      "en": "He drew on the modal inflections of Norwegian folk fiddle music and drone-like open fifths, building a distinctly Norwegian harmonic language. A characteristic falling half-step figure recurs across many works, from the opening of the Piano Concerto onward, becoming something close to a musical fingerprint. He rarely attempted large symphonic forms, preferring instead, as in his *Lyric Pieces*, the kind of accumulated short character pieces that also recall Schumann's suites."
+    },
+    "impact": {
+      "ja": "ノルウェーにとって、シベリウスがフィンランドに果たしたのと同じような役割を担う、国際的な音楽の顔となった。ピアノ協奏曲と「ペール・ギュント」組曲は、北欧出身の作曲家の作品としては例外的なほど頻繁に国際的なレパートリーで演奏され続けている。「抒情小曲集」という小品の積み重ねという形式は、後続の作曲家が短い性格的小品に取り組む際の手本の一つになっている。",
+      "en": "He became the international face of Norwegian music, playing a role comparable to what Sibelius would later be for Finland. The Piano Concerto and the *Peer Gynt* suites remain, for a composer from a small Nordic nation, exceptionally frequent fixtures of the international repertoire. The accumulated-miniature format of the *Lyric Pieces* became one model later composers drew on when writing short character pieces of their own."
+    },
+    "keywords": {
+      "ja": [
+        "ノルウェー民俗音楽の和声化",
+        "半音下降のグリーグ動機",
+        "抒情小品の連作"
+      ],
+      "en": [
+        "Norwegian folk harmony",
+        "The falling 'Grieg motif'",
+        "A cycle of lyric miniatures"
+      ]
+    }
+  },
   "165": {
     "biography": {
       "ja": "父ヨハン・シュトラウス1世も高名な楽団指揮者だったが、息子には音楽家ではなく銀行員になることを望み、稽古を禁じたと伝えられる。母が父に隠れてヴァイオリンの手ほどきを受けさせ、19歳で自らの楽団を率いてデビューした際には、父の支持者との間で人気を二分する騒動になったという。\n父の死後は二つの楽団を統合し、ウィーンの舞踏音楽の第一人者となった。後年は活動の軸を舞踏会用の楽曲からオペレッタの劇場作品へと広げている。",
@@ -687,6 +843,32 @@
       ]
     }
   },
+  "170": {
+    "biography": {
+      "ja": "ブルックリンでユダヤ系移民の家庭に生まれ、パリに渡ってブーランジェに師事した。彼女のもとで学んだ最初期のアメリカ人作曲家の一人であり、以後多くのアメリカ人作曲家が彼女の教えを受ける流れの先駆けとなった。\n当初は不協和なモダニズムの語法で出発したが、1930年代の大恐慌下、より多くの聴衆に届く音楽を書こうと意図的に作風を単純化した。民謡を取り入れ、広々とした開放的な響きでアメリカの風景を思わせるバレエ音楽を多く手がけ、映画音楽でアカデミー賞も受賞している。",
+      "en": "Born in Brooklyn to a family of Jewish immigrants, he travelled to Paris to study with Nadia Boulanger, becoming one of the earliest American composers to study with her — a pioneer of a path many American composers would later follow.\nHe began in a dissonant modernist idiom, but during the Depression of the 1930s he deliberately simplified his style to reach a wider audience. Incorporating folk tunes, he wrote a series of ballets in an open, spacious sound evoking the American landscape, and also won an Academy Award for a film score."
+    },
+    "style": {
+      "ja": "4度や5度を多用した開放的な和音と、見晴らしのよい管弦楽法によって、アメリカの広大な風景を思わせる独自の「アメリカン・サウンド」を確立した。「アパラチアの春」でシェーカー教徒の讃美歌「シンプル・ギフト」を取り入れたように、民謡やカウボーイの歌を作品に直接組み込んでいる。初期にはジャズに通じるシンコペーションを用い、晩年には十二音技法にも独自の形で立ち返った。",
+      "en": "Through wide open intervals — fourths and fifths — and a spacious orchestration, he established a distinctive 'Americana' sound evoking the country's vast landscapes. As in *Appalachian Spring*, which incorporates the Shaker hymn 'Simple Gifts', he brought folk tunes and cowboy songs directly into his concert works. His early music drew on jazz syncopation, and late in his career he returned, in his own personal way, to the twelve-tone technique."
+    },
+    "impact": {
+      "ja": "「アメリカ作曲家の学長」と評されるほどの存在となり、大恐慌期に聴衆へ届く音楽を書こうとした姿勢は、モダニズムの技法を手放さずに国民的な広がりを持つ音楽を書くという手本を後続の作曲家に示した。教え子の一人であるヒナステラを通じて、その影響はラテンアメリカの作曲家にも及んでいる。ヨーロッパから輸入された様式に頼っていたアメリカのクラシック音楽に、独自の国民的な響きを与えた立役者と位置づけられている。",
+      "en": "He came to be called 'the Dean of American Composers', and his deliberate effort during the Depression to write music that reached ordinary audiences set a model, for later composers, of writing for a national audience without abandoning craft. Through his student Ginastera, his influence reached as far as Latin America. He is credited as the figure who gave American classical music, until then largely dependent on styles imported from Europe, a distinctive national sound of its own."
+    },
+    "keywords": {
+      "ja": [
+        "開放的な和音のアメリカ的響き",
+        "民謡の取り込み",
+        "国民的な作曲家像"
+      ],
+      "en": [
+        "Open-interval Americana sound",
+        "Folk tune integration",
+        "A national composer figure"
+      ]
+    }
+  },
   "171": {
     "biography": {
       "ja": "宮廷楽団の首席ホルン奏者だった父から古典派の作曲技法を厳格に叩き込まれた。皮肉なことに、ワーグナーを快く思わなかった父のもとで育ちながら、彼自身は後年ワーグナー的な語法を大胆に推し進める作曲家になっている。\n初期は「ツァラトゥストラはかく語りき」に代表される交響詩で名を上げ、その後は台本作家ホーフマンスタールとの共作を軸にオペラの作曲へと軸足を移した。ナチス政権下では国家音楽局の総裁に就任したが、息子の妻がユダヤ系であったことなどから当局との関係は複雑化し、のちに辞任している。",
@@ -710,6 +892,58 @@
         "Tone poem taken to its limit",
         "Dramatic soprano writing",
         "A late stylistic turn"
+      ]
+    }
+  },
+  "173": {
+    "biography": {
+      "ja": "もとはヴァイオリンとヴィオラの奏者としてサンクトペテルブルクの歌劇場管弦楽団で演奏しており、その縁でリムスキー=コルサコフに管弦楽法を学んだ。この経験が、のちに卓越した管弦楽の名手として知られる素地になっている。\n音楽史の研究者としての一面も持ち、ルネサンスやバロック時代のリュート曲やグレゴリオ聖歌を現代の管弦楽用に編曲する活動を続けた。「ローマの松」では、実際のナイチンゲールの鳴き声を録音したレコードを演奏中に流すという、当時としては極めて先進的な試みも行っている。",
+      "en": "He originally worked as a violinist and violist in an opera orchestra in Saint Petersburg, and through that connection studied orchestration with Rimsky-Korsakov — an experience behind his later reputation as a brilliant orchestrator.\nHe was also a scholar of music history, and continued a practice of arranging Renaissance and Baroque lute music and Gregorian chant for modern orchestra. In *Pines of Rome* he took the remarkably forward-looking step, for the time, of playing an actual recording of a nightingale's song during the performance."
+    },
+    "style": {
+      "ja": "リムスキー=コルサコフから受け継いだ管弦楽法を土台に、きわめて色彩豊かで技巧的な書法を追求した。古い時代の音楽資料を研究する音楽史家としての顔も持ち、ルネサンスやバロックの原典を編曲する学究的な仕事と、印象主義的な華やかな管弦楽の響きという、あまり両立しない二つの資質を併せ持っていた。「ローマの松」で実際の鳥の鳴き声の録音を演奏に組み込んだことは、のちの電子音楽やミュージック・コンクレートに数十年先立つ、自然音をそのまま作品に取り込む先駆的な試みだった。",
+      "en": "Building on the orchestration he inherited from Rimsky-Korsakov, he pursued a richly colourful, virtuosic writing. As a scholar of early music, he also worked on arranging Renaissance and Baroque source material — a scholarly pursuit rarely combined with his other gift, a lush Impressionist orchestral colour. Incorporating an actual recording of birdsong into the performance of *Pines of Rome* was a pioneering use of found natural sound in a concert work, decades ahead of the later electronic music and musique concrète that would make such practices common."
+    },
+    "impact": {
+      "ja": "「ローマ三部作」は、オーケストラの機動力や録音の音質を披露する演目として今日も特に愛され、管弦楽の色彩美を示す代表作であり続けている。古楽器による演奏が一般化する以前の時代に、古い時代の音楽を現代の聴衆に橋渡しする役割を編曲を通じて果たした。「ローマの松」での録音の使用は、管弦楽作品にテクノロジーを取り込む先駆的な身振りとして、音楽史家によってしばしば言及される。",
+      "en": "The Roman trilogy remains especially beloved as a showpiece demonstrating orchestral virtuosity and recorded sound quality, and stands as a benchmark of orchestral colour to this day. In an era before period-instrument performance became standard, his arrangements served as a bridge, bringing early music to modern audiences. His use of a recording in *Pines of Rome* is frequently cited by historians as an early, prescient gesture toward incorporating technology into orchestral composition."
+    },
+    "keywords": {
+      "ja": [
+        "色彩豊かな管弦楽法",
+        "古楽の現代的編曲",
+        "録音を用いた先駆的表現"
+      ],
+      "en": [
+        "Colourful orchestration",
+        "Modern arrangements of early music",
+        "Pioneering use of recorded sound"
+      ]
+    }
+  },
+  "175": {
+    "biography": {
+      "ja": "医師だった父の意向でパリに送られ医学を学んだが、解剖実習に強い嫌悪感を抱いたこともあって医学を離れ、家族の反対を押し切って音楽の道に進んだ。\nアイルランド出身の女優ハリエット・スミッソンの舞台に心を奪われ、その一途な恋慕をもとに「幻想交響曲」を書いた。作品には、恋する芸術家がアヘンによる幻覚の中で繰り返し思い浮かべる恋人を表す「イデー・フィクス」という主題が用いられている。二人はのちに結婚した。管弦楽法に関する著作「管弦楽法」は、以後何世代もの作曲家に読み継がれる古典的な教本になっている。",
+      "en": "Sent to Paris by his father, a doctor, to study medicine, he abandoned it — put off, among other things, by dissection — and pursued music against his family's wishes.\nCaptivated by the Irish actress Harriet Smithson after seeing her on stage, he channelled his obsessive infatuation into the *Symphonie fantastique*, which uses a recurring theme, the *idée fixe*, to represent the beloved as she returns again and again in the opium-fuelled hallucinations of the artist at its centre. The two later married. His *Treatise on Instrumentation* became a classic textbook that generations of composers after him studied."
+    },
+    "style": {
+      "ja": "管弦楽法を単に既存の楽想に色を添える手段としてではなく、それ自体が劇的な意味を生み出す独立した表現要素として体系化し、自らの著作「管弦楽法」にまとめた。「幻想交響曲」で用いた「イデー・フィクス」——特定の人物や観念を表す主題を全曲にわたって回帰させる手法——は、のちのリストの主題変容やワーグナーの示導動機に先立つ、標題音楽の先駆的な試みだった。弓の木部で弦を叩く特殊奏法や舞台袖の楽器、巨大な打楽器群など、劇的な効果のためなら型破りな編成もためらわなかった。",
+      "en": "He treated orchestration not merely as colour added to an existing musical idea but as an expressive element that generates dramatic meaning in its own right, codifying the approach in his own *Treatise on Instrumentation*. The *idée fixe* he used in the *Symphonie fantastique* — a theme representing a specific person or idea that recurs across an entire work — was a pioneering exercise in programme music that came before Liszt's thematic transformation and Wagner's leitmotif. He did not hesitate to reach for unconventional forces for dramatic effect: col legno string technique, offstage instruments, huge percussion sections."
+    },
+    "impact": {
+      "ja": "彼の「管弦楽法」は音楽史上もっとも影響力のある技術書の一つとなり、のちにリヒャルト・シュトラウスが自ら注釈を加えて改訂するなど、管弦楽法という技術そのものが独立した教育分野として確立される土台になった。「幻想交響曲」の「イデー・フィクス」は、リストの主題変容やワーグナーの示導動機に先立つ概念的な先駆けとして音楽史家に位置づけられており、初期ロマン派の標題音楽と、それを体系化した後続の作曲家たちとを結ぶ、見過ごされがちな重要な結節点になっている。",
+      "en": "His *Treatise on Instrumentation* became one of the most influential technical texts in music history, later revised and annotated by Richard Strauss himself, and helped establish orchestration as a discrete craft to be taught in its own right. Historians now widely place the *idée fixe* of the *Symphonie fantastique* as a direct conceptual forerunner of both Liszt's thematic transformation and Wagner's leitmotif, making him an often underrecognised link between early Romantic programme music and the more systematic techniques that followed."
+    },
+    "keywords": {
+      "ja": [
+        "管弦楽法の体系化",
+        "イデー・フィクス",
+        "標題音楽の先駆"
+      ],
+      "en": [
+        "Codifying orchestration",
+        "The idée fixe",
+        "A forerunner of programme music"
       ]
     }
   },
@@ -792,6 +1026,36 @@
         "Nature-evoking sonority",
         "Single-movement form",
         "The long silence"
+      ]
+    }
+  },
+  "188": {
+    "biography": {
+      "ja": "モスクワ音楽院でジロティらに学び、優れたピアニストとしても名を上げた。交響曲第1番の初演が指揮の不出来もあって大失敗に終わると、深刻な抑うつ状態に陥り、以後3年ほど新作を書けなくなった。\nロシア革命後は祖国を離れ、最終的にアメリカに定住した。生活のために演奏活動に多くの時間を割かねばならず、20世紀最高のピアニストの一人と評されるようになった一方で、亡命後に残した新作の数は限られている。",
+      "en": "He studied at the Moscow Conservatory under Siloti and others, and made his name as an outstanding pianist as well as a composer. When the premiere of his First Symphony was a disaster, not helped by a poor performance, he fell into a severe depression and was unable to compose anything new for about three years.\nAfter the Russian Revolution he left his homeland and eventually settled in the United States. Needing to devote much of his time to performing to make a living, he came to be regarded as one of the greatest pianists of the twentieth century — even as the new works he produced after going into exile grew comparatively few."
+    },
+    "style": {
+      "ja": "ストラヴィンスキーやシェーンベルクが新しい語法を切り拓いていた同時代にあって、彼はロマン派の朗々とした旋律を20世紀に入っても書き続けた、意図的に保守的な作曲家だった。自身の大きな手の幅を生かした、和音を大きくつかむ技巧的で身体的な負荷の高いピアノ書法でも知られる。ロシア正教会の聖歌や鐘の音を思わせる響きが作品全体に繰り返し現れ、故郷の記憶と結びついた独自の音の指紋になっている。",
+      "en": "At a time when Stravinsky and Schoenberg were opening up new languages, he went on writing the broad, singing melody of Romanticism well into the twentieth century, a deliberately conservative composer. He is also known for a virtuosic, physically demanding piano writing that reaches wide chords suited to his own large hand span. The sound of Russian Orthodox chant and church bells recurs throughout his work, a distinctive sonic fingerprint tied to memories of his homeland."
+    },
+    "impact": {
+      "ja": "モダニズムが批評の主流だった時代に旧弊とみなされることもあったが、ロマン派の抒情性への聴衆の根強い支持を体現し、とりわけピアノ協奏曲は今日まで演奏会でもっとも人気の高い演目であり続けている。伝説的な名手として残した自作自演の録音は、ロマン派レパートリーの演奏解釈における重要な参照点になっている。",
+      "en": "Sometimes dismissed as old-fashioned in an era when modernism dominated criticism, he embodied audiences' enduring appetite for Romantic lyricism, and his piano concertos in particular remain among the most popular works in the concert repertoire today. As a legendary virtuoso, the recordings he made of his own works stand as an important reference point for how the Romantic piano repertoire is interpreted."
+    },
+    "story": {
+      "ja": "交響曲第1番の失敗後の深い抑うつから彼を救ったのは、ニコライ・ダーリ医師による催眠療法だったとされる。治療によって創作意欲を取り戻した彼は、大成功を収めることになるピアノ協奏曲第2番を書き上げ、その楽譜をダーリ医師に献呈した。",
+      "en": "He is said to have been pulled out of the deep depression that followed the failure of his First Symphony by hypnotherapy treatment from Dr Nikolai Dahl. Having regained his will to compose, he wrote the Second Piano Concerto — which would become a huge success — and dedicated the score to Dahl."
+    },
+    "keywords": {
+      "ja": [
+        "ロマン派抒情の継承",
+        "鐘の音を思わせる響き",
+        "名手としての遺産"
+      ],
+      "en": [
+        "Carrying Romantic lyricism forward",
+        "Bell-like sonorities",
+        "A virtuoso's legacy"
       ]
     }
   },

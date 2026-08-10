@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "医師だった父の意向でパリに送られ医学を学んだが、解剖実習に強い嫌悪感を抱いたこともあって医学を離れ、家族の反対を押し切って音楽の道に進んだ。\nアイルランド出身の女優ハリエット・スミッソンの舞台に心を奪われ、その一途な恋慕をもとに「幻想交響曲」を書いた。作品には、恋する芸術家がアヘンによる幻覚の中で繰り返し思い浮かべる恋人を表す「イデー・フィクス」という主題が用いられている。二人はのちに結婚した。管弦楽法に関する著作「管弦楽法」は、以後何世代もの作曲家に読み継がれる古典的な教本になっている。",
+    "en": "Sent to Paris by his father, a doctor, to study medicine, he abandoned it — put off, among other things, by dissection — and pursued music against his family's wishes.\nCaptivated by the Irish actress Harriet Smithson after seeing her on stage, he channelled his obsessive infatuation into the *Symphonie fantastique*, which uses a recurring theme, the *idée fixe*, to represent the beloved as she returns again and again in the opium-fuelled hallucinations of the artist at its centre. The two later married. His *Treatise on Instrumentation* became a classic textbook that generations of composers after him studied."
+  },
+  "style": {
+    "ja": "管弦楽法を単に既存の楽想に色を添える手段としてではなく、それ自体が劇的な意味を生み出す独立した表現要素として体系化し、自らの著作「管弦楽法」にまとめた。「幻想交響曲」で用いた「イデー・フィクス」——特定の人物や観念を表す主題を全曲にわたって回帰させる手法——は、のちのリストの主題変容やワーグナーの示導動機に先立つ、標題音楽の先駆的な試みだった。弓の木部で弦を叩く特殊奏法や舞台袖の楽器、巨大な打楽器群など、劇的な効果のためなら型破りな編成もためらわなかった。",
+    "en": "He treated orchestration not merely as colour added to an existing musical idea but as an expressive element that generates dramatic meaning in its own right, codifying the approach in his own *Treatise on Instrumentation*. The *idée fixe* he used in the *Symphonie fantastique* — a theme representing a specific person or idea that recurs across an entire work — was a pioneering exercise in programme music that came before Liszt's thematic transformation and Wagner's leitmotif. He did not hesitate to reach for unconventional forces for dramatic effect: col legno string technique, offstage instruments, huge percussion sections."
+  },
+  "impact": {
+    "ja": "彼の「管弦楽法」は音楽史上もっとも影響力のある技術書の一つとなり、のちにリヒャルト・シュトラウスが自ら注釈を加えて改訂するなど、管弦楽法という技術そのものが独立した教育分野として確立される土台になった。「幻想交響曲」の「イデー・フィクス」は、リストの主題変容やワーグナーの示導動機に先立つ概念的な先駆けとして音楽史家に位置づけられており、初期ロマン派の標題音楽と、それを体系化した後続の作曲家たちとを結ぶ、見過ごされがちな重要な結節点になっている。",
+    "en": "His *Treatise on Instrumentation* became one of the most influential technical texts in music history, later revised and annotated by Richard Strauss himself, and helped establish orchestration as a discrete craft to be taught in its own right. Historians now widely place the *idée fixe* of the *Symphonie fantastique* as a direct conceptual forerunner of both Liszt's thematic transformation and Wagner's leitmotif, making him an often underrecognised link between early Romantic programme music and the more systematic techniques that followed."
+  },
+  "keywords": {
+    "ja": [
+      "管弦楽法の体系化",
+      "イデー・フィクス",
+      "標題音楽の先駆"
+    ],
+    "en": [
+      "Codifying orchestration",
+      "The idée fixe",
+      "A forerunner of programme music"
+    ]
+  }
+}
