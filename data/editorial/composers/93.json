@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ミュンヘンに生まれ、後にザルツブルクのモーツァルテウムなどで教育活動にも力を注いだ。代表作は中世の詩集に曲を付けた世俗カンタータで、単純で力強いリズムの反復によって一躍名声を確立した。ナチス政権下でも活動を続け、ユダヤ系であることを理由に上演を禁じられたメンデルスゾーンの劇音楽に代わる新しい付随音楽を書いたことでも知られる。",
+    "en": "Born in Munich, he later devoted much energy to music education, teaching at institutions including the Mozarteum in Salzburg. His best-known work is a secular cantata setting medieval poetry, whose simple, forceful rhythmic repetition brought him sudden fame. He continued working under the Nazi regime and is also known for writing new incidental music to replace Mendelssohn's, after the latter's Jewish-authored work was banned from performance."
+  },
+  "style": {
+    "ja": "複雑な和声や対位法よりも、原始的なまでに力強いリズムの反復と、単純明快な旋律線を重視する語法を確立した。「シュールベルク」と呼ばれる自身の音楽教育法を通じて、木琴や打楽器を中心とする専用の教育楽器群を考案し、子供が音とリズムを身体で学ぶための独自の体系を作り上げた。",
+    "en": "Rather than complex harmony or counterpoint, he built an idiom centered on primitively forceful rhythmic repetition and simple, clear melodic lines. Through his own music-education method known as the \"Schulwerk,\" he devised a family of purpose-built teaching instruments centered on xylophones and percussion, creating a distinct system for children to learn sound and rhythm through the body."
+  },
+  "impact": {
+    "ja": "代表作は誕生から一世紀近くを経てなお、映画やCM音楽で頻繁に引用される20世紀で最も広く知られる合唱曲の一つとなった。一方でナチス体制下での活動、とりわけメンデルスゾーンの音楽の代替品を書いたという経歴は、芸術家が全体主義体制とどう関わったかという難しい問いを今も投げかけ続けている。教育法の面では、後にブリテンが探求した青少年向けの音楽教育とはまた異なる、身体的な音楽体験を重視するアプローチとして今も世界中で実践されている。",
+    "en": "Nearly a century after its premiere, his best-known choral work remains one of the most widely recognized pieces of twentieth-century music, frequently quoted in film and advertising. At the same time, his activity under the Nazi regime, and especially his role in supplying music to replace Mendelssohn's, continues to raise difficult questions about how artists engaged with totalitarian power. His educational method, distinct from the youth-oriented approach Britten later pursued, remains practiced worldwide as a way of teaching music through physical experience."
+  },
+  "keywords": {
+    "ja": [
+      "原始的なリズムの反復",
+      "シュールベルクによる音楽教育",
+      "ナチス体制下での複雑な経歴"
+    ],
+    "en": [
+      "Primal rhythmic repetition",
+      "Schulwerk music education method",
+      "Complicated record under the Nazi regime"
+    ]
+  }
+}
