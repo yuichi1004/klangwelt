@@ -12,7 +12,7 @@
   "3": {
     "name": "Niccolò Paganini",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "4": {
     "name": "Wilhelm Stenhammar",
@@ -32,7 +32,7 @@
   "7": {
     "name": "Erich Wolfgang Korngold",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "8": {
     "name": "Frederick Delius",
@@ -97,7 +97,7 @@
   "20": {
     "name": "Malcolm Arnold",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "21": {
     "name": "Mily Balakirev",
@@ -142,12 +142,12 @@
   "29": {
     "name": "Charles Gounod",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "30": {
     "name": "Johann Nepomuk Hummel",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "31": {
     "name": "George Crumb",
@@ -187,7 +187,7 @@
   "38": {
     "name": "George Enescu",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "39": {
     "name": "Claudio Monteverdi",
@@ -202,7 +202,7 @@
   "41": {
     "name": "Charles-Marie Widor",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "42": {
     "name": "Howard Hanson",
@@ -232,7 +232,7 @@
   "47": {
     "name": "Heinrich Franz von Biber",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "48": {
     "name": "Harrison Birtwistle",
@@ -252,7 +252,7 @@
   "51": {
     "name": "Vincenzo Bellini",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "52": {
     "name": "Carl Nielsen",
@@ -317,7 +317,7 @@
   "64": {
     "name": "Francisco Mignone",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "65": {
     "name": "Alessandro Scarlatti",
@@ -367,7 +367,7 @@
   "74": {
     "name": "John Field",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "75": {
     "name": "Gustav Holst",
@@ -527,7 +527,7 @@
   "106": {
     "name": "Ernest Bloch",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "107": {
     "name": "Ned Rorem",
