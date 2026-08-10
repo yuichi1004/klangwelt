@@ -1,0 +1,30 @@
+{
+  "biography": {
+    "ja": "パリ音楽院でフォーレに師事した。音楽院の権威ある作曲コンクールに繰り返し落選し、その選考の不透明さが世論を巻き込む騒動に発展したこともある。第一次世界大戦では兵役を志願したが、体格基準を理由に一度は不合格となり、のちに輸送兵として従軍した。\n一音一音を精密に磨き上げる作曲家として知られ、楽譜の校正にも厳格だった。管弦楽法の名手でもあり、自作だけでなくムソルグスキー「展覧会の絵」の編曲でもその手腕を示している。",
+    "en": "He studied under Fauré at the Paris Conservatoire. He was passed over again and again in the Conservatoire's prestigious composition prize, and the opacity of the judging once grew into a public scandal. When the First World War broke out he volunteered but was initially rejected on physical grounds, later serving as a truck driver.\nHe was known for polishing every note with great precision and was exacting about his own scores. He was also a master orchestrator, a skill he showed not only in his own works but in his orchestration of Mussorgsky's *Pictures at an Exhibition*."
+  },
+  "style": {
+    "ja": "印象主義的な和声を用いながらも、ドビュッシーとは対照的に形式の輪郭をあいまいにせず、明快な構成を保つことにこだわった。バスク人の血を引く母の影響もあり、スペイン舞曲のリズムをしばしば取り入れ、後年はジャズのブルー・ノートや和声も自作に採り入れた。「ボレロ」のように単一の旋律とリズム型を最初から最後まで反復し、その上で管弦楽の音色だけを次々に変えていくという実験的な構成も試みている。",
+    "en": "He used Impressionist harmony but, unlike Debussy, insisted on keeping formal outlines clear rather than letting them dissolve. Through his Basque mother's influence, Spanish dance rhythms recur through his output, and in his later years he brought jazz's blue notes and harmony into his own music. In *Boléro* he tried an experimental structure that repeats a single melody and rhythmic pattern from start to finish, changing nothing but the orchestral colour around it."
+  },
+  "impact": {
+    "ja": "精密な管弦楽法の手本として、以後の作曲家が編曲や管弦楽法を学ぶ際に必ず参照する模範であり続けている。ジャズの語法を借り物としてではなく自らの様式に消化して見せたことで、クラシック音楽とジャズの境界を越えていく20世紀の潮流に先鞭をつけた。",
+    "en": "His scores remain a model that later composers study to learn orchestration, precise enough to serve as a reference point on their own. By absorbing jazz's vocabulary into his own style rather than merely borrowing it, he helped open the twentieth-century current that crossed the line between classical music and jazz."
+  },
+  "story": {
+    "ja": "アメリカを演奏旅行中、彼に師事を望んだガーシュウィンとの面会が実現した。しかしラヴェルは、ガーシュウィンがすでに一流のガーシュウィンであるのに、二流のラヴェルになる必要はないと告げて、弟子入りを断ったと伝えられる。",
+    "en": "During a concert tour of the United States, he met George Gershwin, who hoped to study under him. Ravel is said to have turned him down, telling him there was no reason to become a second-rate Ravel when he was already a first-rate Gershwin."
+  },
+  "keywords": {
+    "ja": [
+      "精密な管弦楽法",
+      "形式の明晰さ",
+      "ジャズ語法の吸収"
+    ],
+    "en": [
+      "Precision orchestration",
+      "Formal clarity",
+      "Absorbing jazz idiom"
+    ]
+  }
+}

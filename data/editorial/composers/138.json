@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "自らの台本を書いて作曲する、当時としては珍しい作曲家だった。1849年のドレスデン蜂起に加わって指名手配され、長年の亡命生活を送っている。困窮していたところをバイエルン国王ルートヴィヒ2世に見出されて多額の援助を受け、後年は自らの構想通りに上演するための劇場をバイロイトに建設した。\nオーケストラ・ピットを客席から隠し、上演中は場内を暗くするという当時としては斬新な劇場設計を採用し、現在の歌劇場のあり方にも影響を残している。",
+    "en": "Unusually for the time, he wrote his own librettos as well as composing the music. He joined the 1849 Dresden uprising and was forced into years of exile as a wanted man. Rescued from financial ruin by King Ludwig II of Bavaria, who became his patron, he later built his own opera house at Bayreuth so his works could be staged exactly as he envisioned.\nThat theatre hid the orchestra pit from the audience and darkened the house during performances, a radical design for its time that still shapes how opera houses are built today."
+  },
+  "style": {
+    "ja": "特定の人物や感情、事物に結びついた短い旋律「示導動機」を全曲にわたって管弦楽の中で繰り返し変容させ、場面ごとに独立したアリアを積み重ねるのではなく、切れ目のない音楽の流れで劇を進める書法を確立した。「トリスタンとイゾルデ」における極端な半音階の多用は、調性という枠組みそのものを限界まで押し広げるものだった。声楽と対等、あるいはそれ以上の比重で語る巨大な管弦楽編成も特徴である。",
+    "en": "He wove a short musical phrase tied to a person, feeling, or object — a leitmotif — through the orchestral fabric across an entire work, and let the drama unfold as one continuous musical flow rather than a series of separate numbers, unlike Verdi's opera built from discrete arias. The extreme chromaticism of *Tristan und Isolde* pushed the framework of tonality itself to its limit. His hugely enlarged orchestra, carrying as much of the drama as the singers or more, is another hallmark."
+  },
+  "impact": {
+    "ja": "示導動機の手法は、のちの劇伴音楽や映画音楽が場面や人物に固有の旋律を割り当てる際の土台になっている。「トリスタンとイゾルデ」の半音階は、調性がやがて解体へ向かう出発点として音楽史上たびたび言及される。舞台と客席の関係を刷新したバイロイトの劇場設計は世界中の歌劇場に取り入れられた。一方で反ユダヤ主義的な著作を残し、没後にナチス政権によって政治的に利用されたことも、彼の受容史から切り離せない事実である。",
+    "en": "The leitmotif technique underlies the way later dramatic scoring and film music assign a distinct theme to a scene or character. The chromaticism of *Tristan und Isolde* is repeatedly cited in music history as a starting point on the road toward the eventual dissolution of tonality. The way Bayreuth reshaped the relationship between stage and audience was adopted by opera houses worldwide. At the same time, his antisemitic writings, and their political use by the Nazi regime after his death, are a fact that cannot be separated from how he has been received since."
+  },
+  "keywords": {
+    "ja": [
+      "示導動機",
+      "切れ目のない劇進行",
+      "調性の限界への挑戦"
+    ],
+    "en": [
+      "Leitmotif technique",
+      "Continuous musical drama",
+      "Pushing tonality's limits"
+    ]
+  }
+}

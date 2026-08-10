@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "バッハと同じ1685年にドイツで生まれたが、イタリアで学んだのちイギリスに定住し、後年は英国に帰化した。ロンドンでは自らオペラ興行主として資金を集め、劇場を運営する事業家としての顔も持っていた。\n当初はイタリア語のオペラ・セリアで名声を築いたが、この様式がロンドンで人気を失うと、英語による宗教的題材の演奏会用作品「オラトリオ」へと軸足を移した。「メサイア」はその代表作で、以後今日まで途切れず上演され続けている。",
+    "en": "Born in Germany in 1685, the same year as Bach, he trained in Italy before settling permanently in England, later becoming a naturalised British subject. In London he also worked as an opera impresario, raising money and running a theatre himself.\nHe first built his reputation on Italian opera seria, but when that style fell out of fashion in London he shifted his focus to the oratorio — a concert-format religious work sung in English. *Messiah*, his best-known example, has been performed without a break ever since."
+  },
+  "style": {
+    "ja": "バッハの緻密な対位法とは対照的に、大人数の聴衆にも一度で伝わる明快な旋律線と、劇場仕込みの効果的な場面転換を得意とした。オラトリオでは合唱を単なる背景ではなく、物語を動かす登場人物のように扱い、祝祭的な合唱の高揚感で聴き手を包み込む書法を確立した。イタリアの声楽的な旋律、ドイツの対位法、イギリスの合唱の伝統を一つに統合した国際的な様式を持つ。",
+    "en": "In contrast to Bach's dense counterpoint, he favoured clear melodic lines that an audience could grasp at once, and a theatrical instinct for pacing a scene. In the oratorios he treated the chorus not as mere background but as a character that drives the story, building a festive, choral surge that could sweep up a whole audience. His style fuses Italian vocal lyricism, German counterpoint and the English choral tradition into one international idiom."
+  },
+  "impact": {
+    "ja": "オラトリオという形式を英語圏に定着させ、以後何世紀にもわたって続く英国の合唱音楽の伝統を築いた。祝祭のために書いた大規模な管弦楽曲は、王侯貴族の式典向け音楽という一つの型を確立した。ロンドンで彼の作品に触れたハイドンが感銘を受け、自らのオラトリオ創作に向かったように、後続の作曲家にも直接の影響を及ぼしている。",
+    "en": "He established the oratorio in the English-speaking world, founding a tradition of British choral music that has continued for centuries since. The large-scale orchestral works he wrote for public celebrations set a lasting template for ceremonial music written for royalty and state occasions. His influence reached later composers directly — Haydn, who heard his music performed in London, was moved to take up oratorio composition himself."
+  },
+  "keywords": {
+    "ja": [
+      "劇的な合唱の書法",
+      "国際様式の統合",
+      "儀礼音楽の型"
+    ],
+    "en": [
+      "Dramatic choral writing",
+      "International synthesis",
+      "Ceremonial music template"
+    ]
+  }
+}

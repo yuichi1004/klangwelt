@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ヴェネツィアに生まれ、聖職に就いて司祭となったが、持病の胸の病を理由に程なくミサの執行から退いた。赤毛から「赤い司祭」と呼ばれた。生涯の大半を、孤児の少女たちを育てるヴェネツィアの施設オスペダーレ・デラ・ピエタで音楽を教える仕事に費やし、少女たちだけで編成された合奏団のために数多くの協奏曲を書いた。\n生前は国際的な名声を得たが、晩年には人気が衰え、ウィーンで困窮のうちに没した。作品の多くは長く忘れられていたが、20世紀に入って再評価が進み、現在は最も広く演奏されるバロック作曲家の一人になっている。",
+    "en": "Born in Venice, he was ordained a priest but soon stopped celebrating Mass, citing a chronic chest ailment. His red hair earned him the nickname 'the Red Priest'. He spent most of his career teaching music at the Ospedale della Pietà, a Venetian institution that raised orphaned girls, writing a huge number of concertos for the all-female ensemble there.\nHe achieved international fame in his lifetime, but his popularity faded in his later years and he died in poverty in Vienna. Much of his output was forgotten for a long time, but a twentieth-century revival has made him one of the most widely performed Baroque composers today."
+  },
+  "style": {
+    "ja": "急—緩—急の3楽章からなる協奏曲の型を定着させ、独奏部と合奏が主題を交互に受け渡す「リトルネッロ形式」を基本の設計として磨き上げた。この型はのちに古典派の協奏曲の標準形式の土台になっている。「四季」に代表されるように、鳥の声や嵐、氷の情景を器楽だけで描写する絵画的な手法も特徴で、標題を持つ器楽曲の先駆けとなった。",
+    "en": "He established the fast-slow-fast three-movement concerto and refined ritornello form as its basic design, where the orchestra restates a theme between episodes for the soloist — a template that later underlies the Classical concerto. As *The Four Seasons* shows, he also had a gift for pictorial writing, depicting birdsong, storms and ice using instruments alone, making him a forerunner of instrumental music with an explicit programme."
+  },
+  "impact": {
+    "ja": "彼が確立した協奏曲の型は、バッハが複数の協奏曲を鍵盤用に編曲して学んだように、同時代から後続の作曲家に直接取り入れられ、古典派の協奏曲の基礎になった。女性だけの合奏団のために本格的な器楽曲を書き続けたことは、当時としては例外的な音楽実践の記録でもある。長く忘れられていた作品群は20世紀の再評価によって演奏機会を取り戻し、「四季」は今日もっとも広く親しまれるバロック音楽の一つになっている。",
+    "en": "The concerto form he established was taken up directly by his contemporaries and successors — Bach transcribed several of his concertos for keyboard to study the technique — and it became the foundation of the Classical concerto. His sustained work writing serious instrumental music for an all-female ensemble is also a notable record of an unusual musical practice for its time. Long neglected, his music regained a wide audience after its twentieth-century rediscovery, and *The Four Seasons* is now one of the most widely loved works of Baroque music."
+  },
+  "keywords": {
+    "ja": [
+      "リトルネッロ形式",
+      "描写的な器楽曲",
+      "協奏曲様式の定着"
+    ],
+    "en": [
+      "Ritornello form",
+      "Pictorial instrumental music",
+      "Concerto template"
+    ]
+  }
+}

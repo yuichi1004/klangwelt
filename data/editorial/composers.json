@@ -1,4 +1,30 @@
 {
+  "35": {
+    "biography": {
+      "ja": "パルマ近郊の農村に生まれ、ミラノでラヴィーニャに師事した。20代で妻子を相次いで亡くす不幸のさなかに書いた歌劇が不評に終わり作曲をやめようとしたが、「ナブッコ」の成功で一転して名声を得る。以後60年近くにわたり26作の歌劇を書き続けた。\nイタリア統一運動のさなか、彼の歌劇の合唱曲は民族の心情を託す歌として愛唱され、統一後には上院議員も務めた。「椿姫」「リゴレット」「アイーダ」など、声楽の魅力を前面に押し出しながら劇的な緊張を保つ作風で、イタリア・オペラの中心的存在であり続けた。",
+      "en": "Born in a village near Parma, he studied in Milan under Vincenzo Lavigna. In his twenties, after losing his wife and children in quick succession, an opera he wrote in that grief was a failure and he nearly gave up composing — until *Nabucco* turned his fortunes around overnight. He went on writing operas for almost sixty years, twenty-six in all.\nDuring the movement for Italian unification, the choruses in his operas were taken up as songs of national feeling, and after unification he served in the new Senate. Across works such as *La traviata*, *Rigoletto* and *Aida*, he kept the singing voice at the centre while never losing dramatic tension, and remained the central figure of Italian opera throughout his life."
+    },
+    "style": {
+      "ja": "旋律を歌う声そのものに重心を置き、オーケストラが声を覆い隠すことを避けた。イタリア伝統のベルカントを基盤にしながらも、幕を追うごとに管弦楽の劇的な描写力を増していき、晩年の作品では朗唱と旋律の境目をほとんど感じさせない、切れ目のない劇の流れを書くに至った。少数の場面に感情を凝縮させる劇的な構成力を得意とした。",
+      "en": "He kept the weight on the singing voice itself and avoided letting the orchestra bury it. Building on the Italian bel canto tradition, he let the orchestra's dramatic colouring grow opera by opera, and in his late works the line between recitative and melody almost disappears into one continuous dramatic flow. He excelled at concentrating feeling into a small number of scenes rather than spreading it thin."
+    },
+    "impact": {
+      "ja": "イタリア統一運動の時代に国民感情を託される作曲家となり、音楽と政治的な機運が結びついた稀な例を残した。声を主役に据えながらも劇的な統一感を追求する姿勢は、同時代のワーグナーとは異なる道からオペラの表現力を押し広げるものであり、以後のイタリア・オペラ全体の水準を引き上げた。",
+      "en": "He became a composer onto whom national feeling was projected during the Italian unification movement, leaving a rare case of music and political momentum fusing together. His pursuit of dramatic unity while still keeping the voice as the protagonist pushed the expressive reach of opera forward by a different route from his contemporary Wagner, and raised the standard for Italian opera as a whole after him."
+    },
+    "keywords": {
+      "ja": [
+        "歌唱優位の劇的表現",
+        "民族意識の象徴",
+        "イタリア・オペラの深化"
+      ],
+      "en": [
+        "Voice-centred drama",
+        "Symbol of national identity",
+        "Evolving Italian opera"
+      ]
+    }
+  },
   "46": {
     "biography": {
       "ja": "ソヴィエト連邦を代表する作曲家として国内外で演奏される一方、当局からの批判と復権を繰り返した。1936年に歌劇「ムツェンスク郡のマクベス夫人」が党機関紙で糾弾されて以降、彼の創作は常に政治的な緊張のもとに置かれた。\n15曲の交響曲と15曲の弦楽四重奏曲を残した。公的な場面での勇壮な響きと、室内楽に見られる沈鬱で私的な表現との落差が大きく、その二面性をどう読むかは今も議論が続いている。",
@@ -22,6 +48,62 @@
         "Ambiguous musical language",
         "DSCH musical signature",
         "Quartets as a diary"
+      ]
+    }
+  },
+  "57": {
+    "biography": {
+      "ja": "パリ音楽院でフォーレに師事した。音楽院の権威ある作曲コンクールに繰り返し落選し、その選考の不透明さが世論を巻き込む騒動に発展したこともある。第一次世界大戦では兵役を志願したが、体格基準を理由に一度は不合格となり、のちに輸送兵として従軍した。\n一音一音を精密に磨き上げる作曲家として知られ、楽譜の校正にも厳格だった。管弦楽法の名手でもあり、自作だけでなくムソルグスキー「展覧会の絵」の編曲でもその手腕を示している。",
+      "en": "He studied under Fauré at the Paris Conservatoire. He was passed over again and again in the Conservatoire's prestigious composition prize, and the opacity of the judging once grew into a public scandal. When the First World War broke out he volunteered but was initially rejected on physical grounds, later serving as a truck driver.\nHe was known for polishing every note with great precision and was exacting about his own scores. He was also a master orchestrator, a skill he showed not only in his own works but in his orchestration of Mussorgsky's *Pictures at an Exhibition*."
+    },
+    "style": {
+      "ja": "印象主義的な和声を用いながらも、ドビュッシーとは対照的に形式の輪郭をあいまいにせず、明快な構成を保つことにこだわった。バスク人の血を引く母の影響もあり、スペイン舞曲のリズムをしばしば取り入れ、後年はジャズのブルー・ノートや和声も自作に採り入れた。「ボレロ」のように単一の旋律とリズム型を最初から最後まで反復し、その上で管弦楽の音色だけを次々に変えていくという実験的な構成も試みている。",
+      "en": "He used Impressionist harmony but, unlike Debussy, insisted on keeping formal outlines clear rather than letting them dissolve. Through his Basque mother's influence, Spanish dance rhythms recur through his output, and in his later years he brought jazz's blue notes and harmony into his own music. In *Boléro* he tried an experimental structure that repeats a single melody and rhythmic pattern from start to finish, changing nothing but the orchestral colour around it."
+    },
+    "impact": {
+      "ja": "精密な管弦楽法の手本として、以後の作曲家が編曲や管弦楽法を学ぶ際に必ず参照する模範であり続けている。ジャズの語法を借り物としてではなく自らの様式に消化して見せたことで、クラシック音楽とジャズの境界を越えていく20世紀の潮流に先鞭をつけた。",
+      "en": "His scores remain a model that later composers study to learn orchestration, precise enough to serve as a reference point on their own. By absorbing jazz's vocabulary into his own style rather than merely borrowing it, he helped open the twentieth-century current that crossed the line between classical music and jazz."
+    },
+    "story": {
+      "ja": "アメリカを演奏旅行中、彼に師事を望んだガーシュウィンとの面会が実現した。しかしラヴェルは、ガーシュウィンがすでに一流のガーシュウィンであるのに、二流のラヴェルになる必要はないと告げて、弟子入りを断ったと伝えられる。",
+      "en": "During a concert tour of the United States, he met George Gershwin, who hoped to study under him. Ravel is said to have turned him down, telling him there was no reason to become a second-rate Ravel when he was already a first-rate Gershwin."
+    },
+    "keywords": {
+      "ja": [
+        "精密な管弦楽法",
+        "形式の明晰さ",
+        "ジャズ語法の吸収"
+      ],
+      "en": [
+        "Precision orchestration",
+        "Formal clarity",
+        "Absorbing jazz idiom"
+      ]
+    }
+  },
+  "67": {
+    "biography": {
+      "ja": "バッハと同じ1685年にドイツで生まれたが、イタリアで学んだのちイギリスに定住し、後年は英国に帰化した。ロンドンでは自らオペラ興行主として資金を集め、劇場を運営する事業家としての顔も持っていた。\n当初はイタリア語のオペラ・セリアで名声を築いたが、この様式がロンドンで人気を失うと、英語による宗教的題材の演奏会用作品「オラトリオ」へと軸足を移した。「メサイア」はその代表作で、以後今日まで途切れず上演され続けている。",
+      "en": "Born in Germany in 1685, the same year as Bach, he trained in Italy before settling permanently in England, later becoming a naturalised British subject. In London he also worked as an opera impresario, raising money and running a theatre himself.\nHe first built his reputation on Italian opera seria, but when that style fell out of fashion in London he shifted his focus to the oratorio — a concert-format religious work sung in English. *Messiah*, his best-known example, has been performed without a break ever since."
+    },
+    "style": {
+      "ja": "バッハの緻密な対位法とは対照的に、大人数の聴衆にも一度で伝わる明快な旋律線と、劇場仕込みの効果的な場面転換を得意とした。オラトリオでは合唱を単なる背景ではなく、物語を動かす登場人物のように扱い、祝祭的な合唱の高揚感で聴き手を包み込む書法を確立した。イタリアの声楽的な旋律、ドイツの対位法、イギリスの合唱の伝統を一つに統合した国際的な様式を持つ。",
+      "en": "In contrast to Bach's dense counterpoint, he favoured clear melodic lines that an audience could grasp at once, and a theatrical instinct for pacing a scene. In the oratorios he treated the chorus not as mere background but as a character that drives the story, building a festive, choral surge that could sweep up a whole audience. His style fuses Italian vocal lyricism, German counterpoint and the English choral tradition into one international idiom."
+    },
+    "impact": {
+      "ja": "オラトリオという形式を英語圏に定着させ、以後何世紀にもわたって続く英国の合唱音楽の伝統を築いた。祝祭のために書いた大規模な管弦楽曲は、王侯貴族の式典向け音楽という一つの型を確立した。ロンドンで彼の作品に触れたハイドンが感銘を受け、自らのオラトリオ創作に向かったように、後続の作曲家にも直接の影響を及ぼしている。",
+      "en": "He established the oratorio in the English-speaking world, founding a tradition of British choral music that has continued for centuries since. The large-scale orchestral works he wrote for public celebrations set a lasting template for ceremonial music written for royalty and state occasions. His influence reached later composers directly — Haydn, who heard his music performed in London, was moved to take up oratorio composition himself."
+    },
+    "keywords": {
+      "ja": [
+        "劇的な合唱の書法",
+        "国際様式の統合",
+        "儀礼音楽の型"
+      ],
+      "en": [
+        "Dramatic choral writing",
+        "International synthesis",
+        "Ceremonial music template"
       ]
     }
   },
@@ -129,6 +211,32 @@
       ]
     }
   },
+  "98": {
+    "biography": {
+      "ja": "ヴェネツィアに生まれ、聖職に就いて司祭となったが、持病の胸の病を理由に程なくミサの執行から退いた。赤毛から「赤い司祭」と呼ばれた。生涯の大半を、孤児の少女たちを育てるヴェネツィアの施設オスペダーレ・デラ・ピエタで音楽を教える仕事に費やし、少女たちだけで編成された合奏団のために数多くの協奏曲を書いた。\n生前は国際的な名声を得たが、晩年には人気が衰え、ウィーンで困窮のうちに没した。作品の多くは長く忘れられていたが、20世紀に入って再評価が進み、現在は最も広く演奏されるバロック作曲家の一人になっている。",
+      "en": "Born in Venice, he was ordained a priest but soon stopped celebrating Mass, citing a chronic chest ailment. His red hair earned him the nickname 'the Red Priest'. He spent most of his career teaching music at the Ospedale della Pietà, a Venetian institution that raised orphaned girls, writing a huge number of concertos for the all-female ensemble there.\nHe achieved international fame in his lifetime, but his popularity faded in his later years and he died in poverty in Vienna. Much of his output was forgotten for a long time, but a twentieth-century revival has made him one of the most widely performed Baroque composers today."
+    },
+    "style": {
+      "ja": "急—緩—急の3楽章からなる協奏曲の型を定着させ、独奏部と合奏が主題を交互に受け渡す「リトルネッロ形式」を基本の設計として磨き上げた。この型はのちに古典派の協奏曲の標準形式の土台になっている。「四季」に代表されるように、鳥の声や嵐、氷の情景を器楽だけで描写する絵画的な手法も特徴で、標題を持つ器楽曲の先駆けとなった。",
+      "en": "He established the fast-slow-fast three-movement concerto and refined ritornello form as its basic design, where the orchestra restates a theme between episodes for the soloist — a template that later underlies the Classical concerto. As *The Four Seasons* shows, he also had a gift for pictorial writing, depicting birdsong, storms and ice using instruments alone, making him a forerunner of instrumental music with an explicit programme."
+    },
+    "impact": {
+      "ja": "彼が確立した協奏曲の型は、バッハが複数の協奏曲を鍵盤用に編曲して学んだように、同時代から後続の作曲家に直接取り入れられ、古典派の協奏曲の基礎になった。女性だけの合奏団のために本格的な器楽曲を書き続けたことは、当時としては例外的な音楽実践の記録でもある。長く忘れられていた作品群は20世紀の再評価によって演奏機会を取り戻し、「四季」は今日もっとも広く親しまれるバロック音楽の一つになっている。",
+      "en": "The concerto form he established was taken up directly by his contemporaries and successors — Bach transcribed several of his concertos for keyboard to study the technique — and it became the foundation of the Classical concerto. His sustained work writing serious instrumental music for an all-female ensemble is also a notable record of an unusual musical practice for its time. Long neglected, his music regained a wide audience after its twentieth-century rediscovery, and *The Four Seasons* is now one of the most widely loved works of Baroque music."
+    },
+    "keywords": {
+      "ja": [
+        "リトルネッロ形式",
+        "描写的な器楽曲",
+        "協奏曲様式の定着"
+      ],
+      "en": [
+        "Ritornello form",
+        "Pictorial instrumental music",
+        "Concerto template"
+      ]
+    }
+  },
   "105": {
     "biography": {
       "ja": "パリ音楽院で学んだが、和声の規則に収まらない響きを好み、教師たちとしばしば衝突した。1889年のパリ万国博覧会でジャワのガムランに接した経験は、機能和声とは別の音の組み立て方がありうることを彼に確信させたと言われる。\n和音を「次にどこへ進むか」ではなく「その響き自体」として扱い、全音音階や教会旋法を用いて調性の重力をゆるめた。この手法はしばしば絵画になぞらえて「印象主義」と呼ばれるが、本人はこの呼び名を好まなかった。",
@@ -152,6 +260,88 @@
         "Chords as colour",
         "Blurred form",
         "Whole-tone scale"
+      ]
+    }
+  },
+  "129": {
+    "biography": {
+      "ja": "父ヴィークのもとでピアノを学んだが、指の故障により演奏家への道を断たれ、作曲と評論に軸足を移した。師の娘クラーラとの結婚を父に反対され、裁判にまで発展する対立を経て結ばれている。\n自ら音楽雑誌を創刊し、批評家として同時代の作曲家を積極的に紹介した。ショパンやブラームスの才能をいち早く見出し世に送り出したことでも知られる。晩年は精神の不調に苦しみ、療養施設で生涯を終えた。",
+      "en": "He studied piano under Friedrich Wieck, but an injury to his hand ended any hope of a career as a performer, and he turned instead to composition and criticism. Wieck opposed his marriage to his daughter Clara, and the dispute went as far as a court case before the couple were finally allowed to marry.\nHe founded his own music journal and used it as a critic to champion composers of his generation, recognising the talents of Chopin and Brahms early and helping bring each to wider attention. In his final years he suffered a severe decline in mental health and died in a sanatorium."
+    },
+    "style": {
+      "ja": "ピアノのための作品では、性格の異なる短い曲を次々とつなげ、一つの物語や文学的な着想でまとめ上げる組曲的な構成を好んだ。曲の中に自分や知人の名前を音名として忍ばせる暗号的な手法も用いている。歌曲では、ピアノを伴奏に留めず、詩の言葉と対等に語り合う独立した声部として書き、詩と音楽を緊密に結びつけた。",
+      "en": "In his piano works he liked to string together a series of short, sharply characterised pieces and bind them into a suite unified by a literary idea or a private narrative. He sometimes hid his own name or a friend's, spelled out in musical notes, inside a piece as a kind of cipher. In his songs he did not let the piano remain mere accompaniment but gave it an independent voice that speaks with the poem's words on equal terms, binding text and music tightly together."
+    },
+    "impact": {
+      "ja": "批評家として同時代の作曲家を積極的に評価し、ショパンやブラームスへの支持がのちの評価を決定づけるほどの影響力を持った。作曲家が同時に批評家として音楽の受容そのものを形づくるという先例を残している。詩の言葉と音楽を対等に結びつけた歌曲は、シューベルトと並んでドイツ・リートの規範となり、後続の作曲家たちに引き継がれた。",
+      "en": "As a critic he championed composers of his own generation so effectively that his endorsement of Chopin and Brahms helped settle their later reputations. He left behind a model of the composer who also shapes how music is received, working as a critic in parallel with composing. His songs, binding text and music as equals, stand beside Schubert's as the model for the German Lied that later composers carried forward."
+    },
+    "keywords": {
+      "ja": [
+        "文学的な組曲構成",
+        "歌曲における詩と音楽の融合",
+        "批評家としての作曲家"
+      ],
+      "en": [
+        "Literary suite form",
+        "Poetry-music fusion in song",
+        "Composer as critic"
+      ]
+    }
+  },
+  "136": {
+    "biography": {
+      "ja": "ティン・パン・アレーの流行歌作家として音楽活動を始め、正規の作曲教育をほとんど受けないまま独学で腕を磨いた。バンドリーダーのポール・ホワイトマンから委嘱されて書いた「ラプソディー・イン・ブルー」が「モダン・ミュージックの実験」と題した演奏会で初演され、一夜にして名声を確立した。\n絵画も趣味で描いており、作曲家仲間や著名人の肖像を数多く残している。オペラ「ポーギーとベス」ではアフリカ系アメリカ人の生活を題材に、クラシックとジャズと黒人霊歌を融合させた大作に取り組んだが、38歳で脳腫瘍のため急逝し、それ以上の大作を書く時間は残されなかった。",
+      "en": "He began his career as a songwriter in Tin Pan Alley and largely taught himself, with almost no formal training in composition. Commissioned by the bandleader Paul Whiteman, he wrote *Rhapsody in Blue* for a concert billed as 'An Experiment in Modern Music', and its premiere made him famous overnight.\nHe also painted as a hobby, leaving behind a number of portraits of fellow musicians and public figures. In the opera *Porgy and Bess* he took on a large-scale work drawing on African American life, fusing classical music, jazz and spirituals — but he died suddenly of a brain tumour at 38, with no time left to write another work on that scale."
+    },
+    "style": {
+      "ja": "ジャズのブルー・ノートやシンコペーションと、協奏曲や交響的作品といったクラシックの大きな形式を隔てなく組み合わせた。流行歌作家として培った、少ない音数で一度で覚えられる旋律を書く技術を、演奏会用の大作にもそのまま持ち込んでいる。「パリのアメリカ人」で自動車のクラクションを楽器として使ったように、アメリカの日常の音を臆せず演奏会の素材にした。",
+      "en": "He combined jazz's blue notes and syncopation with the large forms of the classical concert hall — the concerto, the symphonic rhapsody — without treating them as separate worlds. The gift for an instantly memorable tune in very few notes that he built as a songwriter carried straight over into his large concert works. In *An American in Paris* he used car horns as instruments, unafraid to bring the sounds of everyday American life into the concert hall."
+    },
+    "impact": {
+      "ja": "ジャズに根ざした語法が演奏会用の大きな形式にも耐えうることを示し、アメリカ生まれの「シンフォニック・ジャズ」という潮流を切り開いた。「ポーギーとベス」はアフリカ系アメリカ人の題材と黒人歌手による上演を前提とした点で、アメリカのオペラ史における画期となった。早すぎる死は、その後のアメリカ音楽がどこへ向かい得たかという問いを今も残している。",
+      "en": "He showed that jazz-rooted material could sustain large concert forms, opening the American current of 'symphonic jazz'. *Porgy and Bess* was a landmark in the history of American opera for taking African American subject matter and a Black cast as its foundation. His early death has left an open question ever since about where American music might have gone had he lived longer."
+    },
+    "story": {
+      "ja": "ラヴェルやブーランジェに弟子入りを願い出たが、いずれも「すでに一流のガーシュウィンであるあなたが、二流の他人になる必要はない」という趣旨で断られたと伝えられる。",
+      "en": "He asked both Ravel and Nadia Boulanger to take him on as a student, and each is said to have turned him down, telling him in effect that there was no reason for an already first-rate Gershwin to become a second-rate someone else."
+    },
+    "keywords": {
+      "ja": [
+        "ジャズとクラシックの融合",
+        "流行歌の旋律感覚",
+        "シンフォニック・ジャズ"
+      ],
+      "en": [
+        "Jazz-classical fusion",
+        "Popular-song melodic gift",
+        "Symphonic jazz"
+      ]
+    }
+  },
+  "138": {
+    "biography": {
+      "ja": "自らの台本を書いて作曲する、当時としては珍しい作曲家だった。1849年のドレスデン蜂起に加わって指名手配され、長年の亡命生活を送っている。困窮していたところをバイエルン国王ルートヴィヒ2世に見出されて多額の援助を受け、後年は自らの構想通りに上演するための劇場をバイロイトに建設した。\nオーケストラ・ピットを客席から隠し、上演中は場内を暗くするという当時としては斬新な劇場設計を採用し、現在の歌劇場のあり方にも影響を残している。",
+      "en": "Unusually for the time, he wrote his own librettos as well as composing the music. He joined the 1849 Dresden uprising and was forced into years of exile as a wanted man. Rescued from financial ruin by King Ludwig II of Bavaria, who became his patron, he later built his own opera house at Bayreuth so his works could be staged exactly as he envisioned.\nThat theatre hid the orchestra pit from the audience and darkened the house during performances, a radical design for its time that still shapes how opera houses are built today."
+    },
+    "style": {
+      "ja": "特定の人物や感情、事物に結びついた短い旋律「示導動機」を全曲にわたって管弦楽の中で繰り返し変容させ、場面ごとに独立したアリアを積み重ねるのではなく、切れ目のない音楽の流れで劇を進める書法を確立した。「トリスタンとイゾルデ」における極端な半音階の多用は、調性という枠組みそのものを限界まで押し広げるものだった。声楽と対等、あるいはそれ以上の比重で語る巨大な管弦楽編成も特徴である。",
+      "en": "He wove a short musical phrase tied to a person, feeling, or object — a leitmotif — through the orchestral fabric across an entire work, and let the drama unfold as one continuous musical flow rather than a series of separate numbers, unlike Verdi's opera built from discrete arias. The extreme chromaticism of *Tristan und Isolde* pushed the framework of tonality itself to its limit. His hugely enlarged orchestra, carrying as much of the drama as the singers or more, is another hallmark."
+    },
+    "impact": {
+      "ja": "示導動機の手法は、のちの劇伴音楽や映画音楽が場面や人物に固有の旋律を割り当てる際の土台になっている。「トリスタンとイゾルデ」の半音階は、調性がやがて解体へ向かう出発点として音楽史上たびたび言及される。舞台と客席の関係を刷新したバイロイトの劇場設計は世界中の歌劇場に取り入れられた。一方で反ユダヤ主義的な著作を残し、没後にナチス政権によって政治的に利用されたことも、彼の受容史から切り離せない事実である。",
+      "en": "The leitmotif technique underlies the way later dramatic scoring and film music assign a distinct theme to a scene or character. The chromaticism of *Tristan und Isolde* is repeatedly cited in music history as a starting point on the road toward the eventual dissolution of tonality. The way Bayreuth reshaped the relationship between stage and audience was adopted by opera houses worldwide. At the same time, his antisemitic writings, and their political use by the Nazi regime after his death, are a fact that cannot be separated from how he has been received since."
+    },
+    "keywords": {
+      "ja": [
+        "示導動機",
+        "切れ目のない劇進行",
+        "調性の限界への挑戦"
+      ],
+      "en": [
+        "Leitmotif technique",
+        "Continuous musical drama",
+        "Pushing tonality's limits"
       ]
     }
   },
@@ -185,6 +375,58 @@
       ]
     }
   },
+  "146": {
+    "biography": {
+      "ja": "ルッカの教会音楽家の家系に生まれ、四代にわたって同じ教会の楽長職を継いできた家に連なる。ヴェルディの「アイーダ」を観劇した経験がオペラ作曲家を志す決定的な契機になったと伝えられる。ミラノ音楽院でポンキエッリらに学んだ。\n最後の作品「トゥーランドット」は喉の病の治療中に未完のまま世を去り、残された草稿をもとにアルファーノが補筆して完成させた。初演では、彼が実際に書いた部分の終わりで指揮者が演奏を止め、客席に向かって「ここで巨匠は筆を置いた」と告げたと伝えられている。",
+      "en": "Born into a family of Lucca church musicians, one of four generations in a row to hold the post of maestro di cappella there, he is said to have decided to become an opera composer after seeing a performance of Verdi's *Aida*. He studied at the Milan Conservatory under Ponchielli, among others.\nHis last work, *Turandot*, was left unfinished when he died during treatment for throat cancer, and Franco Alfano completed it from his sketches. At the premiere, the conductor Toscanini is said to have stopped the performance where Puccini's own music ended and told the audience, 'Here the Maestro laid down his pen.'"
+    },
+    "style": {
+      "ja": "神話や歴史上の大事件ではなく、市井の人々の恋愛や悲劇を主題にする「ヴェリズモ」の美学を代表する。感情が頂点に達する場面に旋律の力を集中させ、聴き手を一気に涙腺までもっていく劇的な設計を得意とした。「蝶々夫人」や「トゥーランドット」では、日本や中国の実在する旋律を調べて作品に取り込むなど、舞台となる土地の音の質感を再現することにも意を払った。",
+      "en": "He represents the verismo aesthetic, taking the loves and tragedies of ordinary people as his subject rather than myth or grand historical events. He concentrated melodic power at the moment feeling reaches its peak, engineering a dramatic arc built to bring an audience to tears in a single sweep. In *Madama Butterfly* and *Turandot* he researched actual Japanese and Chinese melodies to work into the score, taking care to recreate the sonic texture of the setting."
+    },
+    "impact": {
+      "ja": "神話ではなく身近な人間の感情を描くヴェリズモの流れを決定づけ、その代表として今日まで世界で最も上演回数の多い作曲家の一人であり続けている。異国の実際の旋律を調査して作品に取り込む手法は、非西洋の音楽素材を西洋のオペラに用いる試みの早い例として、今なお研究や議論の対象になっている。",
+      "en": "He defined the verismo current that turned opera toward ordinary human feeling rather than myth, and remains, as its leading figure, one of the most performed composers in the world today. His practice of researching real foreign melodies and working them into a score is an early example of drawing non-Western musical material into Western opera, and it is still examined and debated by scholars today."
+    },
+    "keywords": {
+      "ja": [
+        "ヴェリズモ",
+        "感情の頂点への設計",
+        "異国の旋律の調査"
+      ],
+      "en": [
+        "Verismo realism",
+        "Engineered emotional climax",
+        "Researching foreign melody"
+      ]
+    }
+  },
+  "147": {
+    "biography": {
+      "ja": "裕福で教養あるユダヤ系の家庭に生まれた。祖父は哲学者モーゼス・メンデルスゾーンで、一家はのちにキリスト教に改宗している。神童として早くから才能を示し、20歳のとき、当時ほとんど忘れられていたバッハの「マタイ受難曲」をベルリンで指揮し、この演奏がのちの本格的なバッハ再評価の出発点になったとされる。\nライプツィヒ音楽院を設立し、ゲヴァントハウス管弦楽団の指揮者として演奏水準を引き上げた。作曲家であった姉ファニーの死の直後に体調を崩し、38歳で世を去っている。",
+      "en": "Born into a wealthy, cultured Jewish family — his grandfather was the philosopher Moses Mendelssohn, and the family later converted to Christianity — he showed prodigious talent early. At twenty he conducted Bach's *St Matthew Passion* in Berlin, largely forgotten at the time, a performance credited with starting the serious Bach revival that followed.\nHe founded the Leipzig Conservatory and, as conductor of the Gewandhaus Orchestra, raised its playing to a new standard. He fell ill shortly after the death of his sister Fanny, also a composer, and died at 38."
+    },
+    "style": {
+      "ja": "古典派に通じる均整の取れた形式感を保ちながら、そこに絵画的な情景描写を重ね合わせた。「フィンガルの洞窟」では海の情景を、「真夏の夜の夢」では妖精の世界を、軽やかに駆け抜ける弦の細かい音型による独自の「妖精のスケルツォ」と呼ぶべき書法で描き出した。大編成による重厚さよりも、透明感のある軽やかな管弦楽法を好んだ。",
+      "en": "He kept a Classical sense of formal balance while laying vivid, pictorial scene-painting over it. In *The Hebrides* he conjured a seascape, and in *A Midsummer Night's Dream* a fairy world, using a light, rapid string figuration that amounts to a personal style of 'fairy scherzo' all his own. He preferred a transparent, airy orchestration over the weight of massed forces."
+    },
+    "impact": {
+      "ja": "20歳で指揮したバッハの「マタイ受難曲」再演は、19世紀に入って進んだバッハ再評価の直接のきっかけになったとされる出来事であり、以後の音楽史の流れを変えた。ライプツィヒ音楽院の設立と指揮者としての活動は、音楽教育とオーケストラの演奏水準をドイツで制度として整える先例となり、他国の音楽院設立にも影響を与えた。オペラを伴わない単独の管弦楽曲として「演奏会用序曲」という形式を確立したことも、その後の標題音楽の展開に道を開いている。",
+      "en": "His performance of Bach's *St Matthew Passion* at twenty is credited as the direct trigger for the wider Bach revival that unfolded through the nineteenth century, changing the course of music history that followed. Founding the Leipzig Conservatory and his work as a conductor set a precedent for institutionalising music education and orchestral standards in Germany, one that influenced the founding of conservatories elsewhere. Establishing the concert overture — an independent orchestral piece not tied to an opera — also opened the way for the programme music that developed after him."
+    },
+    "keywords": {
+      "ja": [
+        "古典的均整と描写性の両立",
+        "妖精のスケルツォ",
+        "バッハ再評価の起点"
+      ],
+      "en": [
+        "Classical poise with imagery",
+        "The fairy scherzo",
+        "Sparking the Bach revival"
+      ]
+    }
+  },
   "152": {
     "biography": {
       "ja": "ワルシャワ近郊に生まれ、20歳でポーランドを離れてパリに定住した。故郷はその後、蜂起の失敗によりロシアの統治下に入り、彼は二度と帰ることがなかった。\n作品のほぼすべてがピアノのための音楽である。マズルカとポロネーズという故国の舞曲の形式を、洗練された和声とともに芸術音楽へと引き上げた。演奏はもっぱら少人数のサロンで行い、大ホールでの演奏会をほとんど開かなかった。",
@@ -208,6 +450,62 @@
         "Chromatic harmony",
         "Rubato",
         "Character pieces"
+      ]
+    }
+  },
+  "165": {
+    "biography": {
+      "ja": "父ヨハン・シュトラウス1世も高名な楽団指揮者だったが、息子には音楽家ではなく銀行員になることを望み、稽古を禁じたと伝えられる。母が父に隠れてヴァイオリンの手ほどきを受けさせ、19歳で自らの楽団を率いてデビューした際には、父の支持者との間で人気を二分する騒動になったという。\n父の死後は二つの楽団を統合し、ウィーンの舞踏音楽の第一人者となった。後年は活動の軸を舞踏会用の楽曲からオペレッタの劇場作品へと広げている。",
+      "en": "His father, Johann Strauss I, was also a famous bandleader, but is said to have forbidden his son from a musical career, hoping he would become a banker instead. His mother arranged violin lessons behind his father's back, and when he made his own debut leading an orchestra at nineteen, it reportedly split Vienna's musical public between father and son.\nAfter his father's death he merged the two orchestras and became the leading figure in Viennese dance music, later broadening his work from ballroom pieces into operetta for the theatre."
+    },
+    "style": {
+      "ja": "単なる舞踏の伴奏だったワルツを、序奏や主題の展開を備えた演奏会用の音楽へと引き上げた。ウィーンのワルツに特有の、2拍目をわずかに前のめりに演奏する独特の間合いは、彼の楽団の演奏様式から広まったとされる。オペレッタに転じてからも、舞踏音楽で培った親しみやすい旋律の魅力をそのまま活かした。",
+      "en": "He lifted the waltz from mere accompaniment for dancing into a concert genre with its own introduction and thematic development. The distinctive Viennese lilt — a slight anticipation of the second beat — that still marks how a Viennese waltz is played is said to have spread from the style of his own orchestra. When he moved into operetta, he carried the same melodic charm straight over from his dance music."
+    },
+    "impact": {
+      "ja": "彼の作品によって、ワルツはウィーンという都市の文化的な象徴そのものになった。この結びつきは今日のウィーン・フィルハーモニー管弦楽団のニューイヤーコンサートに至るまで続いている。「こうもり」に代表されるオペレッタは、大歌劇と大衆的な音楽劇の中間に位置する独自のジャンルとしてウィーン風オペレッタを確立し、その後のミュージカル劇の展開にも影響を残した。",
+      "en": "Through his work, the waltz became a cultural symbol of Vienna itself, a connection that survives today in the Vienna Philharmonic's New Year's Concert. Operettas such as *Die Fledermaus* established Viennese operetta as its own genre, standing between grand opera and popular musical theatre, and left a mark on the musical theatre that developed in the century that followed."
+    },
+    "keywords": {
+      "ja": [
+        "演奏会用に高めたワルツ",
+        "ウィーン風の間合い",
+        "オペレッタの確立"
+      ],
+      "en": [
+        "Concert-hall waltz",
+        "The Viennese lilt",
+        "Establishing operetta"
+      ]
+    }
+  },
+  "183": {
+    "biography": {
+      "ja": "ウィーンで生まれ、同時代のベートーヴェンを深く敬愛したが、生前に二人が親しく交流することはなかったとされる。宮廷礼拝堂の少年合唱団を経て一時教師を務めたが、多くは特定の職に就かず、友人たちが自宅に集って彼の新作を演奏する私的な集まり「シューベルティアーデ」を主な発表の場とした。\n歌曲だけで600曲以上を書くなど驚異的な多作家だったが、生前に広く名声を得ることはなく、31歳で病のため早世した。",
+      "en": "Born in Vienna, he deeply admired his contemporary Beethoven, though the two are not thought to have had any close acquaintance during their lifetimes. After time as a boy in the imperial court chapel choir and briefly working as a schoolteacher, he held no fixed post for most of his life, relying instead on private gatherings at friends' homes — the so-called Schubertiades — where his newest works were performed.\nHe was astonishingly prolific, writing more than six hundred songs alone, but achieved little wide recognition in his lifetime and died of illness at thirty-one."
+    },
+    "style": {
+      "ja": "歌曲では、ピアノ伴奏を単なる添え物にとどめず、歌詞の心理状態や情景を音型そのもので描写する手法を確立した。糸車の回転を表す反復音型や、旅の終わりに響くハーディ・ガーディの単調な響きなど、伴奏が詩の内容と直接結びついている。複数の歌曲を一つの物語としてまとめる「連作歌曲」という形式も確立した。器楽曲でも歌うような旋律を貫き、急がず伸びやかに主題を繰り返し変奏していく、ゆったりとした構成を好んだ。",
+      "en": "In his songs he established a technique in which the piano is no mere accompaniment but paints the psychological state or scene of the text directly in its figuration — a repeating pattern for a spinning wheel, or the drone of a hurdy-gurdy at the end of a long journey. He also established the song cycle, binding a sequence of songs into a single narrative. His instrumental music keeps the same songful lyricism, favouring a leisurely structure that repeats and varies its material without symphonic urgency."
+    },
+    "impact": {
+      "ja": "歌曲を家庭内の娯楽的な音楽から、交響曲やオペラに匹敵する重みを持つ芸術形式へと引き上げ、ドイツ・リートという分野そのものを確立した。彼が切り拓いた連作歌曲の形式は、のちにシューマンが自身の歌曲集で受け継いでいる。死後に埋もれていた大規模な器楽曲の草稿は、シューマンによって発見されて世に知らされ、メンデルスゾーンの指揮によって初演されるなど、後続の作曲家たちの手で再評価が進んだ。",
+      "en": "He raised the song from domestic entertainment into an art form carrying as much weight as the symphony or opera, founding the German Lied as a field in its own right. The song-cycle form he pioneered was carried forward by Schumann in his own song cycles. Manuscripts of his large-scale instrumental works, buried and unknown after his death, were found and brought to light by Schumann and had their premiere under Mendelssohn's baton — his reputation rebuilt, piece by piece, through the efforts of the composers who came after him."
+    },
+    "story": {
+      "ja": "1827年のベートーヴェンの葬儀では松明を掲げる係の一人を務めた。翌年みずからが世を去った際、彼自身の希望によりベートーヴェンの墓のすぐそばに葬られている。",
+      "en": "At Beethoven's funeral in 1827 he was one of the torchbearers. When he himself died the following year, he was buried, at his own request, right beside Beethoven's grave."
+    },
+    "keywords": {
+      "ja": [
+        "詩と一体化した伴奏",
+        "連作歌曲の確立",
+        "ドイツ・リートの父"
+      ],
+      "en": [
+        "Text-painting accompaniment",
+        "Founding the song cycle",
+        "Father of the German Lied"
       ]
     }
   },
@@ -263,6 +561,32 @@
       ]
     }
   },
+  "190": {
+    "biography": {
+      "ja": "サンクトペテルブルクに生まれ、リムスキー=コルサコフに個人的に師事した。バレエ・リュスを主宰するディアギレフに見出され、「火の鳥」「ペトルーシュカ」「春の祭典」の3作でパリの舞台に衝撃を与えた。1913年の「春の祭典」初演では、大胆すぎるリズムと題材に客席が騒然となり、開演早々から怒号と歓声が飛び交う騒動になったと伝えられる。\nロシア革命と二度の世界大戦を機にスイス、フランス、アメリカへと移り住み、最終的にアメリカ国籍を得た。",
+      "en": "Born in Saint Petersburg, he studied privately under Rimsky-Korsakov. Discovered by Diaghilev of the Ballets Russes, he made his name in Paris with *Petrushka* and *The Firebird*, then caused an outright sensation with the one that followed, *The Rite of Spring*. At its 1913 premiere, the audience is said to have erupted into jeering and cheering within minutes, unsettled by music this rhythmically daring paired with its subject matter.\nDriven by the Russian Revolution and two world wars, he moved on to Switzerland, France and finally the United States, where he eventually took citizenship."
+    },
+    "style": {
+      "ja": "初期の「春の祭典」では、絶えず変化する複雑な拍子と幾重にも重なるオスティナートによって、リズムだけで劇的な効果を生み出す書法を切り拓いた。生涯を通じて特定の様式に落ち着かず、原始主義的な初期作品から、18世紀以前の形式を現代的な和声で書き直す新古典主義、さらに晩年には長年対立していたシェーンベルクの十二音技法までも取り入れるという、様式そのものを次々と更新し続ける姿勢を貫いた。感情の吐露よりもリズムの推進力と構築の明快さを重んじる、感情を抑制した美学を持つ。",
+      "en": "In the early *Rite of Spring* he opened up a way of generating dramatic effect through rhythm alone, using constantly shifting metres layered over each other in stacked ostinati. He never settled into one style for long: he moved from the primitivism of his early works through a neoclassicism that rewrote pre-eighteenth-century forms in modern harmony, and even, late in life, took up the twelve-tone technique of Schoenberg, with whom he had long been at odds. Rather than emotional outpouring, his aesthetic prizes rhythmic drive and the clarity of construction."
+    },
+    "impact": {
+      "ja": "リズムそのものを音楽の主要な構築原理として扱う「春の祭典」の発想は、20世紀の作曲全般におけるリズムへの向き合い方を一変させた。過去の形式を意識的に参照する新古典主義の実践は、様式を振り返ること自体が前衛的な身振りになりうることを示し、後続の作曲家たちに歴史的な語法を自由に引用する道を開いた。複数の国と様式を渡り歩いたその生涯は、一つの国民楽派に属さない20世紀の作曲家像そのものを体現している。",
+      "en": "The idea behind *The Rite of Spring* — treating rhythm itself as a primary structural principle — transformed how twentieth-century composition as a whole approached rhythm. His neoclassical practice showed that consciously looking back to older forms could itself be an avant-garde gesture, opening the way for later composers to quote historical idioms freely. Moving between countries and styles across his life, he came to embody the twentieth-century composer who belongs to no single national school."
+    },
+    "keywords": {
+      "ja": [
+        "リズムによる構築",
+        "様式の絶えざる更新",
+        "国境を越えた作曲家像"
+      ],
+      "en": [
+        "Rhythm as structure",
+        "Constant stylistic reinvention",
+        "A composer beyond nations"
+      ]
+    }
+  },
   "196": {
     "biography": {
       "ja": "ザルツブルクの宮廷音楽家の家に生まれ、幼少期から父に連れられてヨーロッパ各地を演奏旅行した。故郷の宮廷での職に満足できず、25歳でウィーンに移って独立した音楽家として生きる道を選ぶ。当時としては珍しい選択で、定収入のないまま演奏会と作曲の依頼で生計を立てた。\n35年の生涯で600曲を超える作品を残した。交響曲、協奏曲、室内楽、宗教曲、そしてオペラと、当時存在したほとんどすべてのジャンルにわたる。とりわけオペラでは、登場人物それぞれの心情を同時に響かせる重唱の書き方に他の追随を許さない手腕を見せた。",
@@ -290,6 +614,58 @@
         "Melodic clarity",
         "Conversational concertos",
         "Stylistic synthesis"
+      ]
+    }
+  },
+  "197": {
+    "biography": {
+      "ja": "父から手ほどきを受けたのち、チェルニーやサリエリに学んだ。19世紀最大とも評されるピアノの名手で、熱狂した聴衆が失神することもあったという当時の演奏会の様子は「リストマニア」と呼ばれた。30代半ばで演奏活動から退き、ヴァイマルの宮廷で作曲と指揮に専念する生活に移る。\n晩年にはカトリックの下級聖職に就き、「僧院長」の称号で呼ばれるようになった。娘のコジマは、彼が自作を積極的に紹介した後輩の作曲家ワーグナーと再婚している。",
+      "en": "After lessons from his father, he studied with Czerny and Salieri. Regarded as perhaps the greatest pianist of the nineteenth century, his concerts drew audiences so overwrought that some reportedly fainted, a phenomenon of the time that came to be called 'Lisztomania'. In his mid-thirties he stepped back from performing to devote himself to composing and conducting at the Weimar court.\nLater in life he took minor holy orders in the Catholic Church and came to be addressed as 'Abbé'. His daughter Cosima later remarried Wagner, a younger composer whose work he had actively championed."
+    },
+    "style": {
+      "ja": "一つの主題を、物語の展開や人物の異なる側面に合わせてテンポや性格を変えながら作り替えていく「主題変容」の手法を確立し、対照的な複数の主題を並べるソナタ形式とは異なる、単一楽章の交響詩という形式を支える技法とした。自らの卓越した演奏技巧を反映し、オクターブの連打や大きな跳躍を駆使して、一台のピアノからオーケストラに匹敵する音量と音色を引き出す書法を追求した。派手な演奏効果で知られる一方、最晩年の作品では全音音階や解決されない不協和音を用い、のちのドビュッシーや無調音楽を先取りする実験的な和声にも踏み込んでいる。",
+      "en": "He established 'thematic transformation', reshaping a single theme in tempo and character to track a story's turns or a character's different facets, underpinning the single-movement symphonic poem as a form distinct from a sonata built on contrasting themes. Reflecting his own virtuosity as a pianist, he pursued a keyboard writing full of hammered octaves and wide leaps, drawing an almost orchestral scale of sound and colour out of a single piano. Known for flashy performing effects, in his very last works he also turned to whole-tone scales and unresolved dissonance, experimental harmony that anticipates Debussy and even atonal music."
+    },
+    "impact": {
+      "ja": "単一楽章で文学的・絵画的な内容を描く「交響詩」という新しい管弦楽の形式を生み出し、リヒャルト・シュトラウスやシベリウスへと受け継がれる系譜を築いた。自らのピアノ演奏によって鍵盤楽器の技巧的・表現的な可能性を一気に押し広げ、以後のピアノ音楽全体の水準を引き上げた。ワーグナーのオペラを指揮して初演を後押しし、ヴァイマルで多くのピアニストを無償で指導するなど、他者の音楽を世に送り出す活動を通じてロマン派音楽の受容そのものを形づくった。",
+      "en": "He created the symphonic poem, a new orchestral genre depicting literary or pictorial content in a single movement, founding a lineage carried on by Richard Strauss and Sibelius among others. His own pianism pushed open the technical and expressive possibilities of the keyboard at a stroke, raising the standard for all piano music that followed. Conducting premieres of Wagner's operas and teaching a generation of pianists for free at Weimar, he shaped the reception of Romantic music broadly through his tireless advocacy for other composers' work."
+    },
+    "keywords": {
+      "ja": [
+        "主題変容",
+        "交響詩の創始",
+        "演奏技巧の拡張"
+      ],
+      "en": [
+        "Thematic transformation",
+        "Founding the symphonic poem",
+        "Expanding piano technique"
+      ]
+    }
+  },
+  "208": {
+    "biography": {
+      "ja": "貴族エステルハージ家の楽長として、約30年にわたり領地に事実上隔離された環境で働いた。のちに彼はこの孤立した境遇について、模範とすべき手本も従うべき流行もなかったからこそ独自の道を進まざるを得なかった、という趣旨のことを述べたと伝えられる。\n主君の死後、還暦を過ぎてから二度ロンドンに渡り、そこで書いた一連の交響曲は熱狂的に迎えられた。モーツァルトとは互いに敬愛し合う関係にあり、ウィーンでは若きベートーヴェンに一時期作曲を教えている。彼が書いた旋律の一つは、のちにオーストリア帝国の国歌、さらにドイツの国歌の旋律として採用された。",
+      "en": "As Kapellmeister to the noble Esterházy family, he worked for around thirty years in an estate that effectively isolated him from the outside musical world. He is said to have later remarked that it was exactly this isolation — with no models to copy and no fashion to follow — that forced him to find a voice of his own.\nAfter his patron's death, past the age of sixty, he travelled to London twice, and the symphonies he wrote there were met with wild enthusiasm. He and Mozart held each other in high mutual regard, and in Vienna he gave the young Beethoven composition lessons for a time. One of his melodies was later adopted as the anthem of the Austrian Empire and, still later, as the tune of the German national anthem."
+    },
+    "style": {
+      "ja": "交響曲を急—緩—メヌエット—急の4楽章という型に整え、弦楽四重奏という編成も含めて、のちの古典派の基本形式を事実上確立した。一つの主題だけを様々に展開させて楽章全体を組み立てる書き方を得意とし、モーツァルトの対照的な複数主題による叙情性とは異なる持ち味を持つ。曲の途中で聴き手の予想を裏切る不意の強奏や、終わったと見せかけてもう一度続く仕掛けなど、音楽的な機知とユーモアを構造そのものに組み込んだ。",
+      "en": "He settled the four-movement symphony — fast, slow, minuet, fast — and the string quartet into essentially the forms the Classical period would build on. He excelled at building a whole movement out of developing a single compact theme, a different strength from Mozart's lyricism built on contrasting multiple themes. He built musical wit directly into the structure itself: a sudden loud chord where a listener expects quiet, or an ending that pretends to finish and then carries on."
+    },
+    "impact": {
+      "ja": "交響曲と弦楽四重奏という二つの編成を古典派における中心的な形式として確立し、モーツァルトやベートーヴェンが土台とする構造的な枠組みを用意した。貴族の庇護に頼らず、ロンドンの公開演奏会という新しい市場で大きな成功を収めたことは、作曲家が独立した存在として公衆に直接向き合う時代の到来を予告するものだった。",
+      "en": "He established the symphony and the string quartet as the central forms of instrumental music, laying the structural groundwork that Mozart and Beethoven both built directly upon. His success in the new public concert marketplace of London, without relying on aristocratic patronage, foreshadowed the coming era in which a composer could stand as an independent figure before the public — the path Beethoven then followed to its fullest."
+    },
+    "keywords": {
+      "ja": [
+        "交響曲と弦楽四重奏の確立",
+        "単一主題による展開",
+        "音楽的な機知"
+      ],
+      "en": [
+        "Founding symphony & quartet",
+        "Monothematic development",
+        "Musical wit"
       ]
     }
   },
