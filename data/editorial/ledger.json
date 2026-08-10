@@ -417,7 +417,7 @@
   "84": {
     "name": "Ferruccio Busoni",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "85": {
     "name": "Reinhold Glière",
@@ -547,7 +547,7 @@
   "110": {
     "name": "Henri Dutilleux",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "111": {
     "name": "Luigi Nono",
@@ -602,7 +602,7 @@
   "121": {
     "name": "Darius Milhaud",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "122": {
     "name": "Jacques Ibert",
@@ -647,17 +647,17 @@
   "130": {
     "name": "Thomas Adès",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "131": {
     "name": "Kurt Weill",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "132": {
     "name": "Pierre Boulez",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "133": {
     "name": "Luciano Berio",
@@ -682,7 +682,7 @@
   "137": {
     "name": "Alfred Schnittke",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "138": {
     "name": "Richard Wagner",
@@ -692,7 +692,7 @@
   "139": {
     "name": "Arcangelo Corelli",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "140": {
     "name": "Albert Roussel",
@@ -797,7 +797,7 @@
   "160": {
     "name": "Franz Schmidt",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "161": {
     "name": "Hugo Wolf",
@@ -892,7 +892,7 @@
   "179": {
     "name": "Alexander Glazunov",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "180": {
     "name": "Milton Babbitt",
@@ -972,7 +972,7 @@
   "195": {
     "name": "Franz Berwald",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "196": {
     "name": "Wolfgang Amadeus Mozart",
@@ -1087,7 +1087,7 @@
   "218": {
     "name": "Aram Khachaturian",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "219": {
     "name": "Pérotin",

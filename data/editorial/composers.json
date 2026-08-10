@@ -1055,6 +1055,32 @@
       ]
     }
   },
+  "84": {
+    "biography": {
+      "ja": "自身も卓越したピアノの神童であり、成人してからは同時代を代表する名手ピアニストの一人として活動しながら、作曲と音楽の未来に関する理論的な考察の両方に取り組んだ。著書「新音楽美学論」では、微分音(「三分音」)による音楽など、のちに広く探求されることになる急進的な発想を数十年先立って提唱し、伝統と革新を統合する「新古典主義」を唱えた。\nバッハの鍵盤作品の校訂・編曲者としても高く評価されており、その校訂版は今日も参照される。1917年、プッチーニがのちに手がけることになる同じゴッツィの戯曲を題材に、自らもオペラ「トゥーランドット」を書いている。",
+      "en": "An extraordinary piano prodigy himself, as an adult he was one of the leading virtuoso pianists of his era, while also composing and writing extensively about music's future. In his treatise *Sketch of a New Esthetic of Music*, he proposed radical ideas decades ahead of their wider exploration, including music built on microtones ('third-tones'), and argued for a 'Young Classicism' synthesising tradition and innovation.\nHe is also highly regarded as an editor and transcriber of Bach's keyboard works, and his edition is still referenced today. In 1917 he wrote his own opera *Turandot*, based on the same Gozzi play Puccini would later adapt in his own, more famous version."
+    },
+    "style": {
+      "ja": "伝統的な12音の平均律の枠を超え、微分音(「三分音」)による分割を将来の音楽の方向性として理論的に提唱するなど、当時としては異例なほど先見的で予言的とも言える立場をとった。自身の卓越した技巧を反映した、管弦楽的な発想によるピアノ書法を特徴とし、既存の作品を再構想し拡張することを好んだ(バッハの編曲では原曲に大幅なピアニスティックな肉付けを加えている)。伝統への回帰でも純粋な前衛への断絶でもなく、古典的な明快さと均整を現代的な和声・形式の革新と統合しようとする「新古典主義」の美学を追求した。",
+      "en": "He advocated theoretically for expanding beyond the traditional twelve-tone equal-tempered system, proposing microtonal subdivisions — 'third-tones' — as a future direction for music, an unusually forward-looking, almost prophetic theoretical position for the time. His virtuosic, orchestrally conceived piano writing reflects his own formidable technique, often reimagining and expanding existing works — his Bach transcriptions add substantial pianistic elaboration to the originals. His 'Young Classicism' aesthetic sought a synthesis of Classical clarity and proportion with modern harmonic and formal innovation, rather than either pure tradition or a pure avant-garde rupture."
+    },
+    "impact": {
+      "ja": "微分音に関する彼の理論的著作は、20世紀後半に広がる代替的な調律システムの探求を数十年先取りしており、実験音楽史の研究者から先見的な貢献として評価されている。バッハの校訂版・編曲は今日も広く用いられる教育・演奏用の資料であり続け、何世代ものピアニストがバッハの鍵盤音楽に取り組む際の指針を形づくっている。エゴン・ペトリをはじめとする重要なピアニストたちを育て、自らの卓越した技巧と解釈のアプローチを次の世代の演奏家へと引き継いだ。",
+      "en": "His theoretical writings on microtonality anticipated and influenced the exploration of alternative tuning systems that spread through the later twentieth century, a genuinely prescient contribution credited by historians of experimental music. His Bach editions and transcriptions remain widely used pedagogical and performance texts, shaping how generations of pianists approach Bach's keyboard music. He taught a number of important pianists, Egon Petri among them, extending his own formidable technique and interpretive approach into the following generation of performers."
+    },
+    "keywords": {
+      "ja": [
+        "微分音の先駆的理論",
+        "バッハ校訂の権威",
+        "新古典主義の美学"
+      ],
+      "en": [
+        "Pioneering microtonal theory",
+        "Authority on Bach editions",
+        "The Young Classicism aesthetic"
+      ]
+    }
+  },
   "87": {
     "biography": {
       "ja": "音楽家の一族に生まれ、生涯をドイツ中部の限られた土地で過ごした。ヴァイマルの宮廷楽師、ケーテンの宮廷楽長を経て、38歳でライプツィヒの聖トーマス教会のカントルに就任し、以後27年間その職にあった。教会暦にあわせて毎週のようにカンタータを書き、少年たちにラテン語と音楽を教える日々だった。\n対位法——複数の旋律を同時に走らせながら全体を破綻なくまとめる技法——を、以後だれも超えられない水準にまで高めた。生前は作曲家としてより名オルガニストとして知られ、作品の多くは死後しばらく忘れられていたが、19世紀に再評価されて以降、西洋音楽の土台とみなされるようになった。",
@@ -1263,6 +1289,32 @@
       ]
     }
   },
+  "110": {
+    "biography": {
+      "ja": "自己批判がきわめて厳しく、成熟した独自の語法を見出す前の初期作品の多くを、模倣的だとして出版・上演を拒んだり撤回したりした。結果として公式なカタログに残る作品はごく少数に絞られている。\n97年という長い生涯を送り、高齢になってからも作曲家として活動を続けた。セリー主義や偶然性の音楽、スペクトル楽派といった戦後の主要な作曲潮流のいずれにも与することなく、1930年代から2010年代まで独自に育んだ声を保ち続けた。",
+      "en": "Notoriously self-critical, he withheld or withdrew much of his early output, considering it derivative before he found his mature voice — leaving an unusually small official catalogue as a result.\nHe lived an unusually long life, 97 years, and remained active as a composer into old age. He deliberately avoided aligning with any single major postwar compositional school — serialism, aleatoric music, spectralism — maintaining an independently developed voice from the 1930s into the 2010s."
+    },
+    "style": {
+      "ja": "印象主義とより現代的な技法の双方を緩やかに取り入れながら、いずれか一つの流派に完全に与することのない、丹念で豊かな色彩の管弦楽の響きをゆっくりと展開させる書法を特徴とする。楽曲全体を通じて一つの楽想が徐々に変容・拡張していく「成長」の技法を頻繁に用いており、これはシベリウスの動機の収斂やホルンボーの「変容」といった技法と概念的に通じながらも、独立して発展させたものである。自らに課した厳格な自己批判の基準を反映し、きわめて丹念で遅い作曲のペースを保った。",
+      "en": "Drawing loosely on both Impressionist and more modern techniques without fully committing to any single school, he favoured meticulous, slowly evolving orchestral textures with a rich, coloristic harmonic palette. He frequently used a technique of continuous thematic 'growth' — a musical idea gradually mutating and expanding across a whole work — conceptually related to, though independently developed from, techniques such as Sibelius's motif-convergence and Holmboe's 'metamorphosis'. His exacting self-critical standards are reflected in an extremely careful, painstaking, slow rate of composition."
+    },
+    "impact": {
+      "ja": "戦後のいかなるイデオロギー的な陣営にも与しなかったことによって、20世紀後半のフランスでもっとも国際的に尊敬される作曲家の一人となり、戦後前衛の正統性からの圧力を受けていた他の作曲家たちにとって、独立した芸術的誠実さの手本を示した。小規模ながら丹念に作り込まれたそのカタログは、量よりも質を一貫して優先した事例として批評家や演奏家に高く評価されており、より多作でむらのある作品群を残した他の作曲家たちとの意図的な対比をなしている。",
+      "en": "By refusing to align with any single ideological camp, he became one of the most internationally respected French composers of the postwar era, offering a model of independent artistic integrity that other composers navigating the pressures of postwar avant-garde orthodoxy could look to. His small but meticulously crafted catalogue is held up by critics and performers as a case study in quality prioritised consistently over quantity, standing in deliberate contrast to more prolific composers' larger, more uneven outputs."
+    },
+    "keywords": {
+      "ja": [
+        "厳格な自己批判による寡作",
+        "独立した非党派的な語法",
+        "楽想の連続的な成長"
+      ],
+      "en": [
+        "Selective output through self-criticism",
+        "An independent, non-partisan voice",
+        "Continuous thematic growth"
+      ]
+    }
+  },
   "118": {
     "biography": {
       "ja": "もともとロシア海軍の士官として勤務しており、その後本格的に音楽の道へ転じたという、大作曲家としては異例の経歴を持つ。サンクトペテルブルク音楽院の教授に就任した当初、自身の対位法や和声の知識が不十分であったことを回顧録で率直に認めており、就任後に猛勉強して追いついたと伝えられる。\nロシア国民楽派「ロシア五人組」の中心的な管弦楽の名手として、仲間のムソルグスキーやボロディンが未完のまま残した作品の補筆・管弦楽化という重要な仕事も引き受けている。教え子にはストラヴィンスキーがおり、その影響は次の世代のロシア・モダニズムにも及んでいる。",
@@ -1290,6 +1342,32 @@
         "Master orchestrator",
         "Completing unfinished works",
         "Shaping the Russian opera canon"
+      ]
+    }
+  },
+  "121": {
+    "biography": {
+      "ja": "「フランス六人組」の一員である。第一次世界大戦中、外交官の秘書としてリオデジャネイロに赴任し、サンバなどブラジルの大衆的な舞曲のリズムを直接に吸収した経験を持つ。ハーレムのジャズ・クラブで聴いた音楽に触発された「世界の創造」は、ガーシュウィンによるジャズとクラシックの融合に先立つ、もっとも早い時期のジャズ受容の例の一つである。\nユダヤ系であったためナチス占領下のフランスを逃れてアメリカに渡り、カリフォルニアのミルズ・カレッジで長年教鞭を執った。この時期の教え子にはフィリップ・グラスとスティーヴ・ライヒがおり、のちにアメリカのミニマル・ミュージックを主導することになる二人を直接指導している。",
+      "en": "A member of Les Six. During the First World War he served as a diplomatic secretary in Rio de Janeiro, where he directly absorbed the rhythms of Brazilian popular dance music, including samba. *La création du monde*, inspired by jazz he heard in Harlem clubs, stands among the earliest serious classical engagements with jazz, predating Gershwin's own jazz-classical fusion.\nAs a Jew, he fled occupied France for the United States, where he taught for decades at Mills College in California. His students there included Philip Glass and Steve Reich, giving him a direct hand in training the future leaders of American minimalism."
+    },
+    "style": {
+      "ja": "リオデジャネイロでの実体験から得たブラジルの大衆的な舞曲のリズム(サンバなど)を、借り物の異国情緒としてではなく、演奏会用音楽に直接取り込んだ先駆者である。複数の調を同時に用いる多調性——アイヴズも独立して探求した技法——を自らの署名的な和声上の手法として頻繁に用い、踊りに由来する調性的な素材の上に、明るく2つの調が衝突するような不協和を重ねている。ジャズの語法(ブルー・ノートやジャズ的な管弦楽法)を本格的な規模のバレエ音楽に取り込んだもっとも早い作曲家の一人でもある。",
+      "en": "He was a pioneer in directly incorporating Brazilian popular dance rhythms — samba among them — into concert music, drawn from lived experience rather than borrowed exoticism. He frequently used polytonality, running multiple keys simultaneously — a technique Ives also explored independently — as a signature harmonic device, layering a bright, bitonal dissonance over otherwise tonal, dance-derived material. He was also among the first to seriously integrate jazz idiom, its blue notes and orchestration, into a full-scale ballet score."
+    },
+    "impact": {
+      "ja": "ミルズ・カレッジでフィリップ・グラスとスティーヴ・ライヒの双方を教えたことにより、アメリカのミニマル・ミュージックの直接の出発点に位置している。フランスの新古典主義・多調性と、20世紀後半のアメリカ演奏会用音楽を席巻することになる潮流とを結ぶ、記録に残る具体的な師弟の系譜である。早くから直接的にジャズとブラジル音楽を取り入れた作品群は、大衆的な音楽を本格的な演奏会用作曲に取り込むことを正当な継続的実践として確立する一助となり、この系譜はガーシュウィンやコプランド、バーンスタインへと続いている。",
+      "en": "As teacher to both Philip Glass and Steve Reich at Mills College, he sits at the direct pedagogical origin point of American minimalism — a documented, concrete teaching lineage connecting French neoclassicism and polytonality to the movement that would later dominate late-twentieth-century American concert music. His early and direct jazz- and Brazilian-influenced works helped establish incorporating vernacular popular music into serious concert composition as a legitimate, ongoing practice, a lineage extending through Gershwin, Copland and Bernstein."
+    },
+    "keywords": {
+      "ja": [
+        "ブラジル音楽の直接的な吸収",
+        "多調性の署名的な使用",
+        "グラス・ライヒを育てた師"
+      ],
+      "en": [
+        "Direct absorption of Brazilian music",
+        "Signature use of polytonality",
+        "Teacher of Glass and Reich"
       ]
     }
   },
@@ -1342,6 +1420,84 @@
         "Literary suite form",
         "Poetry-music fusion in song",
         "Composer as critic"
+      ]
+    }
+  },
+  "130": {
+    "biography": {
+      "ja": "このデータセットの中でもっとも若い世代に属する作曲家であり、現代のイギリス・国際的な演奏会用音楽を代表する存在である。若くして、世界有数のオーケストラや歌劇場から委嘱を受ける、もっとも高く評価され商業的にも成功した存命の作曲家の一人となった。\n指揮者、また自作や他者の作品を演奏する優れたピアニストとしても活動している。初期の出世作となった管弦楽曲「アシラ」は、サイモン・ラトルによってBBCプロムスで演奏され、のちにラトルがベルリン・フィルハーモニー管弦楽団の音楽監督に就任した際の最初の演奏会でも取り上げられるなど、若い作曲家としては異例の評価を受けた。",
+      "en": "The youngest composer of this generation covered here, he is a leading figure of contemporary British and international concert music. At a young age he became one of the most critically acclaimed and commercially successful living classical composers, receiving commissions from leading orchestras and opera houses worldwide.\nHe is also active as a conductor and as a virtuoso pianist performing his own and others' works. *Asyla*, an early breakthrough orchestral work, was performed by Simon Rattle at the BBC Proms and later programmed at Rattle's inaugural concert as music director of the Berlin Philharmonic — an unusual mark of establishment recognition for a young composer."
+    },
+    "style": {
+      "ja": "バロックの舞曲形式から「アシラ」に見られるクラブ・ダンス音楽のリズムまで、幅広い歴史的・現代的な影響を単一の流派に縛られることなく吸収し作り替える、折衷的で技巧的に卓越した語法を特徴とする。密度の高い層を成す管弦楽の響きと、自身の演奏家としての背景を反映した、管弦楽の色彩と器楽的な妙技への並外れて鋭敏な耳を併せ持つ。シェイクスピアの「テンペスト」に基づくオペラや、「死の舞踏」の伝統を再構築した舞踊的・管弦楽的作品など、過去の音楽・文学的伝統に明示的に取り組みながらも、明確に現代的な和声とリズムの感性を保っている。",
+      "en": "He absorbs and reworks a wide range of historical and contemporary influences — from Baroque dance forms to the club-music rhythms of *Asyla* — without adhering to a single school, in an eclectic, technically virtuosic idiom. Dense, layered orchestral textures combine with an unusually acute ear for orchestral colour and instrumental virtuosity, reflecting his own background as a performer. He frequently engages explicitly with earlier musical and literary tradition — an opera based on Shakespeare's *The Tempest*, orchestral works reworking the 'Totentanz' (dance of death) tradition — while keeping a distinctly contemporary harmonic and rhythmic sensibility."
+    },
+    "impact": {
+      "ja": "国際的にもっとも頻繁に演奏される存命の作曲家の一人として、このコレクション全体が最初期の人物から現代までたどってきたクラシック演奏会音楽の伝統の、現在の最前線を代表する存在である。早くから確立の評価(ラトルによる後押しや主要な歌劇場からの委嘱)を得たことは、クラシック音楽という制度が、まだ活動を続ける若い作曲家を存命中にレパートリーの中心へと押し上げる力を今なお持っていることを示しており、このコレクションの他の項目に見られる数々の「遅れてきた評価」や没後の再評価の物語(バッハ、シューベルト、ヤナーチェク、アイヴズ)とは対照的な、注目すべき現代的な事例になっている。",
+      "en": "As one of the most performed living composers internationally, he represents the current leading edge of the classical concert tradition this collection traces from its earliest figures through to the present day. His early establishment recognition — Rattle's advocacy, major opera house commissions — demonstrates that the classical music institution retains the capacity to elevate a young, still-active composer to central repertory status within his own lifetime, a notable contemporary counterpoint to the many delayed-recognition and posthumous-rediscovery stories found elsewhere in this collection, from Bach to Schubert, Janáček and Ives."
+    },
+    "keywords": {
+      "ja": [
+        "折衷的で技巧的な現代語法",
+        "早期に確立した国際的評価",
+        "過去の伝統との明示的な対話"
+      ],
+      "en": [
+        "Eclectic, virtuosic contemporary idiom",
+        "Early international recognition",
+        "Explicit dialogue with tradition"
+      ]
+    }
+  },
+  "131": {
+    "biography": {
+      "ja": "ブゾーニに師事した。ワイマール共和国時代のドイツでは劇作家ベルトルト・ブレヒトと緊密に協働し、政治的な関心を色濃く反映した音楽劇を生み出した。代表作「三文オペラ」に含まれる「マック・ザ・ナイフ」は、ポピュラー音楽史上もっとも多くカバーされた曲の一つになっている。\nユダヤ系であり、その作品はナチス政権から「退廃芸術」として名指しで攻撃・禁止されたため、ドイツを逃れてアメリカに渡った。渡米後はブロードウェイの作曲家として自らを再構築することに成功し、ヨーロッパの本格的な音楽劇とアメリカの大衆的なブロードウェイの双方で成功を収めるという、稀有な大西洋を股にかけた二重のキャリアを築いた。",
+      "en": "He studied under Busoni. In Weimar-era Germany he collaborated closely and famously with the playwright Bertolt Brecht, producing politically engaged musical theatre; their best-known result, *The Threepenny Opera*, includes 'Mack the Knife', one of the most covered songs in the history of popular music.\nAs a Jew, and with his work explicitly targeted and banned by the Nazi regime as 'degenerate', he fled Germany for the United States. There he successfully reinvented himself as a Broadway composer, achieving a genuinely rare transatlantic dual career of success in both serious European musical theatre and mainstream American Broadway."
+    },
+    "style": {
+      "ja": "ドイツ時代には、大衆的なキャバレー歌曲の形式やジャズに通じる和声を意図的に取り入れ、市民社会を批判する鋭く辛辣な音楽劇の語法を用いた。これは大歌劇とは異なる、洗練された技巧で仕上げられた大衆歌曲形式に近い「歌う演劇」の様式である。渡米後には、劇作上の高度な巧みさを保ちながらも、より親しみやすく旋律的に温かみのあるブロードウェイの語法へと大きく作風を転換しており、一つの連続した進化というよりも、二つのまったく異なる作曲家としての声を持つキャリアの軌跡を描いている。",
+      "en": "In his German period he deployed a sharp, biting satirical musical-theatre idiom, deliberately incorporating popular cabaret song forms and jazz-adjacent harmony to critique bourgeois society — a 'sung theatre' style distinct from grand opera, closer to popular song forms handled with sophisticated craft. In his American period he underwent a genuine, well documented stylistic reinvention, moving toward a more accessible, melodically warm Broadway idiom while retaining strong dramaturgical sophistication — a career trajectory of two genuinely distinct compositional voices rather than one continuous evolution."
+    },
+    "impact": {
+      "ja": "「三文オペラ」とブレヒトとの一連の協働作品は、政治的関心を反映した音楽劇の金字塔であり続けており、深刻な社会批判と大衆的な音楽のわかりやすさを組み合わせる、影響力のある手本になっている。「マック・ザ・ナイフ」は20世紀のポピュラー音楽史上もっとも広くカバーされた曲の一つとなり、音楽劇史における評価とはまったく別に、主流の大衆文化への異例なほど広い到達点を彼にもたらした。亡命後にブロードウェイの作曲家として成功裏に自らを作り変えたことは、このコレクションに登場する複数の亡命作曲家たちの中でも、単に生き延びるだけでなく新しい国の文脈で本当の意味で成功した芸術的な転身の際立った事例になっている。",
+      "en": "*The Threepenny Opera* and the other Brecht collaborations remain landmark works of politically engaged musical theatre, an influential model for combining serious social critique with popular musical accessibility. 'Mack the Knife' became one of the most widely recorded and covered songs in twentieth-century popular music, giving him an unusually broad reach into mainstream popular culture entirely apart from his standing in musical theatre history. His successful reinvention as a Broadway composer after emigration stands, among this collection's several emigre composers, as a distinctive case of a genuinely successful, rather than merely surviving, artistic transformation in a new national context."
+    },
+    "keywords": {
+      "ja": [
+        "政治的関心を映す歌う演劇",
+        "マック・ザ・ナイフの世界的な浸透",
+        "亡命後の見事な再創造"
+      ],
+      "en": [
+        "Politically engaged sung theatre",
+        "The global reach of Mack the Knife",
+        "A successful reinvention after emigration"
+      ]
+    }
+  },
+  "132": {
+    "biography": {
+      "ja": "メシアンに師事した。戦後まもない時期には全面的なセリー主義のもっとも急進的で妥協のない代表者の一人となり、十二音技法に取り組まない作曲家は「無用」だと挑発的に言い放ったとも伝えられる。\nのちには一転して、20世紀を代表する指揮者の一人としても高い評価を得て、ニューヨーク・フィルハーモニックやBBC交響楽団といった主要オーケストラを率いながら作曲活動も続けた。パリを拠点とする音楽研究・電子音楽の研究機関IRCAMを設立・主導したことは、純粋な作曲家としての業績とは別の、大きな制度的な遺産になっている。",
+      "en": "He studied under Messiaen. In the immediate postwar period he became one of the most radical and uncompromising voices of total serialism, said to have provocatively declared that any composer not engaging with twelve-tone technique was 'useless'.\nLater, paradoxically, he became equally celebrated as one of the twentieth century's leading orchestral conductors, leading major orchestras such as the New York Philharmonic and the BBC Symphony Orchestra while continuing to compose. Founding and directing IRCAM, a major Paris-based institute for musical research and electronic and computer music, left a significant institutional legacy distinct from his purely compositional output."
+    },
+    "style": {
+      "ja": "初期には妥協のない厳格な全面的セリー主義を貫き、シェーンベルクが本来音高のみに適用した十二音の原理を、リズムや強弱、音色にまで拡張した、より包括的で体系的な適用を行った。後年の作品ではやや軟化し、統制された偶然性の要素を取り入れ、何十年にもわたって以前の作品を繰り返し見直し改訂し続ける傾向でも知られている。指揮者としては、複雑な20世紀の管弦楽作品の解釈において、卓越した明晰さと精密さ、構造的な透明性で高く評価されており、これは彼自身の作曲における分析的な厳密さに直接裏づけられたアプローチである。",
+      "en": "In his early period he applied total serialism with uncompromising rigour, extending twelve-tone principles — which Schoenberg had originally applied only to pitch — to rhythm, dynamics and timbre as well, a more comprehensive, systematic application. His later works softened somewhat, incorporating controlled aleatoric elements, and he was known for a tendency to revisit and revise earlier pieces repeatedly over decades rather than considering a work finished. As a conductor he was renowned for exceptional clarity, precision and structural transparency in interpreting complex twentieth-century orchestral scores, an approach directly informed by his own compositional analytical rigour."
+    },
+    "impact": {
+      "ja": "総音列主義と戦後の音楽的モダニズムのもっとも公に目に見える、影響力のある代弁者となり、比較的小規模な作曲面での業績以上に、その主張・著述・組織的な力を通じて、20世紀半ばの前衛の方向性と制度的な正当性を形づくった。自ら設立したIRCAMは、コンピュータ音楽と音響研究における世界でもっとも重要な拠点の一つとなり、音楽とテクノロジーの交差点を何世代もの研究者・作曲家のために制度化した。指揮者としての録音と解釈は20世紀管弦楽レパートリーの規範的な基準となり、作曲家・理論家・演奏家という役割を異例なほど統合された形で結びつけた。",
+      "en": "He became the most publicly visible and influential spokesperson for total serialism and postwar musical modernism, shaping the direction and institutional legitimacy of the mid-century avant-garde perhaps more through advocacy, writing and organisational power than through his relatively small compositional output. IRCAM, which he founded, became one of the world's most important centres for computer music and acoustic research, institutionalising the intersection of music and technology for generations of researchers and composers. As a conductor, his recordings and interpretations became reference standards for the twentieth-century orchestral repertoire, bridging his roles as composer, theorist and performer in an unusually integrated way."
+    },
+    "keywords": {
+      "ja": [
+        "徹底した総音列主義",
+        "IRCAMの設立",
+        "作曲家と指揮者の二重の権威"
+      ],
+      "en": [
+        "Uncompromising total serialism",
+        "Founding IRCAM",
+        "Dual authority as composer and conductor"
       ]
     }
   },
@@ -1405,6 +1561,32 @@
       ]
     }
   },
+  "137": {
+    "biography": {
+      "ja": "ソ連領内で、ヴォルガ・ドイツ系ユダヤ人の父とラトビア・ドイツ系の母のもとに生まれた、複雑で重層的な出自を持つ。「多様式主義(ポリスタイリズム)」と自ら名づけた作曲上の考え方を発展させ、バロック風の様式模倣と無調のモダニズム、大衆音楽への言及といった、まったく異なる音楽様式を一つの作品の中に意図的に組み合わせる、独自の名付けられた技法を確立した。\nソ連時代には映画音楽の仕事を数多く手がけており、これは演奏会用の作品が当局の制約を受けがちだった当時のソ連の作曲家にとって一般的な必要事だった。晩年には度重なる脳卒中により健康を著しく損なったが、それでも作曲を続けた。ソ連時代の他の作曲家たちと同様、その音楽は一時期公的な制約を受けたが、のちに国際的な評価を確立した。最終的にはドイツへ移住している。",
+      "en": "He was born in the Soviet Union to a Volga German-Jewish father and a Latvian-German mother — a genuinely complex, layered heritage. He developed a compositional philosophy he called 'polystylism', deliberately combining radically disparate musical styles and quotations — Baroque pastiche alongside atonal modernism and references to popular music — within a single work, a distinct, named technique of his own.\nHe worked extensively as a film composer in the Soviet Union, a common necessity for composers of the era whose concert works often faced official restriction. Later in life a series of strokes severely damaged his health, though he continued composing. Like other Soviet-era composers, his music faced official restriction for a period before later winning international recognition. He eventually emigrated to Germany."
+    },
+    "style": {
+      "ja": "「多様式主義」——バロック風の様式模倣が濃密な無調のモダニズムと衝突したり、大衆的なタンゴが交響的な論旨を突然中断させたりするように、まったく異なる歴史的・現代的な音楽様式を一つの作品の中に意図的に並置・重層させる手法——を確立した。これはなめらかな統合ではなく、皮肉で耳障りな、あるいは感情的に複雑な効果を生み出すために用いられている。とりわけ健康上の危機を経験してからの晩年の作品には、宗教的・実存的な主題が頻繁に現れる。ショスタコーヴィチの皮肉、西欧の前衛技法、大衆的な引用を同時に汲み取る、きわめて折衷的な作風を持つ。",
+      "en": "He developed 'polystylism' — deliberately juxtaposing or layering radically different historical and contemporary musical styles within a single work, as when a Baroque-pastiche passage collides with dense atonal modernism, or a popular tango suddenly interrupts a symphonic argument — used to generate ironic, jarring or emotionally complex effects rather than seamless synthesis. Religious and existential themes recur frequently, especially in his later works, reflecting concerns intensified after his health crises. He was deeply eclectic, drawing simultaneously on Shostakovich's irony, Western avant-garde technique, and popular quotation."
+    },
+    "impact": {
+      "ja": "「多様式主義」は20世紀後半においてもっとも広く認知され模倣された作曲上のアプローチの一つとなり、様式の並置そのものを組織化の原理とすることで、厳格なモダニズムと純粋なネオ・ロマン主義のいずれとも異なる、一貫した代替案を作曲家たちに示した。公的な制約を経て国際的な評価を確立したソ連時代の作曲家としての彼の経歴は、ショスタコーヴィチやプロコフィエフらとも通じる、ソ連の文化統制下にあった作曲家たちというこのコレクションに繰り返し現れる主題に、より後の世代からの応答というさらなる事例を加えている。",
+      "en": "'Polystylism' became one of the most widely recognised and imitated compositional approaches of the late twentieth century, offering composers a coherent alternative to both strict modernism and pure neo-Romanticism by making stylistic juxtaposition itself the organising principle. As a Soviet-era composer whose work navigated official restriction before international acclaim, his case adds a further, later data point to this collection's recurring theme of composers under Soviet cultural control, alongside Shostakovich and Prokofiev, representing a later generation's response to the same structural pressures."
+    },
+    "keywords": {
+      "ja": [
+        "多様式主義",
+        "宗教的・実存的な晩年の主題",
+        "ソ連文化統制下のもう一つの世代"
+      ],
+      "en": [
+        "Polystylism",
+        "Religious and existential late themes",
+        "A later generation under Soviet cultural control"
+      ]
+    }
+  },
   "138": {
     "biography": {
       "ja": "自らの台本を書いて作曲する、当時としては珍しい作曲家だった。1849年のドレスデン蜂起に加わって指名手配され、長年の亡命生活を送っている。困窮していたところをバイエルン国王ルートヴィヒ2世に見出されて多額の援助を受け、後年は自らの構想通りに上演するための劇場をバイロイトに建設した。\nオーケストラ・ピットを客席から隠し、上演中は場内を暗くするという当時としては斬新な劇場設計を採用し、現在の歌劇場のあり方にも影響を残している。",
@@ -1428,6 +1610,32 @@
         "Leitmotif technique",
         "Continuous musical drama",
         "Pushing tonality's limits"
+      ]
+    }
+  },
+  "139": {
+    "biography": {
+      "ja": "バロック時代でもっとも影響力のあったヴァイオリニスト兼作曲家の一人であり、枢機卿らの後援を得て活動し、ローマを器楽音楽の一大中心地として確立する一助となった。生前に出版した作品はわずか6つの作品番号にとどまるが、それぞれの曲集はヨーロッパ各地で広く流布・再版される絶大な影響力を持ち、テレマンのような膨大な作品数を誇る同時代の作曲家たちとは対照的な、量に対して不釣り合いなほどの影響力を示す事例となっている。\n没後に出版された合奏協奏曲集作品6は、コンチェルト・グロッソというジャンルの基礎的な模範になった。",
+      "en": "One of the most influential violinist-composers of the Baroque era, he worked under cardinal patrons and helped establish Rome as a major centre of instrumental music. He published only six opus numbers in his lifetime, yet each collection was enormously influential and widely disseminated and reprinted across Europe — a case of influence disproportionate to the small surviving output, in contrast to contemporaries such as Telemann's vast catalogue.\nHis Op. 6 Concerti Grossi, published posthumously, became a foundational model for the concerto grosso genre."
+    },
+    "style": {
+      "ja": "トリオ・ソナタとコンチェルト・グロッソという二つのジャンルを体系化・標準化する一助となり、小編成の「コンチェルティーノ」と大規模な「リピエーノ」の対比というコンチェルト・グロッソの形式的・様式的な慣習を確立した。この慣習はのちにヴィヴァルディやヘンデル、バッハに受け継がれ発展させられている。ヴァイオリンの書法では、極端な妙技の誇示よりも、優雅で歌うような旋律線と楽器の特性を生かした奏法を重視し、以後のイタリア・ヴァイオリン楽派全体に影響を与える、趣味のよい均整の取れた器楽書法の基礎的な模範を打ち立てた。",
+      "en": "He helped codify and standardise the trio sonata and the concerto grosso as genres, establishing the formal and stylistic conventions — the alternation of a small concertino group against the larger ripieno orchestra in the concerto grosso — that Vivaldi, Handel and Bach would later inherit and develop. His violin writing emphasises elegant, singing melodic lines and idiomatic string technique over extreme virtuosic display, setting a foundational model of tasteful, well-proportioned instrumental writing that influenced the entire Italian violin school that followed."
+    },
+    "impact": {
+      "ja": "トリオ・ソナタとコンチェルト・グロッソの形式上の模範を確立し、ヨーロッパ全体の標準的な型となって、ヴィヴァルディやヘンデル、バッハがこれらのジャンルに取り組む際の方向性を直接形づくった。比較的小規模で丹念に選び抜かれた出版作品群は、ピアノ音楽にほぼ専念したショパンの場合と並んで、作曲家の影響力が作品の量そのものではなく、その深さと流布の広さによって測られうることを示す事例になっている。ロカテッリやジェミニアーニといった弟子を育て、そのヴァイオリン奏法と作曲上の原則を次の世代のイタリア・ヨーロッパの弦楽器演奏へと引き継いだ。",
+      "en": "He established formal templates for the trio sonata and concerto grosso that became the standard model across Europe, directly shaping how Vivaldi, Handel and Bach approached these genres. His relatively small, carefully curated published output stands, alongside Chopin's near-exclusive focus on piano music, as a case study in how a composer's influence can be measured by depth and dissemination rather than sheer quantity of works. His teaching produced Locatelli and Geminiani, extending his violinistic and compositional principles into the next generation of Italian and European string playing."
+    },
+    "keywords": {
+      "ja": [
+        "コンチェルト・グロッソの形式化",
+        "小規模ながら絶大な影響力",
+        "イタリア・ヴァイオリン楽派の基礎"
+      ],
+      "en": [
+        "Codifying the concerto grosso",
+        "Small output, vast influence",
+        "Foundation of the Italian violin school"
       ]
     }
   },
@@ -1699,6 +1907,32 @@
       ]
     }
   },
+  "160": {
+    "biography": {
+      "ja": "ブルックナーに師事した。作曲家・教師として身を立てる以前は、マーラーの厳格な指揮のもとウィーン宮廷歌劇場管弦楽団のチェロ奏者を務めており、これは当時の楽団員にとってしばしば困難な経験だったと伝えられる。\n同時代のウィーンで起きていたシェーンベルクの無調をはじめとするより急進的なモダニズムの潮流にはほとんど影響されず、比較的保守的な後期ロマン派の語法を、単なる無自覚からではなく意識的な美学的選択として貫いた。最後の主要作品であるオラトリオ「7つの封印の書」は、ヨハネの黙示録を題材に第二次世界大戦の足音が迫るなか完成されており、一部の研究者はその終末論的な主題を当時のオーストリアの政治情勢の暗さと結びつけて論じている。",
+      "en": "He studied under Bruckner. Before establishing himself as a composer and teacher, he worked as a cellist in the Vienna Court Opera orchestra under Mahler's exacting direction, an experience said to have been often difficult for the orchestra's players at the time.\nHe remained largely untouched by the more radical modernist currents happening around him in Vienna, such as Schoenberg's atonality, keeping a relatively conservative late-Romantic voice as a deliberate aesthetic choice rather than a lack of awareness. His last major work, the oratorio *Das Buch mit sieben Siegeln* ('The Book with Seven Seals'), based on the Book of Revelation, was completed shortly before his death as the Second World War loomed, and some scholars read its apocalyptic themes against the darkening political backdrop of late-1930s Austria."
+    },
+    "style": {
+      "ja": "同時代のウィーンで起きていた無調や十二音技法の革新にはほとんど動じず、周囲の音楽の主流が急進的に変化していく中でも、ブルックナーやブラームスの系譜に連なる調性的で豊かに管弦楽化された書法を、意識的な保守として貫いた。チェロ奏者・オルガニストとしての実践的な音楽性を反映した、巧みな対位法的書法を特徴とする。終末論的なオラトリオに結実する大規模な合唱・管弦楽形式は、和声語法こそ異なるものの、ブルックナー自身の交響的な規模に匹敵する、壮大で精神的な重みを持つ表現への野心を示している。",
+      "en": "He remained largely unmoved by the atonal and twelve-tone innovations happening around him in Vienna, keeping a tonal, richly orchestrated writing in the lineage of Bruckner and Brahms as a deliberate conservatism even as the musical mainstream around him shifted radically. His skilled contrapuntal writing reflects the practical musicianship of a cellist and organist. His large-scale choral-orchestral forms, culminating in the apocalyptic oratorio, show an ambition for grand, spiritually weighted statements comparable in scale, if not harmonic language, to Bruckner's own symphonic scope."
+    },
+    "impact": {
+      "ja": "シェーンベルクのサークルによる急進的な革新によって特徴づけられがちなウィーンにあって、意識的な保守を貫いた事例として記録されており、同じ都市・同じ時代に活動した作曲家の誰もが無調のモダニズムへ向かうことを強いられたわけではないことを示す反証として、音楽史家にとって重要である。「7つの封印の書」は近年、それまで過小評価されていた後期ロマン派の合唱・管弦楽の大作として、批評的にも演奏の機会としても注目を高めており、当時のより急進的な同時代人の陰に隠れがちだった保守的な20世紀初頭の声を再評価するという、より広い潮流の一部になっている。",
+      "en": "He represents a documented case of deliberate conservatism within a Vienna otherwise defined by the radical innovations of Schoenberg's circle, offering historians a counter-example showing that not every composer working in the same city and era felt compelled toward atonal modernism. *The Book with Seven Seals* has gained increasing critical and performance attention in recent decades as a major, previously underrecognised late-Romantic choral-orchestral achievement, part of a broader pattern of reassessment for conservative early-twentieth-century voices overshadowed at the time by more radical contemporaries."
+    },
+    "keywords": {
+      "ja": [
+        "意識的な保守主義",
+        "ブルックナー的な規模の野心",
+        "近年再評価が進む終末論的大作"
+      ],
+      "en": [
+        "Deliberate conservatism",
+        "Brucknerian ambition of scale",
+        "A recently reassessed apocalyptic masterwork"
+      ]
+    }
+  },
   "162": {
     "biography": {
       "ja": "ライプツィヒ音楽院でライネッケらに学んだが、ドイツ流の教育に息苦しさを感じていた。ノルウェーに戻ってから出会った作曲家リカルド・ノルドロークとの親交を通じて、より明確にノルウェー的な語法を追求する方向性を見出したとされる。ノルドロークが若くして病没したことは、彼に深い衝撃を与えた。\n劇作家イプセンの依頼で戯曲「ペール・ギュント」の劇音楽を作曲するなど、ノルウェーを代表する作曲家として国内外で活動した。",
@@ -1933,6 +2167,32 @@
       ]
     }
   },
+  "179": {
+    "biography": {
+      "ja": "神童としてリムスキー=コルサコフに見出され直接指導を受け、バラキレフやボロディンからも支援を受けた。\nロシア革命という激動の時代にサンクトペテルブルク音楽院の院長を務め、学院とその学生・教員を守ろうと努めた。当時まだ若い学生だったショスタコーヴィチを、自らの立場を用いて庇護したとも伝えられている。革命後は西欧へ亡命し、パリに定住した。自身の作風は19世紀ロシア・ロマン派の国民主義に根ざしたままだったが、次のソヴィエト時代のモダニストの世代を育てる機関を率いるという、世代をまたぐ橋渡し役を担った。",
+      "en": "A child prodigy discovered and directly mentored by Rimsky-Korsakov, he also received support from Balakirev and Borodin.\nHe directed the Saint Petersburg Conservatory through the turmoil of the Russian Revolution, working to protect the institution and its students and faculty — reportedly using his position to shield the young Shostakovich, then still a student, from difficulty. After the Revolution he emigrated west and settled in Paris. His own compositional style remained rooted in nineteenth-century Russian Romantic nationalism even as he presided over an institution training the next generation of Soviet-era modernists, making him a notable bridge figure between generations."
+    },
+    "style": {
+      "ja": "師リムスキー=コルサコフや「ロシア五人組」が確立したロシア国民楽派のロマン派的な語法を、モダニズムへの離脱としてではなくその継承・集大成として発展させ、豊かな管弦楽法、明快な形式構造、民俗色を帯びた旋律を特徴とする。リムスキー=コルサコフ自身の管弦楽の熟達を直接受け継いだ管弦楽技法と形式的な職人技の名手とされ、師よりもいくぶん国際的で、あからさまに標題的・国民主義的ではない語法にそれを応用した。「サクソフォン協奏曲」は、当時のクラシック音楽の伝統においてまだ比較的新しかったサクソフォンを演奏会用の独奏楽器として本格的に扱った、早い時期の異色の作品である。",
+      "en": "Rather than departing into modernism, he continued and consolidated the Russian nationalist Romantic idiom established by his teacher Rimsky-Korsakov and the 'Mighty Handful', marked by rich orchestration, clear formal structures and folk-inflected melody. He is considered a master of orchestral technique and formal craftsmanship, directly inheriting Rimsky-Korsakov's own orchestrational mastery, applied to an idiom somewhat more cosmopolitan and less overtly nationalist-programmatic than his teacher's. The Saxophone Concerto represents an unusual, early serious classical engagement with the saxophone as a concert solo instrument, still relatively new to the classical tradition at the time."
+    },
+    "impact": {
+      "ja": "革命期を通じてサンクトペテルブルク(のちのペトログラード、レニングラード)音楽院の院長を務め、ロシア音楽史上もっとも激動の時代に重要な制度的・保護的な役割を果たし、若きショスタコーヴィチをはじめとする人材を直接に庇護した。これは19世紀の「ロシア五人組」の伝統と、それに続くソヴィエト時代の作曲家たちとを結ぶ、記録に残るつながりである。彼自身の保守的なロマン派様式は、教え子の世代のモダニズムによって批評上の流行としては陰に隠れがちだったものの、ロシア国民楽派の管弦楽技法がもっとも洗練された形で到達した重要な集大成であり続けている。",
+      "en": "As director of the Saint Petersburg (later Petrograd/Leningrad) Conservatory through the Revolution, he played a crucial institutional and protective role during one of the most disruptive periods in Russian musical history, directly shielding the young Shostakovich among others — a documented link connecting the nineteenth-century 'Mighty Handful' tradition to the Soviet composers who followed. His own conservative Romantic style, though eclipsed in critical fashion by the modernism of his own students' generation, remains an important representative summation of Russian nationalist orchestral craft at its most polished."
+    },
+    "keywords": {
+      "ja": [
+        "五人組の伝統の継承",
+        "革命期の音楽院を守った指導者",
+        "サクソフォン協奏曲という異色作"
+      ],
+      "en": [
+        "Continuing the Mighty Handful tradition",
+        "Protecting the conservatory through revolution",
+        "The unusual Saxophone Concerto"
+      ]
+    }
+  },
   "183": {
     "biography": {
       "ja": "ウィーンで生まれ、同時代のベートーヴェンを深く敬愛したが、生前に二人が親しく交流することはなかったとされる。宮廷礼拝堂の少年合唱団を経て一時教師を務めたが、多くは特定の職に就かず、友人たちが自宅に集って彼の新作を演奏する私的な集まり「シューベルティアーデ」を主な発表の場とした。\n歌曲だけで600曲以上を書くなど驚異的な多作家だったが、生前に広く名声を得ることはなく、31歳で病のため早世した。",
@@ -2120,6 +2380,32 @@
         "Empfindsamer Stil",
         "The keyboard treatise",
         "A bridge to the Classical era"
+      ]
+    }
+  },
+  "195": {
+    "biography": {
+      "ja": "父も祖父も音楽家という家系に生まれたが、スウェーデン国内では作曲家として何十年にもわたり十分な評価を得られず、生計を立てるためにベルリンで整形外科・理学療法の施設を運営するという、音楽とはまったく別の仕事に従事した時期がある。のちにはガラス工場や製材業も営んでいる。\n生涯の大半において本格的な作曲家として認められることはなく、主要な作品の多くは死後、あるいは生涯のごく晩年になってようやく初演されるという、遅れてきた評価の例の一つとなっている。",
+      "en": "Born into a family of musicians — both his father and grandfather were professional musicians — he struggled for decades to gain recognition as a composer in Sweden, and for a time ran an orthopaedic and physiotherapy institute in Berlin, entirely outside music, to make a living. He later also ran a glassworks and a sawmill.\nFor most of his life he was not recognised as a serious composer, and several of his major works received their premieres only after his death or very late in his life — another case of delayed recognition."
+    },
+    "style": {
+      "ja": "当時の標準的なドイツ・オーストリア系の交響曲の型から外れた、独自で時に型破りな交響的書法を特徴とし、スケルツォと緩徐楽章の機能を融合させるなど、同時代人には十分に理解・評価されなかった異例の形式的な実験を試みている。旋律と和声の語法には際立って個人的な声があり、研究者によって後年のロマン派の展開を先取りするものだったと評されることもあるが、現存し評価が定まっている作品数が少ないこともあり、この見方は慎重に扱われるべきである。",
+      "en": "His symphonic writing departed from the standard Austro-German symphonic models of his time, incorporating unusual formal experiments — such as blending the functions of a scherzo and a slow movement — that his contemporaries did not fully understand or appreciate. His melodic and harmonic language has a distinctly personal voice, sometimes retrospectively described by scholars as anticipating later Romantic developments, though this reading should be treated cautiously given the small sample of his recognised output."
+    },
+    "impact": {
+      "ja": "没後何十年も経ってから、19世紀スウェーデンでもっとも重要な交響曲作家として次第に再評価されるようになっており、形式的な革新が当時の期待には型破りすぎた作曲家たちが没後に再発見されるという、より広いパターンの一部をなしている。整形外科施設やガラス工場の経営という異色の二重のキャリアは、ボロディンの化学者としての経歴と並んで、実務上の必要から音楽とはまったく別の専門分野で本格的な業績を同時に成し遂げた作曲家のさらなる事例として記録されている。",
+      "en": "Well after his death, he has been increasingly recognised in recent decades as Sweden's most significant nineteenth-century symphonic voice, part of a broader pattern of posthumous rediscovery for composers whose formal innovations were too unconventional for their own era's expectations. His unusual dual career, running a physiotherapy institute and later a glassworks, stands alongside Borodin's chemistry career as a further documented example of a major composer sustaining serious achievement in an entirely separate professional field out of practical necessity."
+    },
+    "keywords": {
+      "ja": [
+        "型破りな交響的形式",
+        "整形外科施設経営という異色の経歴",
+        "没後に進んだ再評価"
+      ],
+      "en": [
+        "Unconventional symphonic form",
+        "An unusual career running a physiotherapy institute",
+        "Posthumous rediscovery"
       ]
     }
   },
@@ -2388,6 +2674,32 @@
         "Polytonality and collage",
         "Quoting American vernacular music",
         "Prescience lost to obscurity"
+      ]
+    }
+  },
+  "218": {
+    "biography": {
+      "ja": "アルメニア系ソヴィエトの指導的な作曲家であり、ソヴィエトの音楽界における非ロシア系の声としてもっとも著名な存在の一人である。ショスタコーヴィチやプロコフィエフと同様、公的な批判にさらされ、1948年、この二人の「形式主義」を糾弾したのと同じジダーノフ批判の対象となった。二人よりも一般に民謡的で親しみやすい作風だったにもかかわらず、あるいはそれゆえに、である。\nアルメニアおよび広くコーカサス地方の民俗音楽の伝統を明示的に、大々的に取り入れており、ロシアの「ロシア五人組」の国民主義とは地理的に異なる、類似の国民主義的な企てを進めた。",
+      "en": "A leading Armenian-Soviet composer, he was one of the most prominent non-Russian voices within the Soviet musical establishment. Like Shostakovich and Prokofiev, he faced official censure, targeted in the same 1948 Zhdanov Decree that condemned the two of them for 'formalism' — despite, or perhaps because of, a generally more folk-accessible style than theirs.\nHe drew extensively and explicitly on Armenian and broader Transcaucasian folk music traditions, a nationalist project analogous to, but geographically distinct from, the Russian nationalism of the 'Mighty Handful'."
+    },
+    "style": {
+      "ja": "アルメニアや広くコーカサス地方の民俗的な旋律・リズムの素材(旋法的な音階や不規則な舞踊のリズム)を、大規模なロマン派的な管弦楽・協奏曲の形式に鮮やかでリズムの躍動感あふれる形で取り込んだ。輝かしくしばしば打楽器的な管弦楽法を特徴とし、大胆で即座に親しみやすい旋律的な身振りと劇的なリズムの推進力を好み、総じてショスタコーヴィチやプロコフィエフのより両義的な語法に比べて親しみやすく和声的にも穏やかである。バレエ音楽(「ガイーヌ」「スパルタクス」)では、鮮やかで踊りやすく劇的に効果的な管弦楽的な見せ場を作る特別な才能を示している。",
+      "en": "He incorporated Armenian and broader Transcaucasian folk melodic and rhythmic material — modal scales, irregular dance rhythms — into large-scale Romantic orchestral and concerto forms with vivid, rhythmically vital effect. His brilliant, often percussive orchestration favours bold, immediately accessible melodic gestures and dramatic rhythmic drive, generally more approachable and less harmonically astringent than the more ambivalent idioms of Shostakovich or Prokofiev. His ballet writing, in *Gayane* and *Spartacus*, shows a particular gift for vivid, danceable, dramatically effective orchestral set-pieces."
+    },
+    "impact": {
+      "ja": "国際的にもっとも認知されたアルメニア人作曲家となり、アルメニアおよびコーカサス地方の民俗素材を、大規模なソヴィエト演奏会用音楽の正当で高く評価される源泉として確立し、ロシアや他の地域的な角度からすでにこのコレクションに登場している、ソヴィエト時代の民俗に基づく国民主義的な作曲の伝統を、アルメニア独自の声へと拡張した。ショスタコーヴィチやプロコフィエフと直接共有した1948年のジダーノフ批判の経験は、ソヴィエトの文化政策と向き合う作曲家たちというこのコレクションで広く記録されてきた主題に、非ロシア系という第三の視点を加えている。バレエ作品からの個々の抜粋は、国際的にもっとも広く認知されるソヴィエト時代の管弦楽曲の一つであり続け、大衆メディアや広告でも数多く使用されている。",
+      "en": "He became the most internationally recognised Armenian composer, establishing Armenian and Transcaucasian folk material as a legitimate and celebrated source for large-scale Soviet concert music, extending the broader Soviet-era tradition of nationalist folk-based composition already seen from Russian and other regional angles in this collection to a specifically Armenian voice. His experience of the 1948 Zhdanov Decree, shared directly with Shostakovich and Prokofiev, adds a third, non-Russian perspective to this collection's extensively documented theme of composers navigating Soviet cultural policy. Individual excerpts from his ballets remain among the most widely recognised pieces of Soviet-era orchestral music internationally, used extensively in popular media and advertising."
+    },
+    "keywords": {
+      "ja": [
+        "アルメニア・コーカサス民俗音楽の導入",
+        "ジダーノフ批判という共有された経験",
+        "バレエ音楽の鮮やかな見せ場"
+      ],
+      "en": [
+        "Introducing Armenian-Caucasian folk music",
+        "The shared experience of the Zhdanov Decree",
+        "Vivid ballet set-pieces"
       ]
     }
   }
