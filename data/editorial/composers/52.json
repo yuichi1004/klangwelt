@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "貧しい農家に生まれ、家具塗装職人であり民俗音楽家でもあった父から幼いころに楽器の手ほどきを受けた。少年時代は軍楽隊でラッパやヴァイオリンを吹き、その後デンマーク王立音楽院で正規の教育を受けている。\n交響曲や協奏曲といった大規模な作品と並行して、素朴な旋律の歌曲や賛美歌も数多く書いた。これらの旋律の多くは学校教育や教会を通じてデンマークの日常生活に深く浸透しており、作曲者の名を意識しないまま歌われ続けている。",
+    "en": "Born into a poor farming family, he received his first instruction on an instrument as a child from his father, a house painter who was also a folk musician. As a boy he played trumpet and violin in a military band before receiving formal training at the Royal Danish Academy of Music.\nAlongside large-scale works such as symphonies and concertos, he wrote a great many simple, folk-like songs and hymns. Many of these tunes are now woven so deeply into Danish daily life, through schools and churches, that they are sung without most people even knowing who composed them."
+  },
+  "style": {
+    "ja": "6曲の交響曲では、ある調で始まった曲が異なる調で終わるという「発展する調性」と呼ぶべき独自の手法を用い、調性を固定された枠組みではなく楽曲の中で獲得され、時に争われるものとして扱った。その一方で歌曲や賛美歌では一転して、誰もが口ずさめる素朴で親しみやすい旋律を書いており、大規模な管弦楽曲と対照的な、二つの異なる書き方を同じ作曲家が持ち合わせていた。",
+    "en": "In his six symphonies he used a personal technique that might be called 'progressive tonality': a work can begin in one key and arrive at a different one, treating tonality not as a fixed frame but as something won, or fought over, across the piece. In his songs and hymns, by contrast, he wrote simple, easily singable melodies anyone could pick up — the same composer working in two quite different registers."
+  },
+  "impact": {
+    "ja": "国際的には大規模な交響曲によって近代デンマーク音楽を代表する存在となり、国内では素朴な歌曲によって階層を問わず親しまれる、二重の遺産を残した稀な作曲家である。曲の途中で調性を移し替えていく彼の手法は、20世紀初頭に各地の作曲家が探っていた調性の枠組みを緩める試みの一つとして、北欧からの独自の応答になっている。",
+    "en": "He left a rare double legacy: internationally, his large symphonies made him the representative figure of modern Danish music, while at home his simple songs became loved across every level of society. His technique of shifting key across a work stands as a distinctly Nordic contribution to the wider early twentieth-century exploration, by composers elsewhere, of loosening tonality's fixed centre."
+  },
+  "keywords": {
+    "ja": [
+      "発展する調性",
+      "国民的な歌曲遺産",
+      "北欧の交響曲"
+    ],
+    "en": [
+      "Progressive tonality",
+      "A national songbook legacy",
+      "Nordic symphonism"
+    ]
+  }
+}
