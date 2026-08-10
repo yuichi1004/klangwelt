@@ -1,4 +1,30 @@
 {
+  "11": {
+    "biography": {
+      "ja": "チェコの小さな町にある教会の鐘楼の上の部屋で育った。父がその教会の火の見番を務めていたためで、高い場所からの見晴らしのよい生活が、のちの作風にも影響したのではないかとしばしば指摘される。\nプラハ音楽院で学んだのちパリに移り、ルーセルに師事して新古典主義やジャズの語法を吸収した。ナチス・ドイツによる占領を逃れてアメリカに渡り、プリンストン大学などで教えた。生涯を通じて多作であり続け、晩年はヨーロッパに戻ってスイスで没している。",
+      "en": "He grew up in a room at the top of a church bell tower in a small Czech town, where his father served as the fire watchman — a life spent looking out from a great height that scholars have often suggested left its mark on his later music.\nHe studied at the Prague Conservatory, then moved to Paris, where he studied with Roussel and absorbed neoclassicism and the language of jazz. He fled to the United States ahead of the Nazi occupation and taught, among other places, at Princeton. He remained prolific throughout his life and, in his final years, returned to Europe, where he died in Switzerland."
+    },
+    "style": {
+      "ja": "チェコ的な叙情性と民謡調の旋律を、パリで学んだ新古典主義の透明な書法や、当時流行していたジャズのリズム感覚と組み合わせた。速い楽章では規則的に刻まれる推進力のあるリズムを好み、緩徐楽章では民謡に通じる伸びやかな旋律を対比させた。編成の規模にかかわらず、重厚さよりも見通しのよい透明な響きを一貫して追求している。",
+      "en": "He combined Czech lyricism and folk-inflected melody with the transparent textures of the neoclassicism he learned in Paris and touches of the jazz rhythms fashionable there at the time. His fast movements favour a steadily driving, motoric energy, set against lyrical, folk-like slow movements. Whatever the scale of the ensemble, he consistently favoured clarity and transparency over Romantic weight."
+    },
+    "impact": {
+      "ja": "亡命生活を送りながらも、ソ連寄りの社会主義リアリズムにも、先行するヤナーチェクの語法にも属さない独自の国際的な様式を保ち続けた、20世紀チェコ音楽のもう一つの潮流を代表する。400曲を超えるとされる作品群は長らく同時代のより著名な作曲家の陰に隠れがちだったが、近年になって録音や演奏の機会が増え、再評価が進んでいる。",
+      "en": "Even in exile, he kept an independent, cosmopolitan voice that belonged to neither Soviet-aligned socialist realism nor Janáček's earlier language, representing a distinct strand of twentieth-century Czech music. His output, reportedly numbering more than four hundred works, was long overshadowed by more famous contemporaries, but recent decades have brought a wave of renewed recordings and performances that are still reshaping his reputation."
+    },
+    "keywords": {
+      "ja": [
+        "チェコ的叙情と新古典主義の融合",
+        "モトリックなリズム",
+        "多作な亡命作曲家"
+      ],
+      "en": [
+        "Czech lyricism meets neoclassicism",
+        "Motoric rhythm",
+        "Prolific composer in exile"
+      ]
+    }
+  },
   "35": {
     "biography": {
       "ja": "パルマ近郊の農村に生まれ、ミラノでラヴィーニャに師事した。20代で妻子を相次いで亡くす不幸のさなかに書いた歌劇が不評に終わり作曲をやめようとしたが、「ナブッコ」の成功で一転して名声を得る。以後60年近くにわたり26作の歌劇を書き続けた。\nイタリア統一運動のさなか、彼の歌劇の合唱曲は民族の心情を託す歌として愛唱され、統一後には上院議員も務めた。「椿姫」「リゴレット」「アイーダ」など、声楽の魅力を前面に押し出しながら劇的な緊張を保つ作風で、イタリア・オペラの中心的存在であり続けた。",
@@ -25,6 +51,32 @@
       ]
     }
   },
+  "45": {
+    "biography": {
+      "ja": "驚異的な神童として知られ、10歳で公開演奏会を開いている。作曲や演奏にとどまらず、天文学や考古学、数学にも本格的に取り組み、専門的な論文を残すほどの博識家でもあった。\n「動物の謝肉祭」は友人内輪の余興として書いた作品で、まじめな作曲家としての評価を損なうことを恐れた本人の意向により、「白鳥」を除いて生前の出版・公開演奏は禁じられていた。しかし没後に全曲が発表されると、皮肉にも彼のもっとも広く愛される作品になっている。",
+      "en": "A prodigy of extraordinary precocity, he gave public concerts from the age of ten. Beyond composing and performing, he pursued serious interests in astronomy, archaeology and mathematics, publishing scholarly papers and building a reputation as a genuine polymath.\n*The Carnival of the Animals* was written as a private joke for friends, and — fearing it would undermine his standing as a serious composer — he forbade its publication or public performance in his lifetime, apart from 'The Swan'. Once the complete work appeared after his death, it became, ironically, his most beloved piece."
+    },
+    "style": {
+      "ja": "協奏曲から交響曲、オペラ、室内楽、合唱曲まで、あらゆるジャンルにわたって卓越した技巧と古典的な明快さを発揮した、驚くべき筆の速さを持つ作曲家だった。交響曲第3番ではオルガンを管弦楽に組み込み、劇的な効果を生む代表的な使用例を示している。一方で年を重ねるにつれて保守的な姿勢を強め、ドビュッシーら若い世代が推し進めた和声の革新には終始批判的な立場をとった。",
+      "en": "Across concertos, symphonies, opera, chamber music and choral works alike, he wrote with extraordinary fluency and Classical clarity, a composer of remarkable speed and facility. In the Third Symphony he wrote the organ into the orchestra to dramatic effect, a defining example of the instrument used this way. As he grew older, though, he turned increasingly conservative, remaining sharply critical to the end of the harmonic innovations that Debussy and his generation were pursuing."
+    },
+    "impact": {
+      "ja": "弟子のフォーレを通じて、さらにその先のラヴェルへと続くフランス音楽の重要な師弟の系譜の起点に位置しており、本人の晩年の保守的な好みとは裏腹に、その教えは次の世代のフランス音楽の方向性を形づくった。ドイツ音楽が演奏会の主流を占めていた時代に、フランス人作曲家の作品を広めるための音楽協会の設立にも関わり、自国の音楽の地位向上に努めた。「動物の謝肉祭」は没後の再評価によって、プロコフィエフの「ピーターと狼」やブリテンの「青少年のための管弦楽入門」と並ぶ、家族向け・教育向けの定番作品の一つになっている。",
+      "en": "Through his student Fauré, and Fauré's own teaching that reached as far as Ravel, he stands at the head of an important lineage in French music, one that shaped the direction of the next generation even as his own late taste diverged sharply from where it went. He also helped found a society promoting French composers' work at a time when German music dominated the concert stage, working to raise the standing of French music itself. *The Carnival of the Animals*, rediscovered after his death, became one of the standard family and educational favourites of classical music, alongside Prokofiev's *Peter and the Wolf* and Britten's *Young Person's Guide to the Orchestra*."
+    },
+    "keywords": {
+      "ja": [
+        "博識な万能型作曲家",
+        "オルガン付き交響曲",
+        "フランス音楽教育の系譜"
+      ],
+      "en": [
+        "Polymath composer",
+        "Symphony with organ",
+        "A lineage in French music"
+      ]
+    }
+  },
   "46": {
     "biography": {
       "ja": "ソヴィエト連邦を代表する作曲家として国内外で演奏される一方、当局からの批判と復権を繰り返した。1936年に歌劇「ムツェンスク郡のマクベス夫人」が党機関紙で糾弾されて以降、彼の創作は常に政治的な緊張のもとに置かれた。\n15曲の交響曲と15曲の弦楽四重奏曲を残した。公的な場面での勇壮な響きと、室内楽に見られる沈鬱で私的な表現との落差が大きく、その二面性をどう読むかは今も議論が続いている。",
@@ -48,6 +100,58 @@
         "Ambiguous musical language",
         "DSCH musical signature",
         "Quartets as a diary"
+      ]
+    }
+  },
+  "52": {
+    "biography": {
+      "ja": "貧しい農家に生まれ、家具塗装職人であり民俗音楽家でもあった父から幼いころに楽器の手ほどきを受けた。少年時代は軍楽隊でラッパやヴァイオリンを吹き、その後デンマーク王立音楽院で正規の教育を受けている。\n交響曲や協奏曲といった大規模な作品と並行して、素朴な旋律の歌曲や賛美歌も数多く書いた。これらの旋律の多くは学校教育や教会を通じてデンマークの日常生活に深く浸透しており、作曲者の名を意識しないまま歌われ続けている。",
+      "en": "Born into a poor farming family, he received his first instruction on an instrument as a child from his father, a house painter who was also a folk musician. As a boy he played trumpet and violin in a military band before receiving formal training at the Royal Danish Academy of Music.\nAlongside large-scale works such as symphonies and concertos, he wrote a great many simple, folk-like songs and hymns. Many of these tunes are now woven so deeply into Danish daily life, through schools and churches, that they are sung without most people even knowing who composed them."
+    },
+    "style": {
+      "ja": "6曲の交響曲では、ある調で始まった曲が異なる調で終わるという「発展する調性」と呼ぶべき独自の手法を用い、調性を固定された枠組みではなく楽曲の中で獲得され、時に争われるものとして扱った。その一方で歌曲や賛美歌では一転して、誰もが口ずさめる素朴で親しみやすい旋律を書いており、大規模な管弦楽曲と対照的な、二つの異なる書き方を同じ作曲家が持ち合わせていた。",
+      "en": "In his six symphonies he used a personal technique that might be called 'progressive tonality': a work can begin in one key and arrive at a different one, treating tonality not as a fixed frame but as something won, or fought over, across the piece. In his songs and hymns, by contrast, he wrote simple, easily singable melodies anyone could pick up — the same composer working in two quite different registers."
+    },
+    "impact": {
+      "ja": "国際的には大規模な交響曲によって近代デンマーク音楽を代表する存在となり、国内では素朴な歌曲によって階層を問わず親しまれる、二重の遺産を残した稀な作曲家である。曲の途中で調性を移し替えていく彼の手法は、20世紀初頭に各地の作曲家が探っていた調性の枠組みを緩める試みの一つとして、北欧からの独自の応答になっている。",
+      "en": "He left a rare double legacy: internationally, his large symphonies made him the representative figure of modern Danish music, while at home his simple songs became loved across every level of society. His technique of shifting key across a work stands as a distinctly Nordic contribution to the wider early twentieth-century exploration, by composers elsewhere, of loosening tonality's fixed centre."
+    },
+    "keywords": {
+      "ja": [
+        "発展する調性",
+        "国民的な歌曲遺産",
+        "北欧の交響曲"
+      ],
+      "en": [
+        "Progressive tonality",
+        "A national songbook legacy",
+        "Nordic symphonism"
+      ]
+    }
+  },
+  "55": {
+    "biography": {
+      "ja": "リオデジャネイロに生まれ、正規の音楽教育をほとんど受けないまま、ブラジル各地を巡って先住民や民衆の音楽を採集する旅を重ねた。この経験が生涯の作曲活動の土台になっている。\n1930年代からはブラジル政府の音楽教育政策に深く関わり、全国の公立学校で合唱を通じた音楽教育を普及させる運動を率いた。驚異的な多作家で、交響曲からギター曲、映画音楽まで幅広いジャンルに数多くの作品を残している。",
+      "en": "Born in Rio de Janeiro, he had almost no formal musical training and instead made repeated expeditions across Brazil, collecting the music of Indigenous and popular communities — an experience that underlies his composing for the rest of his life.\nFrom the 1930s he became deeply involved in Brazil's music education policy, leading a movement to spread choral singing through the country's public schools. He was astonishingly prolific, leaving a large body of work spanning symphonies, guitar pieces and film scores."
+    },
+    "style": {
+      "ja": "「ブラジル風バッハ」と題した連作では、バッハの対位法的な書法とブラジルの民衆音楽の旋律やリズムを直接に結びつけるという、名称そのものが示す実験を行った。「ショーロス」の連作では、ブラジルの都市部で親しまれた大衆音楽ジャンルを、演奏会用の大規模な編成に持ち込んでいる。ギタリストでもあった経験から、ギターのための作品にも独自の書法を残した。",
+      "en": "In the cycle titled *Bachianas Brasileiras*, he carried out an experiment the name itself announces: fusing Bach's contrapuntal technique directly with the melodies and rhythms of Brazilian popular music. In the *Chôros* series he brought choro, a popular urban genre from Brazil's cities, into large concert forms. As a guitarist himself, he also left a distinctive body of writing for the instrument."
+    },
+    "impact": {
+      "ja": "ヨーロッパの対位法とブラジルの民衆音楽を対等な立場で結びつけたことで、非ヨーロッパの民族音楽を単なる異国趣味としてではなく西洋の作曲技法と融合させる道を示し、その後のラテンアメリカの作曲家たちにとっての手本になった。ブラジルの音楽教育政策にまで関与し、合唱教育を全国規模で制度化したことは、作曲家が国家の教育政策に直接影響を及ぼした稀な例として記憶されている。",
+      "en": "By fusing European counterpoint and Brazilian popular music on equal terms, he showed a way to combine a non-European folk tradition with Western compositional technique without treating it as mere exoticism, and became a model for the Latin American composers who followed. His involvement in Brazil's music education policy, institutionalising choral singing nationwide, is remembered as a rare case of a composer directly shaping national education policy."
+    },
+    "keywords": {
+      "ja": [
+        "バッハとブラジル音楽の融合",
+        "ショーロの演奏会音楽化",
+        "音楽教育政策への関与"
+      ],
+      "en": [
+        "Bach meets Brazilian music",
+        "Choro in the concert hall",
+        "Shaping music education policy"
       ]
     }
   },
@@ -78,6 +182,32 @@
         "Precision orchestration",
         "Formal clarity",
         "Absorbing jazz idiom"
+      ]
+    }
+  },
+  "62": {
+    "biography": {
+      "ja": "作曲についてはほぼ独学で、義兄にあたるツェムリンスキーから短期間指導を受けたのみだった。当初は極度に半音階的な後期ロマン派様式で出発し、やがて調性そのものを手放す「無調」の段階を経て、最終的にそれを体系化した「十二音技法」を確立した。\n作曲家であると同時に本格的な画家でもあり、カンディンスキーらの表現主義グループ「青騎士」の展覧会にも出品している。ユダヤ系であったためナチス政権下のドイツを逃れてアメリカへ渡り、晩年はカリフォルニア大学ロサンゼルス校で教えた。",
+      "en": "He was almost entirely self-taught as a composer, receiving only brief instruction from his brother-in-law Zemlinsky. He began in an intensely chromatic late-Romantic style, passed through a phase of abandoning key altogether — free atonality — and finally systematised that step into the twelve-tone technique.\nHe was also a serious painter alongside his composing, exhibiting with the Expressionist Blue Rider group led by Kandinsky. As a Jew, he fled Nazi Germany for the United States, where in his later years he taught at UCLA."
+    },
+    "style": {
+      "ja": "十二音技法では、半音階の12音すべてを対等に扱い、あらかじめ定めた音の並び「音列」から旋律も和声もすべてを導き出すことで、特定の音が「主音」として感じられることを意図的に避けた。これに先立つ無調時代の作品では、語るように歌う「シュプレヒシュティンメ」という独自の発声法を編み出し、通常の歌唱と語りの中間で登場人物の心理の揺れを生々しく表現した。",
+      "en": "In the twelve-tone technique he treated all twelve chromatic pitches as equal, deriving every melody and harmony from a predetermined ordered sequence — a row — so that no single pitch could be felt as a tonal home. In the free-atonal works that preceded it, he devised Sprechstimme, a vocal technique halfway between speech and song, to render a character's psychological instability with raw immediacy."
+    },
+    "impact": {
+      "ja": "十二音技法は20世紀でもっとも影響力があり、同時に論争も呼んだ作曲技法の一つとなり、弟子のベルクやヴェーベルンら「新ウィーン楽派」を通じて、その後のヨーロッパとアメリカのセリー音楽全体に受け継がれた。彼が成し遂げた調性からの体系的な離脱は、音楽史上の大きな断絶の一つとして、機能和声そのものが確立された時代の転換に匹敵する出来事だと位置づけられることも多い。",
+      "en": "The twelve-tone technique became one of the most influential — and most debated — compositional systems of the twentieth century, carried forward through his students Berg and Webern in the Second Viennese School and into the serial music that followed across Europe and America. His systematic break from tonality is often treated by historians as one of the defining ruptures in the history of Western music, on a scale comparable to the earlier establishment of functional tonality itself."
+    },
+    "keywords": {
+      "ja": [
+        "十二音技法",
+        "シュプレヒシュティンメ",
+        "調性からの体系的離脱"
+      ],
+      "en": [
+        "Twelve-tone technique",
+        "Sprechstimme",
+        "Systematic break from tonality"
       ]
     }
   },
@@ -211,6 +341,32 @@
       ]
     }
   },
+  "96": {
+    "biography": {
+      "ja": "少年時代、のちに遺伝学の基礎を築くことになるグレゴール・メンデルが院長を務める修道院付属の聖歌隊学校で学んだ。長らくプラハではなく地方都市ブルノを拠点とする作曲家にとどまり、国際的な評価を得たのは60代に入ってオペラ「イェヌーファ」が成功してからだった。\n晩年、年下の人妻カミラ・ストッスロヴァーへの一途な思慕にとらわれ、その情熱的な文通が最後の10年間の創作意欲を大きく刺激したと考えられている。",
+      "en": "As a boy he attended a monastery choir school whose abbot was Gregor Mendel, later renowned as the founder of genetics. He remained based for most of his career not in Prague but in the provincial city of Brno, and did not gain wide international recognition until his sixties, after the success of his opera *Jenůfa*.\nLate in life he became deeply infatuated with a much younger married woman, Kamila Stösslová, and their passionate correspondence is widely thought to have fuelled the extraordinary burst of creativity of his final decade."
+    },
+    "style": {
+      "ja": "日常のチェコ語やモラヴィア語の会話の抑揚やリズムを実際に採譜し、それを旋律の材料として作品に取り込む「発話旋律」という独自の手法を追求した。この結果、彼の旋律は伝統的な均整の取れたロマン派の旋律とは異なり、短く不規則に区切られた、話し言葉そのものに近い形をとる。オペラでは長大なアリアではなく、この発話由来の断片を積み重ねる構成をとり、きわめて直接的で写実的な感情表現を生み出している。",
+      "en": "He pursued a distinctive method he called speech-melody, actually transcribing the intonation and rhythm of everyday Czech and Moravian speech and using it as raw melodic material. The result is a melody that, unlike the symmetrical lines of Romantic tradition, comes in short, irregular fragments close to spoken language itself. His operas build not from long arias but from stacking these speech-derived cells, producing an unusually direct, almost documentary quality of emotional expression."
+    },
+    "impact": {
+      "ja": "ドイツ・ワーグナー系の伝統にもイタリアのヴェリズモにも属さない、まったく独自のオペラの語法を打ち立てた。その真価が国際的な歌劇場のレパートリーに広く認められたのは、多くの場合彼の死後になってからのことである。発話のリズムをそのまま旋律に取り込む手法は、言葉と音楽をいかに自然に結びつけるかという古くからの課題に対する独創的な答えを示し、後続の作曲家たちにも影響を与えている。",
+      "en": "He established a wholly original operatic language belonging to neither the German-Wagnerian tradition nor Italian verismo. His major operas mostly entered the standard international repertoire only after his death. His technique of drawing melody directly from the rhythm of speech offered an original answer to the old problem of setting language naturally to music, and it has influenced later composers concerned with vocal naturalism."
+    },
+    "keywords": {
+      "ja": [
+        "発話旋律",
+        "断片的な劇的構成",
+        "遅れてきた国際的評価"
+      ],
+      "en": [
+        "Speech-melody",
+        "Fragmentary dramatic structure",
+        "Belated international recognition"
+      ]
+    }
+  },
   "98": {
     "biography": {
       "ja": "ヴェネツィアに生まれ、聖職に就いて司祭となったが、持病の胸の病を理由に程なくミサの執行から退いた。赤毛から「赤い司祭」と呼ばれた。生涯の大半を、孤児の少女たちを育てるヴェネツィアの施設オスペダーレ・デラ・ピエタで音楽を教える仕事に費やし、少女たちだけで編成された合奏団のために数多くの協奏曲を書いた。\n生前は国際的な名声を得たが、晩年には人気が衰え、ウィーンで困窮のうちに没した。作品の多くは長く忘れられていたが、20世紀に入って再評価が進み、現在は最も広く演奏されるバロック作曲家の一人になっている。",
@@ -260,6 +416,32 @@
         "Chords as colour",
         "Blurred form",
         "Whole-tone scale"
+      ]
+    }
+  },
+  "125": {
+    "biography": {
+      "ja": "コダーイとともにハンガリーや東欧、北アフリカの農村を回り、蓄音機を用いて民謡を録音・採譜する調査を続けた。この活動は後の民族音楽学という学問分野の基礎を築いたと評価されている。\nファシズムへの反対を鮮明にしていたため、第二次世界大戦下のヨーロッパを逃れて1940年にアメリカへ渡った。しかし現地では十分な評価を得られないまま、ニューヨークで困窮のうちに世を去っている。",
+      "en": "Together with Kodály, he travelled through rural Hungary, Eastern Europe and North Africa, recording and transcribing folk songs with an early phonograph — work now credited as foundational to the discipline of ethnomusicology.\nAn outspoken opponent of fascism, he fled wartime Europe for the United States in 1940. He never found the recognition there that he had hoped for, and died in relative poverty in New York."
+    },
+    "style": {
+      "ja": "単に民謡の旋律を引用するのではなく、その背後にある不規則な拍子や独特の旋法といった構造そのものを吸収し、独自の和声語法に組み込んだ。ピアノや弦楽器を打楽器的に扱い、鋭いリズムの反復によって推進力を生む書法を得意とした。楽曲全体の均整を幾何学的な比率で設計するなど、非常に体系的な形式感覚を持つ作曲家でもあった。",
+      "en": "Rather than simply quoting folk melodies, he absorbed the irregular metres and distinctive modes underneath them into his own harmonic language. He treated the piano and strings percussively, building drive through sharp rhythmic repetition. He was also a highly systematic formal thinker, at times shaping the proportions of a whole work by near-geometric ratios."
+    },
+    "impact": {
+      "ja": "コダーイと確立した民謡採集の手法は、その後世界各地で民族音楽学という学問分野の基礎となった。旋律を借用するだけでなく構造そのものを取り込むという姿勢は、民族的な素材とモダニズムの語法をどう両立させるかを模索した20世紀の作曲家たちに大きな影響を与えた。6曲の弦楽四重奏曲は、ベートーヴェンの後期四重奏曲以来もっとも重要な連作の一つとして高く評価されている。",
+      "en": "The field-recording methodology he established with Kodály became a founding model for ethnomusicology as an academic discipline around the world. His approach of absorbing structure rather than merely borrowing melody strongly influenced twentieth-century composers wrestling with how to reconcile folk material and modernism. His six string quartets are widely regarded as among the most significant additions to the genre since Beethoven's late quartets."
+    },
+    "keywords": {
+      "ja": [
+        "民謡構造の吸収",
+        "打楽器的なリズム書法",
+        "民族音楽学の礎"
+      ],
+      "en": [
+        "Absorbing folk structure",
+        "Percussive rhythmic writing",
+        "Founding ethnomusicology"
       ]
     }
   },
@@ -479,6 +661,58 @@
       ]
     }
   },
+  "169": {
+    "biography": {
+      "ja": "少年時代からブリッジに個人的に師事し、早くから厳格な作曲技法を叩き込まれた。良心的兵役拒否者として登録するほど徹底した平和主義者で、第二次世界大戦中はテノール歌手のピーター・ピアーズとともにアメリカで過ごしたのち、イギリスに帰国している。\n生涯の伴侶であったピアーズとの関係は、同性愛が違法とされていた当時のイギリスでは公にできないものだった。彼が拠点とした港町オールドバラでは、自ら音楽祭を創設し、今日まで続く重要な音楽の場として残している。",
+      "en": "From boyhood he studied privately with Frank Bridge, who instilled a rigorous compositional discipline in him early. A committed pacifist who registered as a conscientious objector, he spent much of the Second World War in the United States with the tenor Peter Pears before returning to England.\nHis lifelong partnership with Pears could not be made public at a time when homosexuality was illegal in Britain. In the coastal town of Aldeburgh, where he was based, he founded a music festival that remains an important venue to this day."
+    },
+    "style": {
+      "ja": "英語の言葉の抑揚を精緻に旋律へ落とし込む、ドイツ語やイタリア語のオペラ伝統とは一線を画す英語の声楽書法を追求した。「ピーター・グライムス」に代表されるように、閉鎖的な共同体から排除される孤立した個人という主題を作品を通じて繰り返し描いており、これはしばしば彼自身の境遇と結びつけて論じられる。大規模なオペラであっても、分厚い管弦楽よりも言葉の聞き取りやすさを優先する、見通しのよい室内楽的な書法を好んだ。",
+      "en": "He pursued a specifically English vocal writing, setting the inflections of English speech into melody with great precision, distinct from the German or Italian operatic traditions. As in *Peter Grimes*, he returned again and again to the theme of a lone individual cast out by a closed, conformist community — a pattern scholars often connect to his own circumstances. Even in large-scale operas he preferred a clear, chamber-like orchestration that kept the text audible over sheer orchestral weight."
+    },
+    "impact": {
+      "ja": "パーセル以来長らく国際的な存在感を欠いていた英語圏のオペラを、再び世界的な水準に引き上げた立役者と位置づけられている。自ら創設したオールドバラ音楽祭は、作曲家自身が地域に音楽祭を築くという後続の試みの手本になった。「青少年のための管弦楽入門」は、プロコフィエフの「ピーターと狼」と並んで、今日世界中の音楽教育でもっとも広く使われる作品の一つであり続けている。",
+      "en": "He is widely credited with restoring English-language opera to international significance after generations in which it had lacked a major figure since Purcell. The Aldeburgh Festival he founded became a model for later composer-led regional festivals. *The Young Person's Guide to the Orchestra*, alongside Prokofiev's *Peter and the Wolf*, remains one of the most widely used works in music education around the world today."
+    },
+    "keywords": {
+      "ja": [
+        "英語による声楽書法",
+        "排除される個人という主題",
+        "音楽教育への貢献"
+      ],
+      "en": [
+        "English vocal writing",
+        "The outsider theme",
+        "Contribution to music education"
+      ]
+    }
+  },
+  "171": {
+    "biography": {
+      "ja": "宮廷楽団の首席ホルン奏者だった父から古典派の作曲技法を厳格に叩き込まれた。皮肉なことに、ワーグナーを快く思わなかった父のもとで育ちながら、彼自身は後年ワーグナー的な語法を大胆に推し進める作曲家になっている。\n初期は「ツァラトゥストラはかく語りき」に代表される交響詩で名を上げ、その後は台本作家ホーフマンスタールとの共作を軸にオペラの作曲へと軸足を移した。ナチス政権下では国家音楽局の総裁に就任したが、息子の妻がユダヤ系であったことなどから当局との関係は複雑化し、のちに辞任している。",
+      "en": "His father, principal horn of the Munich court orchestra, drilled him thoroughly in Classical technique. Ironically, though his father disliked Wagner, he himself went on to push a Wagnerian idiom to bold new extremes.\nHe first made his name with tone poems such as *Also sprach Zarathustra*, then shifted his main focus to opera, largely in partnership with the librettist Hugo von Hofmannsthal. Under the Nazi regime he accepted the presidency of the Reich Music Chamber, but his position grew complicated — his son's wife was Jewish — and he later resigned."
+    },
+    "style": {
+      "ja": "リストが確立した交響詩を、超絶技巧的な管弦楽法によってさらに極端な規模へ押し広げ、「ツァラトゥストラ」のように哲学的な内容までも管弦楽だけで描写しようとした。オペラでは「サロメ」や「エレクトラ」で極度に不協和で緊張感の高い語法を追求したのち、「ばらの騎士」以降は一転して、モーツァルトを思わせる温かく懐古的な響きへと転じている。いずれの時期にも共通するのは、とりわけソプラノの声を輝かせる巧みな声楽書法である。",
+      "en": "He pushed the tone poem Liszt had established to an even more extreme scale through virtuosic orchestration, attempting to depict philosophical content — as in *Also sprach Zarathustra* — through the orchestra alone. In opera he pursued an extremely dissonant, high-tension idiom in *Salome* and *Elektra*, then, from *Der Rosenkavalier* onward, turned toward a warmer, more nostalgic sound recalling Mozart. Running through every period is a skilled vocal writing that lets the soprano voice shine above all."
+    },
+    "impact": {
+      "ja": "リストが確立した交響詩の到達点として、その後この形式を極限まで押し進める後継者はほとんど現れなかった。ホーフマンスタールと組んだ一連のオペラは今日も国際的な歌劇場の中心的な演目であり続けている。極度に不協和な語法から出発しながら晩年には親しみやすい抒情性へ回帰したその歩みは、一つの前衛的な立場に固執しない様式的な柔軟性の先例として捉えられている。ナチス政権下での複雑な立ち位置は、権威主義体制下での芸術家の妥協という主題をめぐる議論で、ショスタコーヴィチの事例などと並んでたびたび取り上げられる。",
+      "en": "As the culmination of the tone poem Liszt had established, he left few successors who pushed the form further to such an extreme. The operas he wrote with Hofmannsthal remain central to the international opera repertoire today. His arc from extreme dissonance to an accessible, warmer lyricism in his later years is often read as a precedent for stylistic flexibility rather than fixed loyalty to one avant-garde position. His complicated position under the Nazi regime remains a frequently cited case study, alongside Shostakovich's, in discussions of how artists compromise with authoritarian power."
+    },
+    "keywords": {
+      "ja": [
+        "交響詩の極限",
+        "劇的なソプラノ書法",
+        "様式の転回"
+      ],
+      "en": [
+        "Tone poem taken to its limit",
+        "Dramatic soprano writing",
+        "A late stylistic turn"
+      ]
+    }
+  },
   "183": {
     "biography": {
       "ja": "ウィーンで生まれ、同時代のベートーヴェンを深く敬愛したが、生前に二人が親しく交流することはなかったとされる。宮廷礼拝堂の少年合唱団を経て一時教師を務めたが、多くは特定の職に就かず、友人たちが自宅に集って彼の新作を演奏する私的な集まり「シューベルティアーデ」を主な発表の場とした。\n歌曲だけで600曲以上を書くなど驚異的な多作家だったが、生前に広く名声を得ることはなく、31歳で病のため早世した。",
@@ -506,6 +740,32 @@
         "Text-painting accompaniment",
         "Founding the song cycle",
         "Father of the German Lied"
+      ]
+    }
+  },
+  "185": {
+    "biography": {
+      "ja": "神童としてサンクトペテルブルク音楽院に若くして入学し、保守的な教師陣を驚かせる不協和で打楽器的なピアノ曲によって、早くから前衛的な問題児という評判を得た。\nロシア革命後は国外に出てアメリカやパリで約18年を過ごしたが、1930年代、スターリン体制が強まるさなかにあえてソ連への帰国を選んだ。この決断はのちの彼の創作活動を大きく制約することになる。奇しくも、彼が世を去ったのはスターリンの死と同じ日だった。",
+      "en": "A child prodigy, he entered the St Petersburg Conservatory at a young age and quickly earned a reputation as an avant-garde troublemaker for dissonant, percussive piano pieces that startled his conservative teachers.\nAfter the Russian Revolution he lived abroad, in the United States and then Paris, for about eighteen years — before choosing, in the 1930s, to return to the Soviet Union just as Stalin's grip was tightening. The decision would come to constrain his creative life considerably. By an extraordinary coincidence, he died on the very same day as Stalin."
+    },
+    "style": {
+      "ja": "初期には、不協和な「間違った音」を大胆に用いながらも根底には旋律的な明快さを保つ、打楽器的で推進力の強いピアノ書法で知られた。シェーンベルクの無調とは異なり、彼の不協和は常に調性感覚の上に成り立っている。ソ連帰国後は当局が求める分かりやすさに応える中で、鮮やかで一度で覚えられる旋律と機知に富んだ管弦楽法を磨き上げた。「ピーターと狼」では特定の楽器を登場人物に割り当てる手法で、この持ち味を余すところなく発揮している。",
+      "en": "In his early period he became known for a percussive, driving piano writing that used bold, 'wrong-note' dissonance while keeping an underlying melodic clarity — unlike Schoenberg's atonality, his dissonance always sits on top of a felt tonal ground. After returning to the Soviet Union, meeting official demands for accessibility, he refined a gift for vivid, instantly memorable melody paired with witty orchestration. *Peter and the Wolf*, assigning a specific instrument to each character, shows this side of him at its fullest."
+    },
+    "impact": {
+      "ja": "不協和なモダニズムと親しみやすい旋律性を両立させたことで、シェーンベルクの無調とも大衆迎合的な単純さとも異なる中間の道を示し、20世紀でもっとも広く演奏される作曲家の一人であり続けている。バレエ「ロメオとジュリエット」や一連の交響曲は今日も主要な演目であり続けている。「ピーターと狼」は、子どもにオーケストラの楽器を紹介する教材として世界中で使われ続け、演奏会用作品とは別の教育的な遺産を残した。ショスタコーヴィチとともに、全体主義体制下での創作の自由をめぐる代表的な事例として、しばしば並べて論じられる。",
+      "en": "By holding dissonant modernism and accessible melody together, he charted a middle path between Schoenberg's atonality and populist simplicity, and remains one of the most widely performed twentieth-century composers. The ballet *Romeo and Juliet* and his symphonies are still central repertoire today. *Peter and the Wolf* is used worldwide to introduce children to the instruments of the orchestra, leaving an educational legacy distinct from his concert works. Alongside Shostakovich, his case is frequently discussed as a defining example of a composer negotiating creative freedom under a totalitarian regime."
+    },
+    "keywords": {
+      "ja": [
+        "不協和と旋律性の両立",
+        "機知に富む管弦楽法",
+        "教育的な遺産"
+      ],
+      "en": [
+        "Dissonance with melody",
+        "Witty orchestration",
+        "An educational legacy"
       ]
     }
   },

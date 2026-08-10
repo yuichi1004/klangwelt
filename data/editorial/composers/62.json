@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "作曲についてはほぼ独学で、義兄にあたるツェムリンスキーから短期間指導を受けたのみだった。当初は極度に半音階的な後期ロマン派様式で出発し、やがて調性そのものを手放す「無調」の段階を経て、最終的にそれを体系化した「十二音技法」を確立した。\n作曲家であると同時に本格的な画家でもあり、カンディンスキーらの表現主義グループ「青騎士」の展覧会にも出品している。ユダヤ系であったためナチス政権下のドイツを逃れてアメリカへ渡り、晩年はカリフォルニア大学ロサンゼルス校で教えた。",
+    "en": "He was almost entirely self-taught as a composer, receiving only brief instruction from his brother-in-law Zemlinsky. He began in an intensely chromatic late-Romantic style, passed through a phase of abandoning key altogether — free atonality — and finally systematised that step into the twelve-tone technique.\nHe was also a serious painter alongside his composing, exhibiting with the Expressionist Blue Rider group led by Kandinsky. As a Jew, he fled Nazi Germany for the United States, where in his later years he taught at UCLA."
+  },
+  "style": {
+    "ja": "十二音技法では、半音階の12音すべてを対等に扱い、あらかじめ定めた音の並び「音列」から旋律も和声もすべてを導き出すことで、特定の音が「主音」として感じられることを意図的に避けた。これに先立つ無調時代の作品では、語るように歌う「シュプレヒシュティンメ」という独自の発声法を編み出し、通常の歌唱と語りの中間で登場人物の心理の揺れを生々しく表現した。",
+    "en": "In the twelve-tone technique he treated all twelve chromatic pitches as equal, deriving every melody and harmony from a predetermined ordered sequence — a row — so that no single pitch could be felt as a tonal home. In the free-atonal works that preceded it, he devised Sprechstimme, a vocal technique halfway between speech and song, to render a character's psychological instability with raw immediacy."
+  },
+  "impact": {
+    "ja": "十二音技法は20世紀でもっとも影響力があり、同時に論争も呼んだ作曲技法の一つとなり、弟子のベルクやヴェーベルンら「新ウィーン楽派」を通じて、その後のヨーロッパとアメリカのセリー音楽全体に受け継がれた。彼が成し遂げた調性からの体系的な離脱は、音楽史上の大きな断絶の一つとして、機能和声そのものが確立された時代の転換に匹敵する出来事だと位置づけられることも多い。",
+    "en": "The twelve-tone technique became one of the most influential — and most debated — compositional systems of the twentieth century, carried forward through his students Berg and Webern in the Second Viennese School and into the serial music that followed across Europe and America. His systematic break from tonality is often treated by historians as one of the defining ruptures in the history of Western music, on a scale comparable to the earlier establishment of functional tonality itself."
+  },
+  "keywords": {
+    "ja": [
+      "十二音技法",
+      "シュプレヒシュティンメ",
+      "調性からの体系的離脱"
+    ],
+    "en": [
+      "Twelve-tone technique",
+      "Sprechstimme",
+      "Systematic break from tonality"
+    ]
+  }
+}

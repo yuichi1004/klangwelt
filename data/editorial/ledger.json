@@ -52,7 +52,7 @@
   "11": {
     "name": "Bohuslav Martinů",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "12": {
     "name": "César Franck",
@@ -222,7 +222,7 @@
   "45": {
     "name": "Camille Saint-Saëns",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "46": {
     "name": "Dmitri Shostakovich",
@@ -257,7 +257,7 @@
   "52": {
     "name": "Carl Nielsen",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "53": {
     "name": "Gabriel Fauré",
@@ -272,7 +272,7 @@
   "55": {
     "name": "Heitor Villa-Lobos",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "56": {
     "name": "John Cage",
@@ -307,7 +307,7 @@
   "62": {
     "name": "Arnold Schoenberg",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "63": {
     "name": "Dmitry Kabalevsky",
@@ -477,7 +477,7 @@
   "96": {
     "name": "Leoš Janáček",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "97": {
     "name": "Domenico Scarlatti",
@@ -622,7 +622,7 @@
   "125": {
     "name": "Béla Bartók",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "126": {
     "name": "Thomas Tallis",
@@ -842,7 +842,7 @@
   "169": {
     "name": "Benjamin Britten",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "170": {
     "name": "Aaron Copland",
@@ -852,7 +852,7 @@
   "171": {
     "name": "Richard Strauss",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "172": {
     "name": "Sofia Gubaidulina",
@@ -922,7 +922,7 @@
   "185": {
     "name": "Sergei Prokofiev",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "186": {
     "name": "Jean Sibelius",
