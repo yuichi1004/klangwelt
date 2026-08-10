@@ -25,6 +25,58 @@
       ]
     }
   },
+  "4": {
+    "biography": {
+      "ja": "スウェーデンを代表する作曲家・指揮者・ピアニストの一人である。初期はワーグナーやブラームスに連なるドイツ・ロマン派の影響を受けていたが、次第により禁欲的で古典的な、北欧的な独自の語法へと移行した。\nイェーテボリ交響楽団の指揮者を長年務め、スウェーデンのオーケストラの演奏水準を大きく引き上げるとともに、シベリウスやニールセンといった同時代の北欧の作曲家たちの作品を積極的に紹介した。国内での評価の高さに比して、国際的には同時代の北欧の作曲家たちほどの知名度を得ていない。",
+      "en": "One of Sweden's leading composers, conductors and pianists. His early work was shaped by German Romanticism in the tradition of Wagner and Brahms, but he gradually moved toward a more restrained, classically inflected, distinctly Nordic idiom.\nHe conducted the Gothenburg Symphony Orchestra for decades, significantly raising the standard of Swedish orchestral playing, and actively championed the work of Nordic contemporaries such as Sibelius and Nielsen. Despite his high standing at home, he never achieved the international recognition of those Nordic contemporaries."
+    },
+    "style": {
+      "ja": "初期のワーグナーやブラームスに連なるドイツ後期ロマン派の影響から、次第により禁欲的で古典的な均整を重んじる、北欧的な独自の語法へと移っていった。この変化はシベリウスやニールセンの歩みと重なりながらも、それぞれ独立して到達したものである。合唱曲と歌曲においてとりわけ優れた手腕を示し、スウェーデンの文学や民俗素材への深い関心を反映している。指揮者としてレパートリーに親しんだ経験は、自作における禁欲的な形式感覚にも直接反映されている。",
+      "en": "He moved from an early German late-Romantic influence — Wagner, Brahms — toward a more restrained, classically proportioned, Nordic-inflected idiom in his mature works, a shift that parallels, without directly following, the paths taken by Sibelius and Nielsen. He showed particular skill in choral writing and song, reflecting a deep engagement with Swedish literary and folk material. His career as a conductor, deeply familiar with the repertoire he championed, fed directly into the restrained formal sense of his own composing."
+    },
+    "impact": {
+      "ja": "指揮者として、スウェーデンのオーケストラの水準を引き上げ、他の北欧の作曲家たちの作品を国際的に後押しするという、目立たないながらも制度的に重要な役割を果たした。これはメンデルスゾーンがドイツ音楽のために果たした制度的な役割にも通じる貢献である。自作、とりわけピアノ協奏曲第2番や合唱曲は今日もスウェーデンのレパートリーの中心であり続けているが、同時代の他の北欧の作曲家たちほどの国際的な足場を築くには至っておらず、国内での評価と国際的な評価の確立との間にある落差を示す事例になっている。",
+      "en": "As a conductor, he played a significant, largely behind-the-scenes institution-building role in raising Swedish orchestral standards and promoting fellow Nordic composers internationally — a contribution in the same spirit as, though less visible than, Mendelssohn's institutional role for German music. His own compositions, particularly the Second Piano Concerto and his choral works, remain central to the Swedish repertoire, even though they never gained the wider international foothold his Nordic contemporaries achieved — a case study in the gap between domestic esteem and international canon formation."
+    },
+    "keywords": {
+      "ja": [
+        "北欧的な禁欲美への転換",
+        "指揮者としての制度的貢献",
+        "国内評価と国際的評価の落差"
+      ],
+      "en": [
+        "A turn toward Nordic restraint",
+        "Institutional contribution as a conductor",
+        "Domestic esteem vs. international recognition"
+      ]
+    }
+  },
+  "6": {
+    "biography": {
+      "ja": "シェーンベルクに学んだ弟子の中でもとりわけ簡潔で禁欲的な作風を追求し、同門のベルクが十二音技法の枠内でも保ち続けた温かみのあるロマン派的な残響とは対照的な道を歩んだ。\n生前はほとんど無名のまま過ごし、作品が演奏される機会もごくわずかだった。第二次世界大戦後のオーストリア占領下、夜間外出禁止令下で葉巻を吸うために外に出たところをアメリカ軍兵士に誤って射殺されるという、悲劇的な最期を遂げている。彼の音楽は、戦後の前衛世代——ブーレーズやシュトックハウゼンら——によって没後に「再発見」され、彼ら自身のセリー主義にとってもっとも重要な先駆者として位置づけられた。",
+      "en": "Among Schoenberg's students, he pursued an especially concise, austere style, taking a different path from his fellow student Berg, who kept a warmer, Romantic residue even within twelve-tone technique.\nHe lived largely in obscurity, his music rarely performed. In a tragic accident during the postwar Allied occupation of Austria, he was shot and killed by an American soldier after stepping outside to smoke a cigar during a curfew, in circumstances that were misunderstood in the dark. His music was effectively 'rediscovered' after his death by the postwar avant-garde — Boulez, Stockhausen and others — who regarded him as the single most important precursor to their own total serialism."
+    },
+    "style": {
+      "ja": "成熟期の作品の多くはわずか1、2分ほどの長さしかなく、十二音技法をぎりぎりまで簡潔な身振りへと蒸留し、沈黙や疎な音の織り方そのものを音と同じだけ構造的に重要なものとして扱った。一つの旋律的な着想を音符や小さな動機の断片へと分解し、異なる楽器の音色に素早く受け渡していく「音色旋律」と呼ばれる特徴的な書法を、シェーンベルクが先に示した概念から発展させて確立した。対称的な構造と厳格な形式的経済性を徹底して追求し、次の世代の全面的なセリー主義を先取りしている。",
+      "en": "Many of his mature works last only a minute or two, distilling twelve-tone technique to its barest essential gestures and treating silence and sparse texture as structurally significant as sound itself. He developed, from a concept Schoenberg had earlier proposed, a distinctive technique known as Klangfarbenmelodie ('tone-colour melody'), scattering a single melodic idea into individual notes or tiny fragments passed rapidly between different instrumental colours rather than a continuous line. His rigorous use of symmetrical structures and strict formal economy foreshadowed the total serialism of the following generation."
+    },
+    "impact": {
+      "ja": "戦後ヨーロッパの前衛にとって、没後もっとも影響力を持つ単一の存在となった。ブーレーズやシュトックハウゼンらは、その極度の簡潔さと構造的な厳格さを、自らの全面的なセリー主義の直接の手本として明言しており、シェーンベルクやベルク以上に自分たちの活動の中心に位置づけている。「音色旋律」はその後の管弦楽・音色をめぐる作曲全般の基礎的な技法となり、音色そのものを構成の主要なパラメーターとして扱うという発想に引かれた、厳格なセリー主義者にとどまらない幅広い作曲家に影響を与えた。悲劇的な事故死は、音楽史において、戦争の混乱の余波によって断ち切られた芸術という、痛切な象徴になっている。",
+      "en": "He posthumously became the single most influential figure for the postwar European avant-garde: Boulez, Stockhausen and others explicitly cited his extreme concision and structural rigour as the direct model for total serialism, retrospectively placing him even more centrally to their project than Schoenberg or Berg. Klangfarbenmelodie became a foundational technique for later orchestral and timbral composition broadly, influencing composers well beyond strict serialists who were drawn to treating tone-colour itself as a primary structural parameter. His tragic, accidental death has made him a poignant symbol, in music history, of art cut short by the chaos of war's aftermath."
+    },
+    "keywords": {
+      "ja": [
+        "極度の簡潔さ",
+        "音色旋律",
+        "戦後前衛への最大の影響"
+      ],
+      "en": [
+        "Extreme concision",
+        "Klangfarbenmelodie",
+        "Greatest influence on the postwar avant-garde"
+      ]
+    }
+  },
   "11": {
     "biography": {
       "ja": "チェコの小さな町にある教会の鐘楼の上の部屋で育った。父がその教会の火の見番を務めていたためで、高い場所からの見晴らしのよい生活が、のちの作風にも影響したのではないかとしばしば指摘される。\nプラハ音楽院で学んだのちパリに移り、ルーセルに師事して新古典主義やジャズの語法を吸収した。ナチス・ドイツによる占領を逃れてアメリカに渡り、プリンストン大学などで教えた。生涯を通じて多作であり続け、晩年はヨーロッパに戻ってスイスで没している。",
@@ -523,6 +575,36 @@
       ]
     }
   },
+  "68": {
+    "biography": {
+      "ja": "驚異的な神童としてごく若くしてパリ音楽院に入学した。師であるアレヴィの娘と結婚している。\n代表作「カルメン」の初演は、労働者階級を舞台に、奔放で暴力的な結末を迎える女性主人公を描いた内容が、当時のパリのオペラ観客には不道徳・非現実的すぎると受け止められ、批評家からも酷評される大失敗に終わった。彼はその初演からわずか3か月後、36歳で心臓発作のため急死し、「カルメン」がのちに世界でもっとも愛される演目の一つになる日を見ることはなかった。",
+      "en": "An extraordinary child prodigy, he entered the Paris Conservatoire at a very young age. He married the daughter of his teacher, Halévy.\nThe premiere of his best-known work, *Carmen*, was a scandalous failure: its working-class setting and a heroine who is promiscuous and meets a violent end struck contemporary Parisian opera audiences as too immoral and too real, and critics savaged it. He died of a heart attack just three months later, at only 36, never living to see *Carmen* become one of the most beloved works in the entire opera repertoire."
+    },
+    "style": {
+      "ja": "鮮やかで直接的な旋律の才能に加え、労働者階級の人物像や生々しい感情、暴力を理想化せずに描く写実性への意欲を持ち、これは数十年後にプッチーニらが発展させることになるヴェリズモの潮流を先取りするものだった。「カルメン」ではハバネラのリズムや旋法的な響きを巧みに用いてスペイン的な異国情緒を演出しており、管弦楽による「ご当地色」の描写手法の影響力ある手本となった。",
+      "en": "Alongside a vivid, direct melodic gift, he had a then-daring commitment to musical and dramatic realism — depicting working-class characters, raw emotion and violence without idealising them — anticipating the verismo movement that Puccini and others would develop decades later. In *Carmen* he skilfully used the habanera rhythm and modal inflections to evoke a Spanish exoticism, an influential model for orchestral 'local colour' writing."
+    },
+    "impact": {
+      "ja": "「カルメン」は、初演の惨憺たる失敗ののち、世界でもっとも上演回数の多いオペラの一つとなり、同時代の聴衆には拒絶されながら没後にその真価が認められた顕著な例になっている。人物と舞台設定を理想化せず写実的に描くその手法は、イタリア・ヴェリズモの直接の先駆けとして広く評価されており、その影響はフランス・オペラの枠を超えてヨーロッパのオペラ全体に及んでいる。",
+      "en": "*Carmen*, after its disastrous premiere, became one of the most performed operas in the entire world repertoire, a striking case of a masterpiece rejected by its contemporary audience only to be vindicated after the composer's death. Its realistic, unsentimental treatment of character and setting is widely credited as a direct forerunner of Italian verismo opera, extending his influence well beyond French opera into the broader European tradition."
+    },
+    "story": {
+      "ja": "「カルメン」の初演の不評は彼を深く傷つけたと伝えられる。心臓の持病を抱えていた彼は初演からわずか3か月後に急死しており、この作品が後に不朽の名作として評価されることを知らないままだった。",
+      "en": "The poor reception of *Carmen*'s premiere is said to have deeply wounded him. Already suffering from heart trouble, he died suddenly just three months after the premiere, never knowing the work would come to be regarded as an enduring masterpiece."
+    },
+    "keywords": {
+      "ja": [
+        "ヴェリズモの先取り",
+        "スペイン的な異国情緒の描写",
+        "初演失敗から不朽の名作へ"
+      ],
+      "en": [
+        "Anticipating verismo",
+        "Evoking Spanish exoticism",
+        "From failed premiere to enduring masterpiece"
+      ]
+    }
+  },
   "77": {
     "biography": {
       "ja": "ボヘミアのユダヤ人家庭に生まれ、生前は作曲家としてよりも指揮者として知られた。ウィーン宮廷歌劇場の監督を10年務め、夏の休暇に集中して作曲するという生活を続けた。\n交響曲9曲と歌曲集を中心に、声楽と管弦楽を融合させた大規模な作品を書いた。行進曲、レントラー、軍隊ラッパ、鳥の声といった日常の音を交響曲のなかに持ち込み、それらを崇高な響きと並置する手法は、当時しばしば趣味を疑われたが、20世紀後半に再評価された。",
@@ -598,6 +680,32 @@
         "Classical forms renewed",
         "Thematic economy",
         "Autumnal orchestration"
+      ]
+    }
+  },
+  "83": {
+    "biography": {
+      "ja": "ライプツィヒ大学で法学を学んだが、家族の反対を押し切って音楽の道に転じた。\n驚異的な多作家で、生涯に残した作品数は同時代のどの作曲家をも上回るとされる。当時としては先駆的な取り組みとして、自作の楽譜を自ら出版し、ヨーロッパ各地の定期購読者に直接郵送で販売する事業を手がけた。ライプツィヒの聖トーマス教会のカントル職は当初彼に打診されていたが辞退し、この職はのちにバッハが引き受けることになった。",
+      "en": "He studied law at Leipzig University but turned to music against his family's wishes.\nAstonishingly prolific, he is said to have left more surviving music than almost any other composer of his era. In a genuinely pioneering business practice for the time, he published his own scores and sold them by mail order directly to subscribers across Europe. The post of cantor at Leipzig's Thomaskirche was initially offered to him; when he turned it down, the position eventually went to Bach."
+    },
+    "style": {
+      "ja": "生涯を通じて、ドイツ、フランス、イタリア、さらにはポーランドの民俗音楽まで、多様な語法を自在に吸収し組み合わせた、際立って幅広い様式的な柔軟性を持つ。シレジア地方で働いていた時期にポーランドの民俗音楽に直接触れ、その独特のリズムを自作に取り入れている点は、バッハやヘンデルによるより純粋なイタリア・ドイツ的な統合とは異なる特徴である。大規模なオペラやオラトリオから、アマチュア奏者向けの親しみやすい家庭用室内楽まで、当時の音楽生活のほぼ全域を対象とする幅広いジャンルで多作だった。",
+      "en": "Across his career he freely absorbed and combined German, French, Italian and even Polish folk idioms, an unusually wide stylistic flexibility. During a period working in Silesia he had direct exposure to Polish folk music and worked its distinctive rhythms into his own writing, setting him apart from the more purely Italian-German synthesis of contemporaries such as Bach and Handel. He was prolific across an unusually wide range of genres and forces, from grand opera and oratorio down to accessible domestic chamber music written for amateur performers."
+    },
+    "impact": {
+      "ja": "自ら手がけた楽譜出版のモデルは、印刷楽譜の商業化と、作曲家から消費者へ直接届ける市場という、音楽史における先駆的で先見性のある事業実践だった。ライプツィヒのカントル職を辞退したことは小さな出来事に見えるが、結果的にバッハにその職を開くことになった、音楽史の流れを間接的に左右した歴史的な逸話である。19世紀から20世紀にかけての規範ではバッハやヘンデルの陰に隠れがちだったが、近年の研究と古楽器演奏の広まりによって、その膨大で様式的に多様な作品群への関心が大きく復活している。",
+      "en": "His innovative self-publishing model anticipated the later commercialisation of printed music and a direct composer-to-consumer market, a genuinely forward-looking business practice in music history. His decision to turn down the Leipzig cantor post is a small but historically significant footnote that indirectly shaped the course of music history by opening the position to Bach. Though his reputation was somewhat eclipsed by Bach and Handel in the nineteenth- and twentieth-century canon, recent scholarship and the period-instrument performance movement have substantially revived interest in his enormous and stylistically diverse output."
+    },
+    "keywords": {
+      "ja": [
+        "自主出版という先駆的事業",
+        "多様な語法の吸収",
+        "バッハに道を譲った逸話"
+      ],
+      "en": [
+        "Pioneering self-publishing",
+        "Absorbing diverse idioms",
+        "The footnote that opened the door for Bach"
       ]
     }
   },
@@ -731,6 +839,32 @@
       ]
     }
   },
+  "100": {
+    "biography": {
+      "ja": "タングルウッド音楽祭でコプランドに、その後もアメリカで複数の教師のもとで学び、セリー主義や新古典主義など当時の幅広い国際的な技法を吸収した。\n初期はモダニズム的・音列主義的な作風だったが、1970年代以降は次第に、より親しみやすく神秘的な色彩を帯びた、豊かなロマン派的後期様式へと転じている。エサ=ペッカ・サロネンやマグヌス・リンドベリをはじめ、後続世代のフィンランドの重要な作曲家たちを数多く育てた。",
+      "en": "He studied with Copland at Tanglewood and with other teachers in the United States, absorbing a wide range of international techniques then current, from serialism to neoclassicism.\nHis early period was modernist and serial, but from the 1970s onward he moved gradually toward a more accessible, mystically tinged, richly Romantic late style. He taught a number of important later Finnish composers, including Esa-Pekka Salonen and Magnus Lindberg."
+    },
+    "style": {
+      "ja": "20世紀半ばのモダニズム・音列主義的な技法から、豊麗で親しみやすく神秘的な色彩を帯びたネオ・ロマン主義へと大きく転じた、戦後の作曲界における複雑化の一般的な潮流に逆行する、際立った様式的転換を遂げた。「北極圏の歌」に代表されるように、実際の北極圏の鳥の声の録音を管弦楽の響きの中に織り込む手法を用いており、レスピーギが先に用いたナイチンゲールの録音と同種の、しかし独立して到達した技法である。晩年の作品では神秘的・宇宙的・天使的な主題への関心が一貫して見られ、成熟した美学に精神的な次元を与えている。",
+      "en": "He made a dramatic stylistic pivot from mid-century modernist, serial technique toward a lush, accessible, mystically tinged neo-Romanticism — a striking reversal against the general postwar trend toward increasing complexity. As in *Cantus Arcticus*, he wove actual recordings of Arctic birdsong into the orchestral texture, a technique comparable to, though arrived at independently of, Respighi's earlier use of a nightingale recording. A persistent interest in mystical, cosmic and angelic themes runs through his later works, giving his mature aesthetic a spiritual dimension."
+    },
+    "impact": {
+      "ja": "モダニズムが主流だった時代にあって、広く演奏され録音される後期ロマン派寄りの声として、アクセスしやすい調性的・精神的な演奏会用音楽への聴衆の根強い需要を20世紀後半に示した、現代の技法と感情的・精神的な直接性を和解させようとする広い潮流の一部でもある。サロネンやリンドベリという、のちに国際的に著名な指揮者・作曲家となる二人を育てた教育者としての遺産は、シベリウスが築いた土台の上に、フィンランド音楽の国際的な存在感を次の世代へと直接引き継いでいる。",
+      "en": "As a widely performed and recorded late-Romantic-leaning voice in an era otherwise dominated by modernism, he demonstrated renewed international audience appetite for accessible, spiritually inflected concert music in the late twentieth century, part of a broader trend toward reconciling modern technique with emotional and spiritual directness. As teacher to Salonen and Lindberg, both of whom became internationally prominent conductor-composer figures, his teaching legacy directly carries Finnish music's international standing, built on the foundation Sibelius had established, into the following generation."
+    },
+    "keywords": {
+      "ja": [
+        "モダニズムからネオ・ロマン主義への転換",
+        "鳥の声の録音の活用",
+        "サロネン・リンドベリを育てた師"
+      ],
+      "en": [
+        "From modernism to neo-Romanticism",
+        "Using recorded birdsong",
+        "Teacher of Salonen and Lindberg"
+      ]
+    }
+  },
   "105": {
     "biography": {
       "ja": "パリ音楽院で学んだが、和声の規則に収まらない響きを好み、教師たちとしばしば衝突した。1889年のパリ万国博覧会でジャワのガムランに接した経験は、機能和声とは別の音の組み立て方がありうることを彼に確信させたと言われる。\n和音を「次にどこへ進むか」ではなく「その響き自体」として扱い、全音音階や教会旋法を用いて調性の重力をゆるめた。この手法はしばしば絵画になぞらえて「印象主義」と呼ばれるが、本人はこの呼び名を好まなかった。",
@@ -780,6 +914,36 @@
         "Establishing the galant style",
         "Influence on the young Mozart",
         "Bridging Baroque and Classical"
+      ]
+    }
+  },
+  "118": {
+    "biography": {
+      "ja": "もともとロシア海軍の士官として勤務しており、その後本格的に音楽の道へ転じたという、大作曲家としては異例の経歴を持つ。サンクトペテルブルク音楽院の教授に就任した当初、自身の対位法や和声の知識が不十分であったことを回顧録で率直に認めており、就任後に猛勉強して追いついたと伝えられる。\nロシア国民楽派「ロシア五人組」の中心的な管弦楽の名手として、仲間のムソルグスキーやボロディンが未完のまま残した作品の補筆・管弦楽化という重要な仕事も引き受けている。教え子にはストラヴィンスキーがおり、その影響は次の世代のロシア・モダニズムにも及んでいる。",
+      "en": "He originally served as an officer in the Russian navy before turning seriously to music, an unusual professional background for a major composer. He candidly admitted in his own memoirs that his knowledge of counterpoint and harmony was inadequate when he was first appointed professor at the St Petersburg Conservatory, and is said to have studied intensively afterward to catch up.\nAs the master orchestrator at the centre of the Russian nationalist 'Mighty Handful', he also took on the significant task of completing and orchestrating works his colleagues Mussorgsky and Borodin left unfinished. Among his students was Stravinsky, extending his influence into the following generation of Russian modernism."
+    },
+    "style": {
+      "ja": "史上もっとも優れた管弦楽の名手の一人とされるほどの、鮮やかで色彩豊かな管弦楽法を極めた。この評価は、今日も研究され続ける管弦楽法の理論書を自ら著したことでも裏づけられており、ベルリオーズの著作と並び称される。「シェヘラザード」に見られるように、『千夜一夜物語』を題材とするなど、当時の言葉でいう「東洋的」な異国情緒を持つ標題的な題材を、きらびやかで多彩な楽器の色彩を通じて描くことを好んだ。他者の未完の楽譜を補筆・完成させる仕事にも長け、技術的な熟達と他者の様式感覚への繊細な理解の両方を必要とするこの作業を高い水準でこなした。",
+      "en": "He mastered a vivid, colourful orchestration widely regarded as among the greatest in history, a reputation reinforced by his own influential treatise on orchestration technique, still studied today alongside Berlioz's. As in *Scheherazade*, drawn from the *Arabian Nights*, he favoured programmatic subjects with what the period called an 'Oriental' exoticism, rendered through shimmering, richly varied instrumental colour. He was also skilled at reconstructing and completing others' unfinished scores, a task requiring both technical mastery and a sensitive understanding of another composer's voice."
+    },
+    "impact": {
+      "ja": "彼の管弦楽法の著作は、ベルリオーズのそれと並んで、この分野でもっとも影響力のある二つの教本の一つとなり、世代を超えて多くの作曲家が管弦楽書法を学ぶ際に参照した。ムソルグスキーやボロディンの未完の作品を補筆・完成させたことは、これらの作品が何十年にもわたって世に知られる際のかたちそのものを決定づけ、ロシア・オペラの正典の形成に、今なお議論を呼ぶほど大きな役割を果たした。ストラヴィンスキーの師として、その管弦楽の熟達は20世紀の音楽に革命をもたらすことになる次の世代へと直接受け継がれている。",
+      "en": "His treatise on orchestration became, alongside Berlioz's, one of the two most influential texts on the subject, studied by generations of composers learning to write for orchestra. His completions of Mussorgsky's and Borodin's unfinished works determined how those pieces were known and performed for decades — *Boris Godunov* and *Prince Igor* were long known primarily in his versions — giving him an outsized and still-debated role in shaping the canon of Russian opera. As Stravinsky's teacher, his orchestrational mastery flowed directly into the generation that would revolutionise twentieth-century music."
+    },
+    "story": {
+      "ja": "サンクトペテルブルク音楽院の教授に着任した際、自分自身の対位法や和声の知識が生徒たちに教えるには不十分であることを痛感したと、のちに自伝で率直に記している。彼は密かに猛勉強してこの弱点を克服したとされる。",
+      "en": "When he took up his professorship at the St Petersburg Conservatory, he later wrote candidly in his memoirs that he realised his own grasp of counterpoint and harmony was not adequate to teach his students. He is said to have secretly studied intensively to make up the gap."
+    },
+    "keywords": {
+      "ja": [
+        "管弦楽法の巨匠",
+        "未完作品の補筆完成",
+        "ロシア・オペラの正典形成"
+      ],
+      "en": [
+        "Master orchestrator",
+        "Completing unfinished works",
+        "Shaping the Russian opera canon"
       ]
     }
   },
@@ -1029,6 +1193,32 @@
       ]
     }
   },
+  "149": {
+    "biography": {
+      "ja": "スティーヴ・ライヒやフィリップ・グラスに続く世代のアメリカ人作曲家で、ミニマル・ミュージックの語法から出発しながら、そこに劇的でロマン派的な身振りを取り入れる「ポストミニマリズム」と呼ばれる方向へと進んだ。\nオペラ「ニクソン・イン・チャイナ」は、ニクソン大統領の中国訪問という当時なお記憶に新しい政治的出来事を題材にした画期的な作品として大きな注目を集めた。「ドクター・アトミック」では原子爆弾の開発というきわめて重い主題に取り組んでいる。",
+      "en": "An American composer of the generation following Steve Reich and Philip Glass, he began in the language of minimalism but moved toward what is often called post-minimalism, bringing dramatic, Romantic-leaning gestures into that language.\nHis opera *Nixon in China* drew wide attention as a groundbreaking work built around a political event still fresh in public memory — President Nixon's visit to China. *Doctor Atomic* takes on the weighty subject of the development of the atomic bomb."
+    },
+    "style": {
+      "ja": "ミニマル・ミュージックの拍動的な反復と過程的な構成を受け継ぎながら、初期のミニマリズムがあえて避けていた劇的な対比や和声的な動き、感情的な高揚を再び取り入れ、ミニマリズムをより従来型の劇的・ロマン派的な聴取体験へと近づけた「ポストミニマリズム」の代表的な書き手である。オペラの題材には、神話や遠い歴史ではなく、実際の、しばしば論争を呼ぶ近い過去の政治的出来事を選び、現在進行形の歴史に神話並みの重みを与える手法を繰り返し用いている。",
+      "en": "He is a leading voice of post-minimalism, inheriting minimalism's pulse-driven repetition and process-based structure while reintroducing the dramatic contrast, harmonic motion and emotional climax that early minimalism had deliberately avoided, pulling the idiom back toward a more conventionally dramatic, Romantic-leaning listening experience. For his operas he repeatedly chooses subjects drawn from real, often controversial recent political events rather than myth or distant history, giving the weight traditionally reserved for myth to history still unfolding."
+    },
+    "impact": {
+      "ja": "「ニクソン・イン・チャイナ」は、記憶に新しい現代の政治的出来事を正面から扱う現代版「ドキュメンタリー・オペラ」の新しい型を打ち立て、現代政治とオペラの関係について後続の作曲家が題材を選ぶ際の手本になった。ミニマリズムと従来の演奏会・歌劇場の伝統を橋渡しする主要な存在として、グラスやライヒの時代には実験的な周縁の実践だったミニマル・ミュージックを演奏会と歌劇場の主流へと押し上げる一助となり、ピュリッツァー賞を受賞し、存命のアメリカ人作曲家の中でもっとも頻繁に演奏される一人になっている。",
+      "en": "*Nixon in China* established a new model of contemporary 'documentary opera', treating living memory and current events as legitimate, serious operatic subject matter, and influencing how later composers approached opera's relationship to contemporary politics. As a major figure bridging minimalism and the mainstream orchestral and operatic tradition, he helped carry minimalism — an experimental, fringe practice in Glass and Reich's earlier decades — into the mainstream of the concert hall and opera house, winning a Pulitzer Prize and becoming one of the most frequently performed living American composers."
+    },
+    "keywords": {
+      "ja": [
+        "ポストミニマリズム",
+        "現代政治を題材にしたオペラ",
+        "ミニマリズムの主流化"
+      ],
+      "en": [
+        "Post-minimalism",
+        "Opera on contemporary politics",
+        "Bringing minimalism to the mainstream"
+      ]
+    }
+  },
   "150": {
     "biography": {
       "ja": "敬虔なカトリック信者で、その信仰はほとんどすべての作品の中心にある。第二次世界大戦中はフランス軍の捕虜となり、収容所で入手できた楽器編成に合わせて「世の終わりのための四重奏曲」を作曲し、収容所内で初演した。\n戦後はパリ音楽院で教え、多くの重要な戦後世代の作曲家を育てた。生涯を通じて世界各地で野鳥の鳴き声を採譜する活動を続け、その精緻な採譜を主要な旋律素材として作品に取り込んでいる。",
@@ -1082,6 +1272,32 @@
         "Chromatic harmony",
         "Rubato",
         "Character pieces"
+      ]
+    }
+  },
+  "154": {
+    "biography": {
+      "ja": "ヴァイオリンとヴィオラの双方に優れた腕を持ち、自ら創設したアマール弦楽四重奏団のヴィオラ奏者として、自作を含む同時代の新しい音楽の初演に数多く関わった。\n演奏会場の少数のエリート聴衆だけでなく、アマチュア奏者や教育現場、特定の社会的機会のために書かれる実用的で親しみやすい音楽「ゲブラウフスムジーク(実用音楽)」という考え方を提唱し、実践した。ユダヤ系ではなかったが、妻が部分的にユダヤ系であったことや、初期の風刺的でモダニズム的な作品への当局の反感から、ナチス政権下で「文化的ボリシェヴィキ」として非難され、最終的にアメリカへ亡命した。",
+      "en": "A skilled performer on both violin and viola, he played viola in the Amar Quartet, an ensemble he co-founded, and took part in many premieres of new music of the era, including his own.\nHe championed and put into practice the idea of *Gebrauchsmusik* — 'utility music' — accessible, practical music written not only for the elite concert-hall audience but for amateur performers, educational settings and specific social occasions. Though not Jewish himself, he was condemned by the Nazi regime as a 'cultural Bolshevist', partly because his wife was of partial Jewish descent and partly for his earlier satirical, modernist works, and eventually emigrated to the United States."
+    },
+    "style": {
+      "ja": "エリート的な演奏会場だけでなく、アマチュア奏者や教育、特定の社会的機会のために書かれる実用的な音楽という「ゲブラウフスムジーク(実用音楽)」の理念を掲げ、実践した。これは芸術のための芸術というモダニズムの姿勢とは異なる立場だった。著書「作曲の技法」では、すべての音程と和音を緊張度に応じて独自に序列化する体系的な和声理論を構築し、伝統的な調性理論ともシェーンベルクの十二音技法とも異なる自らの代替案を示した。全体として、対位法的に密度が高く、リズムの推進力にあふれ、調性に根ざしながらも不協和な語法を特徴とし、厳格なロマン主義にも厳格なセリー主義にも与しない立場を貫いた。",
+      "en": "He championed and put into practice the idea of *Gebrauchsmusik* — utility music written not just for the elite concert hall but for amateur performers, education and specific social occasions, a stance distinct from modernism's art-for-art's-sake position. In his treatise *The Craft of Musical Composition* he built a systematic theory of harmony that ranked every interval and chord by a measure of tension, offering his own alternative to both traditional tonal theory and Schoenberg's twelve-tone system. His overall idiom is contrapuntally dense, rhythmically driving, and tonally grounded yet dissonant, avoiding both strict Romanticism and strict serialism."
+    },
+    "impact": {
+      "ja": "「ゲブラウフスムジーク」の理念は、演奏会音楽の伝統的なエリート的志向に代わる選択肢を示し、音楽の社会的機能とアクセスしやすさをめぐる20世紀の思考に影響を与え、音楽教育の実践にも影響を残した。和声理論の著作は、調性とセリー主義の間の「第三の道」を厳密に構築したものとして、一部の後続の作曲家や理論家に直接参照された。亡命作曲家としてイェール大学で長年教鞭を執り、アメリカの重要な世代の作曲家たちを育て、ドイツの作曲技法を戦後のアメリカの音楽教育へ直接持ち込んだ。",
+      "en": "The Gebrauchsmusik philosophy offered an alternative to the traditional elite orientation of concert music, influencing broader twentieth-century thinking about music's social function and accessibility, and leaving a mark on music education practice. His harmony treatise offered a rigorously worked-out 'third way' between tonality and serialism that some later composers and theorists drew on directly. As an emigre composer teaching for decades at Yale, he trained a significant generation of American composers, carrying German compositional craft directly into postwar American music education."
+    },
+    "keywords": {
+      "ja": [
+        "実用音楽の理念",
+        "独自の和声理論",
+        "亡命後のアメリカでの教育活動"
+      ],
+      "en": [
+        "The Gebrauchsmusik philosophy",
+        "An original theory of harmony",
+        "Teaching in America after emigration"
       ]
     }
   },
@@ -1186,6 +1402,32 @@
         "Concert-hall waltz",
         "The Viennese lilt",
         "Establishing operetta"
+      ]
+    }
+  },
+  "168": {
+    "biography": {
+      "ja": "モーツァルトの妻コンスタンツェとは父方でいとこにあたる。優れたピアニスト・ギタリストでもあり、演奏家としても各地を巡演した。\n若い頃、雇い主が絡んだ横領事件に巻き込まれて逮捕され、ヴュルテンベルクから追放されるという経歴上の大きな挫折を経験している。「魔弾の射手」は、狩人と魔性の力との契約というドイツの民間伝承を題材に、明確にドイツ的な語法でイタリアやフランスとは異なる独自の伝統としてドイツ・ロマン派オペラを確立した画期的な作品となった。すでに結核を患っていたが、家族のために報酬を得ようとロンドンでの「オベロン」初演に立ち会い、その地で客死している。",
+      "en": "He was a cousin, on his father's side, of Mozart's wife Constanze. A skilled pianist and guitarist as well as a composer, he also toured as a performer.\nEarly in his career he was implicated in an embezzlement scandal involving his employer, leading to his arrest and expulsion from Württemberg — a major setback. *Der Freischütz*, drawing on German folklore about a hunter's pact with dark powers and written in a distinctly German idiom, became a landmark work that established German Romantic opera as its own tradition, separate from Italian and French models. Already suffering from tuberculosis, he travelled to London to oversee the premiere of *Oberon* to earn money for his family, and died there."
+    },
+    "style": {
+      "ja": "イタリアのベルカントやフランスのグラン・オペラの伝統とは異なる、ドイツの民間伝承や超自然的なもの、森や自然のイメージに根ざした、明確にドイツ的なロマン派オペラの語法を切り拓いた。「魔弾の射手」の「狼谷」の場面は、不気味な管弦楽の効果によって伝説的な評価を得ている。クラリネットやホルンといった特定の楽器の音色を用いて超自然的な、あるいは牧歌的なドイツの情景を描き出す管弦楽法に長け、この手法はのちのワーグナー自身の劇的な管弦楽法にも直接影響を与えている。",
+      "en": "He pioneered a distinctly German Romantic operatic idiom, drawing on German folklore, the supernatural and images of forest and nature, separate from the Italian bel canto and French grand opera traditions. The 'Wolf's Glen' scene in *Der Freischütz* became legendary for its eerie orchestral effects. He was skilled at using specific instrumental colours — clarinet, horn — to conjure supernatural or pastoral German settings, a technique that directly influenced Wagner's own later dramatic orchestration."
+    },
+    "impact": {
+      "ja": "「魔弾の射手」はドイツ・ロマン派オペラの礎を築いた作品として広く認められており、超自然的な民間伝承、森のイメージ、鮮やかな管弦楽的雰囲気といった、のちにワーグナーが受け継いで自らの成熟した様式へと発展させることになる、明確にドイツ的なオペラの伝統と語彙を確立した。彼の雰囲気豊かで色彩的な管弦楽法は、ワーグナーがのちに完成させる、より精緻な示導動機による劇的な管弦楽法を先取りし直接形づくっており、過小評価されがちだがワーグナー革命にとって不可欠な先駆者と位置づけられる。",
+      "en": "*Der Freischütz* is widely credited as the founding masterpiece of German Romantic opera, establishing a distinctly German operatic tradition and vocabulary — supernatural folklore, forest imagery, vivid orchestral atmosphere — that Wagner would inherit and develop into his own mature style. His atmospheric, coloristic orchestration techniques anticipated and directly shaped the more elaborate, leitmotif-driven dramatic orchestration Wagner would later perfect, making him an essential, if sometimes underrecognised, precursor to the Wagnerian revolution."
+    },
+    "keywords": {
+      "ja": [
+        "ドイツ・ロマン派オペラの確立",
+        "超自然を描く管弦楽の雰囲気作り",
+        "ワーグナーへの先駆"
+      ],
+      "en": [
+        "Founding German Romantic opera",
+        "Atmospheric orchestration of the supernatural",
+        "A precursor to Wagner"
       ]
     }
   },
@@ -1316,6 +1558,32 @@
         "Codifying orchestration",
         "The idée fixe",
         "A forerunner of programme music"
+      ]
+    }
+  },
+  "176": {
+    "biography": {
+      "ja": "テープに録音した同一のフレーズを2台の再生機で流したところ、機械的なわずかな速度差から次第にずれが生じていくことに気づいたのが、彼の代表的な技法「フェイジング(位相のずれ)」の出発点になったと伝えられる。フィリップ・グラスと並んで、アメリカのミニマル・ミュージックを代表する作曲家である。\nこのフェイジングの発想を生演奏の楽器にも応用し、同じ反復音型を演奏する2人の奏者のテンポがわずかにずれていくことで、絶えず変化する干渉模様を生み出す作品を初期に手がけた。のちには、実際の会話や証言の録音を器楽作品に直接組み込む手法も追求している。",
+      "en": "The origin of his signature technique, 'phasing', is said to trace back to an accidental discovery: playing the same recorded phrase on two tape machines, he noticed the tiny mechanical differences in playback speed caused the two to gradually drift out of sync. Alongside Philip Glass, he is one of the two composers most identified with American minimalism.\nHe applied this idea of phasing to live instruments in his early landmark works, having two performers play the same repeating pattern at tempos that gradually drift apart, generating ever-shifting interference patterns. Later he pursued incorporating recordings of actual speech and testimony directly into instrumental works."
+    },
+    "style": {
+      "ja": "同一の反復音型を複数走らせ、それらが時間的にわずかずつずれていくことで、決定論的で単純な出発点から絶えず変化し予測のつかない干渉模様を生み出す「フェイジング」の技法を確立した。ケージの偶然性による予測不可能性とは異なり、彼の過程は完全に決定されており、その展開はリアルタイムで聴き取ることができるという点が重要な違いである。作品全体を通じて拍動的で安定したリズムの基盤を保ち続けた。のちには実際の会話や証言の録音を作品に組み込み、話し言葉そのものの自然な旋律的抑揚を生演奏の楽器で緊密になぞる手法も追求している。",
+      "en": "He established the technique of 'phasing': running two or more identical repeating patterns that gradually drift out of temporal alignment, generating constantly evolving, unpredictable interference patterns from entirely deterministic, simple starting material. Unlike Cage's chance-based unpredictability, his process is fully determined and its unfolding can be heard in real time — an important distinction. A steady, pulse-driven rhythmic foundation runs throughout his output. Later he incorporated recordings of actual speech and testimony into his works, closely doubling the natural melodic contour of the spoken voice with live instruments."
+    },
+    "impact": {
+      "ja": "「フェイジング」の技法はミニマリズムの基礎的な技法の一つとなり、演奏会用音楽から映画音楽、さらにはポピュラー・電子音楽の制作まで、後続の世代の作曲家たちによって研究・発展させられている。グラスとともにミニマリズムを実験的な周縁から主流へと押し上げ、のちの証言録音を用いた作品は、語られた証言を音楽の中に直接かつ音楽的に組み込む独自の手法を切り拓き、歴史的・記録的な題材を扱う後続の作曲家たちに参照されている。存命の作曲家として、今なおアメリカの演奏会用音楽におけるもっとも影響力のある一人であり続けている。",
+      "en": "Phasing became one of the foundational techniques of minimalism, studied and extended by generations of later composers across concert music, film scoring and popular and electronic music production, where minimalist repetition's influence is widely noted. Alongside Glass, he helped carry minimalism from an experimental fringe practice into the mainstream, and his later documentary-speech works pioneered a distinctive technique for incorporating spoken testimony directly and musically into concert works. As a still-active composer, he remains one of the most influential living figures in American concert music."
+    },
+    "keywords": {
+      "ja": [
+        "フェイジングの技法",
+        "決定論的な過程音楽",
+        "証言録音の音楽への統合"
+      ],
+      "en": [
+        "Phasing technique",
+        "Deterministic process music",
+        "Integrating spoken testimony into music"
       ]
     }
   },
@@ -1666,6 +1934,32 @@
         "Founding symphony & quartet",
         "Monothematic development",
         "Musical wit"
+      ]
+    }
+  },
+  "210": {
+    "biography": {
+      "ja": "シェーンベルクのもとで学んだ最重要の弟子の一人で、同門にはヴェーベルンがいた。師や同門のヴェーベルンが十二音技法をより厳格に用いたのに対し、彼はその枠組みの中でも温かみのあるロマン派的な感性を保ち続け、無調・十二音の文脈にしばしば調性的な響きを忍び込ませた。\n貧しく虐げられた兵士が殺人に追い込まれていく姿を描いたオペラ「ヴォツェック」は、表現主義オペラの金字塔となった。最後の完成作となったヴァイオリン協奏曲「ある天使の思い出に」は、若くして亡くなった友人の娘に捧げられ、十二音の構造のなかにバッハのコラール旋律を引用している。",
+      "en": "One of Schoenberg's most important students, alongside Webern. Where his teacher and Webern applied twelve-tone technique more austerely, he kept a warmer, more Romantic sensibility within that framework, often smuggling tonal references into otherwise atonal contexts.\nHis opera *Wozzeck*, depicting a poor, abused soldier driven to murder, became a landmark of Expressionist opera. His final completed work, the Violin Concerto 'To the Memory of an Angel', was dedicated to a young woman, the daughter of a close friend, who died young, and it weaves a Bach chorale melody into its twelve-tone structure."
+    },
+    "style": {
+      "ja": "十二音・無調の技法を用いながらも調性的な残響とロマン派的な感情表現を織り込む独自の書法により、シェーンベルクやヴェーベルンに比べて「もっともロマン派的」な新ウィーン楽派の作曲家と評される。オペラでは、表現主義的な心理描写の激しさと、厳密な形式的統制を両立させた。「ヴォツェック」の各場面は、パッサカリアやラプソディ、ソナタといった古典的な音楽形式のいずれかに基づいて組み立てられており、聴き手には意識されないままその構成に規律を与えている。",
+      "en": "Weaving tonal allusions and Romantic emotional expressivity into twelve-tone and atonal technique, he earned a reputation as 'the most Romantic' of the Second Viennese School composers, in contrast to the generally more austere approaches of Schoenberg and Webern. In opera he combined the psychological intensity of Expressionism with rigorous formal control: each scene of *Wozzeck* is built on a distinct Classical form — passacaglia, rhapsody, sonata — invisible to the listener but giving the structure its discipline."
+    },
+    "impact": {
+      "ja": "「ヴォツェック」は20世紀を代表するオペラの一つとなり、無調・表現主義的な語法が最高水準の完全な演劇的ドラマを支えうることを示し、伝統的な調性の外で書こうとする後続の20世紀オペラ作曲家たちに道を開いた。厳密な十二音構造と感情的な親しみやすさを両立させたその音楽は、新ウィーン楽派の無調に距離を感じる聴衆や演奏家にとっても入り口になりやすく、三人の中核的なセリー主義者の中でも異例なほど広い聴衆に届いている。",
+      "en": "*Wozzeck* became one of the most performed and critically significant operas of the twentieth century, showing that atonal, Expressionist musical language could sustain full operatic drama at the highest level and opening the door for later opera composers to work outside traditional tonality. His combination of rigorous twelve-tone structure with emotional accessibility has made his music an unusually approachable entry point for audiences and performers otherwise wary of Second Viennese School atonality."
+    },
+    "keywords": {
+      "ja": [
+        "新ウィーン楽派の中の抒情性",
+        "厳密な形式に隠れた表現主義",
+        "十二音技法によるオペラの確立"
+      ],
+      "en": [
+        "Lyricism within the Second Viennese School",
+        "Expressionism inside strict form",
+        "Establishing twelve-tone opera"
       ]
     }
   },
