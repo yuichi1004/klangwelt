@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "父ヴィークのもとでピアノを学んだが、指の故障により演奏家への道を断たれ、作曲と評論に軸足を移した。師の娘クラーラとの結婚を父に反対され、裁判にまで発展する対立を経て結ばれている。\n自ら音楽雑誌を創刊し、批評家として同時代の作曲家を積極的に紹介した。ショパンやブラームスの才能をいち早く見出し世に送り出したことでも知られる。晩年は精神の不調に苦しみ、療養施設で生涯を終えた。",
+    "en": "He studied piano under Friedrich Wieck, but an injury to his hand ended any hope of a career as a performer, and he turned instead to composition and criticism. Wieck opposed his marriage to his daughter Clara, and the dispute went as far as a court case before the couple were finally allowed to marry.\nHe founded his own music journal and used it as a critic to champion composers of his generation, recognising the talents of Chopin and Brahms early and helping bring each to wider attention. In his final years he suffered a severe decline in mental health and died in a sanatorium."
+  },
+  "style": {
+    "ja": "ピアノのための作品では、性格の異なる短い曲を次々とつなげ、一つの物語や文学的な着想でまとめ上げる組曲的な構成を好んだ。曲の中に自分や知人の名前を音名として忍ばせる暗号的な手法も用いている。歌曲では、ピアノを伴奏に留めず、詩の言葉と対等に語り合う独立した声部として書き、詩と音楽を緊密に結びつけた。",
+    "en": "In his piano works he liked to string together a series of short, sharply characterised pieces and bind them into a suite unified by a literary idea or a private narrative. He sometimes hid his own name or a friend's, spelled out in musical notes, inside a piece as a kind of cipher. In his songs he did not let the piano remain mere accompaniment but gave it an independent voice that speaks with the poem's words on equal terms, binding text and music tightly together."
+  },
+  "impact": {
+    "ja": "批評家として同時代の作曲家を積極的に評価し、ショパンやブラームスへの支持がのちの評価を決定づけるほどの影響力を持った。作曲家が同時に批評家として音楽の受容そのものを形づくるという先例を残している。詩の言葉と音楽を対等に結びつけた歌曲は、シューベルトと並んでドイツ・リートの規範となり、後続の作曲家たちに引き継がれた。",
+    "en": "As a critic he championed composers of his own generation so effectively that his endorsement of Chopin and Brahms helped settle their later reputations. He left behind a model of the composer who also shapes how music is received, working as a critic in parallel with composing. His songs, binding text and music as equals, stand beside Schubert's as the model for the German Lied that later composers carried forward."
+  },
+  "keywords": {
+    "ja": [
+      "文学的な組曲構成",
+      "歌曲における詩と音楽の融合",
+      "批評家としての作曲家"
+    ],
+    "en": [
+      "Literary suite form",
+      "Poetry-music fusion in song",
+      "Composer as critic"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "biography": {
+    "ja": "ウィーンで生まれ、同時代のベートーヴェンを深く敬愛したが、生前に二人が親しく交流することはなかったとされる。宮廷礼拝堂の少年合唱団を経て一時教師を務めたが、多くは特定の職に就かず、友人たちが自宅に集って彼の新作を演奏する私的な集まり「シューベルティアーデ」を主な発表の場とした。\n歌曲だけで600曲以上を書くなど驚異的な多作家だったが、生前に広く名声を得ることはなく、31歳で病のため早世した。",
+    "en": "Born in Vienna, he deeply admired his contemporary Beethoven, though the two are not thought to have had any close acquaintance during their lifetimes. After time as a boy in the imperial court chapel choir and briefly working as a schoolteacher, he held no fixed post for most of his life, relying instead on private gatherings at friends' homes — the so-called Schubertiades — where his newest works were performed.\nHe was astonishingly prolific, writing more than six hundred songs alone, but achieved little wide recognition in his lifetime and died of illness at thirty-one."
+  },
+  "style": {
+    "ja": "歌曲では、ピアノ伴奏を単なる添え物にとどめず、歌詞の心理状態や情景を音型そのもので描写する手法を確立した。糸車の回転を表す反復音型や、旅の終わりに響くハーディ・ガーディの単調な響きなど、伴奏が詩の内容と直接結びついている。複数の歌曲を一つの物語としてまとめる「連作歌曲」という形式も確立した。器楽曲でも歌うような旋律を貫き、急がず伸びやかに主題を繰り返し変奏していく、ゆったりとした構成を好んだ。",
+    "en": "In his songs he established a technique in which the piano is no mere accompaniment but paints the psychological state or scene of the text directly in its figuration — a repeating pattern for a spinning wheel, or the drone of a hurdy-gurdy at the end of a long journey. He also established the song cycle, binding a sequence of songs into a single narrative. His instrumental music keeps the same songful lyricism, favouring a leisurely structure that repeats and varies its material without symphonic urgency."
+  },
+  "impact": {
+    "ja": "歌曲を家庭内の娯楽的な音楽から、交響曲やオペラに匹敵する重みを持つ芸術形式へと引き上げ、ドイツ・リートという分野そのものを確立した。彼が切り拓いた連作歌曲の形式は、のちにシューマンが自身の歌曲集で受け継いでいる。死後に埋もれていた大規模な器楽曲の草稿は、シューマンによって発見されて世に知らされ、メンデルスゾーンの指揮によって初演されるなど、後続の作曲家たちの手で再評価が進んだ。",
+    "en": "He raised the song from domestic entertainment into an art form carrying as much weight as the symphony or opera, founding the German Lied as a field in its own right. The song-cycle form he pioneered was carried forward by Schumann in his own song cycles. Manuscripts of his large-scale instrumental works, buried and unknown after his death, were found and brought to light by Schumann and had their premiere under Mendelssohn's baton — his reputation rebuilt, piece by piece, through the efforts of the composers who came after him."
+  },
+  "story": {
+    "ja": "1827年のベートーヴェンの葬儀では松明を掲げる係の一人を務めた。翌年みずからが世を去った際、彼自身の希望によりベートーヴェンの墓のすぐそばに葬られている。",
+    "en": "At Beethoven's funeral in 1827 he was one of the torchbearers. When he himself died the following year, he was buried, at his own request, right beside Beethoven's grave."
+  },
+  "keywords": {
+    "ja": [
+      "詩と一体化した伴奏",
+      "連作歌曲の確立",
+      "ドイツ・リートの父"
+    ],
+    "en": [
+      "Text-painting accompaniment",
+      "Founding the song cycle",
+      "Father of the German Lied"
+    ]
+  }
+}
