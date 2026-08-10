@@ -87,7 +87,7 @@
   "18": {
     "name": "Alexander Scriabin",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "19": {
     "name": "Samuel Barber",
@@ -127,7 +127,7 @@
   "26": {
     "name": "György Ligeti",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "27": {
     "name": "Tomaso Albinoni",
@@ -157,7 +157,7 @@
   "32": {
     "name": "Alberto Ginastera",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "33": {
     "name": "Josef Suk",
@@ -472,7 +472,7 @@
   "95": {
     "name": "Philip Glass",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "96": {
     "name": "Leoš Janáček",
@@ -707,7 +707,7 @@
   "142": {
     "name": "Witold Lutoslawski",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "143": {
     "name": "Antonio Salieri",
@@ -747,7 +747,7 @@
   "150": {
     "name": "Olivier Messiaen",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "151": {
     "name": "Orlando Gibbons",
@@ -997,7 +997,7 @@
   "200": {
     "name": "Arthur Honegger",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "201": {
     "name": "Roy Harris",
@@ -1007,7 +1007,7 @@
   "202": {
     "name": "Francis Poulenc",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "203": {
     "name": "Krzysztof Penderecki",
@@ -1052,7 +1052,7 @@
   "211": {
     "name": "Bedrich Smetana",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "212": {
     "name": "Fernando Sor",
@@ -1082,7 +1082,7 @@
   "217": {
     "name": "Charles Ives",
     "phase": 3,
-    "status": "pending"
+    "status": "done"
   },
   "218": {
     "name": "Aram Khachaturian",

@@ -51,6 +51,32 @@
       ]
     }
   },
+  "18": {
+    "biography": {
+      "ja": "モスクワ音楽院時代の同期にはラフマニノフがおり、当初は彼と同様、ショパンの影響を受けたロマン派的なピアノ作品から出発した。しかし後年、神智学に傾倒し、自らの音楽が人類の精神的な変容、さらには世界の終焉すらもたらしうるという神秘思想を深めていった。\n音楽と光、香り、舞踊を組み合わせ、ヒマラヤで数日間かけて上演することで人類全体の精神的な変容を引き起こすという、壮大な未完の総合芸術作品「神秘劇」を構想していたが、唇にできた腫れ物からの敗血症により43歳で急死し、実現しなかった。",
+      "en": "At the Moscow Conservatory, where his contemporaries included Rachmaninoff, he began, like his classmate, from a Chopin-influenced Romantic piano idiom. Later in life, though, he grew deeply involved in theosophy and a personal mystical philosophy in which he came to believe his music could bring about mankind's spiritual transformation, even the end of the world.\nHe conceived an enormous, never-completed multimedia work, the *Mysterium*, meant to combine music, light, scent and dance in a performance lasting several days in the Himalayas, triggering a spiritual transformation of all humanity — but he died suddenly at 43 from blood poisoning caused by an infected sore on his lip, and it was never realised."
+    },
+    "style": {
+      "ja": "ショパンに通じるロマン派的な語法から出発し、次第に不協和で半音階的な、やがて調性の枠を超えていく独自の和声へと変化させた。伝統的な三和音の代わりに、4度音程を積み重ねた6音の和音「神秘和音」を晩年の作品の和声的な土台とした。音に色彩を感じる共感覚的な思想をメシアンに先立って追求し、「プロメテウス」の演奏では色彩を投影する専用の楽器「色光ピアノ」を設計している。",
+      "en": "He began from a Romantic idiom close to Chopin and gradually moved toward an increasingly dissonant, chromatic language that eventually broke free of traditional tonality altogether. In place of traditional triads, he built his late harmonic language on his own 'mystic chord', a six-note sonority stacked in fourths. He pursued a synesthetic correspondence between sound and colour before Messiaen did, and for performances of *Prometheus* he designed a dedicated instrument, the *clavier à lumières*, to project colour during the piece."
+    },
+    "impact": {
+      "ja": "「神秘和音」は、シェーンベルクの無調実験とは独立して進められた、伝統的な三和音的調性から離れる20世紀の重要な道筋の一つであり、和声のモダニズムへとロシア独自の経路をたどった例として音楽史家の関心を集めている。音と色彩を結びつける共感覚的な実験は、20世紀を通じて繰り返し現れる光やマルチメディアを組み合わせた芸術的な試みの先駆けとなった。未完に終わった「神秘劇」の壮大な構想は、音楽と神秘思想、ユートピア的・終末論的な思想が交差する20世紀初頭のロシア文化を研究する学者たちにとって、今も尽きない関心の対象であり続けている。",
+      "en": "The 'mystic chord' stands as one of the significant twentieth-century routes away from traditional triadic tonality, developed independently of Schoenberg's atonal experiments, and offers historians a distinctly Russian path toward harmonic modernism. His synesthetic experiments linking sound and colour anticipated the light shows and multimedia ambitions that would recur throughout twentieth-century experimental art. The unfinished, almost mythic ambition of the *Mysterium* has kept him a figure of ongoing fascination for scholars studying where music, mysticism and utopian or apocalyptic thought intersected in early twentieth-century Russian culture."
+    },
+    "keywords": {
+      "ja": [
+        "神秘和音",
+        "共感覚と色光ピアノ",
+        "神秘思想と未完の大作"
+      ],
+      "en": [
+        "The mystic chord",
+        "Synesthesia and the colour organ",
+        "Mysticism and an unfinished masterwork"
+      ]
+    }
+  },
   "19": {
     "biography": {
       "ja": "若くしてカーティス音楽院に学んだ。同性のパートナーであった作曲家ジャン・カルロ・メノッティとは、数十年にわたる創作上・私生活上の伴侶関係にあった。\n1966年、リンカーンセンターに新設されたメトロポリタン歌劇場の柿落とし公演として委嘱されたオペラ「アントニーとクレオパトラ」は、過剰な演出も災いして酷評される結果に終わった。この経験は、その後の彼の創作活動に長く影を落としたとされる。",
@@ -74,6 +100,58 @@
         "Tonal lyricism",
         "Emotional weight from simple means",
         "Music of public mourning"
+      ]
+    }
+  },
+  "26": {
+    "biography": {
+      "ja": "ハンガリーのユダヤ系家庭に生まれた。ホロコーストを生き延びたが、父と弟は強制収容所で命を落としている。\n1956年のハンガリー動乱がソ連軍によって鎮圧されると西側へ亡命し、それまで鉄のカーテンの向こうで触れる機会のなかった西欧の前衛音楽や電子音楽の潮流に初めて接した。「アトモスフェール」などの作品は、スタンリー・キューブリック監督の映画「2001年宇宙の旅」に無断で使用されたことをきっかけに国際的に広く知られるようになった。",
+      "en": "Born into a Hungarian Jewish family, he survived the Holocaust, though his father and brother died in concentration camps.\nWhen the Soviet army crushed the Hungarian Uprising of 1956, he fled to the West, encountering for the first time the Western European avant-garde and electronic music he had been cut off from behind the Iron Curtain. Works such as *Atmosphères* became widely known internationally after Stanley Kubrick used them, initially without permission, in the film *2001: A Space Odyssey*."
+    },
+    "style": {
+      "ja": "きわめて多くの独立した旋律線を、わずかにずれた音高とリズムで密に重ね合わせる「ミクロポリフォニー」という独自の技法を編み出した。個々の声部は聴き取れないほど密集し、聴き手には代わりに、ゆっくりと形を変えていく一つの音の塊や雲のようなものとして響く。一方で、100台のメトロノームを異なる速さで同時に鳴らし、一台ずつ止まっていく様子を聴かせる「交響詩」のような、いたずら心のある実験的な作品も残している。",
+      "en": "He developed a technique he called micropolyphony, layering a great many independent melodic lines at slightly offset pitches and rhythms so densely that the individual lines become imperceptible, and a listener instead hears a single, slowly shifting mass or cloud of sound. He also had a mischievous, absurdist streak, as in his *Poème symphonique*, which sets a hundred metronomes running at different speeds simultaneously and lets the audience listen as they wind down and stop one by one."
+    },
+    "impact": {
+      "ja": "ミクロポリフォニーは、20世紀後半の管弦楽書法にもっとも影響を与え、広く模倣された音響的な技法の一つとなり、伝統的な対位法とも純粋な電子音響ともまた異なる、密度の高い変容する音塊を作曲家たちにもたらした。「2001年宇宙の旅」を通じた(当初は無断の)露出は、本来なら出会うことのなかった膨大な映画観客に前衛的な演奏会音楽を届けることになり、モダニズムの音楽が大衆文化へ流入した異例の事例となった。鉄のカーテンの向こうで孤立した出発点を持ちながら、ブーレーズやシュトックハウゼンらと並んで、戦後ヨーロッパの前衛を代表する国際的な存在になった。",
+      "en": "Micropolyphony became one of the most influential and widely imitated textural innovations in late twentieth-century orchestral writing, giving composers a way to generate dense, evolving sound-mass effects distinct from either traditional counterpoint or pure electronic synthesis. His exposure, initially unauthorised, through *2001: A Space Odyssey* brought avant-garde concert music to an enormous film audience that would otherwise never have encountered it, an unusual case of high-modernist music entering mass popular culture. Despite an isolated start behind the Iron Curtain, he became, alongside figures such as Boulez and Stockhausen, one of the internationally recognised voices of the postwar European avant-garde."
+    },
+    "keywords": {
+      "ja": [
+        "ミクロポリフォニー",
+        "映画を通じた思いがけない浸透",
+        "実験的なユーモア"
+      ],
+      "en": [
+        "Micropolyphony",
+        "Unexpected reach through film",
+        "Experimental humour"
+      ]
+    }
+  },
+  "32": {
+    "biography": {
+      "ja": "タングルウッド音楽祭でコプランドに師事した。のちに彼自身も、タンゴを根本から作り変えることになるアストル・ピアソラを教え子に持っている。\nアルゼンチンを代表する20世紀の作曲家となったが、暴力的・官能的な内容を理由にオペラ「ボマルツォ」が自国政府によって上演禁止とされる事態も経験した。作風は、民謡素材を直接的に用いた初期の「客観的国民主義」から、より抽象化した中期の「主観的国民主義」、さらに晩年の国際的な前衛様式へと、生涯を通じて大きく変化している。",
+      "en": "He studied with Copland at Tanglewood. He himself later taught a young Astor Piazzolla, who would go on to remake the tango from the ground up.\nHe became Argentina's leading twentieth-century composer, though his opera *Bomarzo* was banned by his own government for its violent and erotic content shortly after it was completed. His style shifted considerably across his career, moving from an early 'objective nationalism' that drew directly on folk material, through a more abstracted 'subjective nationalism' in his middle period, to an internationally oriented avant-garde idiom in his final years."
+    },
+    "style": {
+      "ja": "作風は生涯を通じて大きく三段階に変化した。初期の「客観的国民主義」ではガウチョのギター奏法やマランボといったアルゼンチンの舞曲のリズムを直接的に取り入れ、中期の「主観的国民主義」ではこれらの要素をより抽象化し、晩年には拡張奏法や密度の高い不協和音を伴う国際的な前衛様式へと移行した。様式は大きく変わっても、初期の民俗的な素材に由来するリズムの躍動感は生涯を通じて根底に残り続けている。",
+      "en": "His style moved through three broad phases across his career. In the early 'objective nationalism' he drew directly on Argentine dance rhythms such as the malambo and gaucho guitar-strumming figures; in the middle 'subjective nationalism' these elements grew more abstracted; and in his later years he moved toward an internationally oriented avant-garde idiom using extended instrumental techniques and dense dissonance. Even as the style changed considerably, the rhythmic vitality rooted in his early folk material remained underneath throughout his career."
+    },
+    "impact": {
+      "ja": "ヴィラ=ロボスがブラジルのために切り拓いた道を引き継ぐ形で、アルゼンチン、さらには広くラテンアメリカの20世紀音楽が国際的な演奏会のレパートリーに存在感を持つ土台を築いた立役者となった。教え子のピアソラは、のちにタンゴを本格的な演奏会用の音楽へと変えていく革命を成し遂げており、その出発点に彼の指導があったことは特筆に値する。「ボマルツォ」の上演禁止は、ショスタコーヴィチやプロコフィエフ、ルトスワフスキの事例と並んで、国家権力のもとでの芸術的検閲の代表的な事例としてラテンアメリカの政治史に記録されている。",
+      "en": "Extending the path Villa-Lobos had opened for Brazil, he became the leading figure establishing Argentina's, and more broadly Latin America's, presence in the international concert repertoire of the twentieth century. His student Piazzolla went on to revolutionise the tango into a serious concert genre, and it is worth noting that this transformation had its starting point in Ginastera's teaching. The banning of *Bomarzo* stands, alongside the cases of Shostakovich, Prokofiev and Lutosławski, as a notable example of artistic censorship under state power, recorded in the political history of Latin America."
+    },
+    "keywords": {
+      "ja": [
+        "三段階の国民主義",
+        "ピアソラを育てた師",
+        "検閲と向き合った作曲家"
+      ],
+      "en": [
+        "Three stages of nationalism",
+        "Teacher of Piazzolla",
+        "Facing state censorship"
       ]
     }
   },
@@ -445,6 +523,32 @@
       ]
     }
   },
+  "95": {
+    "biography": {
+      "ja": "ジュリアード音楽院で学んだのち、コプランドと同様にパリでブーランジェに師事した。パリ滞在中、シタール奏者ラヴィ・シャンカルの仕事を手伝って西洋の拍子とは異なるインドのリズムの構造に触れた経験が、その後の作風を大きく方向づけたとされる。\n1960年代から70年代にかけては、伝統的な演奏会場ではなく画廊やロフトを舞台に、自ら組織したアンサンブルで増幅された反復的な音楽を演奏する活動を続けた。のちには映画音楽の分野でも幅広く活動し、商業的にも大きな成功を収めている。",
+      "en": "He studied at Juilliard and then, like Copland before him, with Nadia Boulanger in Paris. While in Paris, assisting the sitarist Ravi Shankar exposed him to a structure of Indian rhythm quite unlike Western metre, an experience widely credited with reshaping the direction of his music.\nThrough the 1960s and 70s he performed repetitive, amplified music with his own ensemble not in traditional concert halls but in galleries and lofts. He later worked extensively in film music as well, achieving considerable commercial success."
+    },
+    "style": {
+      "ja": "短い音型を反復させながら、ごくわずかずつ音を足したり引いたりして時間をかけて変化させていく「ミニマル・ミュージック」の手法を確立した。インド音楽の研究から得た「加算的リズム」——大きな拍子を分割するのではなく、小さな単位を積み重ねてリズムを組み立てる考え方——を自らの語法に取り込んでいる。和声はあえて動きを抑え、同じ三和音を反復・分散させることが多く、目的地に向かって進む西洋的な和声進行とは異なる、催眠的とも評される聴取体験を生み出す。",
+      "en": "He established the technique of minimalism: repeating a short pattern while adding or subtracting notes in tiny increments over an extended span. He absorbed 'additive rhythm' from his study of Indian music — building a rhythmic unit by adding small units together rather than subdividing a larger fixed metre — into his own language. Harmony is deliberately restrained, often repeating or arpeggiating the same triad, producing a trance-like listening experience quite unlike the goal-directed harmonic narrative of Western tradition."
+    },
+    "impact": {
+      "ja": "スティーヴ・ライヒと並んで、アメリカのミニマル・ミュージックを国際的に代表する存在となり、目的地に向かう西洋的な音楽時間の概念とはまったく異なる構造を演奏会の主流のレパートリーに持ち込んだ。伝統的な演奏会場の外で活動したことは、クラシック音楽と大衆的・実験的な音楽シーンの境界を曖昧にし、従来の会場の枠を超えて聴衆を広げることにつながった。映画音楽での旺盛な活動により、演奏会に足を運ばない層にもミニマル・ミュージックの語法を浸透させた、実験的な前衛出身の作曲家としては異例なほど広い文化的到達点を持つ。",
+      "en": "Alongside Steve Reich, he became one of the two composers most identified internationally with American minimalism, bringing a structure of musical time entirely different from the West's goal-directed tradition into the mainstream concert repertoire. Performing outside conventional concert venues blurred the line between classical music and popular or experimental scenes, widening the audience beyond traditional halls. His prolific film work carried minimalist technique to audiences who might never set foot in a concert hall — an unusually broad cultural reach for a composer who began in the experimental avant-garde."
+    },
+    "keywords": {
+      "ja": [
+        "ミニマル・ミュージック",
+        "加算的リズム",
+        "従来の演奏会場を超えた活動"
+      ],
+      "en": [
+        "Minimalism",
+        "Additive rhythm",
+        "Beyond the traditional concert hall"
+      ]
+    }
+  },
   "96": {
     "biography": {
       "ja": "少年時代、のちに遺伝学の基礎を築くことになるグレゴール・メンデルが院長を務める修道院付属の聖歌隊学校で学んだ。長らくプラハではなく地方都市ブルノを拠点とする作曲家にとどまり、国際的な評価を得たのは60代に入ってオペラ「イェヌーファ」が成功してからだった。\n晩年、年下の人妻カミラ・ストッスロヴァーへの一途な思慕にとらわれ、その情熱的な文通が最後の10年間の創作意欲を大きく刺激したと考えられている。",
@@ -657,6 +761,32 @@
       ]
     }
   },
+  "142": {
+    "biography": {
+      "ja": "ナチス占領下のワルシャワでは、生活のために仲間の作曲家パヌフニクとピアノ二重奏を組み、カフェで編曲を演奏して糊口をしのいだ。戦後は社会主義リアリズムの文化政策のもと、モダニズム色の強い交響曲第1番が「形式主義的」と当局に批判され、しばらくの間は民謡に基づく分かりやすい作品を公に発表する一方、独自の語法を私的に育てる時期を過ごしている。\n後年は、演奏者にある程度の裁量を委ねながら全体の構造は厳密に統制するという、独自の「管理された偶然性」の技法を確立した。",
+      "en": "During the Nazi occupation of Warsaw he made ends meet by forming a piano duo with fellow composer Andrzej Panufnik, playing arrangements in cafés. After the war, under socialist-realist cultural policy, his strongly modernist First Symphony was condemned by the authorities as 'formalist', and for a time he publicly released more accessible, folk-based works while privately developing his own language.\nLater in his career he established a personal technique he called 'controlled aleatorism', giving performers a measure of freedom within a strictly governed overall structure."
+    },
+    "style": {
+      "ja": "「管理された偶然性」と呼ばれる独自の技法を確立した。個々の奏者には、指定された音型を厳密な拍にとらわれず自由なタイミングで演奏することを許す一方、曲全体の構造や音の材料、各部分の入りと終わりは作曲家が厳密に統制する。局所的には自然発生的で混沌として聞こえながら、全体としては高度に組織化されているという、即興とも完全な統制とも異なる独自の響きを生み出した。",
+      "en": "He established a personal technique called controlled aleatorism. Individual performers are given a notated figure to play with rhythmic freedom, not locked to a strict beat, while the composer tightly governs the work's overall structure, its pitch material, and where each section enters and exits. The result sounds spontaneous and chaotic in local detail while remaining highly organised at the larger scale — a sound distinct from either full improvisation or full determinism."
+    },
+    "impact": {
+      "ja": "「管理された偶然性」は、全面的な音列主義の厳格さと自由な即興の予測不可能性の中間を模索した20世紀後半の作曲家たちに、具体的で再現可能な解決策を示し、広く研究・模倣される技法になった。共産主義体制下の文化政策を、表向きは順応しながら独自の語法を私的に育てるという形で乗り切ったその歩みは、ショスタコーヴィチの事例と並んで、国家の統制下で芸術的な誠実さをどう保つかという議論に、ポーランドからの視点を加えている。",
+      "en": "Controlled aleatorism offered later twentieth-century composers searching for a middle path between the rigid determinism of total serialism and the unpredictability of free improvisation a concrete, replicable solution, and it became a widely studied and imitated technique. His way of navigating Communist-era cultural policy — outwardly conforming while privately cultivating an independent voice — is, alongside Shostakovich's case, frequently cited in discussions of how composers preserved artistic integrity under state control, adding a Polish perspective to that wider conversation."
+    },
+    "keywords": {
+      "ja": [
+        "管理された偶然性",
+        "統制下での独自の語法",
+        "局所的自由と全体構造の統制"
+      ],
+      "en": [
+        "Controlled aleatorism",
+        "An independent voice under state control",
+        "Local freedom, global control"
+      ]
+    }
+  },
   "145": {
     "biography": {
       "ja": "ボンに生まれ、22歳でウィーンに移って以降、生涯をこの街で過ごした。当初は即興演奏の名手として名を上げたが、20代の終わりから聴力を失いはじめ、30代前半には人前での演奏がほとんど不可能になる。演奏家としての道を断たれた彼が選んだのは、作曲家として書き続けることだった。\n交響曲を9曲、ピアノ・ソナタを32曲、弦楽四重奏曲を16曲残している。初期は古典派の様式を受け継いだが、中期には楽章どうしを主題で結びつけて全体をひとつの物語のように構成する方法を確立し、後期には形式そのものを自由に組み替える境地に達した。彼が押し広げた表現の幅は、その後のロマン派の作曲家すべての出発点になっている。",
@@ -736,6 +866,36 @@
         "Classical poise with imagery",
         "The fairy scherzo",
         "Sparking the Bach revival"
+      ]
+    }
+  },
+  "150": {
+    "biography": {
+      "ja": "敬虔なカトリック信者で、その信仰はほとんどすべての作品の中心にある。第二次世界大戦中はフランス軍の捕虜となり、収容所で入手できた楽器編成に合わせて「世の終わりのための四重奏曲」を作曲し、収容所内で初演した。\n戦後はパリ音楽院で教え、多くの重要な戦後世代の作曲家を育てた。生涯を通じて世界各地で野鳥の鳴き声を採譜する活動を続け、その精緻な採譜を主要な旋律素材として作品に取り込んでいる。",
+      "en": "A devout Catholic, his faith sits at the centre of nearly everything he wrote. Taken prisoner by the Germans during the Second World War, he composed the *Quatuor pour la fin du temps* for whatever instruments were available among his fellow prisoners and gave its premiere inside the camp.\nAfter the war he taught at the Paris Conservatoire, training a generation of major postwar composers. Throughout his life he transcribed birdsong in the wild all over the world, and worked these precise transcriptions into his scores as primary melodic material."
+    },
+    "style": {
+      "ja": "野鳥の鳴き声を科学的な精度で採譜し、単なる情緒的な模倣ではなく、他の主題と同格の作曲素材として作品に組み込んだ。限られた回数しか移調できない対称的な音階「移調の限られた旋法」という独自の理論を編み出し、通常の長短調や教会旋法とは異なる響きの基盤とした。多くの主要作品には熱烈な宗教的な内容が明示的に添えられ、和音を聴くと色彩を感じるという自身の証言とも結びついた、きわめて鮮やかで陶酔的な和声を特徴とする。",
+      "en": "He transcribed birdsong with scientific precision and worked it into his music not as evocative imitation but as compositional material on equal footing with any other theme. He developed his own theory of 'modes of limited transposition' — symmetrical scales that can only be transposed a limited number of times before repeating — as a harmonic foundation distinct from ordinary major-minor tonality or church modes. Many of his major works carry an explicit, ecstatic religious programme, marked by a vivid, intoxicating harmony that he himself connected to his testimony of perceiving colour when he heard certain chords."
+    },
+    "impact": {
+      "ja": "パリ音楽院の指導的な教師として、戦後ヨーロッパの前衛を担う世代の作曲家たちを直接育て、彼自身とはまったく異なる方向に進んだ弟子たちにも、リズムと音組織に関する厳密な分析的思考を伝えた。彼が体系的に行った野鳥の鳴き声の採譜は、音楽学と鳥類学の双方から、自然科学と音楽を橋渡しする本格的な仕事として評価されている。「世の終わりのための四重奏曲」の成立の経緯は、過酷な状況のもとで生み出された芸術のもっとも力強い記録の一つとして、純粋に音楽的な価値を超えた文化的な重みを持っている。",
+      "en": "As an influential teacher at the Paris Conservatoire, he directly shaped the generation of composers who would define the postwar European avant-garde, passing on rigorous analytical thinking about rhythm and pitch organisation even to students who developed in directions very different from his own. His systematic transcriptions of birdsong are recognised by musicologists and ornithologists alike as a serious body of work bridging music and natural science. The story behind the *Quatuor pour la fin du temps* has made it one of the most powerful documented examples of art created under conditions of extreme hardship, giving it a cultural weight beyond its purely musical qualities."
+    },
+    "story": {
+      "ja": "1941年、ドイツ軍の捕虜収容所で「世の終わりのための四重奏曲」を書き上げた。編成はクラリネット、ヴァイオリン、チェロ、ピアノという、たまたま収容所内にいた演奏者と入手できた楽器によって定められたものだった。初演は雪の降る屋外で、故障したピアノと弦の張り替えられたチェロを用い、収容されていた仲間や看守を前に行われたと伝えられる。",
+      "en": "In 1941, in a German prisoner-of-war camp, he completed the *Quatuor pour la fin du temps*. Its scoring — clarinet, violin, cello and piano — was fixed by whichever musicians and instruments happened to be available in the camp. The premiere is said to have taken place outdoors in the snow, on a broken-down piano and a cello restrung as best it could be, before an audience of fellow prisoners and guards."
+    },
+    "keywords": {
+      "ja": [
+        "鳥の声の採譜",
+        "移調の限られた旋法",
+        "宗教的法悦の和声"
+      ],
+      "en": [
+        "Birdsong transcription",
+        "Modes of limited transposition",
+        "Ecstatic religious harmony"
       ]
     }
   },
@@ -1167,6 +1327,58 @@
       ]
     }
   },
+  "200": {
+    "biography": {
+      "ja": "スイス国籍を持ちながらパリで活動し、若い作曲家たちの前衛的な集団「フランス六人組」の一員に数えられた。同じ六人組のメンバーであるプーランクらが軽妙で反ロマン主義的な作風を志向したのに対し、彼はより重厚で劇的な、交響的な感性を持ち続けており、グループの中でもやや異質な存在だった。\n舞台音楽や映画音楽を数多く手がけ、代表作「パシフィック231」は蒸気機関車が加速し減速していく様子を管弦楽だけで描写した、標題性の強い作品として知られている。",
+      "en": "A Swiss national active in Paris, he was counted among the young avant-garde collective known as Les Six. While fellow members such as Poulenc pursued a light, anti-Romantic aesthetic, he kept a weightier, more dramatic and symphonic sensibility, making him something of an outlier within the group.\nHe wrote extensively for the stage and for film, and his best-known work, *Pacific 231*, depicts a steam locomotive accelerating and slowing down using the orchestra alone — a vividly programmatic piece."
+    },
+    "style": {
+      "ja": "「パシフィック231」に代表されるように、機関車の加速・減速という機械的な運動そのものを、管弦楽の漸強・漸弱とリズムの変化だけで描写する、20世紀ならではの機械時代を主題とした標題音楽を手がけた。「ジャンヌ・ダルク」や「ダヴィデ王」といった大規模な劇的オラトリオでは、六人組の仲間たちが好んだ軽妙さや簡潔さとは対照的に、交響的でロマン派的な感情の幅を保ち続けた。映画音楽の分野でも旺盛に活動し、劇的な管弦楽感覚を新しい媒体に応用している。",
+      "en": "As in *Pacific 231*, he depicted the mechanical motion of a locomotive accelerating and decelerating using nothing but orchestral crescendo and shifting rhythm — a distinctly twentieth-century, machine-age subject for programme music. In large-scale dramatic oratorios such as *Jeanne d'Arc au bûcher* and *Le Roi David*, he kept a symphonic, Romantic emotional scale in contrast to the lightness and brevity his Les Six colleagues favoured. He was also a prolific film composer, applying his dramatic orchestral instinct to the new medium."
+    },
+    "impact": {
+      "ja": "「パシフィック231」は、機械時代の産業的な近代性に作曲家たちがどう音楽で応答したかを示す代表例として、標題音楽史上もっとも有名な作品の一つになっている。六人組の一員でありながら様式的には一線を画していたその経歴は、このグループの結びつきが必ずしも音楽的な様式の共有を意味しなかったことを示す好例になっている。旺盛な映画音楽の仕事は、フランスにおいて管弦楽の作曲家が映画に本格的に関与する伝統を築く一助となった。",
+      "en": "*Pacific 231* became one of the most famous examples of machine-age programme music in history, emblematic of how early twentieth-century composers responded musically to industrial modernity. His career, as a member of Les Six who stood apart stylistically, is a useful example that the group's shared identity did not require a shared musical aesthetic. His extensive film scoring helped establish a French tradition of orchestral composers engaging seriously with cinema."
+    },
+    "keywords": {
+      "ja": [
+        "機械時代の標題音楽",
+        "六人組の異色メンバー",
+        "映画音楽への旺盛な関与"
+      ],
+      "en": [
+        "Machine-age programme music",
+        "An outlier within Les Six",
+        "Deep engagement with film music"
+      ]
+    }
+  },
+  "202": {
+    "biography": {
+      "ja": "正規の音楽院教育をほとんど受けず、ヴィニェスにピアノを、ケクランに作曲を個人的に学んだ。「フランス六人組」の創立メンバーの一人で、当初はパリの社交界を思わせる軽妙で洒脱な作風で知られた。\n友人であった作曲家フェルーが自動車事故で急逝したことをきっかけに深い信仰へと向かい、以後は敬虔な宗教曲を並行して書くようになる。世俗的な軽妙さと宗教的な真摯さという、一見相反する二つの側面を生涯にわたって持ち続けた作曲家だった。",
+      "en": "He received almost no formal conservatory training, studying piano privately with Viñes and composition with Koechlin. A founding member of Les Six, he was known early on for a witty, elegant style evoking Parisian high society.\nThe sudden death of his friend, the composer Pierre-Octave Ferroud, in a car accident turned him toward a deep religious faith, and from then on he wrote devout sacred music alongside his secular work. He remained, for the rest of his career, a composer of two seemingly opposed sides — worldly wit and religious sincerity."
+    },
+    "style": {
+      "ja": "軽妙で洒脱、旋律の魅力に満ちた世俗的な作品群と、和声豊かで敬虔な宗教合唱曲という、一見相反する二つの様式を、時期によって使い分けるのではなく生涯を通じて並行して書き続けた。とりわけフランス歌曲において20世紀屈指の書き手とされ、電話越しの別れを描く一人芝居のオペラ「声」では、この声楽への深い理解を痛切な心理描写に結びつけている。",
+      "en": "He wrote in two seemingly opposed registers — light, elegant, melodically charming secular works, and richly harmonised, devout sacred choral music — not as a chronological progression from one to the other, but side by side throughout his career. He is considered among the finest writers of French art song of the twentieth century, and in *La voix humaine*, a one-woman opera depicting a phone call during a breakup, he brought this deep understanding of the voice to searing psychological effect."
+    },
+    "impact": {
+      "ja": "軽妙な娯楽性を持つ音楽と敬虔な宗教曲を、どちらも同じ芸術的人格の等しく誠実な表現として並び立たせたことで、どちらか一方が作曲家の「本当の声」であるはずだという単純な見方に一石を投じた。「グローリア」や「スターバト・マーテル」といった宗教合唱曲は、20世紀のフランス宗教合唱音楽を活性化させ、今日も頻繁に演奏される定番の演目であり続けている。彼の歌曲は、フォーレやドビュッシーに続くフランス歌曲の主要なレパートリーとして、声楽リサイタルに欠かせない存在になっている。",
+      "en": "By holding light entertainment and devout sacred music together as equally sincere expressions of a single artistic personality, he complicated the common assumption that one register must represent a composer's 'true' voice over the other. His sacred choral works, such as the *Gloria* and the *Stabat Mater*, revitalised French religious choral music in the twentieth century and remain frequently performed staples of the repertoire. His songs are considered essential recital repertoire, ranking among the most performed French art songs after Fauré and Debussy."
+    },
+    "keywords": {
+      "ja": [
+        "世俗性と敬虔さの並存",
+        "フランス歌曲の名手",
+        "宗教合唱曲の刷新"
+      ],
+      "en": [
+        "Worldly wit and devout faith",
+        "Master of French song",
+        "Revitalising sacred choral music"
+      ]
+    }
+  },
   "208": {
     "biography": {
       "ja": "貴族エステルハージ家の楽長として、約30年にわたり領地に事実上隔離された環境で働いた。のちに彼はこの孤立した境遇について、模範とすべき手本も従うべき流行もなかったからこそ独自の道を進まざるを得なかった、という趣旨のことを述べたと伝えられる。\n主君の死後、還暦を過ぎてから二度ロンドンに渡り、そこで書いた一連の交響曲は熱狂的に迎えられた。モーツァルトとは互いに敬愛し合う関係にあり、ウィーンでは若きベートーヴェンに一時期作曲を教えている。彼が書いた旋律の一つは、のちにオーストリア帝国の国歌、さらにドイツの国歌の旋律として採用された。",
@@ -1193,6 +1405,32 @@
       ]
     }
   },
+  "211": {
+    "biography": {
+      "ja": "ドヴォルザークやヤナーチェクに先立つ世代として、チェコの国民楽派を切り拓いた最初期の作曲家である。ヴィオラ奏者として活動したのち作曲家・指揮者として名を上げたが、晩年は完全に聴力を失った。\nベートーヴェンと同様、聴力を失ってからも作曲を続け、代表作である連作交響詩「わが祖国」の多くはこの時期に書かれている。晩年は病により精神状態も悪化し、療養施設で世を去った。",
+      "en": "A generation before Dvořák and Janáček, he was among the earliest composers to open up a Czech national school of music. He made his name as a composer and conductor after working as a violist, but in his later years he lost his hearing completely.\nLike Beethoven, he kept composing after losing his hearing, and much of his best-known work, the symphonic-poem cycle *Má vlast* ('My Fatherland'), was written during this period. In his final years illness also affected his mental state, and he died in a sanatorium."
+    },
+    "style": {
+      "ja": "ボヘミアの舞曲、とりわけポルカのリズムを、リストの周辺で学んだドイツ・オーストリア系の交響的・劇的な書法と結びつけ、明確にチェコ的な国民楽派の語法を切り拓いた。彼を高く評価し支援したリストとの関係は、その作風にも影響を残している。「わが祖国」は6曲の交響詩からなり、それぞれがチェコの特定の風景や伝説、河川を描く明確な標題を持つ。とりわけヴルタヴァ川の流れを描いた「モルダウ」の楽章はもっとも広く知られている。",
+      "en": "He combined Bohemian dance rhythms, above all the polka, with the Austro-German symphonic and dramatic craft he absorbed in Liszt's circle, opening up a distinctly Czech national idiom. His relationship with Liszt, who valued and supported him, left its mark on his style. *Má vlast* comprises six symphonic poems, each with an explicit programme depicting a specific Czech landscape, legend or river — the movement depicting the course of the Vltava river, best known abroad as the Moldau, being the most widely recognised."
+    },
+    "impact": {
+      "ja": "ドヴォルザークやヤナーチェクが直接その土台の上に立つことになる、チェコ国民楽派の礎を築いた創始者であり、今日では後続の二人の方が国際的な知名度で上回ることが多いものの、この楽派そのものを起こした人物である。「売られた花嫁」はチェコの国民オペラの礎石として今も上演され続けている。「わが祖国」の「モルダウ」の楽章は、国際的にもっとも広く知られる標題音楽の一つとなり、国家的な式典でチェコの国民的アイデンティティを象徴する曲としてもたびたび演奏される。",
+      "en": "He laid the foundation of the Czech national school that Dvořák and, later, Janáček both built directly upon — the founder of a tradition whose later members are today often more internationally famous than he is. *The Bartered Bride* remains the cornerstone of Czech national opera, still staged as an emblem of Czech musical identity. The Vltava movement of *Má vlast* became one of the most widely recognised pieces of orchestral programme music internationally, and is frequently performed at state occasions as a symbol of Czech national identity."
+    },
+    "keywords": {
+      "ja": [
+        "チェコ国民楽派の創始",
+        "聴力喪失後の傑作",
+        "標題性の強い交響詩連作"
+      ],
+      "en": [
+        "Founding the Czech national school",
+        "A masterpiece composed after deafness",
+        "An explicitly programmatic symphonic cycle"
+      ]
+    }
+  },
   "213": {
     "biography": {
       "ja": "独学に近いかたちで作曲を学び、戦後の日本の作曲界を国際的に代表する存在となった。西洋の前衛的な語法を吸収しながら、尺八や琵琶といった日本の伝統楽器を管弦楽と組み合わせる試みを続けた。\n「間」——音と音のあいだの沈黙——を音そのものと同じだけ重視する姿勢が作品の核にある。映画音楽も100本以上手がけ、コンサート作品との間に垣根を設けなかった。",
@@ -1216,6 +1454,36 @@
         "Aesthetics of ma",
         "Garden-like form",
         "East-West timbre fusion"
+      ]
+    }
+  },
+  "217": {
+    "biography": {
+      "ja": "実験好きなバンドマスターだった父ジョージから、幼いころに二つの調を同時に演奏したり、一つの旋律を別の調の伴奏に乗せて歌ったりする型破りな訓練を受けた。この経験が、のちの作風の土台になっている。\n保険業でも成功を収め、共同創業した保険代理店は業界で高い評価を得た。作曲は主に余暇に行っており、もっとも実験的な作品の多くは、書かれてから何十年も経ってようやく初演されるか、生前には演奏の機会すら得られなかった。",
+      "en": "As a boy, he was trained by his father George, an experimentally minded bandmaster, in unconventional exercises like playing in two keys at once or singing a tune against an accompaniment in a different key — an experience that underlies his mature style.\nHe also built a successful career in insurance, co-founding an agency that was highly regarded in the industry. He composed mostly in his spare time, and many of his most experimental works were not performed until decades after he wrote them, some not until after his death."
+    },
+    "style": {
+      "ja": "複数の独立した楽想——異なる調、異なる旋律、異なるリズム——を同時に重ね合わせる「多調性」やコラージュ的な手法を用い、複数の行進楽隊がすれ違いながら別々の曲を演奏する子ども時代の記憶のような、アメリカの日常の重層的で騒然とした体験を音楽に描き出した。讃美歌や愛国歌、ラグタイムといったアメリカの大衆的な旋律を作品に頻繁に引用したが、なめらかに統合するのではなく、継ぎ目をあえて残したまま並置することを好んだ。不協和音の密集や複合リズム、四分音といった技法を、ヨーロッパの作曲家たちが同様の手法にたどり着くよりも数十年早く独自に用いている。",
+      "en": "Using polytonality and collage — layering several independent musical ideas at once, different keys, tunes and rhythms happening simultaneously — he depicted the layered, chaotic texture of everyday American experience, as in a childhood memory of two marching bands passing each other playing different tunes at once. He frequently quoted American vernacular material — hymn tunes, patriotic songs, ragtime — but preferred to juxtapose it with the seams left visible rather than blend it smoothly. He used dense dissonance, polyrhythm and quarter-tones independently, decades before European composers arrived at comparable techniques."
+    },
+    "impact": {
+      "ja": "多調性や音の房(トーン・クラスター)、偶然性の要素など、ヨーロッパのモダニズムが独自に到達するより何年も早く用いていた技法の数々により、のちに20世紀前半でもっとも先駆的な作曲家の一人として再評価された。彼の経歴は、革新的な発想がほぼ完全に無名のまま埋もれ、何十年も経って再発見されるまで音楽史の主流に影響を及ぼせなかったという、際立った事例として音楽史学でしばしば取り上げられる。保険業を本業としながら余暇に作曲を続けたその生き方は、本格的な作曲活動には専業の音楽家であることが必要だという前提に対する異例の反例であり、アメリカ文化史における「アウトサイダーの天才」をめぐる議論でたびたび引き合いに出される。",
+      "en": "Because he had used techniques — polytonality, tone clusters, aleatoric elements — years before European modernists arrived at them independently, he was later recognised as one of the most prescient composers of the early twentieth century. His career is often cited in music historiography as a striking case of innovation lying almost completely unknown, unable to influence the mainstream of music history until it was rediscovered decades later. Working full-time in insurance while composing on the side, he stands as an unusual counter-example to the assumption that serious composition requires a dedicated musical career, and his case is frequently invoked in discussions of 'outsider' genius in American cultural history."
+    },
+    "story": {
+      "ja": "交響曲第3番で、作曲からおよそ40年後にピュリッツァー賞を受賞した際、賞金の半分を他の作曲家に分け与えたと伝えられる。その理由として、賞というものは若者のためのものであり、自分はすでに十分に年老いていると語ったとされる。",
+      "en": "When he won the Pulitzer Prize for Music for his Third Symphony, roughly forty years after writing it, he is said to have given away half the prize money to other composers, explaining that prizes were for the young and that he was, by then, old enough not to need one."
+    },
+    "keywords": {
+      "ja": [
+        "多調性とコラージュ",
+        "アメリカ大衆音楽の引用",
+        "先駆性と埋もれた評価"
+      ],
+      "en": [
+        "Polytonality and collage",
+        "Quoting American vernacular music",
+        "Prescience lost to obscurity"
       ]
     }
   }

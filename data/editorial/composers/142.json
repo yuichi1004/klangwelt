@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ナチス占領下のワルシャワでは、生活のために仲間の作曲家パヌフニクとピアノ二重奏を組み、カフェで編曲を演奏して糊口をしのいだ。戦後は社会主義リアリズムの文化政策のもと、モダニズム色の強い交響曲第1番が「形式主義的」と当局に批判され、しばらくの間は民謡に基づく分かりやすい作品を公に発表する一方、独自の語法を私的に育てる時期を過ごしている。\n後年は、演奏者にある程度の裁量を委ねながら全体の構造は厳密に統制するという、独自の「管理された偶然性」の技法を確立した。",
+    "en": "During the Nazi occupation of Warsaw he made ends meet by forming a piano duo with fellow composer Andrzej Panufnik, playing arrangements in cafés. After the war, under socialist-realist cultural policy, his strongly modernist First Symphony was condemned by the authorities as 'formalist', and for a time he publicly released more accessible, folk-based works while privately developing his own language.\nLater in his career he established a personal technique he called 'controlled aleatorism', giving performers a measure of freedom within a strictly governed overall structure."
+  },
+  "style": {
+    "ja": "「管理された偶然性」と呼ばれる独自の技法を確立した。個々の奏者には、指定された音型を厳密な拍にとらわれず自由なタイミングで演奏することを許す一方、曲全体の構造や音の材料、各部分の入りと終わりは作曲家が厳密に統制する。局所的には自然発生的で混沌として聞こえながら、全体としては高度に組織化されているという、即興とも完全な統制とも異なる独自の響きを生み出した。",
+    "en": "He established a personal technique called controlled aleatorism. Individual performers are given a notated figure to play with rhythmic freedom, not locked to a strict beat, while the composer tightly governs the work's overall structure, its pitch material, and where each section enters and exits. The result sounds spontaneous and chaotic in local detail while remaining highly organised at the larger scale — a sound distinct from either full improvisation or full determinism."
+  },
+  "impact": {
+    "ja": "「管理された偶然性」は、全面的な音列主義の厳格さと自由な即興の予測不可能性の中間を模索した20世紀後半の作曲家たちに、具体的で再現可能な解決策を示し、広く研究・模倣される技法になった。共産主義体制下の文化政策を、表向きは順応しながら独自の語法を私的に育てるという形で乗り切ったその歩みは、ショスタコーヴィチの事例と並んで、国家の統制下で芸術的な誠実さをどう保つかという議論に、ポーランドからの視点を加えている。",
+    "en": "Controlled aleatorism offered later twentieth-century composers searching for a middle path between the rigid determinism of total serialism and the unpredictability of free improvisation a concrete, replicable solution, and it became a widely studied and imitated technique. His way of navigating Communist-era cultural policy — outwardly conforming while privately cultivating an independent voice — is, alongside Shostakovich's case, frequently cited in discussions of how composers preserved artistic integrity under state control, adding a Polish perspective to that wider conversation."
+  },
+  "keywords": {
+    "ja": [
+      "管理された偶然性",
+      "統制下での独自の語法",
+      "局所的自由と全体構造の統制"
+    ],
+    "en": [
+      "Controlled aleatorism",
+      "An independent voice under state control",
+      "Local freedom, global control"
+    ]
+  }
+}
