@@ -1017,6 +1017,32 @@
       ]
     }
   },
+  "42": {
+    "biography": {
+      "ja": "アメリカ・ワフーに生まれ、ローマ賞を得てイタリアに留学した。帰国後はイーストマン音楽学校の校長を40年近くにわたって務め、多くのアメリカ人作曲家を育てた教育者としても知られる。同校在任中に作曲した交響曲でピュリッツァー賞を受賞している。",
+      "en": "Born in Wahoo, in the United States, he won the Prix de Rome and studied in Italy. Back home he served as director of the Eastman School of Music for nearly forty years, becoming known as an educator who trained many American composers. He won the Pulitzer Prize for Music for a symphony composed during his tenure there."
+    },
+    "style": {
+      "ja": "20世紀前半に台頭した無調や実験的な語法とは一線を画し、後期ロマン派の豊麗な和声と抒情的な旋律を守り続けた「新ロマン主義」の代表的な作曲家として活動した。北欧の作曲家、とりわけシベリウスからの影響を公言しており、雄大な管弦楽法と情感豊かな旋律線を特徴とする。",
+      "en": "He distanced himself from the atonal and experimental idioms rising in the early twentieth century, remaining committed to the rich harmony and lyrical melody of late Romanticism as a leading figure of \"neo-Romanticism.\" He openly acknowledged the influence of Nordic composers, especially Sibelius, and his style is marked by grand orchestration and emotionally rich melodic lines."
+    },
+    "impact": {
+      "ja": "イーストマン音楽学校の校長として、同時代のコープランドやシューマンが探求したアメリカ的な語法とはまた異なる、ヨーロッパの後期ロマン派を土台とする保守的な立場からアメリカの作曲教育を長年支えた。教育者としての功績は、個々の作品以上に、彼が育てた世代のアメリカ人作曲家たちを通じて音楽史に刻まれている。",
+      "en": "As director of the Eastman School of Music, he sustained American compositional education for many years from a conservative position rooted in late European Romanticism, distinct from the American idiom explored by his contemporaries Copland and Schuman. His legacy as an educator is recorded in music history more through the generation of American composers he trained than through his own individual works."
+    },
+    "keywords": {
+      "ja": [
+        "イーストマン音楽学校を40年率いた教育者",
+        "後期ロマン派を守った新ロマン主義",
+        "シベリウスからの公言された影響"
+      ],
+      "en": [
+        "Led the Eastman School for forty years",
+        "Neo-Romantic devoted to late Romanticism",
+        "Openly acknowledged influence of Sibelius"
+      ]
+    }
+  },
   "43": {
     "biography": {
       "ja": "グルジア人貴族の非嫡出子として生まれ、出生時にはその貴族に仕える農奴の息子として届け出られるという複雑な出自を持つ。化学の研究者・教授としても本格的なキャリアを築き、有機化学の分野で今日まで名を残す業績を残した音楽とは独立した科学者でもあった。\n作曲は余暇に行うのみで、自らを「日曜作曲家」と呼んでいた。代表作のオペラ「イーゴリ公」は未完のまま世を去り、リムスキー=コルサコフとグラズノフによって補筆・完成された。",
@@ -1144,6 +1170,32 @@
         "Programmatic use of scordatura",
         "Polyphonic violin writing",
         "A precursor to Bach's unaccompanied works"
+      ]
+    }
+  },
+  "48": {
+    "biography": {
+      "ja": "イングランド・アクリントンに生まれ、王立音楽アカデミーで学んだ。神話や儀式的な題材を扱う大規模なオペラを数多く手がけ、20世紀後半のイギリスを代表する前衛作曲家の一人となった。長年にわたり王立音楽アカデミーやキングス・カレッジ・ロンドンで教育活動にも携わった。",
+      "en": "Born in Accrington, England, he studied at the Royal Academy of Music. He composed numerous large-scale operas dealing with mythological and ritualistic subjects, becoming one of the leading avant-garde composers of later twentieth-century Britain. He also spent many years teaching at the Royal Academy of Music and King's College London."
+    },
+    "style": {
+      "ja": "複雑に絡み合う反復的なリズム構造と、儀式的な反復感を重視する語法を特徴とし、ギリシャ神話や中世の伝説といった原初的な物語を素材に選ぶことを好んだ。旋律よりも音響の塊としてのリズムとテクスチュアを重視し、劇的な緊張感を積み上げる構成力に長けていた。",
+      "en": "His style is marked by intricately interlocking, repetitive rhythmic structures and a language emphasizing a ritualistic sense of recurrence, and he favored primal subject matter drawn from Greek myth and medieval legend. He gave priority to rhythm and texture as blocks of sound over melody, excelling at building up dramatic tension through structure."
+    },
+    "impact": {
+      "ja": "ブリテンやティペットが確立した20世紀イギリス・オペラの伝統を、より前衛的で儀式的な方向へ大きく押し広げた作曲家として位置づけられる。神話的題材への一貫したこだわりは、イギリス現代音楽における物語性と抽象性の両立を追求する潮流を代表するものとして高く評価されている。",
+      "en": "He is positioned as a composer who pushed the tradition of twentieth-century British opera established by Britten and Tippett significantly further in a more avant-garde, ritualistic direction. His consistent devotion to mythological subject matter is highly regarded as representative of a current in British contemporary music that pursues both narrative and abstraction at once."
+    },
+    "keywords": {
+      "ja": [
+        "神話的題材を扱う大規模オペラ",
+        "反復的なリズムと儀式性",
+        "ブリテン以後のイギリス・オペラの前衛化"
+      ],
+      "en": [
+        "Large-scale operas on mythological subjects",
+        "Repetitive rhythm and ritual",
+        "Pushed British opera beyond Britten"
       ]
     }
   },
@@ -1809,6 +1861,32 @@
       ]
     }
   },
+  "78": {
+    "biography": {
+      "ja": "現在のドイツ・クロイツブルクに生まれ、ヴェネツィアでガブリエーリに師事したとされる。ヴォルフェンビュッテルの宮廷楽長を務める一方、当時の楽器や演奏習慣を体系的に記録した大部の音楽百科事典を著し、後世の音楽学にとって欠くことのできない一次資料を残した。",
+      "en": "Born in Creuzburg, in present-day Germany, he is said to have studied under Gabrieli in Venice. While serving as court chapel master in Wolfenbüttel, he also wrote a massive musical encyclopedia that systematically documented the instruments and performance practices of his day, leaving an indispensable primary source for later musicology."
+    },
+    "style": {
+      "ja": "ガブリエーリから学んだヴェネツィア風の複合唱様式をドイツの教会音楽に取り入れる一方、世俗的な舞曲の分野でも数百曲に及ぶ膨大な編曲集を残した。宗教音楽と世俗音楽の双方にまたがる幅広い活動を通じて、ドイツ・ルネサンスからバロックへの移行期の多様な音楽実践を網羅的に体現した。",
+      "en": "While bringing the Venetian polychoral style he learned from Gabrieli into German church music, he also left a vast collection of several hundred dance arrangements in the secular sphere. Through activity spanning both sacred and secular music, he comprehensively embodied the diverse musical practices of the transition from the German Renaissance into the Baroque."
+    },
+    "impact": {
+      "ja": "同門のシュッツと並び、イタリアの様式をドイツ語圏へ伝えた重要な橋渡し役の一人であったが、彼の場合はそれに加えて音楽理論・演奏習慣の記録者としての功績が特に大きい。その音楽百科事典は、当時の楽器編成や記譜法を知るための基本文献として、現在も古楽演奏の研究に広く用いられている。",
+      "en": "Alongside his fellow Gabrieli pupil Schütz, he was one of the important figures who carried the Italian style into the German-speaking world, but in his case his achievement as a documentarian of music theory and performance practice looms especially large. His musical encyclopedia remains, to this day, a fundamental reference for understanding period instrumentation and notation, widely used in early-music research."
+    },
+    "keywords": {
+      "ja": [
+        "ガブリエーリ門下でシュッツと並ぶ橋渡し役",
+        "膨大な世俗舞曲編曲集",
+        "後世必須の音楽百科事典"
+      ],
+      "en": [
+        "Fellow Gabrieli pupil alongside Schütz",
+        "Vast collection of secular dance arrangements",
+        "Essential musical encyclopedia for later scholars"
+      ]
+    }
+  },
   "79": {
     "biography": {
       "ja": "法務省の官吏として働いたのち、23歳で職を辞してペテルブルク音楽院に入学した。ロシア国民楽派の作曲家たちが民謡的な素材を前面に出したのに対し、彼は西欧の交響曲やバレエの様式を土台にしながら、その上に濃密な旋律を書いた。\nバレエ「白鳥の湖」「くるみ割り人形」「眠れる森の美女」の3作は、それまで舞踊の伴奏にすぎなかったバレエ音楽を、単独で聴くに堪える交響的な音楽に変えた。晩年の交響曲第6番「悲愴」は初演の9日後に彼が急死したこともあり、特別な位置を占め続けている。",
@@ -2069,6 +2147,32 @@
       ]
     }
   },
+  "91": {
+    "biography": {
+      "ja": "フランス・ルヴィエに生まれ、パリ音楽院でガロン兄弟に師事した。極度に自己批判的な性格で知られ、生涯を通じて発表した作品はごくわずかにとどまったが、その少ない作品の一つであるレクイエムは今日でも合唱曲の重要なレパートリーとして広く愛されている。",
+      "en": "Born in Louviers, France, he studied under the Gallon brothers at the Paris Conservatoire. Known for an extremely self-critical temperament, he published only a small number of works throughout his life, but one of them, a Requiem, remains widely beloved today as an important part of the choral repertoire."
+    },
+    "style": {
+      "ja": "グレゴリオ聖歌の旋律を土台に据えながら、フランス印象主義に通じる繊細な和声とオルガンの豊麗な響きを融合させた作風を特徴とする。代表作のレクイエムは、聖歌の旋律を現代的な和声で包み込むことで、伝統と革新を穏やかに調和させている。",
+      "en": "His style is marked by a fusion of delicate harmony akin to French impressionism and the rich sonority of the organ, built on a foundation of Gregorian chant melody. His best-known Requiem gently reconciles tradition and innovation by wrapping chant melody in modern harmony."
+    },
+    "impact": {
+      "ja": "自作を厳しく取捨選択して発表を控えたその姿勢は、同じく極端な自己批判で知られたデュカスの系譜に連なるものとして語られることがある。作品数の少なさにもかかわらず、代表的なレクイエムは20世紀のフランス合唱音楽を代表する傑作として国際的に高く評価され続けている。",
+      "en": "His stance of rigorously vetting and withholding his own works is sometimes discussed as extending the lineage of composers such as Dukas, likewise known for extreme self-criticism. Despite his small output, his best-known Requiem continues to be internationally celebrated as a masterpiece representing twentieth-century French choral music."
+    },
+    "keywords": {
+      "ja": [
+        "極端な自己批判による寡作",
+        "グレゴリオ聖歌を土台とするレクイエム",
+        "デュカスに連なる完璧主義の系譜"
+      ],
+      "en": [
+        "Small output from extreme self-criticism",
+        "Requiem built on Gregorian chant",
+        "Perfectionist lineage extending Dukas"
+      ]
+    }
+  },
   "92": {
     "biography": {
       "ja": "現在のドイツ・エラスバッハに生まれ、イタリアでサンマルティーニらに学んだ後、ウィーンとパリを中心に活動した。それまでのオペラが技巧的な歌唱を誇示する場になっていたことへの反省から、劇の筋書きに沿った自然な音楽表現を重視する「オペラ改革」を主導した作曲家として知られる。",
@@ -2118,6 +2222,32 @@
         "Primal rhythmic repetition",
         "Schulwerk music education method",
         "Complicated record under the Nazi regime"
+      ]
+    }
+  },
+  "94": {
+    "biography": {
+      "ja": "ダブリンに生まれ、チェロ奏者としてヨーロッパで活動した後にアメリカへ渡った。ニューヨークを拠点にオペレッタや初期のミュージカル劇の作曲家として一世を風靡し、作曲家の演奏権使用料を保護するための著作権管理団体ASCAPの設立にも中心的な役割を果たした。",
+      "en": "Born in Dublin, he worked as a cellist in Europe before emigrating to the United States. Based in New York, he became a leading figure in operetta and early musical theater, and he also played a central role in founding ASCAP, the performing-rights organization established to protect composers' royalties."
+    },
+    "style": {
+      "ja": "ヨーロッパのオペレッタ様式をアメリカの劇場文化に適応させ、親しみやすい旋律と軽快な管弦楽法を組み合わせた作風を確立した。チェロ奏者としての経験を生かした流麗な旋律線を得意とし、後のアメリカ・ミュージカルの発展に直接つながる語法を切り拓いた。",
+      "en": "He adapted the European operetta tradition to American theatrical culture, establishing a style that combined accessible melody with light orchestral writing. Drawing on his own experience as a cellist, he excelled at flowing melodic lines and opened up an idiom that led directly into the later development of the American musical."
+    },
+    "impact": {
+      "ja": "オッフェンバックが確立したヨーロッパのオペレッタの系譜を新大陸へ移植し、アメリカ独自の音楽劇の成立に道を開いた重要な先駆者と位置づけられる。ASCAPの設立を通じて作曲家の権利を制度的に守る仕組みを築いた功績は、音楽創作そのものと並んで、アメリカ音楽産業の基盤形成における重要な貢献として記憶されている。",
+      "en": "He stands as an important pioneer who transplanted the European operetta lineage established by Offenbach to the New World, opening the way for a distinctly American form of musical theater. His achievement in founding ASCAP, building an institutional system to protect composers' rights, is remembered as a major contribution to the foundations of the American music industry, alongside his creative work itself."
+    },
+    "keywords": {
+      "ja": [
+        "アメリカにオペレッタを移植した先駆者",
+        "ASCAP設立の中心人物",
+        "アメリカ・ミュージカル発展への道筋"
+      ],
+      "en": [
+        "Pioneer who brought operetta to America",
+        "Central founder of ASCAP",
+        "Path toward the American musical"
       ]
     }
   },
@@ -2225,6 +2355,32 @@
       ]
     }
   },
+  "99": {
+    "biography": {
+      "ja": "オーストラリア・メルボルンに生まれ、ヨーロッパでピアニストとして活動した後にアメリカへ移住した。蓄音機を用いてイギリス各地の民謡歌手の歌唱を録音するという当時としては先進的な手法で民謡収集を行い、その成果を自作に取り入れた。私生活や思想面での風変わりな逸話でも知られる。",
+      "en": "Born in Melbourne, Australia, he worked as a pianist in Europe before settling in the United States. He collected folk songs using the then-advanced method of recording folk singers across England with a phonograph, incorporating his findings directly into his own compositions. He is also known for various eccentric episodes in his personal life and thinking."
+    },
+    "style": {
+      "ja": "録音によって収集した民謡の微妙な節回しを忠実に再現しようとする姿勢から、独自の自由なリズム表記や和声処理を編み出した。晩年には演奏者があらかじめ固定された音高やリズムに縛られない「自由音楽」の構想を追求し、電子的な音響生成の可能性にまで踏み込む先進的な発想を示した。",
+      "en": "His effort to faithfully reproduce the subtle inflections of folk melody captured on recordings led him to devise unusually free notations for rhythm and harmony. In his later years he pursued the concept of \"free music,\" in which performers would not be bound to fixed pitches or rhythms, showing a forward-looking imagination that reached toward the possibilities of electronic sound generation."
+    },
+    "impact": {
+      "ja": "蓄音機を用いた実地録音による民謡収集は、同時代にイギリス民謡を蒐集したヴォーン・ウィリアムズらの活動と並ぶ先駆的な民族音楽学の実践として評価されている。同時にグリーグの晩年の親しい友人としても知られ、グリーグのピアノ協奏曲の名演奏者として同曲の普及に大きく貢献した。",
+      "en": "His use of phonograph recordings for on-the-spot folk-song collection is regarded as a pioneering practice in ethnomusicology, alongside the contemporaneous work of collectors such as Vaughan Williams gathering English folk song. He was also known as a close friend of Grieg in his later years and, as a celebrated performer of Grieg's piano concerto, contributed significantly to its popularization."
+    },
+    "keywords": {
+      "ja": [
+        "蓄音機による先駆的な民謡採集",
+        "自由音楽という電子音楽的な構想",
+        "グリーグと親交を結んだ名手"
+      ],
+      "en": [
+        "Pioneering phonograph folk-song collection",
+        "\"Free music\" anticipating electronic sound",
+        "Close friend and champion of Grieg"
+      ]
+    }
+  },
   "100": {
     "biography": {
       "ja": "タングルウッド音楽祭でコプランドに、その後もアメリカで複数の教師のもとで学び、セリー主義や新古典主義など当時の幅広い国際的な技法を吸収した。\n初期はモダニズム的・音列主義的な作風だったが、1970年代以降は次第に、より親しみやすく神秘的な色彩を帯びた、豊かなロマン派的後期様式へと転じている。エサ=ペッカ・サロネンやマグヌス・リンドベリをはじめ、後続世代のフィンランドの重要な作曲家たちを数多く育てた。",
@@ -2274,6 +2430,32 @@
         "Pioneering work at the Cologne electronic studio",
         "Space treated as a compositional element",
         "Influence crossing into rock and pop"
+      ]
+    }
+  },
+  "102": {
+    "biography": {
+      "ja": "ロンドンに生まれ、リュート奏者・歌手として若くから才能を認められた。イングランド女王の宮廷音楽家の地位を望んだが得られず、大陸各地の宮廷を渡り歩いた末にデンマーク王の宮廷リュート奏者として長年仕えた。念願だったイングランド宮廷への出仕は晩年になってようやく実現した。",
+      "en": "Born in London, he was recognized as a talented lutenist and singer from a young age. He sought but failed to obtain a position as court musician to the Queen of England, and after traveling among various courts on the Continent he served for many years as court lutenist to the King of Denmark. His long-desired appointment to the English court was finally realized only in his later years."
+    },
+    "style": {
+      "ja": "リュート伴奏歌曲の分野で、憂愁に満ちた深い感情表現を追求した作風を確立し、自らの名にちなんで「常にダウランド、常に嘆く」という標語を作品に記すほど、悲しみの表現を自らの様式の核に据えた。半音階的な和声の陰影を巧みに用い、歌詞の哀感を音楽に直結させる書法に長けていた。",
+      "en": "In the field of lute-accompanied song he established a style pursuing deep, melancholic emotional expression, going so far as to inscribe works with a motto punning on his own name, \"always Dowland, always mourning,\" placing the expression of sorrow at the very core of his style. He skillfully used shadings of chromatic harmony, adept at translating a text's pathos directly into music."
+    },
+    "impact": {
+      "ja": "リュート歌曲というジャンルにおいて、イギリス・ルネサンス音楽の中でも屈指の感情表現の深さを示した作曲家として、後世に高く評価されている。宮廷での不遇な境遇と、それを反映するかのような憂愁に満ちた作風は、芸術家の個人的な苦悩が創作にどう結びつくかを示す事例としてもしばしば語られる。",
+      "en": "In the genre of the lute song, he is highly regarded by later generations as a composer who achieved a depth of emotional expression unmatched within English Renaissance music. His difficult circumstances at court and the melancholic style that seems to mirror them are also often discussed as an example of how an artist's personal suffering can shape creative work."
+    },
+    "keywords": {
+      "ja": [
+        "常にダウランド、常に嘆くという標語",
+        "リュート歌曲における憂愁の表現",
+        "宮廷での不遇と作風の関係"
+      ],
+      "en": [
+        "Motto \"always Dowland, always mourning\"",
+        "Melancholic depth in the lute song",
+        "Court hardship reflected in his style"
       ]
     }
   },
@@ -2378,6 +2560,32 @@
         "The deliberate Jewish Cycle project",
         "Cantorial-influenced vocal writing",
         "Founding American music institutions"
+      ]
+    }
+  },
+  "107": {
+    "biography": {
+      "ja": "アメリカ・リッチモンドに生まれた作曲家で、大学で長年教鞭を執る傍ら、率直な内容で知られる日記の出版によっても広く名を知られた。ピュリッツァー賞を受賞するなど作曲家としての評価も高く、特に歌曲の分野で高い評価を確立している。",
+      "en": "An American composer born in Richmond, he was also widely known, alongside decades of university teaching, for publishing candidly written diaries. Highly regarded as a composer, winning the Pulitzer Prize for Music among other honors, he established a particularly strong reputation in the field of art song."
+    },
+    "style": {
+      "ja": "無調や実験的な語法が主流となった時代にあっても、親しみやすい調性的な旋律美を保ち続け、詩の言葉の抑揚を丁寧に音楽へ映し出す繊細な歌曲書法を特徴とする。フランス歌曲の伝統への深い理解を土台に、簡潔ながら詩情豊かな旋律を紡ぎ出した。",
+      "en": "Even as atonal and experimental idioms became mainstream, he maintained an accessible, tonal melodic beauty and a delicate song-writing technique that carefully reflected the inflection of poetic text. Grounded in a deep understanding of the French mélodie tradition, he spun melodies that were concise yet richly poetic."
+    },
+    "impact": {
+      "ja": "同時代のバーバーと並び、調性を保ちながら精緻な歌曲を追求する保守的な潮流を代表する存在として位置づけられ、しばしば「アメリカで最も優れた歌曲作曲家」と称される。率直な日記の出版は、作曲家自身の私生活や創作の内幕を公にする稀有な試みとして、音楽界の外でも大きな話題を呼んだ。",
+      "en": "Alongside his contemporary Barber, he is positioned as a leading figure in a conservative current pursuing refined song while maintaining tonality, and is often called \"America's finest composer of art songs.\" His candid published diaries, a rare attempt to make a composer's own private life and creative process public, drew considerable attention beyond the musical world as well."
+    },
+    "keywords": {
+      "ja": [
+        "アメリカ最高の歌曲作曲家との評価",
+        "率直な日記の出版で知られる",
+        "調性を保った保守的な現代音楽"
+      ],
+      "en": [
+        "Called America's finest song composer",
+        "Known for candid published diaries",
+        "Conservative, tonal contemporary music"
       ]
     }
   },
@@ -2560,6 +2768,32 @@
         "First American composer with international acclaim",
         "Piano miniatures depicting American nature",
         "Artists' retreat founded with his wife"
+      ]
+    }
+  },
+  "115": {
+    "biography": {
+      "ja": "ニュルンベルクに生まれ、シュヴェンマーやヴェッカーに師事した。数多くの都市でオルガニストを務めながら教育活動にも力を注ぎ、門下にはヨハン・クリストフ・バッハがいる。この門人はヨハン・ゼバスティアン・バッハの兄であり、少年時代のバッハを引き取って音楽の手ほどきをした人物として知られている。",
+      "en": "Born in Nuremberg, he studied under Schwemmer and Wecker. He served as organist in numerous cities while also devoting himself to teaching, and his pupils included Johann Christoph Bach, the elder brother of Johann Sebastian Bach, who took the young Bach in and gave him his first musical instruction."
+    },
+    "style": {
+      "ja": "オルガンのためのコラール前奏曲やフーガを数多く残し、明快で均整の取れた対位法を特徴とする南ドイツのオルガン楽派を代表する存在となった。今日最も広く知られる作品は弦楽合奏のための小品で、単純な低音主題の反復の上に旋律的な変奏を積み重ねる書法によって、後世に絶大な人気を得ることになった。",
+      "en": "He left numerous chorale preludes and fugues for organ, becoming a leading representative of the South German organ school, marked by clear, well-balanced counterpoint. His most widely known work today is a short piece for string ensemble, and its technique of layering melodic variation over a simple, repeating bass theme would go on to win it enormous popularity in later centuries."
+    },
+    "impact": {
+      "ja": "バッハの兄を教えたという事実により、南ドイツのオルガン楽派の技法が北ドイツのバッハ一族へと間接的に受け継がれる橋渡し役となった。今日最も有名な弦楽合奏曲は、作曲当時はさほど注目されず長らく忘れられていたが、20世紀後半に再発見されて以来、結婚式などで広く演奏される定番曲として世界的な人気を博している。",
+      "en": "Through having taught Bach's elder brother, he served as a bridge indirectly carrying the technique of the South German organ school into the Bach family of the north. His most famous string piece today attracted little attention in its own time and was long forgotten, but since its rediscovery in the later twentieth century it has become a worldwide favorite frequently performed at weddings and similar occasions."
+    },
+    "keywords": {
+      "ja": [
+        "バッハの兄を教えた師",
+        "南ドイツ・オルガン楽派の代表",
+        "20世紀に再発見された人気曲"
+      ],
+      "en": [
+        "Taught Bach's elder brother",
+        "Leading figure of the South German organ school",
+        "Popular piece rediscovered in the 20th century"
       ]
     }
   },
@@ -3277,6 +3511,32 @@
       ]
     }
   },
+  "143": {
+    "biography": {
+      "ja": "イタリア・レニャーゴに生まれ、ウィーンの宮廷楽長として長年ハプスブルク家に仕えた。教育者としても極めて優れ、門下からはベートーヴェン、シューベルト、リストといった後世を代表する作曲家たちが育った。モーツァルトを毒殺したという俗説は後世の創作に由来する誤伝であり、歴史的事実としては裏付けられていない。",
+      "en": "Born in Legnago, Italy, he served the Habsburgs for many years as court chapel master in Vienna. He was also an exceptional teacher, and his pupils included Beethoven, Schubert, and Liszt, composers who would go on to represent later generations. The popular legend that he poisoned Mozart originated in later fiction and is not supported by historical evidence."
+    },
+    "style": {
+      "ja": "イタリア・オペラの伝統に根差した明快な旋律と劇的な構成力を特徴とし、ウィーン宮廷の公式行事のための音楽を数多く手がけた。同時代の潮流に敏感で、フランス風のグルック改革の理念にも影響を受けながら、劇の展開に沿った音楽表現を追求した。",
+      "en": "His style, rooted in the Italian operatic tradition, is marked by clear melody and dramatic construction, and he composed extensively for official ceremonies of the Viennese court. Sensitive to the currents of his time, he was also influenced by the ideals of Gluck's French-inflected reform, pursuing musical expression that followed the unfolding of the drama."
+    },
+    "impact": {
+      "ja": "宮廷楽長としての実務能力と教育者としての手腕は当代随一であり、ベートーヴェン、シューベルト、リストという三者三様の後継世代を育てた事実は、彼が個々の様式を押し付けるのではなく弟子の個性を伸ばす教師であったことを物語っている。俗説によるイメージが独り歩きしがちだが、実際の音楽史的な功績は教育者としての側面において特に大きい。",
+      "en": "His practical skill as court chapel master and his ability as a teacher were among the finest of his age, and the fact that he trained three such different successors, Beethoven, Schubert, and Liszt, testifies to a teacher who nurtured each pupil's individuality rather than imposing a single style. Though the popular legend often overshadows the reality, his actual historical contribution looms especially large on the educational side."
+    },
+    "keywords": {
+      "ja": [
+        "モーツァルト毒殺説という後世の誤伝",
+        "ベートーヴェン・シューベルト・リストを育てた師",
+        "ウィーン宮廷楽長としての長い治世"
+      ],
+      "en": [
+        "Later legend of poisoning Mozart, unfounded",
+        "Teacher of Beethoven, Schubert, and Liszt",
+        "Long tenure as Vienna's court chapel master"
+      ]
+    }
+  },
   "144": {
     "biography": {
       "ja": "父は長年にわたってニューヨーク・フィルの首席奏者を務めたヴァイオリニストで、幼少期からオーケストラの現場を身近に見て育った。\nピュリッツァー賞とアカデミー賞(映画音楽)の双方を受賞した数少ない作曲家の一人であり、演奏会音楽と映画音楽の両方にまたがるキャリアを築いている。交響曲第1番は、エイズの流行で友人たちを失った経験に部分的に応える形で書かれた、社会的な関心を強く反映する重要な作品である。",
@@ -3597,6 +3857,32 @@
       ]
     }
   },
+  "157": {
+    "biography": {
+      "ja": "フランス・ランスに生まれ、聖職者として各地の宮廷に仕える傍ら、詩人・作曲家として活動した。14世紀フランスの音楽と文学の様式「アルス・ノヴァ」を代表する人物であり、単独の作曲家によるミサ曲全曲としては現存最古級とされる作品を残したことで知られる。",
+      "en": "Born in Reims, France, he served as a cleric at various courts while also working as a poet and composer. He stands as a leading figure of \"ars nova,\" the fourteenth-century French style of music and literature, and is known for leaving what is considered one of the earliest surviving complete mass settings attributable to a single composer."
+    },
+    "style": {
+      "ja": "複雑な計量記譜法を駆使したリズムの技巧と、宮廷風の恋愛詩を題材とする洗練された世俗歌曲の両面で活躍した。ミサ曲では荘厳な多声書法を、世俗歌曲では言葉遊びやリズムの精妙さを追求するなど、宗教的な題材と世俗的な題材で全く異なる書法を自在に使い分けた。",
+      "en": "He was active on two fronts: rhythmic technique that made sophisticated use of complex mensural notation, and refined secular songs on courtly love poetry. In his mass setting he pursued a solemn polyphonic style, while in secular song he pursued wordplay and rhythmic subtlety, freely deploying entirely different techniques for sacred and secular subject matter."
+    },
+    "impact": {
+      "ja": "詩人と作曲家という二重の才能を兼ね備えた稀有な存在として、中世音楽と文学の双方において最も重要な人物の一人に数えられる。彼が確立した単独作曲家によるミサ曲全曲という枠組みは、後のデュファイら次世代の作曲家たちに直接的な模範を提供し、ルネサンス多声音楽への橋渡しとなった。",
+      "en": "As a rare figure possessing the dual talents of poet and composer, he is counted among the most important figures in both medieval music and literature. The framework he established, a complete mass setting by a single composer, provided a direct model for the next generation, including Dufay, and served as a bridge toward Renaissance polyphony."
+    },
+    "keywords": {
+      "ja": [
+        "現存最古級の単独作曲家によるミサ曲",
+        "詩人と作曲家を兼ねた稀有な才能",
+        "アルス・ノヴァを代表する存在"
+      ],
+      "en": [
+        "Among the earliest single-composer mass settings",
+        "Rare dual talent as poet and composer",
+        "Leading figure of ars nova"
+      ]
+    }
+  },
   "158": {
     "biography": {
       "ja": "作曲家としての活動の一方、若い頃には妻でピアニストのメーテ・グラーフとともにルーマニアへ渡り、現地の民俗音楽を実地で調査した。この経験は、彼が「変容」と名づけた独自の作曲理論——一つの主題が楽曲を通じてゆっくりと姿を変えていくという考え方——の土台になっている。\n国際的な演奏活動よりもデンマーク国内での活動を中心とし、13曲の交響曲と20曲の弦楽四重奏曲を含む膨大な作品を生涯にわたって書き続けた。",
@@ -3828,6 +4114,32 @@
         "Pioneer of the conductor's baton",
         "Inventor of the violin chin rest",
         "Contemporary of German Romantic opera"
+      ]
+    }
+  },
+  "167": {
+    "biography": {
+      "ja": "現在のスロヴェニア、ピランに生まれ、独学に近い形でヴァイオリンの技術を磨いた後、パドヴァにヴァイオリンの学校を設立して多くの弟子を育てた。代表的なヴァイオリン・ソナタは、夢の中で悪魔が超絶技巧の演奏を披露するのを見て作曲したという逸話で広く知られている。",
+      "en": "Born in Piran, in present-day Slovenia, he honed his violin technique in a largely self-taught manner before founding a violin school in Padua where he trained many pupils. His best-known violin sonata is widely known through the legend that he composed it after dreaming that the devil performed a piece of astonishing virtuosity."
+    },
+    "style": {
+      "ja": "ヴァイオリンの演奏技巧を極限まで追求した超絶技巧的な作風を特徴とし、重音奏法や急速なパッセージを駆使した。演奏家としての研究から、二つの音を同時に鳴らした際に生じる第三の低い音、いわゆる「差音」の存在に気づき、その音響現象を和声理論にも応用しようと試みた。",
+      "en": "His style pursued violin technique to its virtuosic limits, making full use of double stops and rapid passagework. Through his research as a performer he noticed the phenomenon whereby a third, lower tone arises when two notes are sounded together, so-called \"difference tones,\" and he attempted to apply this acoustic discovery to harmonic theory as well."
+    },
+    "impact": {
+      "ja": "パドヴァに設立した学校は「諸国民のヴァイオリン学校」と称されるほど国際的な評判を集め、各国から集まった弟子を通じてイタリア・ヴァイオリン奏法をヨーロッパ全土に広める拠点となった。悪魔の夢という逸話とともに、超絶技巧のヴァイオリン曲の代名詞的存在として今日でも広く親しまれている。",
+      "en": "The school he founded in Padua earned such international renown that it came to be called the \"school of nations for the violin,\" and through pupils who gathered there from many countries it became a hub for spreading Italian violin technique across Europe. Along with the legend of the devil's dream, his best-known sonata remains widely beloved today as a byword for virtuosic violin music."
+    },
+    "keywords": {
+      "ja": [
+        "悪魔が現れた夢に基づく逸話",
+        "差音の発見と和声理論への応用",
+        "諸国民のヴァイオリン学校"
+      ],
+      "en": [
+        "Legend of a dream featuring the devil",
+        "Discovery of difference tones",
+        "The \"school of nations\" for the violin"
       ]
     }
   },
