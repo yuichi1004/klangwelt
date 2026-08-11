@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "パリの音楽一家に生まれ、一族の伝統に従ってオルガニストの道を歩んだ。フランス王室に仕える宮廷音楽家として活動し、「クープラン大」と呼ばれてその家系の中でも別格の存在として扱われた。鍵盤楽器の演奏技法に関する著作も残しており、後年バッハがその教則本を研究したことでも知られる。",
+    "en": "Born into a musical family in Paris, he followed the family tradition into a career as an organist. He served as a court musician to the French royal household and, known as \"Couperin le Grand,\" was treated as a figure apart even within a family of musicians. He also wrote a treatise on keyboard technique, known for having been later studied by Bach himself."
+  },
+  "style": {
+    "ja": "優雅で装飾的な旋律線と、性格的な題名を持つ短い舞曲風の小品を数多く残し、フランス・クラヴサン楽派の様式美を頂点にまで高めた。イタリア的な様式とフランス的な様式の融合を試みた作品も手がけ、両者の美点を統合しようとする意識的な姿勢を示している。",
+    "en": "He left many short, dance-like pieces with elegant, ornamented melodic lines and characterful titles, bringing the stylistic beauty of the French harpsichord school to its peak. He also attempted works that fused Italian and French styles, showing a conscious desire to synthesize the merits of both traditions."
+  },
+  "impact": {
+    "ja": "その鍵盤演奏技法に関する著作は、装飾音の解釈をめぐる貴重な一次資料として今日も研究者に参照され続けている。同時代のラモーと並んでフランス・バロック鍵盤音楽の頂点を代表する存在であり、その洗練された装飾様式はバッハをはじめとするドイツの作曲家たちにも直接的な影響を及ぼした。",
+    "en": "His treatise on keyboard technique remains, to this day, a valuable primary source referenced by scholars for interpreting ornamentation. Alongside his contemporary Rameau he stands as a representative peak of French Baroque keyboard music, and his refined style of ornamentation exerted a direct influence on German composers, including Bach."
+  },
+  "keywords": {
+    "ja": [
+      "クープラン大と呼ばれた名家の頂点",
+      "バッハが研究した鍵盤教則本",
+      "フランス・クラヴサン楽派の様式美"
+    ],
+    "en": [
+      "\"Couperin le Grand\" of a musical dynasty",
+      "Keyboard treatise studied by Bach",
+      "Peak of the French harpsichord school"
+    ]
+  }
+}

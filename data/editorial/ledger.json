@@ -377,7 +377,7 @@
   "76": {
     "name": "Enrique Granados",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "77": {
     "name": "Gustav Mahler",
@@ -457,7 +457,7 @@
   "92": {
     "name": "Christoph Willibald von Gluck",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "93": {
     "name": "Carl Orff",
@@ -512,7 +512,7 @@
   "103": {
     "name": "Arnold Bax",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "104": {
     "name": "Erik Satie",
@@ -537,7 +537,7 @@
   "108": {
     "name": "George Antheil",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "109": {
     "name": "Johann Christian Bach",
@@ -562,12 +562,12 @@
   "113": {
     "name": "Giovanni Battista Pergolesi",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "114": {
     "name": "Edward MacDowell",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "115": {
     "name": "Johann Pachelbel",
@@ -582,7 +582,7 @@
   "117": {
     "name": "Johannes Ockeghem",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "118": {
     "name": "Nikolai Rimsky-Korsakov",
@@ -597,7 +597,7 @@
   "120": {
     "name": "Luigi Cherubini",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "121": {
     "name": "Darius Milhaud",
@@ -627,7 +627,7 @@
   "126": {
     "name": "Thomas Tallis",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "127": {
     "name": "Vincent d'Indy",
@@ -637,7 +637,7 @@
   "128": {
     "name": "François Couperin",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "129": {
     "name": "Robert Schumann",
@@ -667,7 +667,7 @@
   "134": {
     "name": "Jacques Offenbach",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "135": {
     "name": "Leonard Bernstein",
@@ -772,7 +772,7 @@
   "155": {
     "name": "Hans Werner Henze",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "156": {
     "name": "Mikhail Ivanovich Glinka",
