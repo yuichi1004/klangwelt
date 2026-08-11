@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "現在のスロヴェニア、ピランに生まれ、独学に近い形でヴァイオリンの技術を磨いた後、パドヴァにヴァイオリンの学校を設立して多くの弟子を育てた。代表的なヴァイオリン・ソナタは、夢の中で悪魔が超絶技巧の演奏を披露するのを見て作曲したという逸話で広く知られている。",
+    "en": "Born in Piran, in present-day Slovenia, he honed his violin technique in a largely self-taught manner before founding a violin school in Padua where he trained many pupils. His best-known violin sonata is widely known through the legend that he composed it after dreaming that the devil performed a piece of astonishing virtuosity."
+  },
+  "style": {
+    "ja": "ヴァイオリンの演奏技巧を極限まで追求した超絶技巧的な作風を特徴とし、重音奏法や急速なパッセージを駆使した。演奏家としての研究から、二つの音を同時に鳴らした際に生じる第三の低い音、いわゆる「差音」の存在に気づき、その音響現象を和声理論にも応用しようと試みた。",
+    "en": "His style pursued violin technique to its virtuosic limits, making full use of double stops and rapid passagework. Through his research as a performer he noticed the phenomenon whereby a third, lower tone arises when two notes are sounded together, so-called \"difference tones,\" and he attempted to apply this acoustic discovery to harmonic theory as well."
+  },
+  "impact": {
+    "ja": "パドヴァに設立した学校は「諸国民のヴァイオリン学校」と称されるほど国際的な評判を集め、各国から集まった弟子を通じてイタリア・ヴァイオリン奏法をヨーロッパ全土に広める拠点となった。悪魔の夢という逸話とともに、超絶技巧のヴァイオリン曲の代名詞的存在として今日でも広く親しまれている。",
+    "en": "The school he founded in Padua earned such international renown that it came to be called the \"school of nations for the violin,\" and through pupils who gathered there from many countries it became a hub for spreading Italian violin technique across Europe. Along with the legend of the devil's dream, his best-known sonata remains widely beloved today as a byword for virtuosic violin music."
+  },
+  "keywords": {
+    "ja": [
+      "悪魔が現れた夢に基づく逸話",
+      "差音の発見と和声理論への応用",
+      "諸国民のヴァイオリン学校"
+    ],
+    "en": [
+      "Legend of a dream featuring the devil",
+      "Discovery of difference tones",
+      "The \"school of nations\" for the violin"
+    ]
+  }
+}

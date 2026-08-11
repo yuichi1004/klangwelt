@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "フランス・ランスに生まれ、聖職者として各地の宮廷に仕える傍ら、詩人・作曲家として活動した。14世紀フランスの音楽と文学の様式「アルス・ノヴァ」を代表する人物であり、単独の作曲家によるミサ曲全曲としては現存最古級とされる作品を残したことで知られる。",
+    "en": "Born in Reims, France, he served as a cleric at various courts while also working as a poet and composer. He stands as a leading figure of \"ars nova,\" the fourteenth-century French style of music and literature, and is known for leaving what is considered one of the earliest surviving complete mass settings attributable to a single composer."
+  },
+  "style": {
+    "ja": "複雑な計量記譜法を駆使したリズムの技巧と、宮廷風の恋愛詩を題材とする洗練された世俗歌曲の両面で活躍した。ミサ曲では荘厳な多声書法を、世俗歌曲では言葉遊びやリズムの精妙さを追求するなど、宗教的な題材と世俗的な題材で全く異なる書法を自在に使い分けた。",
+    "en": "He was active on two fronts: rhythmic technique that made sophisticated use of complex mensural notation, and refined secular songs on courtly love poetry. In his mass setting he pursued a solemn polyphonic style, while in secular song he pursued wordplay and rhythmic subtlety, freely deploying entirely different techniques for sacred and secular subject matter."
+  },
+  "impact": {
+    "ja": "詩人と作曲家という二重の才能を兼ね備えた稀有な存在として、中世音楽と文学の双方において最も重要な人物の一人に数えられる。彼が確立した単独作曲家によるミサ曲全曲という枠組みは、後のデュファイら次世代の作曲家たちに直接的な模範を提供し、ルネサンス多声音楽への橋渡しとなった。",
+    "en": "As a rare figure possessing the dual talents of poet and composer, he is counted among the most important figures in both medieval music and literature. The framework he established, a complete mass setting by a single composer, provided a direct model for the next generation, including Dufay, and served as a bridge toward Renaissance polyphony."
+  },
+  "keywords": {
+    "ja": [
+      "現存最古級の単独作曲家によるミサ曲",
+      "詩人と作曲家を兼ねた稀有な才能",
+      "アルス・ノヴァを代表する存在"
+    ],
+    "en": [
+      "Among the earliest single-composer mass settings",
+      "Rare dual talent as poet and composer",
+      "Leading figure of ars nova"
+    ]
+  }
+}

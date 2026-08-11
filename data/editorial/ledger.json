@@ -207,7 +207,7 @@
   "42": {
     "name": "Howard Hanson",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "43": {
     "name": "Alexander Borodin",
@@ -237,7 +237,7 @@
   "48": {
     "name": "Harrison Birtwistle",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "49": {
     "name": "Karol Szymanowski",
@@ -387,7 +387,7 @@
   "78": {
     "name": "Michael Praetorius",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "79": {
     "name": "Pyotr Ilyich Tchaikovsky",
@@ -452,7 +452,7 @@
   "91": {
     "name": "Maurice Duruflé",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "92": {
     "name": "Christoph Willibald von Gluck",
@@ -467,7 +467,7 @@
   "94": {
     "name": "Victor Herbert",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "95": {
     "name": "Philip Glass",
@@ -492,7 +492,7 @@
   "99": {
     "name": "Percy Grainger",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "100": {
     "name": "Einojuhani Rautavaara",
@@ -507,7 +507,7 @@
   "102": {
     "name": "John Dowland",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "103": {
     "name": "Arnold Bax",
@@ -532,7 +532,7 @@
   "107": {
     "name": "Ned Rorem",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "108": {
     "name": "George Antheil",
@@ -572,7 +572,7 @@
   "115": {
     "name": "Johann Pachelbel",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "116": {
     "name": "Paul Dukas",
@@ -712,7 +712,7 @@
   "143": {
     "name": "Antonio Salieri",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "144": {
     "name": "John Corigliano",
@@ -782,7 +782,7 @@
   "157": {
     "name": "Guillaume de Machaut",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "158": {
     "name": "Vagn Holmboe",
@@ -832,7 +832,7 @@
   "167": {
     "name": "Giuseppe Tartini",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "168": {
     "name": "Carl Maria von Weber",
