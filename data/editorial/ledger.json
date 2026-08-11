@@ -2,7 +2,7 @@
   "1": {
     "name": "Karl Goldmark",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "2": {
     "name": "Anton Bruckner",
@@ -102,7 +102,7 @@
   "21": {
     "name": "Mily Balakirev",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "22": {
     "name": "Edgard Varèse",
@@ -132,7 +132,7 @@
   "27": {
     "name": "Tomaso Albinoni",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "28": {
     "name": "Jacob Obrecht",
@@ -152,7 +152,7 @@
   "31": {
     "name": "George Crumb",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "32": {
     "name": "Alberto Ginastera",
@@ -287,7 +287,7 @@
   "58": {
     "name": "Girolamo Frescobaldi",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "59": {
     "name": "Edouard Lalo",
@@ -342,7 +342,7 @@
   "69": {
     "name": "Pietro Mascagni",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "70": {
     "name": "Morton Gould",
@@ -817,7 +817,7 @@
   "164": {
     "name": "Ernest Moeran",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "165": {
     "name": "Johann Strauss Jr",
@@ -887,7 +887,7 @@
   "178": {
     "name": "Jean-Philippe Rameau",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "179": {
     "name": "Alexander Glazunov",
@@ -917,7 +917,7 @@
   "184": {
     "name": "Max Bruch",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "185": {
     "name": "Sergei Prokofiev",
@@ -1067,17 +1067,17 @@
   "214": {
     "name": "Giovanni Pierluigi da Palestrina",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "215": {
     "name": "Joaquín Rodrigo",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "216": {
     "name": "Isaac Albéniz",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "217": {
     "name": "Charles Ives",

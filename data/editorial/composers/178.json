@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ディジョンに生まれ、若い頃から教会オルガニストとして各地を転々とした。50歳近くになるまでオペラの作曲には手を染めず、それ以前は鍵盤音楽の作曲家、そして何より和声理論の著述家として名を知られていた。その理論書は機能和声の考え方を体系的に整理した画期的な著作として、後の音楽理論全体の土台となった。",
+    "en": "Born in Dijon, he worked in his younger years as a church organist in various towns. He did not turn to opera composition until he was nearly fifty; before that he was known primarily as a composer of keyboard music and, above all, as the author of a treatise on harmony. That treatise systematically laid out the principles of functional harmony and became a foundational text for later music theory as a whole."
+  },
+  "style": {
+    "ja": "みずから理論化した機能和声の考え方を実作にも一貫して反映させ、劇的な場面転換や自然描写を大胆な和声とオーケストレーションで描く語法を確立した。舞踊的な要素を重視する壮麗な悲劇的抒情劇(トラジェディ・リリック)を数多く手がけ、フランス・オペラの伝統をリュリの世代から大きく発展させた。",
+    "en": "He consistently reflected the functional-harmony principles he had himself theorized in his actual compositions, establishing a language that used bold harmony and orchestration to depict dramatic scene changes and nature. He wrote numerous grand tragédies lyriques emphasizing dance, significantly advancing the French operatic tradition beyond the generation of Lully."
+  },
+  "impact": {
+    "ja": "和声理論の著作は、後の西洋音楽理論全体が調性を説明する枠組みの出発点となり、今日の音楽教育で教えられる和声学の基礎の多くが彼の考えに由来する。オペラ作曲家としても、モンテヴェルディ以来の劇音楽の系譜を受け継ぎながらフランス独自の様式を確立し、フランス・バロック音楽の頂点を代表する存在となった。",
+    "en": "His treatise on harmony became the starting point for the framework Western music theory has used to explain tonality ever since, and much of the harmony taught in music education today traces back to his ideas. As an opera composer he inherited the lineage of dramatic music going back to Monteverdi while establishing a distinctly French style, standing as a representative peak of French Baroque music."
+  },
+  "keywords": {
+    "ja": [
+      "機能和声理論の確立",
+      "50歳近くまで待ったオペラ作曲",
+      "フランス・バロック・オペラの頂点"
+    ],
+    "en": [
+      "Founder of functional harmony theory",
+      "Turned to opera only near age fifty",
+      "Pinnacle of French Baroque opera"
+    ]
+  }
+}
