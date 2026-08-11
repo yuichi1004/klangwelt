@@ -5,6 +5,7 @@ import {
   COMPOSER_BONUS,
   CURATED_BASE,
   MAX_BONUS,
+  compareByStandard,
   workScore,
   workStars,
   type CuratedStars,
@@ -194,5 +195,51 @@ describe("bonus tables", () => {
     expect(both).toBeGreaterThan(onlyPopular);
     expect(onlyPopular).toBeGreaterThan(onlyRecommended);
     expect(onlyRecommended).toBeGreaterThan(neither);
+  });
+});
+
+describe("compareByStandard", () => {
+  const row = (score: number, title: string, id = "1") => ({ score, title, id });
+
+  it("puts the higher score first regardless of title", () => {
+    expect(compareByStandard(row(900, "Zzz"), row(100, "Aaa"))).toBeLessThan(0);
+    expect(compareByStandard(row(100, "Aaa"), row(900, "Zzz"))).toBeGreaterThan(0);
+  });
+
+  it("breaks ties on the English title", () => {
+    expect(compareByStandard(row(995, "Boléro"), row(995, "Nocturnes"))).toBeLessThan(0);
+  });
+
+  it("ignores the Japanese title when breaking ties", () => {
+    // The regression this guards: `ja` collation sorts Latin ahead of kana, so
+    // ordering on `titleJa` pulled every untranslated work to the top of its
+    // tie group and made the two languages disagree from the first row.
+    const bolero = { ...row(995, "Boléro", "5044"), titleJa: "ボレロ" };
+    const bohème = { ...row(995, "La bohème", "16525"), titleJa: "La bohème" };
+    expect(compareByStandard(bolero, bohème)).toBeLessThan(0);
+  });
+
+  it("settles identical titles by id so the order is stable", () => {
+    // 17 English titles are shared by 50 works; "Violin Concerto" spans seven
+    // composers. Without the id tie-break their order is whatever the input was.
+    const a = row(89, "Violin Concerto", "2108");
+    const b = row(89, "Violin Concerto", "22509");
+    expect(compareByStandard(a, b)).toBeLessThan(0);
+    expect(compareByStandard(b, a)).toBeGreaterThan(0);
+    expect(compareByStandard(a, a)).toBe(0);
+  });
+
+  it("sorts a shuffled list back into one deterministic order", () => {
+    const rows = [
+      row(995, "Boléro", "5044"),
+      row(995, "Nocturnes, op. 9", "17109"),
+      row(89, "Violin Concerto", "2108"),
+      row(89, "Violin Concerto", "22509"),
+      row(300, "Requiem", "23646"),
+    ];
+    const expected = [...rows].sort(compareByStandard).map((r) => r.id);
+    const shuffled = [...rows].reverse().sort(compareByStandard).map((r) => r.id);
+    expect(shuffled).toEqual(expected);
+    expect(expected).toEqual(["5044", "17109", "23646", "2108", "22509"]);
   });
 });

@@ -136,12 +136,26 @@ describe("sortWorks", () => {
     }
   });
 
-  it("matches the order the catalogue is already shipped in", () => {
-    // The build script sorts `core-works.json` by score before writing it, so
-    // the server-rendered first page and the client's post-hydration sort
-    // must agree, or the list would visibly reorder itself on load.
-    const sorted = sortWorks(index, "standard", "en").map((work) => work.id);
-    expect(sorted.slice(0, 20)).toEqual(workIndex.slice(0, 20).map((w) => w.id));
+  it("matches the order the catalogue is already shipped in, in both locales", () => {
+    // The build script bakes `core-works.json` with the same comparator, and
+    // the composer pages read that file order directly. If this drifts, the
+    // catalogue page disagrees with every composer page — which is exactly
+    // what happened when the tie-break used the displayed title.
+    const shipped = workIndex.map((row) => row.id);
+    for (const locale of ["ja", "en"] as const) {
+      const sorted = sortWorks(index, "standard", locale).map((work) => work.id);
+      expect(sorted, locale).toEqual(shipped);
+    }
+  });
+
+  it("produces one order for both languages", () => {
+    // Scores tie constantly, so the tie-break decides most of the list. Using
+    // the displayed title made `ja` and `en` diverge from the very first row,
+    // because `ja` collation puts Latin script ahead of kana and kanji and the
+    // untranslated titles bubbled to the top of every tie group.
+    const ja = sortWorks(index, "standard", "ja").map((work) => work.id);
+    const en = sortWorks(index, "standard", "en").map((work) => work.id);
+    expect(ja).toEqual(en);
   });
 
   it("sorts by the title of the active language", () => {

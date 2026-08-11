@@ -25,6 +25,7 @@ import { loadCuration } from "../../src/lib/curation";
 import { isEpoch, isGenre } from "../../src/lib/epochs";
 import type { PortraitCredit } from "../../src/lib/licenses";
 import {
+  compareByStandard,
   workScore,
   workStars,
   type CuratedStars,
@@ -129,10 +130,6 @@ function isCore(work: Work): boolean {
   return work.popular || work.recommended || work.curated;
 }
 
-/** Ties fall back to the English title so the baked order is deterministic. */
-function byScore(a: Work, b: Work): number {
-  return b.score - a.score || a.title.localeCompare(b.title);
-}
 
 function buildComposer(
   raw: RawComposer,
@@ -223,17 +220,18 @@ async function main() {
 
     // Sorted here too, so the composer's complete catalogue opens with the
     // works someone is most likely to be looking for.
-    works.sort(byScore);
+    works.sort(compareByStandard);
     await writeFile(
       path.join(PUBLIC_WORKS_DIR, `${rawComposer.id}.json`),
       JSON.stringify(works),
     );
   }
 
-  // 定番度 first — this is the default order of the catalogue page, of every
-  // composer's work list, and of the "start here" picks, all of which read
-  // this file's order rather than re-sorting.
-  coreWorks.sort(byScore);
+  // 定番度 first. This is the order of the catalogue page in both locales, of
+  // every composer's work list, and of the "start here" picks — the pages read
+  // this file's order directly, and `sortWorks` reproduces it from the same
+  // comparator, so all of them agree.
+  coreWorks.sort(compareByStandard);
 
   const translated = coreWorks.filter(
     (work) => work.titleJa !== work.title,
@@ -302,8 +300,8 @@ async function main() {
       `portraits:        ${portraits.length}`,
       "",
       // The order this prints is the order the catalogue's default sort and
-      // every composer page use, so it is the fastest way to see a curation
-      // batch land — or to notice that it did not.
+      // every composer page use, in both locales, so it is the fastest way to
+      // see a curation batch land — or to notice that it did not.
       "top of the catalogue:",
       ...coreWorks
         .slice(0, 15)

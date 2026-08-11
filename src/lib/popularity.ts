@@ -145,6 +145,43 @@ export function workStars(input: RatingInput): Stars {
   return 1;
 }
 
+/** The fields the canonical order needs — the overlap of `Work` and `WorkIndexRow`. */
+export interface Rankable {
+  score: number;
+  title: string;
+  id: string;
+}
+
+/**
+ * The canonical catalogue order. Used by the seed script to bake the order of
+ * `data/catalog/*` and by `sortWorks` at runtime, from one definition so the
+ * two cannot drift apart.
+ *
+ * **The tie-break is the English title in every locale, deliberately.** Scores
+ * repeat heavily — 1,223 of the 1,321 adjacent pairs in the shipped index are
+ * ties — so the tie-break, not the score, decides most of the list. Comparing
+ * the *displayed* title instead made `/ja` and `/en` diverge from the very
+ * first row: `ja` collation sorts Latin script ahead of kana and kanji, so
+ * every tie group filled up with the ~45% of works whose Japanese title is
+ * still an English fallback, pushing ボレロ and 交響曲第5番 beneath them. It also
+ * put the catalogue page out of step with the composer pages, which read the
+ * baked file order and therefore always used the English tie-break.
+ *
+ * `id` settles what is left: 17 English titles are shared by 50 works
+ * ("Violin Concerto" alone spans seven composers), and without it their
+ * relative order would be whatever the input happened to be.
+ *
+ * `localeCompare` is given an explicit `"en"` because the bare call resolves
+ * against the build machine's locale.
+ */
+export function compareByStandard(a: Rankable, b: Rankable): number {
+  return (
+    b.score - a.score ||
+    a.title.localeCompare(b.title, "en") ||
+    a.id.localeCompare(b.id)
+  );
+}
+
 const STARS = [1, 2, 3, 4, 5] as const;
 
 export function isStars(value: unknown): value is Stars {

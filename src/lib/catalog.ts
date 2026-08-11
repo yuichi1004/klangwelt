@@ -12,6 +12,7 @@ import type {
 } from "./catalog-types";
 import type { Epoch, Genre } from "./epochs";
 import type { PortraitCredit } from "./licenses";
+import { compareByStandard } from "./popularity";
 
 export const composers = composersJson as Composer[];
 export const coreWorks = coreWorksJson as Work[];
@@ -40,8 +41,9 @@ export function getPortraitCredit(
   return portraitsByComposerId.get(composerId);
 }
 
-/** `coreWorks` is already sorted by 定番度 score (see `build-catalog.ts`), so
- *  the result is highest-score first with no extra work here. */
+/** `coreWorks` is already in canonical 定番度 order (`compareByStandard`, applied
+ *  by `build-catalog.ts`), so the result is highest-score first, identical in
+ *  both locales, with no extra work here. */
 export function getCoreWorksByComposer(composerId: string): Work[] {
   return coreWorks.filter((work) => work.composerId === composerId);
 }
@@ -188,8 +190,10 @@ export function sortWorks(
           title(a).localeCompare(title(b), locale),
       );
     default:
-      return sorted.sort(
-        (a, b) => b.score - a.score || title(a).localeCompare(title(b), locale),
-      );
+      // Deliberately locale-independent, unlike the two branches above: this
+      // reproduces the baked order of `data/catalog/*` so the catalogue page
+      // agrees with the composer pages and with the other language. See
+      // `compareByStandard`.
+      return sorted.sort(compareByStandard);
   }
 }
