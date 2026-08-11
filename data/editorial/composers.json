@@ -1627,6 +1627,32 @@
       ]
     }
   },
+  "76": {
+    "biography": {
+      "ja": "スペイン・リェイダに生まれ、アルベニスと同じくペドレルに師事してスペイン民族音楽の理念を学んだ。画家ゴヤの絵画に着想を得た代表的なピアノ組曲を歌劇に改作し、その初演のためニューヨークへ渡った帰路、乗っていた船が第一次世界大戦中にドイツの潜水艦の攻撃を受けて沈没し、妻を助けようとして共に命を落とした。",
+      "en": "Born in Lleida, Spain, he studied under Felip Pedrell, the same nationalist mentor who taught Albéniz, absorbing the ideals of Spanish musical nationalism. He adapted his best-known piano suite, inspired by the paintings of Goya, into an opera, and on the voyage home from its New York premiere his ship was torpedoed by a German submarine during the First World War; he drowned while trying to save his wife."
+    },
+    "style": {
+      "ja": "スペイン、特にマドリードの庶民文化を描いたゴヤの絵画世界を、ロマン派的な抒情性と超絶技巧を要するピアノ書法で音楽化した。民謡の直接的な引用よりも、スペイン的な情緒を洗練された和声とピアニスティックな効果の中に溶かし込む手法を得意とし、繊細な情感表現に長けた作風を確立した。",
+      "en": "He set to music the world of Goya's paintings, depicting the popular culture of Spain and especially Madrid, through Romantic lyricism combined with transcendentally demanding piano writing. Rather than directly quoting folk song, he excelled at dissolving Spanish sentiment into refined harmony and pianistic effect, establishing a style skilled at delicate emotional expression."
+    },
+    "impact": {
+      "ja": "師を同じくするアルベニスと並び、スペイン近代ピアノ音楽の確立に大きく貢献した。悲劇的な最期そのものが逸話として広く語り継がれ、代表作の完成と初演を追うようにして命を落としたという経緯が、作品への特別な思い入れとともに記憶される要因となっている。門下からは20世紀を代表するスペインのピアニストが育っている。",
+      "en": "Alongside his fellow Pedrell pupil Albéniz, he made a major contribution to establishing modern Spanish piano music. His tragic death has itself become a widely retold story, and the fact that he died so soon after completing and premiering his masterwork has become part of the special regard in which the work is held. His pupils included a pianist who would become one of Spain's leading performers of the twentieth century."
+    },
+    "keywords": {
+      "ja": [
+        "ゴヤの絵画に着想を得た代表作",
+        "大戦中の悲劇的な最期",
+        "ペドレル門下のスペイン民族楽派"
+      ],
+      "en": [
+        "Masterwork inspired by Goya's paintings",
+        "Tragic wartime death",
+        "Pedrell pupil of Spanish nationalism"
+      ]
+    }
+  },
   "77": {
     "biography": {
       "ja": "ボヘミアのユダヤ人家庭に生まれ、生前は作曲家としてよりも指揮者として知られた。ウィーン宮廷歌劇場の監督を10年務め、夏の休暇に集中して作曲するという生活を続けた。\n交響曲9曲と歌曲集を中心に、声楽と管弦楽を融合させた大規模な作品を書いた。行進曲、レントラー、軍隊ラッパ、鳥の声といった日常の音を交響曲のなかに持ち込み、それらを崇高な響きと並置する手法は、当時しばしば趣味を疑われたが、20世紀後半に再評価された。",
@@ -1913,6 +1939,32 @@
       ]
     }
   },
+  "92": {
+    "biography": {
+      "ja": "現在のドイツ・エラスバッハに生まれ、イタリアでサンマルティーニらに学んだ後、ウィーンとパリを中心に活動した。それまでのオペラが技巧的な歌唱を誇示する場になっていたことへの反省から、劇の筋書きに沿った自然な音楽表現を重視する「オペラ改革」を主導した作曲家として知られる。",
+      "en": "Born in Erasbach, in present-day Germany, he studied with Sammartini and others in Italy before working mainly in Vienna and Paris. He is known as the composer who led a movement of \"opera reform,\" responding to a prior tradition in which opera had become a showcase for vocal virtuosity by emphasizing natural musical expression that served the drama's plot."
+    },
+    "style": {
+      "ja": "歌手の技巧的な装飾を抑え、序曲を劇の内容と結びつけ、合唱や舞踊を物語の進行に有機的に組み込むなど、音楽をドラマに奉仕させる原則を貫いた。この理念は代表作である神話劇のオペラに明確に表れており、簡潔で気高い旋律線と劇的な緊張感を両立させている。",
+      "en": "He held firmly to the principle of making music serve the drama, restraining virtuosic vocal ornamentation, tying the overture to the content of the drama, and organically integrating chorus and dance into the progress of the story. This philosophy is clearly embodied in his best-known mythological opera, which balances a spare, noble melodic line with dramatic tension."
+    },
+    "impact": {
+      "ja": "そのオペラ改革の理念は、フランス・オペラの祖ラモーの後を継ぎつつ、劇的な真実味を追求する新しい方向性を切り拓き、後のモーツァルトのオペラや、さらに後のワーグナーの楽劇の理念にまで連なる系譜の出発点となった。パリでは支持者と反対者が真っ二つに分かれる大論争を巻き起こし、その対立自体が音楽史上有名な事件として記憶されている。",
+      "en": "The ideals of his opera reform, following on from Rameau, founder of French opera, opened a new direction toward dramatic truthfulness and stand as a starting point for a lineage running through Mozart's operas and eventually to Wagner's ideas about music drama. In Paris his reforms sparked a fierce public dispute that split supporters and opponents down the middle, a controversy that is itself remembered as a famous episode in music history."
+    },
+    "keywords": {
+      "ja": [
+        "オペラ改革の主導者",
+        "歌唱技巧よりドラマを優先する理念",
+        "パリを二分した論争"
+      ],
+      "en": [
+        "Leader of opera reform",
+        "Drama prioritized over vocal display",
+        "Dispute that split Paris in two"
+      ]
+    }
+  },
   "93": {
     "biography": {
       "ja": "ミュンヘンに生まれ、後にザルツブルクのモーツァルテウムなどで教育活動にも力を注いだ。代表作は中世の詩集に曲を付けた世俗カンタータで、単純で力強いリズムの反復によって一躍名声を確立した。ナチス政権下でも活動を続け、ユダヤ系であることを理由に上演を禁じられたメンデルスゾーンの劇音楽に代わる新しい付随音楽を書いたことでも知られる。",
@@ -2095,6 +2147,32 @@
       ]
     }
   },
+  "103": {
+    "biography": {
+      "ja": "ロンドン郊外に生まれ、マシューやコーダーに師事した。アイルランドの神話や風土に強く惹かれ、「ダーモット・オバーン」という筆名で詩や散文も執筆するなど、ケルト的な神秘主義に傾倒した人物として知られる。7曲の交響曲を残し、後年は英国王室の音楽師範(マスター・オブ・ザ・クイーンズ・ミュージック)にも任命された。",
+      "en": "Born on the outskirts of London, he studied under Tobias Matthay and Frederick Corder. He was strongly drawn to Irish myth and landscape and was known for a fascination with Celtic mysticism, even writing poetry and prose under the pen name Dermot O'Byrne. He left seven symphonies and was later appointed Master of the King's (and then Queen's) Music."
+    },
+    "style": {
+      "ja": "後期ロマン派の豊麗な和声語法を土台に、アイルランドやスコットランドの伝説的な風景を思わせる幻想的で色彩豊かな管弦楽法を特徴とする。交響曲の連作では、明確な標題を持たずとも神秘的で叙事的な雰囲気を一貫して追求し、ケルト的な想像力を交響的な語法へと昇華させた。",
+      "en": "Built on the rich harmonic language of late Romanticism, his style features fantastical, richly colored orchestration evoking the legendary landscapes of Ireland and Scotland. Across his cycle of symphonies, even without explicit programs, he consistently pursued a mysterious, epic atmosphere, sublimating a Celtic imagination into symphonic language."
+    },
+    "impact": {
+      "ja": "同時代のヴォーン・ウィリアムズが英国民謡の直接的な採集と引用を通じてイギリス的な語法を築いたのに対し、彼はアイルランドの神話的世界への傾倒という、より幻想的で個人的な方向からイギリス音楽の民族的色彩を模索した。同じくケルト的な情緒を交響的に描いたモーランと並び、20世紀前半のイギリス交響曲を彩る個性的な存在として位置づけられる。",
+      "en": "Where his contemporary Vaughan Williams built an English idiom through the direct collection and quotation of folk song, he explored the national coloring of English music from a more fantastical, personal direction rooted in his fascination with Irish myth. Alongside Moeran, who likewise gave symphonic expression to Celtic feeling, he stands as a distinctive voice within the early twentieth-century English symphony."
+    },
+    "keywords": {
+      "ja": [
+        "ケルト的神秘主義への傾倒",
+        "7曲の交響曲による叙事的世界",
+        "筆名による詩作活動"
+      ],
+      "en": [
+        "Fascination with Celtic mysticism",
+        "Epic world of seven symphonies",
+        "Poetry written under a pen name"
+      ]
+    }
+  },
   "104": {
     "biography": {
       "ja": "北仏オンフルールに生まれ、パリ音楽院を経て、当時勃興していたスコラ・カントルムでヴァンサン・ダンディに師事した。モンマルトルのキャバレーでピアノを弾いて生計を立てながら独自の作風を貫き、風変わりな作品名や奇矯な生活ぶりでも知られたが、ドビュッシーやラヴェルら同時代の作曲家からは早くから才能を認められていた。",
@@ -2170,6 +2248,32 @@
         "The deliberate Jewish Cycle project",
         "Cantorial-influenced vocal writing",
         "Founding American music institutions"
+      ]
+    }
+  },
+  "108": {
+    "biography": {
+      "ja": "アメリカ・トレントンに生まれ、ナディア・ブーランジェに師事した。1920年代のパリで、飛行機のプロペラ音や複数の自動演奏ピアノを用いた過激な前衛作品で物議を醸し、「アメリカの不良少年」の異名を取った。後年はハリウッドで映画音楽の作曲家として活動する一方、女優ヘディ・ラマーと共同で魚雷の誘導技術に応用可能な通信技術の特許を取得した、発明家としての顔も持つ。",
+      "en": "Born in Trenton, in the United States, he studied under Nadia Boulanger. In 1920s Paris he caused a sensation with radical avant-garde works using airplane propeller sounds and multiple synchronized player pianos, earning him the nickname \"the bad boy of music.\" In his later years he worked as a film composer in Hollywood, while also holding a patent, developed together with the actress Hedy Lamarr, for a communication technology applicable to torpedo guidance, giving him a second identity as an inventor."
+    },
+    "style": {
+      "ja": "初期の代表作では、通常の管弦楽編成を離れ、機械的な騒音や打楽器的な反復リズムを大胆に取り入れ、音楽と工業社会のイメージを直結させる過激な実験を行った。後年はより穏健な新古典主義的語法へ転じ、ハリウッドで培った実用的な作曲技術を演奏会用作品にも生かした。",
+      "en": "In his early landmark work he departed from a conventional orchestral ensemble, boldly incorporating mechanical noise and percussive, repetitive rhythm to make a radical experiment linking music directly with the imagery of an industrial society. In his later years he turned to a more moderate neoclassical idiom, bringing the practical compositional skills he honed in Hollywood into his concert works as well."
+    },
+    "impact": {
+      "ja": "機械的な騒音を作曲の素材とする発想は、後にケージが探求した音そのものへの関心と並べて語られることがある。音楽家でありながら通信技術の特許を持つという異色の経歴は、芸術と科学技術の垣根を越えた人物として広く語り継がれ、その特許は後年の無線通信技術の先駆けとして再評価されている。",
+      "en": "His idea of using mechanical noise as compositional material is sometimes discussed alongside Cage's later interest in sound itself. His unusual career, a musician who also held a technology patent, is widely retold as an example of a figure who crossed the boundary between art and science, and his patent has since been reassessed as a forerunner of later wireless communication technology."
+    },
+    "keywords": {
+      "ja": [
+        "アメリカの不良少年と呼ばれた前衛",
+        "機械音を用いた過激な実験作",
+        "ヘディ・ラマーとの通信技術特許"
+      ],
+      "en": [
+        "The \"bad boy of music\" avant-garde",
+        "Radical works using mechanical sound",
+        "Communication patent with Hedy Lamarr"
       ]
     }
   },
@@ -2277,6 +2381,58 @@
       ]
     }
   },
+  "113": {
+    "biography": {
+      "ja": "イタリア・イエージに生まれ、ドゥランテらに師事した。結核のため26歳という若さで世を去ったが、その短い生涯の中で書いた宗教曲や喜劇的な幕間劇が後世に絶大な影響を及ぼした。死後まもなく、実際には彼の作ではない作品が数多く彼の名で出版され、真作と偽作の判別が今なお研究上の課題となっている。",
+      "en": "Born in Jesi, Italy, he studied under Durante among others. He died of tuberculosis at only twenty-six, but the sacred works and comic intermezzos he wrote in his brief life had an enormous influence on later generations. Soon after his death, a great many works that were not actually his were published under his name, and distinguishing the genuine works from the spurious ones remains a scholarly challenge today."
+    },
+    "style": {
+      "ja": "宗教的な題材では悲痛な情感を簡潔な旋律で歌わせる書法を確立し、一方で喜劇的な幕間劇では軽妙で機知に富んだ音楽的会話を展開するなど、対照的な二つの語法を高い完成度で使い分けた。その明快さと自然な旋律美は、後のバロック末期から古典派への橋渡しとなる様式変化を先取りしていた。",
+      "en": "In sacred works he established a writing style that conveyed sorrowful feeling through spare, singable melody, while in his comic intermezzos he unfolded light, witty musical dialogue, mastering two contrasting idioms with equal accomplishment. His clarity and natural melodic beauty anticipated the stylistic shift from the late Baroque toward the Classical era."
+    },
+    "impact": {
+      "ja": "喜劇的な幕間劇の一作がパリで再演された際、フランスの伝統的な悲劇的抒情劇を支持する陣営とイタリア風の喜劇オペラを支持する陣営との間で「ブフォン論争」と呼ばれる大論争を引き起こし、フランス・オペラの行方を左右する事件となった。20世紀にはストラヴィンスキーが、彼の名を借りて流布していた楽曲群を素材にバレエ音楽を作曲しており、新古典主義音楽の重要な源泉ともなっている。",
+      "en": "When one of his comic intermezzos was revived in Paris, it ignited the so-called \"Querelle des Bouffons,\" a major dispute between supporters of the traditional French tragédie lyrique and supporters of Italian comic opera, an episode that shaped the future direction of French opera. In the twentieth century, Stravinsky drew on a body of music circulating under his name to compose a ballet, making him an important wellspring for neoclassical music as well."
+    },
+    "keywords": {
+      "ja": [
+        "26歳での夭折と多くの偽作",
+        "ブフォン論争の火種となった幕間劇",
+        "ストラヴィンスキーの新古典主義の源泉"
+      ],
+      "en": [
+        "Death at 26 amid many spurious works",
+        "Intermezzo that sparked the Querelle des Bouffons",
+        "Wellspring for Stravinsky's neoclassicism"
+      ]
+    }
+  },
+  "114": {
+    "biography": {
+      "ja": "ニューヨークに生まれ、ヨーロッパでラフやカレーニョらに師事した後に帰国し、国際的に名声を得た最初期のアメリカ人作曲家の一人となった。コロンビア大学で音楽の教授職に就いたが、大学運営との対立の末に辞職し、まもなく健康を害して世を去った。妻とともに設立した芸術家のための創作滞在施設は、彼の死後も長く運営が続けられている。",
+      "en": "Born in New York City, he studied in Europe under Joachim Raff and Teresa Carreño among others before returning home to become one of the first American composers to achieve international recognition. He held a professorship in music at Columbia University but resigned after conflict with the university's administration, and his health soon declined before his death. An artists' retreat he founded together with his wife has continued operating for many years since his death."
+    },
+    "style": {
+      "ja": "ヨーロッパのロマン派の語法をアメリカの自然や風土への叙情的な愛着と結びつけ、簡潔で親しみやすい旋律を持つ小品を数多く残した。代表的なピアノ小品集は、アメリカの森や野の風景を音楽的な情景描写として捉えた作品群であり、ヨーロッパ的な語法とアメリカ的な題材の橋渡しを体現している。",
+      "en": "He combined the idiom of European Romanticism with a lyrical attachment to American nature and landscape, leaving many short pieces with simple, appealing melodies. His best-known set of piano pieces captures scenes of American forest and field as musical vignettes, embodying a bridge between a European idiom and American subject matter."
+    },
+    "impact": {
+      "ja": "国際的に高く評価された最初期のアメリカ人作曲家として、後に続くアメリカの作曲家たちの道を切り拓いた先駆者と位置づけられる。同時代に全く異なる急進的な語法を切り拓いたアイヴズとはしばしば対照的に語られ、ヨーロッパの伝統に忠実な保守的な立場からアメリカ音楽の独自性を模索した先行世代を代表する存在である。",
+      "en": "As one of the first American composers to win international acclaim, he is regarded as a pioneer who opened the way for the American composers who followed. He is often discussed in contrast with his contemporary Ives, who forged a radically different idiom, and represents an earlier generation that sought American musical identity from a position faithful to European tradition."
+    },
+    "keywords": {
+      "ja": [
+        "国際的評価を得た最初期のアメリカ人作曲家",
+        "アメリカの自然を描いたピアノ小品",
+        "妻と設立した芸術家滞在施設"
+      ],
+      "en": [
+        "First American composer with international acclaim",
+        "Piano miniatures depicting American nature",
+        "Artists' retreat founded with his wife"
+      ]
+    }
+  },
   "116": {
     "biography": {
       "ja": "パリに生まれ、パリ音楽院で学んだ後は極端なまでに自己批判的な性格で知られ、自らの基準に満たないと判断した多数の作品を焼却したため、現存する作品数はごくわずかである。パリ音楽院で長年教鞭を執り、門下からはメシアンやミヨーら次世代を代表する作曲家が育った。",
@@ -2300,6 +2456,32 @@
         "Extreme self-criticism, burning his own scores",
         "Precise, narrative orchestration",
         "Teacher of Messiaen and Milhaud"
+      ]
+    }
+  },
+  "117": {
+    "biography": {
+      "ja": "現在のベルギー、サン=ギスランに生まれたとされ、バンショワに師事した。フランス王室の宮廷礼拝堂楽長として長年仕え、当代随一の作曲家として国際的に尊敬を集めた。門下からは後にルネサンス多声音楽の頂点に立つジョスカン・デ・プレが育ったとされている。",
+      "en": "Born, it is thought, in Saint-Ghislain in present-day Belgium, he studied under Gilles Binchois. He served for many years as chapel master to the French royal court and was internationally respected as the leading composer of his age. His pupils are said to have included Josquin des Prez, who would go on to stand at the summit of Renaissance polyphony."
+    },
+    "style": {
+      "ja": "複数の声部が異なる速度で同時進行する高度な計量記譜法上の技法を極限まで追求し、極めて複雑な数学的構造を持つミサ曲を残した。低音域まで届く豊かな声域を活かした重厚な響きを好み、対位法の緻密さと音響の深みを両立させる書法によって、フランドル楽派の技法的頂点の一つを築いた。",
+      "en": "He pushed the advanced techniques of mensural notation, in which multiple voices proceed simultaneously at different speeds, to their furthest limits, leaving mass settings of extraordinarily complex mathematical structure. He favored a rich, weighty sonority reaching into low vocal registers, and through writing that balanced contrapuntal intricacy with sonic depth he built one of the technical peaks of the Franco-Flemish school."
+    },
+    "impact": {
+      "ja": "ブルゴーニュ楽派を築いたデュファイに続く世代として、フランドル楽派の対位法技法をさらに高度化させ、その系譜は門下のジョスカン・デ・プレへと直接受け継がれた。極端なまでの技法的複雑さは、後世の音楽学者にとって長らく解読の対象となっており、ルネサンス多声音楽の理論的な奥深さを象徴する作曲家として位置づけられている。",
+      "en": "Following the generation of Dufay, who established the Burgundian School, he brought the contrapuntal technique of the Franco-Flemish school to a still higher level, and that lineage passed directly to his pupil Josquin des Prez. His extreme technical complexity has long been an object of decoding for later scholars, and he is regarded as a composer symbolizing the theoretical depth of Renaissance polyphony."
+    },
+    "keywords": {
+      "ja": [
+        "高度な計量記譜法の極限的探求",
+        "ジョスカン・デ・プレの師とされる存在",
+        "フランドル楽派技法の頂点"
+      ],
+      "en": [
+        "Extreme mastery of mensural notation",
+        "Reputed teacher of Josquin des Prez",
+        "Technical peak of the Franco-Flemish school"
       ]
     }
   },
@@ -2356,6 +2538,32 @@
         "Opposition and imprisonment under Salazar",
         "Collector and scholar of Portuguese folk song",
         "Style foregrounding national folk color"
+      ]
+    }
+  },
+  "120": {
+    "biography": {
+      "ja": "フィレンツェに生まれ、サルティに師事した後、活動の拠点をパリへ移した。パリ音楽院の院長を長年務め、極めて厳格な運営方針で知られたが、ベートーヴェンからは同時代最高のオペラ作曲家として深く敬愛されていた。門下からはビゼーの師となるアレヴィが育っている。",
+      "en": "Born in Florence, he studied under Sarti before moving his base of activity to Paris. He served for many years as director of the Paris Conservatoire, known for an extremely strict administrative approach, yet Beethoven deeply admired him as the finest opera composer of the age. His pupils included Halévy, who would go on to teach Bizet."
+    },
+    "style": {
+      "ja": "古典派の均整の取れた構成美を保ちながら、劇的な緊張感と重厚な合唱書法を融合させた作風を特徴とし、フランス革命期の激動する社会を反映した「救出オペラ」と呼ばれる題材を得意とした。宗教音楽でも荘厳な様式を確立し、古典派からロマン派への過渡期を代表する作曲家として活動した。",
+      "en": "While preserving the balanced formal beauty of the Classical era, his style fused dramatic tension with weighty choral writing, and he excelled at so-called \"rescue operas\" reflecting the turbulent society of the French Revolutionary period. He also established a solemn style in sacred music, active as a composer representing the transition between the Classical and Romantic eras."
+    },
+    "impact": {
+      "ja": "パリ音楽院の院長としてフランスの音楽教育制度を長年にわたり統率し、門下のアレヴィを介してビゼーへとつながる教育の系譜を築いた。ベートーヴェンから最高のオペラ作曲家と称賛された事実は、古典派からロマン派へ移り変わる時代における彼の音楽的な重要性を裏付ける証言として今もしばしば引用される。",
+      "en": "As director of the Paris Conservatoire he led French musical education for many years, building a teaching lineage that ran through his pupil Halévy to Bizet. The fact that Beethoven praised him as the finest opera composer of the age is still often cited as testimony to his musical importance during the transition from the Classical to the Romantic era."
+    },
+    "keywords": {
+      "ja": [
+        "ベートーヴェンが敬愛した同時代最高の存在",
+        "パリ音楽院の厳格な院長",
+        "アレヴィを介したビゼーへの教育系譜"
+      ],
+      "en": [
+        "Composer Beethoven revered above all",
+        "Strict director of the Paris Conservatoire",
+        "Teaching lineage to Bizet via Halévy"
       ]
     }
   },
@@ -2489,6 +2697,32 @@
       ]
     }
   },
+  "126": {
+    "biography": {
+      "ja": "イングランド・ケント州に生まれ、生涯にわたって王室礼拝堂の作曲家・オルガニストとして仕えた。ヘンリー8世からエリザベス1世に至るまで、カトリックとプロテスタントの間で国教が激しく揺れ動いた4代の治世を生き抜き、そのたびに求められる典礼様式の変化に対応し続けた稀有な音楽家である。門下のバードとは共同で楽譜出版の特許を得た。",
+      "en": "Born in Kent, England, he served throughout his career as a composer and organist to the royal chapel. He lived through four successive reigns, from Henry VIII to Elizabeth I, spanning an era in which the national religion swung violently between Catholicism and Protestantism, and he was a rare musician who continually adapted to the changing liturgical demands of each. Together with his pupil Byrd, he obtained a royal patent for music publishing."
+    },
+    "style": {
+      "ja": "カトリック時代には壮麗な多声のラテン語典礼曲を、プロテスタント改革後にはより簡潔で歌詞の聞き取りやすさを重視した英語の礼拝音楽を書き分けるなど、時代の要請に応じて様式を大きく変化させた柔軟性を特徴とする。代表的な40声部の壮大なモテットは、声部の分割と空間配置の可能性を極限まで追求した技巧の頂点として知られる。",
+      "en": "His style is marked by a flexibility that shifted dramatically according to the demands of the age: grand polyphonic Latin liturgical music under Catholicism, and simpler English devotional music emphasizing textual clarity after the Protestant reforms. His famous forty-voice motet is known as a pinnacle of technical achievement, pushing the possibilities of vocal division and spatial arrangement to their absolute limit."
+    },
+    "impact": {
+      "ja": "宗教改革の激動を生き抜きながら王室に仕え続けたその経歴は、芸術家が政治的・宗教的変動にどう適応するかを示す象徴的な事例としてしばしば語られる。門下のバードとともにイングランド・ルネサンス音楽の頂点を築き、大陸のパレストリーナやラッススと並び称される存在として位置づけられている。",
+      "en": "His career, serving the royal court continuously through the upheavals of the Reformation, is often cited as a symbolic case study in how an artist adapted to political and religious turmoil. Together with his pupil Byrd he built the summit of English Renaissance music, ranked alongside continental figures such as Palestrina and Lassus."
+    },
+    "keywords": {
+      "ja": [
+        "4代の治世と宗教改革を生き抜いた宮廷音楽家",
+        "40声部の壮大なモテット",
+        "バードと築いたイングランド・ルネサンスの頂点"
+      ],
+      "en": [
+        "Court musician through four reigns of upheaval",
+        "Grand forty-voice motet",
+        "Summit of English Renaissance with Byrd"
+      ]
+    }
+  },
   "127": {
     "biography": {
       "ja": "パリに生まれ、セザール・フランクに師事した。パリ音楽院の保守的な教育方針に対抗する形でスコラ・カントルムを設立し、以後長年にわたりその中心的指導者として多くの作曲家を育てた。門下にはサティやオネゲルら、後に全く異なる方向へ進んだ作曲家たちが名を連ねている。",
@@ -2512,6 +2746,32 @@
         "Founder of the Schola Cantorum",
         "Cyclic form inherited from Franck",
         "Teacher of Satie and Honegger"
+      ]
+    }
+  },
+  "128": {
+    "biography": {
+      "ja": "パリの音楽一家に生まれ、一族の伝統に従ってオルガニストの道を歩んだ。フランス王室に仕える宮廷音楽家として活動し、「クープラン大」と呼ばれてその家系の中でも別格の存在として扱われた。鍵盤楽器の演奏技法に関する著作も残しており、後年バッハがその教則本を研究したことでも知られる。",
+      "en": "Born into a musical family in Paris, he followed the family tradition into a career as an organist. He served as a court musician to the French royal household and, known as \"Couperin le Grand,\" was treated as a figure apart even within a family of musicians. He also wrote a treatise on keyboard technique, known for having been later studied by Bach himself."
+    },
+    "style": {
+      "ja": "優雅で装飾的な旋律線と、性格的な題名を持つ短い舞曲風の小品を数多く残し、フランス・クラヴサン楽派の様式美を頂点にまで高めた。イタリア的な様式とフランス的な様式の融合を試みた作品も手がけ、両者の美点を統合しようとする意識的な姿勢を示している。",
+      "en": "He left many short, dance-like pieces with elegant, ornamented melodic lines and characterful titles, bringing the stylistic beauty of the French harpsichord school to its peak. He also attempted works that fused Italian and French styles, showing a conscious desire to synthesize the merits of both traditions."
+    },
+    "impact": {
+      "ja": "その鍵盤演奏技法に関する著作は、装飾音の解釈をめぐる貴重な一次資料として今日も研究者に参照され続けている。同時代のラモーと並んでフランス・バロック鍵盤音楽の頂点を代表する存在であり、その洗練された装飾様式はバッハをはじめとするドイツの作曲家たちにも直接的な影響を及ぼした。",
+      "en": "His treatise on keyboard technique remains, to this day, a valuable primary source referenced by scholars for interpreting ornamentation. Alongside his contemporary Rameau he stands as a representative peak of French Baroque keyboard music, and his refined style of ornamentation exerted a direct influence on German composers, including Bach."
+    },
+    "keywords": {
+      "ja": [
+        "クープラン大と呼ばれた名家の頂点",
+        "バッハが研究した鍵盤教則本",
+        "フランス・クラヴサン楽派の様式美"
+      ],
+      "en": [
+        "\"Couperin le Grand\" of a musical dynasty",
+        "Keyboard treatise studied by Bach",
+        "Peak of the French harpsichord school"
       ]
     }
   },
@@ -2642,6 +2902,32 @@
         "Series of works for solo instruments",
         "Collage technique layering existing music",
         "Contrasted with contemporary Nono"
+      ]
+    }
+  },
+  "134": {
+    "biography": {
+      "ja": "ドイツ・ケルンに生まれ、パリに渡ってアレヴィらに師事した後、チェロ奏者として活動しつつ自ら小劇場を興し、風刺の効いた軽妙なオペレッタで一世を風靡した。晩年は唯一の本格的なオペラに取り組んだが、完成を見ないまま世を去った。",
+      "en": "Born in Cologne, Germany, he moved to Paris and studied under Halévy among others. While working as a cellist he founded his own small theater and became the toast of the city with witty, satirical operettas. In his final years he undertook his one full-scale serious opera but died before completing it."
+    },
+    "style": {
+      "ja": "軽快でリズミカルな旋律と、社会風刺を織り込んだ機知に富んだ台本を組み合わせ、「オペレッタ」というジャンルをほぼ一人で確立した。代表作の一つは、グルックが確立した神話劇の格式を意図的にパロディ化した内容で、当時の観客に衝撃と笑いを同時にもたらした。",
+      "en": "He combined light, rhythmic melody with witty librettos laced with social satire, single-handedly establishing the genre of operetta almost on his own. One of his best-known works deliberately parodies the solemn mythological grandeur that Gluck had established, delivering both shock and laughter to audiences of the day."
+    },
+    "impact": {
+      "ja": "「オペレッタの父」として、後のウィーンのオペレッタ様式や、さらにミュージカルというジャンルの成立にまで連なる系譜の源流となった。唯一の本格的なオペラは未完のまま遺されたが、他者の補筆によって上演され続けており、風刺喜劇と真摯な悲劇の両方に才能を示した作曲家として記憶されている。",
+      "en": "As the \"father of operetta\" he became the wellspring for a lineage running through the later Viennese operetta tradition and eventually into the musical as a genre. His one full-scale serious opera was left unfinished at his death but continues to be staged in completions by others, and he is remembered as a composer who showed talent in both satirical comedy and earnest tragedy."
+    },
+    "keywords": {
+      "ja": [
+        "オペレッタというジャンルの確立者",
+        "グルックの神話劇へのパロディ",
+        "未完に終わった唯一の本格オペラ"
+      ],
+      "en": [
+        "Founder of the operetta genre",
+        "Parody of Gluck's mythological opera",
+        "Unfinished sole serious opera"
       ]
     }
   },
@@ -3126,6 +3412,32 @@
         "The Gebrauchsmusik philosophy",
         "An original theory of harmony",
         "Teaching in America after emigration"
+      ]
+    }
+  },
+  "155": {
+    "biography": {
+      "ja": "ドイツ・ギュータースローに生まれ、ルーファーやフォルトナーに師事した。戦後ドイツの保守的な音楽風土や自身が同性愛者であることへの息苦しさから逃れるようにイタリアへ拠点を移し、以後の生涯の大半をそこで過ごした。マルクス主義的な政治思想への共感を深め、作品にも社会的な主題を取り入れた。",
+      "en": "Born in Gütersloh, Germany, he studied under Josef Rufer and Wolfgang Fortner. Seeking to escape the conservative musical climate of postwar Germany and the constraints he felt as a gay man, he relocated to Italy, where he spent most of the rest of his life. He grew increasingly sympathetic to Marxist political thought and incorporated social themes into his work."
+    },
+    "style": {
+      "ja": "セリー音楽やジャズなど多様な語法を貪欲に吸収しながらも、いずれの流派にも完全には属さない折衷的な作風を貫き、特にオペラの分野で旺盛な創作力を発揮した。イタリアの地中海的な色彩感覚をドイツ的な緻密な構成力と融合させ、政治的な主題を扱う際にも劇的な物語性を重視した。",
+      "en": "He voraciously absorbed diverse idioms, from serialism to jazz, while never fully belonging to any single school, and showed particularly vigorous creative energy in opera. He fused a Mediterranean sense of color absorbed in Italy with a German sense of tight construction, and even when handling political subjects he gave priority to dramatic storytelling."
+    },
+    "impact": {
+      "ja": "同時代の同郷の作曲家ノーノが政治的関与を抽象的な前衛技法と直結させたのに対し、彼はより物語性豊かなオペラという形式を通じて社会的主題を伝えるという対照的な道を選んだ。ドイツを離れイタリアに拠点を置いたという点で同時代のベリオとも接点があり、20世紀後半の欧州オペラを代表する多作家として広く上演され続けている。",
+      "en": "Where his German contemporary Nono fused political commitment directly with abstract avant-garde technique, he chose a contrasting path, conveying social themes through the more narrative-rich form of opera. In basing himself in Italy after leaving Germany he also shares common ground with his contemporary Berio, and he remains widely performed as one of the most prolific opera composers representing later twentieth-century European music."
+    },
+    "keywords": {
+      "ja": [
+        "ドイツを離れイタリアへ移住",
+        "政治的関与をオペラの物語性に託す",
+        "多様な語法を吸収した折衷的作風"
+      ],
+      "en": [
+        "Left Germany to settle in Italy",
+        "Political commitment through operatic narrative",
+        "Eclectic style absorbing diverse idioms"
       ]
     }
   },

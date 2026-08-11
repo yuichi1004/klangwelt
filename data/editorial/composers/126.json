@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "イングランド・ケント州に生まれ、生涯にわたって王室礼拝堂の作曲家・オルガニストとして仕えた。ヘンリー8世からエリザベス1世に至るまで、カトリックとプロテスタントの間で国教が激しく揺れ動いた4代の治世を生き抜き、そのたびに求められる典礼様式の変化に対応し続けた稀有な音楽家である。門下のバードとは共同で楽譜出版の特許を得た。",
+    "en": "Born in Kent, England, he served throughout his career as a composer and organist to the royal chapel. He lived through four successive reigns, from Henry VIII to Elizabeth I, spanning an era in which the national religion swung violently between Catholicism and Protestantism, and he was a rare musician who continually adapted to the changing liturgical demands of each. Together with his pupil Byrd, he obtained a royal patent for music publishing."
+  },
+  "style": {
+    "ja": "カトリック時代には壮麗な多声のラテン語典礼曲を、プロテスタント改革後にはより簡潔で歌詞の聞き取りやすさを重視した英語の礼拝音楽を書き分けるなど、時代の要請に応じて様式を大きく変化させた柔軟性を特徴とする。代表的な40声部の壮大なモテットは、声部の分割と空間配置の可能性を極限まで追求した技巧の頂点として知られる。",
+    "en": "His style is marked by a flexibility that shifted dramatically according to the demands of the age: grand polyphonic Latin liturgical music under Catholicism, and simpler English devotional music emphasizing textual clarity after the Protestant reforms. His famous forty-voice motet is known as a pinnacle of technical achievement, pushing the possibilities of vocal division and spatial arrangement to their absolute limit."
+  },
+  "impact": {
+    "ja": "宗教改革の激動を生き抜きながら王室に仕え続けたその経歴は、芸術家が政治的・宗教的変動にどう適応するかを示す象徴的な事例としてしばしば語られる。門下のバードとともにイングランド・ルネサンス音楽の頂点を築き、大陸のパレストリーナやラッススと並び称される存在として位置づけられている。",
+    "en": "His career, serving the royal court continuously through the upheavals of the Reformation, is often cited as a symbolic case study in how an artist adapted to political and religious turmoil. Together with his pupil Byrd he built the summit of English Renaissance music, ranked alongside continental figures such as Palestrina and Lassus."
+  },
+  "keywords": {
+    "ja": [
+      "4代の治世と宗教改革を生き抜いた宮廷音楽家",
+      "40声部の壮大なモテット",
+      "バードと築いたイングランド・ルネサンスの頂点"
+    ],
+    "en": [
+      "Court musician through four reigns of upheaval",
+      "Grand forty-voice motet",
+      "Summit of English Renaissance with Byrd"
+    ]
+  }
+}
