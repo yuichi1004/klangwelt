@@ -1,3 +1,4 @@
+import type { CountryCode } from "./countries";
 import type { Epoch, Genre } from "./epochs";
 import type { Stars } from "./popularity";
 
@@ -67,6 +68,13 @@ export interface Composer {
   coreWorkCount: number;
   /** Path under /public, absent when no freely licensed portrait exists. */
   portrait?: string;
+  /**
+   * Hand-assigned in `data/nationalities.json`. Absent for most composers —
+   * unlike `stars`, coverage is not required, so a missing entry just means
+   * no flag is shown. `note` explains a dual/multiple nationality that a
+   * single flag cannot; see `src/lib/nationality.ts`.
+   */
+  nationality?: { country: CountryCode; note?: { ja: string; en: string } };
 }
 
 /**

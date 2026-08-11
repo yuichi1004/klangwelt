@@ -24,6 +24,7 @@ import type {
 import { loadCuration } from "../../src/lib/curation";
 import { isEpoch, isGenre } from "../../src/lib/epochs";
 import type { PortraitCredit } from "../../src/lib/licenses";
+import { loadNationalities, type NationalityEntry } from "../../src/lib/nationality";
 import {
   compareByStandard,
   workScore,
@@ -40,6 +41,7 @@ import {
   translateNickname,
 } from "../../src/lib/title/translate";
 import { readCurationSource, toCurationView } from "./curation-files";
+import { readNationalitySource } from "./nationality-files";
 import type { RawComposer, RawDataset, RawWork } from "./openopus";
 
 const ROOT = process.cwd();
@@ -138,6 +140,7 @@ function buildComposer(
   namesJa: Record<string, string>,
   portrait: PortraitCredit | undefined,
   stars: Stars,
+  nationality: NationalityEntry | undefined,
 ): Composer {
   const deathYear = raw.death ? Number(raw.death.slice(0, 4)) : null;
 
@@ -154,6 +157,7 @@ function buildComposer(
     workCount: works.length,
     coreWorkCount: works.filter(isCore).length,
     portrait: portrait?.file,
+    nationality,
   };
 }
 
@@ -188,6 +192,23 @@ async function main() {
     process.exit(1);
   }
 
+  // Unlike `curation`, coverage is not required here — most composers will
+  // have no entry, and that is fine (see `nationality.ts`). What still fails
+  // the build is a malformed entry among the ones that do exist.
+  const nationalities = loadNationalities(await readNationalitySource(), {
+    composers: dataset.composers.map((composer) => ({
+      id: composer.id,
+      name: composer.name,
+    })),
+  });
+  if (nationalities.errors.length > 0) {
+    console.error(
+      `\n${nationalities.errors.length} problem(s) in data/nationalities.json:\n`,
+    );
+    for (const error of nationalities.errors) console.error(`  - ${error}`);
+    process.exit(1);
+  }
+
   await rm(PUBLIC_WORKS_DIR, { recursive: true, force: true });
   await mkdir(PUBLIC_WORKS_DIR, { recursive: true });
   await mkdir(CATALOG_DIR, { recursive: true });
@@ -216,6 +237,7 @@ async function main() {
         namesJa,
         portraitById.get(rawComposer.id),
         composerStars,
+        nationalities.nationalities.get(rawComposer.id),
       ),
     );
     coreWorks.push(...works.filter(isCore));
@@ -300,6 +322,7 @@ async function main() {
       `total works:      ${meta.totalWorkCount}`,
       `Japanese titles:  ${(meta.translatedRatio * 100).toFixed(1)}%`,
       `portraits:        ${portraits.length}`,
+      `nationalities:    ${nationalities.nationalities.size}/${meta.composerCount}`,
       "",
       // The order this prints is the order the catalogue's default sort and
       // every composer page use, in both locales, so it is the fastest way to

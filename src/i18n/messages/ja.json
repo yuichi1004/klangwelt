@@ -86,6 +86,7 @@
   },
   "composer": {
     "heading": "作曲家",
+    "nationality": "国籍",
     "born": "生年",
     "died": "没年",
     "living": "存命",

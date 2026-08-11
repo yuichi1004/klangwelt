@@ -17,6 +17,7 @@
     "test:e2e": "playwright test",
     "test:e2e:ui": "playwright test --ui",
     "build:icons": "tsx scripts/build-icons.ts",
+    "build:flags": "tsx scripts/build-flags.ts",
     "build:editorial": "tsx scripts/seed/build-editorial.ts"
   },
   "dependencies": {
@@ -32,6 +33,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.3.0",
+    "flag-icons": "^7.5.0",
     "sharp": "^0.35.3",
     "tailwindcss": "^4",
     "tsx": "^4.23.11",

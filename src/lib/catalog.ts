@@ -125,6 +125,7 @@ export interface ComposerCard {
   coreWorkCount: number;
   portrait?: string;
   credit?: { author: string; license: string };
+  nationality?: Composer["nationality"];
 }
 
 export function buildComposerCards(): ComposerCard[] {
@@ -144,6 +145,7 @@ export function buildComposerCards(): ComposerCard[] {
       credit: credit
         ? { author: credit.author, license: credit.license }
         : undefined,
+      nationality: composer.nationality,
     };
   });
 }

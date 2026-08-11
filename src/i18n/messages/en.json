@@ -86,6 +86,7 @@
   },
   "composer": {
     "heading": "Composer",
+    "nationality": "Nationality",
     "born": "Born",
     "died": "Died",
     "living": "Living",
