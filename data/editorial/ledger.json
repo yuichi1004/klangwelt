@@ -462,7 +462,7 @@
   "93": {
     "name": "Carl Orff",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "94": {
     "name": "Victor Herbert",
@@ -502,7 +502,7 @@
   "101": {
     "name": "Karlheinz Stockhausen",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "102": {
     "name": "John Dowland",
@@ -517,7 +517,7 @@
   "104": {
     "name": "Erik Satie",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "105": {
     "name": "Claude Debussy",
@@ -552,12 +552,12 @@
   "111": {
     "name": "Luigi Nono",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "112": {
     "name": "Ernst von Dohnányi",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "113": {
     "name": "Giovanni Battista Pergolesi",
@@ -577,7 +577,7 @@
   "116": {
     "name": "Paul Dukas",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "117": {
     "name": "Johannes Ockeghem",
@@ -592,7 +592,7 @@
   "119": {
     "name": "Fernando Lopes-Graça",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "120": {
     "name": "Luigi Cherubini",
@@ -607,7 +607,7 @@
   "122": {
     "name": "Jacques Ibert",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "123": {
     "name": "Emmanuel Chabrier",
@@ -632,7 +632,7 @@
   "127": {
     "name": "Vincent d'Indy",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "128": {
     "name": "François Couperin",
@@ -662,7 +662,7 @@
   "133": {
     "name": "Luciano Berio",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "134": {
     "name": "Jacques Offenbach",
@@ -702,7 +702,7 @@
   "141": {
     "name": "Eugene Ysaÿe",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "142": {
     "name": "Witold Lutoslawski",
@@ -802,7 +802,7 @@
   "161": {
     "name": "Hugo Wolf",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "162": {
     "name": "Edvard Grieg",

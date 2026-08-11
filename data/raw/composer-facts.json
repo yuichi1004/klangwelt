@@ -4437,21 +4437,43 @@
  },
  {
   "composerId": "111",
-  "wikidataId": "Q3266502",
-  "birthPlace": "Terminal Fusina",
+  "wikidataId": "Q160451",
+  "birthPlace": "Venice",
   "deathPlace": "Venice",
-  "teachers": [],
-  "students": [],
-  "notableWorks": [],
-  "movements": [],
+  "teachers": [
+   "Gian Francesco Malipiero"
+  ],
+  "students": [
+   "Helmut Lachenmann",
+   "Mauricio Sotelo",
+   "Martinho Lutero Galati",
+   "Mercè Capdevila i Gaya",
+   "Alexandros Kalogeras",
+   "Nicolaus A. Huber"
+  ],
+  "notableWorks": [
+   "No hay caminos, hay que caminar... Andrej Tarkovskij",
+   "Hay que caminar",
+   "Caminantes... Ayacucho",
+   "The first rain"
+  ],
+  "movements": [
+   "20th-century classical music"
+  ],
   "instruments": [],
   "occupations": [
-   "painter"
+   "classical composer",
+   "conductor",
+   "music educator",
+   "musician",
+   "composer"
   ],
-  "awards": [],
+  "awards": [
+   "Berliner Kunstpreis"
+  ],
   "employers": [],
   "genres": [
-   "genre painting"
+   "opera"
   ],
   "extraYears": []
  },

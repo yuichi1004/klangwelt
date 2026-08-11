@@ -1757,6 +1757,32 @@
       ]
     }
   },
+  "93": {
+    "biography": {
+      "ja": "ミュンヘンに生まれ、後にザルツブルクのモーツァルテウムなどで教育活動にも力を注いだ。代表作は中世の詩集に曲を付けた世俗カンタータで、単純で力強いリズムの反復によって一躍名声を確立した。ナチス政権下でも活動を続け、ユダヤ系であることを理由に上演を禁じられたメンデルスゾーンの劇音楽に代わる新しい付随音楽を書いたことでも知られる。",
+      "en": "Born in Munich, he later devoted much energy to music education, teaching at institutions including the Mozarteum in Salzburg. His best-known work is a secular cantata setting medieval poetry, whose simple, forceful rhythmic repetition brought him sudden fame. He continued working under the Nazi regime and is also known for writing new incidental music to replace Mendelssohn's, after the latter's Jewish-authored work was banned from performance."
+    },
+    "style": {
+      "ja": "複雑な和声や対位法よりも、原始的なまでに力強いリズムの反復と、単純明快な旋律線を重視する語法を確立した。「シュールベルク」と呼ばれる自身の音楽教育法を通じて、木琴や打楽器を中心とする専用の教育楽器群を考案し、子供が音とリズムを身体で学ぶための独自の体系を作り上げた。",
+      "en": "Rather than complex harmony or counterpoint, he built an idiom centered on primitively forceful rhythmic repetition and simple, clear melodic lines. Through his own music-education method known as the \"Schulwerk,\" he devised a family of purpose-built teaching instruments centered on xylophones and percussion, creating a distinct system for children to learn sound and rhythm through the body."
+    },
+    "impact": {
+      "ja": "代表作は誕生から一世紀近くを経てなお、映画やCM音楽で頻繁に引用される20世紀で最も広く知られる合唱曲の一つとなった。一方でナチス体制下での活動、とりわけメンデルスゾーンの音楽の代替品を書いたという経歴は、芸術家が全体主義体制とどう関わったかという難しい問いを今も投げかけ続けている。教育法の面では、後にブリテンが探求した青少年向けの音楽教育とはまた異なる、身体的な音楽体験を重視するアプローチとして今も世界中で実践されている。",
+      "en": "Nearly a century after its premiere, his best-known choral work remains one of the most widely recognized pieces of twentieth-century music, frequently quoted in film and advertising. At the same time, his activity under the Nazi regime, and especially his role in supplying music to replace Mendelssohn's, continues to raise difficult questions about how artists engaged with totalitarian power. His educational method, distinct from the youth-oriented approach Britten later pursued, remains practiced worldwide as a way of teaching music through physical experience."
+    },
+    "keywords": {
+      "ja": [
+        "原始的なリズムの反復",
+        "シュールベルクによる音楽教育",
+        "ナチス体制下での複雑な経歴"
+      ],
+      "en": [
+        "Primal rhythmic repetition",
+        "Schulwerk music education method",
+        "Complicated record under the Nazi regime"
+      ]
+    }
+  },
   "95": {
     "biography": {
       "ja": "ジュリアード音楽院で学んだのち、コプランドと同様にパリでブーランジェに師事した。パリ滞在中、シタール奏者ラヴィ・シャンカルの仕事を手伝って西洋の拍子とは異なるインドのリズムの構造に触れた経験が、その後の作風を大きく方向づけたとされる。\n1960年代から70年代にかけては、伝統的な演奏会場ではなく画廊やロフトを舞台に、自ら組織したアンサンブルで増幅された反復的な音楽を演奏する活動を続けた。のちには映画音楽の分野でも幅広く活動し、商業的にも大きな成功を収めている。",
@@ -1887,6 +1913,58 @@
       ]
     }
   },
+  "101": {
+    "biography": {
+      "ja": "ドイツのケルン近郊に生まれ、ダルムシュタット夏季現代音楽講習会を中心にヨーロッパの前衛音楽を牽引した。ケルンの電子音楽スタジオで先駆的な作品を残し、生演奏と電子音を融合させる手法を追求した。教え子の一人は後にドイツの実験的ロックバンドを結成しており、前衛音楽と当時のポピュラー音楽の境界を越える影響力を持った作曲家でもある。",
+      "en": "Born near Cologne, Germany, he became a leading figure of the European avant-garde centered on the Darmstadt summer courses for new music. He produced pioneering works at Cologne's electronic music studio and pursued techniques combining live performance with electronic sound. One of his students went on to found an experimental German rock band, reflecting an influence that crossed the boundary between the avant-garde and the popular music of the era."
+    },
+    "style": {
+      "ja": "セリー音楽の徹底、電子音楽の開拓、演奏者に一定の裁量を委ねる偶然性の要素の導入など、20世紀後半の前衛技法をほぼ網羅的に実践した。空間そのものを作曲の要素として扱い、複数の演奏グループを会場内に配置して音が移動する感覚を作り出す試みや、演劇的な要素を取り込んだ大規模な連作オペラにも取り組んだ。",
+      "en": "He practiced nearly the full range of postwar avant-garde techniques: the thoroughgoing use of serialism, pioneering work in electronic music, and elements of chance that ceded a degree of discretion to the performer. He treated physical space itself as a compositional element, placing multiple performing groups around a venue to create a sense of sound in motion, and he also undertook a vast operatic cycle incorporating theatrical elements."
+    },
+    "impact": {
+      "ja": "電子音楽の開拓者としてクセナキスと並び称され、両者はともに音そのものの物理的な性質から出発する作曲を追求したが、クセナキスが確率と建築に、彼が空間と電子音響により重きを置いた点で対照的な道筋をたどった。前衛音楽の枠を越えてロックやポップスのミュージシャンにまで影響を及ぼした稀有な現代作曲家として広く記憶されている。",
+      "en": "As a pioneer of electronic music he is often mentioned alongside Xenakis, both of whom began composing from the physical properties of sound itself, though Xenakis leaned more toward probability and architecture while he leaned more toward space and electronic sound. He is widely remembered as one of the rare contemporary composers whose influence reached beyond the avant-garde into rock and popular music."
+    },
+    "keywords": {
+      "ja": [
+        "ケルン電子音楽スタジオでの開拓",
+        "空間を作曲要素とする試み",
+        "ロック・ポップスへの越境的影響"
+      ],
+      "en": [
+        "Pioneering work at the Cologne electronic studio",
+        "Space treated as a compositional element",
+        "Influence crossing into rock and pop"
+      ]
+    }
+  },
+  "104": {
+    "biography": {
+      "ja": "北仏オンフルールに生まれ、パリ音楽院を経て、当時勃興していたスコラ・カントルムでヴァンサン・ダンディに師事した。モンマルトルのキャバレーでピアノを弾いて生計を立てながら独自の作風を貫き、風変わりな作品名や奇矯な生活ぶりでも知られたが、ドビュッシーやラヴェルら同時代の作曲家からは早くから才能を認められていた。",
+      "en": "Born in Honfleur in northern France, he studied at the Paris Conservatoire and later with Vincent d'Indy at the newly founded Schola Cantorum. He earned a living playing piano in Montmartre cabarets while pursuing a wholly individual style, becoming known for eccentric titles and an unconventional lifestyle, yet contemporaries such as Debussy and Ravel recognized his talent early on."
+    },
+    "style": {
+      "ja": "後期ロマン派の重厚な語法とは正反対の、簡素で反復的、装飾を削ぎ落とした作風を確立した。「家具の音楽」と自ら名付けた、聞き手の注意を引かないことを意図した音楽の概念を提唱し、後世のアンビエント・ミュージックの先駆けともみなされている。演劇的なバレエ音楽では前衛的な美術家・文学者との共同制作にも踏み出した。",
+      "en": "He established a style diametrically opposed to the dense idiom of late Romanticism, spare, repetitive, and stripped of ornament. He proposed a concept he himself named \"furniture music,\" music deliberately intended not to draw the listener's attention, and it is now regarded as a forerunner of later ambient music. In his theatrical ballet scores he also collaborated with avant-garde visual artists and writers."
+    },
+    "impact": {
+      "ja": "師事したダンディや、ドビュッシー・ラヴェルらとの交友を通じてフランス音楽界の一角に身を置きながらも、いかなる流派にも完全には属さない孤高の存在であり続けた。簡素で反復的な語法は、その後のミニマル・ミュージックの理念を先取りしていたとも評され、20世紀を通じて多様な後進の作曲家に間接的な影響を与え続けている。",
+      "en": "Though placed within French musical life through his studies with d'Indy and his friendships with Debussy and Ravel, he remained a singular figure who never fully belonged to any school. His spare, repetitive idiom is often credited with anticipating the ideas behind later minimalist music, and he has continued to exert an indirect influence on a wide range of composers throughout the twentieth century."
+    },
+    "keywords": {
+      "ja": [
+        "家具の音楽という概念",
+        "簡素で反復的な作風",
+        "いかなる流派にも属さない孤高の存在"
+      ],
+      "en": [
+        "The concept of furniture music",
+        "Spare, repetitive style",
+        "A singular figure outside any school"
+      ]
+    }
+  },
   "105": {
     "biography": {
       "ja": "パリ音楽院で学んだが、和声の規則に収まらない響きを好み、教師たちとしばしば衝突した。1889年のパリ万国博覧会でジャワのガムランに接した経験は、機能和声とは別の音の組み立て方がありうることを彼に確信させたと言われる。\n和音を「次にどこへ進むか」ではなく「その響き自体」として扱い、全音音階や教会旋法を用いて調性の重力をゆるめた。この手法はしばしば絵画になぞらえて「印象主義」と呼ばれるが、本人はこの呼び名を好まなかった。",
@@ -1991,6 +2069,84 @@
       ]
     }
   },
+  "111": {
+    "biography": {
+      "ja": "ヴェネツィアに生まれ、マリピエロに師事した。シェーンベルクの娘ヌリアと結婚し、その縁もあって新ウィーン楽派の語法を深く継承した。イタリア共産党員として政治活動にも積極的に関わり、労働運動や反ファシズムといった主題を音楽作品に直接反映させたことで知られる。",
+      "en": "Born in Venice, he studied under Malipiero. He married Nuria, the daughter of Arnold Schoenberg, and through that connection absorbed the idiom of the Second Viennese School deeply. An active member of the Italian Communist Party, he is known for reflecting subjects such as the labor movement and anti-fascism directly in his music."
+    },
+    "style": {
+      "ja": "セリー技法を出発点としながらも、次第に演奏空間そのものを音響的に活用する手法や、政治的なテキストを直接引用する手法を取り入れ、抽象的な前衛技法と具体的な社会的主張を結びつけた。晩年は極めて微弱な音量と沈黙を多用する瞑想的な語法へと移り、聴取そのものの在り方を問い直す作品を追求した。",
+      "en": "Starting from serial technique, he increasingly incorporated the acoustic use of performance space itself and the direct quotation of political texts, fusing abstract avant-garde technique with concrete social statement. In his later years he moved toward a meditative idiom built on extremely quiet dynamics and silence, pursuing works that questioned the very nature of listening."
+    },
+    "impact": {
+      "ja": "同世代のダルムシュタット系の作曲家であるシュトックハウゼンやブーレーズと技法的な出発点を共有しながらも、政治的な関与という点で際立って独自の道を歩んだ。教え子の一人は後にドイツを代表する現代作曲家となり、抽象と社会性を両立させる姿勢を受け継いでいる。同時代のイタリアの作曲家ベリオとはしばしば対照的な存在として論じられ、政治への直接的な関与を貫いた点で特異な位置を占める。",
+      "en": "While sharing a technical starting point with Darmstadt contemporaries such as Stockhausen and Boulez, he took a strikingly distinct path through his direct political engagement. One of his students went on to become a leading German composer of the following generation, carrying forward a stance that holds abstraction and social concern together. He is often discussed in contrast to his Italian contemporary Berio, and occupies a distinctive place for the consistency of his direct political commitment."
+    },
+    "keywords": {
+      "ja": [
+        "シェーンベルクの娘婿",
+        "政治的関与を音楽に直結",
+        "沈黙と静寂を用いた晩年様式"
+      ],
+      "en": [
+        "Son-in-law of Arnold Schoenberg",
+        "Political commitment fused with music",
+        "Late style built on silence and stillness"
+      ]
+    }
+  },
+  "112": {
+    "biography": {
+      "ja": "現在のスロバキア、ブラチスラヴァに生まれ、ブダペストで学んだ後はピアニストとしても国際的に活躍した。リスト音楽院で教授・院長を務め、バルトークやコダーイと同時代のハンガリー楽壇を支えた中心人物の一人であったが、二人が民謡研究に基づく前衛的な語法を切り拓いたのとは対照的に、より保守的な後期ロマン派の語法を守り続けた。晩年はアメリカへ移り生涯を終えた。",
+      "en": "Born in Bratislava, in present-day Slovakia, he studied in Budapest and also had an international career as a pianist. He served as professor and director at the Liszt Academy and was one of the central figures sustaining Hungarian musical life alongside his contemporaries Bartók and Kodály, though in contrast to the two of them, who forged an avant-garde idiom rooted in folk-song research, he remained committed to a more conservative late-Romantic language. He spent his final years in the United States."
+    },
+    "style": {
+      "ja": "ブラームスに連なる堅固な形式感と、リストやワーグナーの流れを汲む豊かな和声語法を受け継いだ、後期ロマン派の正統的な継承者としての作風を貫いた。バルトークやコダーイのような民謡の直接的な引用よりも、ハンガリー的な旋律感覚を洗練された西欧的な語法の内側に溶け込ませる書き方を好んだ。",
+      "en": "He maintained a style that stood as a faithful heir to late Romanticism, carrying forward the solid formal sense associated with Brahms alongside the rich harmonic language descended from Liszt and Wagner. Rather than directly quoting folk song as Bartók and Kodály did, he preferred to dissolve a Hungarian melodic sensibility into a refined, Western European idiom."
+    },
+    "impact": {
+      "ja": "作曲家としてよりも、教育者・演奏家としてハンガリー音楽界を長年にわたり支えた功績が大きい。バルトークとコダーイという二人の革新者と同時代に活動しながら、あえて保守的な語法を守り続けたことで、20世紀ハンガリー音楽が単一の潮流ではなく多様な立場を内包していたことを示す好例となっている。",
+      "en": "His greater legacy lies less in composition than in the years he spent sustaining Hungarian musical life as an educator and performer. Working alongside the two innovators Bartók and Kodály while deliberately holding to a more conservative idiom, he stands as a clear example of how twentieth-century Hungarian music encompassed more than a single current."
+    },
+    "keywords": {
+      "ja": [
+        "バルトーク・コダーイと同時代の保守派",
+        "リスト音楽院での教育活動",
+        "後期ロマン派の正統的継承"
+      ],
+      "en": [
+        "Conservative contemporary of Bartók and Kodály",
+        "Educator at the Liszt Academy",
+        "Faithful heir to late Romanticism"
+      ]
+    }
+  },
+  "116": {
+    "biography": {
+      "ja": "パリに生まれ、パリ音楽院で学んだ後は極端なまでに自己批判的な性格で知られ、自らの基準に満たないと判断した多数の作品を焼却したため、現存する作品数はごくわずかである。パリ音楽院で長年教鞭を執り、門下からはメシアンやミヨーら次世代を代表する作曲家が育った。",
+      "en": "Born in Paris and trained at the Paris Conservatoire, he became known for an extreme self-critical streak, burning a large number of works he judged to fall short of his own standards, so that very few of his compositions survive. He taught for many years at the Conservatoire, where his pupils included Messiaen and Milhaud, both leading figures of the next generation."
+    },
+    "style": {
+      "ja": "フランス印象主義の色彩感覚とドイツ的な堅固な管弦楽構成を併せ持ち、幻想的な物語性を精緻なオーケストレーションで描き出す語法を得意とした。代表作は魔法使いの弟子が制御を失った箒を描く交響詩で、擬人化された対象の動きを音楽で克明に描写する手法が高く評価されている。",
+      "en": "He combined the coloristic sensibility of French impressionism with a solidly German sense of orchestral construction, excelling at using precise orchestration to depict fantastical narrative. His best-known work is a symphonic poem depicting a sorcerer's apprentice losing control of an enchanted broom, prized for the vivid, exacting way it depicts the movements of a personified object in music."
+    },
+    "impact": {
+      "ja": "作品数の少なさにもかかわらず、代表作は20世紀を通じて最も広く親しまれる管弦楽曲の一つとなり、後年ディズニーのアニメーション映画にも用いられて世界的に知られるようになった。教育者としては門下からメシアンとミヨーという二人の重要な作曲家を送り出しており、寡作な作曲家でありながら次世代への影響は決して小さくない。",
+      "en": "Despite his small output, his best-known work became one of the most widely loved orchestral pieces of the twentieth century, later gaining worldwide fame through its use in a Disney animated film. As a teacher he sent two major composers, Messiaen and Milhaud, into the next generation, so that despite writing little himself, his influence on what followed was far from small."
+    },
+    "keywords": {
+      "ja": [
+        "自作を焼却した極端な自己批判",
+        "物語を精緻に描くオーケストレーション",
+        "メシアンとミヨーの師"
+      ],
+      "en": [
+        "Extreme self-criticism, burning his own scores",
+        "Precise, narrative orchestration",
+        "Teacher of Messiaen and Milhaud"
+      ]
+    }
+  },
   "118": {
     "biography": {
       "ja": "もともとロシア海軍の士官として勤務しており、その後本格的に音楽の道へ転じたという、大作曲家としては異例の経歴を持つ。サンクトペテルブルク音楽院の教授に就任した当初、自身の対位法や和声の知識が不十分であったことを回顧録で率直に認めており、就任後に猛勉強して追いついたと伝えられる。\nロシア国民楽派「ロシア五人組」の中心的な管弦楽の名手として、仲間のムソルグスキーやボロディンが未完のまま残した作品の補筆・管弦楽化という重要な仕事も引き受けている。教え子にはストラヴィンスキーがおり、その影響は次の世代のロシア・モダニズムにも及んでいる。",
@@ -2021,6 +2177,32 @@
       ]
     }
   },
+  "119": {
+    "biography": {
+      "ja": "ポルトガル・トマールに生まれ、ヴィアナ・ダ・モッタに師事した。サラザール独裁体制下で反体制的な立場を鮮明にした作曲家・音楽学者で、政治活動を理由に投獄された経験を持つ。ポルトガル各地の民謡を収集・研究し、その成果を自身の作曲活動に反映させた。",
+      "en": "Born in Tomar, Portugal, he studied under José Vianna da Motta. As a composer and musicologist he took a clearly oppositional stance under the Salazar dictatorship and was imprisoned for his political activity. He collected and studied folk songs from across Portugal and drew on that research directly in his own compositions."
+    },
+    "style": {
+      "ja": "ポルトガル各地の民謡の旋律やリズムを素材としながら、バルトークやコダーイに通じるような、民謡を単に引用するのではなく現代的な和声・対位法へと再構成する姿勢を貫いた。同じくポルトガルの作曲家であるブラガ・サントスが西欧の交響的伝統に接近したのとは対照的に、民族色をより前面に押し出した作風を確立した。",
+      "en": "Drawing on the melodies and rhythms of folk songs from across Portugal, he pursued an approach akin to Bartók and Kodály's, recasting folk material through modern harmony and counterpoint rather than simply quoting it. In contrast to his fellow Portuguese composer Braga Santos, who drew closer to the Western European symphonic tradition, he established a style that foregrounded national folk color more directly."
+    },
+    "impact": {
+      "ja": "独裁体制下で弾圧を受けながらも創作と研究を続けた姿勢は、芸術家の政治的良心という点で広く語られている。ポルトガルの民族音楽学の基礎を築いた研究者としても重要であり、同世代のブラガ・サントスと並んで、20世紀ポルトガル音楽が国内でたどった二つの異なる方向性を体現する存在として位置づけられる。",
+      "en": "His continued work as a creator and scholar despite persecution under the dictatorship is widely discussed as an example of artistic conscience under political pressure. As a scholar he was also foundational to Portuguese ethnomusicology, and alongside his contemporary Braga Santos he embodies one of two distinct directions that twentieth-century Portuguese music took at home."
+    },
+    "keywords": {
+      "ja": [
+        "サラザール体制下での反体制活動と投獄",
+        "ポルトガル民謡の収集と研究",
+        "民族色を前面に出す作風"
+      ],
+      "en": [
+        "Opposition and imprisonment under Salazar",
+        "Collector and scholar of Portuguese folk song",
+        "Style foregrounding national folk color"
+      ]
+    }
+  },
   "121": {
     "biography": {
       "ja": "「フランス六人組」の一員である。第一次世界大戦中、外交官の秘書としてリオデジャネイロに赴任し、サンバなどブラジルの大衆的な舞曲のリズムを直接に吸収した経験を持つ。ハーレムのジャズ・クラブで聴いた音楽に触発された「世界の創造」は、ガーシュウィンによるジャズとクラシックの融合に先立つ、もっとも早い時期のジャズ受容の例の一つである。\nユダヤ系であったためナチス占領下のフランスを逃れてアメリカに渡り、カリフォルニアのミルズ・カレッジで長年教鞭を執った。この時期の教え子にはフィリップ・グラスとスティーヴ・ライヒがおり、のちにアメリカのミニマル・ミュージックを主導することになる二人を直接指導している。",
@@ -2044,6 +2226,32 @@
         "Direct absorption of Brazilian music",
         "Signature use of polytonality",
         "Teacher of Glass and Reich"
+      ]
+    }
+  },
+  "122": {
+    "biography": {
+      "ja": "パリに生まれ、パリ音楽院で学んでローマ賞を受賞した後、長年にわたりローマのヴィラ・メディチ(フランス・アカデミー)の館長を務めた。地中海沿岸の寄港地から着想を得た代表的な管弦楽組曲で知られ、同時代のオネゲルとは合作でオペラを共同制作するなど、幅広い作曲家と交流した。",
+      "en": "Born in Paris, he studied at the Conservatoire, won the Prix de Rome, and then spent many years as director of the Villa Medici, the French Academy in Rome. He is best known for an orchestral suite inspired by ports of call along the Mediterranean, and he collaborated with a wide range of composers, including co-writing an opera together with his contemporary Honegger."
+    },
+    "style": {
+      "ja": "印象主義や新古典主義など特定の一つの流派にとどまらない折衷的な作風を特徴とし、軽妙で機知に富んだ管弦楽法を得意とした。地中海の風景や旅情を鮮やかな色彩で描くオーケストレーションに長け、フランス的な洒脱さとユーモアを兼ね備えた作品を数多く残した。",
+      "en": "His style is eclectic, not confined to any single school such as impressionism or neoclassicism, and he excelled at light, witty orchestral writing. He was skilled at using vivid orchestral color to depict Mediterranean scenery and the feeling of travel, leaving behind many works marked by French wit and elegance."
+    },
+    "impact": {
+      "ja": "ヴィラ・メディチの館長として若い芸術家たちの育成にも携わり、フランス音楽界の重要な行政的役職を歴任した。特定の様式に固執しない折衷性は、同時代のミヨーやオネゲルら「フランス六人組」周辺の作曲家たちとも共鳴し、両大戦間期フランスの多様な音楽的潮流を体現する存在として位置づけられている。",
+      "en": "As director of the Villa Medici he was also involved in nurturing young artists, holding important administrative positions within French musical life. His eclecticism, unattached to any single style, resonates with the composers around Milhaud, Honegger, and the circle known as Les Six, and he stands as a figure embodying the diverse musical currents of interwar France."
+    },
+    "keywords": {
+      "ja": [
+        "地中海の寄港地を描いた管弦楽組曲",
+        "ヴィラ・メディチ館長としての功績",
+        "特定の流派に属さない折衷的作風"
+      ],
+      "en": [
+        "Orchestral suite depicting Mediterranean ports",
+        "Director of the Villa Medici",
+        "Eclectic style outside any single school"
       ]
     }
   },
@@ -2122,6 +2330,32 @@
         "Absorbing folk structure",
         "Percussive rhythmic writing",
         "Founding ethnomusicology"
+      ]
+    }
+  },
+  "127": {
+    "biography": {
+      "ja": "パリに生まれ、セザール・フランクに師事した。パリ音楽院の保守的な教育方針に対抗する形でスコラ・カントルムを設立し、以後長年にわたりその中心的指導者として多くの作曲家を育てた。門下にはサティやオネゲルら、後に全く異なる方向へ進んだ作曲家たちが名を連ねている。",
+      "en": "Born in Paris, he studied under César Franck. In opposition to what he saw as the conservative teaching of the Paris Conservatoire, he founded the Schola Cantorum and served for many years as its central guiding figure, training a large number of composers. His pupils included Satie and Honegger, both of whom would go on to take very different paths."
+    },
+    "style": {
+      "ja": "師フランクから受け継いだ循環形式を重視する堅固な構成美と、フランス的な色彩感覚を融合させた作風を特徴とする。教育者としては対位法とフランス古典音楽の伝統を重視した体系的な教程を確立し、スコラ・カントルムの教育方針そのものが一つの明確な様式的立場を体現していた。",
+      "en": "His style fuses the solid structural beauty derived from his teacher Franck's emphasis on cyclic form with a French sense of color. As an educator he established a systematic curriculum emphasizing counterpoint and the tradition of French classical music, and the teaching philosophy of the Schola Cantorum itself embodied a clear stylistic stance."
+    },
+    "impact": {
+      "ja": "スコラ・カントルムはパリ音楽院と並ぶフランス音楽教育の一大拠点となり、サティやオネゲルをはじめ、その後多様な方向に分かれていった作曲家たちの出発点となった。師フランクから受け継いだ音楽的理念を組織として制度化した点で、個々の作品以上に教育制度への貢献によって記憶される作曲家である。",
+      "en": "The Schola Cantorum became a major center of French musical education alongside the Conservatoire and served as the starting point for composers, including Satie and Honegger, who would later diverge in very different directions. Having institutionalized the musical ideals he inherited from his teacher Franck, he is remembered more for his contribution to musical education than for his individual works."
+    },
+    "keywords": {
+      "ja": [
+        "スコラ・カントルムの創設",
+        "フランクから受け継いだ循環形式",
+        "サティとオネゲルを育てた教育者"
+      ],
+      "en": [
+        "Founder of the Schola Cantorum",
+        "Cyclic form inherited from Franck",
+        "Teacher of Satie and Honegger"
       ]
     }
   },
@@ -2226,6 +2460,32 @@
         "Uncompromising total serialism",
         "Founding IRCAM",
         "Dual authority as composer and conductor"
+      ]
+    }
+  },
+  "133": {
+    "biography": {
+      "ja": "イタリア・インペリアに生まれ、ダラピッコラに師事した。独奏楽器のために書かれた技巧的な連作曲や、既存の楽曲を引用・重ね合わせるコラージュ的な手法を用いた管弦楽曲で国際的な名声を確立した。ハーバード大学やジュリアード音楽院でも教鞭を執り、教え子の一人は後にイタリアを代表する作曲家の一人となった。",
+      "en": "Born in Imperia, Italy, he studied under Dallapiccola. He established international fame with a series of virtuosic works for solo instruments and with orchestral works using a collage-like technique that quoted and layered existing music. He also taught at Harvard University and the Juilliard School, and one of his students went on to become one of Italy's best-known composers of a later generation."
+    },
+    "style": {
+      "ja": "独奏楽器一つの可能性を極限まで追求する連作は、楽器ごとの技巧と表現力を再定義する試みとして知られる。管弦楽曲では既存の交響曲の一楽章を土台に据え、その上に多様な引用や声のテキストを重ねるコラージュ的な手法を確立し、引用そのものを作曲の中心的な手段とした点で特異な位置を占める。",
+      "en": "His series of works exploring the limits of a single solo instrument is known as an attempt to redefine each instrument's technical and expressive possibilities. In his orchestral works he established a collage technique that layered a movement from an existing symphony with a wide range of quotations and spoken text, occupying a distinctive place for making quotation itself a central compositional device."
+    },
+    "impact": {
+      "ja": "既存の音楽を素材として引用・再構成する手法は、後のポストモダン音楽における引用の美学に大きな影響を与えた。同郷の同世代作曲家ノーノとはしばしば対比され、ノーノが政治的関与を音楽に直結させたのに対し、彼は技法的な実験と引用の遊戯性により重きを置いた対照的な存在として論じられる。",
+      "en": "His technique of quoting and recombining existing music as raw material had a major influence on the aesthetics of quotation in later postmodern music. He is often contrasted with his Italian contemporary Nono: where Nono fused music directly with political commitment, he is discussed as placing greater weight on technical experimentation and the playfulness of quotation."
+    },
+    "keywords": {
+      "ja": [
+        "独奏楽器のための連作",
+        "既存楽曲を重ねるコラージュ手法",
+        "ノーノとの対照的な立ち位置"
+      ],
+      "en": [
+        "Series of works for solo instruments",
+        "Collage technique layering existing music",
+        "Contrasted with contemporary Nono"
       ]
     }
   },
@@ -2390,6 +2650,32 @@
         "From naval officer to composer",
         "Exoticism from his own voyages",
         "Impressionism to neoclassicism"
+      ]
+    }
+  },
+  "141": {
+    "biography": {
+      "ja": "ベルギー・リエージュに生まれ、ヴュータンやヴィエニャフスキといった当代随一のヴァイオリンの名手たちに師事した。「ヴァイオリンの王」と称されるほどの演奏技術を誇り、ブリュッセル王立音楽院で教育にも携わった。同時代の作曲家セザール・フランクは、彼の結婚祝いとしてヴァイオリン・ソナタを献呈している。",
+      "en": "Born in Liège, Belgium, he studied under some of the finest violinists of the age, including Vieuxtemps and Wieniawski. Renowned for a technique that earned him the title \"King of the Violin,\" he also taught at the Royal Conservatory of Brussels. His contemporary César Franck dedicated a violin sonata to him as a wedding gift."
+    },
+    "style": {
+      "ja": "演奏家としての卓越した技巧を作曲にも反映させ、無伴奏ヴァイオリンのための6曲のソナタでは、それぞれを同時代の異なる名手に捧げ、各人の演奏様式を音楽的に描き分けるという趣向を凝らした。バッハの無伴奏作品の伝統を継承しつつ、後期ロマン派から近代へ移り変わる和声語法を取り入れた。",
+      "en": "He carried his own exceptional performing technique directly into composition; in his six sonatas for solo violin, each dedicated to a different virtuoso of his day, he devised the conceit of musically portraying each dedicatee's individual playing style. He inherited the tradition of Bach's unaccompanied works while incorporating the harmonic language moving from late Romanticism toward the modern era."
+    },
+    "impact": {
+      "ja": "演奏家としての名声はフランクをはじめとする同時代の作曲家たちからの信頼につながり、自身に献呈された作品を通じてヴァイオリン・レパートリーの拡充に大きく貢献した。無伴奏ソナタ集はバッハの無伴奏作品とともに、今日でもヴァイオリニストの技量が試される重要なレパートリーであり続けている。",
+      "en": "His fame as a performer earned him the trust of contemporary composers, including Franck, and works dedicated to him substantially enriched the violin repertoire. His set of unaccompanied sonatas, alongside Bach's own solo works, remains an essential repertoire against which violinists' technique continues to be measured today."
+    },
+    "keywords": {
+      "ja": [
+        "ヴァイオリンの王と称された名手",
+        "無伴奏ヴァイオリンのための6つのソナタ",
+        "フランクのソナタの献呈を受けた人物"
+      ],
+      "en": [
+        "Renowned virtuoso called the King of the Violin",
+        "Six sonatas for solo violin",
+        "Dedicatee of Franck's violin sonata"
       ]
     }
   },
@@ -2762,6 +3048,32 @@
         "Deliberate conservatism",
         "Brucknerian ambition of scale",
         "A recently reassessed apocalyptic masterwork"
+      ]
+    }
+  },
+  "161": {
+    "biography": {
+      "ja": "現在のスロヴェニアに生まれ、ウィーンで学んだ。音楽評論家としてはワーグナー派の急先鋒としてブラームスを激しく攻撃したことで知られ、当時のウィーン楽壇の党派対立を体現する人物であった。梅毒による病に生涯苦しめられ、精神を病んで精神病院に収容された末、40代前半で世を去った。",
+      "en": "Born in what is now Slovenia, he studied in Vienna. As a music critic he was known as a fierce partisan of Wagner who attacked Brahms sharply, embodying the factional rivalries of Viennese musical life at the time. He suffered throughout his life from illness caused by syphilis and, his mind deteriorating, was confined to an asylum before dying in his early forties."
+    },
+    "style": {
+      "ja": "詩の言葉の抑揚や意味の陰影を細部まで音楽に映し出す精緻な歌曲書法を確立し、シューベルトから続くドイツ・リートの伝統を新たな高みへ押し上げた。ピアノ伴奏部を単なる伴奏ではなく詩の心理描写を担う対等な声部として扱い、ワーグナーの半音階的和声語法を歌曲という小さな器の中で応用した。",
+      "en": "He established a meticulous song-writing technique that reflected the inflection and shades of meaning of poetic text in fine detail, carrying the German Lied tradition descended from Schubert to a new height. He treated the piano accompaniment not as mere support but as an equal voice conveying the poem's psychology, applying Wagner's chromatic harmonic language within the small vessel of the song."
+    },
+    "impact": {
+      "ja": "生前は批評家としての攻撃的な言動もあってウィーン楽壇で物議を醸したが、歌曲作曲家としてはシューベルトの後継者として高く評価され、特にイタリアの詩を題材とした歌曲集は精緻な詩と音楽の一致の頂点として今なお歌手たちに愛唱されている。ブラームスとの対立は、19世紀後半のウィーンにおける保守派と革新派の分裂を象徴する逸話としてしばしば語られる。",
+      "en": "In his lifetime his combative behavior as a critic made him a controversial figure in Viennese musical life, but as a song composer he came to be regarded as Schubert's true heir, and his song collections setting Italian-themed poetry in particular remain beloved by singers today as a peak achievement of matching text and music with precision. His rivalry with Brahms is often recounted as emblematic of the split between conservative and progressive factions in late-nineteenth-century Vienna."
+    },
+    "keywords": {
+      "ja": [
+        "ブラームスと対立したワーグナー派評論家",
+        "シューベルトを継ぐドイツ・リートの精緻化",
+        "対等な声部としてのピアノ伴奏"
+      ],
+      "en": [
+        "Wagnerian critic who feuded with Brahms",
+        "Refined German Lied inherited from Schubert",
+        "Piano accompaniment as an equal voice"
       ]
     }
   },
