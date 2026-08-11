@@ -1,4 +1,30 @@
 {
+  "1": {
+    "biography": {
+      "ja": "ハンガリーのケストヘイに生まれ、ウィーンで学んだが、正規の音楽教育はごく限られており、実質的にはほぼ独学で作曲を身につけた。40代で書いた聖書のエピソードに基づくオペラが空前の成功を収め、一躍名声を確立した。門下には後にフィンランドを代表する作曲家となるシベリウスがいる。",
+      "en": "Born in Keszthely, Hungary, and trained in Vienna, he received only limited formal instruction and was, in practical terms, largely self-taught as a composer. An opera he wrote in his forties, based on a biblical episode, was an unprecedented success and established his fame at a stroke. His pupils included Sibelius, who would go on to become Finland's leading composer."
+    },
+    "style": {
+      "ja": "ワーグナー流の濃密な和声語法と、東洋的・異国風の旋律の色彩を組み合わせた作風を特徴とし、代表的なオペラでは聖書の物語を華麗な音響で描いた。独学ゆえの型にはまらない自由な発想と、当時最先端であったワーグナーの語法への強い関心が同居する点に独自性がある。",
+      "en": "His style combines dense Wagnerian harmony with an exotic, Orientalist coloring of melody, and his best-known opera depicts a biblical story in richly sonorous music. His distinctiveness lies in the coexistence of an unconventional freedom born of self-teaching with a strong interest in the Wagnerian idiom that was cutting-edge in his day."
+    },
+    "impact": {
+      "ja": "生前は代表作のオペラが繰り返し上演される大ヒット作となり、ウィーン楽壇で確固たる地位を築いたが、没後は次第に上演機会が減り、今日ではヴァイオリン協奏曲など一部の作品のみが知られる。教育者としてはシベリウスを短期間指導しており、独学の作曲家が北欧を代表する若き才能の学びの一端を担ったという点で興味深い接点を残した。",
+      "en": "In his lifetime his signature opera became a repeatedly staged hit that secured him a firm place in Viennese musical life, but performances gradually declined after his death, and today only a handful of works, such as a violin concerto, remain widely known. As a teacher he briefly guided Sibelius, leaving an intriguing point of contact in which a largely self-taught composer played a part in shaping a young talent who would come to represent Nordic music."
+    },
+    "keywords": {
+      "ja": [
+        "独学で身につけた作曲技法",
+        "聖書物語に基づく大ヒットオペラ",
+        "シベリウスを短期間指導"
+      ],
+      "en": [
+        "Largely self-taught composer",
+        "Hit opera on a biblical story",
+        "Briefly taught Sibelius"
+      ]
+    }
+  },
   "2": {
     "biography": {
       "ja": "オーストリアの田舎町出身の敬虔な信者で、社会的にはどこか不器用な人物だったと伝えられる。オルガニストとして高く評価され即興演奏の名手として知られたが、交響曲の作曲家として本格的に評価を確立したのは比較的遅く、常に強い自己不信を抱えていた。\n批評家や弟子たちの助言を受けて自作の交響曲を繰り返し改訂したため、複数の版が並存する曲が少なくない。ウィーンの音楽批評界を二分していたブラームス対ワーグナーの論争では、有力な反ワーグナー派の批評家ハンスリックから「ワーグナー的な交響曲作家」とみなされ、長年にわたり酷評され続けた。",
@@ -389,6 +415,32 @@
       ]
     }
   },
+  "21": {
+    "biography": {
+      "ja": "ニジニ・ノヴゴロドに生まれ、ほぼ独学で作曲を学んだ。ロシア民族楽派を志す作曲家たちのグループ「五人組」の中心的指導者として、ムソルグスキーやリムスキー=コルサコフら年少の作曲家たちを助言と指導で導いた。壮年期に精神的な危機から一時作曲活動を離れ、鉄道会社の職員として働いた時期もある。",
+      "en": "Born in Nizhny Novgorod, he was largely self-taught as a composer. As the central leader of \"The Five,\" a group of composers dedicated to Russian musical nationalism, he guided younger colleagues, including Mussorgsky and Rimsky-Korsakov, through advice and direct mentorship. During a personal crisis in midlife he withdrew from composing for a time and even worked as a railway employee."
+    },
+    "style": {
+      "ja": "西欧の音楽教育に頼らない独自の道を歩み、ロシア民謡や東洋的な旋律素材を色彩豊かな管弦楽法で描く作風を確立した。代表的な交響詩は、コーカサス地方の伝説に基づく異国情緒豊かな題材を扱い、幻想的な和声とオーケストレーションで聴き手を魅了する。",
+      "en": "Charting his own course apart from formal Western European musical training, he established a style that depicted Russian folk song and Orientalist melodic material in richly colored orchestration. His best-known symphonic poem draws on an exotic legend from the Caucasus, captivating listeners with fantastical harmony and orchestration."
+    },
+    "impact": {
+      "ja": "作曲家個人としての作品数は多くないが、「五人組」の指導者として、ロシア民族音楽の理念を若い世代に浸透させた功績は計り知れない。門下のリムスキー=コルサコフはその後さらに管弦楽法を洗練させ、ロシア音楽教育の中心的存在となっており、彼の助言がなければロシア国民楽派の展開は大きく異なっていたと考えられている。",
+      "en": "His personal output as a composer is not large, but his contribution as leader of \"The Five\" in spreading the ideals of Russian musical nationalism to the younger generation is immeasurable. His pupil Rimsky-Korsakov went on to refine orchestration even further and became a central figure in Russian music education, and it is widely thought that without his guidance the development of the Russian nationalist school would have taken a very different course."
+    },
+    "keywords": {
+      "ja": [
+        "ロシア五人組の指導者",
+        "独学によるロシア民族楽派",
+        "リムスキー=コルサコフを導いた助言者"
+      ],
+      "en": [
+        "Leader of The Five",
+        "Self-taught Russian nationalist",
+        "Mentor who guided Rimsky-Korsakov"
+      ]
+    }
+  },
   "22": {
     "biography": {
       "ja": "1915年に渡米し、のちにアメリカに帰化した。ヨーロッパ時代の初期作品の多くは失われており、一部は本人が処分したとも伝えられ、現存する主要作品はほぼアメリカ時代以降のものに限られている。\n旋律や伝統的な和声ではなく、音色と密度の「塊」や「面」として音を組織するという考え方を追求し、音楽を組織化された騒音や音の塊に近いものとして扱う、当時としてはきわめて急進的な姿勢を貫いた。作曲家として長い沈黙の時期を経たのち、晩年になって電子音響を本格的に用いた作品にも取り組んでいる。",
@@ -467,6 +519,32 @@
       ]
     }
   },
+  "27": {
+    "biography": {
+      "ja": "ヴェネツィアの裕福な紙商人の家に生まれ、経済的に恵まれた立場から公職に就く必要なく作曲活動に専念できた点で、同時代の多くの作曲家とは異なる境遇にあった。存命中に数多くのオペラを発表して人気を博したが、その大半は今日失われている。同郷のヴィヴァルディとはヴェネツィアの楽壇で同時代を生きた存在である。",
+      "en": "Born into a wealthy Venetian paper-merchant family, he was unusual among composers of his time in being financially independent, free to devote himself to composition without needing to hold an official post. He produced numerous operas that won popularity in his lifetime, though most of them are now lost. He and his fellow Venetian Vivaldi were contemporaries active in the same city's musical life."
+    },
+    "style": {
+      "ja": "イタリア・バロックの器楽合奏様式を洗練させ、明快な旋律線と均整の取れた楽章構成を特徴とする協奏曲や合奏曲を数多く残した。オペラ作曲家としても高い人気を誇ったが、現存する作品は器楽曲が中心であり、当時の評価とは対照的に今日では専ら器楽作曲家として記憶されている。",
+      "en": "He refined the instrumental ensemble style of the Italian Baroque, leaving numerous concertos and ensemble works marked by clear melodic lines and well-balanced movement structure. He was also highly popular as an opera composer, but the works that survive are predominantly instrumental, so that, in contrast to his reputation in his own time, he is remembered today almost exclusively as a composer of instrumental music."
+    },
+    "impact": {
+      "ja": "皮肉なことに、今日最も広く知られる「作品」は20世紀の音楽学者が彼の残した断片的な低音主題を元に自由に作曲し直した楽曲であり、本人が実際に書いた旋律部分はごくわずかに過ぎない。この逸話は、作曲家の名声が後世どのように形作られ、時に本人の手を離れて一人歩きするかを示す興味深い事例としてしばしば紹介される。",
+      "en": "Ironically, the \"work\" most widely known under his name today was in fact freely composed in the twentieth century by a musicologist working from a fragmentary bass line he had left behind, with only a small portion of the actual melody traceable to him. This episode is often cited as a fascinating example of how a composer's reputation can be shaped by later generations, sometimes taking on a life of its own."
+    },
+    "keywords": {
+      "ja": [
+        "経済的に自立した富裕な作曲家",
+        "ヴィヴァルディと同時代のヴェネツィア楽壇",
+        "20世紀に作られた有名な偽作の逸話"
+      ],
+      "en": [
+        "Financially independent, wealthy composer",
+        "Venetian contemporary of Vivaldi",
+        "Famous 20th-century pastiche attributed to him"
+      ]
+    }
+  },
   "29": {
     "biography": {
       "ja": "敬虔なカトリック信者で、音楽の道に完全に身を投じる前には聖職者への道を真剣に考えていた時期がある。この背景は、彼の作品に占める宗教曲・オラトリオの割合の大きさにも表れている。\nゲーテに基づくオペラ「ファウスト」は国際的に絶大な人気を博し、ニューヨークのメトロポリタン歌劇場のこけら落とし公演で上演されるなど、一時期は世界でもっとも頻繁に上演されるオペラの一つになった。比較的小品だった「操り人形の葬送行進曲」は、作曲から数十年後、アルフレッド・ヒッチコックがテレビ番組「ヒッチコック劇場」のテーマ音楽に採用したことで、思いがけない国際的な知名度を得ている。",
@@ -516,6 +594,32 @@
         "Raised within Mozart's household",
         "Bridging Classical and Romantic piano writing",
         "A contemporary rival to Beethoven"
+      ]
+    }
+  },
+  "31": {
+    "biography": {
+      "ja": "アメリカ・チャールストンに生まれ、長年ペンシルベニア大学で教鞭を執った。楽譜そのものを図形的・視覚的なデザインとして構成することで知られ、演奏者に特殊な奏法を要求する作品を数多く残した。代表的な弦楽四重奏曲では、演奏者にマスクの着用や台詞の発声といった演劇的な行為まで求めている。",
+      "en": "Born in Charleston, in the United States, he taught for many years at the University of Pennsylvania. He is known for scores designed as graphic, visual constructions in their own right, leaving numerous works that demand unusual performance techniques. His best-known string quartet even calls for performers to wear masks and speak fragments of text, theatrical acts beyond ordinary playing."
+    },
+    "style": {
+      "ja": "楽器の通常の奏法を超えた特殊奏法を多用し、静寂と鋭い音響の対比、増幅された弦楽器の異様な音色などを駆使して、幻想的で瞑想的な音世界を作り上げた。楽譜のページ全体を円形や十字形などの図形として配置する視覚的な記譜法も特徴で、演奏行為そのものを一種の儀式的な体験へと変える志向を持つ。",
+      "en": "He made extensive use of extended playing techniques beyond an instrument's ordinary practice, building a fantastical, meditative sound world through contrasts between silence and sharp sonority and the uncanny timbres of amplified strings. He is also known for a visual notation that arranges an entire page of the score into shapes such as circles or crosses, reflecting an intent to turn the act of performance itself into something like a ritual experience."
+    },
+    "impact": {
+      "ja": "特殊奏法と視覚的記譜を突き詰めた作風は、ケージが切り拓いた実験音楽の系譜に連なりながら、より劇場的・儀式的な方向へ独自に展開したものと位置づけられる。ピューリッツァー賞を受賞するなど生前から高く評価され、増幅楽器と特殊奏法を組み合わせた室内楽の可能性を大きく広げた作曲家として記憶されている。",
+      "en": "His style, pushing extended technique and visual notation to their limits, is positioned as an offshoot of the experimental lineage Cage opened up, developed in his own distinctly theatrical and ritualistic direction. Honored in his lifetime with a Pulitzer Prize among other awards, he is remembered as a composer who greatly expanded the possibilities of chamber music through the combination of amplified instruments and extended technique."
+    },
+    "keywords": {
+      "ja": [
+        "図形楽譜による視覚的記譜",
+        "演劇的な特殊奏法を要求する室内楽",
+        "ケージに連なる実験音楽の系譜"
+      ],
+      "en": [
+        "Graphic, visually designed scores",
+        "Chamber works demanding theatrical technique",
+        "Extension of Cage's experimental lineage"
       ]
     }
   },
@@ -1125,6 +1229,32 @@
       ]
     }
   },
+  "58": {
+    "biography": {
+      "ja": "フェラーラに生まれ、ルッツァスキに師事した。ローマのサン・ピエトロ大聖堂のオルガニストとして長年活動し、当代随一の鍵盤奏者として国際的な名声を博した。門下のフローベルガーはドイツ語圏へ移り、彼から学んだ様式を北方に伝える橋渡し役となった。",
+      "en": "Born in Ferrara, he studied under Luzzasco Luzzaschi. He served for many years as organist at St Peter's Basilica in Rome and achieved international fame as the leading keyboard player of his day. His pupil Froberger moved into the German-speaking lands and served as the bridge who carried the style he had learned northward."
+    },
+    "style": {
+      "ja": "即興的な性格の強い自由な形式の鍵盤曲を数多く手がけ、大胆な半音階的和声や急激なテンポ変化を駆使する劇的な表現力を特徴とする。トッカータやカンツォーナといった器楽形式を高度に洗練させ、演奏者の自由な解釈の余地を残しつつも精緻に構成された楽曲を数多く残した。",
+      "en": "He composed a large body of free-form keyboard works with a strong improvisatory character, marked by dramatic expressiveness that made bold use of chromatic harmony and abrupt tempo changes. He brought instrumental forms such as the toccata and canzona to a high level of refinement, leaving many works that were meticulously constructed while still leaving room for the performer's own interpretive freedom."
+    },
+    "impact": {
+      "ja": "その鍵盤書法は北方の作曲家たちに大きな影響を及ぼし、門下のフローベルガーを介して北ドイツ・オルガン楽派、さらにはバッハにまで連なる系譜の源流の一つとなった。バッハ自身が彼の曲集を書き写して研究したことが知られており、イタリアからドイツへと受け継がれた鍵盤音楽の伝統において重要な結節点を占めている。",
+      "en": "His keyboard writing exerted a major influence on composers to the north, and through his pupil Froberger it became one of the wellsprings feeding into the North German organ school and, eventually, Bach. Bach himself is known to have copied out and studied his collections, and he occupies an important node in the tradition of keyboard music passed down from Italy into Germany."
+    },
+    "keywords": {
+      "ja": [
+        "サン・ピエトロ大聖堂の名オルガニスト",
+        "フローベルガーを介した北方への伝播",
+        "バッハが書き写して研究した曲集"
+      ],
+      "en": [
+        "Renowned organist of St Peter's Basilica",
+        "Style carried north via Froberger",
+        "Collections copied and studied by Bach"
+      ]
+    }
+  },
   "59": {
     "biography": {
       "ja": "フランス北部リールでスペイン系の家系に生まれ、パリ音楽院で学んだ後はヴァイオリン・ヴィオラ奏者として弦楽四重奏団で活動しながら作曲を続けた。長らく目立った成功を得られなかったが、名手パブロ・デ・サラサーテとの出会いを機に彼のために協奏的作品を書くようになり、40代半ばを過ぎてから作曲家としての評価が一気に高まった。",
@@ -1360,6 +1490,32 @@
         "Anticipating verismo",
         "Evoking Spanish exoticism",
         "From failed premiere to enduring masterpiece"
+      ]
+    }
+  },
+  "69": {
+    "biography": {
+      "ja": "リヴォルノに生まれ、ポンキエッリに師事した。若手作曲家を対象とした一幕物オペラのコンクールに応募して書いた作品が空前の大成功を収め、無名の青年作曲家から一夜にして国際的な名声を得た。その後も長く作曲活動を続けたが、この最初の成功作を超える人気作を生み出すことはついになかった。",
+      "en": "Born in Livorno, he studied under Ponchielli. A one-act opera he submitted to a competition for young composers became an unprecedented sensation, catapulting him overnight from an unknown young composer to international fame. He continued composing for decades afterward, but never produced another work as popular as that first success."
+    },
+    "style": {
+      "ja": "市井の人々の激しい感情や暴力的な結末を写実的に描く「ヴェリズモ」(現実主義)オペラの様式を確立した最初期の作曲家の一人であり、短い時間の中で緊迫感を一気に高める劇的な構成を得意とした。民衆的な旋律の親しみやすさと、激情を煽るオーケストレーションを組み合わせた語法を特徴とする。",
+      "en": "He was one of the earliest composers to establish the verismo (realist) opera style, depicting the intense emotions and violent endings of ordinary people, and he excelled at dramatic construction that built tension rapidly within a short span. His idiom combines the accessibility of popular melody with orchestration designed to inflame passion."
+    },
+    "impact": {
+      "ja": "その代表作は今日でも上演機会の多い定番演目であり続け、ヴェリズモ・オペラという一時代を築くきっかけとなった記念碑的作品として音楽史に刻まれている。同じくヴェリズモの流れに位置づけられるプッチーニや、ベルカント時代のドニゼッティに続くイタリア・オペラの系譜において、写実主義への転換点を体現する存在として位置づけられる。",
+      "en": "His signature work remains a staple frequently performed today, recorded in music history as the landmark piece that helped launch an entire era of verismo opera. Within the lineage of Italian opera running from bel canto composers like Donizetti through to his fellow verismo figure Puccini, he stands as the composer who embodies the turning point toward realism."
+    },
+    "keywords": {
+      "ja": [
+        "一夜にして名声を得たヴェリズモ・オペラ",
+        "現実主義を音楽で描く劇的構成",
+        "その後を超えられなかった最初の成功"
+      ],
+      "en": [
+        "Overnight verismo opera sensation",
+        "Dramatic construction depicting realism",
+        "Never surpassed his own first success"
       ]
     }
   },
@@ -3103,6 +3259,32 @@
       ]
     }
   },
+  "164": {
+    "biography": {
+      "ja": "イングランドに生まれ、アイルランド系の血を引いた。ジョン・アイアランドらに師事したが、第一次世界大戦への従軍中に頭部へ砲弾の破片を受ける重傷を負い、生涯にわたってその後遺症に苦しめられた。晩年はアイルランドのケンメア近郊に移り住み、静養と作曲を続けたが、湾での散策中に急死した。",
+      "en": "Born in England of partly Irish descent, he studied under John Ireland among others. While serving in the First World War he was seriously wounded by shrapnel to the head, a wound whose effects troubled him for the rest of his life. In his later years he settled near Kenmare in Ireland, continuing to rest and compose there until his sudden death during a walk by the bay."
+    },
+    "style": {
+      "ja": "イングランドとアイルランド両方の民謡的な旋律感覚を吸収し、田園的で叙情的な色彩の濃い作風を確立した。管弦楽法は色彩豊かで、代表的な交響曲は完成までに長い年月を要したことで知られ、戦争の後遺症と苦闘しながら書き進められた経緯が作品の陰影に反映されているとも評される。",
+      "en": "He absorbed the folk-melodic sensibility of both England and Ireland, establishing a pastoral, lyrically colored style. His orchestration is richly hued, and his best-known symphony took many years to complete, its long gestation, carried out while he struggled with the lasting effects of his wartime wound, often said to be reflected in the work's shadowed character."
+    },
+    "impact": {
+      "ja": "同時代にイングランド民謡の収集と作曲を結びつけたヴォーン・ウィリアムズの系譜に連なる作曲家として位置づけられ、両者の作品はしばしば並べて論じられる。戦争による負傷という個人的な苦難を抱えながら創作を続けた経歴は、20世紀前半のイギリス作曲家が経験した戦争の影を伝える一例としても言及される。",
+      "en": "He is placed within the lineage of composers such as Vaughan Williams, who linked English folk-song collecting with composition, and their works are often discussed together. His career, carried on despite the personal hardship of a wartime wound, is also cited as one example of the shadow the war cast over early twentieth-century British composers."
+    },
+    "keywords": {
+      "ja": [
+        "戦傷の後遺症と闘いながらの創作",
+        "英愛両方の民謡的な叙情性",
+        "田園的な色彩の管弦楽法"
+      ],
+      "en": [
+        "Composing while battling a wartime wound",
+        "Anglo-Irish folk lyricism",
+        "Pastorally colored orchestration"
+      ]
+    }
+  },
   "165": {
     "biography": {
       "ja": "父ヨハン・シュトラウス1世も高名な楽団指揮者だったが、息子には音楽家ではなく銀行員になることを望み、稽古を禁じたと伝えられる。母が父に隠れてヴァイオリンの手ほどきを受けさせ、19歳で自らの楽団を率いてデビューした際には、父の支持者との間で人気を二分する騒動になったという。\n父の死後は二つの楽団を統合し、ウィーンの舞踏音楽の第一人者となった。後年は活動の軸を舞踏会用の楽曲からオペレッタの劇場作品へと広げている。",
@@ -3337,6 +3519,32 @@
       ]
     }
   },
+  "178": {
+    "biography": {
+      "ja": "ディジョンに生まれ、若い頃から教会オルガニストとして各地を転々とした。50歳近くになるまでオペラの作曲には手を染めず、それ以前は鍵盤音楽の作曲家、そして何より和声理論の著述家として名を知られていた。その理論書は機能和声の考え方を体系的に整理した画期的な著作として、後の音楽理論全体の土台となった。",
+      "en": "Born in Dijon, he worked in his younger years as a church organist in various towns. He did not turn to opera composition until he was nearly fifty; before that he was known primarily as a composer of keyboard music and, above all, as the author of a treatise on harmony. That treatise systematically laid out the principles of functional harmony and became a foundational text for later music theory as a whole."
+    },
+    "style": {
+      "ja": "みずから理論化した機能和声の考え方を実作にも一貫して反映させ、劇的な場面転換や自然描写を大胆な和声とオーケストレーションで描く語法を確立した。舞踊的な要素を重視する壮麗な悲劇的抒情劇(トラジェディ・リリック)を数多く手がけ、フランス・オペラの伝統をリュリの世代から大きく発展させた。",
+      "en": "He consistently reflected the functional-harmony principles he had himself theorized in his actual compositions, establishing a language that used bold harmony and orchestration to depict dramatic scene changes and nature. He wrote numerous grand tragédies lyriques emphasizing dance, significantly advancing the French operatic tradition beyond the generation of Lully."
+    },
+    "impact": {
+      "ja": "和声理論の著作は、後の西洋音楽理論全体が調性を説明する枠組みの出発点となり、今日の音楽教育で教えられる和声学の基礎の多くが彼の考えに由来する。オペラ作曲家としても、モンテヴェルディ以来の劇音楽の系譜を受け継ぎながらフランス独自の様式を確立し、フランス・バロック音楽の頂点を代表する存在となった。",
+      "en": "His treatise on harmony became the starting point for the framework Western music theory has used to explain tonality ever since, and much of the harmony taught in music education today traces back to his ideas. As an opera composer he inherited the lineage of dramatic music going back to Monteverdi while establishing a distinctly French style, standing as a representative peak of French Baroque music."
+    },
+    "keywords": {
+      "ja": [
+        "機能和声理論の確立",
+        "50歳近くまで待ったオペラ作曲",
+        "フランス・バロック・オペラの頂点"
+      ],
+      "en": [
+        "Founder of functional harmony theory",
+        "Turned to opera only near age fifty",
+        "Pinnacle of French Baroque opera"
+      ]
+    }
+  },
   "179": {
     "biography": {
       "ja": "神童としてリムスキー=コルサコフに見出され直接指導を受け、バラキレフやボロディンからも支援を受けた。\nロシア革命という激動の時代にサンクトペテルブルク音楽院の院長を務め、学院とその学生・教員を守ろうと努めた。当時まだ若い学生だったショスタコーヴィチを、自らの立場を用いて庇護したとも伝えられている。革命後は西欧へ亡命し、パリに定住した。自身の作風は19世紀ロシア・ロマン派の国民主義に根ざしたままだったが、次のソヴィエト時代のモダニストの世代を育てる機関を率いるという、世代をまたぐ橋渡し役を担った。",
@@ -3416,6 +3624,32 @@
         "Text-painting accompaniment",
         "Founding the song cycle",
         "Father of the German Lied"
+      ]
+    }
+  },
+  "184": {
+    "biography": {
+      "ja": "ケルンに生まれ、ライネッケやヒラーに師事した。指揮者としても各地の楽団を率いながら作曲を続け、晩年はベルリンの音楽大学で教鞭を執った。門下からは後にイタリアで活躍する作曲家レスピーギが育っている。ユダヤ教の典礼旋律を用いた代表的なチェロ作品を書いたが、自身はユダヤ系ではなかった。",
+      "en": "Born in Cologne, he studied under Reinecke and Hiller. He continued to compose while leading orchestras as a conductor, and in his later years taught at a conservatory in Berlin, where his pupils included the composer Respighi, who would go on to a career in Italy. He wrote a well-known cello work based on a Jewish liturgical melody, though he himself was not Jewish."
+    },
+    "style": {
+      "ja": "ロマン派の抒情的な旋律美を基調としながら、堅固な古典的形式感を保つ保守的な語法を貫いた。独奏楽器と管弦楽を組み合わせた協奏的作品を得意とし、民謡や既存の旋律を素材として取り入れ、それを豊かな和声とオーケストレーションで彩る手法をしばしば用いた。",
+      "en": "He maintained a conservative idiom grounded in Romantic lyrical melody while preserving solid classical formal structure. He excelled at concertante works combining a solo instrument with orchestra, often drawing on folk songs and existing melodies as material and coloring them with rich harmony and orchestration."
+    },
+    "impact": {
+      "ja": "代表的なヴァイオリン協奏曲は今日でも協奏曲レパートリーの中核を占める人気作であり続けているが、生前に書いた膨大な作品の大半は忘れられ、ごく一握りの作品のみが今日演奏され続けているという典型例となっている。教育者としてはレスピーギを育て、イタリア近代音楽への橋渡し役の一端も担った。",
+      "en": "His best-known violin concerto remains a core, popular staple of the concerto repertoire today, but the great majority of his enormous output in his lifetime has been forgotten, making him a textbook case of a composer remembered for only a handful of works. As a teacher he trained Respighi, playing a part in the bridge toward modern Italian music."
+    },
+    "keywords": {
+      "ja": [
+        "少数の作品のみが残る典型例",
+        "ユダヤ旋律を用いた非ユダヤ系作曲家",
+        "レスピーギを育てた教育者"
+      ],
+      "en": [
+        "Textbook case of a few surviving works",
+        "Non-Jewish composer using Jewish melody",
+        "Teacher who trained Respighi"
       ]
     }
   },
@@ -3892,6 +4126,84 @@
         "Aesthetics of ma",
         "Garden-like form",
         "East-West timbre fusion"
+      ]
+    }
+  },
+  "214": {
+    "biography": {
+      "ja": "ローマ近郊の町パレストリーナに生まれ、後にその地名を自らの通称とした。生涯の大半をローマの主要な聖堂の楽長として過ごし、サン・ピエトロ大聖堂の楽長も務めた。トリエント公会議が典礼音楽の在り方を厳しく問い直した時代に活動し、その音楽は複雑すぎる多声音楽を擁護する模範例として引き合いに出されたという逸話が広く伝えられている。",
+      "en": "Born in the town of Palestrina near Rome, he later took the town's name as his own. He spent most of his career as choirmaster at leading churches in Rome, including St Peter's Basilica. He was active during the era of the Council of Trent, which scrutinized the propriety of liturgical music, and a widely told story holds that his music was cited as a model defense of polyphony against critics who found it too complex."
+    },
+    "style": {
+      "ja": "不協和音の扱いを厳格に規制し、各声部が滑らかに動きながら澄明に調和する均整の取れた対位法を確立した。この様式は後世「パレストリーナ様式」と呼ばれ、厳格対位法を学ぶ際の模範として今日の音楽教育でも参照され続けている、ルネサンス多声音楽の理想像を体現する書法である。",
+      "en": "He established a balanced counterpoint in which dissonance was strictly regulated and each voice moved smoothly within a clear, harmonious texture. This manner of writing, later called the \"Palestrina style,\" continues to be referenced in music education today as a model for the study of strict counterpoint, embodying an ideal of Renaissance polyphony."
+    },
+    "impact": {
+      "ja": "門下からはスペインの作曲家ヴィクトリアをはじめ多くの弟子が育ち、その様式はカトリック教会音楽の規範として広く模倣された。同時代のフランドル出身のラッススと並び称されるルネサンス多声音楽の頂点であり、その均整の取れた書法は数世紀を経た今もなお対位法教育の基礎教材として用いられ続けている。",
+      "en": "His pupils included the Spanish composer Victoria among many others, and his style was widely imitated as the standard for Catholic church music. Ranked alongside his contemporary Lassus of the Franco-Flemish school as a peak of Renaissance polyphony, his balanced writing continues, centuries later, to serve as basic teaching material for the study of counterpoint."
+    },
+    "keywords": {
+      "ja": [
+        "パレストリーナ様式という対位法の規範",
+        "トリエント公会議期の教会音楽",
+        "ヴィクトリアを育てた教育者"
+      ],
+      "en": [
+        "The \"Palestrina style\" as a counterpoint model",
+        "Church music of the Council of Trent era",
+        "Teacher who trained Victoria"
+      ]
+    }
+  },
+  "215": {
+    "biography": {
+      "ja": "スペイン・サグント生まれ。幼少期にジフテリアを患い、3歳で視力をほぼ失った。パリでポール・デュカスに師事し、演奏会用作品の作曲技法を本格的に学んだ。ピアノを主な楽器としていたが、ギターをほとんど演奏しないにもかかわらず、ギター協奏曲の最も有名な作品の一つを書いたことで世界的に知られている。",
+      "en": "Born in Sagunto, Spain, he contracted diphtheria in early childhood and lost most of his sight by the age of three. He studied in Paris under Paul Dukas, gaining a thorough grounding in concert composition. Though the piano was his primary instrument and he rarely played the guitar himself, he became world-famous for writing one of the most celebrated guitar concertos ever composed."
+    },
+    "style": {
+      "ja": "スペインの民族的な旋律感覚とリズムを、フランスで学んだ洗練されたオーケストレーション技法と結びつけた作風を特徴とする。ギター協奏曲の代表作では、独奏ギターの繊細な音量を活かしつつオーケストラと対話させる難題に取り組み、緩徐楽章の抒情的な旋律で特に高い評価を得ている。",
+      "en": "His style combines Spanish national melodic and rhythmic sensibility with the refined orchestration technique he acquired in France. In his best-known guitar concerto he tackled the challenge of letting a soft-voiced solo guitar converse with a full orchestra, and its lyrical slow-movement melody in particular has earned exceptional praise."
+    },
+    "impact": {
+      "ja": "デュカスに師事した点でメシアンやミヨーと同じ師系に連なりながら、フランス印象主義とは異なりスペイン民族色を前面に出す道を選んだ。代表的なギター協奏曲はクラシック・ギターのレパートリーの中で最も広く知られる作品となり、視覚に障害を抱えながら国際的な名声を確立した作曲家として、その生涯そのものが広く語られている。",
+      "en": "Though sharing a teacher with Messiaen and Milhaud through his studies with Dukas, he chose a path that foregrounded Spanish national color rather than French impressionism. His best-known guitar concerto became the most widely recognized work in the classical guitar repertoire, and his life story, that of a composer who achieved international fame despite blindness, is itself widely told."
+    },
+    "keywords": {
+      "ja": [
+        "幼少期に失明した作曲家",
+        "デュカス門下のスペイン民族楽派",
+        "ギター協奏曲の代表作"
+      ],
+      "en": [
+        "Composer blinded in early childhood",
+        "Spanish nationalist pupil of Dukas",
+        "Landmark guitar concerto"
+      ]
+    }
+  },
+  "216": {
+    "biography": {
+      "ja": "カタルーニャ地方カンプロドンに生まれた神童ピアニストで、幼少期から各地を演奏旅行し、若い頃には放浪的な生活を送ったという逸話が数多く伝えられている。ペドレルにスペイン民族音楽の理念を学び、後にライプツィヒなどでも研鑽を積んだ。晩年はパリに拠点を置き、フランスの作曲家たちとも交流した。",
+      "en": "A child-prodigy pianist born in Camprodon, in Catalonia, he toured widely from an early age, and many colorful stories circulate about his footloose youth. He absorbed the ideals of Spanish musical nationalism from Felip Pedrell and later continued his studies in Leipzig and elsewhere. In his later years he was based in Paris, where he mixed with French composers."
+    },
+    "style": {
+      "ja": "スペイン各地の民謡やフラメンコの旋律・リズムを、ピアノという楽器の可能性を極限まで引き出す高度な技巧と結びつけた。代表作となった組曲は、スペイン各地方の風土を音で描き出す標題的な性格を持ちながら、和声法の面ではフランス印象主義とも共鳴する洗練を示している。",
+      "en": "He combined the melodies and rhythms of Spanish folk music and flamenco from across the country with a highly virtuosic writing style that pushed the piano to its expressive limits. His major suite carries the programmatic character of depicting the landscape and character of Spain's various regions in sound, while its harmonic language also shows a refinement that resonates with French impressionism."
+    },
+    "impact": {
+      "ja": "その和声的な洗練は同時代のドビュッシーやラヴェルからも高く評価され、フランス印象主義とスペイン民族音楽が互いに影響し合った証左としてしばしば論じられる。同郷のファリャは彼の作品を出発点の一つとしてスペイン民族楽派をさらに発展させ、ラロやビゼー、シャブリエらフランス側からのスペイン趣味とは逆方向の、スペインからフランスへの影響の流れを代表する存在となった。",
+      "en": "His harmonic sophistication was admired by contemporaries such as Debussy and Ravel, and he is often discussed as evidence of a mutual influence between French impressionism and Spanish nationalist music. His fellow Spaniard Falla took his work as one starting point for developing Spanish musical nationalism further, and he stands as a representative of influence flowing from Spain into France, running in the opposite direction from the Spanish exoticism of French composers such as Lalo, Bizet, and Chabrier."
+    },
+    "keywords": {
+      "ja": [
+        "放浪的な神童ピアニストの逸話",
+        "スペイン地方色を描く組曲",
+        "フランス印象主義との相互影響"
+      ],
+      "en": [
+        "Legendary footloose child-prodigy years",
+        "Suite depicting Spanish regional color",
+        "Mutual influence with French impressionism"
       ]
     }
   },

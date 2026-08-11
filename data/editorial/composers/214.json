@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ローマ近郊の町パレストリーナに生まれ、後にその地名を自らの通称とした。生涯の大半をローマの主要な聖堂の楽長として過ごし、サン・ピエトロ大聖堂の楽長も務めた。トリエント公会議が典礼音楽の在り方を厳しく問い直した時代に活動し、その音楽は複雑すぎる多声音楽を擁護する模範例として引き合いに出されたという逸話が広く伝えられている。",
+    "en": "Born in the town of Palestrina near Rome, he later took the town's name as his own. He spent most of his career as choirmaster at leading churches in Rome, including St Peter's Basilica. He was active during the era of the Council of Trent, which scrutinized the propriety of liturgical music, and a widely told story holds that his music was cited as a model defense of polyphony against critics who found it too complex."
+  },
+  "style": {
+    "ja": "不協和音の扱いを厳格に規制し、各声部が滑らかに動きながら澄明に調和する均整の取れた対位法を確立した。この様式は後世「パレストリーナ様式」と呼ばれ、厳格対位法を学ぶ際の模範として今日の音楽教育でも参照され続けている、ルネサンス多声音楽の理想像を体現する書法である。",
+    "en": "He established a balanced counterpoint in which dissonance was strictly regulated and each voice moved smoothly within a clear, harmonious texture. This manner of writing, later called the \"Palestrina style,\" continues to be referenced in music education today as a model for the study of strict counterpoint, embodying an ideal of Renaissance polyphony."
+  },
+  "impact": {
+    "ja": "門下からはスペインの作曲家ヴィクトリアをはじめ多くの弟子が育ち、その様式はカトリック教会音楽の規範として広く模倣された。同時代のフランドル出身のラッススと並び称されるルネサンス多声音楽の頂点であり、その均整の取れた書法は数世紀を経た今もなお対位法教育の基礎教材として用いられ続けている。",
+    "en": "His pupils included the Spanish composer Victoria among many others, and his style was widely imitated as the standard for Catholic church music. Ranked alongside his contemporary Lassus of the Franco-Flemish school as a peak of Renaissance polyphony, his balanced writing continues, centuries later, to serve as basic teaching material for the study of counterpoint."
+  },
+  "keywords": {
+    "ja": [
+      "パレストリーナ様式という対位法の規範",
+      "トリエント公会議期の教会音楽",
+      "ヴィクトリアを育てた教育者"
+    ],
+    "en": [
+      "The \"Palestrina style\" as a counterpoint model",
+      "Church music of the Council of Trent era",
+      "Teacher who trained Victoria"
+    ]
+  }
+}

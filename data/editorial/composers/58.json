@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "フェラーラに生まれ、ルッツァスキに師事した。ローマのサン・ピエトロ大聖堂のオルガニストとして長年活動し、当代随一の鍵盤奏者として国際的な名声を博した。門下のフローベルガーはドイツ語圏へ移り、彼から学んだ様式を北方に伝える橋渡し役となった。",
+    "en": "Born in Ferrara, he studied under Luzzasco Luzzaschi. He served for many years as organist at St Peter's Basilica in Rome and achieved international fame as the leading keyboard player of his day. His pupil Froberger moved into the German-speaking lands and served as the bridge who carried the style he had learned northward."
+  },
+  "style": {
+    "ja": "即興的な性格の強い自由な形式の鍵盤曲を数多く手がけ、大胆な半音階的和声や急激なテンポ変化を駆使する劇的な表現力を特徴とする。トッカータやカンツォーナといった器楽形式を高度に洗練させ、演奏者の自由な解釈の余地を残しつつも精緻に構成された楽曲を数多く残した。",
+    "en": "He composed a large body of free-form keyboard works with a strong improvisatory character, marked by dramatic expressiveness that made bold use of chromatic harmony and abrupt tempo changes. He brought instrumental forms such as the toccata and canzona to a high level of refinement, leaving many works that were meticulously constructed while still leaving room for the performer's own interpretive freedom."
+  },
+  "impact": {
+    "ja": "その鍵盤書法は北方の作曲家たちに大きな影響を及ぼし、門下のフローベルガーを介して北ドイツ・オルガン楽派、さらにはバッハにまで連なる系譜の源流の一つとなった。バッハ自身が彼の曲集を書き写して研究したことが知られており、イタリアからドイツへと受け継がれた鍵盤音楽の伝統において重要な結節点を占めている。",
+    "en": "His keyboard writing exerted a major influence on composers to the north, and through his pupil Froberger it became one of the wellsprings feeding into the North German organ school and, eventually, Bach. Bach himself is known to have copied out and studied his collections, and he occupies an important node in the tradition of keyboard music passed down from Italy into Germany."
+  },
+  "keywords": {
+    "ja": [
+      "サン・ピエトロ大聖堂の名オルガニスト",
+      "フローベルガーを介した北方への伝播",
+      "バッハが書き写して研究した曲集"
+    ],
+    "en": [
+      "Renowned organist of St Peter's Basilica",
+      "Style carried north via Froberger",
+      "Collections copied and studied by Bach"
+    ]
+  }
+}

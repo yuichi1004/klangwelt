@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ケルンに生まれ、ライネッケやヒラーに師事した。指揮者としても各地の楽団を率いながら作曲を続け、晩年はベルリンの音楽大学で教鞭を執った。門下からは後にイタリアで活躍する作曲家レスピーギが育っている。ユダヤ教の典礼旋律を用いた代表的なチェロ作品を書いたが、自身はユダヤ系ではなかった。",
+    "en": "Born in Cologne, he studied under Reinecke and Hiller. He continued to compose while leading orchestras as a conductor, and in his later years taught at a conservatory in Berlin, where his pupils included the composer Respighi, who would go on to a career in Italy. He wrote a well-known cello work based on a Jewish liturgical melody, though he himself was not Jewish."
+  },
+  "style": {
+    "ja": "ロマン派の抒情的な旋律美を基調としながら、堅固な古典的形式感を保つ保守的な語法を貫いた。独奏楽器と管弦楽を組み合わせた協奏的作品を得意とし、民謡や既存の旋律を素材として取り入れ、それを豊かな和声とオーケストレーションで彩る手法をしばしば用いた。",
+    "en": "He maintained a conservative idiom grounded in Romantic lyrical melody while preserving solid classical formal structure. He excelled at concertante works combining a solo instrument with orchestra, often drawing on folk songs and existing melodies as material and coloring them with rich harmony and orchestration."
+  },
+  "impact": {
+    "ja": "代表的なヴァイオリン協奏曲は今日でも協奏曲レパートリーの中核を占める人気作であり続けているが、生前に書いた膨大な作品の大半は忘れられ、ごく一握りの作品のみが今日演奏され続けているという典型例となっている。教育者としてはレスピーギを育て、イタリア近代音楽への橋渡し役の一端も担った。",
+    "en": "His best-known violin concerto remains a core, popular staple of the concerto repertoire today, but the great majority of his enormous output in his lifetime has been forgotten, making him a textbook case of a composer remembered for only a handful of works. As a teacher he trained Respighi, playing a part in the bridge toward modern Italian music."
+  },
+  "keywords": {
+    "ja": [
+      "少数の作品のみが残る典型例",
+      "ユダヤ旋律を用いた非ユダヤ系作曲家",
+      "レスピーギを育てた教育者"
+    ],
+    "en": [
+      "Textbook case of a few surviving works",
+      "Non-Jewish composer using Jewish melody",
+      "Teacher who trained Respighi"
+    ]
+  }
+}
