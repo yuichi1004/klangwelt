@@ -180,6 +180,46 @@ npm test                 # src/lib/curation.test.ts が生成物との整合性�
 
 作曲家 ID をキーにした日本語表記です。220名すべて登録済みですが、表記の慣例は揺れがあるので、より一般的な表記があれば直してください。
 
+## 作曲家の国籍を追加する（`data/nationalities.json`）
+
+作曲家一覧・プロフィールページの国旗表示に使うデータです。**★の定番度と違い、220名全員の登録は必須ではありません。** エントリの無い作曲家は単に国旗が表示されないだけで、ビルドも落ちません（肖像画が無い作曲家に代替表示が出るのと同じ扱いです）。一方で、**存在するエントリの形式ミスはビルド失敗になります** — 間違った国旗が出るくらいなら、何も出ないほうがまし、という考え方です。
+
+作曲家 ID をキーにした1ファイルです（`data/ja/composer-names.json` と同じ形）。
+
+```json
+{
+  "145": { "name": "Beethoven", "country": "DE" },
+  "67": {
+    "name": "Handel",
+    "country": "DE",
+    "note": {
+      "ja": "ドイツに生まれ、22歳でロンドンに渡って以降イギリスで活動し、後年イギリスに帰化した。",
+      "en": "Born in Germany, he moved to London at 22, worked there for the rest of his career, and later became a naturalised British subject."
+    }
+  }
+}
+```
+
+- `name` は id の打ち間違い検出用の照合値です（`composer-stars.json` と同じ仕組み）。Open Opus の短い表記（`RawComposer.name`、例: `"Beethoven"`）と一致しないとエラーになります。
+- `country` は ISO 3166-1 alpha-2 で、`src/lib/countries.ts` の `COUNTRY_LABELS` に存在するものだけを使えます。
+- **多重国籍者は、国旗として表示する「メイン国籍」を1つだけ選んでください。** 複数の国旗を並べると視認性が落ちるためです。もう一方の国籍や経緯を書きたい場合は `note`（`ja`/`en` 両方必須）に自由記述してください。プロフィールページの国籍欄の下に小さく表示されます。
+
+### 新しい国を追加する
+
+`COUNTRY_LABELS` に無い国コードは使えません。追加するときは:
+
+1. `src/lib/countries.ts` の `COUNTRY_LABELS` に ISO コードと日英の国名を1行足す
+2. `npm run build:flags` を実行する — [flag-icons](https://github.com/lipis/flag-icons)（MIT、devDependency）から該当する SVG を `public/flags/<code>.svg` にコピーし、成果物としてコミットする（絵文字国旗は Windows 10 以前で国旗が表示されずISOコードの文字列がそのまま見えてしまうため採用していません。他の画像と同じく自前ホストです）
+3. `data/nationalities.json` にエントリを追加する
+
+### コミット前に機械チェックを通す
+
+```bash
+npm test              # src/lib/nationality.test.ts が data/nationalities.json 単体と、
+                       # COUNTRY_LABELS の全コードに対応する SVG が存在することを検証する
+npm run seed:catalog   # data/catalog/composers.json に反映。エラーがあればここで止まる
+```
+
 ## 肖像画
 
 `scripts/seed/fetch-portraits.ts` が Wikidata の P18 から取得し、Wikimedia Commons が報告するライセンスが許可リスト（`src/lib/licenses.ts`）に一致する場合のみ採用します。**許可リストを緩めないでください。** Open Opus の肖像画は1点ごとの出典が不明で、収録作曲家の3分の1は写真の著作権が存続している可能性が高いため使いません。

@@ -12,6 +12,7 @@ import {
   workIndex,
   type CatalogFilters,
 } from "./catalog";
+import { COUNTRY_LABELS } from "./countries";
 
 const index = buildSearchIndex();
 
@@ -51,6 +52,21 @@ describe("catalog integrity", () => {
       expect(composer.nameJa, composer.completeName).not.toBe(
         composer.completeName,
       );
+    }
+  });
+
+  it("gives every composer with a nationality a recognised country code", () => {
+    // The country code and any note are already validated structurally by
+    // `nationality.test.ts` against `data/nationalities.json`; this just
+    // confirms the build actually carried that data through into the
+    // shipped composers.json rather than dropping it.
+    for (const composer of composers) {
+      if (!composer.nationality) continue;
+      expect(COUNTRY_LABELS[composer.nationality.country], composer.id).toBeDefined();
+      if (composer.nationality.note) {
+        expect(composer.nationality.note.ja.trim().length, composer.id).toBeGreaterThan(0);
+        expect(composer.nationality.note.en.trim().length, composer.id).toBeGreaterThan(0);
+      }
     }
   });
 });

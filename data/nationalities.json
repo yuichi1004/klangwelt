@@ -1,0 +1,29 @@
+{
+  "_comment": "Hand-curated main nationality per composer. See CONTRIBUTING.md. Not every composer needs an entry — a missing id just shows no flag. `name` is a typo-catching echo of the composer's short Open Opus name, not itself data.",
+  "145": { "name": "Beethoven", "country": "DE" },
+  "87": { "name": "Bach", "country": "DE" },
+  "80": { "name": "Brahms", "country": "DE" },
+  "67": {
+    "name": "Handel",
+    "country": "DE",
+    "note": {
+      "ja": "ドイツに生まれ、22歳でロンドンに渡って以降イギリスで活動し、後年イギリスに帰化した。",
+      "en": "Born in Germany, he moved to London at 22, worked there for the rest of his career, and later became a naturalised British subject."
+    }
+  },
+  "196": { "name": "Mozart", "country": "AT" },
+  "183": { "name": "Schubert", "country": "AT" },
+  "35": { "name": "Verdi", "country": "IT" },
+  "146": { "name": "Puccini", "country": "IT" },
+  "105": { "name": "Debussy", "country": "FR" },
+  "57": { "name": "Ravel", "country": "FR" },
+  "45": { "name": "Saint-Saëns", "country": "FR" },
+  "79": { "name": "Tchaikovsky", "country": "RU" },
+  "198": { "name": "Elgar", "country": "GB" },
+  "152": { "name": "Chopin", "country": "PL" },
+  "189": { "name": "Dvořák", "country": "CZ" },
+  "186": { "name": "Sibelius", "country": "FI" },
+  "162": { "name": "Grieg", "country": "NO" },
+  "125": { "name": "Bartók", "country": "HU" },
+  "136": { "name": "Gershwin", "country": "US" }
+}

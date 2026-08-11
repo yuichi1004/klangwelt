@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { ComposerFlag } from "@/components/composer-flag";
 import { ComposerPortrait } from "@/components/composer-portrait";
 import { StarRating } from "@/components/star-rating";
 import type { Locale } from "@/i18n/config";
@@ -48,8 +49,16 @@ export function ComposerGrid({
                     size={128}
                     showCredit={false}
                   />
-                  <p className="mt-2 text-sm font-medium leading-snug text-ink group-hover:text-accent">
-                    {locale === "ja" ? composer.nameJa : composer.completeName}
+                  <p className="mt-2 flex items-start gap-1.5 text-sm font-medium leading-snug text-ink group-hover:text-accent">
+                    {composer.nationality && (
+                      <ComposerFlag
+                        locale={locale}
+                        country={composer.nationality.country}
+                      />
+                    )}
+                    <span className="min-w-0">
+                      {locale === "ja" ? composer.nameJa : composer.completeName}
+                    </span>
                   </p>
                   <p className="flex items-center gap-1.5 text-xs text-ink-faint">
                     <span>

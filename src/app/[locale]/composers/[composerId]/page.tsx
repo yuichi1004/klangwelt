@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { ComposerAllWorks } from "@/components/composer-all-works";
+import { ComposerFlag } from "@/components/composer-flag";
 import { ComposerPortrait } from "@/components/composer-portrait";
 import { StarRating } from "@/components/star-rating";
 import { WorkCard } from "@/components/work-card";
@@ -13,6 +14,7 @@ import {
   getCoreWorksByComposer,
   getPortraitCredit,
 } from "@/lib/catalog";
+import { COUNTRY_LABELS } from "@/lib/countries";
 import { getComposerEditorial } from "@/lib/editorial";
 import { EPOCH_LABELS, EPOCH_YEARS } from "@/lib/epochs";
 
@@ -91,6 +93,28 @@ export default async function ComposerPage(
             </p>
           )}
           <dl className="mt-4 space-y-1.5 text-sm">
+            {composer.nationality && (
+              <div className="flex gap-3">
+                <dt className="w-20 shrink-0 text-ink-faint">
+                  {messages.composer.nationality}
+                </dt>
+                <dd className="text-ink-soft">
+                  <span className="inline-flex items-center gap-1.5">
+                    <ComposerFlag
+                      locale={locale}
+                      country={composer.nationality.country}
+                      size={14}
+                    />
+                    {COUNTRY_LABELS[composer.nationality.country][locale]}
+                  </span>
+                  {composer.nationality.note && (
+                    <p className="mt-1 text-xs text-ink-faint">
+                      {composer.nationality.note[locale]}
+                    </p>
+                  )}
+                </dd>
+              </div>
+            )}
             <div className="flex gap-3">
               <dt className="w-20 shrink-0 text-ink-faint">
                 {messages.composer.born}

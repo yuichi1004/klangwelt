@@ -431,4 +431,21 @@ test.describe("navigation and language", () => {
       /commons\.wikimedia\.org|creativecommons\.org/,
     );
   });
+
+  test("a composer's nationality flag appears on both the list and the profile", async ({
+    page,
+  }) => {
+    // Beethoven (id 145) has a seeded nationality (data/nationalities.json);
+    // ★5, so he is present in the composer list's default (★3+) view.
+    await page.goto("/ja/composers");
+    const card = page.locator('a[href="/ja/composers/145"]');
+    await expect(card.getByRole("img", { name: "ドイツ" })).toBeVisible();
+
+    await card.click();
+    await expect(page).toHaveURL(/\/composers\/145$/);
+    await expect(page.getByText("国籍")).toBeVisible();
+    await expect(
+      page.getByRole("img", { name: "ドイツ" }).first(),
+    ).toBeVisible();
+  });
 });
