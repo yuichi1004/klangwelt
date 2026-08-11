@@ -104,28 +104,50 @@ npm run check:composer-editorial -- --all   # 全件チェック
 
 目標分布はおおよそ ★5 15名 / ★4 30名 / ★3 55名 / ★2 70名 / ★1 50名です。★5が25名を超えるとテストが警告を出します。220名は必ず全員に★を付けてください（1名でも欠けるとビルドが失敗します）。
 
-### 曲の定番度（`data/curation/works/<composerId>.json`）
+### ★5の並び順（`data/curation/ranking.json`）
 
-作曲家1名につき1ファイルです（`data/editorial/composers/` と同じ分割方式）。★5・★4・★3のみキー（`star5`/`star4`/`star3`）を持ち、値は `{id, title}` の配列です。`title` は Open Opus のタイトルと一致していないとエラーになる、これも打ち間違い検出用の照合値です。
+**★5はこのファイルだけで決まります。** ★5の割り当てと、★5同士のグローバルな並び順の両方を持ちます。`works/<composerId>.json` に `star5` を書くとエラーになります。
+
+作曲家ごとに分けない理由は `composer-stars.json` と同じで、「クラシック全体の中でどれだけ定番か」は他の候補と並べてしか校正できないからです。作曲家のフォルダの中では判断できません。
 
 ```json
 {
-  "star5": [
-    { "id": "16406", "title": "Symphony no. 5 in C minor, op. 67" }
-  ],
+  "ranking": [
+    { "id": "16406", "composer": "Beethoven", "title": "Symphony no. 5 in C minor, op. 67" },
+    { "id": "23610", "composer": "Mozart", "title": "Serenade in G major, K.525, \"Eine Kleine Nachtmusik\"" }
+  ]
+}
+```
+
+**配列の位置がそのままスコアになります。** 先頭がサイトのトップに出る曲です。順位の中では作曲家の★は一切効きません——これがこの仕組みの目的です。以前は `COMPOSER_BONUS` が順位項より広かったため★5帯が作曲家順に階層化され、パッヘルベルのカノンがハイドンの「ロンドン」の後ろ、50位に沈んでいました。
+
+並べる基準は**旋律の一般認知度**です。「曲名を知らなくても、音を聴けば誰でも分かるか」。институциональに重要でも旋律が浸透していないもの（グランドオペラ、交響曲の古典）は後ろに置きます。
+
+★5を1曲追加するときは、このファイルに1行足すだけです。ただし**グローバルな位置を決める**必要があり、それは「★5かどうか」より難しい判断になります。`npm run check:curation` が先頭20件を出力するので、差分をビルドせずにレビューできます。
+
+席数は120です（`RANKED_SLOTS`、`src/lib/popularity.ts`）。超えるとビルドが止まります。★5が100曲を超えた時点で先に警告が出ます。
+
+### 曲の定番度（`data/curation/works/<composerId>.json`）
+
+作曲家1名につき1ファイルです（`data/editorial/composers/` と同じ分割方式）。**★4と★3のみ**（`star4`/`star3`）で、値は `{id, title}` の配列です。`title` は Open Opus のタイトルと一致していないとエラーになる、これも打ち間違い検出用の照合値です。
+
+```json
+{
   "star4": [
     { "id": "16143", "title": "Symphony no. 3 in E flat major, op. 55, \"Eroica\"" }
   ]
 }
 ```
 
-配列内の並び順にも意味があります。同じ★グループの中でどちらがより定番かという順位として使われ、曲の並び順を決める `score` の細かい部分に反映されます（`src/lib/curation.ts` の `rank`）。
+配列内の並び順にも意味があります。同じ★グループの中でどちらがより定番かという順位として使われます（`src/lib/curation.ts` の `rank`）。**効くのは先頭20件まで**で、それを超えると順位項が頭打ちになります（超えると警告が出ます）。
+
+順位が同じ曲同士は、愛称の有無とジャンルで細かく差がつきます。この差は1桁の値で、他の重みは全て10の倍数なので、**キュレーターが付けた順位を追い越すことはありません**（`src/lib/popularity.ts` の `MAX_TIEBREAK`）。
 
 判定基準（絶対・作曲家横断。ある作曲家の代表作かどうかではありません）:
 
 | ★ | 基準 | 判定の目安 |
 |---|---|---|
-| 5 | 定番中の定番。名前を知らなくても音は誰でも知っている | TV番組のBGMに「みんな知っている前提」で使えるか |
+| 5 | 定番中の定番。名前を知らなくても音は誰でも知っている（`ranking.json` へ） | TV番組のBGMに「みんな知っている前提」で使えるか |
 | 4 | よく知られた名曲。世界中で毎シーズン演奏される中核レパートリー | 主要オケの年間シーズンにほぼ確実に入るか |
 | 3 | ジャンル・楽器の中では標準だが一般的知名度はない（控えめに。数式も★3を出すので） | 熱心な聴き手が「入っていないのはおかしい」と思うか |
 
@@ -137,10 +159,12 @@ npm run check:composer-editorial -- --all   # 全件チェック
 ### コミット前に機械チェックを通す
 
 ```bash
-npm run check:curation   # data/curation/ 単体の検証。書き込みなし
-npm run seed:catalog     # data/catalog/*, public/data/* を再生成。件数と★分布が表示される
+npm run check:curation   # data/curation/ 単体の検証。書き込みなし。★5の先頭20件も出力する
+npm run seed:catalog     # data/catalog/*, public/data/* を再生成。件数と★分布、上位20曲が表示される
 npm test                 # src/lib/curation.test.ts が生成物との整合性を検証
 ```
+
+`curation.test.ts` は「`core-works.json` の先頭が `ranking.json` と順序込みで一致すること」も検証します。キュレーションを直して `seed:catalog` を忘れると、ここで落ちます。
 
 ## 日本語タイトルを追加する（`data/ja/title-overrides.json`）
 

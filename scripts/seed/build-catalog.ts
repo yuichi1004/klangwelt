@@ -80,6 +80,7 @@ function buildFacts(raw: RawWork): WorkFacts {
 
 interface WorkRating {
   composerStars: Stars;
+  rankedIndex?: number;
   curatedStars?: CuratedStars;
   curatedRank?: number;
 }
@@ -201,6 +202,7 @@ async function main() {
       const curated = curation.workStars.get(raw.id);
       return buildWork(raw, rawComposer.id, overrides, {
         composerStars,
+        rankedIndex: curation.ranking.get(raw.id),
         curatedStars: curated?.stars,
         curatedRank: curated?.rank,
       });
@@ -304,7 +306,7 @@ async function main() {
       // see a curation batch land — or to notice that it did not.
       "top of the catalogue:",
       ...coreWorks
-        .slice(0, 15)
+        .slice(0, 20)
         .map((work, rank) => `  ${String(rank + 1).padStart(2)}. ★${work.stars} ${work.title}`),
     ].join("\n"),
   );

@@ -352,6 +352,8 @@ export const CATALOGUE_PREFIXES = [
 export const NICKNAMES: Record<string, string> = {
   "Für Elise": "エリーゼのために",
   "Pachelbel's Canon": "パッヘルベルのカノン",
+  "Eine Kleine Nachtmusik": "アイネ・クライネ・ナハトムジーク",
+  "Alla turca": "トルコ行進曲付き",
   "Holberg Suite": "ホルベアの時代から",
   "Ports of Call": "寄港地",
   "The three-cornered hat": "三角帽子",
