@@ -3,6 +3,13 @@
 import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
+import {
+  Chip,
+  FilterGroup,
+  RemovableChip,
+  starChipLabel,
+  toggleIn,
+} from "@/components/filter-controls";
 import { WorkCard } from "@/components/work-card";
 import { getMessages, type Locale } from "@/i18n/config";
 import {
@@ -15,7 +22,11 @@ import {
   type SearchableWork,
   type SortKey,
 } from "@/lib/catalog";
-import { readSavedCatalogQuery, saveCatalogQuery } from "@/lib/catalog-session";
+import {
+  CATALOG_STORAGE_KEY,
+  readSavedQuery,
+  saveQuery,
+} from "@/lib/catalog-session";
 import type { WorkIndexRow } from "@/lib/catalog-types";
 import {
   readFilters,
@@ -36,30 +47,6 @@ const PAGE_SIZE = 40;
 
 /** How long typing must pause before the query is written to the URL. */
 const QUERY_COMMIT_DELAY_MS = 250;
-
-function toggleIn<T>(list: T[], value: T): T[] {
-  return list.includes(value)
-    ? list.filter((item) => item !== value)
-    : [...list, value];
-}
-
-/**
- * "★4以上" reads to a screen reader as "black star 4 以上", so the visible
- * chip label and its accessible name diverge on purpose — pass `aria: true`
- * for the "星4つ以上" form.
- */
-function starChipLabel(
-  filterMessages: ReturnType<typeof getMessages>["filters"],
-  value: 0 | 3 | 4 | 5,
-  aria: boolean,
-): string {
-  if (value === 0) return filterMessages.all;
-  if (value === 5) return filterMessages[aria ? "starsOnlyAria" : "starsOnly"];
-  return filterMessages[aria ? "starsMinAria" : "starsMin"].replace(
-    "{n}",
-    String(value),
-  );
-}
 
 export function CatalogBrowser({
   locale,
@@ -179,14 +166,14 @@ export function CatalogBrowser({
     if (!restoreChecked.current) {
       restoreChecked.current = true;
       if (queryString === "") {
-        const saved = sanitizeQueryString(readSavedCatalogQuery());
+        const saved = sanitizeQueryString(readSavedQuery(CATALOG_STORAGE_KEY));
         if (saved) {
           router.replace(`/${locale}${saved}`, { scroll: false });
           return;
         }
       }
     }
-    saveCatalogQuery(queryString);
+    saveQuery(CATALOG_STORAGE_KEY, queryString);
   }, [queryString, locale, router]);
 
   /**
@@ -629,88 +616,5 @@ export function CatalogBrowser({
         </div>
       )}
     </div>
-  );
-}
-
-/**
- * A labelled block of filter controls. The heading is tied to the group with
- * `aria-labelledby` so screen readers announce, say, "Period, group" before
- * the chips inside — the chips alone give no clue what they filter.
- */
-function FilterGroup({
-  id,
-  label,
-  children,
-}: {
-  id: string;
-  label: string;
-  children: React.ReactNode;
-}) {
-  const headingId = `filter-${id}-label`;
-  return (
-    <div role="group" aria-labelledby={headingId}>
-      <h3
-        id={headingId}
-        className="mb-2 text-xs font-medium uppercase tracking-wide text-ink-faint"
-      >
-        {label}
-      </h3>
-      {children}
-    </div>
-  );
-}
-
-function Chip({
-  active,
-  onClick,
-  title,
-  ariaLabel,
-  children,
-}: {
-  active: boolean;
-  onClick: () => void;
-  title?: string;
-  /** Overrides the accessible name when the visible label is a glyph like ★4. */
-  ariaLabel?: string;
-  children: React.ReactNode;
-}) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      aria-pressed={active}
-      aria-label={ariaLabel}
-      title={title}
-      className={`rounded-full border px-3 py-1.5 text-sm transition-colors ${
-        active
-          ? "border-accent bg-accent-soft text-accent"
-          : "border-line text-ink-soft hover:border-accent/40"
-      }`}
-    >
-      {children}
-    </button>
-  );
-}
-
-/** A chip for the active-filters row: its own label plus a `×` to remove it. */
-function RemovableChip({
-  onRemove,
-  ariaLabel,
-  children,
-}: {
-  onRemove: () => void;
-  ariaLabel: string;
-  children: React.ReactNode;
-}) {
-  return (
-    <button
-      type="button"
-      onClick={onRemove}
-      aria-label={ariaLabel}
-      className="flex max-w-full items-center gap-1.5 rounded-full border border-accent bg-accent-soft px-3 py-1.5 text-sm text-accent"
-    >
-      <span className="min-w-0 truncate break-words">{children}</span>
-      <span aria-hidden="true">×</span>
-    </button>
   );
 }

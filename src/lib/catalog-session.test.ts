@@ -2,8 +2,9 @@ import { afterEach, describe, expect, it, vi } from "vitest";
 
 import {
   CATALOG_STORAGE_KEY,
-  readSavedCatalogQuery,
-  saveCatalogQuery,
+  COMPOSERS_STORAGE_KEY,
+  readSavedQuery,
+  saveQuery,
 } from "./catalog-session";
 
 /**
@@ -30,16 +31,24 @@ afterEach(() => {
   vi.unstubAllGlobals();
 });
 
-describe("readSavedCatalogQuery", () => {
+describe("readSavedQuery", () => {
   it("returns an empty string when nothing is saved", () => {
     stubWorkingStorage();
-    expect(readSavedCatalogQuery()).toBe("");
+    expect(readSavedQuery(CATALOG_STORAGE_KEY)).toBe("");
   });
 
   it("returns a previously saved query", () => {
     const store = stubWorkingStorage();
     store.set(CATALOG_STORAGE_KEY, "?e=Baroque");
-    expect(readSavedCatalogQuery()).toBe("?e=Baroque");
+    expect(readSavedQuery(CATALOG_STORAGE_KEY)).toBe("?e=Baroque");
+  });
+
+  it("keeps the catalogue's and the composer list's saved queries apart", () => {
+    const store = stubWorkingStorage();
+    store.set(CATALOG_STORAGE_KEY, "?e=Baroque");
+    store.set(COMPOSERS_STORAGE_KEY, "?stars=5");
+    expect(readSavedQuery(CATALOG_STORAGE_KEY)).toBe("?e=Baroque");
+    expect(readSavedQuery(COMPOSERS_STORAGE_KEY)).toBe("?stars=5");
   });
 
   it("returns an empty string when storage access throws", () => {
@@ -50,20 +59,20 @@ describe("readSavedCatalogQuery", () => {
         },
       },
     });
-    expect(readSavedCatalogQuery()).toBe("");
+    expect(readSavedQuery(CATALOG_STORAGE_KEY)).toBe("");
   });
 
   it("returns an empty string when there is no window at all", () => {
     // No stub applied: `window` is undefined, as it is during the server
     // render of a statically exported page.
-    expect(readSavedCatalogQuery()).toBe("");
+    expect(readSavedQuery(CATALOG_STORAGE_KEY)).toBe("");
   });
 });
 
-describe("saveCatalogQuery", () => {
-  it("writes under the versioned key", () => {
+describe("saveQuery", () => {
+  it("writes under the given key", () => {
     const store = stubWorkingStorage();
-    saveCatalogQuery("?q=Moonlight");
+    saveQuery(CATALOG_STORAGE_KEY, "?q=Moonlight");
     expect(store.get(CATALOG_STORAGE_KEY)).toBe("?q=Moonlight");
   });
 
@@ -75,10 +84,10 @@ describe("saveCatalogQuery", () => {
         },
       },
     });
-    expect(() => saveCatalogQuery("?q=Moonlight")).not.toThrow();
+    expect(() => saveQuery(CATALOG_STORAGE_KEY, "?q=Moonlight")).not.toThrow();
   });
 
   it("does not throw when there is no window at all", () => {
-    expect(() => saveCatalogQuery("?q=Moonlight")).not.toThrow();
+    expect(() => saveQuery(CATALOG_STORAGE_KEY, "?q=Moonlight")).not.toThrow();
   });
 });

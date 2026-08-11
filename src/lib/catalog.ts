@@ -104,6 +104,50 @@ export function buildComposerOptions(): ComposerOption[] {
   }));
 }
 
+/**
+ * The composer fields the `/composers` list needs to filter and render a
+ * card, plus just enough of the portrait credit for its `title` tooltip.
+ *
+ * Kept minimal like `ComposerOption` above, for the same reason: this is
+ * serialised into the composer list page for all 220 composers, and the full
+ * `Composer`/`PortraitCredit` records (with every licence field) would only
+ * bloat that payload.
+ */
+export interface ComposerCard {
+  id: string;
+  name: string;
+  nameJa: string;
+  completeName: string;
+  epoch: Epoch;
+  birthYear: number;
+  deathYear: number | null;
+  stars: Composer["stars"];
+  coreWorkCount: number;
+  portrait?: string;
+  credit?: { author: string; license: string };
+}
+
+export function buildComposerCards(): ComposerCard[] {
+  return composers.map((composer) => {
+    const credit = getPortraitCredit(composer.id);
+    return {
+      id: composer.id,
+      name: composer.name,
+      nameJa: composer.nameJa,
+      completeName: composer.completeName,
+      epoch: composer.epoch,
+      birthYear: composer.birthYear,
+      deathYear: composer.deathYear,
+      stars: composer.stars,
+      coreWorkCount: composer.coreWorkCount,
+      portrait: composer.portrait,
+      credit: credit
+        ? { author: credit.author, license: credit.license }
+        : undefined,
+    };
+  });
+}
+
 /** Everything the filter needs about a work, joined and precomputed once. */
 export interface SearchableWork extends WorkIndexRow {
   composerName: string;
