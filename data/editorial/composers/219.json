@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "パリで活動したとされる中世フランスの作曲家で、ノートルダム大聖堂を中心に形成された「ノートルダム楽派」の中心人物の一人である。先達レオナンが築いた二声のオルガヌムを受け継ぎ、それをさらに三声・四声へと拡張した最初期の作曲家として知られる。",
+    "en": "A medieval French composer thought to have been active in Paris, he was one of the central figures of the \"Notre Dame school\" that formed around Notre Dame Cathedral. He inherited the two-voice organum built by his predecessor Léonin and is known as one of the earliest composers to expand it further into three and four voices."
+  },
+  "style": {
+    "ja": "レオナンが確立した、聖歌の旋律を長く引き伸ばした声部の上に自由な声部を重ねる書法を、さらに複数の声部へと拡張し、声部同士が複雑に絡み合う壮大な多声音楽を作り上げた。ノートルダム大聖堂という当時最新の壮大な建築空間にふさわしい、荘厳で拡張的な音響を追求した。",
+    "en": "He further extended the technique Léonin had established, layering a freely moving voice above a chant melody stretched into long-held tones, expanding it to multiple voices and creating grand polyphony in which the voices intertwine in complex ways. He pursued a solemn, expansive sonority befitting the grand new architectural space of Notre Dame Cathedral, cutting-edge for its era."
+  },
+  "impact": {
+    "ja": "先達レオナンから多声音楽の技法を受け継ぎ、それを二声から三声・四声へと押し広げたことで、西洋音楽における多声書法の可能性を大きく切り拓いた。ノートルダム楽派が確立したこの技法は、後のアルス・ノヴァを経て、マショーら次世代の作曲家たちへと連なる西洋多声音楽全体の出発点となっている。",
+    "en": "By inheriting the technique of polyphony from his predecessor Léonin and pushing it further from two voices to three and four, he greatly opened up the possibilities of polyphonic writing in Western music. The technique established by the Notre Dame school became, through the later ars nova, the starting point for the entire tradition of Western polyphony that would extend to composers of the next generations, including Machaut."
+  },
+  "keywords": {
+    "ja": [
+      "ノートルダム楽派の中心人物",
+      "レオナンの二声を三声・四声へ拡張",
+      "西洋多声音楽全体の出発点"
+    ],
+    "en": [
+      "Central figure of the Notre Dame school",
+      "Expanded Léonin's two voices to three and four",
+      "Starting point for Western polyphony"
+    ]
+  }
+}

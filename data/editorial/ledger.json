@@ -427,7 +427,7 @@
   "86": {
     "name": "William Byrd",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "87": {
     "name": "Johann Sebastian Bach",
@@ -447,7 +447,7 @@
   "90": {
     "name": "Wolfgang Rihm",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "91": {
     "name": "Maurice Duruflé",
@@ -752,7 +752,7 @@
   "151": {
     "name": "Orlando Gibbons",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "152": {
     "name": "Frédéric Chopin",
@@ -907,7 +907,7 @@
   "182": {
     "name": "Jan Pieterszoon Sweelinck",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "183": {
     "name": "Franz Schubert",
@@ -1017,12 +1017,12 @@
   "204": {
     "name": "Marin Marais",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "205": {
     "name": "Tomás Luis de Victoria",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "206": {
     "name": "Karl Ditters von Dittersdorf",
@@ -1042,7 +1042,7 @@
   "209": {
     "name": "Carl Stamitz",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "210": {
     "name": "Alban Berg",
@@ -1057,7 +1057,7 @@
   "212": {
     "name": "Fernando Sor",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "213": {
     "name": "Toru Takemitsu",
@@ -1092,11 +1092,11 @@
   "219": {
     "name": "Pérotin",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "220": {
     "name": "Léonin",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   }
 }

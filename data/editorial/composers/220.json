@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "パリで活動したとされる12世紀の作曲家で、西洋音楽史上、具体的な作品が特定の個人の名と結びつけられる最初期の例の一人である。ノートルダム大聖堂を中心とする「ノートルダム楽派」の創始者とみなされ、聖歌の旋律をもとにした二声の多声音楽を体系的にまとめた曲集を編纂したと伝えられている。",
+    "en": "Active, it is believed, in Paris in the twelfth century, he stands as one of the earliest figures in Western music history whose specific works can be linked to a named individual. He is regarded as the founder of the \"Notre Dame school\" centered on Notre Dame Cathedral, and is said to have compiled a systematic collection of two-voice polyphony built on chant melody."
+  },
+  "style": {
+    "ja": "既存の単旋律聖歌をもとに、その旋律を極端に引き伸ばして持続させる声部の上に、より動きの速い自由な旋律を重ねる「オルガヌム」の様式を体系化した。単旋律の伝統から複数の声部が同時に響く多声音楽への転換を代表する、西洋音楽史上の画期的な様式を確立した。",
+    "en": "Building on existing plainchant, he systematized the style of \"organum,\" in which a freely moving, faster melody is layered above a voice that stretches the chant melody out to extreme sustained duration. He established an epoch-making style representing the shift from the monophonic tradition to polyphonic music, in which multiple voices sound together, in the history of Western music."
+  },
+  "impact": {
+    "ja": "編纂したとされる曲集は、後継者ペロタンによって三声・四声の多声音楽へとさらに発展させられ、ノートルダム楽派という西洋多声音楽史上最初期の重要な楽派の礎となった。今日確認できる限りで、特定の名前と結びつけられる最初期の「作曲家」の一人として、西洋音楽史の出発点に位置づけられる存在である。",
+    "en": "The collection he is said to have compiled was further developed by his successor Pérotin into three- and four-voice polyphony, becoming the foundation of the Notre Dame school, one of the earliest important schools in the history of Western polyphony. As far as can be confirmed today, he stands as one of the very earliest \"composers\" linked to a specific name, positioned at the starting point of Western music history."
+  },
+  "keywords": {
+    "ja": [
+      "西洋音楽史最初期の特定可能な作曲家",
+      "オルガヌム様式の体系化",
+      "ペロタンへ受け継がれたノートルダム楽派の礎"
+    ],
+    "en": [
+      "Among the earliest named composers in Western history",
+      "Systematized the organum style",
+      "Foundation of the Notre Dame school passed to Pérotin"
+    ]
+  }
+}

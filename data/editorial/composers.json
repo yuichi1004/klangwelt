@@ -2225,6 +2225,32 @@
       ]
     }
   },
+  "86": {
+    "biography": {
+      "ja": "イングランド・リンカンシャーに生まれ、タリスに師事した。師タリスと共に女王エリザベス1世から楽譜出版の独占的特許を与えられ、二人でイングランドの音楽出版を実質的に統括した。プロテスタントの国教会が確立した時代にあってなお、生涯を通じて密かにカトリック教徒であり続けたことでも知られる。",
+      "en": "Born in Lincolnshire, England, he studied under Tallis. Together with his teacher he was granted an exclusive royal patent for music publishing by Queen Elizabeth I, and the two of them effectively controlled English music printing. He is also known for remaining, throughout his life, a covert Catholic even as the Protestant Church of England was firmly established."
+    },
+    "style": {
+      "ja": "英国国教会のための簡潔な礼拝音楽と、ひそかに信仰を守り続けたカトリックのためのラテン語ミサ曲・モテットという、性格の異なる二つの様式を高い水準で書き分けた。世俗歌曲や鍵盤音楽の分野でも先駆的な役割を果たし、イングランド・ルネサンス音楽の頂点をなす多才な作曲家であった。",
+      "en": "He mastered two contrasting styles at a high level: spare devotional music for the Church of England, and Latin masses and motets for the Catholic faith he secretly continued to hold. He also played a pioneering role in secular song and keyboard music, a versatile composer standing at the summit of English Renaissance music."
+    },
+    "impact": {
+      "ja": "師タリスと築いた楽譜出版の独占体制は、イングランドにおける音楽出版そのものの制度的な基盤を作った。信仰の異なる二つの典礼のために全く異なる音楽を書き分けたその経歴は、宗教改革期のイングランドで芸術家が置かれた複雑な立場を象徴しており、タリスと並んでイングランド・ルネサンス音楽の頂点を代表する存在として位置づけられている。",
+      "en": "The publishing monopoly he built together with his teacher Tallis laid the institutional foundation for music publishing in England itself. His career, writing entirely different music for two faiths with different liturgies, symbolizes the complex position artists occupied in Reformation-era England, and alongside Tallis he stands as a representative peak of English Renaissance music."
+    },
+    "keywords": {
+      "ja": [
+        "タリスと築いた楽譜出版の独占",
+        "秘めたカトリック信仰と二つの様式",
+        "イングランド・ルネサンスの頂点"
+      ],
+      "en": [
+        "Publishing monopoly built with Tallis",
+        "Secret Catholic faith, two styles of writing",
+        "Peak of English Renaissance music"
+      ]
+    }
+  },
   "87": {
     "biography": {
       "ja": "音楽家の一族に生まれ、生涯をドイツ中部の限られた土地で過ごした。ヴァイマルの宮廷楽師、ケーテンの宮廷楽長を経て、38歳でライプツィヒの聖トーマス教会のカントルに就任し、以後27年間その職にあった。教会暦にあわせて毎週のようにカンタータを書き、少年たちにラテン語と音楽を教える日々だった。\n対位法——複数の旋律を同時に走らせながら全体を破綻なくまとめる技法——を、以後だれも超えられない水準にまで高めた。生前は作曲家としてより名オルガニストとして知られ、作品の多くは死後しばらく忘れられていたが、19世紀に再評価されて以降、西洋音楽の土台とみなされるようになった。",
@@ -2300,6 +2326,32 @@
         "One of the three masters of bel canto",
         "Prolific across comedy and tragedy",
         "Teacher of Puccini's father"
+      ]
+    }
+  },
+  "90": {
+    "biography": {
+      "ja": "ドイツ・カールスルーエに生まれ、驚異的な多作で知られる現代作曲家で、生涯に400を超える作品を発表した。カールスルーエの音楽大学で長年教鞭を執り、門下からは後にヘンツェにも師事することになる作曲家ヴィトマンが育った。",
+      "en": "Born in Karlsruhe, Germany, he is a contemporary composer known for astonishing productivity, publishing over four hundred works in his lifetime. He taught for many years at the Karlsruhe University of Music, and his pupils included the composer Jörg Widmann, who would also go on to study with Henze."
+    },
+    "style": {
+      "ja": "厳格な音列技法に対する反動として1970年代に台頭した「新しい単純性」の潮流を代表する作曲家の一人であり、感情の直接的な表出と身体的な激しさを恐れない、生々しい表現主義的な語法を特徴とする。特定の様式に固定されず、作品ごとに大胆な変貌を遂げる旺盛な創作欲を持つ。",
+      "en": "He is one of the representative composers of the \"New Simplicity\" current that arose in the 1970s as a reaction against strict serial technique, and his style is marked by a raw, expressionistic idiom unafraid of direct emotional expression and physical intensity. Not fixed to any single manner, he shows a vigorous creative appetite for bold transformation from one work to the next."
+    },
+    "impact": {
+      "ja": "教え子ヴィトマンを介して、政治的関与よりも物語性豊かなオペラを選んだヘンツェの系譜とも間接的につながっており、ドイツ現代音楽の教育系譜における重要な結節点を占めている。20世紀後半の厳格な前衛技法一辺倒の潮流から距離を置き、感情表現への回帰を推し進めた世代を代表する存在として高く評価されている。",
+      "en": "Through his pupil Widmann he is also indirectly connected to the lineage of Henze, who chose narrative-rich opera over direct political commitment, occupying an important node in the educational lineage of German contemporary music. He is highly regarded as a representative figure of the generation that distanced itself from the strict, avant-garde-only currents of the later twentieth century and pushed for a return to emotional expression."
+    },
+    "keywords": {
+      "ja": [
+        "400作を超える驚異的な多作",
+        "新しい単純性を代表する表現主義",
+        "ヴィトマンを介したヘンツェとの接点"
+      ],
+      "en": [
+        "Astonishing output of over 400 works",
+        "Expressionist voice of \"New Simplicity\"",
+        "Link to Henze via pupil Widmann"
       ]
     }
   },
@@ -3883,6 +3935,32 @@
       ]
     }
   },
+  "151": {
+    "biography": {
+      "ja": "オックスフォードに生まれ、王室礼拝堂のオルガニスト、後にウェストミンスター寺院のオルガニストを務めた。国王チャールズ1世の花嫁となるフランス王女を出迎える式典の準備中、カンタベリーで急死するという劇的な最期を遂げたことでも知られる。",
+      "en": "Born in Oxford, he served as organist of the Chapel Royal and later of Westminster Abbey. He is also known for a dramatic end: he died suddenly in Canterbury while making preparations to welcome the French princess who was to become King Charles I's bride."
+    },
+    "style": {
+      "ja": "鍵盤音楽と合奏用のヴィオール曲(コンソート音楽)の分野で高い評価を得ており、澄明で均整の取れた対位法を特徴とする。教会音楽ではタリスやバードから続く英国国教会の礼拝音楽の伝統を受け継ぎながら、より簡潔で歌詞の聞き取りやすさを重視する様式へと洗練させた。",
+      "en": "He earned high regard in keyboard music and instrumental consort music for viols, marked by clear, well-balanced counterpoint. In church music he inherited the tradition of Church of England devotional music descending from Tallis and Byrd, refining it into a style that placed even greater emphasis on simplicity and textual clarity."
+    },
+    "impact": {
+      "ja": "タリスとバードが築いたイングランド国教会音楽の伝統を次の世代へと受け継ぎ、鍵盤音楽とコンソート音楽の分野でさらなる洗練を加えた。国王の花嫁を出迎える式典の最中に急逝したという劇的な最期は、宮廷音楽家としての生涯そのものを象徴する逸話として語り継がれている。",
+      "en": "He carried the tradition of Church of England devotional music built by Tallis and Byrd forward into the next generation, adding further refinement in keyboard and consort music. His dramatic sudden death amid ceremonies to welcome the king's bride is often retold as an anecdote emblematic of his life as a court musician."
+    },
+    "keywords": {
+      "ja": [
+        "王妃出迎えの最中の劇的な急逝",
+        "タリス・バードに続く国教会音楽",
+        "鍵盤とヴィオール合奏の洗練"
+      ],
+      "en": [
+        "Dramatic death amid royal wedding preparations",
+        "Church of England music after Tallis and Byrd",
+        "Refinement of keyboard and consort music"
+      ]
+    }
+  },
   "152": {
     "biography": {
       "ja": "ワルシャワ近郊に生まれ、20歳でポーランドを離れてパリに定住した。故郷はその後、蜂起の失敗によりロシアの統治下に入り、彼は二度と帰ることがなかった。\n作品のほぼすべてがピアノのための音楽である。マズルカとポロネーズという故国の舞曲の形式を、洗練された和声とともに芸術音楽へと引き上げた。演奏はもっぱら少人数のサロンで行い、大ホールでの演奏会をほとんど開かなかった。",
@@ -4663,6 +4741,32 @@
       ]
     }
   },
+  "182": {
+    "biography": {
+      "ja": "オランダ・デーフェンテルに生まれ、生涯のほとんどをアムステルダムの教会オルガニストとして過ごした。北ドイツから訪れた数多くの若い音楽家たちを指導し、その門下からは北ドイツ・オルガン楽派を担う多くの奏者が育ったことから「ドイツ・オルガニストの育ての親」とも称される。",
+      "en": "Born in Deventer, the Netherlands, he spent most of his life as a church organist in Amsterdam. He trained numerous young musicians who traveled from northern Germany, and because so many performers who would go on to lead the North German organ school emerged from his teaching, he came to be called \"the maker of German organists.\""
+    },
+    "style": {
+      "ja": "ルネサンス期の声楽的なポリフォニーの語法を鍵盤音楽に応用し、コラール旋律や世俗の主題を土台に自由な変奏を重ねる「コラール変奏曲」という形式を確立した。オランダとイギリスの鍵盤音楽の伝統を統合し、それを北方の弟子たちへ伝える結節点としての役割を果たした。",
+      "en": "He applied the vocal polyphonic idiom of the Renaissance to keyboard music, establishing the \"chorale variation\" form, which built free variations on a foundation of chorale melody or secular theme. He synthesized the keyboard traditions of the Netherlands and England and served as the crucial node that passed them on to his pupils in the north."
+    },
+    "impact": {
+      "ja": "彼が確立したコラール変奏曲の形式は、門下生を通じて北ドイツ・オルガン楽派全体の基礎となり、その系譜はやがてバッハにまで連なっていく。ルネサンス多声音楽の語法をバロック鍵盤音楽へと橋渡しした結節点として、音楽史上きわめて重要な位置を占めている。",
+      "en": "The chorale variation form he established became, through his pupils, a foundation for the North German organ school as a whole, a lineage that would eventually extend to Bach. As the crucial node bridging Renaissance polyphonic idiom into Baroque keyboard music, he occupies an extremely important position in music history."
+    },
+    "keywords": {
+      "ja": [
+        "ドイツ・オルガニストの育ての親",
+        "コラール変奏曲の確立",
+        "バッハへ連なる北ドイツ楽派の礎"
+      ],
+      "en": [
+        "Called \"the maker of German organists\"",
+        "Founder of the chorale variation",
+        "Foundation for the lineage leading to Bach"
+      ]
+    }
+  },
   "183": {
     "biography": {
       "ja": "ウィーンで生まれ、同時代のベートーヴェンを深く敬愛したが、生前に二人が親しく交流することはなかったとされる。宮廷礼拝堂の少年合唱団を経て一時教師を務めたが、多くは特定の職に就かず、友人たちが自宅に集って彼の新作を演奏する私的な集まり「シューベルティアーデ」を主な発表の場とした。\n歌曲だけで600曲以上を書くなど驚異的な多作家だったが、生前に広く名声を得ることはなく、31歳で病のため早世した。",
@@ -5221,6 +5325,58 @@
       ]
     }
   },
+  "204": {
+    "biography": {
+      "ja": "パリに生まれ、伝説的な奏者サント・コロンブと、当時フランス宮廷音楽を独占していたリュリの双方に師事した。ヴィオール(ヴィオラ・ダ・ガンバ)の名手として国王の宮廷楽団に長年在籍し、この楽器のための膨大な数の作品を残した。",
+      "en": "Born in Paris, he studied under both the legendary player Sainte-Colombe and Lully, who at the time held a monopoly over French court music. As a virtuoso player of the viol, he served for many years in the king's court orchestra and left behind a vast body of works for the instrument."
+    },
+    "style": {
+      "ja": "ヴィオール音楽の分野で技巧と表現力の限りを尽くし、ため息のような装飾音や繊細なニュアンスを駆使する語法を確立した。フランス的な優雅さと、師リュリから受け継いだ劇的な構成感を兼ね備え、標題的な性格を持つ小品も数多く手がけている。",
+      "en": "In the field of viol music he pushed technique and expressiveness to their fullest, establishing an idiom that made full use of sighing ornaments and delicate nuance. He combined French elegance with the dramatic sense of structure inherited from his teacher Lully, and also composed many short pieces with programmatic character."
+    },
+    "impact": {
+      "ja": "リュリの弟子でありながら、師とは全く異なる独奏楽器の内面的な表現に生涯を捧げ、フランス・バロックにおけるヴィオール音楽を頂点にまで高めた。宮廷オペラの独占者リュリの陰で活動しながらも、室内楽という別の領域で独自の地位を確立した点で、当時の音楽界の多様性を示す存在である。",
+      "en": "Though a pupil of Lully, he devoted his life to the inward expressiveness of a solo instrument in a manner entirely different from his teacher's, bringing French Baroque viol music to its peak. Working in the shadow of Lully, the monopolist of court opera, he nonetheless established a distinct standing of his own in the separate realm of chamber music, illustrating the diversity of the musical world of his time."
+    },
+    "keywords": {
+      "ja": [
+        "サント・コロンブとリュリの双方に師事",
+        "ヴィオール音楽をフランス・バロックの頂点へ",
+        "リュリの陰で室内楽に独自の地位"
+      ],
+      "en": [
+        "Studied under both Sainte-Colombe and Lully",
+        "Brought French viol music to its peak",
+        "Distinct standing in chamber music"
+      ]
+    }
+  },
+  "205": {
+    "biography": {
+      "ja": "スペイン・アビラに生まれ、ローマに渡ってパレストリーナに師事したとされる。生涯を通じて宗教音楽のみを作曲し続けた敬虔な聖職者音楽家であり、晩年はスペインに戻って皇太后マリアの礼拝堂付き司祭として仕えた。",
+      "en": "Born in Ávila, Spain, he traveled to Rome, where he is said to have studied under Palestrina. A devout cleric-musician who composed sacred music exclusively throughout his life, he returned to Spain in his later years to serve as chaplain to the Dowager Empress Maria."
+    },
+    "style": {
+      "ja": "師パレストリーナから受け継いだ均整の取れた対位法を土台に、スペイン的な神秘主義を思わせる激しい感情表現を融合させた作風を確立した。パレストリーナの様式よりも劇的で情熱的な和声の動きを特徴とし、宗教的な陶酔感を音楽で直接的に表現することを追求した。",
+      "en": "Building on the balanced counterpoint he inherited from his teacher Palestrina, he established a style fused with an intense emotional expression evocative of Spanish mysticism. Marked by harmonic movement more dramatic and passionate than Palestrina's own style, he pursued a direct musical expression of religious ecstasy."
+    },
+    "impact": {
+      "ja": "パレストリーナに直接師事した数少ないスペイン人作曲家として、イタリア・ルネサンス多声音楽の技法をスペインへ移植する重要な役割を果たした。宗教音楽のみに専念したその生涯は、同時代のスペインにおける敬虔な信仰心と芸術的完成度の融合を体現しており、スペイン・ルネサンス音楽の頂点を代表する存在として高く評価されている。",
+      "en": "As one of the few Spanish composers to study directly under Palestrina, he played an important role in transplanting the technique of Italian Renaissance polyphony into Spain. His life, devoted exclusively to sacred music, embodies the fusion of devout faith and artistic accomplishment in the Spain of his day, and he is highly regarded as a representative peak of Spanish Renaissance music."
+    },
+    "keywords": {
+      "ja": [
+        "パレストリーナに直接師事した数少ない一人",
+        "宗教音楽のみに捧げた生涯",
+        "スペイン的な神秘主義の情熱的表現"
+      ],
+      "en": [
+        "Rare Spaniard to study directly under Palestrina",
+        "Life devoted exclusively to sacred music",
+        "Passionate expression of Spanish mysticism"
+      ]
+    }
+  },
   "206": {
     "biography": {
       "ja": "ウィーンに生まれ、ボンノに師事した。ハイドンやモーツァルトと同時代のウィーン楽壇で活動し、ある逸話によれば、ハイドン、モーツァルト、そして自身の弟子ヴァンハルという四人の作曲家が一堂に会して弦楽四重奏を演奏したと伝えられており、当時のウィーン楽壇の親密な交流を物語る話として広く知られている。",
@@ -5299,6 +5455,32 @@
       ]
     }
   },
+  "209": {
+    "biography": {
+      "ja": "マンハイムに生まれ、マンハイム楽派の創始者である父ヨハン・シュターミッツをはじめ、複数の楽団の名手たちに師事した。父の跡を継ぐ形でヴァイオリン・ヴィオラ奏者、作曲家として活動し、弟であり弟子でもあるアントンと共に楽団で演奏することもあった。",
+      "en": "Born in Mannheim, he studied under his father Johann Stamitz, founder of the Mannheim school, as well as other virtuoso players from the local orchestra. Following in his father's footsteps, he was active as a violinist, violist, and composer, and he sometimes performed together in the orchestra with his younger brother and pupil, Anton."
+    },
+    "style": {
+      "ja": "父が築いたマンハイム楽派の劇的な強弱の変化、いわゆる「マンハイムのロケット」と呼ばれる急激なクレッシェンドなど、当時としては先進的な管弦楽の演奏効果を受け継いだ作風を特徴とする。協奏交響曲という編成を得意とし、複数の独奏楽器を対話させる華やかな作品を数多く残した。",
+      "en": "His style is marked by the dramatic dynamic effects pioneered by the Mannheim school his father built, including the so-called \"Mannheim rocket,\" a sudden sweeping crescendo that was advanced orchestral technique for its time. He excelled at the sinfonia concertante form, leaving many brilliant works featuring dialogue among multiple soloists."
+    },
+    "impact": {
+      "ja": "父が確立したマンハイム楽派の演奏効果は、後にハイドンやモーツァルトのウィーン古典派交響曲にも取り入れられており、彼はその成果を次世代へと伝える継承者としての役割を果たした。マンハイム楽派という一つの流派が、家族を通じて世代を超えて受け継がれていった稀有な例として音楽史に位置づけられる。",
+      "en": "The orchestral effects of the Mannheim school established by his father were later absorbed into the Viennese Classical symphonies of Haydn and Mozart, and he played the role of a successor who carried that achievement forward into the next generation. He is recorded in music history as a rare example of a school of music, the Mannheim school, being passed down across generations within a single family."
+    },
+    "keywords": {
+      "ja": [
+        "マンハイム楽派創始者の息子",
+        "マンハイムのロケットを受け継ぐ作風",
+        "ハイドン・モーツァルトへの技法的継承"
+      ],
+      "en": [
+        "Son of the Mannheim school's founder",
+        "Style carrying forward the Mannheim rocket",
+        "Technique passed forward to Haydn and Mozart"
+      ]
+    }
+  },
   "210": {
     "biography": {
       "ja": "シェーンベルクのもとで学んだ最重要の弟子の一人で、同門にはヴェーベルンがいた。師や同門のヴェーベルンが十二音技法をより厳格に用いたのに対し、彼はその枠組みの中でも温かみのあるロマン派的な感性を保ち続け、無調・十二音の文脈にしばしば調性的な響きを忍び込ませた。\n貧しく虐げられた兵士が殺人に追い込まれていく姿を描いたオペラ「ヴォツェック」は、表現主義オペラの金字塔となった。最後の完成作となったヴァイオリン協奏曲「ある天使の思い出に」は、若くして亡くなった友人の娘に捧げられ、十二音の構造のなかにバッハのコラール旋律を引用している。",
@@ -5348,6 +5530,32 @@
         "Founding the Czech national school",
         "A masterpiece composed after deafness",
         "An explicitly programmatic symphonic cycle"
+      ]
+    }
+  },
+  "212": {
+    "biography": {
+      "ja": "バルセロナに生まれ、ヴィオラに師事した。ギター独奏の分野で当代随一の名手として国際的に活動し、ロンドンやモスクワなど各地でギターのためのバレエ音楽を発表するなど、しばしば「ギターのベートーヴェン」とも称される存在であった。",
+      "en": "Born in Barcelona, he studied under Anselm Viola. He was active internationally as the leading solo guitar virtuoso of his day, presenting ballet music featuring the guitar in cities such as London and Moscow, and he was often called \"the Beethoven of the guitar.\""
+    },
+    "style": {
+      "ja": "古典派の均整の取れた形式感をギター独奏曲に応用し、それまで民衆的な伴奏楽器とみなされがちだったギターを、演奏会用の独奏楽器として通用する水準にまで高めた。旋律と伴奏を一台の楽器で同時に成立させる高度な書法を確立し、ギター教則本を著して奏法の体系化にも貢献した。",
+      "en": "He applied the balanced formal sense of the Classical era to solo guitar composition, elevating the guitar, until then often regarded as a folk accompaniment instrument, to a level acceptable as a solo concert instrument. He established a sophisticated technique making melody and accompaniment work together simultaneously on a single instrument, and he also contributed to systematizing playing technique through a guitar method."
+    },
+    "impact": {
+      "ja": "ギターを演奏会用の芸術音楽の楽器として確立した最重要人物の一人であり、その古典派的な語法は、後にロドリーゴが協奏曲でギターを本格的なオーケストラ楽器として扱う道を開くための、重要な基盤を築いたと位置づけられる。今日のクラシック・ギター奏者にとって、その練習曲は基本的な教育課程の一部として定着している。",
+      "en": "He is one of the most important figures in establishing the guitar as an instrument of concert art music, and his Classical idiom is positioned as building an important foundation for the path later opened by Rodrigo, who treated the guitar as a fully orchestral instrument in his concerto. His études remain, for classical guitarists today, an established part of basic training."
+    },
+    "keywords": {
+      "ja": [
+        "ギターのベートーヴェンと称された名手",
+        "ギターを演奏会楽器に高めた立役者",
+        "ロドリーゴへ続く基盤を築いた古典的語法"
+      ],
+      "en": [
+        "Called \"the Beethoven of the guitar\"",
+        "Elevated the guitar to a concert instrument",
+        "Classical idiom foundational for Rodrigo"
       ]
     }
   },
@@ -5508,6 +5716,58 @@
         "Introducing Armenian-Caucasian folk music",
         "The shared experience of the Zhdanov Decree",
         "Vivid ballet set-pieces"
+      ]
+    }
+  },
+  "219": {
+    "biography": {
+      "ja": "パリで活動したとされる中世フランスの作曲家で、ノートルダム大聖堂を中心に形成された「ノートルダム楽派」の中心人物の一人である。先達レオナンが築いた二声のオルガヌムを受け継ぎ、それをさらに三声・四声へと拡張した最初期の作曲家として知られる。",
+      "en": "A medieval French composer thought to have been active in Paris, he was one of the central figures of the \"Notre Dame school\" that formed around Notre Dame Cathedral. He inherited the two-voice organum built by his predecessor Léonin and is known as one of the earliest composers to expand it further into three and four voices."
+    },
+    "style": {
+      "ja": "レオナンが確立した、聖歌の旋律を長く引き伸ばした声部の上に自由な声部を重ねる書法を、さらに複数の声部へと拡張し、声部同士が複雑に絡み合う壮大な多声音楽を作り上げた。ノートルダム大聖堂という当時最新の壮大な建築空間にふさわしい、荘厳で拡張的な音響を追求した。",
+      "en": "He further extended the technique Léonin had established, layering a freely moving voice above a chant melody stretched into long-held tones, expanding it to multiple voices and creating grand polyphony in which the voices intertwine in complex ways. He pursued a solemn, expansive sonority befitting the grand new architectural space of Notre Dame Cathedral, cutting-edge for its era."
+    },
+    "impact": {
+      "ja": "先達レオナンから多声音楽の技法を受け継ぎ、それを二声から三声・四声へと押し広げたことで、西洋音楽における多声書法の可能性を大きく切り拓いた。ノートルダム楽派が確立したこの技法は、後のアルス・ノヴァを経て、マショーら次世代の作曲家たちへと連なる西洋多声音楽全体の出発点となっている。",
+      "en": "By inheriting the technique of polyphony from his predecessor Léonin and pushing it further from two voices to three and four, he greatly opened up the possibilities of polyphonic writing in Western music. The technique established by the Notre Dame school became, through the later ars nova, the starting point for the entire tradition of Western polyphony that would extend to composers of the next generations, including Machaut."
+    },
+    "keywords": {
+      "ja": [
+        "ノートルダム楽派の中心人物",
+        "レオナンの二声を三声・四声へ拡張",
+        "西洋多声音楽全体の出発点"
+      ],
+      "en": [
+        "Central figure of the Notre Dame school",
+        "Expanded Léonin's two voices to three and four",
+        "Starting point for Western polyphony"
+      ]
+    }
+  },
+  "220": {
+    "biography": {
+      "ja": "パリで活動したとされる12世紀の作曲家で、西洋音楽史上、具体的な作品が特定の個人の名と結びつけられる最初期の例の一人である。ノートルダム大聖堂を中心とする「ノートルダム楽派」の創始者とみなされ、聖歌の旋律をもとにした二声の多声音楽を体系的にまとめた曲集を編纂したと伝えられている。",
+      "en": "Active, it is believed, in Paris in the twelfth century, he stands as one of the earliest figures in Western music history whose specific works can be linked to a named individual. He is regarded as the founder of the \"Notre Dame school\" centered on Notre Dame Cathedral, and is said to have compiled a systematic collection of two-voice polyphony built on chant melody."
+    },
+    "style": {
+      "ja": "既存の単旋律聖歌をもとに、その旋律を極端に引き伸ばして持続させる声部の上に、より動きの速い自由な旋律を重ねる「オルガヌム」の様式を体系化した。単旋律の伝統から複数の声部が同時に響く多声音楽への転換を代表する、西洋音楽史上の画期的な様式を確立した。",
+      "en": "Building on existing plainchant, he systematized the style of \"organum,\" in which a freely moving, faster melody is layered above a voice that stretches the chant melody out to extreme sustained duration. He established an epoch-making style representing the shift from the monophonic tradition to polyphonic music, in which multiple voices sound together, in the history of Western music."
+    },
+    "impact": {
+      "ja": "編纂したとされる曲集は、後継者ペロタンによって三声・四声の多声音楽へとさらに発展させられ、ノートルダム楽派という西洋多声音楽史上最初期の重要な楽派の礎となった。今日確認できる限りで、特定の名前と結びつけられる最初期の「作曲家」の一人として、西洋音楽史の出発点に位置づけられる存在である。",
+      "en": "The collection he is said to have compiled was further developed by his successor Pérotin into three- and four-voice polyphony, becoming the foundation of the Notre Dame school, one of the earliest important schools in the history of Western polyphony. As far as can be confirmed today, he stands as one of the very earliest \"composers\" linked to a specific name, positioned at the starting point of Western music history."
+    },
+    "keywords": {
+      "ja": [
+        "西洋音楽史最初期の特定可能な作曲家",
+        "オルガヌム様式の体系化",
+        "ペロタンへ受け継がれたノートルダム楽派の礎"
+      ],
+      "en": [
+        "Among the earliest named composers in Western history",
+        "Systematized the organum style",
+        "Foundation of the Notre Dame school passed to Pérotin"
       ]
     }
   }
