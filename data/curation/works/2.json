@@ -1,0 +1,30 @@
+{
+  "star4": [
+    {
+      "id": "27",
+      "title": "Symphony no. 4 in E flat major, WAB 104, \"Romantic\""
+    },
+    {
+      "id": "29",
+      "title": "Symphony no. 7 in E major, WAB 107"
+    },
+    {
+      "id": "51",
+      "title": "Symphony no. 8 in C minor, WAB 108"
+    },
+    {
+      "id": "43",
+      "title": "Symphony no. 9 in D minor, WAB 109"
+    }
+  ],
+  "star3": [
+    {
+      "id": "68",
+      "title": "Symphony no. 5 in B flat major, WAB 105"
+    },
+    {
+      "id": "76",
+      "title": "Te Deum, WAB 45"
+    }
+  ]
+}

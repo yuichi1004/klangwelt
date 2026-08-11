@@ -1,0 +1,36 @@
+{
+  "star5": [
+    {
+      "id": "15562",
+      "title": "Rhapsody in Blue"
+    }
+  ],
+  "star4": [
+    {
+      "id": "15544",
+      "title": "An American in Paris"
+    }
+  ],
+  "star3": [
+    {
+      "id": "15574",
+      "title": "Piano Concerto in F"
+    },
+    {
+      "id": "15564",
+      "title": "Porgy and Bess"
+    },
+    {
+      "id": "15566",
+      "title": "Cuban Overture"
+    },
+    {
+      "id": "15599",
+      "title": "3 Preludes"
+    },
+    {
+      "id": "15585",
+      "title": "Second Rhapsody, \"Rhapsody in Rivets\""
+    }
+  ]
+}

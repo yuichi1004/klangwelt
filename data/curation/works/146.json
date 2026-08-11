@@ -1,0 +1,32 @@
+{
+  "star5": [
+    {
+      "id": "16525",
+      "title": "La bohème"
+    },
+    {
+      "id": "16519",
+      "title": "Tosca"
+    }
+  ],
+  "star4": [
+    {
+      "id": "16529",
+      "title": "Madama Butterfly"
+    },
+    {
+      "id": "16490",
+      "title": "Turandot"
+    },
+    {
+      "id": "16515",
+      "title": "Nessun Dorma"
+    }
+  ],
+  "star3": [
+    {
+      "id": "16503",
+      "title": "Manon Lescaut"
+    }
+  ]
+}

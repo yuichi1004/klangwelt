@@ -43,6 +43,24 @@ function toggleIn<T>(list: T[], value: T): T[] {
     : [...list, value];
 }
 
+/**
+ * "★4以上" reads to a screen reader as "black star 4 以上", so the visible
+ * chip label and its accessible name diverge on purpose — pass `aria: true`
+ * for the "星4つ以上" form.
+ */
+function starChipLabel(
+  filterMessages: ReturnType<typeof getMessages>["filters"],
+  value: 0 | 3 | 4 | 5,
+  aria: boolean,
+): string {
+  if (value === 0) return filterMessages.all;
+  if (value === 5) return filterMessages[aria ? "starsOnlyAria" : "starsOnly"];
+  return filterMessages[aria ? "starsMinAria" : "starsMin"].replace(
+    "{n}",
+    String(value),
+  );
+}
+
 export function CatalogBrowser({
   locale,
   initialWorks,
@@ -221,7 +239,7 @@ export function CatalogBrowser({
     filters.composerIds.length +
     filters.epochs.length +
     filters.genres.length +
-    (filters.popularity === "all" ? 0 : 1) +
+    (filters.minStars === 0 ? 0 : 1) +
     (queryText ? 1 : 0);
 
   const clearAll = useCallback(() => {
@@ -236,7 +254,7 @@ export function CatalogBrowser({
         composerIds: [],
         epochs: [],
         genres: [],
-        popularity: "all",
+        minStars: 0,
       },
       sort,
     );
@@ -258,11 +276,11 @@ export function CatalogBrowser({
         },
       });
     }
-    if (filters.popularity !== "all") {
+    if (filters.minStars !== 0) {
       chips.push({
         key: "popularity",
-        label: messages.filters[filters.popularity],
-        onRemove: () => update({ ...effectiveFilters, popularity: "all" }, sort),
+        label: starChipLabel(messages.filters, filters.minStars, false),
+        onRemove: () => update({ ...effectiveFilters, minStars: 0 }, sort),
       });
     }
     for (const epoch of filters.epochs) {
@@ -307,7 +325,7 @@ export function CatalogBrowser({
     return chips;
   }, [
     queryText,
-    filters.popularity,
+    filters.minStars,
     filters.epochs,
     filters.genres,
     filters.composerIds,
@@ -347,13 +365,14 @@ export function CatalogBrowser({
 
       <FilterGroup id="popularity" label={messages.filters.popularity}>
         <div className="flex flex-wrap gap-1.5">
-          {(["all", "popular", "recommended"] as const).map((value) => (
+          {([0, 3, 4, 5] as const).map((value) => (
             <Chip
               key={value}
-              active={filters.popularity === value}
-              onClick={() => update({ ...effectiveFilters, popularity: value }, sort)}
+              active={filters.minStars === value}
+              ariaLabel={starChipLabel(messages.filters, value, true)}
+              onClick={() => update({ ...effectiveFilters, minStars: value }, sort)}
             >
-              {messages.filters[value === "all" ? "all" : value]}
+              {starChipLabel(messages.filters, value, false)}
             </Chip>
           ))}
         </div>
@@ -489,7 +508,7 @@ export function CatalogBrowser({
               }
               className="rounded-md border border-line bg-paper px-2 py-1.5 text-sm text-ink"
             >
-              <option value="popular">{messages.catalog.sortPopular}</option>
+              <option value="standard">{messages.catalog.sortStandard}</option>
               <option value="title">{messages.catalog.sortTitle}</option>
               <option value="composer">{messages.catalog.sortComposer}</option>
             </select>
@@ -555,8 +574,7 @@ export function CatalogBrowser({
                       locale === "ja" ? work.composerNameJa : work.composerName
                     }
                     genre={work.genre}
-                    popular={work.popular}
-                    recommended={work.recommended}
+                    stars={work.stars}
                   />
                 </li>
               ))}
@@ -646,11 +664,14 @@ function Chip({
   active,
   onClick,
   title,
+  ariaLabel,
   children,
 }: {
   active: boolean;
   onClick: () => void;
   title?: string;
+  /** Overrides the accessible name when the visible label is a glyph like ★4. */
+  ariaLabel?: string;
   children: React.ReactNode;
 }) {
   return (
@@ -658,6 +679,7 @@ function Chip({
       type="button"
       onClick={onClick}
       aria-pressed={active}
+      aria-label={ariaLabel}
       title={title}
       className={`rounded-full border px-3 py-1.5 text-sm transition-colors ${
         active

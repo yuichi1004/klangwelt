@@ -2,7 +2,7 @@
   "site": {
     "name": "Klangwelt",
     "tagline": "Find, understand and listen to classical music.",
-    "description": "A classical music portal you can browse by composer, period and popularity. Every work comes with programme notes and links to Spotify and YouTube Music."
+    "description": "A classical music portal you can browse by composer, period and how standard a work is. Every work comes with programme notes and links to Spotify and YouTube Music."
   },
   "nav": {
     "catalog": "Browse works",
@@ -20,11 +20,13 @@
     "composer": "Composer",
     "composerPlaceholder": "Search composers",
     "epoch": "Period",
-    "popularity": "Popularity",
+    "popularity": "Standard repertoire",
     "genre": "Genre",
     "all": "All",
-    "popular": "Popular",
-    "recommended": "Recommended",
+    "starsMin": "★{n} and up",
+    "starsOnly": "★5 only",
+    "starsMinAria": "{n} stars and up",
+    "starsOnlyAria": "5 stars only",
     "apply": "Apply",
     "reset": "Clear filters",
     "open": "Filters",
@@ -41,9 +43,18 @@
     "resultCount": "{count} works",
     "resultCountFiltered": "{count} of {total} works",
     "sortLabel": "Sort",
-    "sortPopular": "Popularity",
+    "sortStandard": "Standard repertoire",
     "sortTitle": "Title",
     "sortComposer": "Composer"
+  },
+  "rating": {
+    "label": "Standard repertoire",
+    "aria": "Standard-repertoire rating {n} out of 5",
+    "tier5": "Cornerstone of the repertoire",
+    "tier4": "Widely known",
+    "tier3": "Familiar to listeners",
+    "tier2": "For enthusiasts",
+    "tier1": "Specialist"
   },
   "work": {
     "composer": "Composer",

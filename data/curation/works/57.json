@@ -1,0 +1,48 @@
+{
+  "star5": [
+    {
+      "id": "5044",
+      "title": "Boléro"
+    }
+  ],
+  "star4": [
+    {
+      "id": "5040",
+      "title": "Pavane pour une infante défunte"
+    },
+    {
+      "id": "5095",
+      "title": "Piano Concerto in G"
+    },
+    {
+      "id": "5112",
+      "title": "La valse"
+    }
+  ],
+  "star3": [
+    {
+      "id": "5054",
+      "title": "Daphnis et Chloé"
+    },
+    {
+      "id": "5072",
+      "title": "Gaspard de la nuit"
+    },
+    {
+      "id": "5103",
+      "title": "Le tombeau de Couperin"
+    },
+    {
+      "id": "5107",
+      "title": "Shéhérazade"
+    },
+    {
+      "id": "5031",
+      "title": "Miroirs"
+    },
+    {
+      "id": "5114",
+      "title": "Piano Concerto for the Left Hand"
+    }
+  ]
+}

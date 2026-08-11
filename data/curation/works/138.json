@@ -1,0 +1,44 @@
+{
+  "star5": [
+    {
+      "id": "15735",
+      "title": "Die Walküre, WWV 86b"
+    }
+  ],
+  "star4": [
+    {
+      "id": "15772",
+      "title": "Götterdämmerung, WWV 86d"
+    },
+    {
+      "id": "15726",
+      "title": "Siegfried, WWV 86c"
+    },
+    {
+      "id": "15755",
+      "title": "Das Rheingold, WWV 86a"
+    },
+    {
+      "id": "15764",
+      "title": "Die Meistersinger von Nürnberg, WWV 96"
+    }
+  ],
+  "star3": [
+    {
+      "id": "15743",
+      "title": "Siegfried Idyll, WWV 103"
+    },
+    {
+      "id": "15728",
+      "title": "Tristan und Isolde, WWV 90"
+    },
+    {
+      "id": "15765",
+      "title": "Parsifal, WWV 111"
+    },
+    {
+      "id": "15752",
+      "title": "Wesendonck Lieder, WWV 91"
+    }
+  ]
+}

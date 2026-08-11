@@ -1,0 +1,80 @@
+{
+  "star5": [
+    {
+      "id": "7680",
+      "title": "Hungarian Dances, WoO 1"
+    }
+  ],
+  "star4": [
+    {
+      "id": "7744",
+      "title": "Symphony no. 1 in C minor, op. 68"
+    },
+    {
+      "id": "7706",
+      "title": "Symphony no. 4 in E minor, op. 98"
+    },
+    {
+      "id": "7764",
+      "title": "Violin Concerto in D major, op. 77"
+    },
+    {
+      "id": "7645",
+      "title": "Ein deutsches Requiem, op. 45"
+    },
+    {
+      "id": "7651",
+      "title": "Academic Festival Overture, op. 80"
+    }
+  ],
+  "star3": [
+    {
+      "id": "7720",
+      "title": "Symphony no. 2 in D major, op. 73"
+    },
+    {
+      "id": "7765",
+      "title": "Symphony no. 3 in F major, op. 90"
+    },
+    {
+      "id": "7774",
+      "title": "Piano Concerto no. 2 in B flat major, op. 83"
+    },
+    {
+      "id": "7757",
+      "title": "Clarinet Quintet in B minor, op. 115"
+    },
+    {
+      "id": "7715",
+      "title": "String Sextet no. 1 in B flat major, op. 18"
+    },
+    {
+      "id": "7663",
+      "title": "Piano Quintet in F minor, op. 34"
+    },
+    {
+      "id": "7716",
+      "title": "Piano Quartet no. 1 in G minor, op. 25"
+    },
+    {
+      "id": "7642",
+      "title": "Variations and Fugue on a Theme by Handel, op. 24"
+    },
+    {
+      "id": "7766",
+      "title": "Double Concerto in A minor, op. 102"
+    },
+    {
+      "id": "7755",
+      "title": "Alto Rhapsody, op. 53"
+    },
+    {
+      "id": "7713",
+      "title": "Intermezzos, op. 117"
+    },
+    {
+      "id": "7657",
+      "title": "Liebeslieder Walzes, op. 52"
+    }
+  ]
+}

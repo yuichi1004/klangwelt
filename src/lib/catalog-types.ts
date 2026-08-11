@@ -1,4 +1,5 @@
 import type { Epoch, Genre } from "./epochs";
+import type { Stars } from "./popularity";
 
 /** A work as served to the app: Open Opus metadata plus derived Japanese. */
 export interface Work {
@@ -9,8 +10,18 @@ export interface Work {
   /** Japanese title; equals `title` when the form could not be translated. */
   titleJa: string;
   genre: Genre;
+  /**
+   * Open Opus' own flags. Kept as inputs to the rating below — nothing in the
+   * UI reads them, and nothing new should.
+   */
   popular: boolean;
   recommended: boolean;
+  /** 定番度 1-5, absolute across composers. See `src/lib/popularity.ts`. */
+  stars: Stars;
+  /** 0-1000 canonical sort key; finer-grained than `stars`. */
+  score: number;
+  /** True when `stars` was hand-assigned in `data/curation/`, not computed. */
+  curated: boolean;
   /** Extra search phrases Open Opus supplies (alternative/original names). */
   searchTerms: string;
   /** Structured facts derived from the title, shown as the "work data" panel. */
@@ -46,7 +57,10 @@ export interface Composer {
   birthYear: number;
   /** Null for living composers. */
   deathYear: number | null;
+  /** Open Opus' flag. Superseded by `stars` for display and ordering. */
   popular: boolean;
+  /** 定番度 1-5, hand-assigned in `data/curation/composer-stars.json`. */
+  stars: Stars;
   /** Total works in Open Opus. */
   workCount: number;
   /** Works in the curated core index. */
@@ -59,8 +73,11 @@ export interface Composer {
  * The subset of a work needed to render a list row and to filter on.
  *
  * Kept separate from `Work` because the catalogue page hands the whole core
- * index to a client component: shipping the `facts` of 1,286 works would
+ * index to a client component: shipping the `facts` of ~1,300 works would
  * roughly triple the payload for data the list never displays.
+ *
+ * `score` rides along even though only `stars` is rendered: the client
+ * re-sorts after filtering, so it cannot rely on the order of the file.
  */
 export interface WorkIndexRow {
   id: string;
@@ -68,8 +85,8 @@ export interface WorkIndexRow {
   title: string;
   titleJa: string;
   genre: Genre;
-  popular: boolean;
-  recommended: boolean;
+  stars: Stars;
+  score: number;
 }
 
 export interface CatalogMeta {

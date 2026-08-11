@@ -12,7 +12,7 @@ const parse = (query: string) => readFilters(new URLSearchParams(query));
 
 describe("writeFilters / readFilters round-trip", () => {
   it("produces an empty string for the default filters", () => {
-    expect(writeFilters(EMPTY_FILTERS, "popular")).toBe("");
+    expect(writeFilters(EMPTY_FILTERS, "standard")).toBe("");
   });
 
   it("round-trips every field", () => {
@@ -21,7 +21,7 @@ describe("writeFilters / readFilters round-trip", () => {
       composerIds: ["1", "2"],
       epochs: ["Baroque", "Romantic"],
       genres: ["Keyboard"],
-      popularity: "popular",
+      minStars: 4,
     });
     const query = writeFilters(original, "title");
     expect(readFilters(new URLSearchParams(query.replace(/^\?/, "")))).toEqual({
@@ -31,7 +31,7 @@ describe("writeFilters / readFilters round-trip", () => {
   });
 
   it("is idempotent: writing the output of a read reproduces the same query", () => {
-    const query = "?q=Beethoven&e=Baroque&g=Keyboard&pop=popular&sort=composer";
+    const query = "?q=Beethoven&e=Baroque&g=Keyboard&stars=4&sort=composer";
     const { filters: parsed, sort } = parse(query.replace(/^\?/, ""));
     expect(writeFilters(parsed, sort)).toBe(query);
   });
@@ -44,15 +44,40 @@ describe("readFilters validation", () => {
     expect(parsed.genres).toEqual([]);
   });
 
-  it("falls back to safe defaults for an invalid popularity or sort", () => {
-    const { filters: parsed, sort } = parse("pop=lol&sort=xyz");
-    expect(parsed.popularity).toBe("all");
-    expect(sort).toBe("popular");
+  it("falls back to safe defaults for an invalid star count or sort", () => {
+    const { filters: parsed, sort } = parse("stars=lol&sort=xyz");
+    expect(parsed.minStars).toBe(0);
+    expect(sort).toBe("standard");
+  });
+
+  it("rejects a star value outside the filterable set", () => {
+    // 1 and 2 are real ratings but were never offered as filter chips.
+    expect(parse("stars=2").filters.minStars).toBe(0);
+    expect(parse("stars=1").filters.minStars).toBe(0);
+    expect(parse("stars=6").filters.minStars).toBe(0);
   });
 
   it("ignores keys it does not recognise", () => {
     const { filters: parsed } = parse("x=1&y=2");
     expect(parsed).toEqual(EMPTY_FILTERS);
+  });
+});
+
+describe("legacy ?pop= links", () => {
+  it("maps the old popular/recommended values onto a star threshold", () => {
+    expect(parse("pop=popular").filters.minStars).toBe(4);
+    expect(parse("pop=recommended").filters.minStars).toBe(3);
+  });
+
+  it("never writes pop= again, even when it read one", () => {
+    const { filters: parsed, sort } = parse("pop=popular");
+    const query = writeFilters(parsed, sort);
+    expect(query).toBe("?stars=4");
+    expect(query).not.toContain("pop=");
+  });
+
+  it("prefers the new stars= param when both are present", () => {
+    expect(parse("stars=5&pop=recommended").filters.minStars).toBe(5);
   });
 });
 

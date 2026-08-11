@@ -1,8 +1,8 @@
 # Klangwelt
 
-クラシック音楽を「探して、知って、聴く」ためのポータルサイト。作曲家・年代・有名度・ジャンルで絞り込み、楽曲ごとの解説を読み、Spotify / YouTube Music へワンクリックで飛べる。日本語と英語に対応。
+クラシック音楽を「探して、知って、聴く」ためのポータルサイト。作曲家・年代・定番度・ジャンルで絞り込み、楽曲ごとの解説を読み、Spotify / YouTube Music へワンクリックで飛べる。日本語と英語に対応。
 
-A classical music portal: browse by composer, period, popularity and genre, read notes on each work, and jump straight to Spotify or YouTube Music. Japanese and English.
+A classical music portal: browse by composer, period, how standard a work is, and genre, read notes on each work, and jump straight to Spotify or YouTube Music. Japanese and English.
 
 ## 構成
 
@@ -11,10 +11,10 @@ Next.js 16（App Router）を `output: "export"` で完全静的出力する。�
 | | |
 |---|---|
 | 作曲家 | 220名 |
-| 楽曲（詳細ページあり） | 1,286曲 |
+| 楽曲（詳細ページあり） | 約1,300曲（`data/curation/` によるキュレーションで増減する） |
 | 楽曲（作曲家ページから閲覧可） | 25,195曲 |
 | 肖像画 | 213点（すべてライセンス検証済み） |
-| 生成ページ数 | 3,022（2言語） |
+| 生成ページ数 | 約3,000（2言語） |
 
 ```
 assets/brand/            ロゴ原画（アイコン生成の元、配信はしない）
@@ -23,6 +23,7 @@ data/
   catalog/               配信用に整形した JSON（サーバーコンポーネントが直接 import）
   ja/                    手書きの日本語データ（作曲家名・曲名の訳）
   editorial/             手書きの解説文（日英）
+  curation/              手書きの定番度（★1〜5、CONTRIBUTING.md 参照）
   portraits.json         肖像画1点ごとの出典・ライセンス台帳
 public/
   index.html             `/` の言語振り分け（静的、JS のみ）
@@ -63,7 +64,7 @@ npm run seed:catalog     # 配信用 JSON を生成（数秒）
 npm run build:icons      # assets/brand のロゴから favicon 一式を生成
 ```
 
-`seed:catalog` は他の2つの出力と `data/ja/`・`data/editorial/` を読むので、日本語データや解説文を書き足したあとは必ず再実行する。
+`seed:catalog` は他の2つの出力と `data/ja/`・`data/editorial/`・`data/curation/` を読むので、日本語データ・解説文・定番度を書き足したあとは必ず再実行する。定番度の書き方は `CONTRIBUTING.md` を参照。
 
 ## デプロイ
 

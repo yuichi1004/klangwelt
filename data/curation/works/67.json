@@ -1,0 +1,60 @@
+{
+  "star5": [
+    {
+      "id": "28083",
+      "title": "Messiah, HWV.56"
+    }
+  ],
+  "star4": [
+    {
+      "id": "6431",
+      "title": "Music for the Royal Fireworks in D major, HWV.351"
+    },
+    {
+      "id": "6216",
+      "title": "Water Music Suite no. 1 in F major, HWV.348"
+    },
+    {
+      "id": "6500",
+      "title": "Water Music Suite no. 2 in D major, HWV.349"
+    },
+    {
+      "id": "6494",
+      "title": "Water Music Suite no. 3 in G major, HWV.350"
+    }
+  ],
+  "star3": [
+    {
+      "id": "6422",
+      "title": "Harpsichord Suite in E, HWV.430, \"The Harmonious Blacksmith\""
+    },
+    {
+      "id": "6233",
+      "title": "Concerto Grosso in A major, op. 6, no. 11, HWV.329"
+    },
+    {
+      "id": "6480",
+      "title": "Organ Concerto in B flat major, op. 4, no. 6, HWV.294"
+    },
+    {
+      "id": "6209",
+      "title": "Organ Concerto in F major, HWV.295, \"The Cuckoo and the Nightingale\""
+    },
+    {
+      "id": "6485",
+      "title": "Organ Concerto in G minor, op. 7, no. 5, HWV.310"
+    },
+    {
+      "id": "6367",
+      "title": "Giulio Cesare in Egitto, HWV.17"
+    },
+    {
+      "id": "6393",
+      "title": "Concerto Grosso in A minor, op. 6, no. 4, HWV.322"
+    },
+    {
+      "id": "6446",
+      "title": "Alexander's Feast, ode for St. Cecilia's Day, HWV.75"
+    }
+  ]
+}

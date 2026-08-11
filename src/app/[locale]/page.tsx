@@ -27,7 +27,7 @@ export default async function CatalogPage(props: PageProps<"/[locale]">) {
   // Only the first page is baked into the HTML — enough for first paint and
   // for crawlers. The browser then fetches the full index as a cacheable
   // static asset and takes over the filtering.
-  const initialWorks = sortWorks(buildSearchIndex(), "popular", locale).slice(
+  const initialWorks = sortWorks(buildSearchIndex(), "standard", locale).slice(
     0,
     INITIAL_WORKS,
   );

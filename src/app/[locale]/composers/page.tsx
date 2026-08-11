@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { ComposerPortrait } from "@/components/composer-portrait";
+import { StarRating } from "@/components/star-rating";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { composers, getPortraitCredit } from "@/lib/catalog";
 import { EPOCHS, EPOCH_LABELS, EPOCH_YEARS } from "@/lib/epochs";
@@ -72,12 +73,15 @@ export default async function ComposersPage(
                   <p className="mt-2 text-sm font-medium leading-snug text-ink group-hover:text-accent">
                     {locale === "ja" ? composer.nameJa : composer.completeName}
                   </p>
-                  <p className="text-xs text-ink-faint">
-                    {composer.birthYear}
-                    {composer.deathYear === null
-                      ? "–"
-                      : `–${composer.deathYear}`}{" "}
-                    · {composer.coreWorkCount}
+                  <p className="flex items-center gap-1.5 text-xs text-ink-faint">
+                    <span>
+                      {composer.birthYear}
+                      {composer.deathYear === null
+                        ? "–"
+                        : `–${composer.deathYear}`}{" "}
+                      · {composer.coreWorkCount}
+                    </span>
+                    <StarRating locale={locale} stars={composer.stars} />
                   </p>
                 </Link>
               </li>

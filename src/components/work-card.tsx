@@ -1,8 +1,10 @@
 import Link from "next/link";
 
 import { FavoriteButton } from "@/components/favorite-button";
-import { getMessages, type Locale } from "@/i18n/config";
+import { StarRating } from "@/components/star-rating";
+import { type Locale } from "@/i18n/config";
 import { GENRE_LABELS, type Genre } from "@/lib/epochs";
+import type { Stars } from "@/lib/popularity";
 
 export interface WorkCardProps {
   locale: Locale;
@@ -12,8 +14,7 @@ export interface WorkCardProps {
   secondaryTitle?: string;
   composerName: string;
   genre: Genre;
-  popular: boolean;
-  recommended: boolean;
+  stars: Stars;
   /** Work detail pages exist only for core works. */
   linkToDetail?: boolean;
 }
@@ -25,12 +26,9 @@ export function WorkCard({
   secondaryTitle,
   composerName,
   genre,
-  popular,
-  recommended,
+  stars,
   linkToDetail = true,
 }: WorkCardProps) {
-  const messages = getMessages(locale);
-
   const body = (
     <>
       <div className="min-w-0 flex-1">
@@ -50,16 +48,7 @@ export function WorkCard({
           <span className="rounded-full bg-terra-surface px-2 py-0.5 text-ink">
             {GENRE_LABELS[genre][locale]}
           </span>
-          {popular && (
-            <span className="rounded-full bg-accent-soft px-2 py-0.5 text-accent">
-              {messages.filters.popular}
-            </span>
-          )}
-          {!popular && recommended && (
-            <span className="rounded-full border border-line px-2 py-0.5 text-ink-faint">
-              {messages.filters.recommended}
-            </span>
-          )}
+          <StarRating locale={locale} stars={stars} />
         </p>
       </div>
       <FavoriteButton workId={workId} locale={locale} size="sm" />

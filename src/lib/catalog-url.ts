@@ -9,13 +9,28 @@ import { isEpoch, isGenre } from "./epochs";
  * same validation guards both the URL and the sessionStorage restore in
  * `CatalogBrowser` (see `sanitizeQueryString`).
  */
+/**
+ * `stars=3|4|5` is the current filter param. `pop=popular|recommended` is the
+ * pre-★ form: still read here so old links and saved sessions keep working,
+ * but never written again — the first `writeFilters` call after a page loads
+ * silently upgrades the URL to `stars=`.
+ */
+function readMinStars(params: URLSearchParams | ReadonlyURLSearchParams): CatalogFilters["minStars"] {
+  const stars = params.get("stars");
+  if (stars === "3" || stars === "4" || stars === "5") return Number(stars) as 3 | 4 | 5;
+
+  const legacy = params.get("pop");
+  if (legacy === "popular") return 4;
+  if (legacy === "recommended") return 3;
+  return 0;
+}
+
 export function readFilters(params: URLSearchParams | ReadonlyURLSearchParams): {
   filters: CatalogFilters;
   sort: SortKey;
 } {
   const list = (key: string) =>
     (params.get(key) ?? "").split(",").filter(Boolean);
-  const popularity = params.get("pop");
   const sort = params.get("sort");
 
   return {
@@ -24,12 +39,11 @@ export function readFilters(params: URLSearchParams | ReadonlyURLSearchParams): 
       composerIds: list("c"),
       epochs: list("e").filter(isEpoch),
       genres: list("g").filter(isGenre),
-      popularity:
-        popularity === "popular" || popularity === "recommended"
-          ? popularity
-          : "all",
+      minStars: readMinStars(params),
     },
-    sort: sort === "title" || sort === "composer" ? sort : "popular",
+    // An unrecognised value — including the old "popular" — falls back to
+    // "standard", which is what it meant anyway.
+    sort: sort === "title" || sort === "composer" ? sort : "standard",
   };
 }
 
@@ -39,8 +53,8 @@ export function writeFilters(filters: CatalogFilters, sort: SortKey): string {
   if (filters.composerIds.length) params.set("c", filters.composerIds.join(","));
   if (filters.epochs.length) params.set("e", filters.epochs.join(","));
   if (filters.genres.length) params.set("g", filters.genres.join(","));
-  if (filters.popularity !== "all") params.set("pop", filters.popularity);
-  if (sort !== "popular") params.set("sort", sort);
+  if (filters.minStars > 0) params.set("stars", String(filters.minStars));
+  if (sort !== "standard") params.set("sort", sort);
   const query = params.toString();
   return query ? `?${query}` : "";
 }

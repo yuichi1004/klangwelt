@@ -1,5 +1,7 @@
 import { expect, test, type Page } from "@playwright/test";
 
+import catalogMeta from "../data/catalog/meta.json";
+
 /**
  * Japanese input in the catalogue search box.
  *
@@ -101,7 +103,9 @@ test.describe("Japanese IME input in the search box", () => {
 
     await expect(field).toHaveValue("モーツァルト");
     await expect(page).toHaveURL(/[?&]q=/);
-    await expect(page.getByTestId("result-count")).not.toHaveText("1,286曲");
+    await expect(page.getByTestId("result-count")).not.toHaveText(
+      `${catalogMeta.coreWorkCount.toLocaleString("ja-JP")}曲`,
+    );
   });
 
   test("plain typing still works and is not swallowed", async ({ page }) => {

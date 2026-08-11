@@ -1,5 +1,7 @@
 import { expect, test } from "@playwright/test";
 
+import catalogMeta from "../data/catalog/meta.json";
+
 /**
  * Covers the parts of the site that only exist once JavaScript runs:
  * filtering, the URL round-trip, favourites in localStorage, and the mobile
@@ -14,6 +16,12 @@ const workCards = (page: Page) => page.locator('a[href^="/ja/works/"]');
 /** The heading count above the results, not the ones in the hero or footer. */
 const resultCount = (page: Page) => page.getByTestId("result-count");
 
+// A curation batch can promote a work into the core index, so the total is
+// read from the build rather than hardcoded — it does not stay 1,286.
+const CORE_COUNT = catalogMeta.coreWorkCount.toLocaleString("ja-JP");
+const allResultsText = `${CORE_COUNT}曲`;
+const filteredResultsPattern = new RegExp(`^[\\d,]+曲 / 全${CORE_COUNT}曲$`);
+
 const searchBox = (page: Page) =>
   page.getByRole("searchbox", { name: "曲名・作曲家名で検索" });
 
@@ -27,7 +35,7 @@ test.describe("catalogue filtering", () => {
     await page.goto("/ja");
 
     // Wait for the full index to arrive before counting.
-    await expect(resultCount(page)).toHaveText("1,286曲");
+    await expect(resultCount(page)).toHaveText(allResultsText);
 
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/[?&]e=Baroque/);
@@ -35,7 +43,7 @@ test.describe("catalogue filtering", () => {
     await page.getByRole("button", { name: "鍵盤楽器" }).click();
     await expect(page).toHaveURL(/[?&]g=Keyboard/);
 
-    await expect(resultCount(page)).toHaveText(/^[\d,]+曲 \/ 全1,286曲$/);
+    await expect(resultCount(page)).toHaveText(filteredResultsPattern);
 
     // Every visible card should belong to the filtered set.
     await expect(workCards(page).first()).toBeVisible();
@@ -58,10 +66,10 @@ test.describe("catalogue filtering", () => {
   });
 
   test("clearing the filters brings every work back", async ({ page }) => {
-    await page.goto("/ja?e=Baroque&pop=popular");
+    await page.goto("/ja?e=Baroque&stars=4");
     await page.getByRole("button", { name: "条件をクリア" }).click();
     await expect(page).toHaveURL(/\/ja$/);
-    await expect(resultCount(page)).toHaveText("1,286曲");
+    await expect(resultCount(page)).toHaveText(allResultsText);
   });
 
   test("shows an empty state instead of a blank page", async ({ page }) => {
@@ -69,6 +77,38 @@ test.describe("catalogue filtering", () => {
     await expect(
       page.getByText("条件に合う楽曲が見つかりませんでした。"),
     ).toBeVisible();
+  });
+
+  test("filtering by 定番度 narrows the URL and the results", async ({ page }) => {
+    await page.goto("/ja");
+    // The chip's accessible name is "星4つ以上" — the visible "★4以上" label
+    // would read as "black star 4 以上" to a screen reader, so the chip
+    // overrides it with `aria-label` (see catalog-browser.tsx starChipLabel).
+    await page.getByRole("button", { name: "星4つ以上" }).click();
+    await expect(page).toHaveURL(/[?&]stars=4/);
+    await expect(resultCount(page)).toHaveText(filteredResultsPattern);
+
+    // Every visible card's rating chip (the WorkCard's `role="img"` span,
+    // distinct from the favourite button) reads ★4 or ★5.
+    const cardCount = await workCards(page).count();
+    const ratingChips = workCards(page).locator('span[role="img"]');
+    await expect(ratingChips).toHaveCount(cardCount);
+    for (const chip of await ratingChips.all()) {
+      await expect(chip).toHaveText(/^★[45]$/);
+    }
+  });
+
+  test("an old ?pop= link still filters correctly and self-heals to ?stars=", async ({
+    page,
+  }) => {
+    // Pre-★ links may still be bookmarked or shared; they must keep working.
+    await page.goto("/ja?pop=popular");
+    await expect(resultCount(page)).toHaveText(filteredResultsPattern);
+
+    // The first filter interaction rewrites the URL in the new form.
+    await page.getByRole("button", { name: "バロック" }).click();
+    await expect(page).toHaveURL(/[?&]stars=4/);
+    await expect(page).not.toHaveURL(/pop=/);
   });
 });
 
@@ -80,7 +120,7 @@ test.describe("active filter chips", () => {
 
   test("removing a chip drops only that filter", async ({ page }) => {
     await page.goto("/ja?e=Baroque&g=Keyboard");
-    await expect(resultCount(page)).toHaveText(/^[\d,]+曲 \/ 全1,286曲$/);
+    await expect(resultCount(page)).toHaveText(filteredResultsPattern);
 
     await page.getByRole("button", { name: "バロック を解除" }).click();
     await expect(page).toHaveURL(/g=Keyboard/);
@@ -98,7 +138,7 @@ test.describe("active filter chips", () => {
     await page.getByRole("button", { name: "すべてクリア" }).click();
     await expect(page).toHaveURL(/\/ja$/);
     await expect(searchBox(page)).toHaveValue("");
-    await expect(resultCount(page)).toHaveText("1,286曲");
+    await expect(resultCount(page)).toHaveText(allResultsText);
   });
 });
 
@@ -114,14 +154,14 @@ test.describe("filters survive an in-page round trip", () => {
     await page.goto("/ja");
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/e=Baroque/);
-    await expect(resultCount(page)).toHaveText(/^[\d,]+曲 \/ 全1,286曲$/);
+    await expect(resultCount(page)).toHaveText(filteredResultsPattern);
 
     await workCards(page).first().click();
     await expect(page).toHaveURL(/\/works\//);
 
     await page.getByRole("link", { name: "楽曲一覧に戻る" }).click();
     await expect(page).toHaveURL(/e=Baroque/);
-    await expect(resultCount(page)).toHaveText(/^[\d,]+曲 \/ 全1,286曲$/);
+    await expect(resultCount(page)).toHaveText(filteredResultsPattern);
     await expect(page.getByRole("button", { name: "バロック を解除" })).toBeVisible();
   });
 
@@ -151,7 +191,7 @@ test.describe("filters survive an in-page round trip", () => {
 
     await page.getByRole("link", { name: "楽曲一覧に戻る" }).click();
     await expect(page).toHaveURL(/\/ja$/);
-    await expect(resultCount(page)).toHaveText("1,286曲");
+    await expect(resultCount(page)).toHaveText(allResultsText);
   });
 
   test("a link with its own filters wins over a saved one", async ({ page }) => {
@@ -179,7 +219,7 @@ test.describe("filters survive an in-page round trip", () => {
     const second = await browser.newContext();
     const secondPage = await second.newPage();
     await secondPage.goto("/ja");
-    await expect(resultCount(secondPage)).toHaveText("1,286曲");
+    await expect(resultCount(secondPage)).toHaveText(allResultsText);
     await second.close();
   });
 });

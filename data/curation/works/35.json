@@ -1,0 +1,48 @@
+{
+  "star5": [
+    {
+      "id": "2678",
+      "title": "La traviata"
+    },
+    {
+      "id": "2660",
+      "title": "Rigoletto"
+    }
+  ],
+  "star4": [
+    {
+      "id": "2687",
+      "title": "Aida"
+    },
+    {
+      "id": "2708",
+      "title": "Otello"
+    },
+    {
+      "id": "2657",
+      "title": "Nabucco"
+    }
+  ],
+  "star3": [
+    {
+      "id": "2703",
+      "title": "Il trovatore"
+    },
+    {
+      "id": "2715",
+      "title": "Requiem"
+    },
+    {
+      "id": "2673",
+      "title": "La forza del destino"
+    },
+    {
+      "id": "2650",
+      "title": "Don Carlo"
+    },
+    {
+      "id": "2720",
+      "title": "Falstaff"
+    }
+  ]
+}
