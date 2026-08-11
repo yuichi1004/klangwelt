@@ -233,6 +233,32 @@
       ]
     }
   },
+  "10": {
+    "biography": {
+      "ja": "フィレンツェに生まれながら少年時代にフランスへ渡り、ルイ14世の宮廷で舞踊家・ヴァイオリニストとして頭角を現した。国王の絶大な信任を得てフランスの音楽界における事実上の独占的な地位を築き、宮廷オペラの制作権を独り占めして他の作曲家の活動を大きく制限した。指揮の際に用いていた長い指揮棒で自らの足を誤って突き、その傷が悪化して命を落としたという逸話でも知られる。",
+      "en": "Born in Florence, he moved to France as a boy and rose to prominence at the court of Louis XIV as a dancer and violinist. He won the king's absolute trust and built what amounted to a monopoly over French musical life, holding sole rights to court opera production and severely restricting the activity of other composers. He is also known for the story of his death: he accidentally struck his own foot with the long staff he used to conduct, and the resulting wound proved fatal."
+    },
+    "style": {
+      "ja": "荘重な付点リズムを特徴とする「フランス風序曲」の様式を確立し、その後のバロック音楽全体で広く模倣される定型を作り上げた。舞踊的な要素を重視した悲劇的抒情劇では、フランス語の抑揚に沿った独特のレチタティーヴォを開拓し、イタリア・オペラとは異なるフランス独自のオペラ様式を築いた。",
+      "en": "He established the style of the \"French overture,\" characterized by solemn dotted rhythms, creating a formal template widely imitated across Baroque music thereafter. In his tragédies lyriques, which emphasized dance, he pioneered a distinctive recitative style following the inflections of the French language, building an operatic tradition of its own, distinct from Italian opera."
+    },
+    "impact": {
+      "ja": "自らに与えられた独占権によって同時代のシャルパンティエら他の作曲家の活動を大きく制約し、宮廷音楽をめぐる権力闘争の象徴的存在となった。その一方でフランス風序曲の様式はラモーら後継世代に受け継がれ、フランス・バロック・オペラの土台を築いた最重要人物として音楽史に刻まれている。",
+      "en": "The monopoly granted to him significantly constrained the activity of other composers, including his contemporary Charpentier, making him a symbolic figure in the power struggles surrounding court music. At the same time, the style of the French overture was carried forward by later composers such as Rameau, and he is recorded in music history as the most important figure in laying the foundations of French Baroque opera."
+    },
+    "keywords": {
+      "ja": [
+        "フランス風序曲の確立者",
+        "宮廷オペラの独占による権力",
+        "指揮棒での自傷が招いた死"
+      ],
+      "en": [
+        "Founder of the French overture style",
+        "Court opera monopoly and power",
+        "Fatal self-inflicted conducting injury"
+      ]
+    }
+  },
   "11": {
     "biography": {
       "ja": "チェコの小さな町にある教会の鐘楼の上の部屋で育った。父がその教会の火の見番を務めていたためで、高い場所からの見晴らしのよい生活が、のちの作風にも影響したのではないかとしばしば指摘される。\nプラハ音楽院で学んだのちパリに移り、ルーセルに師事して新古典主義やジャズの語法を吸収した。ナチス・ドイツによる占領を逃れてアメリカに渡り、プリンストン大学などで教えた。生涯を通じて多作であり続け、晩年はヨーロッパに戻ってスイスで没している。",
@@ -308,6 +334,84 @@
         "Structurally incorporating spirituals",
         "Conscientious objection and imprisonment",
         "Mythological exploration in his own librettos"
+      ]
+    }
+  },
+  "14": {
+    "biography": {
+      "ja": "イタリア・ヴェノーザ公として生まれ、フェリスやネンナに師事した。最初の妻とその愛人の不貞の現場を押さえ、二人を殺害したという凄惨な事件で歴史に名を残す人物でもある。事件後は罪の意識に苦しみながら、ヴェノーザの城で創作活動を続けたと伝えられている。",
+      "en": "Born Prince of Venosa in Italy, he studied under Felis and Nenna. He is also remembered in history for a horrific event: he caught his first wife and her lover in the act of adultery and murdered them both. He is said to have continued composing at his castle in Venosa afterward, tormented by guilt."
+    },
+    "style": {
+      "ja": "同時代の常識をはるかに超える大胆な半音階的和声を用いたマドリガーレで知られ、隣接する音同士が激しくぶつかり合う不協和音と、それが解決される瞬間の劇的な緊張感を追求した。歌詞に込められた苦悩や絶望の感情を、当時としては実験的なまでに先鋭化した和声で直接的に描き出す作風を確立した。",
+      "en": "He is known for madrigals that use boldly chromatic harmony far beyond the conventions of his time, pursuing the dramatic tension of sharply clashing dissonance and the moment of its resolution. He established a style that directly depicted the anguish and despair embedded in a text through harmony that was, for its era, sharpened to an experimental degree."
+    },
+    "impact": {
+      "ja": "その先鋭的な半音階書法は当時の作曲技法の限界をはるかに超えており、同時代の作曲家からは孤立した存在であったが、20世紀に入って前衛的な和声を模索した作曲家たちから改めて注目され、時代を数世紀先取りした先駆者として再評価された。生涯を彩る劇的な事件そのものも、作品の激烈な表現力と結びつけて語られることが多い。",
+      "en": "His sharply chromatic writing went far beyond the limits of compositional technique in his day, leaving him an isolated figure among his contemporaries, but in the twentieth century he was rediscovered by composers exploring avant-garde harmony and reassessed as a pioneer who anticipated developments centuries ahead of his time. The dramatic events of his life are often discussed together with the fierce expressive power of his music."
+    },
+    "keywords": {
+      "ja": [
+        "妻とその愛人を殺害した劇的な生涯",
+        "同時代を超越した半音階和声",
+        "20世紀に再評価された先駆性"
+      ],
+      "en": [
+        "Dramatic life including a double murder",
+        "Chromatic harmony ahead of its era",
+        "Rediscovered as a 20th-century precursor"
+      ]
+    }
+  },
+  "15": {
+    "biography": {
+      "ja": "ドイツ・ジークブルクに生まれ、ラーナーやラインベルガーらに師事した。若き日にはリヒャルト・ワーグナーの助手を務め、大作『パルジファル』の総譜浄書を手伝うなど、ワーグナー一家と深い関わりを持ち、ワーグナーの息子ジークフリートを弟子として指導したこともある。",
+      "en": "Born in Siegburg, Germany, he studied under Lachner, Rheinberger, and others. In his younger years he served as an assistant to Richard Wagner, helping prepare the fair copy of the score for the great work Parsifal, and he maintained a deep connection with the Wagner family, at one point even teaching Wagner's son Siegfried as a pupil."
+    },
+    "style": {
+      "ja": "師ワーグナーから受け継いだ濃密な半音階的和声とライトモティーフの手法を、グリム童話に基づく親しみやすい題材と結びつけ、家庭的で温かみのある童話オペラという独自の様式を確立した。壮大なワーグナーの楽劇の技法を、子供向けの物語という小さな器の中で巧みに活用した点に独創性がある。",
+      "en": "He combined the dense chromatic harmony and leitmotif technique inherited from his teacher Wagner with accessible subject matter drawn from Grimm's fairy tales, establishing a distinctive style of warm, domestic fairy-tale opera. His originality lies in skillfully applying the grand technique of Wagnerian music drama within the smaller vessel of a story for children."
+    },
+    "impact": {
+      "ja": "代表的な童話オペラは、ワーグナー的な高度な作曲技法を家庭的な題材に応用した稀有な成功例として、今日でもクリスマスの時期を中心に世界中の歌劇場で繰り返し上演され続けている。ワーグナーの創作現場に直接関わった経験を持つ作曲家として、楽劇の技法がどのように次世代へ受け継がれ変容したかを示す興味深い事例となっている。",
+      "en": "His best-known fairy-tale opera, a rare success in applying sophisticated Wagnerian technique to domestic subject matter, continues to be staged repeatedly at opera houses worldwide, especially around Christmas. Having been directly involved in Wagner's own creative process, he offers a fascinating case study in how the technique of music drama was passed down and transformed for the next generation."
+    },
+    "keywords": {
+      "ja": [
+        "ワーグナーの助手を務めた経歴",
+        "グリム童話に基づく童話オペラ",
+        "クリスマスの定番演目"
+      ],
+      "en": [
+        "Served as Wagner's assistant",
+        "Fairy-tale opera from Grimm's tales",
+        "Christmas-season repertoire staple"
+      ]
+    }
+  },
+  "16": {
+    "biography": {
+      "ja": "ポーランド・チェルニツァに生まれ、シャベルスキに師事した。カトヴィツェの音楽アカデミーで長年教鞭を執り、若い頃は前衛的な語法で知られたが、次第に単純で瞑想的な語法へと転じていった。代表的な交響曲は発表から十数年を経た1990年代初頭に思わぬ形で大ヒットし、現代音楽としては異例のセールスを記録した。",
+      "en": "Born in Czernica, Poland, he studied under Bolesław Szabelski. He taught for many years at the Academy of Music in Katowice, and while known for an avant-garde idiom in his youth, he gradually turned toward a simple, meditative style. His best-known symphony, first performed years earlier, unexpectedly became a massive hit in the early 1990s, achieving sales unusual for a work of contemporary classical music."
+    },
+    "style": {
+      "ja": "初期の前衛的な作風から一転し、単純な旋律の反復と持続する和声、静謐な祈りに似た雰囲気を特徴とする様式へと移行した。代表的な交響曲は、悲しみを主題とする声楽と管弦楽のための緩徐な楽章群からなり、簡素な素材を執拗に繰り返すことで深い精神性を表現する。",
+      "en": "He turned sharply from an avant-garde early style toward one marked by the repetition of simple melody, sustained harmony, and an atmosphere resembling quiet prayer. His best-known symphony consists of slow movements for voice and orchestra on the theme of sorrow, expressing profound spirituality through the persistent repetition of simple material."
+    },
+    "impact": {
+      "ja": "エストニアのペルトが確立した「ティンティナブリ様式」とは技法的に異なるものの、単純さと精神性を重視するという点で共通しており、両者はしばしば「聖なるミニマリズム」と呼ばれる潮流の代表格として並び称される。同郷のペンデレツキが前衛技法から出発して後年ロマン主義的な語法へ回帰したのとはまた異なる道筋で、単純さの中に精神的な深みを追求した。",
+      "en": "Though technically distinct from the \"tintinnabuli\" style established by Estonia's Arvo Pärt, his music shares an emphasis on simplicity and spirituality, and the two are often paired as leading figures of what is called \"holy minimalism.\" Taking yet another path from his fellow Pole Penderecki, who began in the avant-garde and later returned to a Romantic idiom, he pursued spiritual depth through simplicity."
+    },
+    "keywords": {
+      "ja": [
+        "予想外の大ヒットとなった交響曲",
+        "聖なるミニマリズムの代表格",
+        "前衛から瞑想的様式への転向"
+      ],
+      "en": [
+        "Symphony that became an unexpected hit",
+        "Leading figure of \"holy minimalism\"",
+        "Turn from avant-garde to meditative style"
       ]
     }
   },
@@ -464,6 +568,32 @@
         "Organized sound",
         "Early exploration of electronic sound",
         "Expanding the definition of musical material"
+      ]
+    }
+  },
+  "24": {
+    "biography": {
+      "ja": "ニューヨークのブロンクスに生まれ、独学に近い形で作曲を学んだ。1943年に新設されたピュリッツァー賞音楽部門の最初の受賞者となり、その後ジュリアード音楽院の学長、さらにリンカーン・センターの初代総裁を務めるなど、作曲家としてだけでなくアメリカの音楽教育・文化行政の中枢を担った人物でもある。",
+      "en": "Born in the Bronx, New York, he was largely self-taught as a composer. He became the first-ever winner of the Pulitzer Prize for Music when the category was established in 1943, and he went on to serve as president of the Juilliard School and, later, the first president of Lincoln Center, playing a central role not only as a composer but in American music education and cultural administration."
+    },
+    "style": {
+      "ja": "力強いリズムの推進力と、金管楽器を活かした輝かしい響きを特徴とする、いかにもアメリカ的な明るさと活力に満ちた交響的語法を確立した。躍動感のある変拍子や対位法的な書法を駆使しながらも、聴きやすい旋律線を保つバランス感覚に優れていた。",
+      "en": "He established a symphonic idiom full of a distinctly American brightness and energy, marked by powerfully driving rhythm and brilliant brass-centered sonority. He made skillful use of lively changing meters and contrapuntal writing while maintaining a well-balanced sense of accessible melodic line."
+    },
+    "impact": {
+      "ja": "音楽教育・文化行政の要職を歴任した経歴により、作曲家個人としての活動を超えてアメリカのクラシック音楽界全体の制度的な基盤づくりに大きく貢献した。同時代のコープランドと並ぶアメリカ交響曲の重要な担い手として、ピュリッツァー賞の第一号受賞者という記念碑的な地位も含めて、アメリカ音楽史における重要な結節点を占めている。",
+      "en": "Through the senior positions he held in music education and cultural administration, he made a major contribution to building the institutional foundations of American classical music as a whole, beyond his own work as a composer. As an important figure in the American symphony alongside his contemporary Copland, and as the very first winner of the Pulitzer Prize for Music, he occupies a significant node in American music history."
+    },
+    "keywords": {
+      "ja": [
+        "ピュリッツァー賞音楽部門の第一号受賞者",
+        "リンカーン・センター初代総裁",
+        "アメリカ的な活力に満ちた交響的語法"
+      ],
+      "en": [
+        "First-ever Pulitzer Prize for Music winner",
+        "First president of Lincoln Center",
+        "Symphonic idiom of American energy"
       ]
     }
   },
@@ -3441,6 +3571,32 @@
       ]
     }
   },
+  "156": {
+    "biography": {
+      "ja": "ロシア・ノヴォスパスコエに生まれ、サンクトペテルブルクでイギリス出身のピアニスト、ジョン・フィールドに師事した。歴史劇に基づく代表的なオペラの成功により、それまで西欧の模倣にとどまりがちだったロシア音楽に民族的な独自性をもたらした最初の人物として、「ロシア音楽の父」と称されるようになった。",
+      "en": "Born in Novospasskoye, Russia, he studied in Saint Petersburg under the English pianist John Field. The success of his best-known opera, based on a historical drama, brought a distinctly national character to Russian music, which had until then largely imitated Western European models, earning him the title \"father of Russian music.\""
+    },
+    "style": {
+      "ja": "西欧のオペラや管弦楽の形式的な枠組みを踏まえながら、ロシア正教会の聖歌やロシア民謡の旋律的な語法を大胆に取り入れた作風を確立した。管弦楽法は色彩豊かで、代表的なオペラの序曲は今日でも単独の演奏会用作品として頻繁に取り上げられる人気を誇る。",
+      "en": "While working within the formal frameworks of Western European opera and orchestral music, he boldly incorporated the melodic idiom of Russian Orthodox chant and Russian folk song, establishing a distinctive style. His orchestration is richly colored, and the overture to his best-known opera remains a frequently performed concert favorite in its own right today."
+    },
+    "impact": {
+      "ja": "その民族的な語法は、後に「ロシア五人組」を率いたバラキレフをはじめとする世代に直接的な出発点を与え、ロシア国民楽派全体の源流となった。西欧の作曲技法を学びながらもロシア独自の音楽言語を打ち立てたその姿勢は、以後のロシア音楽史全体を貫く重要な指針となっている。",
+      "en": "His national idiom provided a direct starting point for the following generation, including Balakirev, who led \"The Five,\" and became the wellspring of Russian musical nationalism as a whole. His approach of learning Western European technique while establishing a distinctly Russian musical language became a guiding principle running through the whole of subsequent Russian music history."
+    },
+    "keywords": {
+      "ja": [
+        "ロシア音楽の父と称される存在",
+        "民謡と正教聖歌を取り入れたオペラ",
+        "ロシア五人組への直接的な出発点"
+      ],
+      "en": [
+        "Hailed as the father of Russian music",
+        "Opera drawing on folk song and Orthodox chant",
+        "Direct starting point for The Five"
+      ]
+    }
+  },
   "158": {
     "biography": {
       "ja": "作曲家としての活動の一方、若い頃には妻でピアニストのメーテ・グラーフとともにルーマニアへ渡り、現地の民俗音楽を実地で調査した。この経験は、彼が「変容」と名づけた独自の作曲理論——一つの主題が楽曲を通じてゆっくりと姿を変えていくという考え方——の土台になっている。\n国際的な演奏活動よりもデンマーク国内での活動を中心とし、13曲の交響曲と20曲の弦楽四重奏曲を含む膨大な作品を生涯にわたって書き続けた。",
@@ -3571,6 +3727,32 @@
       ]
     }
   },
+  "163": {
+    "biography": {
+      "ja": "ニューヨークに生まれ、ナディア・ブーランジェに師事した。驚異的な長寿を保ち、100歳を超えてなお新作を発表し続けたことで知られる。同じくブーランジェに師事したコープランドが平明で親しみやすいアメリカ的な作風を選んだのとは対照的に、生涯を通じて年々複雑さを増す語法を追求し続けた。",
+      "en": "Born in New York City, he studied under Nadia Boulanger. He is known for a remarkable longevity, continuing to produce new works past the age of one hundred. Where his fellow Boulanger pupil Copland chose a clear, accessible American style, he pursued an idiom that grew steadily more complex throughout his long career."
+    },
+    "style": {
+      "ja": "複数の声部がそれぞれ独自のテンポやリズム構造を保ちながら同時進行する高度な技法を発展させ、演奏中に段階的にテンポそのものが変化していく独自の手法を確立した。弦楽四重奏という編成を特に重視し、各声部に強い個性を与えて対話させる室内楽的な緊密さを追求した。",
+      "en": "He developed a sophisticated technique in which multiple voices proceed simultaneously, each maintaining its own tempo and rhythmic structure, and established a distinctive method by which the tempo itself gradually shifts over the course of a performance. He placed particular emphasis on the string quartet, giving each voice a strong individual character in a tightly woven chamber-music dialogue."
+    },
+    "impact": {
+      "ja": "その独自のテンポ変化の技法は「メトリック・モジュレーション」と呼ばれ、20世紀後半のリズム語法に大きな影響を与えた。ブーランジェの門下からコープランドのような平明な作風とは正反対の極限的な複雑さを追求する作曲家が育ったという事実は、一人の教師がいかに多様な弟子を輩出しうるかを示す好例としてしばしば引き合いに出される。",
+      "en": "His distinctive technique for shifting tempo became known as \"metric modulation\" and had a major influence on rhythmic language in the later twentieth century. The fact that a composer pursuing such extreme complexity, the polar opposite of Copland's clarity, emerged from the same teacher's studio is often cited as a striking example of how differently a single teacher's pupils can develop."
+    },
+    "keywords": {
+      "ja": [
+        "100歳を超えて作曲を続けた長寿",
+        "メトリック・モジュレーションの確立",
+        "コープランドと対照的なブーランジェ門下"
+      ],
+      "en": [
+        "Composed past the age of a hundred",
+        "Founder of metric modulation",
+        "Boulanger pupil opposite of Copland"
+      ]
+    }
+  },
   "164": {
     "biography": {
       "ja": "イングランドに生まれ、アイルランド系の血を引いた。ジョン・アイアランドらに師事したが、第一次世界大戦への従軍中に頭部へ砲弾の破片を受ける重傷を負い、生涯にわたってその後遺症に苦しめられた。晩年はアイルランドのケンメア近郊に移り住み、静養と作曲を続けたが、湾での散策中に急死した。",
@@ -3620,6 +3802,32 @@
         "Concert-hall waltz",
         "The Viennese lilt",
         "Establishing operetta"
+      ]
+    }
+  },
+  "166": {
+    "biography": {
+      "ja": "ブラウンシュヴァイクに生まれ、ヴァイオリンの名手として若くして名声を確立した。指揮者としても活動し、指揮棒を用いて拍子を明確に示す方式をいち早く実践した先駆者の一人として音楽史に名を残している。ヴァイオリンの顎当てを考案・普及させたことでも知られ、その発明は今日に至るまで演奏技術の基本装備として使われ続けている。",
+      "en": "Born in Brunswick, he established his fame young as a violin virtuoso. He also worked as a conductor and is remembered in music history as one of the early pioneers of using a baton to give the beat clear visual definition. He is also known for devising and popularizing the violin chin rest, an invention that remains basic equipment for players to this day."
+    },
+    "style": {
+      "ja": "初期ロマン派の抒情性と、ヴァイオリニストとしての実演経験に裏打ちされた効果的な弦楽器書法を特徴とする。半音階的な和声を多用する劇的な表現も好み、代表的なオペラでは伝説的な題材を扱いながら、当時としては先進的な和声語法を試みている。",
+      "en": "His style is marked by the lyricism of early Romanticism combined with effective string writing grounded in his own experience as a performing violinist. He also favored dramatic expression built on chromatic harmony, and his best-known opera, drawing on legendary subject matter, experiments with a harmonic language that was progressive for its time."
+    },
+    "impact": {
+      "ja": "指揮棒の使用や顎当ての考案という実演上の革新は、彼の作品そのものよりも音楽演奏の実務に長く影響を残した。作曲家としての評価は同時代のウェーバーらドイツ・ロマン派オペラの潮流と並べて語られることが多いが、演奏実践への貢献は作曲活動を超えて音楽史全体に及んでいる。",
+      "en": "His practical innovations, the use of the baton and the invention of the chin rest, left a longer-lasting mark on the practice of music performance than his compositions themselves. As a composer he is often discussed alongside the current of German Romantic opera represented by his contemporary Weber, but his contribution to performance practice extends across music history well beyond his own compositional output."
+    },
+    "keywords": {
+      "ja": [
+        "指揮棒使用の先駆者",
+        "ヴァイオリン顎当ての考案者",
+        "ドイツ・ロマン派オペラの同時代人"
+      ],
+      "en": [
+        "Pioneer of the conductor's baton",
+        "Inventor of the violin chin rest",
+        "Contemporary of German Romantic opera"
       ]
     }
   },
@@ -3724,6 +3932,32 @@
         "Tone poem taken to its limit",
         "Dramatic soprano writing",
         "A late stylistic turn"
+      ]
+    }
+  },
+  "172": {
+    "biography": {
+      "ja": "旧ソ連タタール共和国のチストポリに生まれ、モスクワ音楽院で学んだ。ソ連体制下では前衛的で宗教的な作風のために「非公式」の作曲家として当局から冷遇されたが、ショスタコーヴィチから直接励ましの言葉を受けたことが創作を続ける支えとなったという逸話が広く知られている。ソ連崩壊前後にドイツへ移住し、以後は同地を拠点に活動を続けている。",
+      "en": "Born in Chistopol, in the Tatar republic of the former Soviet Union, she studied at the Moscow Conservatory. Under the Soviet system her avant-garde, religiously inflected music left her treated by the authorities as an \"unofficial\" composer, and a widely told story recounts how words of direct encouragement from Shostakovich helped sustain her through those years. She emigrated to Germany around the time of the Soviet collapse and has been based there ever since."
+    },
+    "style": {
+      "ja": "深い宗教的・精神的な主題を、独自の音響探求と結びつけた瞑想的な語法を特徴とする。数比や象徴的な数列を作品の構造原理として用いることを好み、極端な強弱の対比や特殊奏法を駆使して、沈黙と音響が拮抗する緊張感の高い音楽空間を作り上げる。",
+      "en": "Her style is marked by a meditative idiom fusing deep religious and spiritual themes with her own exploration of sound. She favors using numerical ratios and symbolic number sequences as structural principles for her works, and through extreme dynamic contrast and extended technique she creates a tense sonic space where silence and sound stand in balance."
+    },
+    "impact": {
+      "ja": "ソ連体制下で弾圧を受けながらも独自の道を歩んだ経歴は、ノーノが政治的関与を、ヘンツェが亡命を選んだのとはまた異なる、宗教的・精神的な内面世界への沈潜という第三の抵抗の形を示している。同時代のシュニトケらとともに、ソ連末期の「非公式」作曲家たちが西側で再評価される流れを代表する存在となった。",
+      "en": "Her career, forging her own path despite suppression under the Soviet system, represents a third form of resistance, a retreat into a religious and spiritual inner world, distinct from Nono's political commitment or Henze's choice of exile. Alongside her contemporary Schnittke, she became a leading figure in the wave of reassessment that brought late-Soviet \"unofficial\" composers to prominence in the West."
+    },
+    "keywords": {
+      "ja": [
+        "ショスタコーヴィチに励まされた非公式作曲家",
+        "数比を用いる精神的な語法",
+        "ソ連末期のドイツ移住"
+      ],
+      "en": [
+        "Unofficial composer encouraged by Shostakovich",
+        "Spiritual idiom built on numerical ratio",
+        "Emigration to Germany near the Soviet collapse"
       ]
     }
   },
@@ -4099,6 +4333,32 @@
       ]
     }
   },
+  "191": {
+    "biography": {
+      "ja": "現在のドイツ、バート・ケストリッツに生まれ、ヴェネツィアに渡ってジョヴァンニ・ガブリエーリに師事し、イタリアの華麗な複合唱様式を直接学んだ最初期のドイツ人作曲家となった。帰国後はドレスデンの宮廷楽長として長年活動したが、その活動期間の大半は三十年戦争による荒廃と重なり、限られた資源の中で作曲を続けざるを得なかった。",
+      "en": "Born in Bad Köstritz, in present-day Germany, he traveled to Venice to study under Giovanni Gabrieli, becoming one of the earliest German composers to learn the splendid Venetian polychoral style firsthand. Back home he served for many years as court chapel master in Dresden, though most of his career overlapped with the devastation of the Thirty Years' War, forcing him to keep composing amid severely limited resources."
+    },
+    "style": {
+      "ja": "ガブリエーリから学んだ豊麗なヴェネツィア様式と、ドイツ語の歌詞の抑揚を精緻に音楽へ映し出す表現力を融合させた。戦争による経済的困窮の中で、大編成の合唱曲だけでなく、少人数でも演奏可能な簡素な編成の宗教曲も数多く手がけ、時代の制約に応じて柔軟に様式を変化させた。",
+      "en": "He fused the splendid Venetian style he learned from Gabrieli with an expressive power that precisely reflected the inflection of German text. Amid the economic hardship caused by the war, he wrote not only large-scale choral works but also many sacred pieces scored simply enough to be performed by a small number of musicians, flexibly adapting his style to the constraints of his time."
+    },
+    "impact": {
+      "ja": "イタリアの様式をドイツ語圏へ伝えた最初期の重要な橋渡し役として、バッハ以前のドイツ音楽における最大の作曲家と位置づけられている。同時代のモンテヴェルディがイタリアでルネサンスからバロックへの転換を主導したのと並行して、彼はその成果をドイツ語圏の教会音楽へと移植する役割を担った。",
+      "en": "As one of the earliest and most important figures to carry the Italian style into the German-speaking world, he is regarded as the greatest German composer before Bach. In parallel with his contemporary Monteverdi, who led the turn from Renaissance to Baroque in Italy, he took on the role of transplanting those achievements into the church music of the German lands."
+    },
+    "keywords": {
+      "ja": [
+        "ガブリエーリに学んだヴェネツィア様式",
+        "三十年戦争下での創作継続",
+        "バッハ以前最大のドイツ人作曲家"
+      ],
+      "en": [
+        "Venetian style learned from Gabrieli",
+        "Composing through the Thirty Years' War",
+        "Greatest German composer before Bach"
+      ]
+    }
+  },
   "192": {
     "biography": {
       "ja": "バッハの次男として生まれ、異母弟のヨハン・クリスティアンに音楽の手ほどきをした。長年プロイセン王フリードリヒ大王の宮廷チェンバロ奏者を務めた。大王自身もフルートを演奏し作曲もこなす音楽通で、その宮廷は音楽的な要求の高い環境だった。\nのちに、名付け親でもあった作曲家テレマンの後任としてハンブルクの音楽監督に就任した。著書「クラヴィーア奏法試論」は鍵盤楽器の演奏技法と表現に関する規範的な教本となり、ハイドンやモーツァルト、ベートーヴェンをはじめ、以後の世代の作曲家たちに広く読まれた。",
@@ -4122,6 +4382,32 @@
         "Empfindsamer Stil",
         "The keyboard treatise",
         "A bridge to the Classical era"
+      ]
+    }
+  },
+  "193": {
+    "biography": {
+      "ja": "フランス・ラ・フレーシュに生まれ、アダンに師事した。パリ音楽院やパリ・オペラ座のオルガニストを務めながら作曲を続け、それまで娯楽的な添え物とみなされがちだったバレエ音楽を、単独で鑑賞に堪える芸術作品の域にまで高めた作曲家として知られる。",
+      "en": "Born in La Flèche, France, he studied under Adolphe Adam. While working as an organist at the Paris Conservatoire and the Paris Opera, he continued to compose, and he is known as the composer who elevated ballet music, previously often regarded as mere entertainment, to the level of a serious, independently appreciable art form."
+    },
+    "style": {
+      "ja": "フランス的な洗練とオーケストラの色彩感覚を存分に生かし、旋律の魅力と舞踊のための的確なリズム感を両立させた。オペラでもエキゾチックな異国情緒を効果的に取り入れ、特に東洋を舞台とした代表作では、旋律美と劇的な緊張感を巧みに組み合わせている。",
+      "en": "He made full use of French refinement and orchestral color to balance melodic appeal with a rhythmic precision suited to dance. In opera too he effectively drew on exotic, foreign atmosphere, and in his best-known opera set in the East he skillfully combined melodic beauty with dramatic tension."
+    },
+    "impact": {
+      "ja": "その代表的なバレエ音楽は、後にチャイコフスキーが自身のバレエ音楽を手がける際の直接的な模範として名指しで称賛したことで知られ、フランスのバレエ音楽がロシア・バレエの発展に与えた影響を象徴する存在となった。今日でも「三大バレエ」と称されるチャイコフスキーの作品群の背後には、彼が切り拓いたバレエ音楽の芸術的地位向上という前提が存在する。",
+      "en": "His best-known ballet score is known for having been explicitly singled out and praised by Tchaikovsky as a direct model when he himself came to compose ballet music, making him a symbol of French ballet music's influence on the development of Russian ballet. Behind Tchaikovsky's works, often called the \"three great ballets\" today, lies the premise of the elevated artistic status that he had pioneered for ballet music."
+    },
+    "keywords": {
+      "ja": [
+        "バレエ音楽を芸術の域に高めた功績",
+        "チャイコフスキーが模範と称賛",
+        "東洋を舞台にした代表的オペラ"
+      ],
+      "en": [
+        "Elevated ballet music to serious art",
+        "Explicitly praised as a model by Tchaikovsky",
+        "Best-known opera set in the East"
       ]
     }
   },
@@ -4334,6 +4620,32 @@
         "Sound-mass avant-garde style",
         "A dramatic stylistic reversal",
         "Responding to Poland's national trauma"
+      ]
+    }
+  },
+  "207": {
+    "biography": {
+      "ja": "ブラジル・カンピーナスに生まれ、リオデジャネイロで学んだ後、皇帝ペドロ2世の支援を受けてミラノへ留学した。イタリアで書いたオペラがミラノ・スカラ座で大成功を収め、ヨーロッパの主要な歌劇場で高く評価された最初のラテンアメリカ出身の作曲家となった。",
+      "en": "Born in Campinas, Brazil, he studied in Rio de Janeiro before traveling to Milan on a scholarship supported by Emperor Pedro II. An opera he wrote in Italy was a great success at La Scala in Milan, making him the first Latin American composer to win high acclaim at a major European opera house."
+    },
+    "style": {
+      "ja": "イタリア・オペラの華麗な旋律様式と劇的な構成を土台としながら、ブラジル先住民や熱帯の自然を題材とする異国情緒豊かな物語を扱った。ヨーロッパの聴衆にとって未知であった南米の風土を、イタリア風のオペラという聞き慣れた形式に載せて紹介するという、独自の橋渡し役を果たした。",
+      "en": "Building on the splendid melodic style and dramatic construction of Italian opera, he took up exotic stories involving Brazilian indigenous peoples and tropical nature. He played a distinctive bridging role, introducing South American landscapes unfamiliar to European audiences through the familiar form of Italian-style opera."
+    },
+    "impact": {
+      "ja": "ヨーロッパの主要歌劇場で成功を収めた最初のブラジル人作曲家として、後にヴィラ=ロボスやミニョーネ、グアルニエリらが本格的に展開するブラジル音楽の国際的な地位向上に先立つ先駆者と位置づけられる。ブラジル国内では今日でも国民的な作曲家として敬愛され、その名を冠した劇場や音楽賞が各地に残っている。",
+      "en": "As the first Brazilian composer to succeed at a major European opera house, he stands as a forerunner preceding the fuller international rise of Brazilian music later carried forward by Villa-Lobos, Mignone, and Guarnieri. Within Brazil he remains revered today as a national composer, and theaters and music prizes bearing his name endure across the country."
+    },
+    "keywords": {
+      "ja": [
+        "スカラ座で成功した最初のラテンアメリカ人",
+        "ブラジルの風土を描くイタリア風オペラ",
+        "後続のブラジル音楽国際化の先駆者"
+      ],
+      "en": [
+        "First Latin American to succeed at La Scala",
+        "Italian-style opera depicting Brazilian landscape",
+        "Forerunner of Brazilian music's international rise"
       ]
     }
   },

@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ニューヨークのブロンクスに生まれ、独学に近い形で作曲を学んだ。1943年に新設されたピュリッツァー賞音楽部門の最初の受賞者となり、その後ジュリアード音楽院の学長、さらにリンカーン・センターの初代総裁を務めるなど、作曲家としてだけでなくアメリカの音楽教育・文化行政の中枢を担った人物でもある。",
+    "en": "Born in the Bronx, New York, he was largely self-taught as a composer. He became the first-ever winner of the Pulitzer Prize for Music when the category was established in 1943, and he went on to serve as president of the Juilliard School and, later, the first president of Lincoln Center, playing a central role not only as a composer but in American music education and cultural administration."
+  },
+  "style": {
+    "ja": "力強いリズムの推進力と、金管楽器を活かした輝かしい響きを特徴とする、いかにもアメリカ的な明るさと活力に満ちた交響的語法を確立した。躍動感のある変拍子や対位法的な書法を駆使しながらも、聴きやすい旋律線を保つバランス感覚に優れていた。",
+    "en": "He established a symphonic idiom full of a distinctly American brightness and energy, marked by powerfully driving rhythm and brilliant brass-centered sonority. He made skillful use of lively changing meters and contrapuntal writing while maintaining a well-balanced sense of accessible melodic line."
+  },
+  "impact": {
+    "ja": "音楽教育・文化行政の要職を歴任した経歴により、作曲家個人としての活動を超えてアメリカのクラシック音楽界全体の制度的な基盤づくりに大きく貢献した。同時代のコープランドと並ぶアメリカ交響曲の重要な担い手として、ピュリッツァー賞の第一号受賞者という記念碑的な地位も含めて、アメリカ音楽史における重要な結節点を占めている。",
+    "en": "Through the senior positions he held in music education and cultural administration, he made a major contribution to building the institutional foundations of American classical music as a whole, beyond his own work as a composer. As an important figure in the American symphony alongside his contemporary Copland, and as the very first winner of the Pulitzer Prize for Music, he occupies a significant node in American music history."
+  },
+  "keywords": {
+    "ja": [
+      "ピュリッツァー賞音楽部門の第一号受賞者",
+      "リンカーン・センター初代総裁",
+      "アメリカ的な活力に満ちた交響的語法"
+    ],
+    "en": [
+      "First-ever Pulitzer Prize for Music winner",
+      "First president of Lincoln Center",
+      "Symphonic idiom of American energy"
+    ]
+  }
+}
