@@ -1,0 +1,46 @@
+{
+  "star4": [
+    {
+      "id": "7277",
+      "title": "Symphony no. 5 in C sharp minor"
+    },
+    {
+      "id": "7278",
+      "title": "Symphony no. 2 in C minor, \"Resurrection\""
+    },
+    {
+      "id": "7275",
+      "title": "Symphony no. 1 in D major, \"Titan\""
+    },
+    {
+      "id": "7280",
+      "title": "Das Lied von der Erde"
+    }
+  ],
+  "star3": [
+    {
+      "id": "7283",
+      "title": "Symphony no. 9 in D major"
+    },
+    {
+      "id": "7290",
+      "title": "Symphony no. 6 in A minor"
+    },
+    {
+      "id": "7273",
+      "title": "Symphony no. 8 in E flat major"
+    },
+    {
+      "id": "7301",
+      "title": "Kindertotenlieder"
+    },
+    {
+      "id": "7288",
+      "title": "Rückert-Lieder"
+    },
+    {
+      "id": "7297",
+      "title": "Des Knaben Wunderhorn"
+    }
+  ]
+}

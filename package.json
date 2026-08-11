@@ -13,6 +13,7 @@
     "seed:catalog": "tsx scripts/seed/build-catalog.ts",
     "seed:composer-facts": "tsx scripts/seed/fetch-composer-facts.ts",
     "check:composer-editorial": "tsx scripts/seed/check-composer-editorial.ts",
+    "check:curation": "tsx scripts/seed/check-curation.ts",
     "test:e2e": "playwright test",
     "test:e2e:ui": "playwright test --ui",
     "build:icons": "tsx scripts/build-icons.ts",

@@ -20,7 +20,7 @@ const filters = (overrides: Partial<CatalogFilters> = {}): CatalogFilters => ({
   composerIds: [],
   epochs: [],
   genres: [],
-  popularity: "all",
+  minStars: 0,
   ...overrides,
 });
 
@@ -88,13 +88,20 @@ describe("filterWorks", () => {
     );
   });
 
-  it("narrows by popularity", () => {
-    const popular = filterWorks(index, filters({ popularity: "popular" }));
-    const recommended = filterWorks(index, filters({ popularity: "recommended" }));
-    expect(popular.every((work) => work.popular)).toBe(true);
-    expect(recommended.every((work) => work.recommended)).toBe(true);
-    expect(popular.length).toBeGreaterThan(0);
-    expect(popular.length).toBeLessThan(index.length);
+  it("narrows by minimum stars", () => {
+    const star5 = filterWorks(index, filters({ minStars: 5 }));
+    const star4 = filterWorks(index, filters({ minStars: 4 }));
+    const star3 = filterWorks(index, filters({ minStars: 3 }));
+    expect(star5.every((work) => work.stars >= 5)).toBe(true);
+    expect(star4.every((work) => work.stars >= 4)).toBe(true);
+    expect(star3.every((work) => work.stars >= 3)).toBe(true);
+    expect(star5.length).toBeGreaterThan(0);
+    // Each stricter threshold is a subset of the looser one.
+    expect(star5.length).toBeLessThanOrEqual(star4.length);
+    expect(star4.length).toBeLessThanOrEqual(star3.length);
+    expect(star3.length).toBeLessThan(index.length);
+    const star5Ids = new Set(star5.map((w) => w.id));
+    expect(star4.filter((w) => star5Ids.has(w.id)).length).toBe(star5.length);
   });
 
   it("searches titles and composer names in both languages", () => {
@@ -121,11 +128,34 @@ describe("filterWorks", () => {
 });
 
 describe("sortWorks", () => {
-  it("puts popular works first by default", () => {
-    const sorted = sortWorks(index, "popular", "ja");
-    const lastPopular = sorted.findLastIndex((work) => work.popular);
-    const firstUnpopular = sorted.findIndex((work) => !work.popular);
-    expect(lastPopular).toBeLessThan(firstUnpopular);
+  it("orders by descending score by default", () => {
+    const sorted = sortWorks(index, "standard", "ja");
+    const scores = sorted.map((work) => work.score);
+    for (let i = 1; i < scores.length; i++) {
+      expect(scores[i]).toBeLessThanOrEqual(scores[i - 1]);
+    }
+  });
+
+  it("matches the order the catalogue is already shipped in, in both locales", () => {
+    // The build script bakes `core-works.json` with the same comparator, and
+    // the composer pages read that file order directly. If this drifts, the
+    // catalogue page disagrees with every composer page — which is exactly
+    // what happened when the tie-break used the displayed title.
+    const shipped = workIndex.map((row) => row.id);
+    for (const locale of ["ja", "en"] as const) {
+      const sorted = sortWorks(index, "standard", locale).map((work) => work.id);
+      expect(sorted, locale).toEqual(shipped);
+    }
+  });
+
+  it("produces one order for both languages", () => {
+    // Scores tie constantly, so the tie-break decides most of the list. Using
+    // the displayed title made `ja` and `en` diverge from the very first row,
+    // because `ja` collation puts Latin script ahead of kana and kanji and the
+    // untranslated titles bubbled to the top of every tie group.
+    const ja = sortWorks(index, "standard", "ja").map((work) => work.id);
+    const en = sortWorks(index, "standard", "en").map((work) => work.id);
+    expect(ja).toEqual(en);
   });
 
   it("sorts by the title of the active language", () => {

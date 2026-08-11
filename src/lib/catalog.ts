@@ -12,6 +12,7 @@ import type {
 } from "./catalog-types";
 import type { Epoch, Genre } from "./epochs";
 import type { PortraitCredit } from "./licenses";
+import { compareByStandard } from "./popularity";
 
 export const composers = composersJson as Composer[];
 export const coreWorks = coreWorksJson as Work[];
@@ -40,6 +41,9 @@ export function getPortraitCredit(
   return portraitsByComposerId.get(composerId);
 }
 
+/** `coreWorks` is already in canonical 定番度 order (`compareByStandard`, applied
+ *  by `build-catalog.ts`), so the result is highest-score first, identical in
+ *  both locales, with no extra work here. */
 export function getCoreWorksByComposer(composerId: string): Work[] {
   return coreWorks.filter((work) => work.composerId === composerId);
 }
@@ -62,7 +66,8 @@ export interface CatalogFilters {
   composerIds: string[];
   epochs: Epoch[];
   genres: Genre[];
-  popularity: "all" | "popular" | "recommended";
+  /** Minimum 定番度; 0 means no filter. */
+  minStars: 0 | 3 | 4 | 5;
 }
 
 export const EMPTY_FILTERS: CatalogFilters = {
@@ -70,10 +75,10 @@ export const EMPTY_FILTERS: CatalogFilters = {
   composerIds: [],
   epochs: [],
   genres: [],
-  popularity: "all",
+  minStars: 0,
 };
 
-export type SortKey = "popular" | "title" | "composer";
+export type SortKey = "standard" | "title" | "composer";
 
 /**
  * The composer fields the catalogue UI needs. Kept minimal because the list
@@ -158,8 +163,7 @@ export function filterWorks(
     if (composerIds.size > 0 && !composerIds.has(work.composerId)) return false;
     if (epochs.size > 0 && !epochs.has(work.epoch)) return false;
     if (genres.size > 0 && !genres.has(work.genre)) return false;
-    if (filters.popularity === "popular" && !work.popular) return false;
-    if (filters.popularity === "recommended" && !work.recommended) return false;
+    if (filters.minStars > 0 && work.stars < filters.minStars) return false;
     if (query && !work.haystack.includes(query)) return false;
     return true;
   });
@@ -186,11 +190,10 @@ export function sortWorks(
           title(a).localeCompare(title(b), locale),
       );
     default:
-      return sorted.sort(
-        (a, b) =>
-          Number(b.popular) - Number(a.popular) ||
-          Number(b.recommended) - Number(a.recommended) ||
-          title(a).localeCompare(title(b), locale),
-      );
+      // Deliberately locale-independent, unlike the two branches above: this
+      // reproduces the baked order of `data/catalog/*` so the catalogue page
+      // agrees with the composer pages and with the other language. See
+      // `compareByStandard`.
+      return sorted.sort(compareByStandard);
   }
 }

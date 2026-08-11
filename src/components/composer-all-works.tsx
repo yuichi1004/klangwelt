@@ -125,8 +125,7 @@ export function ComposerAllWorks({
                       secondaryTitle={locale === "ja" ? work.title : undefined}
                       composerName=""
                       genre={work.genre}
-                      popular={work.popular}
-                      recommended={work.recommended}
+                      stars={work.stars}
                       linkToDetail={core.has(work.id)}
                     />
                   </li>

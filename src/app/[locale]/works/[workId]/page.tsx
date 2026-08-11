@@ -160,8 +160,7 @@ export default async function WorkPage(
                   title={locale === "ja" ? sibling.titleJa : sibling.title}
                   composerName={composerName}
                   genre={sibling.genre}
-                  popular={sibling.popular}
-                  recommended={sibling.recommended}
+                  stars={sibling.stars}
                 />
               </li>
             ))}

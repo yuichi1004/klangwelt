@@ -21,8 +21,16 @@ import type {
   WorkFacts,
   WorkIndexRow,
 } from "../../src/lib/catalog-types";
+import { loadCuration } from "../../src/lib/curation";
 import { isEpoch, isGenre } from "../../src/lib/epochs";
 import type { PortraitCredit } from "../../src/lib/licenses";
+import {
+  compareByStandard,
+  workScore,
+  workStars,
+  type CuratedStars,
+  type Stars,
+} from "../../src/lib/popularity";
 import { parseTitle, tidy } from "../../src/lib/title/parse";
 import {
   composeJapaneseTitle,
@@ -31,6 +39,7 @@ import {
   translateKey,
   translateNickname,
 } from "../../src/lib/title/translate";
+import { readCurationSource, toCurationView } from "./curation-files";
 import type { RawComposer, RawDataset, RawWork } from "./openopus";
 
 const ROOT = process.cwd();
@@ -69,10 +78,17 @@ function buildFacts(raw: RawWork): WorkFacts {
   };
 }
 
+interface WorkRating {
+  composerStars: Stars;
+  curatedStars?: CuratedStars;
+  curatedRank?: number;
+}
+
 function buildWork(
   raw: RawWork,
   composerId: string,
   overrides: Record<string, string>,
+  rating: WorkRating,
 ): Work {
   const title = tidy(raw.title);
   const override = overrides[raw.id];
@@ -80,24 +96,47 @@ function buildWork(
     ? { text: override, translated: true }
     : composeJapaneseTitle(parseTitle(raw.title), title);
 
+  const facts = buildFacts(raw);
+  const input = {
+    ...rating,
+    popular: raw.popular === "1",
+    recommended: raw.recommended === "1",
+    hasNickname: Boolean(facts.nickname),
+    genre: isGenre(raw.genre) ? raw.genre : ("Orchestral" as const),
+  };
+
   return {
     id: raw.id,
     composerId,
     title,
     titleJa: japanese.text,
-    genre: isGenre(raw.genre) ? raw.genre : "Orchestral",
-    popular: raw.popular === "1",
-    recommended: raw.recommended === "1",
+    genre: input.genre,
+    popular: input.popular,
+    recommended: input.recommended,
+    stars: workStars(input),
+    score: workScore(input),
+    curated: rating.curatedStars !== undefined,
     searchTerms: tidy(raw.searchterms),
-    facts: buildFacts(raw),
+    facts,
   };
 }
+
+/**
+ * A work reaches the core index either because Open Opus flagged it or
+ * because someone curated it — several cornerstones of the repertoire (the
+ * Goldberg Variations, Brahms' First) carry neither flag upstream.
+ */
+function isCore(work: Work): boolean {
+  return work.popular || work.recommended || work.curated;
+}
+
 
 function buildComposer(
   raw: RawComposer,
   works: Work[],
   namesJa: Record<string, string>,
   portrait: PortraitCredit | undefined,
+  stars: Stars,
 ): Composer {
   const deathYear = raw.death ? Number(raw.death.slice(0, 4)) : null;
 
@@ -110,9 +149,9 @@ function buildComposer(
     birthYear: Number(raw.birth.slice(0, 4)),
     deathYear: Number.isNaN(deathYear as number) ? null : deathYear,
     popular: raw.popular === "1",
+    stars,
     workCount: works.length,
-    coreWorkCount: works.filter((work) => work.popular || work.recommended)
-      .length,
+    coreWorkCount: works.filter(isCore).length,
     portrait: portrait?.file,
   };
 }
@@ -134,6 +173,20 @@ async function main() {
   );
   const portraitById = new Map(portraits.map((p) => [p.composerId, p]));
 
+  // Unlike the optional Japanese overrides above, the curated ratings are not
+  // allowed to be missing: a catalogue rated entirely by formula would look
+  // plausible and be wrong, which is the failure hardest to spot in review.
+  const curation = loadCuration(
+    await readCurationSource(),
+    toCurationView(dataset),
+  );
+  for (const warning of curation.warnings) console.warn(`  ! ${warning}`);
+  if (curation.errors.length > 0) {
+    console.error(`\n${curation.errors.length} problem(s) in data/curation:\n`);
+    for (const error of curation.errors) console.error(`  - ${error}`);
+    process.exit(1);
+  }
+
   await rm(PUBLIC_WORKS_DIR, { recursive: true, force: true });
   await mkdir(PUBLIC_WORKS_DIR, { recursive: true });
   await mkdir(CATALOG_DIR, { recursive: true });
@@ -143,9 +196,15 @@ async function main() {
   let totalWorkCount = 0;
 
   for (const rawComposer of dataset.composers) {
-    const works = (dataset.works[rawComposer.id] ?? []).map((raw) =>
-      buildWork(raw, rawComposer.id, overrides),
-    );
+    const composerStars = curation.composerStars.get(rawComposer.id) ?? 1;
+    const works = (dataset.works[rawComposer.id] ?? []).map((raw) => {
+      const curated = curation.workStars.get(raw.id);
+      return buildWork(raw, rawComposer.id, overrides, {
+        composerStars,
+        curatedStars: curated?.stars,
+        curatedRank: curated?.rank,
+      });
+    });
     totalWorkCount += works.length;
 
     composers.push(
@@ -154,22 +213,25 @@ async function main() {
         works,
         namesJa,
         portraitById.get(rawComposer.id),
+        composerStars,
       ),
     );
-    coreWorks.push(...works.filter((work) => work.popular || work.recommended));
+    coreWorks.push(...works.filter(isCore));
 
+    // Sorted here too, so the composer's complete catalogue opens with the
+    // works someone is most likely to be looking for.
+    works.sort(compareByStandard);
     await writeFile(
       path.join(PUBLIC_WORKS_DIR, `${rawComposer.id}.json`),
       JSON.stringify(works),
     );
   }
 
-  // Popular first, then recommended, then alphabetically — this is the
-  // default order of the catalogue page.
-  coreWorks.sort((a, b) => {
-    const rank = (work: Work) => (work.popular ? 0 : 1);
-    return rank(a) - rank(b) || a.title.localeCompare(b.title);
-  });
+  // 定番度 first. This is the order of the catalogue page in both locales, of
+  // every composer's work list, and of the "start here" picks — the pages read
+  // this file's order directly, and `sortWorks` reproduces it from the same
+  // comparator, so all of them agree.
+  coreWorks.sort(compareByStandard);
 
   const translated = coreWorks.filter(
     (work) => work.titleJa !== work.title,
@@ -198,8 +260,8 @@ async function main() {
     title: work.title,
     titleJa: work.titleJa,
     genre: work.genre,
-    popular: work.popular,
-    recommended: work.recommended,
+    stars: work.stars,
+    score: work.score,
   }));
   await writeFile(
     path.join(CATALOG_DIR, "work-index.json"),
@@ -217,13 +279,33 @@ async function main() {
     `${JSON.stringify(meta, null, 2)}\n`,
   );
 
+  const histogram = (values: Iterable<number>) => {
+    const counts = new Map<number, number>();
+    for (const value of values) counts.set(value, (counts.get(value) ?? 0) + 1);
+    return [5, 4, 3, 2, 1]
+      .map((star) => `★${star} ${counts.get(star) ?? 0}`)
+      .join("  ");
+  };
+  const promoted = coreWorks.filter(
+    (work) => work.curated && !work.popular && !work.recommended,
+  ).length;
+
   console.log(
     [
-      `composers:        ${meta.composerCount}`,
-      `core works:       ${meta.coreWorkCount}`,
+      `composers:        ${meta.composerCount}   ${histogram(composers.map((c) => c.stars))}`,
+      `core works:       ${meta.coreWorkCount}   ${histogram(coreWorks.map((w) => w.stars))}`,
+      `curated:          ${coreWorks.filter((work) => work.curated).length} (${promoted} promoted into the core index)`,
       `total works:      ${meta.totalWorkCount}`,
       `Japanese titles:  ${(meta.translatedRatio * 100).toFixed(1)}%`,
       `portraits:        ${portraits.length}`,
+      "",
+      // The order this prints is the order the catalogue's default sort and
+      // every composer page use, in both locales, so it is the fastest way to
+      // see a curation batch land — or to notice that it did not.
+      "top of the catalogue:",
+      ...coreWorks
+        .slice(0, 15)
+        .map((work, rank) => `  ${String(rank + 1).padStart(2)}. ★${work.stars} ${work.title}`),
     ].join("\n"),
   );
 }

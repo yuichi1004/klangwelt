@@ -1,0 +1,36 @@
+{
+  "star5": [
+    {
+      "id": "3806",
+      "title": "Carnival of the Animals"
+    }
+  ],
+  "star4": [
+    {
+      "id": "3787",
+      "title": "Cello Concerto no. 1 in A minor, op. 33"
+    },
+    {
+      "id": "3799",
+      "title": "Piano Concerto no. 2 in G minor, op. 22"
+    },
+    {
+      "id": "3785",
+      "title": "Symphony no. 3 in C minor, op. 78, \"Organ\""
+    },
+    {
+      "id": "3798",
+      "title": "Danse macabre, tone poem, op. 40"
+    }
+  ],
+  "star3": [
+    {
+      "id": "3731",
+      "title": "Introduction et Rondo capriccioso, for violin and orchestra, op. 28"
+    },
+    {
+      "id": "3827",
+      "title": "Samson et Dalila, op. 47"
+    }
+  ]
+}

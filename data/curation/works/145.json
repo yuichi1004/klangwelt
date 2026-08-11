@@ -1,0 +1,108 @@
+{
+  "star5": [
+    {
+      "id": "16406",
+      "title": "Symphony no. 5 in C minor, op. 67"
+    },
+    {
+      "id": "16238",
+      "title": "Symphony no. 9 in D minor, op. 125, \"Choral\""
+    },
+    {
+      "id": "16291",
+      "title": "Bagatelle in A minor, WoO 59, \"Für Elise\""
+    },
+    {
+      "id": "16375",
+      "title": "Piano Sonata no. 14 in C sharp minor, op. 27 no. 2, \"Moonlight\""
+    }
+  ],
+  "star4": [
+    {
+      "id": "16121",
+      "title": "Symphony no. 6 in F major, op. 68, \"Pastoral\""
+    },
+    {
+      "id": "16143",
+      "title": "Symphony no. 3 in E flat major, op. 55, \"Eroica\""
+    },
+    {
+      "id": "16218",
+      "title": "Piano Concerto no. 5 in E flat major, op. 73, \"Emperor\""
+    },
+    {
+      "id": "16458",
+      "title": "Violin Concerto in D major, op. 61"
+    },
+    {
+      "id": "16124",
+      "title": "Symphony no. 7 in A major, op. 92"
+    },
+    {
+      "id": "16222",
+      "title": "Piano Sonata no. 8 in C minor, op. 13, \"Pathétique\""
+    },
+    {
+      "id": "16419",
+      "title": "Piano Sonata no. 23 in F minor, op. 57, \"Appassionata\""
+    }
+  ],
+  "star3": [
+    {
+      "id": "16184",
+      "title": "Piano Sonata no. 21 in C major, op. 53, \"Waldstein\""
+    },
+    {
+      "id": "16231",
+      "title": "Piano Trio no. 7 in B flat major, op. 97, \"Archduke\""
+    },
+    {
+      "id": "16331",
+      "title": "Violin Sonata no. 9 in A major, op. 47, \"Kreutzer\""
+    },
+    {
+      "id": "16123",
+      "title": "Violin Sonata no. 5 in F major, op. 24, \"Spring\""
+    },
+    {
+      "id": "16170",
+      "title": "Piano Concerto no. 3 in C minor, op. 37"
+    },
+    {
+      "id": "16286",
+      "title": "Piano Concerto no. 4 in G major, op. 58"
+    },
+    {
+      "id": "16482",
+      "title": "Piano Sonata no. 17 in D minor, op. 31 no. 2, \"Tempest\""
+    },
+    {
+      "id": "16245",
+      "title": "String Quartet no. 7 in F major, op. 59 no. 1, \"Razumovsky\""
+    },
+    {
+      "id": "16259",
+      "title": "String Quartet no. 14 in C sharp minor, op. 131"
+    },
+    {
+      "id": "16264",
+      "title": "Piano Sonata no. 29 in B flat major, op. 106, \"Hammerklavier\""
+    },
+    {
+      "id": "16421",
+      "title": "Piano Sonata no. 32 in C minor, op. 111"
+    },
+    {
+      "id": "16382",
+      "title": "Missa Solemnis, op. 123"
+    },
+    {
+      "id": "16322",
+      "title": "Leonore Overture no. 3, op. 72b"
+    },
+    {
+      "id": "16260",
+      "title": "Grosse Fuge, op. 133"
+    }
+  ]
+}

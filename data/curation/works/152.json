@@ -1,0 +1,92 @@
+{
+  "star5": [
+    {
+      "id": "17109",
+      "title": "Nocturnes, op. 9"
+    },
+    {
+      "id": "17217",
+      "title": "Waltzes, op. 64"
+    },
+    {
+      "id": "17179",
+      "title": "Fantaisie-impromptu in C sharp minor, op. 66"
+    }
+  ],
+  "star4": [
+    {
+      "id": "17119",
+      "title": "Polonaise no. 6 in A flat major, op. 53, \"Heroic\""
+    },
+    {
+      "id": "17159",
+      "title": "Etudes, op. 10"
+    },
+    {
+      "id": "17276",
+      "title": "Preludes, op. 28"
+    },
+    {
+      "id": "17167",
+      "title": "Sonata no. 2 in B flat minor, op. 35"
+    },
+    {
+      "id": "17180",
+      "title": "Ballade no. 1 in G minor, op. 23"
+    },
+    {
+      "id": "17236",
+      "title": "Piano Concerto no. 1 in E minor, op. 11"
+    }
+  ],
+  "star3": [
+    {
+      "id": "17223",
+      "title": "Etudes, op. 25"
+    },
+    {
+      "id": "17186",
+      "title": "Scherzo no. 2 in B flat minor, op. 31"
+    },
+    {
+      "id": "17147",
+      "title": "Ballade no. 2 in F major, op. 38"
+    },
+    {
+      "id": "17239",
+      "title": "Ballade no. 3 in A flat major, op. 47"
+    },
+    {
+      "id": "17128",
+      "title": "Ballade no. 4 in F minor, op. 52"
+    },
+    {
+      "id": "17131",
+      "title": "Sonata no. 3 in B minor, op. 58"
+    },
+    {
+      "id": "17133",
+      "title": "Andante spianato et grande polonaise brillante, op. 22"
+    },
+    {
+      "id": "17210",
+      "title": "Waltz in E flat major, op. 18, \"Grande valse brillante\""
+    },
+    {
+      "id": "17114",
+      "title": "Scherzo no. 1 in B minor, op. 20"
+    },
+    {
+      "id": "17170",
+      "title": "Scherzo no. 3 in C sharp minor, op. 39"
+    },
+    {
+      "id": "17254",
+      "title": "Scherzo no. 4 in E major, op. 54"
+    },
+    {
+      "id": "17124",
+      "title": "Cello Sonata in G minor, op. 65"
+    }
+  ]
+}

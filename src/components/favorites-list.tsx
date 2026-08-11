@@ -81,8 +81,7 @@ export function FavoritesList({
                 locale === "ja" ? work.composerNameJa : work.composerName
               }
               genre={work.genre}
-              popular={work.popular}
-              recommended={work.recommended}
+              stars={work.stars}
             />
           </li>
         ))}

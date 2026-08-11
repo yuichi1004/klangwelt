@@ -1,0 +1,32 @@
+{
+  "star5": [
+    {
+      "id": "21566",
+      "title": "Peter and the Wolf, op. 67"
+    }
+  ],
+  "star4": [
+    {
+      "id": "21536",
+      "title": "Symphony no. 1 in D, op. 25, \"Classical\""
+    },
+    {
+      "id": "21510",
+      "title": "Piano Concerto no. 3 in C major, op. 26"
+    },
+    {
+      "id": "21558",
+      "title": "Romeo and Juliet Suite no. 1, op. 64bis"
+    }
+  ],
+  "star3": [
+    {
+      "id": "21531",
+      "title": "Lieutenant Kijé, op. 60"
+    },
+    {
+      "id": "21660",
+      "title": "Symphony no. 5 in B flat major, op. 100"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "star5": [
+    {
+      "id": "18889",
+      "title": "An der schönen, blauen Donau, op. 314"
+    }
+  ],
+  "star4": [
+    {
+      "id": "18412",
+      "title": "Kaiser-Walzer, op. 437"
+    }
+  ],
+  "star3": [
+    {
+      "id": "18887",
+      "title": "Geschichten aus dem Wienerwald, op. 325"
+    },
+    {
+      "id": "18562",
+      "title": "Pizzicato Polka, op. 234"
+    },
+    {
+      "id": "18509",
+      "title": "Tritsch-Tratsch-Polka, op. 214"
+    },
+    {
+      "id": "18858",
+      "title": "Die Fledermaus, RV.503"
+    }
+  ]
+}

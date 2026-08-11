@@ -2,7 +2,7 @@
   "site": {
     "name": "Klangwelt",
     "tagline": "クラシック音楽を、探して、知って、聴く。",
-    "description": "作曲家・年代・有名度から検索できるクラシック音楽ポータル。楽曲ごとに解説とエピソードを添え、Spotify と YouTube Music へのリンクからすぐに聴けます。"
+    "description": "作曲家・年代・定番度から検索できるクラシック音楽ポータル。楽曲ごとに解説とエピソードを添え、Spotify と YouTube Music へのリンクからすぐに聴けます。"
   },
   "nav": {
     "catalog": "楽曲を探す",
@@ -20,11 +20,13 @@
     "composer": "作曲家",
     "composerPlaceholder": "作曲家を検索",
     "epoch": "年代",
-    "popularity": "有名度",
+    "popularity": "定番度",
     "genre": "ジャンル",
     "all": "すべて",
-    "popular": "人気曲",
-    "recommended": "おすすめ",
+    "starsMin": "★{n}以上",
+    "starsOnly": "★5のみ",
+    "starsMinAria": "星{n}つ以上",
+    "starsOnlyAria": "星5つのみ",
     "apply": "絞り込む",
     "reset": "条件をクリア",
     "open": "絞り込み",
@@ -41,9 +43,18 @@
     "resultCount": "{count}曲",
     "resultCountFiltered": "{count}曲 / 全{total}曲",
     "sortLabel": "並び順",
-    "sortPopular": "人気順",
+    "sortStandard": "定番度順",
     "sortTitle": "曲名順",
     "sortComposer": "作曲家順"
+  },
+  "rating": {
+    "label": "定番度",
+    "aria": "定番度 5段階中{n}",
+    "tier5": "定番中の定番",
+    "tier4": "よく知られた名曲",
+    "tier3": "知られた作品",
+    "tier2": "愛好家向け",
+    "tier1": "専門的"
   },
   "work": {
     "composer": "作曲家",

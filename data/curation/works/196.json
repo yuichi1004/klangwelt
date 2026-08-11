@@ -1,0 +1,128 @@
+{
+  "star5": [
+    {
+      "id": "23611",
+      "title": "Symphony no. 40 in G minor, K.550"
+    },
+    {
+      "id": "23646",
+      "title": "Requiem in D minor, K.626"
+    },
+    {
+      "id": "23610",
+      "title": "Serenade in G major, K.525, \"Eine Kleine Nachtmusik\""
+    },
+    {
+      "id": "23512",
+      "title": "Piano Sonata no. 11 in A major, K.331, \"Alla turca\""
+    },
+    {
+      "id": "23566",
+      "title": "The Magic Flute, K.620"
+    }
+  ],
+  "star4": [
+    {
+      "id": "23315",
+      "title": "Piano Concerto no. 21 in C major, K.467"
+    },
+    {
+      "id": "23353",
+      "title": "Symphony no. 41 in C major, K.551, \"Jupiter\""
+    },
+    {
+      "id": "23812",
+      "title": "Le nozze di Figaro, K.492"
+    },
+    {
+      "id": "23669",
+      "title": "Don Giovanni, K.527"
+    },
+    {
+      "id": "23629",
+      "title": "Clarinet Concerto in A major, K.622"
+    },
+    {
+      "id": "23559",
+      "title": "Piano Sonata no. 16 in C major, K.545, \"Facile\""
+    },
+    {
+      "id": "23310",
+      "title": "Piano Concerto no. 20 in D minor, K.466"
+    },
+    {
+      "id": "23201",
+      "title": "Variations on Ah vous dirais-je, Maman, K.265"
+    }
+  ],
+  "star3": [
+    {
+      "id": "23637",
+      "title": "Symphony no. 25 in G minor, K.183"
+    },
+    {
+      "id": "23838",
+      "title": "Sinfonia concertante in E flat major, K.364"
+    },
+    {
+      "id": "23497",
+      "title": "Così fan tutte, K.588"
+    },
+    {
+      "id": "23723",
+      "title": "Clarinet Quintet in A major, K.581"
+    },
+    {
+      "id": "23302",
+      "title": "Piano Concerto no. 23 in A major, K.488"
+    },
+    {
+      "id": "23141",
+      "title": "Piano Concerto no. 24 in C minor, K.491"
+    },
+    {
+      "id": "23200",
+      "title": "Concerto for Flute and Harp in C major, K.299"
+    },
+    {
+      "id": "23752",
+      "title": "Fantasia in D minor, K.397"
+    },
+    {
+      "id": "23313",
+      "title": "Ave verum corpus, K.618"
+    },
+    {
+      "id": "23468",
+      "title": "Great Mass in C minor, K.427"
+    },
+    {
+      "id": "23595",
+      "title": "Coronation Mass in C major, K.317"
+    },
+    {
+      "id": "23503",
+      "title": "String Quartet no. 19 in C major, K.465, \"Dissonance\""
+    },
+    {
+      "id": "23177",
+      "title": "Symphony no. 38 in D major, K.504, \"Prague\""
+    },
+    {
+      "id": "23448",
+      "title": "Symphony no. 31 in D major, K.297, \"Paris\""
+    },
+    {
+      "id": "23574",
+      "title": "Violin Concerto no. 5 in A major, K.219, \"Turkish\""
+    },
+    {
+      "id": "23779",
+      "title": "Violin Concerto no. 3 in G major, K.216"
+    },
+    {
+      "id": "23155",
+      "title": "Piano Quartet no. 1 in G minor, K.478"
+    }
+  ]
+}

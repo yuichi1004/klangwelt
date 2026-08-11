@@ -1,0 +1,28 @@
+{
+  "star5": [
+    {
+      "id": "5441",
+      "title": "Guillaume Tell"
+    }
+  ],
+  "star4": [
+    {
+      "id": "5371",
+      "title": "Il barbiere di Siviglia"
+    }
+  ],
+  "star3": [
+    {
+      "id": "5344",
+      "title": "L'italiana in Algeri"
+    },
+    {
+      "id": "5406",
+      "title": "La cenerentola"
+    },
+    {
+      "id": "5419",
+      "title": "Petite messe solennelle"
+    }
+  ]
+}

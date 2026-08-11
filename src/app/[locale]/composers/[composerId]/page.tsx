@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 
 import { ComposerAllWorks } from "@/components/composer-all-works";
 import { ComposerPortrait } from "@/components/composer-portrait";
+import { StarRating } from "@/components/star-rating";
 import { WorkCard } from "@/components/work-card";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import {
@@ -56,8 +57,8 @@ export default async function ComposerPage(
   const editorial = getComposerEditorial(composerId);
   const credit = getPortraitCredit(composerId);
   const coreWorks = getCoreWorksByComposer(composerId);
-  // `coreWorks` is already popular-then-recommended (see build-catalog.ts),
-  // so the first few are a reasonable "start here" pick with no extra data.
+  // `coreWorks` is already sorted by 定番度 score (see build-catalog.ts), so
+  // the first few are the highest-rated works with no extra work here.
   const startHereWorks = coreWorks.slice(0, 3);
 
   const name = locale === "ja" ? composer.nameJa : composer.completeName;
@@ -113,6 +114,14 @@ export default async function ComposerPage(
               </dt>
               <dd className="text-ink-soft">
                 {composer.workCount.toLocaleString()}
+              </dd>
+            </div>
+            <div className="flex gap-3">
+              <dt className="w-20 shrink-0 text-ink-faint">
+                {messages.rating.label}
+              </dt>
+              <dd className="text-ink-soft">
+                <StarRating locale={locale} stars={composer.stars} variant="full" />
               </dd>
             </div>
           </dl>
@@ -221,8 +230,7 @@ export default async function ComposerPage(
                   secondaryTitle={locale === "ja" ? work.title : undefined}
                   composerName=""
                   genre={work.genre}
-                  popular={work.popular}
-                  recommended={work.recommended}
+                  stars={work.stars}
                 />
               </li>
             ))}
