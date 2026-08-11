@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "パレルモに生まれ、カリッシミらに師事した。ナポリを拠点にオペラ作曲家として絶大な成功を収め、「ナポリ楽派」と呼ばれるイタリア・オペラの一大潮流を確立した中心人物となった。後にチェンバロ・ソナタで名を馳せる作曲家ドメニコ・スカルラッティの父としても知られている。",
+    "en": "Born in Palermo, he studied under Carissimi among others. Based in Naples, he achieved tremendous success as an opera composer and became the central figure who established the great current of Italian opera known as the \"Neapolitan school.\" He is also known as the father of Domenico Scarlatti, the composer who would later become famous for his harpsichord sonatas."
+  },
+  "style": {
+    "ja": "叙唱と分けられた華麗な独唱アリアを中心に据えるオペラ様式を洗練させ、「イタリア風序曲」と呼ばれる急・緩・急の三部構成を確立した。この形式は後に器楽の交響曲の原型の一つとなり、声楽と器楽の双方にまたがる幅広い作品を数多く残している。",
+    "en": "He refined an operatic style centered on splendid solo arias set apart from recitative, and established the three-part fast-slow-fast structure known as the \"Italian overture.\" This form later became one of the prototypes of the instrumental symphony, and he left a large body of work spanning both vocal and instrumental music."
+  },
+  "impact": {
+    "ja": "彼が確立したイタリア風序曲の急・緩・急構成は、後の古典派交響曲の楽章配置に直接連なる原型として音楽史上重要な位置を占めている。息子ドメニコ・スカルラッティが鍵盤音楽の分野で全く異なる革新を成し遂げたことも含め、父子二代にわたってイタリア音楽史に大きな足跡を残した稀有な家系である。",
+    "en": "The fast-slow-fast structure of the Italian overture he established occupies an important place in music history as a direct prototype for the later movement layout of the Classical symphony. Including the fact that his son Domenico Scarlatti achieved an entirely different kind of innovation in keyboard music, theirs is a rare family that left a major mark on Italian music history across two generations."
+  },
+  "keywords": {
+    "ja": [
+      "ナポリ楽派を確立した中心人物",
+      "交響曲の原型となったイタリア風序曲",
+      "ドメニコ・スカルラッティの父"
+    ],
+    "en": [
+      "Central founder of the Neapolitan school",
+      "Italian overture as a symphonic prototype",
+      "Father of Domenico Scarlatti"
+    ]
+  }
+}

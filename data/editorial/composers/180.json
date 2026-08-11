@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "フィラデルフィアに生まれ、数学者としての訓練も受けた異色の経歴を持つ。プリンストン大学とジュリアード音楽院で長年教鞭を執り、コロンビア=プリンストン電子音楽センターの設立にも関わって、初期の電子音楽合成装置を用いた作品制作を先駆けた。難解な現代音楽の存在意義を擁護する論争的な評論を発表したことでも知られる。",
+    "en": "Born in Philadelphia, he had the unusual background of also being trained as a mathematician. He taught for many years at Princeton University and the Juilliard School, and he was involved in founding the Columbia-Princeton Electronic Music Center, pioneering work with early electronic sound-synthesis equipment. He is also known for a controversial essay defending the value of difficult contemporary music."
+  },
+  "style": {
+    "ja": "シェーンベルクが確立した十二音技法を、音高だけでなくリズム、強弱、音色にまで拡張して適用する「総音列主義」を数学的な厳密さで追求した。作曲上のあらゆるパラメータを体系的に制御しようとするその姿勢は、数学者としての素養を色濃く反映している。",
+    "en": "He pursued \"total serialism\" with mathematical rigor, extending the twelve-tone technique established by Schoenberg beyond pitch to rhythm, dynamics, and timbre as well. His approach, seeking to systematically control every parameter of composition, strongly reflects his training as a mathematician."
+  },
+  "impact": {
+    "ja": "電子音響合成の分野ではシュトックハウゼンやクセナキスと並ぶ初期の開拓者の一人であり、アメリカにおける電子音楽研究の拠点づくりに貢献した。難解な現代音楽を擁護した評論は、専門家向けの音楽と一般聴衆向けの音楽との乖離という20世紀後半の音楽界の根本的な問題を提起した論考として、今なお議論の対象となっている。",
+    "en": "In the field of electronic sound synthesis he stands as an early pioneer alongside Stockhausen and Xenakis, contributing to building an American base for electronic music research. His essay defending difficult contemporary music remains a subject of ongoing debate, raising a fundamental question of later twentieth-century musical life: the divide between music for specialists and music for the general public."
+  },
+  "keywords": {
+    "ja": [
+      "数学者でもあった総音列主義者",
+      "電子音響合成の初期開拓者",
+      "難解な現代音楽を擁護した論争的評論"
+    ],
+    "en": [
+      "Mathematician turned total serialist",
+      "Early pioneer of electronic synthesis",
+      "Controversial defense of difficult music"
+    ]
+  }
+}

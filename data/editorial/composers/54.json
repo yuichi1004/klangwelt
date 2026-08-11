@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "イングランド・リンカンシャーに生まれ、宗教改革以前のイングランドを代表する教会音楽の作曲家として活動した。後年は作曲活動から離れ、トマス・クロムウェルのもとで修道院解散政策に関わったと伝えられており、かつて自身が音楽を捧げていた修道院の伝統を、皮肉にも自らの手で終わらせる側に回ったという数奇な経歴を持つ。",
+    "en": "Born in Lincolnshire, England, he was active as a leading composer of church music in England before the Reformation. In his later years he is said to have stepped away from composing and become involved, under Thomas Cromwell, in the policy of dissolving the monasteries, a strange turn of career in which he ended up on the side that brought an end to the very monastic tradition he had once served with his music."
+  },
+  "style": {
+    "ja": "宗教改革以前のイングランドで発達した壮麗で技巧的な多声書法を極め、代表的なミサ曲では世俗的な歌に基づく旋律を定旋律として用いる手法を大胆に採用した。声部の重なりが生み出す豊かな響きと、旋律線の伸びやかな展開を特徴とする、イングランド後期中世音楽の到達点を示す作風である。",
+    "en": "He brought the splendid, technically demanding polyphony developed in pre-Reformation England to a high peak, and in his best-known mass setting he boldly adopted the technique of using a secular song melody as the cantus firmus. His style, marked by the rich sonority produced by overlapping voices and the expansive unfolding of melodic lines, represents a culmination of late medieval English music."
+  },
+  "impact": {
+    "ja": "宗教改革によって断絶することになるイングランドのカトリック教会音楽の伝統において、最後の頂点を極めた作曲家の一人として位置づけられる。次の世代のタリスやバードが新しいプロテスタント典礼様式へと移行していく直前の、豊麗な旧様式を今に伝える貴重な証言者でもある。",
+    "en": "He is positioned as one of the composers who brought the tradition of English Catholic church music, soon to be severed by the Reformation, to its final peak. He is also a valuable witness preserving the splendid old style for posterity, standing right before the next generation, including Tallis and Byrd, moved into the new Protestant liturgical style."
+  },
+  "keywords": {
+    "ja": [
+      "修道院解散政策に関わった数奇な後半生",
+      "世俗旋律を定旋律に用いた壮麗なミサ",
+      "宗教改革前イングランド音楽の頂点"
+    ],
+    "en": [
+      "Later career dissolving the monasteries he once served",
+      "Splendid mass using a secular cantus firmus",
+      "Peak of pre-Reformation English music"
+    ]
+  }
+}
