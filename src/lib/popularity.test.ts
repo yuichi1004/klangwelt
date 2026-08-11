@@ -4,7 +4,15 @@ import { GENRES, type Genre } from "./epochs";
 import {
   COMPOSER_BONUS,
   CURATED_BASE,
+  GENRE_BONUS,
   MAX_BONUS,
+  MAX_DETAIL_BONUS,
+  MAX_SCORE,
+  MAX_TIEBREAK,
+  NICKNAME_BONUS,
+  RANKED_BASE,
+  RANKED_SLOTS,
+  RANK_REACH,
   compareByStandard,
   workScore,
   workStars,
@@ -46,18 +54,26 @@ describe("score bands", () => {
   it("keeps every band clear of the one above it", () => {
     // This is what makes "the formula is capped at ★3" structural rather than
     // a clamp: no amount of bonus can lift an uncurated work into a curated
-    // band, and no ★4 can overtake a ★5.
+    // band, no ★4 can overtake a ★5, and nothing computed can reach the
+    // hand-ordered head.
     expect(MAX_BONUS).toBeLessThan(CURATED_BASE[3]);
     expect(CURATED_BASE[3] + MAX_BONUS).toBeLessThan(CURATED_BASE[4]);
     expect(CURATED_BASE[4] + MAX_BONUS).toBeLessThan(CURATED_BASE[5]);
+    expect(CURATED_BASE[5] + MAX_BONUS).toBeLessThan(RANKED_BASE);
+    expect(RANKED_BASE + RANKED_SLOTS).toBe(MAX_SCORE);
   });
 
-  it("bounds every reachable score at 0-1000", () => {
+  it("bounds every reachable score at 0-MAX_SCORE", () => {
     for (const base of everyInput()) {
       for (const curatedStars of [undefined, ...CURATED]) {
         const score = workScore({ ...base, curatedStars });
         expect(score).toBeGreaterThan(0);
-        expect(score).toBeLessThanOrEqual(1000);
+        expect(score).toBeLessThanOrEqual(MAX_SCORE);
+      }
+      for (const rankedIndex of [0, 1, RANKED_SLOTS - 1]) {
+        const score = workScore({ ...base, rankedIndex });
+        expect(score).toBeGreaterThan(0);
+        expect(score).toBeLessThanOrEqual(MAX_SCORE);
       }
     }
   });
@@ -69,6 +85,91 @@ describe("score bands", () => {
     for (const base of everyInput()) {
       expect(workScore(base)).toBeLessThan(worstCurated);
     }
+  });
+
+  it("scores every ranked work above every unranked one", () => {
+    const worstRanked = workScore(input({ rankedIndex: RANKED_SLOTS - 1 }));
+    for (const base of everyInput()) {
+      for (const curatedStars of [undefined, ...CURATED]) {
+        expect(
+          workScore({ ...base, curatedStars, curatedRank: 0 }),
+        ).toBeLessThan(worstRanked);
+      }
+    }
+  });
+});
+
+describe("the hand-ordered head", () => {
+  it("lets position beat the composer, which is the whole point", () => {
+    // The defect this replaced: COMPOSER_BONUS was wider than the rank term,
+    // so the ★5 band sorted by composer and Pachelbel's Canon sat at #50.
+    for (let i = 0; i < RANKED_SLOTS - 1; i++) {
+      expect(
+        workScore(input({ rankedIndex: i, composerStars: 1, genre: "Vocal" })),
+      ).toBeGreaterThan(
+        workScore(
+          input({ rankedIndex: i + 1, composerStars: 5, genre: "Orchestral" }),
+        ),
+      );
+    }
+  });
+
+  it("ignores every computed signal", () => {
+    const at = (overrides: Partial<RatingInput>) =>
+      workScore(input({ rankedIndex: 7, ...overrides }));
+    const baseline = at({});
+    expect(at({ composerStars: 1 })).toBe(baseline);
+    expect(at({ popular: true, recommended: true })).toBe(baseline);
+    expect(at({ hasNickname: true })).toBe(baseline);
+    expect(at({ genre: "Vocal" })).toBe(baseline);
+    expect(at({ curatedStars: 3, curatedRank: 9 })).toBe(baseline);
+  });
+
+  it("rates anything in the head ★5", () => {
+    for (const base of everyInput()) {
+      expect(workStars({ ...base, rankedIndex: 0 })).toBe(5);
+      expect(workStars({ ...base, rankedIndex: RANKED_SLOTS - 1 })).toBe(5);
+    }
+  });
+});
+
+describe("the sub-rank tiebreak", () => {
+  it("only splits works that already tied", () => {
+    // Every other weight is a multiple of 10 and the tiebreak is single-digit,
+    // so it cannot reorder across a position, a composer star, or a band.
+    const coarse = [
+      ...Object.values(CURATED_BASE),
+      ...Object.values(COMPOSER_BONUS),
+      ...Object.values(GENRE_BONUS),
+      NICKNAME_BONUS,
+      MAX_DETAIL_BONUS,
+      RANKED_BASE,
+    ];
+    for (const value of coarse) expect(value % 10, String(value)).toBe(0);
+    expect(MAX_TIEBREAK).toBeLessThan(10);
+  });
+
+  it("never overtakes a curator's position", () => {
+    for (let rank = 1; rank < RANK_REACH; rank++) {
+      for (const genre of GENRES as readonly Genre[]) {
+        expect(
+          workScore(
+            input({ curatedStars: 4, curatedRank: rank, genre, hasNickname: true }),
+          ),
+        ).toBeLessThan(
+          workScore(
+            input({ curatedStars: 4, curatedRank: rank - 1, genre: "Vocal" }),
+          ),
+        );
+      }
+    }
+  });
+
+  it("does separate two works the curator left equal", () => {
+    const same = { curatedStars: 4 as const, curatedRank: 3, composerStars: 5 as Stars };
+    expect(
+      workScore(input({ ...same, genre: "Orchestral", hasNickname: true })),
+    ).toBeGreaterThan(workScore(input({ ...same, genre: "Vocal" })));
   });
 });
 

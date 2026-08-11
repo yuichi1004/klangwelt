@@ -5,7 +5,7 @@ import { beforeAll, describe, expect, it } from "vitest";
 
 import type { Composer, Work } from "./catalog-types";
 import { loadCuration, SCALE_LIMITS } from "./curation";
-import { workScore, workStars } from "./popularity";
+import { RANKED_BASE, workScore, workStars } from "./popularity";
 
 const ROOT = process.cwd();
 
@@ -108,6 +108,7 @@ describe("the shipped catalogue agrees with data/curation/**", () => {
       const curated = curation.workStars.get(work.id);
       const input = {
         composerStars: composerStars!,
+        rankedIndex: curation.ranking.get(work.id),
         curatedStars: curated?.stars,
         curatedRank: curated?.rank,
         popular: work.popular,
@@ -118,5 +119,33 @@ describe("the shipped catalogue agrees with data/curation/**", () => {
       expect(work.stars, work.id).toBe(workStars(input));
       expect(work.score, work.id).toBe(workScore(input));
     }
+  });
+});
+
+describe("the hand-ordered ★5 head", () => {
+  it("indexes the ranking contiguously from 0", () => {
+    const indexes = [...curation.ranking.values()].sort((a, b) => a - b);
+    expect(indexes).toEqual(indexes.map((_, i) => i));
+  });
+
+  it("is exactly the set of ★5 works", () => {
+    const shippedFives = coreWorks.filter((work) => work.stars === 5).map((w) => w.id);
+    expect(new Set(shippedFives)).toEqual(new Set(curation.ranking.keys()));
+  });
+
+  it("scores every ★5 in the ranked tier, none in the fallback band", () => {
+    // `ranking.json` is the ★5 list, so `CURATED_BASE[5]` should be
+    // unreachable. A ★5 landing below RANKED_BASE means one slipped past the
+    // ranking and is being ordered by composer again.
+    for (const work of coreWorks.filter((w) => w.stars === 5)) {
+      expect(work.score, `${work.id} ${work.title}`).toBeGreaterThan(RANKED_BASE);
+    }
+  });
+
+  it("leads the shipped catalogue in exactly the hand-written order", () => {
+    // The end-to-end check: what is in ranking.json is what the first screen
+    // of the catalogue shows, in that order.
+    const wanted = [...curation.ranking.keys()];
+    expect(coreWorks.slice(0, wanted.length).map((work) => work.id)).toEqual(wanted);
   });
 });

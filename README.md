@@ -23,7 +23,7 @@ data/
   catalog/               配信用に整形した JSON（サーバーコンポーネントが直接 import）
   ja/                    手書きの日本語データ（作曲家名・曲名の訳）
   editorial/             手書きの解説文（日英）
-  curation/              手書きの定番度（★1〜5、CONTRIBUTING.md 参照）
+  curation/              手書きの定番度（★1〜5。ranking.json が★5の並び順）
   portraits.json         肖像画1点ごとの出典・ライセンス台帳
 public/
   index.html             `/` の言語振り分け（静的、JS のみ）

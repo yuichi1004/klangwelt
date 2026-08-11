@@ -14,6 +14,7 @@ import type { RawDataset } from "./openopus";
 
 export const CURATION_DIR = path.join(process.cwd(), "data", "curation");
 export const COMPOSER_STARS_FILE = path.join(CURATION_DIR, "composer-stars.json");
+export const RANKING_FILE = path.join(CURATION_DIR, "ranking.json");
 export const CURATED_WORKS_DIR = path.join(CURATION_DIR, "works");
 
 /**
@@ -26,6 +27,7 @@ export async function readCurationSource(): Promise<CurationSource> {
   const composerStars = JSON.parse(
     await readFile(COMPOSER_STARS_FILE, "utf8"),
   ) as unknown;
+  const ranking = JSON.parse(await readFile(RANKING_FILE, "utf8")) as unknown;
 
   const files = (await readdir(CURATED_WORKS_DIR)).filter((file) =>
     file.endsWith(".json"),
@@ -39,7 +41,7 @@ export async function readCurationSource(): Promise<CurationSource> {
     })),
   );
 
-  return { composerStars, workFiles };
+  return { composerStars, ranking, workFiles };
 }
 
 export function toCurationView(dataset: RawDataset): CurationCatalogView {

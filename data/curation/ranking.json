@@ -1,0 +1,295 @@
+{
+  "_comment": "★5帯のグローバル順（定番度が高い順）。このファイルが★5の割り当てと順序の両方を定義する — works/<id>.json は star4 と star3 のみ。配列の位置がそのままスコアになる（src/lib/popularity.ts の RANKED_BASE / RANKED_SLOTS を参照）。composer と title は id の打ち間違いを検出するための照合値であってデータではない。基準は CONTRIBUTING.md を参照。",
+  "ranking": [
+    {
+      "id": "16406",
+      "composer": "Beethoven",
+      "title": "Symphony no. 5 in C minor, op. 67"
+    },
+    {
+      "id": "23610",
+      "composer": "Mozart",
+      "title": "Serenade in G major, K.525, \"Eine Kleine Nachtmusik\""
+    },
+    {
+      "id": "28102",
+      "composer": "Vivaldi",
+      "title": "The Four Seasons"
+    },
+    {
+      "id": "16238",
+      "composer": "Beethoven",
+      "title": "Symphony no. 9 in D minor, op. 125, \"Choral\""
+    },
+    {
+      "id": "28101",
+      "composer": "Bach",
+      "title": "Toccata and fugue in D minor, BWV.565"
+    },
+    {
+      "id": "14083",
+      "composer": "Pachelbel",
+      "title": "Canon and Gigue in D major, for 3 violins and continuo, T.337, \"Pachelbel's Canon\""
+    },
+    {
+      "id": "7525",
+      "composer": "Tchaikovsky",
+      "title": "The Swan Lake, op. 20a"
+    },
+    {
+      "id": "17109",
+      "composer": "Chopin",
+      "title": "Nocturnes, op. 9"
+    },
+    {
+      "id": "13297",
+      "composer": "Debussy",
+      "title": "Suite Bergamasque, L.75"
+    },
+    {
+      "id": "24521",
+      "composer": "Elgar",
+      "title": "Military Marches, op. 39, \"Pomp and Circumstance\""
+    },
+    {
+      "id": "5044",
+      "composer": "Ravel",
+      "title": "Boléro"
+    },
+    {
+      "id": "9796",
+      "composer": "Bach",
+      "title": "Orchestral Suite no. 3 in D major, BWV.1068"
+    },
+    {
+      "id": "6547",
+      "composer": "Bizet",
+      "title": "Carmen"
+    },
+    {
+      "id": "7109",
+      "composer": "Holst",
+      "title": "The Planets, suite for orchestra and female chorus, op. 32, H.125"
+    },
+    {
+      "id": "5441",
+      "composer": "Rossini",
+      "title": "Guillaume Tell"
+    },
+    {
+      "id": "23611",
+      "composer": "Mozart",
+      "title": "Symphony no. 40 in G minor, K.550"
+    },
+    {
+      "id": "26281",
+      "composer": "Smetana",
+      "title": "Má vlast, JB 1:112"
+    },
+    {
+      "id": "7486",
+      "composer": "Tchaikovsky",
+      "title": "Nutcracker, op. 71a"
+    },
+    {
+      "id": "18105",
+      "composer": "Grieg",
+      "title": "Peer Gynt Suite no. 1, op. 46"
+    },
+    {
+      "id": "13085",
+      "composer": "Satie",
+      "title": "3 Gymnopédies"
+    },
+    {
+      "id": "16291",
+      "composer": "Beethoven",
+      "title": "Bagatelle in A minor, WoO 59, \"Für Elise\""
+    },
+    {
+      "id": "18889",
+      "composer": "Strauss Jr",
+      "title": "An der schönen, blauen Donau, op. 314"
+    },
+    {
+      "id": "15387",
+      "composer": "Offenbach",
+      "title": "Orphée aux Enfers"
+    },
+    {
+      "id": "22368",
+      "composer": "Dvořák",
+      "title": "Symphony no. 9 in E minor, op. 95, \"From the New World\""
+    },
+    {
+      "id": "16375",
+      "composer": "Beethoven",
+      "title": "Piano Sonata no. 14 in C sharp minor, op. 27 no. 2, \"Moonlight\""
+    },
+    {
+      "id": "7680",
+      "composer": "Brahms",
+      "title": "Hungarian Dances, WoO 1"
+    },
+    {
+      "id": "16741",
+      "composer": "Mendelssohn",
+      "title": "A Midsummer Night's Dream, op. 61"
+    },
+    {
+      "id": "9148",
+      "composer": "Bach",
+      "title": "Cantata no. 147: Herz und Mund und Tat und Leben"
+    },
+    {
+      "id": "27227",
+      "composer": "Khachaturian",
+      "title": "Gayane Suite no. 1"
+    },
+    {
+      "id": "20781",
+      "composer": "Schubert",
+      "title": "Ellens Gesang III, D.839, op. 52, no. 6, \"Ave Maria\""
+    },
+    {
+      "id": "19622",
+      "composer": "Strauss",
+      "title": "Also sprach Zarathustra, op. 30"
+    },
+    {
+      "id": "23512",
+      "composer": "Mozart",
+      "title": "Piano Sonata no. 11 in A major, K.331, \"Alla turca\""
+    },
+    {
+      "id": "17217",
+      "composer": "Chopin",
+      "title": "Waltzes, op. 64"
+    },
+    {
+      "id": "10744",
+      "composer": "Orff",
+      "title": "Carmina Burana"
+    },
+    {
+      "id": "28083",
+      "composer": "Handel",
+      "title": "Messiah, HWV.56"
+    },
+    {
+      "id": "15735",
+      "composer": "Wagner",
+      "title": "Die Walküre, WWV 86b"
+    },
+    {
+      "id": "7601",
+      "composer": "Tchaikovsky",
+      "title": "1812 Festival Overture, in E flat major, op. 49"
+    },
+    {
+      "id": "3806",
+      "composer": "Saint-Saëns",
+      "title": "Carnival of the Animals"
+    },
+    {
+      "id": "17179",
+      "composer": "Chopin",
+      "title": "Fantaisie-impromptu in C sharp minor, op. 66"
+    },
+    {
+      "id": "23646",
+      "composer": "Mozart",
+      "title": "Requiem in D minor, K.626"
+    },
+    {
+      "id": "7640",
+      "composer": "Tchaikovsky",
+      "title": "Piano Concerto no. 1 in B flat minor, op. 23"
+    },
+    {
+      "id": "16827",
+      "composer": "Joplin",
+      "title": "The Entertainer"
+    },
+    {
+      "id": "15562",
+      "composer": "Gershwin",
+      "title": "Rhapsody in Blue"
+    },
+    {
+      "id": "15046",
+      "composer": "Schumann",
+      "title": "Kinderszenen, op. 15"
+    },
+    {
+      "id": "14160",
+      "composer": "Dukas",
+      "title": "L'Apprenti Sorcier"
+    },
+    {
+      "id": "20429",
+      "composer": "Mussorgsky",
+      "title": "Night on Bald Mountain"
+    },
+    {
+      "id": "1704",
+      "composer": "Barber",
+      "title": "String Quartet in B major, op. 11"
+    },
+    {
+      "id": "21566",
+      "composer": "Prokofiev",
+      "title": "Peter and the Wolf, op. 67"
+    },
+    {
+      "id": "19597",
+      "composer": "Copland",
+      "title": "Fanfare for the Common Man"
+    },
+    {
+      "id": "22505",
+      "composer": "Stravinsky",
+      "title": "The Rite of Spring"
+    },
+    {
+      "id": "2678",
+      "composer": "Verdi",
+      "title": "La traviata"
+    },
+    {
+      "id": "23566",
+      "composer": "Mozart",
+      "title": "The Magic Flute, K.620"
+    },
+    {
+      "id": "2660",
+      "composer": "Verdi",
+      "title": "Rigoletto"
+    },
+    {
+      "id": "16519",
+      "composer": "Puccini",
+      "title": "Tosca"
+    },
+    {
+      "id": "16525",
+      "composer": "Puccini",
+      "title": "La bohème"
+    },
+    {
+      "id": "26120",
+      "composer": "Haydn",
+      "title": "Symphony no. 104 in D, Hob.I:104, \"London\""
+    },
+    {
+      "id": "20545",
+      "composer": "Schubert",
+      "title": "Symphony no. 9 in C major, D.944, \"Great\""
+    },
+    {
+      "id": "10074",
+      "composer": "Bach",
+      "title": "Goldberg Variations, BWV.988"
+    }
+  ]
+}

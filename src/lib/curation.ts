@@ -1,13 +1,18 @@
 /**
  * Reads and validates the hand-curated 定番度 files under `data/curation/`.
  *
- * Two sources, both hand-written (see `CONTRIBUTING.md`):
+ * Three sources, all hand-written (see `CONTRIBUTING.md`):
  *  - `composer-stars.json` — all 220 composers, grouped by star. One file,
  *    not one per composer, because a composer's rating is only judgeable
  *    against the others in the same bucket.
- *  - `works/<composerId>.json` — the standard repertoire, grouped by star.
- *    Split per composer, mirroring `data/editorial/composers/`, so revising
- *    one composer never touches the rest.
+ *  - `ranking.json` — the ★5 works in explicit global order. This file both
+ *    *assigns* ★5 and orders it; position becomes the score. Global for the
+ *    same reason `composer-stars.json` is: "how standard is this piece in the
+ *    whole repertoire" can only be calibrated against the other candidates,
+ *    never inside one composer's folder.
+ *  - `works/<composerId>.json` — ★4 and ★3 only, grouped by star. Split per
+ *    composer, mirroring `data/editorial/composers/`, so revising one composer
+ *    never touches the rest.
  *
  * This module is pure: it takes already-parsed JSON and a minimal view of the
  * Open Opus dataset, and returns lookup maps plus a list of problems. The file
@@ -18,7 +23,13 @@
  * `data/catalog/*` by `npm run seed:catalog`, exactly as `ledger.json` is
  * build-time only.
  */
-import { isCuratedStars, isStars, type CuratedStars, type Stars } from "./popularity";
+import {
+  isStars,
+  RANKED_SLOTS,
+  RANK_REACH,
+  type CuratedStars,
+  type Stars,
+} from "./popularity";
 import { tidy } from "./title/parse";
 
 /** The slice of the Open Opus dump the validator needs to check ids against. */
@@ -30,6 +41,8 @@ export interface CurationCatalogView {
 export interface CurationSource {
   /** Parsed `data/curation/composer-stars.json`. */
   composerStars: unknown;
+  /** Parsed `data/curation/ranking.json`. */
+  ranking: unknown;
   /** Parsed `data/curation/works/*.json`, keyed by file name. */
   workFiles: Array<{ file: string; parsed: unknown }>;
 }
@@ -43,6 +56,8 @@ export interface CuratedRating {
 export interface CurationResult {
   composerStars: Map<string, Stars>;
   workStars: Map<string, CuratedRating>;
+  /** Work id → position in `ranking.json`. These are exactly the ★5 works. */
+  ranking: Map<string, number>;
   errors: string[];
   /** Drift alarms on the absolute scale — reported, but not fatal. */
   warnings: string[];
@@ -168,16 +183,22 @@ function readWorkStars(
       continue;
     }
     if (!isRecord(parsed)) {
-      errors.push(`${file}: must be an object keyed by star, e.g. {"star5": [...]}`);
+      errors.push(`${file}: must be an object keyed by star, e.g. {"star4": [...]}`);
       continue;
     }
 
     for (const [key, group] of Object.entries(parsed)) {
       if (!isDataKey(key)) continue;
       const star = parseStarKey(key);
-      if (!isCuratedStars(star)) {
+      if (star === 5) {
         errors.push(
-          `${file}: "${key}" is not a curated star group — only "star3", "star4" and "star5" are hand-assigned`,
+          `${file}: "star5" is not allowed here — ★5 is assigned and globally ordered in data/curation/ranking.json`,
+        );
+        continue;
+      }
+      if (star !== 3 && star !== 4) {
+        errors.push(
+          `${file}: "${key}" is not a curated star group — only "star3" and "star4" belong in a composer file`,
         );
         continue;
       }
@@ -185,10 +206,15 @@ function readWorkStars(
         errors.push(`${file}.${key}: must be an array of {id, title}`);
         continue;
       }
+      if (group.length > RANK_REACH) {
+        warnings.push(
+          `${file}.${key}: ${group.length} entries — only the first ${RANK_REACH} are ordered by your ranking`,
+        );
+      }
 
       // The array order is data, not presentation: it is the curator's own
       // ranking within the star, and the only signal fine-grained enough to
-      // separate two works that are both unarguably ★5.
+      // separate two works the star alone cannot.
       let rank = 0;
       for (const entry of group) {
         if (!isRecord(entry) || typeof entry.id !== "string") {
@@ -224,14 +250,84 @@ function readWorkStars(
     }
   }
 
-  const fives = [...stars.values()].filter((rating) => rating.stars === 5).length;
-  if (fives > SCALE_LIMITS.workStar5) {
+  return stars;
+}
+
+/**
+ * Reads `ranking.json`, the globally ordered ★5 list. Runs after
+ * `readWorkStars` so it can reject a work rated in both places, and writes
+ * its entries into `workStars` too — downstream, a ranked work is simply a
+ * curated ★5 that also carries a position.
+ */
+function readRanking(
+  parsed: unknown,
+  workStars: Map<string, CuratedRating>,
+  view: CurationCatalogView,
+  errors: string[],
+  warnings: string[],
+): Map<string, number> {
+  const ranking = new Map<string, number>();
+  if (!isRecord(parsed) || !Array.isArray(parsed.ranking)) {
+    errors.push('ranking.json: must be an object with a "ranking" array');
+    return ranking;
+  }
+
+  const worksById = new Map(view.works.map((work) => [work.id, work]));
+  const composerNames = new Map(view.composers.map((c) => [c.id, c.name]));
+
+  for (const entry of parsed.ranking) {
+    if (!isRecord(entry) || typeof entry.id !== "string") {
+      errors.push('ranking.json: every entry needs a string "id"');
+      continue;
+    }
+    const work = worksById.get(entry.id);
+    if (!work) {
+      errors.push(`ranking.json: no work with id ${entry.id}`);
+      continue;
+    }
+    // Both echoes exist to catch a mistyped id; the composer name also makes a
+    // 58-line global list readable without a lookup table.
+    if (tidy(String(entry.title ?? "")) !== tidy(work.title)) {
+      errors.push(
+        `ranking.json.${entry.id}: title is "${String(entry.title)}", expected "${tidy(work.title)}"`,
+      );
+      continue;
+    }
+    const composer = composerNames.get(work.composerId);
+    if (entry.composer !== composer) {
+      errors.push(
+        `ranking.json.${entry.id}: composer is "${String(entry.composer)}", expected "${composer}"`,
+      );
+      continue;
+    }
+    if (ranking.has(entry.id)) {
+      errors.push(`ranking.json: work ${entry.id} appears twice`);
+      continue;
+    }
+    if (workStars.has(entry.id)) {
+      errors.push(
+        `ranking.json: work ${entry.id} is also rated in data/curation/works/${work.composerId}.json`,
+      );
+      continue;
+    }
+    ranking.set(entry.id, ranking.size);
+    workStars.set(entry.id, { stars: 5, rank: ranking.size - 1 });
+  }
+
+  // Past the last slot the scores would collide with the ★4 band, so this is
+  // structural rather than a matter of taste.
+  if (ranking.size > RANKED_SLOTS) {
+    errors.push(
+      `ranking.json: ${ranking.size} entries exceed the ${RANKED_SLOTS} ranked slots — raise RANKED_SLOTS in src/lib/popularity.ts`,
+    );
+  }
+  if (ranking.size > SCALE_LIMITS.workStar5) {
     warnings.push(
-      `${fives} works are ★5 (soft limit ${SCALE_LIMITS.workStar5}) — the scale is drifting`,
+      `${ranking.size} works are ★5 (soft limit ${SCALE_LIMITS.workStar5}) — the scale is drifting`,
     );
   }
 
-  return stars;
+  return ranking;
 }
 
 export function loadCuration(
@@ -241,10 +337,11 @@ export function loadCuration(
   const errors: string[] = [];
   const warnings: string[] = [];
 
-  return {
-    composerStars: readComposerStars(source.composerStars, view, errors, warnings),
-    workStars: readWorkStars(source.workFiles, view, errors, warnings),
-    errors,
-    warnings,
-  };
+  // Sequenced explicitly rather than built in an object literal: `readRanking`
+  // mutates `workStars` and has to see the composer files first.
+  const composerStars = readComposerStars(source.composerStars, view, errors, warnings);
+  const workStars = readWorkStars(source.workFiles, view, errors, warnings);
+  const ranking = readRanking(source.ranking, workStars, view, errors, warnings);
+
+  return { composerStars, workStars, ranking, errors, warnings };
 }
