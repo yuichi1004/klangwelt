@@ -571,6 +571,32 @@
       ]
     }
   },
+  "23": {
+    "biography": {
+      "ja": "フランス・シャテルローに生まれ、聖職者として各地に仕えながら作曲活動を続けた。フランス語の世俗歌曲(シャンソン)の分野で独自の地位を築き、鳥のさえずりや市場の呼び売り、合戦の喧騒といった日常や出来事の音を声楽で模写する、写実的で描写的な作風で広く名を知られた。",
+      "en": "Born in Châtellerault, France, he continued composing while serving as a cleric in various posts. He established a distinctive place in the field of French secular song, the chanson, and became widely known for a realistic, descriptive style that used the voice to imitate everyday sounds and events, birdsong, market cries, the din of battle."
+    },
+    "style": {
+      "ja": "複数の声部にオノマトペ的な断片的音節を割り当て、鳥の鳴き声や戦闘の喧騒、都市の雑踏を音楽で生き生きと再現する描写的な書法を確立した。歌詞の意味内容を音そのもので直接模倣するこの手法は、当時としては極めて斬新で、聴き手を楽しませる娯楽性の高い作品として大きな人気を博した。",
+      "en": "He established a descriptive writing technique that assigned onomatopoeic, fragmentary syllables to multiple voices, vividly recreating birdsong, the din of battle, and the bustle of the city in music. This technique of directly imitating the meaning of a text through sound itself was highly novel for its time and won great popularity as highly entertaining, enjoyable music."
+    },
+    "impact": {
+      "ja": "音楽による情景描写という発想を極限まで追求した先駆者として、後世に至るまで標題音楽の系譜に連なる作曲家たちに間接的な影響を及ぼしたと評される。フランス語のシャンソンという世俗的なジャンルにおいて、宗教曲とは全く異なる娯楽性と実験精神を体現した存在として、ルネサンス世俗音楽の重要な一角を占めている。",
+      "en": "As a pioneer who pursued the idea of depicting scenes through music to its furthest limits, he is credited with an indirect influence reaching forward to later composers working in the lineage of program music. Within the secular genre of the French chanson, he embodied an entertainment value and experimental spirit entirely distinct from sacred music, occupying an important place within Renaissance secular music."
+    },
+    "keywords": {
+      "ja": [
+        "鳥や合戦の音を模写する描写的シャンソン",
+        "オノマトペを用いた声楽的写実主義",
+        "標題音楽の遠い先駆け"
+      ],
+      "en": [
+        "Descriptive chansons imitating birds and battle",
+        "Onomatopoeic vocal realism",
+        "Distant forerunner of program music"
+      ]
+    }
+  },
   "24": {
     "biography": {
       "ja": "ニューヨークのブロンクスに生まれ、独学に近い形で作曲を学んだ。1943年に新設されたピュリッツァー賞音楽部門の最初の受賞者となり、その後ジュリアード音楽院の学長、さらにリンカーン・センターの初代総裁を務めるなど、作曲家としてだけでなくアメリカの音楽教育・文化行政の中枢を担った人物でもある。",
@@ -672,6 +698,32 @@
         "Financially independent, wealthy composer",
         "Venetian contemporary of Vivaldi",
         "Famous 20th-century pastiche attributed to him"
+      ]
+    }
+  },
+  "28": {
+    "biography": {
+      "ja": "現在のベルギー、ヘントに生まれ、フランドル各地の聖堂で楽長を務めながら活動した。デュファイやオケゲムに続く世代のフランドル楽派を代表する作曲家であり、後にジョスカン・デ・プレへとつながる技法的発展の重要な一段階を担った。晩年にイタリア・フェラーラで客死した。",
+      "en": "Born in Ghent, in present-day Belgium, he worked as choirmaster at churches across the Low Countries. As a leading composer of the generation of the Franco-Flemish school following Dufay and Ockeghem, he carried forward an important stage in the technical development that would lead onward to Josquin des Prez. He died while in Ferrara, Italy, in his later years."
+    },
+    "style": {
+      "ja": "既存の旋律を土台とする定旋律の扱いにおいて、旋律を逆行させたり、音価を規則的に変化させたりするなど、数理的な操作を大胆に取り入れたミサ曲を数多く残した。声部間の均整の取れた構成美と、緻密な計算に基づく構造的な独創性を両立させた作風を特徴とする。",
+      "en": "In his handling of pre-existing cantus firmus melodies, he left numerous mass settings that boldly incorporated mathematical manipulation, such as reversing a melody or systematically altering its note values. His style is marked by a combination of balanced structural beauty among voices with structural originality grounded in meticulous calculation."
+    },
+    "impact": {
+      "ja": "オケゲムの複雑な計量記譜法とジョスカン・デ・プレの均整の取れた古典的様式の間に位置する過渡的な存在として、フランドル楽派の技法的発展を理解する上で欠かせない作曲家である。定旋律に数理的操作を加えるその手法は、後世の音楽学者にとって構造分析の格好の対象となっている。",
+      "en": "Standing as a transitional figure between Ockeghem's complex mensural notation and Josquin des Prez's balanced classical style, he is an indispensable composer for understanding the technical development of the Franco-Flemish school. His technique of applying mathematical manipulation to a cantus firmus has made his works a favorite subject of structural analysis for later musicologists."
+    },
+    "keywords": {
+      "ja": [
+        "オケゲムとジョスカンをつなぐ過渡的存在",
+        "定旋律への数理的操作",
+        "計算に基づく構造的独創性"
+      ],
+      "en": [
+        "Transitional link between Ockeghem and Josquin",
+        "Mathematical manipulation of cantus firmus",
+        "Structural originality from calculation"
       ]
     }
   },
@@ -1329,6 +1381,32 @@
       ]
     }
   },
+  "54": {
+    "biography": {
+      "ja": "イングランド・リンカンシャーに生まれ、宗教改革以前のイングランドを代表する教会音楽の作曲家として活動した。後年は作曲活動から離れ、トマス・クロムウェルのもとで修道院解散政策に関わったと伝えられており、かつて自身が音楽を捧げていた修道院の伝統を、皮肉にも自らの手で終わらせる側に回ったという数奇な経歴を持つ。",
+      "en": "Born in Lincolnshire, England, he was active as a leading composer of church music in England before the Reformation. In his later years he is said to have stepped away from composing and become involved, under Thomas Cromwell, in the policy of dissolving the monasteries, a strange turn of career in which he ended up on the side that brought an end to the very monastic tradition he had once served with his music."
+    },
+    "style": {
+      "ja": "宗教改革以前のイングランドで発達した壮麗で技巧的な多声書法を極め、代表的なミサ曲では世俗的な歌に基づく旋律を定旋律として用いる手法を大胆に採用した。声部の重なりが生み出す豊かな響きと、旋律線の伸びやかな展開を特徴とする、イングランド後期中世音楽の到達点を示す作風である。",
+      "en": "He brought the splendid, technically demanding polyphony developed in pre-Reformation England to a high peak, and in his best-known mass setting he boldly adopted the technique of using a secular song melody as the cantus firmus. His style, marked by the rich sonority produced by overlapping voices and the expansive unfolding of melodic lines, represents a culmination of late medieval English music."
+    },
+    "impact": {
+      "ja": "宗教改革によって断絶することになるイングランドのカトリック教会音楽の伝統において、最後の頂点を極めた作曲家の一人として位置づけられる。次の世代のタリスやバードが新しいプロテスタント典礼様式へと移行していく直前の、豊麗な旧様式を今に伝える貴重な証言者でもある。",
+      "en": "He is positioned as one of the composers who brought the tradition of English Catholic church music, soon to be severed by the Reformation, to its final peak. He is also a valuable witness preserving the splendid old style for posterity, standing right before the next generation, including Tallis and Byrd, moved into the new Protestant liturgical style."
+    },
+    "keywords": {
+      "ja": [
+        "修道院解散政策に関わった数奇な後半生",
+        "世俗旋律を定旋律に用いた壮麗なミサ",
+        "宗教改革前イングランド音楽の頂点"
+      ],
+      "en": [
+        "Later career dissolving the monasteries he once served",
+        "Splendid mass using a secular cantus firmus",
+        "Peak of pre-Reformation English music"
+      ]
+    }
+  },
   "55": {
     "biography": {
       "ja": "リオデジャネイロに生まれ、正規の音楽教育をほとんど受けないまま、ブラジル各地を巡って先住民や民衆の音楽を採集する旅を重ねた。この経験が生涯の作曲活動の土台になっている。\n1930年代からはブラジル政府の音楽教育政策に深く関わり、全国の公立学校で合唱を通じた音楽教育を普及させる運動を率いた。驚異的な多作家で、交響曲からギター曲、映画音楽まで幅広いジャンルに数多くの作品を残している。",
@@ -1593,6 +1671,32 @@
       ]
     }
   },
+  "65": {
+    "biography": {
+      "ja": "パレルモに生まれ、カリッシミらに師事した。ナポリを拠点にオペラ作曲家として絶大な成功を収め、「ナポリ楽派」と呼ばれるイタリア・オペラの一大潮流を確立した中心人物となった。後にチェンバロ・ソナタで名を馳せる作曲家ドメニコ・スカルラッティの父としても知られている。",
+      "en": "Born in Palermo, he studied under Carissimi among others. Based in Naples, he achieved tremendous success as an opera composer and became the central figure who established the great current of Italian opera known as the \"Neapolitan school.\" He is also known as the father of Domenico Scarlatti, the composer who would later become famous for his harpsichord sonatas."
+    },
+    "style": {
+      "ja": "叙唱と分けられた華麗な独唱アリアを中心に据えるオペラ様式を洗練させ、「イタリア風序曲」と呼ばれる急・緩・急の三部構成を確立した。この形式は後に器楽の交響曲の原型の一つとなり、声楽と器楽の双方にまたがる幅広い作品を数多く残している。",
+      "en": "He refined an operatic style centered on splendid solo arias set apart from recitative, and established the three-part fast-slow-fast structure known as the \"Italian overture.\" This form later became one of the prototypes of the instrumental symphony, and he left a large body of work spanning both vocal and instrumental music."
+    },
+    "impact": {
+      "ja": "彼が確立したイタリア風序曲の急・緩・急構成は、後の古典派交響曲の楽章配置に直接連なる原型として音楽史上重要な位置を占めている。息子ドメニコ・スカルラッティが鍵盤音楽の分野で全く異なる革新を成し遂げたことも含め、父子二代にわたってイタリア音楽史に大きな足跡を残した稀有な家系である。",
+      "en": "The fast-slow-fast structure of the Italian overture he established occupies an important place in music history as a direct prototype for the later movement layout of the Classical symphony. Including the fact that his son Domenico Scarlatti achieved an entirely different kind of innovation in keyboard music, theirs is a rare family that left a major mark on Italian music history across two generations."
+    },
+    "keywords": {
+      "ja": [
+        "ナポリ楽派を確立した中心人物",
+        "交響曲の原型となったイタリア風序曲",
+        "ドメニコ・スカルラッティの父"
+      ],
+      "en": [
+        "Central founder of the Neapolitan school",
+        "Italian overture as a symphonic prototype",
+        "Father of Domenico Scarlatti"
+      ]
+    }
+  },
   "66": {
     "biography": {
       "ja": "自身も卓越したチェロの名手で、通奏低音楽器として扱われることが多かったチェロを独奏・室内楽の主役に押し上げた最初期の作曲家の一人である。\nイタリアで学んだのち生涯の大半をスペインで過ごし、王族に仕える宮廷音楽家として活動した。晩年は後ろ盾を失い、困窮のうちにマドリードで世を去っている。",
@@ -1698,6 +1802,58 @@
         "Overnight verismo opera sensation",
         "Dramatic construction depicting realism",
         "Never surpassed his own first success"
+      ]
+    }
+  },
+  "70": {
+    "biography": {
+      "ja": "ニューヨークのリッチモンド・ヒルに生まれ、幼少期から神童ピアニストとして知られた。ラジオやテレビの指揮者として幅広い聴衆に音楽を届ける活動を長年続け、演奏会用の「真面目な」音楽と大衆向けの「軽い」音楽の垣根を意識的に越えようとした作曲家である。晩年にピュリッツァー賞を受賞した。",
+      "en": "Born in Richmond Hill, New York, he was known as a child-prodigy pianist from an early age. He spent many years as a conductor on radio and television, bringing music to a broad public, and he was a composer who consciously sought to cross the divide between \"serious\" concert music and popular \"light\" music. He won the Pulitzer Prize for Music in his later years."
+    },
+    "style": {
+      "ja": "アメリカのポピュラー音楽やジャズ、映画音楽の語法を演奏会用オーケストラ作品に大胆に取り入れ、親しみやすい旋律と洗練されたオーケストレーションを両立させた。西部劇を思わせる題材を扱った作品では、アメリカの大衆文化的イメージを交響的な語法で描き出す手腕を発揮した。",
+      "en": "He boldly incorporated the idioms of American popular music, jazz, and film music into orchestral concert works, balancing accessible melody with sophisticated orchestration. In works drawing on subject matter evoking the American West, he showed skill at depicting the imagery of American popular culture in symphonic language."
+    },
+    "impact": {
+      "ja": "ラジオ・テレビというマスメディアを通じてクラシック音楽を大衆に届けた功績は、演奏会場という限られた空間を超えてアメリカの音楽文化全体に影響を及ぼした。同時代のコープランドやアントハイル、ドーアティらと並び、大衆文化と演奏会用音楽の垣根を越えようとしたアメリカ音楽の潮流を代表する存在である。",
+      "en": "His achievement in bringing classical music to the public through the mass media of radio and television extended his influence on American musical culture well beyond the confines of the concert hall. Alongside contemporaries such as Copland, Antheil, and Daugherty, he stands as a representative figure in the American musical current that sought to cross the divide between popular culture and concert music."
+    },
+    "keywords": {
+      "ja": [
+        "ラジオ・テレビでクラシックを広めた指揮者",
+        "ジャズとポップス語法の演奏会用作品",
+        "アメリカの大衆文化を描く交響的語法"
+      ],
+      "en": [
+        "Brought classical music via radio and TV",
+        "Concert works drawing on jazz and pop",
+        "Symphonic depiction of American pop culture"
+      ]
+    }
+  },
+  "71": {
+    "biography": {
+      "ja": "現在のリトアニア、ヴィリニュスに生まれ、モニューシコに師事した。本業は軍事技術者であり、要塞建築の専門家として陸軍士官学校で長年教鞭を執りながら、余暇に作曲活動を続けた。バラキレフを中心とする「五人組」の一員として、ムソルグスキーやリムスキー=コルサコフ、ボロディンらと行動を共にした。",
+      "en": "Born in what is now Vilnius, Lithuania, he studied under Moniuszko. His primary profession was as a military engineer, and he taught for many years at a military academy as a specialist in fortification while continuing to compose in his spare time. As a member of \"The Five,\" led by Balakirev, he was active alongside Mussorgsky, Rimsky-Korsakov, and Borodin."
+    },
+    "style": {
+      "ja": "「五人組」の理念に沿ってロシア的な色彩を重視した作風を持つが、他の四人に比べると西欧的な洗練された旋律感覚を強く保ち続けた。音楽評論家としても精力的に活動し、自らのグループの主張を新聞・雑誌で擁護する論客としての役割も果たした。",
+      "en": "In line with the ideals of \"The Five,\" his style emphasizes Russian color, though compared to the other four members he retained a stronger sense of Western European melodic refinement. He was also energetically active as a music critic, playing the role of a vocal advocate defending his group's ideas in newspapers and journals."
+    },
+    "impact": {
+      "ja": "作曲家としての実作面ではバラキレフやムソルグスキー、リムスキー=コルサコフ、ボロディンら他の四人ほどの知名度を得られなかったが、評論家としてグループの理念を広く発信した功績は大きく、「五人組」という名称の定着そのものに深く関わった人物である。軍事技術者と作曲家という異色の二重生活は、19世紀ロシアにおけるアマチュア作曲家の存在感を象徴している。",
+      "en": "As a composer in his own right, he did not achieve the same renown as the other four members, Balakirev, Mussorgsky, Rimsky-Korsakov, and Borodin, but his contribution as a critic who broadly disseminated the group's ideals was significant, and he was deeply involved in establishing the very name \"The Five.\" His unusual double life as a military engineer and composer symbolizes the presence of the amateur composer within nineteenth-century Russian musical life."
+    },
+    "keywords": {
+      "ja": [
+        "要塞建築専門の軍事技術者との二重生活",
+        "五人組の一員にして評論の論客",
+        "五人組の名称定着に関わった人物"
+      ],
+      "en": [
+        "Double life as a fortification engineer",
+        "Member of The Five and its critical voice",
+        "Central to establishing the name \"The Five\""
       ]
     }
   },
@@ -4377,6 +4533,32 @@
       ]
     }
   },
+  "177": {
+    "biography": {
+      "ja": "ヴェネツィアに生まれ、ガスパリーニやロッティに師事した。法律家・行政官としても活動する傍らで作曲を続けた、当時としては珍しい二足のわらじの音楽家であり、弟のアレッサンドロ・マルチェッロもまた作曲家として名を残している。当時のオペラ興行の商業主義や慣習を痛烈に風刺した著作でも知られる。",
+      "en": "Born in Venice, he studied under Gasparini and Lotti. He was an unusual figure for his time, continuing to compose while also working as a lawyer and public official, and his younger brother Alessandro Marcello likewise left a mark as a composer. He is also known for a satirical treatise sharply mocking the commercialism and conventions of the opera business of his day."
+    },
+    "style": {
+      "ja": "宗教曲、とりわけ詩篇に基づく声楽曲の分野で高い評価を得ており、簡潔ながら劇的な表現力を備えた語法を特徴とする。法律家としての明晰な論理性を思わせる整然とした構成感を音楽にも反映させ、当時のヴェネツィア楽壇の中でも独自の知的な作風を確立した。",
+      "en": "He earned high regard particularly for sacred vocal works based on the Psalms, marked by a concise yet dramatically expressive idiom. He carried the orderly, logical clarity of his legal training into his music as well, establishing a distinctly intellectual style within the Venetian musical scene of his day."
+    },
+    "impact": {
+      "ja": "同時代のオペラの慣習を風刺した著作は、当時の興行の実態を知るための貴重な資料として音楽史研究でも参照され続けている。弟アレッサンドロと共に、法律や哲学など音楽以外の専門分野を持ちながら高度な作曲活動を行った知識人音楽家の代表例として位置づけられる。",
+      "en": "His satirical treatise on the conventions of contemporary opera continues to be referenced in musicological research as a valuable source for understanding the realities of the opera business of the time. Alongside his brother Alessandro, he stands as a representative example of the intellectual musician who pursued sophisticated composition while also holding expertise in a field outside music, such as law or philosophy."
+    },
+    "keywords": {
+      "ja": [
+        "法律家と作曲家の二足のわらじ",
+        "オペラ興行を風刺した著作",
+        "アレッサンドロ・マルチェッロの兄"
+      ],
+      "en": [
+        "Lawyer and composer at once",
+        "Satirical treatise on the opera business",
+        "Elder brother of Alessandro Marcello"
+      ]
+    }
+  },
   "178": {
     "biography": {
       "ja": "ディジョンに生まれ、若い頃から教会オルガニストとして各地を転々とした。50歳近くになるまでオペラの作曲には手を染めず、それ以前は鍵盤音楽の作曲家、そして何より和声理論の著述家として名を知られていた。その理論書は機能和声の考え方を体系的に整理した画期的な著作として、後の音楽理論全体の土台となった。",
@@ -4426,6 +4608,32 @@
         "Continuing the Mighty Handful tradition",
         "Protecting the conservatory through revolution",
         "The unusual Saxophone Concerto"
+      ]
+    }
+  },
+  "180": {
+    "biography": {
+      "ja": "フィラデルフィアに生まれ、数学者としての訓練も受けた異色の経歴を持つ。プリンストン大学とジュリアード音楽院で長年教鞭を執り、コロンビア=プリンストン電子音楽センターの設立にも関わって、初期の電子音楽合成装置を用いた作品制作を先駆けた。難解な現代音楽の存在意義を擁護する論争的な評論を発表したことでも知られる。",
+      "en": "Born in Philadelphia, he had the unusual background of also being trained as a mathematician. He taught for many years at Princeton University and the Juilliard School, and he was involved in founding the Columbia-Princeton Electronic Music Center, pioneering work with early electronic sound-synthesis equipment. He is also known for a controversial essay defending the value of difficult contemporary music."
+    },
+    "style": {
+      "ja": "シェーンベルクが確立した十二音技法を、音高だけでなくリズム、強弱、音色にまで拡張して適用する「総音列主義」を数学的な厳密さで追求した。作曲上のあらゆるパラメータを体系的に制御しようとするその姿勢は、数学者としての素養を色濃く反映している。",
+      "en": "He pursued \"total serialism\" with mathematical rigor, extending the twelve-tone technique established by Schoenberg beyond pitch to rhythm, dynamics, and timbre as well. His approach, seeking to systematically control every parameter of composition, strongly reflects his training as a mathematician."
+    },
+    "impact": {
+      "ja": "電子音響合成の分野ではシュトックハウゼンやクセナキスと並ぶ初期の開拓者の一人であり、アメリカにおける電子音楽研究の拠点づくりに貢献した。難解な現代音楽を擁護した評論は、専門家向けの音楽と一般聴衆向けの音楽との乖離という20世紀後半の音楽界の根本的な問題を提起した論考として、今なお議論の対象となっている。",
+      "en": "In the field of electronic sound synthesis he stands as an early pioneer alongside Stockhausen and Xenakis, contributing to building an American base for electronic music research. His essay defending difficult contemporary music remains a subject of ongoing debate, raising a fundamental question of later twentieth-century musical life: the divide between music for specialists and music for the general public."
+    },
+    "keywords": {
+      "ja": [
+        "数学者でもあった総音列主義者",
+        "電子音響合成の初期開拓者",
+        "難解な現代音楽を擁護した論争的評論"
+      ],
+      "en": [
+        "Mathematician turned total serialist",
+        "Early pioneer of electronic synthesis",
+        "Controversial defense of difficult music"
       ]
     }
   },
@@ -4560,6 +4768,32 @@
         "Nature-evoking sonority",
         "Single-movement form",
         "The long silence"
+      ]
+    }
+  },
+  "187": {
+    "biography": {
+      "ja": "ヴェネツィアに生まれた作曲家で、数学者・法律家・哲学者としても活動した多才な人物であった。作曲家の弟ベネデット・マルチェッロの兄にあたり、代表的なオーボエ協奏曲は、当時ヴェネツィアで活動していたヴィヴァルディやバッハの作とも長らく誤って伝えられるほど広く親しまれた。",
+      "en": "A Venetian-born composer, he was also active as a mathematician, jurist, and philosopher, a man of many talents. He was the elder brother of the composer Benedetto Marcello, and his best-known oboe concerto became so widely loved that it was long mistakenly attributed to Vivaldi and even Bach, both active in and around Venice at the time."
+    },
+    "style": {
+      "ja": "ヴェネツィア楽派の協奏曲様式を土台に、抒情的で歌うような緩徐楽章の美しさを特に得意とした。数学者としての明晰な構成感覚を反映してか、楽章間の対比が明確で均整の取れた協奏曲を残しており、オーボエという楽器の抒情的な音色を存分に生かす書法に長けていた。",
+      "en": "Building on the concerto style of the Venetian school, he particularly excelled at the lyrical, singing beauty of slow movements. Perhaps reflecting his mathematician's sense of clear structure, his concertos show sharp contrast between movements and well-balanced proportion, and he was skilled at writing that made full use of the oboe's lyrical timbre."
+    },
+    "impact": {
+      "ja": "その代表作は、バッハが自ら鍵盤楽器用に編曲したことで知られており、ヴェネツィア楽派の協奏曲様式がドイツの作曲家にまで直接的な影響を及ぼした証拠として、音楽史研究でしばしば取り上げられる。弟ベネデットと共に、専門的な学識と音楽的才能を兼ね備えた知識人音楽家の代表例として記憶されている。",
+      "en": "His best-known work is known for having been arranged by Bach himself for keyboard, and it is often cited in musicological research as evidence of the direct influence the Venetian concerto style exerted on German composers. Together with his brother Benedetto, he is remembered as a representative example of the intellectual musician combining specialized scholarship with musical talent."
+    },
+    "keywords": {
+      "ja": [
+        "バッハが編曲した代表的オーボエ協奏曲",
+        "ヴィヴァルディ作と誤伝された人気曲",
+        "ベネデット・マルチェッロの兄"
+      ],
+      "en": [
+        "Oboe concerto arranged by Bach himself",
+        "Long misattributed to Vivaldi",
+        "Elder brother of Benedetto Marcello"
       ]
     }
   },
@@ -4723,6 +4957,32 @@
       ]
     }
   },
+  "194": {
+    "biography": {
+      "ja": "ナポリに生まれ、詩人カルドゥッチや音楽家チェージに学んだ。作曲だけでなく自ら台本も執筆する多才な作曲家で、実際の殺人事件から着想を得たとされる代表的な一幕物オペラで一躍名声を確立した。ピアニストとしても活動した経歴を持つ。",
+      "en": "Born in Naples, he studied under the poet Carducci and the musician Cesi. A versatile composer who wrote his own librettos as well as music, he established his fame at a stroke with a landmark one-act opera said to have been inspired by an actual murder case. He also had a career as a pianist."
+    },
+    "style": {
+      "ja": "現実の事件や庶民の激しい感情を写実的に描く「ヴェリズモ」オペラの様式を代表する作曲家の一人で、劇中劇という枠組みを用いて虚構と現実が交錯する構成を巧みに操った。感情の高まりを一気に爆発させる劇的な旋律線と、緊迫感のあるオーケストレーションを特徴とする。",
+      "en": "He is one of the representative composers of verismo opera, depicting real events and the intense emotions of ordinary people with realism, and he skillfully handled a play-within-a-play structure in which fiction and reality intersect. His style is marked by dramatic melodic lines that erupt with rising emotion and tautly tensioned orchestration."
+    },
+    "impact": {
+      "ja": "代表作は同時代のマスカーニの一幕物オペラと組み合わせて上演される慣習が定着しており、両作は「カヴァ・パリ」と略称されるほど分かちがたい対の演目として今日でも世界中の歌劇場で頻繁に上演され続けている。ヴェリズモ・オペラという潮流を確立した最重要人物の一人として、マスカーニと並び称される。",
+      "en": "His best-known work has become established in the tradition of being staged together with his contemporary Mascagni's one-act opera, and the pairing, familiarly abbreviated as \"Cav and Pag,\" remains frequently performed together at opera houses worldwide today. He is ranked alongside Mascagni as one of the most important figures in establishing the verismo opera movement."
+    },
+    "keywords": {
+      "ja": [
+        "実際の殺人事件に着想を得た代表作",
+        "マスカーニ作品との対演目カヴァ・パリ",
+        "自ら台本を書くヴェリズモ作曲家"
+      ],
+      "en": [
+        "Best-known work inspired by a real murder",
+        "Paired with Mascagni as \"Cav and Pag\"",
+        "Verismo composer who wrote his own libretto"
+      ]
+    }
+  },
   "195": {
     "biography": {
       "ja": "父も祖父も音楽家という家系に生まれたが、スウェーデン国内では作曲家として何十年にもわたり十分な評価を得られず、生計を立てるためにベルリンで整形外科・理学療法の施設を運営するという、音楽とはまったく別の仕事に従事した時期がある。のちにはガラス工場や製材業も営んでいる。\n生涯の大半において本格的な作曲家として認められることはなく、主要な作品の多くは死後、あるいは生涯のごく晩年になってようやく初演されるという、遅れてきた評価の例の一つとなっている。",
@@ -4883,6 +5143,32 @@
       ]
     }
   },
+  "201": {
+    "biography": {
+      "ja": "アメリカ・リンカーン郡に生まれ、パリでナディア・ブーランジェに師事した。代表的な交響曲は同時代のアメリカ交響曲の中でも最も頻繁に演奏された作品の一つとなり、一躍アメリカを代表する交響曲作曲家としての地位を確立した。カリフォルニアの複数の大学で教育活動にも携わった。",
+      "en": "Born in Lincoln County, in the United States, he studied under Nadia Boulanger in Paris. His best-known symphony became one of the most frequently performed American symphonies of its era, establishing him at a stroke as a leading American symphonic composer. He also taught at several universities in California."
+    },
+    "style": {
+      "ja": "アメリカの開拓者精神や広大な風土を思わせる雄大な旋律線と、対位法的に絡み合う声部書法を特徴とする。アメリカ民謡を主題として用いた交響曲では、素朴な旋律を土台に複雑な変奏を積み重ねる手法を用い、民謡素材と本格的な交響的構成の融合を追求した。",
+      "en": "His style is marked by grand melodic lines evoking the American pioneer spirit and vast landscape, combined with contrapuntally interwoven voice-leading. In his symphony drawing on American folk song themes, he built complex variation on a foundation of simple melody, pursuing a fusion of folk material with full-scale symphonic construction."
+    },
+    "impact": {
+      "ja": "同じくブーランジェに学んだコープランドと並び、アメリカ的な語法を交響曲という西欧の伝統的な形式に注ぎ込んだ世代を代表する存在と位置づけられる。代表的な交響曲は発表当時、演奏頻度においてアメリカのオーケストラ作品の中でも際立った人気を誇り、アメリカ交響曲の確立に大きく貢献した。",
+      "en": "Alongside his fellow Boulanger pupil Copland, he is positioned as a representative figure of the generation that poured an American idiom into the traditionally Western European form of the symphony. His best-known symphony enjoyed standout popularity among American orchestral works of its day in terms of performance frequency, contributing greatly to the establishment of the American symphony."
+    },
+    "keywords": {
+      "ja": [
+        "最も演奏されたアメリカ交響曲の一つ",
+        "アメリカ民謡を用いた交響曲",
+        "コープランドと並ぶブーランジェ門下"
+      ],
+      "en": [
+        "One of the most-performed American symphonies",
+        "Symphony built on American folk song",
+        "Fellow Boulanger pupil alongside Copland"
+      ]
+    }
+  },
   "202": {
     "biography": {
       "ja": "正規の音楽院教育をほとんど受けず、ヴィニェスにピアノを、ケクランに作曲を個人的に学んだ。「フランス六人組」の創立メンバーの一人で、当初はパリの社交界を思わせる軽妙で洒脱な作風で知られた。\n友人であった作曲家フェルーが自動車事故で急逝したことをきっかけに深い信仰へと向かい、以後は敬虔な宗教曲を並行して書くようになる。世俗的な軽妙さと宗教的な真摯さという、一見相反する二つの側面を生涯にわたって持ち続けた作曲家だった。",
@@ -4932,6 +5218,32 @@
         "Sound-mass avant-garde style",
         "A dramatic stylistic reversal",
         "Responding to Poland's national trauma"
+      ]
+    }
+  },
+  "206": {
+    "biography": {
+      "ja": "ウィーンに生まれ、ボンノに師事した。ハイドンやモーツァルトと同時代のウィーン楽壇で活動し、ある逸話によれば、ハイドン、モーツァルト、そして自身の弟子ヴァンハルという四人の作曲家が一堂に会して弦楽四重奏を演奏したと伝えられており、当時のウィーン楽壇の親密な交流を物語る話として広く知られている。",
+      "en": "Born in Vienna, he studied under Bonno. He was active in the same Viennese musical scene as Haydn and Mozart, and according to a well-known anecdote, he once joined Haydn, Mozart, and his own pupil Vanhal in an informal gathering to play string quartets together, a story widely cited as evidence of the close ties among composers of the Vienna scene."
+    },
+    "style": {
+      "ja": "古典派の均整の取れた形式感を基本としながら、親しみやすく機知に富んだ旋律を特徴とする作風を確立した。オペラでは軽妙な喜劇的要素を得意とし、交響曲や協奏曲でも当時のウィーン古典派の様式を忠実に体現しながら独自の遊び心を織り交ぜている。",
+      "en": "He established a style marked by accessible, witty melody built on the balanced formal sense of the Classical era. In opera he excelled at light comic elements, and in his symphonies and concertos, while faithfully embodying the style of the Viennese Classical school of his day, he wove in a distinctive playfulness of his own."
+    },
+    "impact": {
+      "ja": "ハイドンやモーツァルトと直接楽器を共にした逸話は、古典派を代表する巨匠たちが決して孤立した天才ではなく、互いに交流し刺激を与え合う濃密な音楽コミュニティの一員であったことを示す好例としてしばしば引用される。同時代人としての知名度に比べ、作品そのものの上演機会は限られているが、ウィーン古典派の実像を伝える貴重な証言者である。",
+      "en": "The anecdote of playing music directly alongside Haydn and Mozart is often cited as a fine example showing that the great masters representing the Classical era were never isolated geniuses but members of a close-knit musical community who inspired one another. Though performances of his own works are limited compared to his fame as a contemporary, he remains a valuable witness to the real texture of Viennese Classicism."
+    },
+    "keywords": {
+      "ja": [
+        "ハイドン・モーツァルトと四重奏を演奏した逸話",
+        "ウィーン古典派の親密な交流",
+        "軽妙な喜劇的オペラ"
+      ],
+      "en": [
+        "Quartet anecdote with Haydn and Mozart",
+        "Close-knit Viennese Classical community",
+        "Light comic opera style"
       ]
     }
   },

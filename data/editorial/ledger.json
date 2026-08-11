@@ -112,7 +112,7 @@
   "23": {
     "name": "Clément Janequin",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "24": {
     "name": "William Schuman",
@@ -137,7 +137,7 @@
   "28": {
     "name": "Jacob Obrecht",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "29": {
     "name": "Charles Gounod",
@@ -267,7 +267,7 @@
   "54": {
     "name": "John Taverner",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "55": {
     "name": "Heitor Villa-Lobos",
@@ -322,7 +322,7 @@
   "65": {
     "name": "Alessandro Scarlatti",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "66": {
     "name": "Luigi Boccherini",
@@ -347,12 +347,12 @@
   "70": {
     "name": "Morton Gould",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "71": {
     "name": "César Cui",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "72": {
     "name": "Max Reger",
@@ -882,7 +882,7 @@
   "177": {
     "name": "Benedetto Marcello",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "178": {
     "name": "Jean-Philippe Rameau",
@@ -897,7 +897,7 @@
   "180": {
     "name": "Milton Babbitt",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "181": {
     "name": "Modest Mussorgsky",
@@ -932,7 +932,7 @@
   "187": {
     "name": "Alessandro Marcello",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "188": {
     "name": "Sergei Rachmaninoff",
@@ -967,7 +967,7 @@
   "194": {
     "name": "Ruggero Leoncavallo",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "195": {
     "name": "Franz Berwald",
@@ -1002,7 +1002,7 @@
   "201": {
     "name": "Roy Harris",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "202": {
     "name": "Francis Poulenc",
@@ -1027,7 +1027,7 @@
   "206": {
     "name": "Karl Ditters von Dittersdorf",
     "phase": 4,
-    "status": "pending"
+    "status": "done"
   },
   "207": {
     "name": "Antonio Carlos Gomes",

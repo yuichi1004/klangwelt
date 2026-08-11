@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "現在のベルギー、ヘントに生まれ、フランドル各地の聖堂で楽長を務めながら活動した。デュファイやオケゲムに続く世代のフランドル楽派を代表する作曲家であり、後にジョスカン・デ・プレへとつながる技法的発展の重要な一段階を担った。晩年にイタリア・フェラーラで客死した。",
+    "en": "Born in Ghent, in present-day Belgium, he worked as choirmaster at churches across the Low Countries. As a leading composer of the generation of the Franco-Flemish school following Dufay and Ockeghem, he carried forward an important stage in the technical development that would lead onward to Josquin des Prez. He died while in Ferrara, Italy, in his later years."
+  },
+  "style": {
+    "ja": "既存の旋律を土台とする定旋律の扱いにおいて、旋律を逆行させたり、音価を規則的に変化させたりするなど、数理的な操作を大胆に取り入れたミサ曲を数多く残した。声部間の均整の取れた構成美と、緻密な計算に基づく構造的な独創性を両立させた作風を特徴とする。",
+    "en": "In his handling of pre-existing cantus firmus melodies, he left numerous mass settings that boldly incorporated mathematical manipulation, such as reversing a melody or systematically altering its note values. His style is marked by a combination of balanced structural beauty among voices with structural originality grounded in meticulous calculation."
+  },
+  "impact": {
+    "ja": "オケゲムの複雑な計量記譜法とジョスカン・デ・プレの均整の取れた古典的様式の間に位置する過渡的な存在として、フランドル楽派の技法的発展を理解する上で欠かせない作曲家である。定旋律に数理的操作を加えるその手法は、後世の音楽学者にとって構造分析の格好の対象となっている。",
+    "en": "Standing as a transitional figure between Ockeghem's complex mensural notation and Josquin des Prez's balanced classical style, he is an indispensable composer for understanding the technical development of the Franco-Flemish school. His technique of applying mathematical manipulation to a cantus firmus has made his works a favorite subject of structural analysis for later musicologists."
+  },
+  "keywords": {
+    "ja": [
+      "オケゲムとジョスカンをつなぐ過渡的存在",
+      "定旋律への数理的操作",
+      "計算に基づく構造的独創性"
+    ],
+    "en": [
+      "Transitional link between Ockeghem and Josquin",
+      "Mathematical manipulation of cantus firmus",
+      "Structural originality from calculation"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ニューヨークのリッチモンド・ヒルに生まれ、幼少期から神童ピアニストとして知られた。ラジオやテレビの指揮者として幅広い聴衆に音楽を届ける活動を長年続け、演奏会用の「真面目な」音楽と大衆向けの「軽い」音楽の垣根を意識的に越えようとした作曲家である。晩年にピュリッツァー賞を受賞した。",
+    "en": "Born in Richmond Hill, New York, he was known as a child-prodigy pianist from an early age. He spent many years as a conductor on radio and television, bringing music to a broad public, and he was a composer who consciously sought to cross the divide between \"serious\" concert music and popular \"light\" music. He won the Pulitzer Prize for Music in his later years."
+  },
+  "style": {
+    "ja": "アメリカのポピュラー音楽やジャズ、映画音楽の語法を演奏会用オーケストラ作品に大胆に取り入れ、親しみやすい旋律と洗練されたオーケストレーションを両立させた。西部劇を思わせる題材を扱った作品では、アメリカの大衆文化的イメージを交響的な語法で描き出す手腕を発揮した。",
+    "en": "He boldly incorporated the idioms of American popular music, jazz, and film music into orchestral concert works, balancing accessible melody with sophisticated orchestration. In works drawing on subject matter evoking the American West, he showed skill at depicting the imagery of American popular culture in symphonic language."
+  },
+  "impact": {
+    "ja": "ラジオ・テレビというマスメディアを通じてクラシック音楽を大衆に届けた功績は、演奏会場という限られた空間を超えてアメリカの音楽文化全体に影響を及ぼした。同時代のコープランドやアントハイル、ドーアティらと並び、大衆文化と演奏会用音楽の垣根を越えようとしたアメリカ音楽の潮流を代表する存在である。",
+    "en": "His achievement in bringing classical music to the public through the mass media of radio and television extended his influence on American musical culture well beyond the confines of the concert hall. Alongside contemporaries such as Copland, Antheil, and Daugherty, he stands as a representative figure in the American musical current that sought to cross the divide between popular culture and concert music."
+  },
+  "keywords": {
+    "ja": [
+      "ラジオ・テレビでクラシックを広めた指揮者",
+      "ジャズとポップス語法の演奏会用作品",
+      "アメリカの大衆文化を描く交響的語法"
+    ],
+    "en": [
+      "Brought classical music via radio and TV",
+      "Concert works drawing on jazz and pop",
+      "Symphonic depiction of American pop culture"
+    ]
+  }
+}
