@@ -36,7 +36,8 @@
     "remove": "{name} を解除",
     "showMore": "さらに表示",
     "noResults": "条件に合う楽曲が見つかりませんでした。",
-    "noResultsHint": "条件を減らすか、キーワードを変えてお試しください。"
+    "noResultsHint": "条件を減らすか、キーワードを変えてお試しください。",
+    "noComposers": "条件に合う作曲家が見つかりませんでした。"
   },
   "catalog": {
     "heading": "楽曲を探す",
@@ -46,6 +47,10 @@
     "sortStandard": "定番度順",
     "sortTitle": "曲名順",
     "sortComposer": "作曲家順"
+  },
+  "composers": {
+    "resultCount": "{count}名",
+    "resultCountFiltered": "{count}名 / 全{total}名"
   },
   "rating": {
     "label": "定番度",

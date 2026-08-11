@@ -20,8 +20,14 @@ export function ComposerPortrait({
   showCredit = true,
 }: {
   locale: Locale;
-  composer: Composer;
-  credit?: PortraitCredit;
+  composer: Pick<Composer, "name" | "nameJa" | "completeName" | "portrait">;
+  /**
+   * `licenseUrl`/`sourceUrl` are only read when `showCredit` is on — the
+   * composer grid passes a trimmed `ComposerCard.credit` (`catalog.ts`) that
+   * has neither, since it renders no link.
+   */
+  credit?: Pick<PortraitCredit, "author" | "license"> &
+    Partial<Pick<PortraitCredit, "licenseUrl" | "sourceUrl">>;
   size?: number;
   /**
    * Off in the composer grid, where 220 caption lines would drown the page.

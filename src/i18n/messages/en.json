@@ -36,7 +36,8 @@
     "remove": "Remove {name}",
     "showMore": "Show more",
     "noResults": "No works match these filters.",
-    "noResultsHint": "Try removing a filter or changing your search term."
+    "noResultsHint": "Try removing a filter or changing your search term.",
+    "noComposers": "No composers match these filters."
   },
   "catalog": {
     "heading": "Browse works",
@@ -46,6 +47,10 @@
     "sortStandard": "Standard repertoire",
     "sortTitle": "Title",
     "sortComposer": "Composer"
+  },
+  "composers": {
+    "resultCount": "{count} composers",
+    "resultCountFiltered": "{count} of {total} composers"
   },
   "rating": {
     "label": "Standard repertoire",
