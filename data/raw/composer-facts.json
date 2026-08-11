@@ -555,41 +555,92 @@
  },
  {
   "composerId": "15",
-  "wikidataId": "Q221289",
-  "birthPlace": "Chennai",
-  "teachers": [],
-  "students": [],
-  "notableWorks": [],
+  "wikidataId": "Q55010",
+  "birthPlace": "Siegburg",
+  "deathPlace": "Neustrelitz",
+  "teachers": [
+   "Franz Lachner",
+   "Josef Rheinberger",
+   "Otto Hieber"
+  ],
+  "students": [
+   "Emil Kühnel",
+   "Siegfried Wagner",
+   "Yuliya Veysberg"
+  ],
+  "notableWorks": [
+   "Hänsel und Gretel",
+   "Dornröschen"
+  ],
   "movements": [],
   "instruments": [
-   "piano",
-   "voice",
-   "saxophone"
+   "piano"
   ],
   "occupations": [
-   "singer"
+   "composer",
+   "conductor",
+   "musicologist",
+   "librettist",
+   "music critic",
+   "music teacher",
+   "writer",
+   "docent"
   ],
   "awards": [
-   "star on Hollywood Walk of Fame"
+   "Mendelssohn Award"
   ],
-  "employers": [],
+  "employers": [
+   "Frankfurt University of Music and Performing Arts",
+   "Conservatori Superior de Música del Liceu",
+   "Hoch Conservatory"
+  ],
   "genres": [
-   "easy listening"
+   "opera"
   ],
   "extraYears": []
  },
  {
   "composerId": "16",
-  "wikidataId": "Q102124394",
-  "teachers": [],
+  "wikidataId": "Q294568",
+  "birthPlace": "Czernica",
+  "deathPlace": "Katowice",
+  "teachers": [
+   "Bolesław Szabelski"
+  ],
   "students": [],
-  "notableWorks": [],
-  "movements": [],
+  "notableWorks": [
+   "Symphony No. 3",
+   "Symphony No. 4"
+  ],
+  "movements": [
+   "minimalist music",
+   "modernism"
+  ],
   "instruments": [],
-  "occupations": [],
-  "awards": [],
-  "employers": [],
-  "genres": [],
+  "occupations": [
+   "classical composer",
+   "pedagogue",
+   "musicologist",
+   "musician",
+   "composer",
+   "university teacher"
+  ],
+  "awards": [
+   "Order of the White Eagle",
+   "Golden Medal for Merit to Culture",
+   "Knight Grand Cross of the Order of St. Gregory the Great",
+   "Commander with Star of the Order of Polonia Restituta",
+   "honorary doctor of the Jagiellonian University of Krakow",
+   "Herder Prize",
+   "honorary doctorate from the Catholic University of Lublin",
+   "Order Ecce Homo"
+  ],
+  "employers": [
+   "Academy of Music in Katowice"
+  ],
+  "genres": [
+   "minimalist music"
+  ],
   "extraYears": []
  },
  {

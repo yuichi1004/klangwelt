@@ -1,0 +1,26 @@
+{
+  "biography": {
+    "ja": "ニューヨークに生まれ、ナディア・ブーランジェに師事した。驚異的な長寿を保ち、100歳を超えてなお新作を発表し続けたことで知られる。同じくブーランジェに師事したコープランドが平明で親しみやすいアメリカ的な作風を選んだのとは対照的に、生涯を通じて年々複雑さを増す語法を追求し続けた。",
+    "en": "Born in New York City, he studied under Nadia Boulanger. He is known for a remarkable longevity, continuing to produce new works past the age of one hundred. Where his fellow Boulanger pupil Copland chose a clear, accessible American style, he pursued an idiom that grew steadily more complex throughout his long career."
+  },
+  "style": {
+    "ja": "複数の声部がそれぞれ独自のテンポやリズム構造を保ちながら同時進行する高度な技法を発展させ、演奏中に段階的にテンポそのものが変化していく独自の手法を確立した。弦楽四重奏という編成を特に重視し、各声部に強い個性を与えて対話させる室内楽的な緊密さを追求した。",
+    "en": "He developed a sophisticated technique in which multiple voices proceed simultaneously, each maintaining its own tempo and rhythmic structure, and established a distinctive method by which the tempo itself gradually shifts over the course of a performance. He placed particular emphasis on the string quartet, giving each voice a strong individual character in a tightly woven chamber-music dialogue."
+  },
+  "impact": {
+    "ja": "その独自のテンポ変化の技法は「メトリック・モジュレーション」と呼ばれ、20世紀後半のリズム語法に大きな影響を与えた。ブーランジェの門下からコープランドのような平明な作風とは正反対の極限的な複雑さを追求する作曲家が育ったという事実は、一人の教師がいかに多様な弟子を輩出しうるかを示す好例としてしばしば引き合いに出される。",
+    "en": "His distinctive technique for shifting tempo became known as \"metric modulation\" and had a major influence on rhythmic language in the later twentieth century. The fact that a composer pursuing such extreme complexity, the polar opposite of Copland's clarity, emerged from the same teacher's studio is often cited as a striking example of how differently a single teacher's pupils can develop."
+  },
+  "keywords": {
+    "ja": [
+      "100歳を超えて作曲を続けた長寿",
+      "メトリック・モジュレーションの確立",
+      "コープランドと対照的なブーランジェ門下"
+    ],
+    "en": [
+      "Composed past the age of a hundred",
+      "Founder of metric modulation",
+      "Boulanger pupil opposite of Copland"
+    ]
+  }
+}
