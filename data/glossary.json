@@ -1,0 +1,137 @@
+{
+  "_comment": "専門用語 Tips のデータ。キーは安定した ASCII の id。term は見出し語、short は本文中のポップアップに出す語義（日英とも1〜2文、詳細な説明はしない）、match は本文中で探す実際の表記（活用形・言い換えを含めてよい）。省略時は term を使う。See CONTRIBUTING.md.",
+  "counterpoint": {
+    "term": { "ja": "対位法", "en": "Counterpoint" },
+    "short": {
+      "ja": "複数の独立した旋律を同時に響かせて曲を組み立てる書き方。",
+      "en": "Writing several independent melodies at once so they combine into one piece."
+    },
+    "match": { "ja": ["対位法"], "en": ["counterpoint", "contrapuntal"] }
+  },
+  "concerto": {
+    "term": { "ja": "協奏曲", "en": "Concerto" },
+    "short": {
+      "ja": "独奏楽器（または少人数の楽器群）とオーケストラが掛け合う形式の曲。",
+      "en": "A piece for one or a few soloists playing against a full orchestra."
+    },
+    "match": { "ja": ["協奏曲"], "en": ["concerto", "concertos", "concerti"] }
+  },
+  "orchestration": {
+    "term": { "ja": "管弦楽法", "en": "Orchestration" },
+    "short": {
+      "ja": "曲のどの部分をどの楽器に割り当てるか、音色をどう組み合わせるかという技術。",
+      "en": "The craft of deciding which instruments play which parts, and how their colours combine."
+    },
+    "match": { "ja": ["管弦楽法"], "en": ["orchestration"] }
+  },
+  "tonality": {
+    "term": { "ja": "調性", "en": "Tonality" },
+    "short": {
+      "ja": "特定の音（主音）を中心にして、曲全体の響きが安定して感じられる仕組み。",
+      "en": "The sense that a piece is centred on one home note, giving it a stable, settled feeling."
+    },
+    "match": { "ja": ["調性"], "en": ["tonality", "tonal"] }
+  },
+  "chromatic": {
+    "term": { "ja": "半音階", "en": "Chromatic scale" },
+    "short": {
+      "ja": "1オクターブを12の半音すべてで埋め尽くす音階。鋭く不安定な響きになりやすい。",
+      "en": "A scale using all twelve semitones in an octave, often giving a sharp, unsettled sound."
+    },
+    "match": { "ja": ["半音階"], "en": ["chromatic"] }
+  },
+  "quartet": {
+    "term": { "ja": "四重奏", "en": "Quartet" },
+    "short": {
+      "ja": "4人の奏者による演奏形態。弦楽四重奏（ヴァイオリン2・ヴィオラ・チェロ）が代表例。",
+      "en": "Music for four players — the string quartet (two violins, viola, cello) is the classic example."
+    },
+    "match": { "ja": ["四重奏"], "en": ["quartet", "quartets"] }
+  },
+  "impressionism": {
+    "term": { "ja": "印象主義", "en": "Impressionism" },
+    "short": {
+      "ja": "輪郭のはっきりした旋律よりも、移ろう響きや色彩の印象を重視する作風。",
+      "en": "A style that favours shifting colour and atmosphere over sharply defined melody."
+    },
+    "match": {
+      "ja": ["印象主義"],
+      "en": ["impressionism", "impressionist", "impressionistic"]
+    }
+  },
+  "chamber-music": {
+    "term": { "ja": "室内楽", "en": "Chamber music" },
+    "short": {
+      "ja": "大きなホールでの合奏ではなく、少人数の奏者が一人一パートを受け持つ演奏形態。",
+      "en": "Music for a small group where each player has their own individual part, unlike a full orchestra."
+    },
+    "match": { "ja": ["室内楽"], "en": ["chamber music"] }
+  },
+  "atonal": {
+    "term": { "ja": "無調", "en": "Atonality" },
+    "short": {
+      "ja": "特定の主音を中心とした調性を持たない音楽。",
+      "en": "Music with no home key or central note to settle around."
+    },
+    "match": { "ja": ["無調"], "en": ["atonal", "atonality"] }
+  },
+  "twelve-tone": {
+    "term": { "ja": "十二音技法", "en": "Twelve-tone technique" },
+    "short": {
+      "ja": "1オクターブの12音すべてを平等に扱い、決まった順序（音列）に基づいて曲を組み立てる技法。",
+      "en": "A technique that treats all twelve notes of the octave as equals, building the piece from a fixed ordering of them."
+    },
+    "match": { "ja": ["十二音技法", "十二音"], "en": ["twelve-tone", "twelve tone"] }
+  },
+  "serialism": {
+    "term": { "ja": "セリー", "en": "Serialism" },
+    "short": {
+      "ja": "十二音技法をさらに発展させ、音の高さだけでなくリズムや強弱にも決まった順序を適用する作曲技法。",
+      "en": "An extension of the twelve-tone method that applies a fixed ordering not just to pitch but also to rhythm and dynamics."
+    },
+    "match": {
+      "ja": ["セリー音楽", "セリー主義", "セリー"],
+      "en": ["serialism", "serial"]
+    }
+  },
+  "sonata-form": {
+    "term": { "ja": "ソナタ形式", "en": "Sonata form" },
+    "short": {
+      "ja": "提示・展開・再現という3つの段階で主題を扱う楽曲構成。交響曲やソナタの第1楽章によく使われる。",
+      "en": "A structure that presents themes, develops them, then brings them back — common in the first movement of symphonies and sonatas."
+    },
+    "match": { "ja": ["ソナタ形式"], "en": ["sonata form", "sonata-form"] }
+  },
+  "sonata": {
+    "term": { "ja": "ソナタ", "en": "Sonata" },
+    "short": {
+      "ja": "独奏楽器（または独奏楽器とピアノ）のための、複数の楽章からなる器楽曲。",
+      "en": "An instrumental piece in several movements, usually for one soloist or a soloist with piano."
+    },
+    "match": { "ja": ["ソナタ"], "en": ["sonata", "sonatas"] }
+  },
+  "mode": {
+    "term": { "ja": "旋法", "en": "Mode" },
+    "short": {
+      "ja": "長調・短調が定着する以前から使われてきた、音階の枠組み。教会旋法などがある。",
+      "en": "A scale framework older than major/minor keys, such as the church modes."
+    },
+    "match": { "ja": ["教会旋法", "旋法"], "en": ["modes", "modal", "mode"] }
+  },
+  "rondo": {
+    "term": { "ja": "ロンド", "en": "Rondo" },
+    "short": {
+      "ja": "同じ主題が何度も戻ってくる合間に、別の部分をはさんでいく楽曲形式。",
+      "en": "A form where a main theme keeps returning between contrasting sections."
+    },
+    "match": { "ja": ["ロンド"], "en": ["rondo", "rondos"] }
+  },
+  "nationalism": {
+    "term": { "ja": "国民楽派", "en": "Nationalist school" },
+    "short": {
+      "ja": "自国の民謡や伝説を素材に、国民的な音楽語法を打ち立てようとした19世紀後半の潮流。",
+      "en": "A late-19th-century movement that drew on national folk tunes and legends to forge a distinct musical voice."
+    },
+    "match": { "ja": ["国民楽派"], "en": ["nationalism", "nationalist"] }
+  }
+}

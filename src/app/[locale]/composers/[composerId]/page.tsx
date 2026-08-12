@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { ComposerAllWorks } from "@/components/composer-all-works";
 import { ComposerFlag } from "@/components/composer-flag";
 import { ComposerPortrait } from "@/components/composer-portrait";
+import { GlossaryText } from "@/components/glossary-text";
 import { StarRating } from "@/components/star-rating";
 import { WorkCard } from "@/components/work-card";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
@@ -17,6 +18,7 @@ import {
 import { COUNTRY_LABELS } from "@/lib/countries";
 import { getComposerEditorial } from "@/lib/editorial";
 import { EPOCH_LABELS, EPOCH_YEARS } from "@/lib/epochs";
+import { createAnnotator, glossary } from "@/lib/glossary";
 
 export function generateStaticParams() {
   return LOCALES.flatMap((locale) =>
@@ -59,6 +61,11 @@ export default async function ComposerPage(
   const editorial = getComposerEditorial(composerId);
   const credit = getPortraitCredit(composerId);
   const coreWorks = getCoreWorksByComposer(composerId);
+  // One annotator for the whole page, called in the order the reader
+  // actually encounters each block (style, then biography, impact, story)
+  // so a term already underlined once does not repeat further down the
+  // page. See `createAnnotator` in `src/lib/glossary.ts`.
+  const annotate = createAnnotator(glossary, locale);
   // `coreWorks` is already sorted by 定番度 score (see build-catalog.ts), so
   // the first few are the highest-rated works with no extra work here.
   const startHereWorks = coreWorks.slice(0, 3);
@@ -171,7 +178,11 @@ export default async function ComposerPage(
           )}
           {editorial.style && (
             <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-              {editorial.style[locale]}
+              <GlossaryText
+                locale={locale}
+                glossary={glossary}
+                segments={annotate(editorial.style[locale])}
+              />
             </p>
           )}
           {startHereWorks.length > 0 && (
@@ -201,7 +212,11 @@ export default async function ComposerPage(
                 {messages.composer.biographyHeading}
               </h2>
               <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                {editorial.biography[locale]}
+                <GlossaryText
+                  locale={locale}
+                  glossary={glossary}
+                  segments={annotate(editorial.biography[locale])}
+                />
               </p>
             </section>
           )}
@@ -212,7 +227,11 @@ export default async function ComposerPage(
                 {messages.composer.impactHeading}
               </h2>
               <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                {editorial.impact[locale]}
+                <GlossaryText
+                  locale={locale}
+                  glossary={glossary}
+                  segments={annotate(editorial.impact[locale])}
+                />
               </p>
             </section>
           )}
@@ -223,7 +242,11 @@ export default async function ComposerPage(
                 {messages.composer.storyHeading}
               </h2>
               <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                {editorial.story[locale]}
+                <GlossaryText
+                  locale={locale}
+                  glossary={glossary}
+                  segments={annotate(editorial.story[locale])}
+                />
               </p>
             </section>
           )}
