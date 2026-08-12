@@ -76,6 +76,8 @@ Vercel にリポジトリを接続するだけでよい。Next.js が自動検�
 | Image Optimization | 0（`images.unoptimized`、肖像画は自前ホスト） |
 | 実行時の外部 API | なし |
 
+[Vercel Web Analytics](https://vercel.com/docs/analytics) を有効化している。`@vercel/analytics/next` の `<Analytics />` をルートレイアウト（`src/app/[locale]/layout.tsx`）に置くだけの構成で、サーバーレス関数は使わない。訪問データは Vercel ダッシュボードの Analytics タブで確認できる。
+
 ## ライセンスと出典
 
 - **楽曲・作曲家メタデータ**: [Open Opus](https://openopus.org/) — CC0 1.0（パブリックドメイン）。同プロジェクトの PHP 実装は GPLv3 だが、本プロジェクトはコードを一切利用していないため GPL は及ばない。
