@@ -135,7 +135,7 @@
     "title": "Otello",
     "composer": "Giuseppe Verdi",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "2748": {
     "title": "The Lark Ascending: Romance for Violin and Orchestra",
@@ -267,7 +267,7 @@
     "title": "Piano Concerto in G",
     "composer": "Maurice Ravel",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "5112": {
     "title": "La valse",
@@ -297,7 +297,7 @@
     "title": "Water Music Suite no. 1 in F major, HWV.348",
     "composer": "George Frideric Handel",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "6431": {
     "title": "Music for the Royal Fireworks in D major, HWV.351",
@@ -459,7 +459,7 @@
     "title": "Symphony no. 4 in E minor, op. 98",
     "composer": "Johannes Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7744": {
     "title": "Symphony no. 1 in C minor, op. 68",
@@ -501,7 +501,7 @@
     "title": "Brandenburg Concerto no. 3 in G major, BWV.1048",
     "composer": "Johann Sebastian Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "9781": {
     "title": "Well-tempered Clavier, Book 1, BWV.846-869",
@@ -591,7 +591,7 @@
     "title": "La Mer, L.109",
     "composer": "Claude Debussy",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "13876": {
     "title": "Stabat mater, for soprano, alto, and strings",
@@ -705,7 +705,7 @@
     "title": "Siegfried, WWV 86c",
     "composer": "Richard Wagner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15735": {
     "title": "Die Walküre, WWV 86b",
@@ -729,7 +729,7 @@
     "title": "Götterdämmerung, WWV 86d",
     "composer": "Richard Wagner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15863": {
     "title": "Concerto Grosso in G minor, op. 6, no. 8, \"Christmas Concerto\"",
@@ -753,7 +753,7 @@
     "title": "Symphony no. 3 in E flat major, op. 55, \"Eroica\"",
     "composer": "Ludwig van Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16218": {
     "title": "Piano Concerto no. 5 in E flat major, op. 73, \"Emperor\"",
@@ -831,7 +831,7 @@
     "title": "Madama Butterfly",
     "composer": "Giacomo Puccini",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16609": {
     "title": "Violin Concerto in E minor, op. 64",
@@ -1281,7 +1281,7 @@
     "title": "Symphony no. 41 in C major, K.551, \"Jupiter\"",
     "composer": "Wolfgang Amadeus Mozart",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23512": {
     "title": "Piano Sonata no. 11 in A major, K.331, \"Alla turca\"",
@@ -1401,7 +1401,7 @@
     "title": "String Quartet in C major, Hob.III:77, op. 76, no. 3, \"Emperor\"",
     "composer": "Franz Joseph Haydn",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "26120": {
     "title": "Symphony no. 104 in D, Hob.I:104, \"London\"",
