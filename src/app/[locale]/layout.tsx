@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Inter, Lora } from "next/font/google";
 import { notFound } from "next/navigation";
@@ -83,6 +84,7 @@ export default async function LocaleLayout(props: LayoutProps<"/[locale]">) {
           <main className="flex-1">{props.children}</main>
           <SiteFooter locale={locale as Locale} />
         </FavoritesProvider>
+        <Analytics />
       </body>
     </html>
   );
