@@ -1104,5 +1104,125 @@
       "ja": "1894年の夏、ニューヨークでの音楽院での職務を一時離れ、故郷ボヘミアの避暑地ヴィソカーに滞在していた際に着想を得て作曲された。多くの主題は、アメリカ滞在中にスケッチ帳へ書き留めていた旋律の断片をもとにしている。\n「汽車の中で書いた」という俗説が広まっているが、これは後世の作り話とされる。曲集は同年秋、出版社ジムロックからただちに出版された。",
       "en": "He conceived and wrote it in the summer of 1894, during a break from his post in New York, while staying at his favourite retreat of Vysoká in his native Bohemia. Many of the themes draw on melodic fragments he had jotted in sketchbooks during his American years.\nA popular story that he wrote it on a train is generally regarded as later invention. The set was published by Simrock that same autumn."
     }
+  },
+  "23669": {
+    "structure": {
+      "ja": "全2幕の歌劇で、台本上の分類は「愉快な劇」だが、放蕩者ドン・ジョヴァンニが最後に石像に地獄へ引きずり込まれるという筋書きから、喜劇と悲劇が入り混じる独特の性格を持つ。\n序曲は騎士長の死を予告する重々しい和音で始まり、そこから一転して快活な主部に入る。この重々しい和音は終幕、石像がドン・ジョヴァンニを裁く場面で再び回帰し、全曲に円環的な構造を与えている。",
+      "en": "An opera in two acts, labelled in the score a \"dramma giocoso\" (\"cheerful drama\"), though its ending — the libertine Don Giovanni dragged to hell by a stone statue — gives it an unusual mix of comedy and tragedy.\nThe overture opens with the same weighty chords that foretell the Commendatore's death, before turning to a bright main section. Those chords return in the final scene, when the statue comes to judge Don Giovanni, giving the whole opera a circular shape."
+    },
+    "story": {
+      "ja": "モーツァルトがプラハを再訪した際、現地の劇場からの依頼で作曲された。台本作家ダ・ポンテは、同じ年にヴェネツィアで上演されたばかりのベルターティの台本を下敷きにしている。\n作曲は初演直前まで続けられ、序曲は初演のわずか数日前に書き上げられたと伝えられる。初演は1787年10月29日、プラハの旧市街にある劇場でおこなわれ、モーツァルト自身が指揮を執った。当地の批評家は「通人も音楽家も、プラハはこれほどのものを聴いたことがないと語っている」と絶賛している。",
+      "en": "It was commissioned during Mozart's return visit to Prague, for the theatre there. The librettist Da Ponte drew on Giovanni Bertati's libretto for an opera on the same subject, staged in Venice only months earlier that same year.\nComposition continued right up to the premiere, and the overture is said to have been finished only days beforehand. It premiered on 29 October 1787 at the theatre in Prague's Old Town, with Mozart himself conducting. A local critic wrote that connoisseurs and musicians alike said Prague had never heard anything like it."
+    }
+  },
+  "7645": {
+    "structure": {
+      "ja": "独唱・合唱と管弦楽のための全7楽章の宗教曲。伝統的なラテン語の死者のためのミサ曲とは異なり、ブラームス自身がルター訳聖書から選んだドイツ語の聖句によって構成されている。\n死者の魂の救済を祈るのではなく、残された生者を慰めることに主眼が置かれた内容で、「悲しみに沈む者は幸いである、彼らは慰められるであろう」という言葉で全曲が始まる。",
+      "en": "A sacred work in seven movements for soloists, chorus and orchestra. Unlike the traditional Latin Mass for the dead, the text is drawn entirely from the German Lutheran Bible, selected by Brahms himself.\nRather than pleading for the souls of the departed, it is addressed to the comfort of the living left behind: the opening movement sets the beatitude promising consolation to those who grieve."
+    },
+    "story": {
+      "ja": "着想は1854年ごろまで遡る可能性があるが、本格的に取り組まれるようになったのは1865年、母を亡くしたことがきっかけだったとされる。同じ年に完成した2つの楽章をクララ・シューマンに送っている。\n最初の3楽章による部分初演は1867年12月1日、ウィーンでおこなわれたが、この時は不評だった。6楽章版による本格的な初演は翌1868年、聖金曜日にあたる4月10日、ブレーメン大聖堂でおこなわれ、大きな成功を収めて即座に再演が組まれている。ソプラノ独唱を伴う第5楽章はその後書き加えられ、全7楽章の最終稿による初演は1869年2月18日、ライプツィヒでおこなわれた。",
+      "en": "The idea may date back to around 1854, but he began to work on it in earnest in 1865, after the death of his mother, and sent Clara Schumann two completed movements that same year.\nA partial premiere of the first three movements took place in Vienna on 1 December 1867, and was poorly received. A fuller premiere of six movements followed on Good Friday, 10 April 1868, at Bremen Cathedral, to great success, with a repeat performance arranged almost immediately. The fifth movement, with its soprano solo, was added afterward, and the complete seven-movement work premiered in Leipzig on 18 February 1869."
+    }
+  },
+  "9848": {
+    "structure": {
+      "ja": "独唱・二重合唱・二群の管弦楽のための大規模な受難曲で、マタイによる福音書の記述に基づき、キリストの受難の物語を福音史家の語りとコラール(讃美歌)、アリアを織り交ぜて描く。\n二群の合唱と管弦楽を左右に配置する複合唱様式が用いられており、対話や呼び交わしの効果を生み出している。冒頭合唱では、一方の合唱が問いかけ、もう一方が答えるという構成がとられる。",
+      "en": "A large-scale setting of Christ's Passion for soloists, double chorus and double orchestra, following the Gospel of Matthew and interweaving the Evangelist's narration with chorales and arias.\nIt uses a double-choir, double-orchestra layout, the two groups placed apart to create dialogue and antiphonal effects — the opening chorus, for instance, has one choir asking questions the other answers."
+    },
+    "story": {
+      "ja": "聖金曜日の礼拝のためにライプツィヒで作曲され、1727年ごろに初演されたとみられる。バッハの死後、この曲を含む大半の作品は急速に忘れ去られ、以後1世紀近くにわたりごく一部の専門家を除いて知られない存在となっていた。\n再発見のきっかけを作ったのは作曲家メンデルスゾーンである。祖母から14歳のころにこの曲の総譜を贈られていた彼は、1829年3月11日、初演からちょうど102年後に、自ら短縮編曲した版でベルリン・ジングアカデミーにおいて演奏会形式の上演を指揮した。この上演がバッハ音楽の再評価、ひいては西洋音楽史における「バッハ復興」の出発点になったとされる。",
+      "en": "It was composed for the Good Friday liturgy in Leipzig and is generally dated to around 1727. After Bach's death, this work, like most of his output, was quickly forgotten and remained essentially unknown outside a small circle of specialists for close to a century.\nIts rediscovery is credited to Felix Mendelssohn, who had been given a copy of the full score by his grandmother at around age fourteen. On 11 March 1829 — a hundred and two years, almost to the day, after the premiere — he conducted a concert performance of his own abridged version at the Berlin Singakademie, an event generally regarded as the starting point of the wider Bach revival."
+    }
+  },
+  "21429": {
+    "structure": {
+      "ja": "弦楽四重奏にヴィオラではなく第2チェロを加えるという、当時としては異例の編成による五重奏曲、全4楽章。低音域の楽器を2つ持つことで生まれる深みのある響きが全曲の性格を決定づけている。\n第2楽章は静かに始まるが、中間部で激しい嵐のような場面に転じ、再び静寂へ戻るという劇的な起伏を持つ。演奏時間はおよそ50分と、当時の室内楽としては大規模な部類に入る。",
+      "en": "A quintet in four movements, unusually scored with a second cello rather than the more customary second viola — the extra low-register instrument shapes the whole work's rich, dark sonority.\nThe second movement opens in stillness, turns to a violent, storm-like middle section, and settles back into calm — a dramatic arc within a single movement. At around fifty minutes, it is large in scale for chamber music of its time."
+    },
+    "story": {
+      "ja": "1828年、彼が世を去る2か月前に完成した最後の室内楽作品である。同年10月2日付、出版社プロープストへの手紙のなかで、この曲を仕上げ、直近に初めて試演したと報告している。\nプロープストはこの大規模な作品の出版を見送っており、実際に出版されたのは1853年、初の公開演奏はさらに早い1850年になってからのことだった。今日では室内楽の最高傑作のひとつとして広く評価されている。",
+      "en": "It was completed in 1828, two months before he died, and was his last chamber work. In a letter to the publisher Probst dated 2 October that year, he reported having just finished it and given it an initial play-through.\nProbst declined to publish such a large-scale work; it did not actually appear in print until 1853, and its first public performance came slightly earlier, in 1850. It is now widely regarded as among the greatest of all chamber works."
+    }
+  },
+  "20959": {
+    "structure": {
+      "ja": "全4楽章の弦楽四重奏曲。第2楽章は、彼自身が1817年に作曲した歌曲「死と乙女」の伴奏部分の旋律を主題とする変奏曲で、この曲全体の愛称の由来になっている。\n原曲の歌曲では、死神が恐れおののく乙女に優しく語りかけ、眠りに誘う場面が描かれる。四重奏曲全体を通じて短調が支配的で、当時の作曲者自身の健康不安を映し出しているとしばしば解釈される。",
+      "en": "A string quartet in four movements. The second is a set of variations on the accompaniment melody from his own 1817 song \"Der Tod und das Mädchen\" (\"Death and the Maiden\"), which gives the whole quartet its nickname.\nIn the original song, Death speaks gently to a terrified young woman, coaxing her toward sleep. Minor-key writing dominates the quartet throughout, often read as a reflection of his own failing health at the time."
+    },
+    "story": {
+      "ja": "1824年、健康状態への不安が続いていた時期に作曲された。前年の1823年末ごろに患ったとみられる病の影響で、この時期の彼の作品にはしばしば死を意識した性格が指摘される。\n初演は1826年1月29日、ウィーンのハッカー家でおこなわれた私的な演奏会でのことだった。出版は彼の死後、1831年になってからである。",
+      "en": "He composed it in 1824, during a period of ongoing anxiety about his health, following an illness late the previous year that has often been read into the quartet's minor-key character throughout.\nIt was first performed on 29 January 1826, at a private gathering at the home of the Hacker family in Vienna. It was not published until 1831, after his death."
+    }
+  },
+  "7651": {
+    "structure": {
+      "ja": "単一楽章の演奏会用序曲。学生たちが酒場で歌っていた俗謡を4曲引用し、金管や弦楽器など楽器を替えながら次々に提示していく、パッチワーク的な構成をとる。\n最後は全楽器が「もろびとこぞりて歌え」を意味する学生歌「ガウデアムス・イギトゥル」を高らかに演奏して締めくくられる。",
+      "en": "A single-movement concert overture built as a patchwork of four student drinking songs, each handed to a different instrumental group in turn — brass, then strings, and so on.\nIt closes with the whole orchestra blazing out \"Gaudeamus igitur,\" the student anthem urging everyone present to rejoice together."
+    },
+    "story": {
+      "ja": "1879年、ブレスラウ大学から名誉博士号を授与されたブラームスは、当初は簡単な礼状を送るだけで済ませようとしていた。しかし学位を推薦した指揮者ベルンハルト・ショルツから、儀礼にふさわしい正式な謝意を示すべきだと説得され、この序曲を書くことになった。\n1880年に作曲され、翌1881年1月4日に初演された。荘重な作品を期待していた大学関係者に対し、ブラームスは学生たちが実際に歌う俗謡を寄せ集めた「陽気な俗謡のポプリ」を提出する形で応じている。",
+      "en": "In 1879, Brahms was awarded an honorary doctorate by the University of Breslau, and initially planned to acknowledge it with nothing more than a simple note of thanks. The conductor Bernhard Scholz, who had proposed him for the degree, persuaded him that proper etiquette called for a grander gesture, and this overture was the result.\nHe composed it in 1880, and it premiered on 4 January 1881. Where the university might have expected something solemn, Brahms instead handed them what he called a \"rollicking potpourri\" of the songs students actually sang."
+    }
+  },
+  "16124": {
+    "structure": {
+      "ja": "全4楽章。第2楽章「アレグレット」は、同じ付点リズムの音型が執拗に反復されながら次第に楽器を増やしていく行進曲風の楽章で、初演時から単独でアンコールされるほどの人気を博した。\n全曲を通じてリズムの推進力そのものが主役となっており、当時「舞踏の神格化」と評されたと伝えられる性格描写がしばしば引用される。",
+      "en": "Four movements. The second, an Allegretto, is a march-like movement built on the obsessive repetition of a single dotted rhythm, gradually adding instruments — popular enough at the premiere to be encored on the spot.\nRhythmic drive is the real subject of the whole symphony; it has often been characterised, in a phrase traced to his circle, as \"the apotheosis of the dance.\""
+    },
+    "story": {
+      "ja": "1811年から1812年にかけて、療養のため滞在していたボヘミアの温泉地テプリツェで作曲された。フリース伯爵に献呈されている。\n初演は1813年12月8日、ウィーンでベートーヴェン自身の指揮によりおこなわれた。この演奏会はナポレオン軍との戦いで負傷した兵士たちのための慈善演奏会で、同じ日には戦勝を描いた「ウェリントンの勝利」も演奏された。第2楽章が聴衆の要望で即座にアンコールされるなど大成功を収め、ベートーヴェン自身のキャリアのなかでも特に評判の良かった演奏会のひとつとなった。",
+      "en": "It was composed between 1811 and 1812 at the Bohemian spa town of Teplitz, where he had gone to recuperate. It is dedicated to Count Moritz von Fries.\nIt premiered on 8 December 1813 in Vienna, with Beethoven himself conducting, at a charity concert for soldiers wounded fighting Napoleon's forces — the same programme that featured his battle piece Wellington's Victory. The second movement was encored on the spot, and the concert was one of the most successful of his career."
+    }
+  },
+  "23629": {
+    "structure": {
+      "ja": "全3楽章。もともとバセットクラリネットという、通常のクラリネットより低音域が拡張された特殊な楽器のために書かれたが、この楽器はまもなく廃れ、出版譜は通常のクラリネット用に書き改められた形で世に出た。\n第2楽章アダージョは息の長い旋律線で知られ、映画音楽としても頻繁に引用される、澄んだ叙情性を持つ楽章である。",
+      "en": "Three movements. It was written for the basset clarinet, an instrument with an extended lower range that fell out of use soon afterward; the published score rewrote the solo part for the ordinary clarinet instead.\nThe second-movement Adagio, prized for its long, unbroken melodic line, is a clear, lyrical movement often borrowed for film scores."
+    },
+    "story": {
+      "ja": "1791年9月末から10月初めにかけて、ウィーンで作曲された。友人でクラリネット奏者のアントン・シュタードラーのために書かれ、彼のために特別に製作された、通常より低い音域まで伸びるバセットクラリネットを想定した独奏パートになっている。\n初演は同年10月16日、プラハでシュタードラーの独奏によりおこなわれた。モーツァルトが完成させた最後から2番目の作品であり、同年12月5日の死を思うと、彼が書き上げた器楽曲としては最後の作品にあたる。",
+      "en": "It was composed in Vienna between late September and early October 1791, written for his friend, the clarinettist Anton Stadler, and its solo part is written for the basset clarinet — an instrument specially built for Stadler with an extended lower range.\nIt premiered on 16 October that year in Prague, with Stadler as soloist. It was the second-to-last work Mozart ever completed, and — given his death on 5 December that year — the last instrumental work he finished."
+    }
+  },
+  "7600": {
+    "structure": {
+      "ja": "全4幕のバレエ音楽。魔法によって白鳥に姿を変えられた王女オデットと、彼女に恋する王子ジークフリートの悲恋を描く。作曲者自身の姪や甥のために即興で書いた家庭内の余興が発想の一部になったとも伝えられる。\n「白鳥のテーマ」と呼ばれる旋律が全曲を通じて繰り返し形を変えて現れ、劇の進行と結びつきながら物語を導く。この旋律を中心に、ワルツや性格舞踊など多様な様式の音楽が全4幕に配される。",
+      "en": "A ballet in four acts, telling the tragic love story of Odette, a princess transformed into a swan by a sorcerer's curse, and Prince Siegfried, who falls in love with her. Part of the idea is said to trace back to music Tchaikovsky improvised at home for his nieces and nephews.\nThe recurring \"Swan Theme\" returns throughout in different guises, tied to the unfolding drama, and the four acts otherwise range across waltzes and character dances built around it."
+    },
+    "story": {
+      "ja": "1875年、モスクワ帝室劇場支配人ベギチェフの依頼で作曲が始まった。台本はベギチェフとゲリツェルによるもので、ドイツやロシアの民間伝承に見られる、白鳥に姿を変えられた乙女の物語を下敷きにしている。\nバレエ音楽をそれまで軽んじられがちだったジャンルとして真剣に取り組み、1876年4月22日に総譜を完成させた。初演は1877年3月4日、モスクワのボリショイ劇場でおこなわれたが、振付・演奏・音楽いずれも酷評され、当時は失敗と受け止められた。この作品が広く評価されるようになったのは、作曲者の死後、1895年の新しい振付による再演を経てからのことである。",
+      "en": "Composition began in 1875, commissioned by Vladimir Begichev, director of the Moscow Imperial Theatres. The libretto, by Begichev and Geltser, draws on German and Russian folklore about a maiden transformed into a swan.\nTchaikovsky took ballet music seriously at a time when the genre was often looked down on, and finished the score on 22 April 1876. It premiered on 4 March 1877 at Moscow's Bolshoi Theatre, but the choreography, playing and music were all harshly criticised, and the ballet was judged a failure at the time. It only won its lasting reputation after his death, following a new production with revised choreography in 1895."
+    }
+  },
+  "9781": {
+    "structure": {
+      "ja": "前奏曲とフーガの組を、ハ長調から始めて半音ずつ上昇しながら長調・短調を交互に配し、全24の調を一巡する形で24組収めた曲集。当時はまだ一般的でなかった、すべての調を実用的に使いこなせることを示す狙いがあったとされる。\n各組は自由な性格を持つ前奏曲と、主題を各声部が模倣しながら展開する厳格なフーガという対照的な2曲で構成される。",
+      "en": "Twenty-four pairs of prelude and fugue, one in each major and minor key, moving chromatically upward from C major and alternating major and minor until all twenty-four keys have been covered — intended, in part, to demonstrate that every key could be used in practice, still a fairly new idea at the time.\nEach pair contrasts a freely composed prelude with a strict fugue, in which a single subject is developed through imitation across the voices."
+    },
+    "story": {
+      "ja": "バッハがケーテンの宮廷楽長を務めていた時期、1722年に完成した。自筆譜の表題には「音楽を学ぼうとする若者の利益と使用のため、またすでにこの分野に習熟した者の暇つぶしのため」という趣旨の言葉が記されている。\n鍵盤楽器の学習教材としての性格を持ちながら、後世には作曲・演奏の両面で規範とされる存在になり、のちに書かれた第2巻(1742年ごろ完成)とあわせて「音楽の旧約聖書」と呼ばれることもある。",
+      "en": "Bach completed it in 1722, while serving as court composer at Köthen. The autograph title page describes it as being for the profit and use of young musicians eager to learn, and for the enjoyment of those already skilled in the art.\nConceived as keyboard teaching material, it went on to become a model for both composition and performance, and, together with the second book he completed around 1742, is sometimes called the \"Old Testament\" of music."
+    }
+  },
+  "17180": {
+    "structure": {
+      "ja": "単一楽章のピアノ独奏曲。バラードという言葉が示すとおり物語的な性格を持つが、特定の筋書きを音で逐一なぞるのではなく、緩やかな序奏から次第に劇的な高揚を経て、荒々しいコーダへ至る音楽的な展開によって「物語性」を表現している。\nショパン自身がこの器楽形式に「バラード」という題名を用いた最初の例とされ、以後3曲の続編が書かれている。",
+      "en": "A single-movement piano piece. True to the term \"ballade,\" it carries a narrative character, though not by tracking any specific plot beat by beat — the sense of story comes instead from the music's own arc, from a slow introduction through mounting drama to a turbulent coda.\nIt is generally regarded as the first time Chopin applied the title \"ballade\" to an instrumental piece, a form he returned to three more times."
+    },
+    "story": {
+      "ja": "着想は1831年、ウィーン滞在中に書き留められたスケッチにまで遡るとされ、パリに移った後の1835年に完成した。ハノーファー公使ストックハウゼン男爵に献呈されている。\nロベルト・シューマンをはじめとする同時代人は、この一連のバラードが同郷の詩人ミツキェヴィチの詩と結びついているのではないかと推測したが、ショパン自身がそう明言した記録はない。ショパンとミツキェヴィチはともにパリで暮らす亡命ポーランド人として面識があり、特に叙事詩「コンラート・ヴァレンロッド」との関連がしばしば指摘されるが、この曲が特定の詩的情景を音で描写しているわけではないとされる。",
+      "en": "The idea is thought to trace back to sketches made in 1831 during his stay in Vienna, and the piece was completed in 1835, after his move to Paris. It is dedicated to Baron Stockhausen, the Hanoverian ambassador to France.\nContemporaries including Robert Schumann speculated that the four ballades were connected to the poetry of his compatriot Adam Mickiewicz, though Chopin himself never confirmed any such link. The two knew each other as fellow Polish exiles in Paris, and a connection to Mickiewicz's narrative poem Konrad Wallenrod is often suggested — but the music is not thought to depict any specific scene from it."
+    }
+  },
+  "16222": {
+    "structure": {
+      "ja": "全3楽章。第1楽章は重々しい序奏(グラーヴェ)で始まり、その音型が主部のなかで幾度か回帰するなど、当時のソナタとしては異例に序奏の要素を全曲の構成に組み込んだ書き方がなされている。\n第2楽章の穏やかな旋律は、この曲全体のなかでもとりわけ広く親しまれている。",
+      "en": "Three movements. The first opens with a weighty Grave introduction whose material returns at several points within the main Allegro — an unusually integrated use of a slow introduction for a sonata of its time.\nThe second movement's calm, songful melody is the best loved part of the whole work."
+    },
+    "story": {
+      "ja": "1798年、27歳のベートーヴェンによって作曲され、翌1799年に出版された。友人であり支援者だったカール・フォン・リヒノフスキー公爵に献呈されている。\n「悲愴」という副題はベートーヴェン自身が付けたものではなく、出版社がこの曲の悲劇的な響きに心を動かされて提案したとされる。当のベートーヴェンもこの呼び名を気に入っていたと伝えられる。この曲はよく売れ、ピアニストとしてだけでなく作曲家としての評判を確立するうえでも重要な役割を果たした。",
+      "en": "It was composed in 1798, when Beethoven was twenty-seven, and published the following year. It is dedicated to his friend and patron Prince Karl von Lichnowsky.\nThe subtitle \"Pathétique\" is not his own; it is said to have been suggested by the publisher, struck by the sonata's tragic character, and Beethoven reportedly rather liked it once it was given. The sonata sold well and played an important part in establishing his reputation as a composer, not just an extraordinary pianist."
+    }
   }
 }

@@ -411,7 +411,7 @@
     "title": "The Swan Lake, op. 20",
     "composer": "Pyotr Ilyich Tchaikovsky",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7601": {
     "title": "1812 Festival Overture, in E flat major, op. 49",
@@ -441,13 +441,13 @@
     "title": "Ein deutsches Requiem, op. 45",
     "composer": "Johannes Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7651": {
     "title": "Academic Festival Overture, op. 80",
     "composer": "Johannes Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7680": {
     "title": "Hungarian Dances, WoO 1",
@@ -507,7 +507,7 @@
     "title": "Well-tempered Clavier, Book 1, BWV.846-869",
     "composer": "Johann Sebastian Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "9796": {
     "title": "Orchestral Suite no. 3 in D major, BWV.1068",
@@ -519,7 +519,7 @@
     "title": "Passion According to St. Matthew, BWV.244",
     "composer": "Johann Sebastian Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "10074": {
     "title": "Goldberg Variations, BWV.988",
@@ -747,7 +747,7 @@
     "title": "Symphony no. 7 in A major, op. 92",
     "composer": "Ludwig van Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16143": {
     "title": "Symphony no. 3 in E flat major, op. 55, \"Eroica\"",
@@ -765,7 +765,7 @@
     "title": "Piano Sonata no. 8 in C minor, op. 13, \"Pathétique\"",
     "composer": "Ludwig van Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16238": {
     "title": "Symphony no. 9 in D minor, op. 125, \"Choral\"",
@@ -909,7 +909,7 @@
     "title": "Ballade no. 1 in G minor, op. 23",
     "composer": "Frédéric Chopin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "17217": {
     "title": "Waltzes, op. 64",
@@ -1101,7 +1101,7 @@
     "title": "String Quartet no. 14 in D minor, D.810, \"Death and the Maiden\"",
     "composer": "Franz Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21023": {
     "title": "4 Impromptus, D.899, op. 90",
@@ -1125,7 +1125,7 @@
     "title": "String Quintet in C major, D.956, op. posth.163",
     "composer": "Franz Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21495": {
     "title": "Violin Concerto no. 1 in G minor, op. 26",
@@ -1317,7 +1317,7 @@
     "title": "Clarinet Concerto in A major, K.622",
     "composer": "Wolfgang Amadeus Mozart",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23646": {
     "title": "Requiem in D minor, K.626",
@@ -1329,7 +1329,7 @@
     "title": "Don Giovanni, K.527",
     "composer": "Wolfgang Amadeus Mozart",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23812": {
     "title": "Le nozze di Figaro, K.492",
