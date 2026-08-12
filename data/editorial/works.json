@@ -264,5 +264,125 @@
       "ja": "1891年、帝室劇場支配人イワン・フセヴォロシスキーの依頼で、バレエ「くるみ割り人形」の作曲が始まった。原作はE.T.A.ホフマンの物語をアレクサンドル・デュマ（父）が翻案したものである。\nバレエ本編の初演は1892年12月17日、サンクトペテルブルクのマリインスキー劇場で行われたが、筋書きの一貫性の乏しさなどが批判され、当初の評価は芳しくなかった。一方、初演に先立って発表された演奏会用組曲は好評を博しており、バレエ本編とは対照的な受け止められ方をした。",
       "en": "The commission came in 1891 from Ivan Vsevolozhsky, director of the Imperial Theatres. The story is based on Alexandre Dumas père's retelling of E. T. A. Hoffmann's tale.\nThe ballet itself premiered on 17 December 1892 at the Mariinsky Theatre in St Petersburg, and was criticised at the time for its thin plot; the initial reception was lukewarm. The concert suite, however, had already been performed separately and was warmly received — a striking contrast to how the ballet itself was first received."
     }
+  },
+  "18105": {
+    "structure": {
+      "ja": "イプセンの戯曲「ペール・ギュント」のために書かれた劇音楽全曲（演奏時間約90分）から、彼自身が4曲を選んで再構成した組曲第1番。「朝」「オーゼの死」「アニトラの踊り」「山の魔王の宮殿にて」の順に並ぶ。\n「朝」はフルート独奏に始まる牧歌的な旋律、「山の魔王の宮殿にて」は同じ短い音型を執拗に反復しながら加速し、強奏へと積み上げていく書き方が対照的で、組曲全体の起伏を作っている。",
+      "en": "A four-movement suite Grieg himself assembled from his roughly ninety minutes of incidental music for Ibsen's play Peer Gynt: Morning Mood, Åse's Death, Anitra's Dance, and In the Hall of the Mountain King, in that order.\nMorning Mood opens with a pastoral tune on solo flute; In the Hall of the Mountain King instead repeats the same short figure obsessively, accelerating and building to a fortissimo — the two movements anchor the suite's contrasting moods."
+    },
+    "story": {
+      "ja": "劇音楽は1875年に作曲され、1876年2月24日にクリスチャニア（現オスロ）で戯曲とともに初演された。グリーグは戯曲の依頼を受けた当初、自分には荷が重すぎるとためらっていたと伝えられる。\n初演後、彼は全曲の中から人気の高い場面を選び出し、1888年に組曲第1番として出版した。演奏会用に独立させたことで、原作の劇音楽よりもむしろこの組曲のほうが広く親しまれるようになった。",
+      "en": "The incidental music was written in 1875 and first performed with the play in Christiania (now Oslo) on 24 February 1876. Grieg is said to have doubted at first that he was equal to the commission.\nAfterward he drew the most popular numbers out of the full score and published them as Suite No. 1 in 1888. Detached from the play, the suite went on to become far better known than the incidental music it was drawn from."
+    }
+  },
+  "13085": {
+    "structure": {
+      "ja": "3曲からなるピアノ小品集。いずれも同じような緩やかな3拍子で書かれ、拍の頭を強調しない伴奏の上に、簡潔な旋律が漂うように置かれる。\n当時のフランス音楽に主流だった劇的な起伏や機能和声の推進力をあえて避け、和声を同じ響きのまま長く留まらせる書き方をしている。3曲はそれぞれ独立した曲として書かれ、共通の主題を発展させるような関係にはない。",
+      "en": "Three piano pieces, each in a similarly unhurried triple metre, a plain melody floating over an accompaniment that avoids stressing the beat.\nThe harmony deliberately avoids the dramatic contrast and forward-driving functional progressions common in French music of the time, instead letting the same sonorities sit still for long stretches. The three pieces are independent of one another rather than variations on a shared theme."
+    },
+    "story": {
+      "ja": "1888年までに全曲が書き上げられたが、まとめて出版されたのは10年後の1898年のことで、それまでは個別にしか出版されていなかった。発表当初はほとんど注目されなかった。\n再評価のきっかけは1896年、友人だったドビュッシーが第1番と第3番を管弦楽用に編曲したことである。「ジムノペディ」という題名の由来についてサティ自身は特定の文献を挙げているが、研究者の間では別の詩からの連想だとする説もあり、確定していない。",
+      "en": "All three were finished by 1888, but they were not published together until ten years later, in 1898; before that they appeared only individually, and attracted little notice at the time.\nTheir rehabilitation is usually traced to 1896, when his friend Debussy orchestrated the first and third. Satie himself pointed to a specific source for the title Gymnopédies, though scholars have also proposed a different literary origin, and the question remains unsettled."
+    }
+  },
+  "18889": {
+    "structure": {
+      "ja": "序奏と5つのワルツ、コーダからなるウィンナ・ワルツ。序奏は静かなトレモロに乗ってワルツの主題を予告し、そこから性格の異なる5つのワルツが次々と続く。\n最初のワルツ主題は分散和音を上昇していく親しみやすい旋律で、以後のワルツはそれぞれ異なる調・拍節感の揺らぎを見せながら、最後は序奏の回想を経て華やかに閉じられる。",
+      "en": "A Viennese waltz in the standard shape: an introduction, five waltz sections each with its own character, and a coda.\nThe introduction sets up the main waltz theme over a hushed tremolo; the first waltz itself is a rising, arpeggio-based tune, and each of the following sections shifts key and metrical feel before the piece recalls the introduction and closes in full splendour."
+    },
+    "story": {
+      "ja": "1866年、プロイセンとの戦争（普墺戦争）でオーストリアが敗れた直後、意気消沈した市民を元気づける目的で、ウィーン男声合唱協会の指揮者ヘルベックが作曲を依頼した。\n当初は合唱団のための歌曲として書かれ、1867年2月15日に初演されたが、敗戦を揶揄する歌詞が不評でさほど評価されなかった。同年4月、パリ万国博覧会で歌詞なしの管弦楽版が演奏されると一転して熱狂的に迎えられ、以後彼の代名詞となる作品として定着した。",
+      "en": "In 1866, just after Austria's defeat in its war with Prussia, the conductor Johann von Herbeck commissioned a piece from Strauss to lift the spirits of a demoralised Vienna, on behalf of the city's Men's Choral Association.\nIt was written first as a choral song and premiered on 15 February 1867, but the lyrics — which mocked the lost war — went over poorly, and the piece made little impression. Then, in April that year, a purely orchestral version performed at the Paris World's Fair was received with enthusiasm, and it has been inseparable from his name ever since."
+    }
+  },
+  "15387": {
+    "structure": {
+      "ja": "ギリシャ神話のオルフェウスとエウリュディケーの物語を下敷きにした風刺的な喜歌劇（オペレッタ）全2幕（のち4幕に改訂）。オリュンポスの神々を俗物として描く筋書きが特徴で、シリアスな神話劇の伝統をあえて茶化している。\n終幕、地獄で開かれる宴の場で演奏される「地獄のギャロップ」が特に有名で、のちにフレンチカンカンの伴奏曲として定着した通称でも広く知られている。",
+      "en": "A satirical operetta in two acts (later revised to four), retelling the Orpheus and Eurydice myth with the Olympian gods played as petty and vain — a deliberate spoof of the solemn mythological drama the story usually receives.\nThe best-known number is the \"Galop infernal,\" played at the finale's underworld party scene, which went on to become the standard accompaniment for the French can-can and is now often known simply by that name."
+    },
+    "story": {
+      "ja": "1858年10月21日、パリのブフ・パリジャン座で初演された。オリュンポスの神々を俗な人間として描く風刺や、当時のオペラの慣習では考えられなかったメヌエットの直後にカンカンを置く構成が物議を醸した。\n一方で初演は興行的には成功し、経営難にあった彼の劇団を救うことになった。今日「フレンチカンカン」として知られる踊りの音楽の多くは、この「地獄のギャロップ」がひな型になっている。",
+      "en": "It premiered on 21 October 1858 at the Théâtre des Bouffes-Parisiens in Paris. The satire of the Olympian gods as petty, vain figures, and the placement of a can-can right after a minuet — unthinkable by the conventions of the time — caused a stir.\nEven so, the premiere run was a box-office success and rescued Offenbach's financially struggling company. Much of what is now recognised as \"French can-can\" music takes this Galop infernal as its model."
+    }
+  },
+  "16375": {
+    "structure": {
+      "ja": "全3楽章。「幻想曲風ソナタ」という副題が示すとおり、当時のソナタの型を外れた構成をとる。通常なら快速な楽章が置かれる第1楽章に、三連符の伴奏に乗って歌う嬰ハ短調の緩徐楽章が置かれ、そこから次第にテンポと激しさを増していく。\n終楽章は一転して激烈なプレストで、ソナタ形式の枠組みのなかに分散和音による疾走的な音型が絶え間なく続く。第1楽章の静けさと終楽章の激しさの落差が、この曲の性格そのものになっている。",
+      "en": "Three movements, and true to its subtitle \"Sonata quasi una fantasia,\" it departs from the usual sonata layout. Where a fast movement would normally open the piece, there is instead a slow C-sharp minor movement, its melody sung over a triplet accompaniment, and the music grows steadily faster and more intense from there.\nThe finale is a sudden reversal: a fierce Presto built from restless arpeggiated figures within a sonata-form frame. The gap between the opening movement's stillness and the finale's violence is the character of the piece."
+    },
+    "story": {
+      "ja": "1801年に作曲され、翌年出版された。ベートーヴェン自身のピアノ教え子だった16歳の伯爵令嬢ジュリエッタ・グイチャルディに献呈されており、当時彼が彼女に思いを寄せていたことが知られている。\n「月光」という愛称はベートーヴェン自身が付けたものではない。彼の死後5年たった1832年、詩人ルートヴィヒ・レルシュタープが第1楽章をルツェルン湖畔の月光に浮かぶ小舟にたとえた批評を書いたことに由来する通称である。",
+      "en": "Composed in 1801 and published the following year, it is dedicated to Countess Giulietta Guicciardi, his sixteen-year-old piano pupil, for whom he is known to have had feelings at the time.\nThe nickname \"Moonlight\" is not his own. It comes from a review published five years after his death, in 1832, in which the poet Ludwig Rellstab likened the first movement to a boat drifting in moonlight on Lake Lucerne."
+    }
+  },
+  "7680": {
+    "structure": {
+      "ja": "全21曲からなるピアノ連弾のための舞曲集。ハンガリーの旋律に着想を得た自由なテンポの変化、急な強弱の対比、シンコペーションを特徴とし、いずれも数分程度の小品である。\nとりわけ有名な第5番は、緩急が目まぐるしく入れ替わる展開と、金管楽器を思わせる強奏の主題で知られ、管弦楽版でもしばしば演奏される。",
+      "en": "A set of twenty-one dances for piano four hands, each a short piece built on the free tempo changes, sudden dynamic contrasts and syncopation associated with Hungarian melody.\nNo. 5 is the best known, prized for its abrupt shifts between fast and slow and a bold, brass-like main theme; it is often heard in orchestral arrangements as well as the original piano version."
+    },
+    "story": {
+      "ja": "1850年、彼はハンガリーのヴァイオリン奏者エデ・レメーニと出会い、各地で共演するなかでチャールダーシュなど「ジプシー音楽」と呼ばれた様式に触れた。舞曲集は1858年から1869年にかけて書かれ、第1・2集（第1〜10番）が1869年、第3・4集（第11〜21番）が1880年に出版されている。\nブラームス自身はこれらを自作の旋律ではなく既存の民謡の編曲だとみなしており、出版譜にも通常の作品番号を付けずに扱われている。1879年、かつて共演したレメーニが、収録曲の一部は自分の作った旋律だとして盗用を主張する騒動が起きた。",
+      "en": "In 1850 he met the Hungarian violinist Ede Reményi and toured with him, and through that partnership encountered the csárdás and the other idioms then loosely called \"gypsy music.\" The dances were written between 1858 and 1869: Books 1 and 2 (nos. 1-10) appeared in 1869, Books 3 and 4 (nos. 11-21) in 1880.\nBrahms himself regarded them as arrangements of existing tunes rather than his own melodies, which is why they were published without a normal opus number. In 1879, Reményi, his former duo partner, publicly claimed that some of the melodies were his own and accused Brahms of taking them without credit."
+    }
+  },
+  "16741": {
+    "structure": {
+      "ja": "シェイクスピアの戯曲のための序曲（作品21）と、のちに追加された劇音楽（作品61、序曲を含め全曲で演奏時間約1時間）からなる。もっとも知られているのは劇音楽に含まれる「結婚行進曲」で、金管による華やかなファンファーレに始まる。\n序曲自体は妖精の世界を描く軽やかな高弦の和音で開始され、恋人たちの主題、職人たちのユーモラスな場面、驢馬の鳴き声を模した音型などが次々に現れる、当時としては型破りな性格描写の書き方をしている。",
+      "en": "An overture (Op. 21) for Shakespeare's play, later joined by a full set of incidental music (Op. 61, roughly an hour together). The best known number from the incidental music is the Wedding March, which opens with a bright brass fanfare.\nThe overture itself opens with light, high string chords conjuring the fairy world, then moves through the lovers' theme, the comic scenes of the tradesmen, and a figure imitating a braying donkey — an unusually vivid, almost cinematic kind of character-painting for its time."
+    },
+    "story": {
+      "ja": "序曲は1826年、彼が17歳のときに書かれた。特定の上演のためではなく、ドイツ語訳で読んだ戯曲に触発された演奏会用の作品として作曲されている。\n16年後の1842年、プロイセン国王フリードリヒ・ヴィルヘルム4世の依頼で、実際の上演に合わせた劇音楽一式が新たに書き加えられた。「結婚行進曲」を含む全曲は1843年10月14日、戯曲とともに初演された。",
+      "en": "The overture was written in 1826, when he was seventeen — not for any particular staging, but as a concert piece inspired by reading the play in German translation.\nSixteen years later, in 1842, King Frederick William IV of Prussia commissioned a full set of incidental music for an actual production. The complete score, including the Wedding March, was first performed with the play on 14 October 1843."
+    }
+  },
+  "9148": {
+    "structure": {
+      "ja": "独唱・合唱・管弦楽のための教会カンタータ、全10曲。前半・後半それぞれの最後に同じ旋律にもとづくコラールが置かれ、全体を締めくくる。\nこの最後のコラール（日本では「主よ、人の望みの喜びよ」の通称で知られる）は、揺れ動く3連符の伴奏の上に穏やかな旋律が乗る書き方をしており、コラール旋律自体はバッハの作曲ではなく、ヨハン・ショップによる既存の讃美歌旋律をバッハが編曲・和声付けしたものである。",
+      "en": "A church cantata in ten movements for soloists, chorus and orchestra. The same chorale melody closes both halves of the work.\nThat closing chorale — known in English as \"Jesu, Joy of Man's Desiring\" — sets a calm melody over a rocking triplet accompaniment. The tune itself is not Bach's own composition; it is an existing hymn melody by Johann Schop, which Bach arranged and harmonised."
+    },
+    "story": {
+      "ja": "原型は1716年、ワイマール時代に書かれたが、その版にはレチタティーヴォが含まれていなかった。ライプツィヒに移った後の1723年、聖母マリア訪問の祝日のために拡大改訂され、3つのレチタティーヴォと、有名な終曲のコラールが新たに加えられた。\nバッハはライプツィヒの聖トーマス教会音楽監督として、年間60曲近い教会カンタータを作曲・指揮する立場にあり、この曲もその大量の職務の産物のひとつである。",
+      "en": "The original version was written in 1716, during his time in Weimar, and lacked recitatives. After moving to Leipzig, he expanded it in 1723 for the feast of the Visitation, adding three recitatives and the now-famous closing chorale.\nAs director of music at Leipzig's Thomaskirche, Bach was expected to compose and direct close to sixty church cantatas a year, and this piece was one product of that heavy workload."
+    }
+  },
+  "27227": {
+    "structure": {
+      "ja": "バレエ「ガイーヌ」から演奏会用に抜粋された組曲第1番。もっとも有名な「剣の舞」は終幕で踊られる曲で、木琴と金管による性急な主題が、ほとんど休みなく反復される。\nアルメニアやコーカサス地方の民俗音楽の音階・リズムを取り入れた書法が全体の特徴で、「剣の舞」以外にも民族色の濃い舞曲が組曲に含まれている。",
+      "en": "A concert suite drawn from the ballet Gayane. Its most famous number, the Sabre Dance, comes from the final act — a relentless, almost unbroken repetition of an urgent theme in xylophone and brass.\nThe suite draws throughout on the scales and rhythms of Armenian and wider Caucasian folk music, and includes other strongly folk-flavoured dances beyond the Sabre Dance."
+    },
+    "story": {
+      "ja": "バレエ「ガイーヌ」は1942年、それ以前に書いた「幸福」（1939年）という作品を土台に作曲され、同年12月9日、疎開先のペルミで初演された。コルホーズ（集団農場）を舞台に、愛国的な女性ガイーヌとその夫の物語を描く。\n「剣の舞」はバレエ全体を書き上げたあとに追加された曲で、もとは「クルド人の踊り」という題で構想されていたと伝えられる。この曲によりハチャトゥリアンはスターリン賞を受けた。",
+      "en": "The ballet Gayane was composed in 1942, built on an earlier work of his called Happiness (1939), and premiered on 9 December that year in Perm, where the theatre had been evacuated during the war. Set on a Soviet collective farm, it follows the patriotic Gayane and her husband.\nThe Sabre Dance was added after the rest of the score was finished, and is said to have originally been conceived under the title \"Dance of the Kurds.\" The work won Khachaturian a Stalin Prize."
+    }
+  },
+  "20781": {
+    "structure": {
+      "ja": "ピアノ伴奏付きの独唱歌曲。分散和音による揺れる伴奏の上に、なだらかな旋律線が置かれ、詩の各連ごとに同じ旋律が繰り返される有節形式に近い作りをしている。\n歌詞の冒頭が「アヴェ・マリア」の呼びかけで始まることから、のちにラテン語のカトリック聖歌の祈祷文を当てはめて歌われることが多くなったが、もとの歌詞はラテン語の祈祷文とは別の詩である。",
+      "en": "A solo song with piano accompaniment. A smooth vocal line sits over a rocking, arpeggiated accompaniment, in a form close to strophic — the melody repeating with each stanza of text.\nBecause the text opens with an invocation of \"Ave Maria,\" the song is now very often performed with the words of the Latin Catholic prayer substituted in — but that Latin prayer is not the text Schubert actually set."
+    },
+    "story": {
+      "ja": "1825年、ウォルター・スコットの物語詩「湖上の美人」（1810年発表）からの7篇をドイツ語訳で歌曲化した連作の1曲として作曲された。詩中でこの歌を歌うのは、父とともに洞窟に身を隠す登場人物エレンで、聖母マリアへの祈りの言葉を歌う場面にあたる。\n歌曲集は1826年、作品52として出版された。宗教的な典礼のために書かれた曲ではないが、冒頭の呼びかけの言葉がそのまま定着し、結婚式や葬儀で歌われる定番曲となった。",
+      "en": "It was written in 1825 as part of a cycle setting seven poems, in German translation, from Walter Scott's narrative poem The Lady of the Lake (published 1810). In the story, it is sung by Ellen, hiding in a cave with her father, as a prayer to the Virgin Mary.\nThe songs were published as Op. 52 in 1826. It was not written for any liturgical use, but the opening words stuck, and it became a fixture at weddings and funerals under that title."
+    }
+  },
+  "19622": {
+    "structure": {
+      "ja": "ニーチェの同名の哲学書に着想を得た交響詩で、書物の章題のいくつかをそのまま楽章相当の見出しに用いている。冒頭「日の出」は、オルガンの低音のうえにトランペットが上行する3つの音を提示する序奏で、単独でもよく知られる。\n以後は変奏やフーガ的な書法を交えながら、科学・宗教・踊りの歌といった主題が次々と現れ、最後は調性の異なる2つの和音が交互に鳴り続ける、解決しないまま曲を閉じる書き方で終わる。",
+      "en": "A tone poem inspired by Nietzsche's philosophical book of the same name, borrowing several of its chapter titles as section headings. The famous opening, \"Sunrise,\" is a brief introduction — three rising trumpet notes over a low organ pedal — and is well known on its own.\nWhat follows moves through variation and fugue-like writing on themes tied to science, religion and a dance song, before the piece closes unresolved, two chords in different keys alternating without settling."
+    },
+    "story": {
+      "ja": "1896年に作曲され、同年11月27日、作曲者自身の指揮によりフランクフルトで初演された。シュトラウスは初演にあたり、「ニーチェの偉大な著作を音楽で描写しようとしたのではなく、原始から始まる人類の発展を、宗教的・科学的な段階を経て『超人』の思想に至るまで、音楽によって伝えようとした」という趣旨のプログラム・ノートを寄せている。\n彼自身の言葉どおり、この曲は書物の忠実な音楽化ではなく、あくまで「自由な着想」にとどまるとされる。",
+      "en": "It was composed in 1896 and premiered under his own baton in Frankfurt on 27 November that year. In his own programme note for the premiere, Strauss wrote that he had not tried to depict Nietzsche's book in music but rather to convey, through music, an idea of humanity's development from its origins, through religious and scientific stages, to Nietzsche's idea of the superman.\nBy his own account, then, the piece is only \"freely based on\" the book, not a musical retelling of it."
+    }
+  },
+  "23512": {
+    "structure": {
+      "ja": "全3楽章のピアノソナタで、いずれの楽章もソナタ形式をとらない点が異例である。第1楽章は主題と6つの変奏、第2楽章はメヌエット、終楽章が有名な「トルコ行進曲」である。\n終楽章は当時ウィーンで流行していたオスマン帝国の軍楽（ジャニチャリ音楽）を模した書き方で、太鼓や打楽器を思わせる和音の連打を、ピアノという単一楽器の書法に置き換えて表現している。",
+      "en": "A three-movement piano sonata, unusual in that none of its movements is in sonata form: a theme and six variations, a minuet, and the famous finale, the \"Turkish March.\"\nThat finale imitates the Ottoman Janissary military bands then fashionable in Vienna, translating their drums and clashing percussion into a single keyboard part built on hammered, drum-like chords."
+    },
+    "story": {
+      "ja": "1783年、モーツァルトが妻コンスタンツェとともにザルツブルクで夏を過ごしていた時期に書かれたとみられ、当時のウィーンで弟子に教えるための曲として作られたと考えられている。1784年、出版社アルタリアから、同時期の2曲のソナタとともに出版された。\n「トルコ風」の音楽への関心は、前年に発表したジングシュピール「後宮からの誘拐」でも取り入れており、この終楽章はそうした流行を鍵盤独奏という形で再現したものである。",
+      "en": "It was probably written in 1783, during a summer Mozart and his wife Constanze spent in Salzburg, likely intended as teaching material for his Viennese pupils. It was published in 1784 by Artaria, alongside two sonatas written around the same time.\nHis interest in \"Turkish\" style also appears the previous year in his singspiel The Abduction from the Seraglio; this finale translates that same fashionable interest into a solo keyboard piece."
+    }
   }
 }
