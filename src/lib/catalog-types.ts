@@ -1,5 +1,6 @@
 import type { CountryCode } from "./countries";
 import type { Epoch, Genre } from "./epochs";
+import type { MediaAppearance } from "./media";
 import type { Stars } from "./popularity";
 
 /** A work as served to the app: Open Opus metadata plus derived Japanese. */
@@ -27,6 +28,13 @@ export interface Work {
   searchTerms: string;
   /** Structured facts derived from the title, shown as the "work data" panel. */
   facts: WorkFacts;
+  /**
+   * Hand-assigned in `data/media.json`. Absent for most works — coverage is
+   * not required, so a missing entry just means no section is shown. See
+   * `src/lib/media.ts` for why an appearance is attached to the whole work
+   * even when only one movement or excerpt is actually used.
+   */
+  media?: MediaAppearance[];
 }
 
 export interface WorkFacts {
@@ -95,6 +103,11 @@ export interface WorkIndexRow {
   genre: Genre;
   stars: Stars;
   score: number;
+  /**
+   * Titles only, from `Work.media` — enough to search on, without shipping
+   * `year`/`kind`/`note` (detail-page-only) to every visitor's browser.
+   */
+  media?: Array<{ ja: string; en: string }>;
 }
 
 export interface CatalogMeta {
