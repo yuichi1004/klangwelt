@@ -169,15 +169,43 @@ export function joinComposers(
     const composer = byId.get(row.composerId);
     const composerName = composer?.completeName ?? "";
     const composerNameJa = composer?.nameJa ?? composerName;
+    // Both languages of every film/anime/TV title this work has been used
+    // in, so "search by the name of the movie" (issue #33) is just more
+    // haystack — no separate search path needed.
+    const mediaTitles = (row.media ?? [])
+      .flatMap((title) => [title.ja, title.en])
+      .join(" ");
     return {
       ...row,
       composerName,
       composerNameJa,
       epoch: composer?.epoch ?? "Romantic",
       haystack:
-        `${row.title} ${row.titleJa} ${composerName} ${composerNameJa} ${composer?.name ?? ""}`.toLowerCase(),
+        `${row.title} ${row.titleJa} ${composerName} ${composerNameJa} ${composer?.name ?? ""} ${mediaTitles}`.toLowerCase(),
     };
   });
+}
+
+/**
+ * The media title (in the given locale) that the current search query
+ * matched, so a result card can show *why* it matched — but only when the
+ * match actually came from a media title. Matching on the work's own name
+ * or its composer returns `undefined`, so the catalogue doesn't stick an
+ * unrelated "featured in ..." badge on every result.
+ */
+export function matchedMediaTitle(
+  work: SearchableWork,
+  query: string,
+  locale: "ja" | "en",
+): string | undefined {
+  const needle = query.trim().toLowerCase();
+  if (!needle || !work.media) return undefined;
+  const match = work.media.find(
+    (title) =>
+      title.ja.toLowerCase().includes(needle) ||
+      title.en.toLowerCase().includes(needle),
+  );
+  return match ? match[locale] : undefined;
 }
 
 /**

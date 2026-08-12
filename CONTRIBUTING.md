@@ -273,6 +273,67 @@ npm run build     # data/glossary.json が壊れていると next build がそ�
                    # （src/lib/glossary.ts がモジュール読み込み時に検証するため）
 ```
 
+## 映画・アニメなどの映像作品を追加する（`data/media.json`）
+
+楽曲ページに「この曲、映画で聴いたことがある」を表示するデータです。`data/nationalities.json` と同じく**1,321曲全部の登録は必須ではありません** — エントリの無い曲は単にセクションが出ないだけで、ビルドも落ちません。一方で、**存在するエントリの形式ミスはビルド失敗になります**。
+
+楽曲 ID をキーにした1ファイルです。
+
+```json
+{
+  "13297": {
+    "work": "Suite Bergamasque, L.75",
+    "media": [
+      {
+        "title": { "ja": "オーシャンズ11", "en": "Ocean's Eleven" },
+        "year": 2001,
+        "kind": "film",
+        "note": {
+          "ja": "第3曲「月の光」が、噴水の前に集まるラストシーンで流れる。",
+          "en": "The third movement, Clair de lune, plays over the closing fountain scene."
+        }
+      }
+    ]
+  }
+}
+```
+
+- `work` は id の打ち間違い検出用の照合値です（`data/curation/works/<composerId>.json` と同じ仕組み）。Open Opus の英語タイトルと一致しないとエラーになります。
+- `title` は日英必須。**これが検索対象になります** — 楽曲一覧の検索窓に映像作品名を入れると、この曲がヒットします。
+- `year` は公開年（整数）。同名作品の区別と、詳細ページでの表示に使います。
+- `kind` は `film` / `anime` / `tv` のいずれか。`src/lib/media.ts` の `MEDIA_KIND_LABELS` に無い値はエラーになります。
+
+### エントリは必ず親作品に紐づけ、`note` でどの部分かを書く（最重要）
+
+このサイトのカタログの単位は「作品」ですが、映画で有名なのは「楽章」や「一部の抜粋」であることが非常に多いです。
+
+| 映画で知られる呼び名 | 実際に登録する曲 |
+|---|---|
+| ワルキューレの騎行 | 楽劇「ワルキューレ」（Die Walküre）まるごと |
+| 月の光 | 組曲「ベルガマスク組曲」の第3曲 |
+| 弦楽のためのアダージョ | 弦楽四重奏曲 op.11 の第2楽章 |
+| ラクリモサ | レクイエムの中の一曲 |
+
+**新しい movement 単位の id を作らず、親作品の id にエントリを付け、`note`（省略可・日英必須）にどの部分がどう使われるかを1〜2文で書いてください。** これを省くと、「ワルキューレ」のページを開いても『地獄の黙示録』のどこで流れる曲か分からない状態になります。
+
+### コア索引の曲にしか付けられない
+
+`data/media.json` に登録できるのは `data/catalog/core-works.json`（詳細ページのある約1,300曲）の曲だけです。候補の曲がコア索引に入っていない場合、`npm run seed:catalog` が「has no detail page」というエラーで教えてくれます。まず `data/curation/works/<composerId>.json` に追加してコア索引へ昇格させてから（「曲の定番度」節を参照）、`data/media.json` に書いてください。
+
+### 収録の基準
+
+- 洋画を優先しつつ邦画も入れ、一般に有名なアニメも含めてよい
+- **大衆的な認知度**で選ぶ。映画側・楽曲側の両方で、言われれば分かるものに絞る
+- 記憶だけで書かず、実際の使用箇所を確認してから記載する
+
+### コミット前に機械チェックを通す
+
+```bash
+npm run seed:catalog   # data/media.json を検証し data/catalog/* に反映。件数サマリが出る
+npm test                # src/lib/media.test.ts が data/media.json 単体と、
+                         # 全エントリがコア索引を指していることを検証する
+```
+
 ## 肖像画
 
 `scripts/seed/fetch-portraits.ts` が Wikidata の P18 から取得し、Wikimedia Commons が報告するライセンスが許可リスト（`src/lib/licenses.ts`）に一致する場合のみ採用します。**許可リストを緩めないでください。** Open Opus の肖像画は1点ごとの出典が不明で、収録作曲家の3分の1は写真の著作権が存続している可能性が高いため使いません。

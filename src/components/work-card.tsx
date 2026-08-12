@@ -2,7 +2,7 @@ import Link from "next/link";
 
 import { FavoriteButton } from "@/components/favorite-button";
 import { StarRating } from "@/components/star-rating";
-import { type Locale } from "@/i18n/config";
+import { getMessages, type Locale } from "@/i18n/config";
 import { GENRE_LABELS, type Genre } from "@/lib/epochs";
 import type { Stars } from "@/lib/popularity";
 
@@ -17,6 +17,12 @@ export interface WorkCardProps {
   stars: Stars;
   /** Work detail pages exist only for core works. */
   linkToDetail?: boolean;
+  /**
+   * The film/anime/TV title the current search matched, from
+   * `matchedMediaTitle` (`src/lib/catalog.ts`) — set only when that's what
+   * actually matched, so the badge never appears for an unrelated search.
+   */
+  mediaMatch?: string;
 }
 
 export function WorkCard({
@@ -28,7 +34,9 @@ export function WorkCard({
   genre,
   stars,
   linkToDetail = true,
+  mediaMatch,
 }: WorkCardProps) {
+  const messages = getMessages(locale);
   const body = (
     <>
       <div className="min-w-0 flex-1">
@@ -49,6 +57,18 @@ export function WorkCard({
             {GENRE_LABELS[genre][locale]}
           </span>
           <StarRating locale={locale} stars={stars} />
+          {mediaMatch && (
+            <span
+              role="img"
+              aria-label={messages.catalog.mediaMatch.replace("{title}", mediaMatch)}
+              title={messages.catalog.mediaMatch.replace("{title}", mediaMatch)}
+              className="flex min-w-0 items-center gap-1 rounded-full bg-accent-soft px-2 py-0.5 text-accent"
+            >
+              <span aria-hidden="true" className="truncate">
+                🎬 {mediaMatch}
+              </span>
+            </span>
+          )}
         </p>
       </div>
       <FavoriteButton workId={workId} locale={locale} size="sm" />

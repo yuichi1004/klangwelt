@@ -16,6 +16,7 @@ import {
   fetchWorkIndex,
   filterWorks,
   joinComposers,
+  matchedMediaTitle,
   sortWorks,
   type CatalogFilters,
   type ComposerOption,
@@ -562,6 +563,7 @@ export function CatalogBrowser({
                     }
                     genre={work.genre}
                     stars={work.stars}
+                    mediaMatch={matchedMediaTitle(work, effectiveFilters.query, locale)}
                   />
                 </li>
               ))}

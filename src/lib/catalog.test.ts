@@ -8,9 +8,12 @@ import {
   filterWorks,
   getComposer,
   getWork,
+  joinComposers,
+  matchedMediaTitle,
   sortWorks,
   workIndex,
   type CatalogFilters,
+  type SearchableWork,
 } from "./catalog";
 import { COUNTRY_LABELS } from "./countries";
 
@@ -66,6 +69,21 @@ describe("catalog integrity", () => {
       if (composer.nationality.note) {
         expect(composer.nationality.note.ja.trim().length, composer.id).toBeGreaterThan(0);
         expect(composer.nationality.note.en.trim().length, composer.id).toBeGreaterThan(0);
+      }
+    }
+  });
+
+  it("gives every indexed work with media a recognised kind and both title languages", () => {
+    // `media.test.ts` validates `data/media.json` itself; this confirms the
+    // build actually carried it through into the shipped work-index.json
+    // rather than dropping it, the same relationship the nationality check
+    // above has to composers.json.
+    for (const row of workIndex) {
+      if (!row.media) continue;
+      expect(row.media.length, row.id).toBeGreaterThan(0);
+      for (const title of row.media) {
+        expect(title.ja.trim().length, row.id).toBeGreaterThan(0);
+        expect(title.en.trim().length, row.id).toBeGreaterThan(0);
       }
     }
   });
@@ -140,6 +158,71 @@ describe("filterWorks", () => {
     expect(filterWorks(index, filters({ query: "zzzz-no-such-work" }))).toEqual(
       [],
     );
+  });
+
+  it("searches film/anime/TV titles a work has appeared in", () => {
+    // Beethoven's 9th (data/media.json) is used in A Clockwork Orange.
+    const en = filterWorks(index, filters({ query: "Clockwork Orange" }));
+    expect(en.length).toBeGreaterThan(0);
+    expect(en.every((work) => work.id === "16238")).toBe(true);
+
+    const ja = filterWorks(index, filters({ query: "時計じかけのオレンジ" }));
+    expect(ja.map((w) => w.id)).toEqual(en.map((w) => w.id));
+  });
+});
+
+describe("matchedMediaTitle", () => {
+  const work = (id: string) => index.find((w) => w.id === id)!;
+
+  it("returns the media title, in the given locale, when it is what matched", () => {
+    const clockworkOrange = work("16238");
+    expect(matchedMediaTitle(clockworkOrange, "Clockwork Orange", "en")).toBe(
+      "A Clockwork Orange",
+    );
+    expect(matchedMediaTitle(clockworkOrange, "Clockwork Orange", "ja")).toBe(
+      "時計じかけのオレンジ",
+    );
+    expect(matchedMediaTitle(clockworkOrange, "時計じかけ", "ja")).toBe(
+      "時計じかけのオレンジ",
+    );
+  });
+
+  it("returns undefined when the query matched the work's own title instead", () => {
+    const clockworkOrange = work("16238");
+    expect(matchedMediaTitle(clockworkOrange, "Symphony no. 9", "en")).toBeUndefined();
+  });
+
+  it("returns undefined for a work with no media", () => {
+    const beethovenFifth = work("16406");
+    expect(matchedMediaTitle(beethovenFifth, "Symphony", "en")).toBeUndefined();
+  });
+
+  it("returns undefined for an empty query", () => {
+    const clockworkOrange = work("16238");
+    expect(matchedMediaTitle(clockworkOrange, "", "en")).toBeUndefined();
+    expect(matchedMediaTitle(clockworkOrange, "   ", "en")).toBeUndefined();
+  });
+
+  it("is case-insensitive", () => {
+    const clockworkOrange = work("16238");
+    expect(matchedMediaTitle(clockworkOrange, "clockwork orange", "en")).toBe(
+      "A Clockwork Orange",
+    );
+  });
+});
+
+describe("joinComposers — media titles reach the search haystack", () => {
+  it("includes both languages of a work's media titles in the haystack", () => {
+    const rows = workIndex.filter((row) => row.media);
+    expect(rows.length).toBeGreaterThan(0);
+
+    const joined: SearchableWork[] = joinComposers(rows, buildComposerOptions());
+    for (const work of joined) {
+      for (const title of work.media ?? []) {
+        expect(work.haystack, work.id).toContain(title.ja.toLowerCase());
+        expect(work.haystack, work.id).toContain(title.en.toLowerCase());
+      }
+    }
   });
 });
 

@@ -1,0 +1,115 @@
+{
+  "_comment": "映画・アニメ・テレビでの使用例。キーは楽曲ID。work は id の打ち間違い検出用の照合値（Open Opus の英語タイトルと一致必須）で、それ自体はデータではない。カタログの単位は「作品」だが、映画で有名なのは楽章・抜粋であることが多いため、note にどの部分がどう使われるかを書く。See CONTRIBUTING.md.",
+  "19622": {
+    "work": "Also sprach Zarathustra, op. 30",
+    "media": [
+      {
+        "title": { "ja": "2001年宇宙の旅", "en": "2001: A Space Odyssey" },
+        "year": 1968,
+        "kind": "film",
+        "note": {
+          "ja": "冒頭の序奏部分が、日の出とモノリスの場面のテーマとして使われる。",
+          "en": "The opening introduction plays over the sunrise and monolith scenes."
+        }
+      }
+    ]
+  },
+  "18889": {
+    "work": "An der schönen, blauen Donau, op. 314",
+    "media": [
+      {
+        "title": { "ja": "2001年宇宙の旅", "en": "2001: A Space Odyssey" },
+        "year": 1968,
+        "kind": "film",
+        "note": {
+          "ja": "宇宙船が回転するステーションにドッキングする場面の音楽として使われる。",
+          "en": "Plays over the space station docking sequence."
+        }
+      }
+    ]
+  },
+  "15735": {
+    "work": "Die Walküre, WWV 86b",
+    "media": [
+      {
+        "title": { "ja": "地獄の黙示録", "en": "Apocalypse Now" },
+        "year": 1979,
+        "kind": "film",
+        "note": {
+          "ja": "第3幕の「ワルキューレの騎行」が、ヘリコプター部隊による村への襲撃シーンで大音量で流される。",
+          "en": "The \"Ride of the Valkyries\" from Act 3 blares from loudspeakers during the helicopter assault on a village."
+        }
+      }
+    ]
+  },
+  "1704": {
+    "work": "String Quartet in B major, op. 11",
+    "media": [
+      {
+        "title": { "ja": "プラトーン", "en": "Platoon" },
+        "year": 1986,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章（単独で「弦楽のためのアダージョ」としても知られる）が全編を通じて使われる。",
+          "en": "The second movement — better known on its own as the Adagio for Strings — recurs throughout the film."
+        }
+      }
+    ]
+  },
+  "13297": {
+    "work": "Suite Bergamasque, L.75",
+    "media": [
+      {
+        "title": { "ja": "オーシャンズ11", "en": "Ocean's Eleven" },
+        "year": 2001,
+        "kind": "film",
+        "note": {
+          "ja": "第3曲「月の光」が、噴水の前に集まるラストシーンで流れる。",
+          "en": "The third movement, Clair de lune, plays over the closing fountain scene."
+        }
+      }
+    ]
+  },
+  "23646": {
+    "work": "Requiem in D minor, K.626",
+    "media": [
+      {
+        "title": { "ja": "アマデウス", "en": "Amadeus" },
+        "year": 1984,
+        "kind": "film",
+        "note": {
+          "ja": "「ラクリモサ」が、病床のモーツァルトが口述筆記させる場面で使われる。",
+          "en": "The Lacrimosa plays as the dying Mozart dictates it from his sickbed."
+        }
+      }
+    ]
+  },
+  "23812": {
+    "work": "Le nozze di Figaro, K.492",
+    "media": [
+      {
+        "title": { "ja": "ショーシャンクの空に", "en": "The Shawshank Redemption" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "「手紙の二重唱（Sull'aria）」が、刑務所内の放送で流される場面で使われる。",
+          "en": "The \"letter duet\" (Sull'aria) plays over the prison's loudspeakers in one of the film's best-known scenes."
+        }
+      }
+    ]
+  },
+  "16238": {
+    "work": "Symphony no. 9 in D minor, op. 125, \"Choral\"",
+    "media": [
+      {
+        "title": { "ja": "時計じかけのオレンジ", "en": "A Clockwork Orange" },
+        "year": 1971,
+        "kind": "film",
+        "note": {
+          "ja": "第4楽章「歓喜の歌」が、主人公アレックスの愛聴曲として作中で繰り返し使われる。",
+          "en": "The fourth movement, the \"Ode to Joy\", recurs as protagonist Alex's favourite piece of music."
+        }
+      }
+    ]
+  }
+}

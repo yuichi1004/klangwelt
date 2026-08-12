@@ -17,6 +17,7 @@ import type { Composer, Work } from "@/lib/catalog-types";
 import { getWorkEditorial } from "@/lib/editorial";
 import { EPOCH_LABELS, GENRE_LABELS } from "@/lib/epochs";
 import { createAnnotator, glossary } from "@/lib/glossary";
+import { MEDIA_KIND_LABELS, type MediaAppearance } from "@/lib/media";
 import { buildStreamingLinks } from "@/lib/streaming";
 
 /**
@@ -161,6 +162,8 @@ export default async function WorkPage(
         )}
       </section>
 
+      {work.media && <MediaSection locale={locale} media={work.media} />}
+
       {siblings.length > 0 && (
         <section className="mt-12">
           <h2 className="mb-3 font-serif text-lg font-medium text-ink">
@@ -258,6 +261,54 @@ function WorkDataPanel({
           </div>
         ))}
       </dl>
+    </section>
+  );
+}
+
+/**
+ * Hand-curated in `data/media.json`. The catalogue's unit is the whole work,
+ * but the cue a film uses is very often one movement or a short excerpt of
+ * it, so `note` — shown right under the title — is what actually tells the
+ * reader "this is the bit you know" rather than leaving them to guess which
+ * part of, say, a whole Wagner opera plays in the scene.
+ */
+function MediaSection({
+  locale,
+  media,
+}: {
+  locale: Locale;
+  media: MediaAppearance[];
+}) {
+  const messages = getMessages(locale);
+
+  return (
+    <section className="mt-8">
+      <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+        {messages.work.mediaHeading}
+      </h2>
+      <ul className="space-y-3">
+        {media.map((appearance, index) => (
+          <li
+            key={index}
+            className="rounded-lg border border-line bg-paper-raised p-4"
+          >
+            <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
+              <span className="font-serif text-base font-medium text-ink">
+                {appearance.title[locale]}
+              </span>
+              <span className="text-xs text-ink-faint">{appearance.year}</span>
+              <span className="rounded-full bg-terra-surface px-2 py-0.5 text-xs text-ink">
+                {MEDIA_KIND_LABELS[appearance.kind][locale]}
+              </span>
+            </div>
+            {appearance.note && (
+              <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">
+                {appearance.note[locale]}
+              </p>
+            )}
+          </li>
+        ))}
+      </ul>
     </section>
   );
 }

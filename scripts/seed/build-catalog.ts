@@ -24,6 +24,7 @@ import type {
 import { loadCuration } from "../../src/lib/curation";
 import { isEpoch, isGenre } from "../../src/lib/epochs";
 import type { PortraitCredit } from "../../src/lib/licenses";
+import { loadMedia, type MediaAppearance } from "../../src/lib/media";
 import { loadNationalities, type NationalityEntry } from "../../src/lib/nationality";
 import {
   compareByStandard,
@@ -41,6 +42,7 @@ import {
   translateNickname,
 } from "../../src/lib/title/translate";
 import { readCurationSource, toCurationView } from "./curation-files";
+import { readMediaSource } from "./media-files";
 import { readNationalitySource } from "./nationality-files";
 import type { RawComposer, RawDataset, RawWork } from "./openopus";
 
@@ -92,6 +94,7 @@ function buildWork(
   composerId: string,
   overrides: Record<string, string>,
   rating: WorkRating,
+  media: MediaAppearance[] | undefined,
 ): Work {
   const title = tidy(raw.title);
   const override = overrides[raw.id];
@@ -121,6 +124,7 @@ function buildWork(
     curated: rating.curatedStars !== undefined,
     searchTerms: tidy(raw.searchterms),
     facts,
+    media,
   };
 }
 
@@ -178,13 +182,12 @@ async function main() {
   );
   const portraitById = new Map(portraits.map((p) => [p.composerId, p]));
 
+  const curationView = toCurationView(dataset);
+
   // Unlike the optional Japanese overrides above, the curated ratings are not
   // allowed to be missing: a catalogue rated entirely by formula would look
   // plausible and be wrong, which is the failure hardest to spot in review.
-  const curation = loadCuration(
-    await readCurationSource(),
-    toCurationView(dataset),
-  );
+  const curation = loadCuration(await readCurationSource(), curationView);
   for (const warning of curation.warnings) console.warn(`  ! ${warning}`);
   if (curation.errors.length > 0) {
     console.error(`\n${curation.errors.length} problem(s) in data/curation:\n`);
@@ -209,6 +212,18 @@ async function main() {
     process.exit(1);
   }
 
+  // Same optional-coverage story as nationalities — most works have no
+  // entry. Structural validity is checked here against the full Open Opus
+  // dataset; whether the id actually reaches a work with a detail page
+  // (the core index) can only be known after the build loop below, so that
+  // check happens separately, further down.
+  const media = loadMedia(await readMediaSource(), curationView);
+  if (media.errors.length > 0) {
+    console.error(`\n${media.errors.length} problem(s) in data/media.json:\n`);
+    for (const error of media.errors) console.error(`  - ${error}`);
+    process.exit(1);
+  }
+
   await rm(PUBLIC_WORKS_DIR, { recursive: true, force: true });
   await mkdir(PUBLIC_WORKS_DIR, { recursive: true });
   await mkdir(CATALOG_DIR, { recursive: true });
@@ -221,12 +236,18 @@ async function main() {
     const composerStars = curation.composerStars.get(rawComposer.id) ?? 1;
     const works = (dataset.works[rawComposer.id] ?? []).map((raw) => {
       const curated = curation.workStars.get(raw.id);
-      return buildWork(raw, rawComposer.id, overrides, {
-        composerStars,
-        rankedIndex: curation.ranking.get(raw.id),
-        curatedStars: curated?.stars,
-        curatedRank: curated?.rank,
-      });
+      return buildWork(
+        raw,
+        rawComposer.id,
+        overrides,
+        {
+          composerStars,
+          rankedIndex: curation.ranking.get(raw.id),
+          curatedStars: curated?.stars,
+          curatedRank: curated?.rank,
+        },
+        media.media.get(raw.id),
+      );
     });
     totalWorkCount += works.length;
 
@@ -257,6 +278,26 @@ async function main() {
   // comparator, so all of them agree.
   coreWorks.sort(compareByStandard);
 
+  // A media entry on a work with no detail page would be invisible and
+  // unsearchable — the appearance would silently vanish rather than fail
+  // loudly, exactly the failure mode `nationality.ts`'s module doc warns
+  // against. Curating the work (which `isCore` above already promotes into
+  // the core index) is a one-line fix, so this points there rather than
+  // auto-promoting on media's behalf.
+  const coreIds = new Set(coreWorks.map((work) => work.id));
+  const orphanedMedia = [...media.media.keys()].filter((id) => !coreIds.has(id));
+  if (orphanedMedia.length > 0) {
+    console.error(
+      `\n${orphanedMedia.length} entry(ies) in data/media.json point at works outside the core index:\n`,
+    );
+    for (const id of orphanedMedia) {
+      console.error(
+        `  - ${id}: has no detail page — add it to data/curation/works/<composerId>.json to promote it into the core index`,
+      );
+    }
+    process.exit(1);
+  }
+
   const translated = coreWorks.filter(
     (work) => work.titleJa !== work.title,
   ).length;
@@ -286,6 +327,9 @@ async function main() {
     genre: work.genre,
     stars: work.stars,
     score: work.score,
+    // Titles only — `year`/`kind`/`note` are detail-page-only, so they stay
+    // out of the index every visitor's browser downloads.
+    media: work.media?.map((appearance) => appearance.title),
   }));
   await writeFile(
     path.join(CATALOG_DIR, "work-index.json"),
@@ -323,6 +367,7 @@ async function main() {
       `Japanese titles:  ${(meta.translatedRatio * 100).toFixed(1)}%`,
       `portraits:        ${portraits.length}`,
       `nationalities:    ${nationalities.nationalities.size}/${meta.composerCount}`,
+      `media:            ${media.media.size} work(s) / ${[...media.media.values()].reduce((sum, list) => sum + list.length, 0)} appearance(s)`,
       "",
       // The order this prints is the order the catalogue's default sort and
       // every composer page use, in both locales, so it is the fastest way to
