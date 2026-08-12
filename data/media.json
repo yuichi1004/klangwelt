@@ -53,6 +53,15 @@
           "ja": "第2楽章（単独で「弦楽のためのアダージョ」としても知られる）が全編を通じて使われる。",
           "en": "The second movement — better known on its own as the Adagio for Strings — recurs throughout the film."
         }
+      },
+      {
+        "title": { "ja": "エレファント・マン", "en": "The Elephant Man" },
+        "year": 1980,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章が、主人公が眠るように息を引き取る最期の場面に使われる。",
+          "en": "The second movement plays as the protagonist dies peacefully in his sleep at the film's end."
+        }
       }
     ]
   },
@@ -66,6 +75,15 @@
         "note": {
           "ja": "第3曲「月の光」が、噴水の前に集まるラストシーンで流れる。",
           "en": "The third movement, Clair de lune, plays over the closing fountain scene."
+        }
+      },
+      {
+        "title": { "ja": "トワイライト〜初恋〜", "en": "Twilight" },
+        "year": 2008,
+        "kind": "film",
+        "note": {
+          "ja": "第3曲「月の光」が、主人公がエドワードの家で初めて音楽を聴く場面で使われる。",
+          "en": "The third movement, Clair de lune, plays when the protagonist first visits Edward's house and hears him play it."
         }
       }
     ]
@@ -95,6 +113,15 @@
           "ja": "「手紙の二重唱（Sull'aria）」が、刑務所内の放送で流される場面で使われる。",
           "en": "The \"letter duet\" (Sull'aria) plays over the prison's loudspeakers in one of the film's best-known scenes."
         }
+      },
+      {
+        "title": { "ja": "大逆転", "en": "Trading Places" },
+        "year": 1983,
+        "kind": "film",
+        "note": {
+          "ja": "序曲が、映画冒頭のフィラデルフィアの街を映すモンタージュ全体に流れる。",
+          "en": "The overture plays throughout the film's opening montage of Philadelphia waking up."
+        }
       }
     ]
   },
@@ -108,6 +135,602 @@
         "note": {
           "ja": "第4楽章「歓喜の歌」が、主人公アレックスの愛聴曲として作中で繰り返し使われる。",
           "en": "The fourth movement, the \"Ode to Joy\", recurs as protagonist Alex's favourite piece of music."
+        }
+      }
+    ]
+  },
+  "2678": {
+    "work": "La traviata",
+    "media": [
+      {
+        "title": { "ja": "プリティ・ウーマン", "en": "Pretty Woman" },
+        "year": 1990,
+        "kind": "film",
+        "note": {
+          "ja": "主人公2人が観劇するオペラとして描かれ、娼婦が身分違いの恋に落ちるという筋書きが作品自体と重ねられる。",
+          "en": "The opera the two leads attend together; its story of a courtesan falling in love above her station deliberately mirrors the film's own plot."
+        }
+      }
+    ]
+  },
+  "3806": {
+    "work": "Carnival of the Animals",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア2000", "en": "Fantasia 2000" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "「フィナーレ」の部分が、フラミンゴの群れとヨーヨーで遊ぶ1羽を描く一編に使われる。",
+          "en": "The \"Finale\" movement accompanies a segment about a flock of flamingos and one member who plays with a yo-yo."
+        }
+      }
+    ]
+  },
+  "3999": {
+    "work": "Jazz Suite no. 2",
+    "media": [
+      {
+        "title": { "ja": "アイズ ワイド シャット", "en": "Eyes Wide Shut" },
+        "year": 1999,
+        "kind": "film",
+        "note": {
+          "ja": "「ワルツ第2番」が映画の冒頭に流れ、キューブリック監督の遺作の主題音楽となっている。",
+          "en": "\"Waltz No. 2\" opens the film and serves as the main theme of Kubrick's final work."
+        }
+      }
+    ]
+  },
+  "5044": {
+    "work": "Boléro",
+    "media": [
+      {
+        "title": { "ja": "テン（Blake Edwardsの映画）", "en": "10" },
+        "year": 1979,
+        "kind": "film",
+        "note": {
+          "ja": "作中で「理想の音楽」として繰り返し言及され、クライマックスの場面で実際に流れる。",
+          "en": "Repeatedly referenced as the protagonist's idea of the perfect romantic music, and heard in the film's climactic scene."
+        }
+      }
+    ]
+  },
+  "5371": {
+    "work": "Il barbiere di Siviglia",
+    "media": [
+      {
+        "title": { "ja": "ミセス・ダウト", "en": "Mrs. Doubtfire" },
+        "year": 1993,
+        "kind": "film",
+        "note": {
+          "ja": "「私は町の何でも屋」が、冒頭のアニメーション場面でロビン・ウィリアムズの声で歌われる。",
+          "en": "\"Largo al factotum\" is sung by Robin Williams' character's voice during the film's animated opening sequence."
+        }
+      }
+    ]
+  },
+  "5441": {
+    "work": "Guillaume Tell",
+    "media": [
+      {
+        "title": { "ja": "時計じかけのオレンジ", "en": "A Clockwork Orange" },
+        "year": 1971,
+        "kind": "film",
+        "note": {
+          "ja": "序曲の終結部を早回ししたシンセサイザー版が、性的な場面の音楽として使われる。",
+          "en": "A sped-up, synthesizer version of the overture's finale plays during a sexual encounter scene."
+        }
+      },
+      {
+        "title": { "ja": "ローン・レンジャー", "en": "The Lone Ranger" },
+        "year": 1949,
+        "kind": "tv",
+        "note": {
+          "ja": "序曲の終結部が、ラジオ・テレビ・映画版すべてを通じてテーマ曲として使われている。",
+          "en": "The overture's finale has served as the theme music across the radio, television, and film versions."
+        }
+      }
+    ]
+  },
+  "6582": {
+    "work": "Cavalleria rusticana",
+    "media": [
+      {
+        "title": { "ja": "レイジング・ブル", "en": "Raging Bull" },
+        "year": 1980,
+        "kind": "film",
+        "note": {
+          "ja": "間奏曲が、映画の冒頭と結末を挟む形で使われる。",
+          "en": "The Intermezzo bookends the film, playing over both the opening and closing scenes."
+        }
+      }
+    ]
+  },
+  "7277": {
+    "work": "Symphony no. 5 in C sharp minor",
+    "media": [
+      {
+        "title": { "ja": "ベニスに死す", "en": "Death in Venice" },
+        "year": 1971,
+        "kind": "film",
+        "note": {
+          "ja": "第4楽章「アダジエット」が映画の冒頭と結末に使われ、この楽章を広く知らしめた。",
+          "en": "The fourth movement, the Adagietto, opens and closes the film and is largely responsible for its enduring popularity."
+        }
+      }
+    ]
+  },
+  "7486": {
+    "work": "Nutcracker, op. 71a",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア", "en": "Fantasia" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "組曲から複数の曲が抜粋され、妖精やキノコが踊る一編に使われる。",
+          "en": "Several movements of the suite accompany a segment of dancing fairies and mushrooms."
+        }
+      }
+    ]
+  },
+  "7525": {
+    "work": "The Swan Lake, op. 20a",
+    "media": [
+      {
+        "title": { "ja": "ブラック・スワン", "en": "Black Swan" },
+        "year": 2010,
+        "kind": "film",
+        "note": {
+          "ja": "この作品の新演出に主演する若きバレリーナを描く物語の軸そのものになっている。",
+          "en": "The ballet a young dancer is cast to perform, and the axis around which the entire film's plot turns."
+        }
+      }
+    ]
+  },
+  "7601": {
+    "work": "1812 Festival Overture, in E flat major, op. 49",
+    "media": [
+      {
+        "title": { "ja": "Vフォー・ヴェンデッタ", "en": "V for Vendetta" },
+        "year": 2005,
+        "kind": "film",
+        "note": {
+          "ja": "議事堂を爆破するクライマックスの場面で流れる。",
+          "en": "Plays over the climactic destruction of the Houses of Parliament."
+        }
+      }
+    ]
+  },
+  "10074": {
+    "work": "Goldberg Variations, BWV.988",
+    "media": [
+      {
+        "title": { "ja": "羊たちの沈黙", "en": "The Silence of the Lambs" },
+        "year": 1991,
+        "kind": "film",
+        "note": {
+          "ja": "冒頭の「アリア」が、レクター博士が独房で聴く場面に使われる。",
+          "en": "The opening Aria plays as Dr. Lecter listens in his cell."
+        }
+      }
+    ]
+  },
+  "10744": {
+    "work": "Carmina Burana",
+    "media": [
+      {
+        "title": { "ja": "エクスカリバー", "en": "Excalibur" },
+        "year": 1981,
+        "kind": "film",
+        "note": {
+          "ja": "「おお、運命の女神よ（O Fortuna）」が、騎士たちが馬で駆ける場面で使われる。",
+          "en": "\"O Fortuna\" plays as the knights ride into battle."
+        }
+      }
+    ]
+  },
+  "14083": {
+    "work": "Canon and Gigue in D major, for 3 violins and continuo, T.337, \"Pachelbel's Canon\"",
+    "media": [
+      {
+        "title": { "ja": "普通の人々", "en": "Ordinary People" },
+        "year": 1980,
+        "kind": "film",
+        "note": {
+          "ja": "ロバート・レッドフォード監督デビュー作の冒頭と終盤に使われ、この曲を一般に広めた作品として知られる。",
+          "en": "Bookends Robert Redford's directorial debut and is widely credited with bringing the piece to mass popularity."
+        }
+      }
+    ]
+  },
+  "14160": {
+    "work": "L'Apprenti Sorcier",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア", "en": "Fantasia" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "ミッキーマウスが魔法使いの弟子を演じる、映画で最も有名な一編。",
+          "en": "The film's most famous segment, with Mickey Mouse as the title character."
+        }
+      }
+    ]
+  },
+  "15387": {
+    "work": "Orphée aux Enfers",
+    "media": [
+      {
+        "title": { "ja": "ムーラン・ルージュ", "en": "Moulin Rouge!" },
+        "year": 2001,
+        "kind": "film",
+        "note": {
+          "ja": "「地獄のギャロップ（フレンチカンカン）」が、劇中劇の即興場面の音楽として使われる。",
+          "en": "The \"Galop infernal\" (French can-can) underscores the film's frantic scene of the characters improvising a show pitch."
+        }
+      }
+    ]
+  },
+  "15562": {
+    "work": "Rhapsody in Blue",
+    "media": [
+      {
+        "title": { "ja": "マンハッタン", "en": "Manhattan" },
+        "year": 1979,
+        "kind": "film",
+        "note": {
+          "ja": "映画冒頭、ニューヨークの街並みを映すモンタージュ全体に流れる。",
+          "en": "Plays throughout the opening montage of New York City."
+        }
+      },
+      {
+        "title": { "ja": "ファンタジア2000", "en": "Fantasia 2000" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "1930年代のニューヨークを舞台にした一編に使われる。",
+          "en": "Accompanies a segment set in 1930s New York City."
+        }
+      }
+    ]
+  },
+  "15728": {
+    "work": "Tristan und Isolde, WWV 90",
+    "media": [
+      {
+        "title": { "ja": "メランコリア", "en": "Melancholia" },
+        "year": 2011,
+        "kind": "film",
+        "note": {
+          "ja": "前奏曲が全編にわたって使われ、映画の主題音楽となっている。",
+          "en": "The prelude runs throughout the film and serves as its central musical theme."
+        }
+      }
+    ]
+  },
+  "16121": {
+    "work": "Symphony no. 6 in F major, op. 68, \"Pastoral\"",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア", "en": "Fantasia" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "ケンタウロスなどギリシャ神話の生き物が登場する一編に使われる。",
+          "en": "Accompanies a segment depicting centaurs and other figures from Greek mythology."
+        }
+      }
+    ]
+  },
+  "16124": {
+    "work": "Symphony no. 7 in A major, op. 92",
+    "media": [
+      {
+        "title": { "ja": "英国王のスピーチ", "en": "The King's Speech" },
+        "year": 2010,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章が、クライマックスの開戦ラジオ演説の場面で使われる。",
+          "en": "The second movement underscores the climactic wartime radio broadcast."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2007,
+        "kind": "anime",
+        "note": {
+          "ja": "学生オーケストラが演奏する曲として物語の第1部を通じて繰り返し登場する。",
+          "en": "Repeatedly featured as the student orchestra's central piece throughout the story's first arc."
+        }
+      }
+    ]
+  },
+  "16331": {
+    "work": "Violin Sonata no. 9 in A major, op. 47, \"Kreutzer\"",
+    "media": [
+      {
+        "title": { "ja": "四月は君の嘘", "en": "Your Lie in April" },
+        "year": 2014,
+        "kind": "anime",
+        "note": {
+          "ja": "ヴァイオリンコンクール第1次予選でヒロインのかをりが演奏する曲。",
+          "en": "The piece Kaori performs in the first round of the violin competition."
+        }
+      }
+    ]
+  },
+  "16406": {
+    "work": "Symphony no. 5 in C minor, op. 67",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア2000", "en": "Fantasia 2000" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章を抽象的な三角形の図形で表現した、映画の開幕を飾る一編。",
+          "en": "Opens the film, with the first movement rendered as abstract flying triangles of light and dark."
+        }
+      }
+    ]
+  },
+  "16519": {
+    "work": "Tosca",
+    "media": [
+      {
+        "title": { "ja": "007 慰めの報酬", "en": "Quantum of Solace" },
+        "year": 2008,
+        "kind": "film",
+        "note": {
+          "ja": "オーストリアの野外オペラハウスでの上演中に銃撃戦が起こる、シリーズを代表する場面のひとつ。",
+          "en": "A live performance provides the backdrop for one of the series' signature action set pieces, staged at an open-air opera house in Austria."
+        }
+      }
+    ]
+  },
+  "17180": {
+    "work": "Ballade no. 1 in G minor, op. 23",
+    "media": [
+      {
+        "title": { "ja": "四月は君の嘘", "en": "Your Lie in April" },
+        "year": 2014,
+        "kind": "anime",
+        "note": {
+          "ja": "主人公・有馬公生の演奏曲。物語終盤、最終話でも全曲演奏される。",
+          "en": "Protagonist Kousei Arima's signature performance piece, played in full again in the finale."
+        }
+      },
+      {
+        "title": { "ja": "戦場のピアニスト", "en": "The Pianist" },
+        "year": 2002,
+        "kind": "film",
+        "note": {
+          "ja": "廃墟に潜む主人公が、発見したドイツ将校の前で弾く曲。",
+          "en": "Played by the hiding protagonist for the German officer who discovers him."
+        }
+      }
+    ]
+  },
+  "19898": {
+    "work": "Pini di Roma, P.141",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア2000", "en": "Fantasia 2000" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "クジラの群れが空を飛ぶ幻想的な一編に使われる。",
+          "en": "Accompanies a fantastical segment of humpback whales flying through the sky."
+        }
+      }
+    ]
+  },
+  "20429": {
+    "work": "Night on Bald Mountain",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア", "en": "Fantasia" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "終盤、シューベルトの「アヴェ・マリア」と続けて演奏される一編のパートを飾る。",
+          "en": "Forms the penultimate segment, paired directly with Schubert's Ave Maria as the film's closing sequence."
+        }
+      }
+    ]
+  },
+  "20542": {
+    "work": "Piano Trio no. 2 in E flat major, D.929, op. 100",
+    "media": [
+      {
+        "title": { "ja": "バリー・リンドン", "en": "Barry Lyndon" },
+        "year": 1975,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章が全編を通じて繰り返し使われ、映画を代表する旋律になっている。",
+          "en": "The second movement recurs throughout as the film's signature theme."
+        }
+      }
+    ]
+  },
+  "20781": {
+    "work": "Ellens Gesang III, D.839, op. 52, no. 6, \"Ave Maria\"",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア", "en": "Fantasia" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "ムソルグスキー「はげ山の一夜」に続けて演奏され、映画全体を締めくくる。",
+          "en": "Follows directly after Mussorgsky's Night on Bald Mountain to close the film."
+        }
+      }
+    ]
+  },
+  "22103": {
+    "work": "Piano Concerto no. 2 in C minor, op. 18",
+    "media": [
+      {
+        "title": { "ja": "逢びき", "en": "Brief Encounter" },
+        "year": 1945,
+        "kind": "film",
+        "note": {
+          "ja": "映画音楽のほぼ全体をこの協奏曲が占め、道ならぬ恋の情感を支えている。",
+          "en": "The concerto makes up nearly the whole score, carrying the film's mood of doomed romance."
+        }
+      }
+    ]
+  },
+  "22427": {
+    "work": "The Firebird",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア2000", "en": "Fantasia 2000" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "森の精霊が火の鳥によって焼き尽くされ、再生する物語を描く、映画最後の一編。",
+          "en": "Closes the film with a story of a forest spirit destroyed and reborn through the Firebird."
+        }
+      }
+    ]
+  },
+  "22505": {
+    "work": "The Rite of Spring",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア", "en": "Fantasia" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "地球の誕生から恐竜の絶滅までを描く一編に使われる。",
+          "en": "Accompanies a segment depicting the origins of the Earth and the extinction of the dinosaurs."
+        }
+      }
+    ]
+  },
+  "23315": {
+    "work": "Piano Concerto no. 21 in C major, K.467",
+    "media": [
+      {
+        "title": { "ja": "みじかくも美しく燃え", "en": "Elvira Madigan" },
+        "year": 1967,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章がこの映画で広く知られるようになり、「エルヴィラ・マディガン」の愛称で呼ばれる。",
+          "en": "The second movement became famous through this film, which gave the concerto its popular nickname."
+        }
+      }
+    ]
+  },
+  "23566": {
+    "work": "The Magic Flute, K.620",
+    "media": [
+      {
+        "title": { "ja": "アマデウス", "en": "Amadeus" },
+        "year": 1984,
+        "kind": "film",
+        "note": {
+          "ja": "作曲中のモーツァルトが、序曲に合わせて踊るように動き回る場面が描かれる。",
+          "en": "Depicts Mozart dancing exuberantly to the overture while composing the opera."
+        }
+      }
+    ]
+  },
+  "23629": {
+    "work": "Clarinet Concerto in A major, K.622",
+    "media": [
+      {
+        "title": { "ja": "愛と哀しみの果て", "en": "Out of Africa" },
+        "year": 1985,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章が、アフリカの草原を飛行機で飛ぶ印象的な場面に使われる。",
+          "en": "The second movement plays over the film's memorable scene of flying above the African plains."
+        }
+      }
+    ]
+  },
+  "23637": {
+    "work": "Symphony no. 25 in G minor, K.183",
+    "media": [
+      {
+        "title": { "ja": "アマデウス", "en": "Amadeus" },
+        "year": 1984,
+        "kind": "film",
+        "note": {
+          "ja": "映画の冒頭を飾る曲。",
+          "en": "Opens the film."
+        }
+      }
+    ]
+  },
+  "23669": {
+    "work": "Don Giovanni, K.527",
+    "media": [
+      {
+        "title": { "ja": "アマデウス", "en": "Amadeus" },
+        "year": 1984,
+        "kind": "film",
+        "note": {
+          "ja": "第2幕の「騎士長の場」が、モーツァルトの父の訃報を受け取る場面と重ねて使われる。",
+          "en": "The Act II \"Commendatore\" scene is used in connection with Mozart receiving news of his father's death."
+        }
+      }
+    ]
+  },
+  "24521": {
+    "work": "Military Marches, op. 39, \"Pomp and Circumstance\"",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア2000", "en": "Fantasia 2000" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "行進曲第1〜4番が、ドナルドダックがノアの箱舟を手伝う一編に使われる。",
+          "en": "Marches nos. 1 through 4 accompany a segment featuring Donald Duck helping Noah load the ark."
+        }
+      }
+    ]
+  },
+  "24527": {
+    "work": "Cello Concerto in E minor, op. 85",
+    "media": [
+      {
+        "title": { "ja": "ヒラリーとジャッキー", "en": "Hilary and Jackie" },
+        "year": 1998,
+        "kind": "film",
+        "note": {
+          "ja": "この曲を得意としたチェリスト、ジャクリーヌ・デュ・プレの伝記映画。実際の彼女の演奏音源が使われている。",
+          "en": "A biographical film about cellist Jacqueline du Pré, whose signature piece this was; an actual recording of her own performance is used."
+        }
+      }
+    ]
+  },
+  "28101": {
+    "work": "Toccata and fugue in D minor, BWV.565",
+    "media": [
+      {
+        "title": { "ja": "ファンタジア", "en": "Fantasia" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "抽象的なアニメーションによる映画冒頭の一編を飾る。",
+          "en": "Opens the film with an abstract, non-narrative animated segment."
+        }
+      }
+    ]
+  },
+  "28113": {
+    "work": "Polovtsian Dances",
+    "media": [
+      {
+        "title": { "ja": "キスメット", "en": "Kismet" },
+        "year": 1955,
+        "kind": "film",
+        "note": {
+          "ja": "旋律がミュージカルの楽曲「ストレンジャー・イン・パラダイス」に編曲されて使われている。",
+          "en": "Its melody was adapted into the song \"Stranger in Paradise\" for this musical."
         }
       }
     ]
