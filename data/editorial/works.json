@@ -144,5 +144,245 @@
       "ja": "歌詞は19世紀にバイエルンの修道院で発見された中世の詩歌集からとられている。ラテン語、中高ドイツ語、古フランス語が混在し、内容は運命、春、酒場、愛と世俗的で、聖職者の書いたものとしては率直すぎるとして長く注目されなかった。",
       "en": "The texts come from a medieval anthology found in a Bavarian monastery in the nineteenth century. They mix Latin, Middle High German and Old French, and their subjects — fortune, spring, the tavern, love — were long thought too frank for verse written by clerics to be worth much attention."
     }
+  },
+  "23610": {
+    "structure": {
+      "ja": "弦楽合奏（または弦楽五重奏）のための小夜曲で、現在よく演奏されるのは4楽章。自筆の主題目録には本来5楽章と記されているが、第2のメヌエットと組になる楽章の楽譜は失われており、理由も経緯もわかっていない。\n第1楽章はソナタ形式、第2楽章「ロマンス」は緩徐楽章、第3楽章は短いメヌエット、終楽章は快活なロンドで締めくくられる。夜の音楽らしい軽やかさと均整の取れた書法が特徴で、複雑な対位法や劇的な起伏をあえて避けた、飾らない書き方がなされている。",
+      "en": "A serenade for string ensemble, usually heard today in four movements. Mozart's own thematic catalogue lists five, but the music for a second minuet-and-trio has been lost, and neither why nor when is known.\nThe first movement is in sonata form, the second a \"Romance\" slow movement, the third a short minuet, and the finale a bright rondo. Its light touch and balanced phrasing are typical of night-time serenade writing — deliberately free of dense counterpoint or dramatic contrast."
+    },
+    "story": {
+      "ja": "1787年8月10日、ウィーンでオペラ「ドン・ジョヴァンニ」の第2幕を書き進めていた時期に、彼自身の作品目録に記入された。誰の依頼で、何のために書かれたのかを示す記録は残っておらず、彼の生前に演奏された証拠もない。\n「アイネ・クライネ・ナハトムジーク」（小さな夜の音楽）という題名はモーツァルト自身が目録に書き添えた言葉で、特定の作品名というより「ちょっとした夜の音楽」という程度の呼び方だったとみられる。",
+      "en": "He entered it in his own catalogue of works on 10 August 1787, while in the middle of writing Act 2 of Don Giovanni. No record survives of who commissioned it or why, and there is no evidence it was performed in his lifetime.\nThe title — \"a little night music\" — is Mozart's own phrase from that catalogue entry, and seems to have been a casual description rather than a formal name for a particular occasion."
+    }
+  },
+  "14083": {
+    "structure": {
+      "ja": "3つのヴァイオリンと通奏低音のための作品で、カノン（各声部が同じ旋律を一定の間隔で追いかける手法）とジーグの2曲からなるが、演奏・録音されるのはほぼ常にカノンの部分だけである。\n通奏低音は全曲を通じて同じ2小節の低音型を28回繰り返し続け、その上で3声のヴァイオリンが8小節の主題を輪唱のように重ねていく。和声はほとんど動かず、変化は声部が徐々に増え、音型が細かくなっていく過程そのものにある。",
+      "en": "Written for three violins and continuo, it pairs a canon — three voices chasing the same melody at a fixed interval — with a gigue, though in concert and on record only the canon is almost ever heard.\nThe continuo repeats the same two-bar bass pattern twenty-eight times without change, while the three violins layer an eight-bar theme over it in strict imitation. The harmony barely moves; what changes is the gradual entry of each voice and the increasing rhythmic activity above the fixed bass."
+    },
+    "story": {
+      "ja": "作曲された時期も経緯も記録がなく、19世紀を通じてほとんど忘れられた作品だった。1919年に学術的に再発見されたものの一般には知られず、広く知られるようになったのは1968年のジャン=フランソワ・パイヤールによる録音がきっかけとされる。\n以後、結婚式の定番曲として、また多くのポピュラー音楽で和声進行がそのまま借用される曲として定着した。パッヘルベル自身がこれほど有名になることを想定していたと考える根拠は何もない。",
+      "en": "Nothing is known about when or why it was written, and for most of the nineteenth century it was essentially forgotten. It resurfaced in scholarly circles in 1919 but remained a specialist's curiosity; wide recognition is usually traced to a 1968 recording by the conductor Jean-François Paillard.\nSince then it has become a fixture at weddings and a chord progression borrowed wholesale by countless pop songs. There is no reason to think Pachelbel himself expected anything like this reception."
+    }
+  },
+  "7525": {
+    "structure": {
+      "ja": "バレエ音楽「白鳥の湖」全4幕から、演奏会用に主要な場面を抜き出した組曲。編成や曲順は版によって異なるが、情景（白鳥のテーマ）、ワルツ、四羽の白鳥の踊り、情景（終曲）といった、旋律の書法がとりわけ際立つ場面が中心となる。\n「白鳥のテーマ」と呼ばれる旋律はハープの分散和音を伴うオーボエ独奏で示され、全曲を通じて繰り返し立ち返ってくる。",
+      "en": "A concert suite drawn from the four-act ballet, gathering the scenes where the melodic writing is most vivid — the \"Swan Theme,\" the waltz, the dance of the four cygnets, and the closing scene among them. The exact selection and order vary by edition.\nThe Swan Theme itself, a solo oboe over rippling harp arpeggios, returns repeatedly across the ballet as its central musical idea."
+    },
+    "story": {
+      "ja": "全曲は1877年にモスクワのボリショイ劇場で初演されたが、振付・美術・演奏のいずれも酷評され、当時から失敗作とみなされた。作曲者自身も自分のバレエ音楽が受け入れられなかったと感じたまま世を去っている。\n1895年、彼の死後にプティパとイワーノフによる新しい振付で再演され、そこで初めて広く評価されるようになった。演奏会用組曲はこの再評価を後押しした形である。",
+      "en": "The full ballet was first staged in 1877 at Moscow's Bolshoi Theatre, but the choreography, designs and playing were all harshly criticised, and it was judged a failure at the time. He died believing his ballet music had not been accepted.\nIt was only after his death, in an 1895 revival with new choreography by Petipa and Ivanov, that the ballet won the reputation it has today — a reassessment the concert suite has helped carry forward."
+    }
+  },
+  "17109": {
+    "structure": {
+      "ja": "3曲からなる夜想曲集で、演奏機会がもっとも多いのは変ホ長調の第2番である。ゆるやかに装飾された旋律線が、規則的な伴奏の上を自由に揺れ動きながら歌う書き方は、後年の夜想曲すべての基本形になった。\n形式はロンド風で、同じ主題が装飾を変えながら3度現れる。装飾音や間の取り方を演奏者の裁量に委ねる書法は、アイルランドのピアニスト、ジョン・フィールドが確立した夜想曲の様式を踏まえつつ、そこに一段と自由な装飾を加えたものである。",
+      "en": "A set of three nocturnes, of which the E-flat major second is by far the most often played. Its long, ornamented melodic line floating over a steady accompaniment became the template for every nocturne he wrote afterward.\nThe form is roughly rondo-like, the same theme returning three times, each time more elaborately decorated. The style built directly on the nocturne as the Irish pianist John Field had established it, adding a freer, more improvisatory kind of ornamentation on top."
+    },
+    "story": {
+      "ja": "1830年から1832年ごろ、20歳前後で書かれ、1832年に出版された。献呈先はピアニストのマリー・プレイエルで、楽器製作者カミーユ・プレイエルとは別人である。\nショパンはフィールドの夜想曲を早くから愛好し、自身のスタイルの土台のひとつとしていた。この第2番も同じ変ホ長調で書かれたフィールドの夜想曲を下敷きにしているとしばしば指摘されるが、旋律の装飾の密度と和声の運びはショパン独自のものへと発展している。",
+      "en": "Written around 1830-32, when he was about twenty, and published in 1832. It is dedicated to the pianist Marie Pleyel — not to be confused with Camille Pleyel, the piano maker.\nChopin had admired Field's nocturnes since his youth and built much of his own style on them; this one is often noted for its resemblance to a Field nocturne in the same key, though the density of ornament and the harmonic writing are entirely his own."
+    }
+  },
+  "13297": {
+    "structure": {
+      "ja": "全4曲のピアノ組曲。「前奏曲」「メヌエット」「月の光」「パスピエ」の順に並び、なかでも第3曲「月の光」の知名度が際立って高い。\n「月の光」は変ニ長調、輪郭のはっきりしない和声と、拍節感を薄めた自由なリズムで書かれ、明確な旋律よりも響きの移ろいそのものを聴かせる書き方をしている。組曲全体のタイトルにある「ベルガマスク」は、イタリアのベルガモ地方に由来する古い舞曲様式を指す。",
+      "en": "A four-movement piano suite — Prélude, Menuet, Clair de lune, Passepied — in which the third movement, Clair de lune, is by far the best known.\nWritten in D-flat major, it favours blurred harmony and a rhythm with its metrical pulse deliberately softened, so that the shifting colour of the sound matters more than any clear melodic line. The suite's title refers to an old dance style associated with the Italian region of Bergamo."
+    },
+    "story": {
+      "ja": "1890年ごろ、彼が28歳の頃に書き始められたが、その時点では出版されず、楽譜は出版社シューダンに売却されたまま長く眠っていた。彼自身、初期の作風で書かれたこの曲を自分の成熟した様式にそぐわないとして出版に消極的だったとされる。\n最終的に1905年、その頃には名声を確立していた彼の新作として売れると判断した出版社の申し出で改訂・出版された。「月の光」という曲名も、もとはヴェルレーヌの詩にちなむ「感傷的な散歩」という題から、この時に改められたものである。",
+      "en": "He began it around 1890, at 28, though it went unpublished at the time — the manuscript was sold to the publisher Choudens and then left untouched for years. He is said to have been reluctant to publish work in an early style he no longer felt represented him.\nIt was finally revised and published in 1905, when a publisher judged that a new piece from the now-famous Debussy would sell. The title Clair de lune itself, taken from a Verlaine poem, replaced an earlier title, Promenade sentimentale, at this same revision."
+    }
+  },
+  "24521": {
+    "structure": {
+      "ja": "「威風堂々」と通称される行進曲集。カタログ上は全曲がまとめて扱われるが、圧倒的に有名なのは1901年に書かれた第1番で、中間部（トリオ）の広々とした旋律がとりわけよく知られている。\n行進曲らしい付点リズムの主部と、テンポを落として朗々と歌う中間部という対比が基本形で、第1番のトリオはのちに独立した歌としても広まった。",
+      "en": "A set of marches known collectively as Pomp and Circumstance. The catalogue groups them together, but by far the most famous is the first, written in 1901, whose broad trio melody is what most listeners actually know.\nThe basic pattern contrasts a march-like dotted-rhythm main section with a slower, more expansive trio — and the trio of the first march went on to have a life of its own as a separate song."
+    },
+    "story": {
+      "ja": "第1番は1901年10月19日、リヴァプールで作曲者自身の指揮により初演され、熱狂的に迎えられた。2日後のロンドンでの演奏では、聴衆の求めに応じて同じ箇所が2度繰り返されるという、プロムナード・コンサートの歴史上でも異例の反応があったと伝えられる。\n翌1902年、国王エドワード7世がこの中間部の旋律を歌にしてはどうかと勧めたことをきっかけに、A・C・ベンソンが歌詞を付け、「希望と栄光の国」として広まった。",
+      "en": "The first march was premiered under his own baton in Liverpool on 19 October 1901 to an enthusiastic response. Two days later in London, the same passage is said to have been encored twice at the audience's demand — an unusual reaction even by the standards of the Promenade concerts.\nThe following year, King Edward VII reportedly suggested that the trio melody would work well as a song; A. C. Benson supplied words, and it became known as Land of Hope and Glory."
+    }
+  },
+  "9796": {
+    "structure": {
+      "ja": "フランス風序曲の様式にならった全5曲の組曲。序曲に続いて、エール、ガヴォット、ブーレ、ジーグという舞曲風の楽章が並ぶ。\n第2曲「エール」は弦楽合奏だけで奏でられる緩徐楽章で、一定のリズムを刻む低音の上に、息の長い旋律線が乗る書き方をしている。この楽章単独での知名度は組曲全体を大きく上回る。",
+      "en": "Five movements in the manner of a French overture: the overture itself, followed by dance-derived movements — an Air, a Gavotte, a Bourrée and a Gigue.\nThe second movement, the Air, is a slow movement for strings alone, a long unbroken melodic line carried over a steadily stepping bass. On its own, this one movement is far better known than the suite that contains it."
+    },
+    "story": {
+      "ja": "作曲時期は明確でないが、1730年代初頭、ライプツィヒで書かれたとみられる。「エール」が単独で広く知られるようになったのは、1871年にヴァイオリニストのアウグスト・ヴィルヘルミが独奏ヴァイオリンとピアノのために編曲し、旋律をG線だけで弾けるよう1オクターヴ以上低い調に移調したことがきっかけである。「G線上のアリア」という通称はこの編曲に由来する。\nバッハ自身がこの楽章をG線で弾くことを想定していたわけではない。",
+      "en": "The date of composition is not certain, but it is generally placed in the early 1730s, in Leipzig. The Air became known on its own chiefly through an 1871 arrangement by the violinist August Wilhelmj, who transposed the melody down more than an octave for solo violin and piano so that it could be played entirely on the instrument's lowest string — the source of the nickname \"Air on the G String.\"\nBach himself wrote no such requirement into the original."
+    }
+  },
+  "6547": {
+    "structure": {
+      "ja": "全4幕の歌劇。舞台はスペインのセビリア、自由奔放なジプシー女性カルメンと、彼女に翻弄される兵士ドン・ホセの物語が軸となる。\n「ハバネラ」「闘牛士の歌」など、スペイン風の民俗的な旋律とリズムを取り入れた親しみやすいナンバーが多く、当時のフランス・オペラ・コミック（台詞入りの軽い喜劇）の伝統に反する、殺人で幕を閉じる筋書きが物議を醸した。",
+      "en": "An opera in four acts, set in Seville, built around the free-spirited Carmen and the soldier Don José whom she draws in and destroys. Numbers like the Habanera and the Toreador Song draw on Spanish folk melody and rhythm and are among the most recognisable in all opera.\nIts ending — the heroine murdered on stage — broke sharply with the light, spoken-dialogue tradition of French opéra comique the work was nominally written for, and that break was part of what scandalised its first audiences."
+    },
+    "story": {
+      "ja": "1875年3月3日、パリのオペラ・コミック座で初演された。下層階級の人物設定や、恋人に殺されるという結末が「不道徳」だと受け止められ、初演は聴衆の反応も冷ややかだったと伝えられる。\nビゼーはその3か月後、1875年6月3日に心臓発作で急死しており、この作品が後年これほどの評価を得ることを知らないまま世を去った。同年ウィーンでの上演で高く評価されたのをきっかけに、以後急速に世界的な人気を獲得していった。なお、初演が「大失敗」だったという逸話は、死後にオペラ・コミック座が話題作りのために誇張して広めた面が大きいとする見方もある。",
+      "en": "It premiered on 3 March 1875 at the Opéra-Comique in Paris. The low-life setting and the heroine's murder at the final curtain were felt to be immoral, and the first-night reception is said to have been cool.\nBizet died suddenly of a heart attack three months later, on 3 June 1875, without knowing how the work would come to be regarded. A well-received Vienna production that same year set off its rapid rise to worldwide popularity. The story that the premiere was an outright disaster is now thought to have been exaggerated after his death by the Opéra-Comique itself, as a way of generating interest."
+    }
+  },
+  "7109": {
+    "structure": {
+      "ja": "管弦楽と（終曲のみ）女声合唱のための組曲で、火星・金星・水星・木星・土星・天王星・海王星の7曲からなる。太陽系の惑星そのものではなく、占星術上の性格（好戦性、平和、俊敏さ、快活さなど）を音で描くという構想で書かれている。\n最初に着手されたのは「火星」で、5拍子の攻撃的なリズムが繰り返される。もっとも親しまれているのは「木星」で、中間部の広がりのある旋律は後年、賛美歌や愛国歌としても転用された。",
+      "en": "A suite for orchestra, with women's chorus only in the finale, covering Mars, Venus, Mercury, Jupiter, Saturn, Uranus and Neptune. It was conceived not as a depiction of the planets themselves but of the astrological character each was traditionally associated with — Mars's belligerence, Venus's peace, Mercury's quickness, and so on.\nThe first movement written was Mars, built on a relentless five-beat rhythm. The best loved is Jupiter, whose broad central melody was later adapted into a hymn tune and a patriotic song in its own right."
+    },
+    "story": {
+      "ja": "作曲は1914年から1916年にかけて行われた。「火星」の着想は1914年夏、第一次世界大戦の開戦前にすでに得られていたが、完成後に大戦が続くなかで発表されたこともあり、戦争への反応として書かれた曲だと受け取られることが多い。\n全曲の初演は私的な演奏会として1918年9月29日にロンドンで行われ、一般向けの完全な形での初演は1920年になってからだった。娘のイモージェン・ホルストは、4年におよぶ戦争のあとで「火星」の激しさは聴衆にはほとんど耐え難いものだったと後に振り返っている。",
+      "en": "He composed it between 1914 and 1916. Mars was sketched in the summer of 1914, before war broke out, but because it appeared while the war was still going on, it is often assumed to be a direct response to it.\nThe complete suite was first heard privately in London on 29 September 1918; the first full public performance did not take place until 1920. His daughter Imogen Holst later recalled that after four years of war, audiences found the sheer violence of Mars almost unbearable."
+    }
+  },
+  "5441": {
+    "structure": {
+      "ja": "全4幕の歌劇で、スイスの伝説的な英雄ウィリアム・テルによるオーストリア支配への抵抗を描く。ロッシーニ最後のオペラであり、序曲だけが単独で演奏される機会が圧倒的に多い。\n序曲は4部構成で、夜明けを描く低弦の情景に始まり、嵐の場面、牧歌的な間奏を経て、金管が主導する急速な終結部に至る。この終結部が単独で広く知られている。",
+      "en": "An opera in four acts telling the legend of the Swiss hero William Tell and his resistance to Austrian rule. It was Rossini's last opera, and today it is overwhelmingly the overture, not the opera itself, that gets performed.\nThe overture falls into four sections: a dawn scene for low strings, a storm, a pastoral interlude, and a fast brass-led finale — and it is this finale that is famous on its own."
+    },
+    "story": {
+      "ja": "1829年8月3日、パリで初演された。ロッシーニはこの作品を最後に、40年近く生き続けながらも新しいオペラを一曲も書かなかった。理由ははっきりしないが、興行的に十分成功しており、以後は宗教曲や声楽小品の作曲、美食家としての生活に専念したとされる。\n序曲終結部は、20世紀のラジオ・テレビ番組「ローン・レンジャー」のテーマ曲として使われたことで、アメリカでは物語全体よりもむしろこの用途で広く記憶されている。",
+      "en": "It premiered in Paris on 3 August 1829. Rossini lived for almost another forty years but never wrote another opera. The reasons are not entirely clear, but the work was commercially successful enough that he could afford to stop; he spent his remaining decades on sacred and vocal music and, famously, on food.\nThe overture's finale went on to serve as the theme for the American radio, television and film versions of The Lone Ranger, and in the United States it is now remembered at least as much for that as for the opera it introduces."
+    }
+  },
+  "26281": {
+    "structure": {
+      "ja": "6曲からなる連作交響詩の全体で、チェコの風土や歴史を描く。個々の曲はそれぞれ独立して初演されており、6曲通しての演奏を前提に書かれたわけではない。\nもっとも有名なのは第2曲「ヴルタヴァ」（モルダウ）で、水源の小さな流れから始まり、森や農村の結婚式、月夜の水の精、急流を経て、プラハを流れる大河へと成長していく様子を、単一の旋律を軸に描く標題音楽である。",
+      "en": "A cycle of six symphonic poems depicting the Czech landscape and history. Each piece received its own separate premiere; the set was not conceived from the start as something to be performed straight through.\nThe best known is the second, Vltava (The Moldau), programme music built around a single recurring melody that traces the river from its small mountain springs, through forest and village wedding, past moonlit water spirits and rapids, to the broad river flowing through Prague."
+    },
+    "story": {
+      "ja": "「ヴルタヴァ」が作曲されたのは1874年11月20日から12月8日までのわずか18日間で、この年の夏から始まっていた聴力の悪化が進行していた時期にあたる。同年10月には両耳とも完全に聴力を失っており、この曲は自身の内なる想像だけを頼りに書き上げられたことになる。\n連作全体は1874年から1879年にかけて作曲され、耳が聞こえなくなって以降の作品のほうが評価が高いとされることも多い。全6曲通しての初演は1882年11月5日、プラハで行われた。",
+      "en": "Vltava was written in just eighteen days, from 20 November to 8 December 1874, during the very period his hearing was collapsing. By October that year he had lost hearing in both ears completely, meaning the piece was composed entirely from inner imagination rather than anything he could still hear played.\nThe whole cycle was written between 1874 and 1879, and the pieces written after he went deaf are often rated among his finest work. The complete cycle received its first performance as a set in Prague on 5 November 1882."
+    }
+  },
+  "7486": {
+    "structure": {
+      "ja": "バレエ音楽「くるみ割り人形」全2幕から、演奏会用に8曲を抜き出した組曲。「小序曲」に続き、行進曲、こんぺい糖の踊り（チェレスタの独奏が特徴）、トレパック、アラビアの踊り、中国の踊り、葦笛の踊り、花のワルツと続く。\n「こんぺい糖の踊り」で使われるチェレスタは、当時のロシアではまだ知られていなかった鍵盤打楽器で、彼はパリでこの楽器を見つけ、他の作曲家に知られる前にと内密に取り寄せたと伝えられる。",
+      "en": "An eight-number concert suite drawn from the two-act ballet: a miniature overture, a march, the Dance of the Sugar Plum Fairy (built around a solo celesta), the Trepak, the Arabian Dance, the Chinese Dance, the Dance of the Reed Flutes, and the Waltz of the Flowers.\nThe celesta used for the Sugar Plum Fairy was, at the time, unknown in Russia; he is said to have discovered the instrument in Paris and arranged to have one shipped home under wraps, before any rival composer could use it first."
+    },
+    "story": {
+      "ja": "1891年、帝室劇場支配人イワン・フセヴォロシスキーの依頼で、バレエ「くるみ割り人形」の作曲が始まった。原作はE.T.A.ホフマンの物語をアレクサンドル・デュマ（父）が翻案したものである。\nバレエ本編の初演は1892年12月17日、サンクトペテルブルクのマリインスキー劇場で行われたが、筋書きの一貫性の乏しさなどが批判され、当初の評価は芳しくなかった。一方、初演に先立って発表された演奏会用組曲は好評を博しており、バレエ本編とは対照的な受け止められ方をした。",
+      "en": "The commission came in 1891 from Ivan Vsevolozhsky, director of the Imperial Theatres. The story is based on Alexandre Dumas père's retelling of E. T. A. Hoffmann's tale.\nThe ballet itself premiered on 17 December 1892 at the Mariinsky Theatre in St Petersburg, and was criticised at the time for its thin plot; the initial reception was lukewarm. The concert suite, however, had already been performed separately and was warmly received — a striking contrast to how the ballet itself was first received."
+    }
+  },
+  "18105": {
+    "structure": {
+      "ja": "イプセンの戯曲「ペール・ギュント」のために書かれた劇音楽全曲（演奏時間約90分）から、彼自身が4曲を選んで再構成した組曲第1番。「朝」「オーゼの死」「アニトラの踊り」「山の魔王の宮殿にて」の順に並ぶ。\n「朝」はフルート独奏に始まる牧歌的な旋律、「山の魔王の宮殿にて」は同じ短い音型を執拗に反復しながら加速し、強奏へと積み上げていく書き方が対照的で、組曲全体の起伏を作っている。",
+      "en": "A four-movement suite Grieg himself assembled from his roughly ninety minutes of incidental music for Ibsen's play Peer Gynt: Morning Mood, Åse's Death, Anitra's Dance, and In the Hall of the Mountain King, in that order.\nMorning Mood opens with a pastoral tune on solo flute; In the Hall of the Mountain King instead repeats the same short figure obsessively, accelerating and building to a fortissimo — the two movements anchor the suite's contrasting moods."
+    },
+    "story": {
+      "ja": "劇音楽は1875年に作曲され、1876年2月24日にクリスチャニア（現オスロ）で戯曲とともに初演された。グリーグは戯曲の依頼を受けた当初、自分には荷が重すぎるとためらっていたと伝えられる。\n初演後、彼は全曲の中から人気の高い場面を選び出し、1888年に組曲第1番として出版した。演奏会用に独立させたことで、原作の劇音楽よりもむしろこの組曲のほうが広く親しまれるようになった。",
+      "en": "The incidental music was written in 1875 and first performed with the play in Christiania (now Oslo) on 24 February 1876. Grieg is said to have doubted at first that he was equal to the commission.\nAfterward he drew the most popular numbers out of the full score and published them as Suite No. 1 in 1888. Detached from the play, the suite went on to become far better known than the incidental music it was drawn from."
+    }
+  },
+  "13085": {
+    "structure": {
+      "ja": "3曲からなるピアノ小品集。いずれも同じような緩やかな3拍子で書かれ、拍の頭を強調しない伴奏の上に、簡潔な旋律が漂うように置かれる。\n当時のフランス音楽に主流だった劇的な起伏や機能和声の推進力をあえて避け、和声を同じ響きのまま長く留まらせる書き方をしている。3曲はそれぞれ独立した曲として書かれ、共通の主題を発展させるような関係にはない。",
+      "en": "Three piano pieces, each in a similarly unhurried triple metre, a plain melody floating over an accompaniment that avoids stressing the beat.\nThe harmony deliberately avoids the dramatic contrast and forward-driving functional progressions common in French music of the time, instead letting the same sonorities sit still for long stretches. The three pieces are independent of one another rather than variations on a shared theme."
+    },
+    "story": {
+      "ja": "1888年までに全曲が書き上げられたが、まとめて出版されたのは10年後の1898年のことで、それまでは個別にしか出版されていなかった。発表当初はほとんど注目されなかった。\n再評価のきっかけは1896年、友人だったドビュッシーが第1番と第3番を管弦楽用に編曲したことである。「ジムノペディ」という題名の由来についてサティ自身は特定の文献を挙げているが、研究者の間では別の詩からの連想だとする説もあり、確定していない。",
+      "en": "All three were finished by 1888, but they were not published together until ten years later, in 1898; before that they appeared only individually, and attracted little notice at the time.\nTheir rehabilitation is usually traced to 1896, when his friend Debussy orchestrated the first and third. Satie himself pointed to a specific source for the title Gymnopédies, though scholars have also proposed a different literary origin, and the question remains unsettled."
+    }
+  },
+  "18889": {
+    "structure": {
+      "ja": "序奏と5つのワルツ、コーダからなるウィンナ・ワルツ。序奏は静かなトレモロに乗ってワルツの主題を予告し、そこから性格の異なる5つのワルツが次々と続く。\n最初のワルツ主題は分散和音を上昇していく親しみやすい旋律で、以後のワルツはそれぞれ異なる調・拍節感の揺らぎを見せながら、最後は序奏の回想を経て華やかに閉じられる。",
+      "en": "A Viennese waltz in the standard shape: an introduction, five waltz sections each with its own character, and a coda.\nThe introduction sets up the main waltz theme over a hushed tremolo; the first waltz itself is a rising, arpeggio-based tune, and each of the following sections shifts key and metrical feel before the piece recalls the introduction and closes in full splendour."
+    },
+    "story": {
+      "ja": "1866年、プロイセンとの戦争（普墺戦争）でオーストリアが敗れた直後、意気消沈した市民を元気づける目的で、ウィーン男声合唱協会の指揮者ヘルベックが作曲を依頼した。\n当初は合唱団のための歌曲として書かれ、1867年2月15日に初演されたが、敗戦を揶揄する歌詞が不評でさほど評価されなかった。同年4月、パリ万国博覧会で歌詞なしの管弦楽版が演奏されると一転して熱狂的に迎えられ、以後彼の代名詞となる作品として定着した。",
+      "en": "In 1866, just after Austria's defeat in its war with Prussia, the conductor Johann von Herbeck commissioned a piece from Strauss to lift the spirits of a demoralised Vienna, on behalf of the city's Men's Choral Association.\nIt was written first as a choral song and premiered on 15 February 1867, but the lyrics — which mocked the lost war — went over poorly, and the piece made little impression. Then, in April that year, a purely orchestral version performed at the Paris World's Fair was received with enthusiasm, and it has been inseparable from his name ever since."
+    }
+  },
+  "15387": {
+    "structure": {
+      "ja": "ギリシャ神話のオルフェウスとエウリュディケーの物語を下敷きにした風刺的な喜歌劇（オペレッタ）全2幕（のち4幕に改訂）。オリュンポスの神々を俗物として描く筋書きが特徴で、シリアスな神話劇の伝統をあえて茶化している。\n終幕、地獄で開かれる宴の場で演奏される「地獄のギャロップ」が特に有名で、のちにフレンチカンカンの伴奏曲として定着した通称でも広く知られている。",
+      "en": "A satirical operetta in two acts (later revised to four), retelling the Orpheus and Eurydice myth with the Olympian gods played as petty and vain — a deliberate spoof of the solemn mythological drama the story usually receives.\nThe best-known number is the \"Galop infernal,\" played at the finale's underworld party scene, which went on to become the standard accompaniment for the French can-can and is now often known simply by that name."
+    },
+    "story": {
+      "ja": "1858年10月21日、パリのブフ・パリジャン座で初演された。オリュンポスの神々を俗な人間として描く風刺や、当時のオペラの慣習では考えられなかったメヌエットの直後にカンカンを置く構成が物議を醸した。\n一方で初演は興行的には成功し、経営難にあった彼の劇団を救うことになった。今日「フレンチカンカン」として知られる踊りの音楽の多くは、この「地獄のギャロップ」がひな型になっている。",
+      "en": "It premiered on 21 October 1858 at the Théâtre des Bouffes-Parisiens in Paris. The satire of the Olympian gods as petty, vain figures, and the placement of a can-can right after a minuet — unthinkable by the conventions of the time — caused a stir.\nEven so, the premiere run was a box-office success and rescued Offenbach's financially struggling company. Much of what is now recognised as \"French can-can\" music takes this Galop infernal as its model."
+    }
+  },
+  "16375": {
+    "structure": {
+      "ja": "全3楽章。「幻想曲風ソナタ」という副題が示すとおり、当時のソナタの型を外れた構成をとる。通常なら快速な楽章が置かれる第1楽章に、三連符の伴奏に乗って歌う嬰ハ短調の緩徐楽章が置かれ、そこから次第にテンポと激しさを増していく。\n終楽章は一転して激烈なプレストで、ソナタ形式の枠組みのなかに分散和音による疾走的な音型が絶え間なく続く。第1楽章の静けさと終楽章の激しさの落差が、この曲の性格そのものになっている。",
+      "en": "Three movements, and true to its subtitle \"Sonata quasi una fantasia,\" it departs from the usual sonata layout. Where a fast movement would normally open the piece, there is instead a slow C-sharp minor movement, its melody sung over a triplet accompaniment, and the music grows steadily faster and more intense from there.\nThe finale is a sudden reversal: a fierce Presto built from restless arpeggiated figures within a sonata-form frame. The gap between the opening movement's stillness and the finale's violence is the character of the piece."
+    },
+    "story": {
+      "ja": "1801年に作曲され、翌年出版された。ベートーヴェン自身のピアノ教え子だった16歳の伯爵令嬢ジュリエッタ・グイチャルディに献呈されており、当時彼が彼女に思いを寄せていたことが知られている。\n「月光」という愛称はベートーヴェン自身が付けたものではない。彼の死後5年たった1832年、詩人ルートヴィヒ・レルシュタープが第1楽章をルツェルン湖畔の月光に浮かぶ小舟にたとえた批評を書いたことに由来する通称である。",
+      "en": "Composed in 1801 and published the following year, it is dedicated to Countess Giulietta Guicciardi, his sixteen-year-old piano pupil, for whom he is known to have had feelings at the time.\nThe nickname \"Moonlight\" is not his own. It comes from a review published five years after his death, in 1832, in which the poet Ludwig Rellstab likened the first movement to a boat drifting in moonlight on Lake Lucerne."
+    }
+  },
+  "7680": {
+    "structure": {
+      "ja": "全21曲からなるピアノ連弾のための舞曲集。ハンガリーの旋律に着想を得た自由なテンポの変化、急な強弱の対比、シンコペーションを特徴とし、いずれも数分程度の小品である。\nとりわけ有名な第5番は、緩急が目まぐるしく入れ替わる展開と、金管楽器を思わせる強奏の主題で知られ、管弦楽版でもしばしば演奏される。",
+      "en": "A set of twenty-one dances for piano four hands, each a short piece built on the free tempo changes, sudden dynamic contrasts and syncopation associated with Hungarian melody.\nNo. 5 is the best known, prized for its abrupt shifts between fast and slow and a bold, brass-like main theme; it is often heard in orchestral arrangements as well as the original piano version."
+    },
+    "story": {
+      "ja": "1850年、彼はハンガリーのヴァイオリン奏者エデ・レメーニと出会い、各地で共演するなかでチャールダーシュなど「ジプシー音楽」と呼ばれた様式に触れた。舞曲集は1858年から1869年にかけて書かれ、第1・2集（第1〜10番）が1869年、第3・4集（第11〜21番）が1880年に出版されている。\nブラームス自身はこれらを自作の旋律ではなく既存の民謡の編曲だとみなしており、出版譜にも通常の作品番号を付けずに扱われている。1879年、かつて共演したレメーニが、収録曲の一部は自分の作った旋律だとして盗用を主張する騒動が起きた。",
+      "en": "In 1850 he met the Hungarian violinist Ede Reményi and toured with him, and through that partnership encountered the csárdás and the other idioms then loosely called \"gypsy music.\" The dances were written between 1858 and 1869: Books 1 and 2 (nos. 1-10) appeared in 1869, Books 3 and 4 (nos. 11-21) in 1880.\nBrahms himself regarded them as arrangements of existing tunes rather than his own melodies, which is why they were published without a normal opus number. In 1879, Reményi, his former duo partner, publicly claimed that some of the melodies were his own and accused Brahms of taking them without credit."
+    }
+  },
+  "16741": {
+    "structure": {
+      "ja": "シェイクスピアの戯曲のための序曲（作品21）と、のちに追加された劇音楽（作品61、序曲を含め全曲で演奏時間約1時間）からなる。もっとも知られているのは劇音楽に含まれる「結婚行進曲」で、金管による華やかなファンファーレに始まる。\n序曲自体は妖精の世界を描く軽やかな高弦の和音で開始され、恋人たちの主題、職人たちのユーモラスな場面、驢馬の鳴き声を模した音型などが次々に現れる、当時としては型破りな性格描写の書き方をしている。",
+      "en": "An overture (Op. 21) for Shakespeare's play, later joined by a full set of incidental music (Op. 61, roughly an hour together). The best known number from the incidental music is the Wedding March, which opens with a bright brass fanfare.\nThe overture itself opens with light, high string chords conjuring the fairy world, then moves through the lovers' theme, the comic scenes of the tradesmen, and a figure imitating a braying donkey — an unusually vivid, almost cinematic kind of character-painting for its time."
+    },
+    "story": {
+      "ja": "序曲は1826年、彼が17歳のときに書かれた。特定の上演のためではなく、ドイツ語訳で読んだ戯曲に触発された演奏会用の作品として作曲されている。\n16年後の1842年、プロイセン国王フリードリヒ・ヴィルヘルム4世の依頼で、実際の上演に合わせた劇音楽一式が新たに書き加えられた。「結婚行進曲」を含む全曲は1843年10月14日、戯曲とともに初演された。",
+      "en": "The overture was written in 1826, when he was seventeen — not for any particular staging, but as a concert piece inspired by reading the play in German translation.\nSixteen years later, in 1842, King Frederick William IV of Prussia commissioned a full set of incidental music for an actual production. The complete score, including the Wedding March, was first performed with the play on 14 October 1843."
+    }
+  },
+  "9148": {
+    "structure": {
+      "ja": "独唱・合唱・管弦楽のための教会カンタータ、全10曲。前半・後半それぞれの最後に同じ旋律にもとづくコラールが置かれ、全体を締めくくる。\nこの最後のコラール（日本では「主よ、人の望みの喜びよ」の通称で知られる）は、揺れ動く3連符の伴奏の上に穏やかな旋律が乗る書き方をしており、コラール旋律自体はバッハの作曲ではなく、ヨハン・ショップによる既存の讃美歌旋律をバッハが編曲・和声付けしたものである。",
+      "en": "A church cantata in ten movements for soloists, chorus and orchestra. The same chorale melody closes both halves of the work.\nThat closing chorale — known in English as \"Jesu, Joy of Man's Desiring\" — sets a calm melody over a rocking triplet accompaniment. The tune itself is not Bach's own composition; it is an existing hymn melody by Johann Schop, which Bach arranged and harmonised."
+    },
+    "story": {
+      "ja": "原型は1716年、ワイマール時代に書かれたが、その版にはレチタティーヴォが含まれていなかった。ライプツィヒに移った後の1723年、聖母マリア訪問の祝日のために拡大改訂され、3つのレチタティーヴォと、有名な終曲のコラールが新たに加えられた。\nバッハはライプツィヒの聖トーマス教会音楽監督として、年間60曲近い教会カンタータを作曲・指揮する立場にあり、この曲もその大量の職務の産物のひとつである。",
+      "en": "The original version was written in 1716, during his time in Weimar, and lacked recitatives. After moving to Leipzig, he expanded it in 1723 for the feast of the Visitation, adding three recitatives and the now-famous closing chorale.\nAs director of music at Leipzig's Thomaskirche, Bach was expected to compose and direct close to sixty church cantatas a year, and this piece was one product of that heavy workload."
+    }
+  },
+  "27227": {
+    "structure": {
+      "ja": "バレエ「ガイーヌ」から演奏会用に抜粋された組曲第1番。もっとも有名な「剣の舞」は終幕で踊られる曲で、木琴と金管による性急な主題が、ほとんど休みなく反復される。\nアルメニアやコーカサス地方の民俗音楽の音階・リズムを取り入れた書法が全体の特徴で、「剣の舞」以外にも民族色の濃い舞曲が組曲に含まれている。",
+      "en": "A concert suite drawn from the ballet Gayane. Its most famous number, the Sabre Dance, comes from the final act — a relentless, almost unbroken repetition of an urgent theme in xylophone and brass.\nThe suite draws throughout on the scales and rhythms of Armenian and wider Caucasian folk music, and includes other strongly folk-flavoured dances beyond the Sabre Dance."
+    },
+    "story": {
+      "ja": "バレエ「ガイーヌ」は1942年、それ以前に書いた「幸福」（1939年）という作品を土台に作曲され、同年12月9日、疎開先のペルミで初演された。コルホーズ（集団農場）を舞台に、愛国的な女性ガイーヌとその夫の物語を描く。\n「剣の舞」はバレエ全体を書き上げたあとに追加された曲で、もとは「クルド人の踊り」という題で構想されていたと伝えられる。この曲によりハチャトゥリアンはスターリン賞を受けた。",
+      "en": "The ballet Gayane was composed in 1942, built on an earlier work of his called Happiness (1939), and premiered on 9 December that year in Perm, where the theatre had been evacuated during the war. Set on a Soviet collective farm, it follows the patriotic Gayane and her husband.\nThe Sabre Dance was added after the rest of the score was finished, and is said to have originally been conceived under the title \"Dance of the Kurds.\" The work won Khachaturian a Stalin Prize."
+    }
+  },
+  "20781": {
+    "structure": {
+      "ja": "ピアノ伴奏付きの独唱歌曲。分散和音による揺れる伴奏の上に、なだらかな旋律線が置かれ、詩の各連ごとに同じ旋律が繰り返される有節形式に近い作りをしている。\n歌詞の冒頭が「アヴェ・マリア」の呼びかけで始まることから、のちにラテン語のカトリック聖歌の祈祷文を当てはめて歌われることが多くなったが、もとの歌詞はラテン語の祈祷文とは別の詩である。",
+      "en": "A solo song with piano accompaniment. A smooth vocal line sits over a rocking, arpeggiated accompaniment, in a form close to strophic — the melody repeating with each stanza of text.\nBecause the text opens with an invocation of \"Ave Maria,\" the song is now very often performed with the words of the Latin Catholic prayer substituted in — but that Latin prayer is not the text Schubert actually set."
+    },
+    "story": {
+      "ja": "1825年、ウォルター・スコットの物語詩「湖上の美人」（1810年発表）からの7篇をドイツ語訳で歌曲化した連作の1曲として作曲された。詩中でこの歌を歌うのは、父とともに洞窟に身を隠す登場人物エレンで、聖母マリアへの祈りの言葉を歌う場面にあたる。\n歌曲集は1826年、作品52として出版された。宗教的な典礼のために書かれた曲ではないが、冒頭の呼びかけの言葉がそのまま定着し、結婚式や葬儀で歌われる定番曲となった。",
+      "en": "It was written in 1825 as part of a cycle setting seven poems, in German translation, from Walter Scott's narrative poem The Lady of the Lake (published 1810). In the story, it is sung by Ellen, hiding in a cave with her father, as a prayer to the Virgin Mary.\nThe songs were published as Op. 52 in 1826. It was not written for any liturgical use, but the opening words stuck, and it became a fixture at weddings and funerals under that title."
+    }
+  },
+  "19622": {
+    "structure": {
+      "ja": "ニーチェの同名の哲学書に着想を得た交響詩で、書物の章題のいくつかをそのまま楽章相当の見出しに用いている。冒頭「日の出」は、オルガンの低音のうえにトランペットが上行する3つの音を提示する序奏で、単独でもよく知られる。\n以後は変奏やフーガ的な書法を交えながら、科学・宗教・踊りの歌といった主題が次々と現れ、最後は調性の異なる2つの和音が交互に鳴り続ける、解決しないまま曲を閉じる書き方で終わる。",
+      "en": "A tone poem inspired by Nietzsche's philosophical book of the same name, borrowing several of its chapter titles as section headings. The famous opening, \"Sunrise,\" is a brief introduction — three rising trumpet notes over a low organ pedal — and is well known on its own.\nWhat follows moves through variation and fugue-like writing on themes tied to science, religion and a dance song, before the piece closes unresolved, two chords in different keys alternating without settling."
+    },
+    "story": {
+      "ja": "1896年に作曲され、同年11月27日、作曲者自身の指揮によりフランクフルトで初演された。シュトラウスは初演にあたり、「ニーチェの偉大な著作を音楽で描写しようとしたのではなく、原始から始まる人類の発展を、宗教的・科学的な段階を経て『超人』の思想に至るまで、音楽によって伝えようとした」という趣旨のプログラム・ノートを寄せている。\n彼自身の言葉どおり、この曲は書物の忠実な音楽化ではなく、あくまで「自由な着想」にとどまるとされる。",
+      "en": "It was composed in 1896 and premiered under his own baton in Frankfurt on 27 November that year. In his own programme note for the premiere, Strauss wrote that he had not tried to depict Nietzsche's book in music but rather to convey, through music, an idea of humanity's development from its origins, through religious and scientific stages, to Nietzsche's idea of the superman.\nBy his own account, then, the piece is only \"freely based on\" the book, not a musical retelling of it."
+    }
+  },
+  "23512": {
+    "structure": {
+      "ja": "全3楽章のピアノソナタで、いずれの楽章もソナタ形式をとらない点が異例である。第1楽章は主題と6つの変奏、第2楽章はメヌエット、終楽章が有名な「トルコ行進曲」である。\n終楽章は当時ウィーンで流行していたオスマン帝国の軍楽（ジャニチャリ音楽）を模した書き方で、太鼓や打楽器を思わせる和音の連打を、ピアノという単一楽器の書法に置き換えて表現している。",
+      "en": "A three-movement piano sonata, unusual in that none of its movements is in sonata form: a theme and six variations, a minuet, and the famous finale, the \"Turkish March.\"\nThat finale imitates the Ottoman Janissary military bands then fashionable in Vienna, translating their drums and clashing percussion into a single keyboard part built on hammered, drum-like chords."
+    },
+    "story": {
+      "ja": "1783年、モーツァルトが妻コンスタンツェとともにザルツブルクで夏を過ごしていた時期に書かれたとみられ、当時のウィーンで弟子に教えるための曲として作られたと考えられている。1784年、出版社アルタリアから、同時期の2曲のソナタとともに出版された。\n「トルコ風」の音楽への関心は、前年に発表したジングシュピール「後宮からの誘拐」でも取り入れており、この終楽章はそうした流行を鍵盤独奏という形で再現したものである。",
+      "en": "It was probably written in 1783, during a summer Mozart and his wife Constanze spent in Salzburg, likely intended as teaching material for his Viennese pupils. It was published in 1784 by Artaria, alongside two sonatas written around the same time.\nHis interest in \"Turkish\" style also appears the previous year in his singspiel The Abduction from the Seraglio; this finale translates that same fashionable interest into a solo keyboard piece."
+    }
   }
 }
