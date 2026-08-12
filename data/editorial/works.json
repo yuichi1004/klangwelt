@@ -624,5 +624,125 @@
       "ja": "1741年、バッハ自身の鍵盤練習曲集（クラヴィーア練習曲集）第4部として出版された。「ゴルトベルク」という通称は、19世紀初頭の伝記作家フォルケルが伝えた逸話に由来する。\nその逸話によれば、不眠に悩むロシア大使ケイザーリンク伯爵が、お抱えの若い鍵盤奏者ゴルトベルクに夜な夜な弾かせるための曲をバッハに依頼したという。しかし当時のゴルトベルクはまだ14歳ほどで、この曲の要求する超絶技巧を弾きこなせたとは考えにくく、献辞も残されていないことから、現在では後世の創作である可能性が高いとされている。",
       "en": "It was published in 1741 as the fourth part of Bach's own Clavier-Übung (keyboard practice) series. The nickname \"Goldberg\" comes from a story told by the early biographer Forkel in the early nineteenth century.\nAccording to that story, the insomniac Russian ambassador Count Keyserlingk commissioned the piece from Bach so that his young resident keyboardist, Goldberg, could play it for him through sleepless nights. But Goldberg was only about fourteen at the time, hardly a plausible performer for music this demanding, and no dedication to Keyserlingk survives — so the tale is now generally thought to be a later invention."
     }
+  },
+  "20766": {
+    "structure": {
+      "ja": "完成しているのは第1・2楽章の2つのみ。第3楽章スケルツォはピアノ譜でほぼ書き上げられているものの、管弦楽用に書き起こされたのは冒頭のわずか2ページで、そこで中断している。\n第1楽章は低弦の不安げな旋律から始まり、続くオーボエとクラリネットのユニゾンによる主題が特徴的。それまでの交響曲の慣例と異なり、3拍子系の楽章が続く構成をとる。",
+      "en": "Only two movements survive complete. A third-movement scherzo exists almost finished in piano short score, but the orchestration breaks off after just two pages.\nThe first movement opens with an uneasy melody in the low strings, followed by a distinctive theme in oboe and clarinet unison. Unusually for a symphony of the period, the movements that do exist are all in some form of triple metre."
+    },
+    "story": {
+      "ja": "1822年に作曲が始まったが、なぜ途中で放棄されたのかは今も定説がない。同時期に取り組んでいたピアノ独奏曲「さすらい人幻想曲」に関心が移ったため、あるいはこの年に発症したとされる病の影響、あるいはベートーヴェンの交響曲がもたらした重圧など、複数の説が唱えられているが、いずれも推測の域を出ない。\nシューベルトは完成していた2楽章の楽譜を、あるボヘミアの音楽協会の名誉会員に選出してくれた礼として、友人フュッテンブレンナーの兄アンゼルムに贈った。楽譜はその後30年以上も手元に置かれたままとなり、1865年、指揮者ヨハン・ヘルベックがようやくこれを見出して初演にこぎつけている。",
+      "en": "Composition began in 1822, and why it was left unfinished has never been settled. Theories include his shifting attention to the solo piano Wanderer Fantasy he was writing around the same time, the effects of an illness he is thought to have contracted that year, and the sheer weight of Beethoven's example — but none of these can be confirmed.\nSchubert gave the manuscript of the two finished movements to his friend Anselm Hüttenbrenner, as thanks for having him made an honorary member of a Styrian music society. It then sat untouched for more than three decades until the conductor Johann Herbeck rediscovered it in 1865 and finally brought it to performance."
+    }
+  },
+  "25919": {
+    "structure": {
+      "ja": "全4楽章。第2楽章は静かな変奏曲主題で始まるが、弱奏を予期させておいて、その直後に管弦楽全体による唐突な強奏の一撃が打ち込まれる。この「驚愕」がこの曲の通称の由来である。\n以降の変奏でもこの一撃が再現されることはなく、あくまで一度きりの仕掛けとして楽章全体の中に埋め込まれている。",
+      "en": "Four movements. The second is a set of variations that opens quietly, lulling the ear toward a soft continuation — only for the whole orchestra to strike a sudden, loud chord, the \"surprise\" that gives the symphony its name.\nThe jolt is never repeated in the variations that follow; it functions purely as a single, one-time device planted within an otherwise gentle movement."
+    },
+    "story": {
+      "ja": "1791年、最初のロンドン滞在中に作曲され、翌1792年3月23日、ハノーヴァー・スクエア・ルームズで初演された。\nこの「驚愕」の仕掛けについて、伝記作者グリージンガーが聴衆を眠りから覚まさせるためだったのかと尋ねたところ、ハイドンは、当時同じロンドンで一週間先に演奏会を開いていた弟子プレイエルに客を奪われないよう、目新しさで先手を打ちたかっただけだと答えたという。居眠りする客を驚かせるために仕込んだという逸話も広まっているが、こちらは後世の創作の色が濃い。",
+      "en": "It was composed in 1791 during his first visit to London and premiered on 23 March 1792 at the Hanover Square Rooms.\nAsked by his biographer Griesinger whether the \"surprise\" was meant to wake up a dozing audience, Haydn reportedly said he simply wanted a novel effect that would draw attention away from his former pupil Pleyel, who had a rival concert series running in London that same season. A popular story that he wrote it after spotting an audience member asleep in the front row appears to be a later embellishment."
+    }
+  },
+  "17119": {
+    "structure": {
+      "ja": "単一楽章のピアノ独奏曲。堂々とした主部主題に続き、中間部では低音域でオクターヴの連打が延々と続く技巧的な難所があり、演奏者に高い持久力を要求する。\nポロネーズはポーランドの宮廷舞踊に由来する3拍子の様式で、ショパンはこの伝統的な形式を、祖国の栄光を思わせる壮大な規模の作品へと拡大している。",
+      "en": "A single-movement piano piece. A grand main theme is followed by a central section built on a long, punishing passage of octaves hammered out in the bass — a technical trial that demands real stamina from the player.\nThe polonaise is a triple-metre form rooted in Polish court dance; Chopin expands the traditional shape into a work of grand, almost orchestral scale evoking his homeland's former glory."
+    },
+    "story": {
+      "ja": "1842年、療養のため滞在していたノアンで、持病の結核が悪化しつつあるなかで作曲された。当時のポーランドはロシア帝国の支配下にあり、祖国を離れて暮らすショパンの作品には、しばしばこうした政治的な背景が重ねて読み取られてきた。\n「英雄」という呼び名はショパン自身が付けたものではなく、後年広まった通称である。友人でドイツの銀行家アルベール・レーオに献呈され、1843年に出版された。",
+      "en": "It was composed in 1842 at Nohant, where he had gone to recuperate, while his tuberculosis was worsening. Poland at the time was under Russian imperial rule, and Chopin's works, written from exile, have often been read against that political backdrop.\nThe nickname \"Heroic\" is not his own; it caught on only later. The piece is dedicated to his friend, the German banker Auguste Léo, and was published in 1843."
+    }
+  },
+  "6431": {
+    "structure": {
+      "ja": "序曲に続き、シチリアーナ風の緩徐楽章「平和」、快活な「歓喜」、そして2曲の「メヌエット」からなる組曲。国王の要望により当初は弦楽器を含まない、トランペット・ホルン・オーボエ・ファゴット・打楽器のみの大編成吹奏楽として書かれた。\nのちに屋内での演奏のために弦楽器を加えた版も作られている。",
+      "en": "A suite opening with an overture, followed by a siciliana-style slow movement titled Peace, a lively Rejoicing, and two minuets. At the king's insistence it was originally scored for a huge wind band alone — trumpets, horns, oboes, bassoons and percussion — with no strings at all.\nHandel later added a string version for indoor performance."
+    },
+    "story": {
+      "ja": "1748年に締結されたアーヘンの和約(オーストリア継承戦争の終結)を祝う目的で、1749年に作曲された。祝賀行事のため、ロンドンのグリーン・パークには全長120メートルにおよぶ木造の仮設パビリオンが建てられ、1万発近い花火と101門の大砲が用意された。\n4月21日におこなわれたリハーサルには1万2000人もの観客が集まり、ロンドン橋の交通が3時間にわたり麻痺したと伝えられる。しかし4月27日の本番では、花火の演出中に火災が発生し、催しは早々に打ち切られることになった。",
+      "en": "It was composed in 1749 to celebrate the Treaty of Aix-la-Chapelle, signed the previous year, which ended the War of the Austrian Succession. A wooden pavilion some 120 metres long was built in London's Green Park for the occasion, with nearly ten thousand fireworks and 101 cannon assembled for the display.\nA rehearsal on 21 April drew an audience of some 12,000 and reportedly brought traffic on London Bridge to a halt for three hours. The actual event on 27 April, however, was cut short when the fireworks display caught fire."
+    }
+  },
+  "7616": {
+    "structure": {
+      "ja": "全3楽章。終楽章はロシアの民俗舞踊を思わせる急速なロンドで、独奏ヴァイオリンに高度な重音奏法や広い音域を飛び越える跳躍が次々と要求される。\n第1楽章のカデンツァも異例に長く書かれており、超絶技巧を前面に押し出した、当時としては演奏至難とされた協奏曲である。",
+      "en": "Three movements. The finale is a fast rondo evoking Russian folk dance, demanding difficult double-stops and wide leaps across the strings from the soloist throughout.\nThe first movement's cadenza is also unusually long, and the whole concerto puts virtuosity front and centre — difficult enough, by the standards of its day, to be called nearly unplayable."
+    },
+    "story": {
+      "ja": "1878年春、スイスのクラランスに滞在中、弟モデストと若きヴァイオリン奏者コテックとともに過ごしていたわずか1か月ほどの間に作曲された。\n当初はハンガリー出身のヴァイオリニスト、レオポルト・アウアーに献呈される予定だったが、アウアーはこの曲を演奏不可能だとして拒絶した。落胆したチャイコフスキーは献辞をアドルフ・ブロツキーに差し替えている。初演は完成から3年後の1881年12月4日、ウィーンでブロツキーの独奏によりようやく実現した。",
+      "en": "It was composed in the spring of 1878 in Clarens, Switzerland, over the course of about a month, while he was staying there with his brother Modest and the young violinist Iosif Kotek.\nHe originally intended to dedicate it to the Hungarian violinist Leopold Auer, who rejected it as unplayable. Disappointed, Tchaikovsky replaced the dedication with the name of Adolph Brodsky, who finally gave the premiere three years later, on 4 December 1881, in Vienna."
+    }
+  },
+  "7744": {
+    "structure": {
+      "ja": "全4楽章。終楽章の中心主題は、ベートーヴェンの交響曲第9番終楽章の「歓喜の歌」を思わせる旋律として知られ、指揮者ハンス・フォン・ビューローがこの曲を「ベートーヴェンの交響曲第10番」と呼んだことでも有名になった。\n序奏部では、執拗に反復されるティンパニの音型の上に半音階的な旋律が重なり、重々しい緊張感を作り出す。",
+      "en": "Four movements. The finale's central theme closely echoes the \"Ode to Joy\" melody from the finale of Beethoven's Ninth Symphony, a resemblance famous enough that the conductor Hans von Bülow nicknamed the whole work \"Beethoven's Tenth.\"\nThe introduction builds tension through a chromatic melody laid over an insistently repeated timpani figure."
+    },
+    "story": {
+      "ja": "ブラームス自身の言葉によれば、最初の着想から完成まで21年を要した。1854年、21歳のときにベートーヴェンの交響曲第9番を初めて聴き、その衝撃から自身も交響曲を手がけようという思いを抱くようになったとされる。\n「あの巨人(ベートーヴェン)が背後で行進する足音が聞こえる」と語り、長らく交響曲の作曲を避け続けていたが、1876年にようやく完成させた。初演は同年11月4日、友人フェリックス・オットー・デソフの指揮によりカールスルーエでおこなわれた。ベートーヴェンとの比較を、ブラームス自身は快く思っていなかったと伝えられる。",
+      "en": "By his own account, the symphony took twenty-one years from first idea to completion. The story traces back to 1854, when a 21-year-old Brahms heard Beethoven's Ninth Symphony for the first time, an experience said to have first planted the idea of writing a symphony of his own.\nHe spoke of hearing \"the giant marching behind me,\" and avoided writing a symphony for years afterward, finally finishing this one in 1876. It premiered on 4 November that year in Karlsruhe, conducted by his friend Felix Otto Dessoff. Brahms is said to have been unhappy about the Beethoven comparison that followed him ever after."
+    }
+  },
+  "9664": {
+    "structure": {
+      "ja": "独奏楽器としてヴァイオリン、リコーダー、オーボエ、トランペットという異例の組み合わせを用いる合奏協奏曲、全3楽章。トランペットが自然倍音しか出せない当時の楽器でありながら、他の独奏楽器と対等以上に扱われ、しばしば全体を圧するほどの存在感を示す。\n第2楽章ではトランペットが休止し、残る3つの独奏楽器と通奏低音だけで演奏される。",
+      "en": "A concerto grosso in three movements with an unusual solo group: violin, recorder, oboe and trumpet. The trumpet — a valveless natural instrument limited to the notes of the harmonic series — is treated as equal to, if not more prominent than, the other soloists, often threatening to overpower them.\nThe trumpet drops out entirely in the second movement, leaving the remaining three soloists with continuo alone."
+    },
+    "story": {
+      "ja": "6曲からなる協奏曲集の一つとして、1721年3月、ケーテンからブランデンブルク辺境伯クリスティアン・ルートヴィヒに宛てて楽譜が送られた。バッハは献辞のなかで、以前辺境伯の前で演奏した際に作品の提供を約束していたと述べている。\nしかし辺境伯からの謝礼も反応も一切なく、演奏された記録も残っていない。楽譜はそのまま辺境伯の書庫に埋もれ、出版されたのはバッハの死から100年後、1850年になってからのことだった。",
+      "en": "It is one of six concertos Bach sent from Köthen to Christian Ludwig, Margrave of Brandenburg, in March 1721. In his dedication, Bach recalled having played for the margrave once before and promised to send some of his compositions.\nNo thanks or payment ever came back, and there is no record that the pieces were ever performed for him. The scores lay forgotten in the margrave's library and were not published until 1850, a century after Bach's death."
+    }
+  },
+  "13215": {
+    "structure": {
+      "ja": "単一楽章の管弦楽曲。冒頭、フルート独奏が半音階的に漂う旋律を無伴奏で奏でる場面が特に有名で、明確な拍節感や調性感をあえて曖昧にした書き方が全曲を貫いている。\n牧神が真昼の気だるさのなかでまどろみ、ニンフたちとの戯れを半ば夢のように回想する情景を音で描いており、はっきりした物語の筋よりも移ろう感覚や気分の描写に重きが置かれている。",
+      "en": "A single-movement orchestral piece. Its famous opening — an unaccompanied flute melody drifting chromatically — sets the tone for a work that deliberately blurs any strong sense of metre or key throughout.\nIt evokes a faun drowsing through the heat of midday, half-dreaming of encounters with nymphs; the music favours shifting sensation and mood over any clear narrative line."
+    },
+    "story": {
+      "ja": "象徴派の詩人マラルメの詩「牧神の午後」に着想を得た作品で、1894年12月22日、パリで初演された。マラルメ自身はこの曲を聴いたのち、自作の詩をさらに超えるものだと絶賛したと伝えられる。\n1912年、この曲に振付けたバレエ「牧神の午後」がニジンスキーの主演・振付によりパリで上演された際には、性的な仕草を思わせる動きが物議を醸し、大きなスキャンダルとなった。原詩をきちんと読んでいなかったとされるニジンスキーの演出は、音楽そのものとは別の文脈で論争を呼んだ。",
+      "en": "Inspired by Stéphane Mallarmé's poem \"L'après-midi d'un faune,\" it premiered in Paris on 22 December 1894. Mallarmé is said to have been so struck by it that he called the music an extension of his own poem, going beyond what the words alone could do.\nIn 1912, a ballet set to the piece, choreographed by and starring Nijinsky, was staged in Paris and caused a major scandal over a gesture read as sexually explicit. Nijinsky, who reportedly had not read the poem closely, produced a controversy that had more to do with his own staging than with Debussy's score."
+    }
+  },
+  "22248": {
+    "structure": {
+      "ja": "全3楽章の大規模な協奏曲。独奏チェロが単なる技巧披露にとどまらず、管弦楽と対等に旋律を歌い交わす書き方が特徴で、チェロ協奏曲というジャンルの代表作のひとつに数えられる。\n終楽章の結尾部は当初と異なる形に書き直されており、それまでの主題群が回想されたのち、静かに消え入るように閉じられる。",
+      "en": "A large-scale concerto in three movements in which the solo cello does far more than display technique, trading melodic lines with the orchestra as something closer to an equal partner — one of the cornerstone works of the cello concerto repertoire.\nThe finale's ending was rewritten from its original form: the earlier movements' themes are recalled once more before the music fades quietly to a close."
+    },
+    "story": {
+      "ja": "チェロという楽器を独奏に不向きだと考えていたドヴォルザークは、チェリストのハヌシュ・ヴィハーンから協奏曲を書いてほしいと長年頼まれながらも応じずにいた。しかし1894年、ニューヨークの音楽院で同僚だった作曲家ヴィクター・ハーバートのチェロ協奏曲を聴き、心を動かされて着手を決意したとされる。\n1894年11月から1895年2月にかけてニューヨークで作曲され、帰国後の1895年6月、義理の姉であり若き日に思いを寄せていたヨゼフィナの訃報に接し、終楽章の結尾部を60小節にわたって書き直した。初演は1896年3月19日、ロンドンでレオ・スターンの独奏によりおこなわれた。",
+      "en": "Dvořák thought the cello unsuited to solo work and long resisted requests for a concerto from the cellist Hanuš Wihan. He is said to have changed his mind in 1894 after hearing a cello concerto by his New York Conservatory colleague, the composer Victor Herbert.\nHe wrote it in New York between November 1894 and February 1895; after returning home, in June 1895, news of the death of his sister-in-law Josefina — a woman he had once loved as a young man — led him to rewrite sixty bars of the finale's ending. It premiered on 19 March 1896 in London, with Leo Stern as soloist."
+    }
+  },
+  "23315": {
+    "structure": {
+      "ja": "全3楽章。第2楽章アンダンテは、弱音器を付けた弦楽器の三連符による伴奏の上に、独奏ピアノが息の長い旋律を歌う緩徐楽章で、協奏曲全体のなかでもとりわけ広く知られている。\n第1楽章は行進曲風の付点リズムの主題で始まり、堂々とした規模を持つ。終楽章は快活なロンドで締めくくられる。",
+      "en": "Three movements. The Andante slow movement, in which the solo piano sings a long-breathed melody over a muted-string triplet accompaniment, is by far the concerto's best-known part.\nThe first movement opens with a march-like dotted rhythm and unfolds on a grand scale; the finale closes with a lively rondo."
+    },
+    "story": {
+      "ja": "1785年3月9日に完成した。同じ年の前月に完成したばかりの短調のピアノ協奏曲第20番(K.466)に続く1曲で、当時のウィーンでピアニスト・作曲家として絶頂期にあった彼の旺盛な創作力を物語っている。この年だけで彼は3曲のピアノ協奏曲を書き上げている。",
+      "en": "It was completed on 9 March 1785, just a month after its minor-key predecessor, the Twentieth Piano Concerto (K.466). It belongs to a burst of activity in which he wrote three piano concertos that year alone, at the height of his career in Vienna as both pianist and composer."
+    }
+  },
+  "2687": {
+    "structure": {
+      "ja": "全4幕の歌劇。古代エジプトを舞台に、エジプトの将軍ラダメスと、彼が愛する捕虜の王女アイーダ、そして彼女に恋敵となるエジプト王女アムネリスの三角関係を描く。\n第2幕の「凱旋の場」では、舞台上でトランペットの祝典的なファンファーレが奏でられる大規模な場面が置かれ、グランド・オペラらしい壮麗な様式美を見せる一方、終幕は生き埋めにされる主人公2人の静かな二重唱で幕を閉じる対照的な構成をとる。",
+      "en": "An opera in four acts set in ancient Egypt, centred on the love triangle between the Egyptian general Radamès, the captive Ethiopian princess Aida he loves, and Amneris, the Egyptian princess who also loves him.\nAct 2's Triumphal Scene, with its onstage fanfare trumpets, delivers grand-opera spectacle at its most lavish — a sharp contrast to the quiet final duet, sung by the two lovers as they are sealed alive in a tomb."
+    },
+    "story": {
+      "ja": "エジプト副王イスマーイール・パシャから、カイロに新設された歌劇場の柿落とし公演用にオペラの作曲を依頼された。当初広まった「スエズ運河開通を祝うために書かれた」という説は誤りで、運河開通式典向けの祝典音楽の依頼は別途あったものの、ヴェルディはそちらを断っている。\n普仏戦争の影響で舞台装置と衣裳の輸送が遅れ、劇場の開場には間に合わなかった。初演は1871年12月24日にカイロでおこなわれたが、ヴェルディ自身はこの公演には立ち会っておらず、翌1872年2月8日のミラノ・スカラ座での上演をもって本当の初演とみなしていたと伝えられる。",
+      "en": "It was commissioned by Ismail Pasha, Khedive of Egypt, for the opening of a new opera house in Cairo. The popular story that it was written to celebrate the opening of the Suez Canal is a myth; Verdi was separately invited to write ceremonial music for that occasion and turned it down.\nThe Franco-Prussian War delayed shipment of the sets and costumes, so the opera missed the theatre's actual opening. It finally premiered in Cairo on 24 December 1871, though Verdi did not attend, and is said to have regarded the Milan production at La Scala on 8 February 1872 as the real premiere."
+    }
+  },
+  "5040": {
+    "structure": {
+      "ja": "ピアノ独奏のための小品(のち管弦楽にも編曲)。パヴァーヌは16〜17世紀の宮廷で流行した荘重な2拍子の行進舞曲で、ラヴェルはこの古い様式を借りながら、簡潔で親密な響きの作品に仕立てている。\n演奏時間は6分ほど。技巧的な難度は高くないが、抑制されたテンポと均整の取れたフレージングを保つことが求められる。",
+      "en": "A short piece for solo piano, later also orchestrated. The pavane was a stately, slow duple-metre processional dance fashionable in European courts of the sixteenth and seventeenth centuries; Ravel borrows the old form for a concise, intimate piece of his own.\nIt runs to around six minutes. Technically undemanding, it instead calls for restraint of tempo and evenly balanced phrasing throughout."
+    },
+    "story": {
+      "ja": "1899年、パリ音楽院でフォーレに師事していた時期に作曲された。ピアノ版は音楽の後援者だったポリニャック公妃(本名ウィナレッタ・シンガー)に献呈されている。管弦楽版は1910年に発表された。\n題名の由来を尋ねられたラヴェルは、「この言葉の響きの組み合わせが気に入っただけで、曲の内容とは関係がない」という趣旨の発言を残している。「亡き王女のための」という題名から鎮魂の曲と誤解されがちだが、本人は、実在した特定の王女への哀悼ではなく、ベラスケスが描いたような幼い王女がかつて踊ったかもしれないパヴァーヌを思い描いたものだと説明している。",
+      "en": "It was composed in 1899, while he was studying with Fauré at the Paris Conservatoire. The piano version is dedicated to the Princesse de Polignac (born Winnaretta Singer), a patron of music; an orchestral version followed in 1910.\nAsked about the title, Ravel said he simply liked the sound of the words together and that it had nothing to do with the piece's content. Despite the title's suggestion of mourning, he insisted it was not a lament for any real princess, but an evocation of the kind of pavane a little infanta such as those painted by Velázquez might once have danced."
+    }
   }
 }
