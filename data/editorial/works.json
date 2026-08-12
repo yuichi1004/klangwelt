@@ -984,5 +984,125 @@
       "ja": "1906年から1908年にかけて作曲され、1908年に出版、同年12月18日にパリでハロルド・バウアーの演奏により初演された。\n献辞は、1905年生まれの娘クロード=エンマ、愛称「ショウショウ」に宛てられている。楽譜には「これから始まることについて、父からの優しいお詫びとともに、愛するショウショウへ」という趣旨の献辞が添えられている。",
       "en": "It was composed between 1906 and 1908, published in 1908, and premiered in Paris on 18 December that year, played by Harold Bauer.\nThe dedication is to his daughter, Claude-Emma, born in 1905 and known as \"Chou-Chou.\" The score carries an inscription addressed to her, offering, in his own words, a father's tender apology for what follows."
     }
+  },
+  "15755": {
+    "structure": {
+      "ja": "序夜(前夜)と位置づけられる全1幕の楽劇で、休憩なしにおよそ2時間半通して演奏される。「ニーベルングの指環」4部作全体の発端にあたる。\n序奏はホ長調の低音ひとつから始まり、同じ和音の上でホルンの分散和音が136小節にわたって積み重なっていく。ラインの流れそのものを音で表した場面とされ、この後の全曲を通じて再三形を変えて現れる数々のライトモティーフが、この序夜のうちに次々と提示されていく。",
+      "en": "A single-act opera positioned as the \"preliminary evening\" of the four-part Ring cycle, played straight through for about two and a half hours with no interval.\nThe prelude begins on a single low E-flat, over which horn arpeggios build for 136 bars — music usually heard as depicting the flow of the Rhine itself. Across the opera that follows, many of the leitmotifs that recur, transformed, throughout the entire cycle are introduced for the first time."
+    },
+    "story": {
+      "ja": "台本は「指環」4部作のうち最後に書かれたが、作曲は最初に手がけられた。1852年11月に台本を完成させたワーグナーは、1853年から54年にかけて音楽を書き上げている。\n彼は4部作をまとめて上演する構想を持っていたため、この曲だけを単独で上演することには消極的だったが、後援者バイエルン国王ルートヴィヒ2世の意向で1869年9月22日にミュンヘンで単独初演された。ワーグナー自身が思い描いた形での上演、すなわち4部作を通しての上演がバイロイトで実現したのは1876年である。",
+      "en": "The libretto was the last of the four Ring texts to be written, but the first to be set to music. Wagner finished the text in November 1852 and composed the score between 1853 and 1854.\nHe intended the four operas to be staged together and was reluctant to let this one be performed alone, but his patron King Ludwig II of Bavaria insisted, and it was given its own premiere in Munich on 22 September 1869. The complete cycle, staged as Wagner had originally envisioned, followed at Bayreuth in 1876."
+    }
+  },
+  "17276": {
+    "structure": {
+      "ja": "全24曲からなる小品集で、長調と短調を交互に、五度圏に沿ってすべての調を一巡する構成をとる。バッハの「平均律クラヴィーア曲集」を思わせる、全調を網羅する曲集の伝統に連なる作品である。\n各曲は数十秒から数分程度ときわめて短く、それぞれが単一の楽想や気分を凝縮して描く。第15番は雨だれのように反復される音型から「雨だれ」の通称で呼ばれる。",
+      "en": "A set of twenty-four short pieces moving through every major and minor key around the circle of fifths, alternating major and minor — a work in the tradition of complete-key cycles going back to Bach's Well-Tempered Clavier.\nEach piece lasts anywhere from under a minute to a few minutes, distilling a single mood or gesture. No. 15 takes its nickname, \"Raindrop,\" from a repeated note that runs through it like falling rain."
+    },
+    "story": {
+      "ja": "着想は1831年ごろまで遡る可能性があるが、本格的に取り組まれたのは1830年代後半で、完成は1838年から39年にかけてのマヨルカ島滞在中だった。恋人ジョルジュ・サンドとその子供たちとともにパリの湿った気候を避けて訪れたこの島で、荒れ果てた修道院に置かれた粗末なスペイン製ピアノを使わざるを得ない環境のなか、体調を崩しながら書き上げられたと伝えられる。\n1839年に出版され、楽譜にはドイツのピアニスト、ヨーゼフ・クリストフ・ケスラーへの献辞が記されている。",
+      "en": "The idea may go back as far as 1831, but serious work began in the later 1830s, and the set was completed during a stay in Majorca over the winter of 1838-39. He had gone there with his companion George Sand and her children to escape Paris's damp climate, and is said to have finished the preludes in poor health, making do with a shabby Spanish piano in a run-down monastery.\nIt was published in 1839, with a dedication to the German pianist Joseph Christoph Kessler."
+    }
+  },
+  "23812": {
+    "structure": {
+      "ja": "全4幕の歌劇(オペラ・ブッファ)。伯爵に仕える従者フィガロと小間使いスザンナの結婚をめぐり、彼らの婚礼の権利を狙う伯爵の思惑を、当人たちが機知で出し抜いていく一日の騒動を描く。\n序曲は独立した演奏会用序曲としても人気が高く、劇の内容とは直接結びつかない快活なソナタ形式で書かれている。「手紙の二重唱」など、複数の登場人物の思惑が同時進行するアンサンブルの場面が随所にある。",
+      "en": "An opera buffa in four acts. Around the marriage of the count's valet Figaro and the maid Susanna, the count schemes to claim a right over the bride himself, and the servants outwit him over the course of one chaotic day.\nThe overture, a popular concert piece in its own right, is a bright sonata-form movement with no direct thematic link to the plot. Ensembles such as the \"letter duet\" thread several characters' competing schemes together at once."
+    },
+    "story": {
+      "ja": "ボーマルシェの戯曲「フィガロの結婚」を原作とする。この戯曲は、召使いが知恵で主人を出し抜く筋書きが貴族社会への風刺と受け取られ、オーストリアでは上演が禁じられていた。\n台本作家ダ・ポンテはこうした政治色を薄め、フィガロが第4幕で貴族を糾弾する独白を、女性の移り気を嘆く場面に置き換えるなど内容を穏当にすることで、皇帝ヨーゼフ2世の上演許可を取り付けた。初演は1786年5月1日、ウィーンのブルク劇場でおこなわれ、初日だけで5回のアンコールが起きたと伝えられる。",
+      "en": "It is based on Beaumarchais's play The Marriage of Figaro, banned in Austria at the time because its plot — servants outwitting their masters through wit alone — was read as a satire on the aristocracy.\nThe librettist Da Ponte defused the politics, replacing Figaro's Act 4 tirade against the nobility with a lament about the fickleness of women, among other changes, and secured Emperor Joseph II's permission to stage it. It premiered on 1 May 1786 at the Burgtheater in Vienna, and the opening night is said to have drawn five encores."
+    }
+  },
+  "9231": {
+    "structure": {
+      "ja": "無伴奏チェロのための組曲、全6曲のうちの第1番。プレリュード、アルマンド、クーラント、サラバンド、メヌエット2曲、ジーグという舞曲風の楽章が続く、バロック組曲の標準的な構成をとる。\n単旋律楽器であるチェロ1本だけで、和声・対位法的な声部の錯覚までも生み出す書き方が特徴で、冒頭のプレリュードは分散和音が絶え間なく流れ続ける親しみやすい旋律で始まる。",
+      "en": "The first of six suites for unaccompanied cello, in the standard baroque suite layout: prelude, allemande, courante, sarabande, two minuets, and gigue.\nWritten for a single melodic instrument, the music still creates the illusion of harmony and independent contrapuntal voices. The opening prelude, built on a continuous flow of arpeggios, is the best known movement in the whole set."
+    },
+    "story": {
+      "ja": "作曲時期を特定する記録はないが、バッハがケーテンの宮廷楽長を務めていた1717年から1723年ごろに書かれたとみられている。\n出版は死後の1825年になってからで、その後も長らく演奏用の作品としてではなく、主に技術練習用の教材として扱われていた。20世紀初頭、当時13歳だったチェリスト、パブロ・カザルスがバルセロナの古書店でこの曲集の楽譜を見つけたことをきっかけに再評価が進み、1936年から39年にかけてカザルスが行った全曲録音が、この曲集を演奏会の定番として定着させる転機になったとされる。",
+      "en": "There is no surviving record of exactly when it was written, but it is generally dated to around 1717-23, while Bach was court composer at Köthen.\nIt was not published until 1825, after his death, and for a long time afterward was treated mainly as technical study material rather than concert repertoire. Its rehabilitation is usually traced to the cellist Pablo Casals, who found an edition of the suites in a Barcelona bookshop at the age of thirteen; his complete recording of the set, made between 1936 and 1939, is generally credited with establishing the suites as core concert repertoire."
+    }
+  },
+  "16515": {
+    "structure": {
+      "ja": "歌劇「トゥーランドット」第3幕でカラフが歌うテノールのアリア。冷酷な皇女の心を得るため、誰も眠ってはならないという布告が出された夜、カラフが自らの勝利を確信して歌う場面である。\n静かに語りかけるように始まった旋律は次第に高揚し、最高音での「勝利するのは私だ」という一節に向けて音楽全体が盛り上がっていく、劇的な構成をとる。",
+      "en": "A tenor aria sung by Calaf in Act 3 of Turandot. Under a decree that no one in the city may sleep until his identity is discovered, he sings, confident of his coming victory over the icy princess.\nThe melody begins almost conversationally and builds steadily, the whole aria climbing toward its climactic top note on the words \"vincerò\" (\"I will win\")."
+    },
+    "story": {
+      "ja": "プッチーニの生前には完成しなかった「トゥーランドット」の一部として書かれ、初演は補筆完成版により1926年におこなわれた。作品全体の中では第3幕の一場面にすぎないが、この曲だけが独立して広く歌われ、演奏される曲として定着している。\n1990年、イタリア・ワールドカップのテーマ曲としてルチアーノ・パヴァロッティの1972年の録音が起用されたことをきっかけに、それまでオペラに縁のなかった層にも広く知られるようになった。開幕前夜にはパヴァロッティ、ドミンゴ、カレーラスによる「スリー・テノール」コンサートも開催され、この曲はオペラの枠を超えた人気曲として定着した。",
+      "en": "It was written as part of Turandot, which Puccini left unfinished at his death; the complete opera, with its ending finished by another hand, premiered in 1926. Within the opera it is a single scene in Act 3, but it has taken on a life of its own as a stand-alone concert and recital piece.\nIn 1990, the BBC used Luciano Pavarotti's 1972 recording as the theme for its coverage of the Italy World Cup, introducing the aria to audiences who had never otherwise encountered opera. On the eve of the tournament's final, Pavarotti, Domingo and Carreras gave the first \"Three Tenors\" concert, cementing the aria's popularity well beyond the opera house."
+    }
+  },
+  "6494": {
+    "structure": {
+      "ja": "「水上の音楽」全3組曲のうち、最も編成の小さい第3組曲(ト長調)。他の2組曲がホルンやトランペットを中心とした華やかな響きであるのに対し、フルートやリコーダーを含む室内楽的な小編成で書かれている。\n舞曲風の楽章が並ぶ点は他の組曲と共通するが、より親密で軽やかな音色を持つ組曲となっている。",
+      "en": "The smallest in scoring of the Water Music's three suites, in G major. Where the other two lean on horns and trumpets for a grand sound, this one is written for a chamber-scaled ensemble including flutes and recorders.\nLike the other suites it is built from a sequence of dance movements, but its overall colour is lighter and more intimate."
+    },
+    "story": {
+      "ja": "「水上の音楽」全体は1717年7月17日、国王ジョージ1世のテムズ川での船遊びのために作曲・初演された。当時の記録は断片的で、演奏された順序や、3つの組曲がどのように振り分けられていたかは判然としない。\n現在出版されている3つの組曲への分割・整理は、後世の校訂者によるものである。第3組曲の室内楽的な編成は、大人数の管楽器では拾いきれない細やかな響きを求めた結果とも考えられている。",
+      "en": "The complete Water Music was composed and first performed for King George I's excursion on the Thames on 17 July 1717. Contemporary records are fragmentary, and it is not entirely clear in what order the movements were played, or how they were grouped on the day.\nThe division into three suites used today is the work of later editors. This suite's more chamber-like scoring may reflect a wish for finer colour than a large wind band alone could offer."
+    }
+  },
+  "7545": {
+    "structure": {
+      "ja": "シェイクスピアの悲劇に基づく幻想序曲、単一楽章。静かな序奏がロレンス神父を思わせる聖歌風の旋律で始まり、続いて両家の争いを表す激しい第1主題、そして「愛のテーマ」として広く知られる叙情的な第2主題が現れる、ソナタ形式に近い構成をとる。\n愛のテーマは変ニ長調、争いを表す主題は遠く離れたロ短調で書かれており、この対照的な調性選択は共同作業者バラキレフの助言によるものとされる。",
+      "en": "A fantasy overture in a single movement based on Shakespeare's tragedy. A quiet, chorale-like introduction evokes Friar Laurence, followed by a violent first theme for the family feud and the lyrical second theme widely known as the \"love theme,\" in a form close to sonata-allegro.\nThe love theme is set in D-flat major, the feud music in the far more distant key of B minor — a deliberate harmonic contrast said to have come from the advice of his collaborator Balakirev."
+    },
+    "story": {
+      "ja": "題材は1869年夏、モスクワで出会った作曲家バラキレフの提案によるもので、序奏・第1主題・第2主題という構成や、対照的な調の選び方についても具体的な助言を受けたと伝えられる。\n同年10月から11月にかけて作曲され、翌1870年3月16日、ニコライ・ルビンシテインの指揮で初演された。その後もバラキレフの意見を取り入れながら改訂を重ね、現在演奏される最終稿が完成したのは1880年8月のことである。",
+      "en": "The subject came from a suggestion by the composer Mily Balakirev, whom Tchaikovsky met in Moscow in the summer of 1869; Balakirev is credited with detailed advice on the introduction-first theme-second theme structure and the contrasting choice of keys.\nHe composed it that October and November, and it premiered on 16 March 1870 under Nikolai Rubinstein. He kept revising it with further input from Balakirev, and the final version now performed dates from August 1880."
+    }
+  },
+  "16458": {
+    "structure": {
+      "ja": "全3楽章。第1楽章冒頭、ティンパニが同じ音を静かに5回打つ音型が全曲の性格を決定づける重要な動機として、以後何度も形を変えて現れる。\n独奏ヴァイオリンは超絶技巧をひけらかすよりも、抒情的な旋律を長く歌い続ける書き方が中心で、当時の協奏曲としては異例なほど穏やかで均整の取れた性格を持つ。",
+      "en": "Three movements. Right at the start, the timpani quietly strike the same note five times — a motif that shapes the character of the whole work and returns, transformed, throughout.\nRather than showcasing virtuosic display, the solo violin mostly sings long lyrical lines, giving the concerto an unusually calm, balanced character for its time."
+    },
+    "story": {
+      "ja": "1806年に作曲された。初演を任されたヴァイオリニスト、フランツ・クレメントのために書かれたが、完成が間に合わず、クレメントはほとんど初見同然で演奏したと伝えられる。\n初演は同年12月23日、ウィーンでおこなわれたが、クレメントが第1楽章と第2楽章の間に、ヴァイオリンを逆さに持って自作の曲を弾いて見せるなど、当時の慣習的な余興を挟んだこともあり、聴衆の反応は芳しくなかった。その後この曲はしばらく忘れられた存在となり、1844年、当時12歳だったヴァイオリニスト、ヨーゼフ・ヨアヒムがメンデルスゾーンの指揮で演奏したことをきっかけに再評価が進んだ。",
+      "en": "It was composed in 1806, written for the violinist Franz Clement, who was to give the premiere. It was finished so late that Clement is said to have had to play much of it at sight.\nThe premiere took place on 23 December that year in Vienna, but the reception was lukewarm, not helped by Clement inserting a customary interval entertainment between the first two movements, in which he played a piece of his own on the violin held upside down. The concerto then languished in obscurity for decades until a twelve-year-old Joseph Joachim revived it under Mendelssohn's baton in 1844."
+    }
+  },
+  "13270": {
+    "structure": {
+      "ja": "ピアノ独奏のための2曲からなる小品集で、彼の初期に書かれた作品のひとつ。「アラベスク」という題名は、装飾的で流れるような曲線を思わせる旋律の書き方に由来する。\n和声よりも旋律線の優美な動きを重視した書き方がなされており、のちの作品に見られる大胆な和声実験はまだ控えめである。",
+      "en": "Two pieces for solo piano, among his early works. The title \"Arabesque\" refers to the decorative, flowing curve of the melodic lines.\nThe writing favours graceful melodic movement over harmonic daring; the bolder harmonic experiments of his later music are only lightly hinted at here."
+    },
+    "story": {
+      "ja": "1888年から1891年にかけて、20代のドビュッシーによって作曲された。1884年にローマ大賞を受けてイタリアに留学していた時期を終えてパリに戻り、後期ロマン派の語法やワーグナーへの傾倒と、自分自身の様式の模索との間で揺れていた時期にあたる。\n1891年に400部という小部数で出版され、当初はほとんど話題にならなかった。広く知られるようになったのは出版から10年ほど経ってからで、20世紀初頭にかけて様々な楽器編成への編曲が相次いで作られたことが人気の広がりを後押ししたとみられる。",
+      "en": "It was composed between 1888 and 1891, while Debussy was in his twenties, having returned to Paris after his time in Italy following the Prix de Rome he won in 1884 — a period in which he was still caught between the late-Romantic idiom, his fascination with Wagner, and the search for a voice of his own.\nIt was published in 1891 in a small run of 400 copies and attracted little notice at first. Wider recognition came roughly a decade later, helped along by a wave of arrangements for other instruments that appeared in the early twentieth century."
+    }
+  },
+  "15764": {
+    "structure": {
+      "ja": "全3幕の楽劇で、ワーグナーの完成した楽劇のなかで唯一の喜劇である。神話や伝説ではなく、16世紀のニュルンベルクという実在の時代と場所を舞台にした、彼の主要作品では他に例のない設定をとる。\n序曲は演奏会用にも人気が高く、マイスタージンガー(職匠歌人)の主題と若い騎士ヴァルターの主題が組み合わされていく、複数の旋律を重ね合わせる対位法的な書法で書かれている。",
+      "en": "An opera in three acts, the only comedy among Wagner's mature works. Unlike his other major operas, it is set not in myth or legend but in a specific historical time and place: sixteenth-century Nuremberg.\nThe overture is a popular concert piece in its own right, weaving together the Mastersingers' theme and the young knight Walther's theme in dense contrapuntal combination."
+    },
+    "story": {
+      "ja": "構想の起源は古く、1845年、療養のため訪れたボヘミアの温泉地で読んだドイツ文学史の本から、ニュルンベルクのマイスタージンガーと、実在した詩人ハンス・ザックスの姿に着想を得たとされる。\n実際の作曲は1862年から1867年にかけて、「ジークフリート」の作曲を中断していた時期におこなわれた。当時ワーグナーは差し迫った資金難を抱えており、比較的手早く上演収入が見込める喜劇を書こうとしたことも動機のひとつだったと伝えられる。初演は1868年6月21日、ミュンヘンの宮廷劇場でおこなわれた。",
+      "en": "The idea dates back to 1845, when Wagner, taking a cure at a Bohemian spa, read a history of German literature that gave him a vivid picture of Nuremberg's Mastersingers and the real historical poet Hans Sachs.\nThe actual composition took place between 1862 and 1867, during a break from working on Siegfried. Wagner was under pressing financial strain at the time, and part of his motive is said to have been to write a comedy that could bring in performance income relatively quickly. It premiered on 21 June 1868 at the court theatre in Munich."
+    }
+  },
+  "17167": {
+    "structure": {
+      "ja": "全4楽章。第3楽章が単独でも広く知られる「葬送行進曲」で、重々しい主部を、コラール風の穏やかな中間部が挟む三部形式をとる。\n終楽章はわずか1分半ほどの短い楽章で、両手がオクターヴでユニゾンのまま駆け抜ける、旋律らしい旋律を持たない異例の書き方がなされている。同時代の批評家シューマンはこの終楽章を「墓の上を吹き抜ける風」にたとえた。",
+      "en": "Four movements. The third, the \"Funeral March,\" is famous on its own — a solemn outer section framing a calmer, chorale-like middle section.\nThe finale, barely ninety seconds long, is unusual for having almost no melody at all: both hands race through the movement in bare octave unison. Schumann, a contemporary critic, likened it to \"wind blowing over a graveyard.\""
+    },
+    "story": {
+      "ja": "葬送行進曲の楽章は1837年、残る3楽章より2年ほど早くに単独で作曲されており、のちにソナタ全体に組み込まれた。全曲が完成したのは1839年、ジョルジュ・サンドの領地ノアンで過ごした夏のことである。\n4つの楽章のあいだに統一感が乏しいとして、同時代の批評家からは戸惑いを含んだ評価を受けた。ショパン自身の葬儀では、この葬送行進曲がオーケストラ編曲版で演奏されている。",
+      "en": "The Funeral March movement was composed on its own in 1837, about two years before the rest, and was later folded into the complete sonata. The whole work was finished in 1839, during a summer spent at George Sand's estate at Nohant.\nContemporary critics found the four movements oddly disconnected and reacted with some bewilderment. The Funeral March, in an orchestral arrangement, was played at Chopin's own funeral."
+    }
+  },
+  "22337": {
+    "structure": {
+      "ja": "ピアノ独奏のための8曲からなる小品集。「ユモレスク」は諧謔・気まぐれといった意味合いを持つ性格的小品の一種で、いずれも数分程度の短い曲である。\n第7番(変ト長調)は付点リズムが特徴的な親しみやすい旋律で書かれ、8曲中もっとも広く知られている。",
+      "en": "A set of eight short pieces for solo piano. \"Humoresque\" denotes a character piece with a playful, whimsical tone, and each of the eight runs only a few minutes.\nNo. 7, in G-flat major, is built on a catchy, dotted-rhythm melody and is by far the best known of the set."
+    },
+    "story": {
+      "ja": "1894年の夏、ニューヨークでの音楽院での職務を一時離れ、故郷ボヘミアの避暑地ヴィソカーに滞在していた際に着想を得て作曲された。多くの主題は、アメリカ滞在中にスケッチ帳へ書き留めていた旋律の断片をもとにしている。\n「汽車の中で書いた」という俗説が広まっているが、これは後世の作り話とされる。曲集は同年秋、出版社ジムロックからただちに出版された。",
+      "en": "He conceived and wrote it in the summer of 1894, during a break from his post in New York, while staying at his favourite retreat of Vysoká in his native Bohemia. Many of the themes draw on melodic fragments he had jotted in sketchbooks during his American years.\nA popular story that he wrote it on a train is generally regarded as later invention. The set was published by Simrock that same autumn."
+    }
   }
 }
