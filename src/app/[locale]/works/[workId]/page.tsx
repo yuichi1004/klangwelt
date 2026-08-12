@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 
 import { FavoriteButton } from "@/components/favorite-button";
+import { GlossaryText } from "@/components/glossary-text";
 import { StreamingButtons } from "@/components/streaming-links";
 import { WorkCard } from "@/components/work-card";
 import { getMessages, isLocale, LOCALES, type Locale } from "@/i18n/config";
@@ -15,6 +16,7 @@ import {
 import type { Composer, Work } from "@/lib/catalog-types";
 import { getWorkEditorial } from "@/lib/editorial";
 import { EPOCH_LABELS, GENRE_LABELS } from "@/lib/epochs";
+import { createAnnotator, glossary } from "@/lib/glossary";
 import { buildStreamingLinks } from "@/lib/streaming";
 
 /**
@@ -66,6 +68,11 @@ export default async function WorkPage(
 
   const messages = getMessages(locale);
   const editorial = getWorkEditorial(workId);
+  // Independent from the composer page's own annotator (each is a fresh
+  // `createAnnotator` call): "first occurrence" is scoped per page, not per
+  // site, so a term already shown on the composer's profile can still be
+  // shown again here.
+  const annotate = createAnnotator(glossary, locale);
   const links = buildStreamingLinks(work, composer.completeName);
 
   const title = locale === "ja" ? work.titleJa : work.title;
@@ -124,7 +131,11 @@ export default async function WorkPage(
                   {messages.work.structureHeading}
                 </h3>
                 <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                  {editorial.structure[locale]}
+                  <GlossaryText
+                    locale={locale}
+                    glossary={glossary}
+                    segments={annotate(editorial.structure[locale])}
+                  />
                 </p>
               </div>
             )}
@@ -134,7 +145,11 @@ export default async function WorkPage(
                   {messages.work.storyHeading}
                 </h3>
                 <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                  {editorial.story[locale]}
+                  <GlossaryText
+                    locale={locale}
+                    glossary={glossary}
+                    segments={annotate(editorial.story[locale])}
+                  />
                 </p>
               </div>
             )}
