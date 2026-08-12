@@ -31,8 +31,8 @@ test.describe("film/anime/TV appearances", () => {
   });
 
   test("a work with no media data shows no section", async ({ page }) => {
-    // Beethoven's 5th (16406) has no entry in data/media.json.
-    await page.goto("/ja/works/16406");
+    // Eine kleine Nachtmusik (23610) has no entry in data/media.json.
+    await page.goto("/ja/works/23610");
     await expect(
       page.getByRole("heading", { name: "映像作品での使用" }),
     ).toBeHidden();

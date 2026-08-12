@@ -161,13 +161,16 @@ describe("filterWorks", () => {
   });
 
   it("searches film/anime/TV titles a work has appeared in", () => {
-    // Beethoven's 9th (data/media.json) is used in A Clockwork Orange.
+    // Two different works (data/media.json) are tied to A Clockwork Orange:
+    // Beethoven's 9th and Rossini's William Tell overture.
     const en = filterWorks(index, filters({ query: "Clockwork Orange" }));
     expect(en.length).toBeGreaterThan(0);
-    expect(en.every((work) => work.id === "16238")).toBe(true);
+    expect(en.every((work) => work.media?.some((title) => title.en.includes("Clockwork Orange")))).toBe(
+      true,
+    );
 
     const ja = filterWorks(index, filters({ query: "時計じかけのオレンジ" }));
-    expect(ja.map((w) => w.id)).toEqual(en.map((w) => w.id));
+    expect(ja.map((w) => w.id).sort()).toEqual(en.map((w) => w.id).sort());
   });
 });
 
@@ -193,8 +196,9 @@ describe("matchedMediaTitle", () => {
   });
 
   it("returns undefined for a work with no media", () => {
-    const beethovenFifth = work("16406");
-    expect(matchedMediaTitle(beethovenFifth, "Symphony", "en")).toBeUndefined();
+    // Eine kleine Nachtmusik — not in data/media.json.
+    const noMediaWork = work("23610");
+    expect(matchedMediaTitle(noMediaWork, "Serenade", "en")).toBeUndefined();
   });
 
   it("returns undefined for an empty query", () => {
