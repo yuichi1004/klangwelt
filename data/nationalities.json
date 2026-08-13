@@ -307,5 +307,57 @@
   "44": { "name": "Walton", "country": "GB" },
   "142": { "name": "Lutoslawski", "country": "PL" },
   "90": { "name": "Rihm", "country": "DE" },
-  "34": { "name": "Kodály", "country": "HU" }
+  "34": { "name": "Kodály", "country": "HU" },
+  "140": { "name": "Roussel", "country": "FR" },
+  "187": { "name": "Marcello, A.", "country": "IT" },
+  "207": { "name": "Gomes", "country": "BR" },
+  "177": { "name": "Marcello", "country": "IT" },
+  "159": { "name": "Camargo Guarnieri", "country": "BR" },
+  "174": { "name": "Chávez", "country": "MX" },
+  "71": { "name": "Cui", "country": "RU" },
+  "23": { "name": "Janequin", "country": "FR" },
+  "63": { "name": "Kabalevsky", "country": "RU" },
+  "114": { "name": "MacDowell", "country": "US" },
+  "106": {
+    "name": "Bloch",
+    "country": "CH",
+    "note": {
+      "ja": "スイス・ジュネーヴ生まれ。1916年に渡米し、1924年にアメリカ国籍を取得した。",
+      "en": "Born in Geneva, Switzerland; emigrated to the United States in 1916 and became a naturalised American citizen in 1924."
+    }
+  },
+  "164": { "name": "Moeran", "country": "GB" },
+  "119": { "name": "Lopes-Graça", "country": "PT" },
+  "64": { "name": "Mignone", "country": "BR" },
+  "195": { "name": "Berwald", "country": "SE" },
+  "160": { "name": "Schmidt", "country": "AT" },
+  "108": { "name": "Antheil", "country": "US" },
+  "42": { "name": "Hanson", "country": "US" },
+  "28": { "name": "Obrecht", "country": "BE" },
+  "144": { "name": "Corigliano", "country": "US" },
+  "54": { "name": "Taverner", "country": "GB" },
+  "153": { "name": "Braga Santos", "country": "PT" },
+  "33": { "name": "Suk", "country": "CZ" },
+  "206": { "name": "Dittersdorf", "country": "AT" },
+  "1": { "name": "Goldmark", "country": "HU" },
+  "166": { "name": "Spohr", "country": "DE" },
+  "111": { "name": "Nono", "country": "IT" },
+  "20": { "name": "Arnold", "country": "GB" },
+  "91": { "name": "Duruflé", "country": "FR" },
+  "81": { "name": "Daugherty", "country": "US" },
+  "70": { "name": "Gould", "country": "US" },
+  "107": { "name": "Rorem", "country": "US" },
+  "201": { "name": "Harris", "country": "US" },
+  "158": { "name": "Holmboe", "country": "DK" },
+  "94": {
+    "name": "Herbert",
+    "country": "IE",
+    "note": {
+      "ja": "アイルランド・ダブリン生まれ。ドイツで音楽を学んだのち渡米し、アメリカを代表する作曲家として活躍した。",
+      "en": "Born in Dublin, Ireland; trained in Germany before emigrating to the United States, where he became a leading American composer."
+    }
+  },
+  "127": { "name": "d'Indy", "country": "FR" },
+  "4": { "name": "Stenhammar", "country": "SE" },
+  "24": { "name": "Schuman", "country": "US" }
 }
