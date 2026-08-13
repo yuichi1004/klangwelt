@@ -23,6 +23,23 @@ export const COUNTRY_LABELS = {
   FI: { ja: "フィンランド", en: "Finland" },
   NO: { ja: "ノルウェー", en: "Norway" },
   US: { ja: "アメリカ合衆国", en: "United States" },
+  SE: { ja: "スウェーデン", en: "Sweden" },
+  DK: { ja: "デンマーク", en: "Denmark" },
+  EE: { ja: "エストニア", en: "Estonia" },
+  GR: { ja: "ギリシャ", en: "Greece" },
+  BE: { ja: "ベルギー", en: "Belgium" },
+  NL: { ja: "オランダ", en: "Netherlands" },
+  CH: { ja: "スイス", en: "Switzerland" },
+  AU: { ja: "オーストラリア", en: "Australia" },
+  IE: { ja: "アイルランド", en: "Ireland" },
+  AM: { ja: "アルメニア", en: "Armenia" },
+  JP: { ja: "日本", en: "Japan" },
+  ES: { ja: "スペイン", en: "Spain" },
+  PT: { ja: "ポルトガル", en: "Portugal" },
+  BR: { ja: "ブラジル", en: "Brazil" },
+  AR: { ja: "アルゼンチン", en: "Argentina" },
+  MX: { ja: "メキシコ", en: "Mexico" },
+  RO: { ja: "ルーマニア", en: "Romania" },
 } satisfies Record<string, { ja: string; en: string }>;
 
 /** A key of `COUNTRY_LABELS` — kept as a narrow union, not `string`, so a
