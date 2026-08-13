@@ -1,547 +1,2095 @@
 {
   "_comment": "専門用語 Tips のデータ。キーは安定した ASCII の id。term は見出し語、short は本文中のポップアップに出す語義（日英とも1〜2文、詳細な説明はしない）、match は本文中で探す実際の表記（活用形・言い換えを含めてよい）。省略時は term を使う。See CONTRIBUTING.md.",
   "counterpoint": {
-    "term": { "ja": "対位法", "en": "Counterpoint" },
+    "term": {
+      "ja": "対位法",
+      "en": "Counterpoint"
+    },
     "short": {
       "ja": "複数の独立した旋律を同時に響かせて曲を組み立てる書き方。",
       "en": "Writing several independent melodies at once so they combine into one piece."
     },
-    "match": { "ja": ["対位法"], "en": ["counterpoint", "contrapuntal"] }
+    "match": {
+      "ja": [
+        "対位法"
+      ],
+      "en": [
+        "counterpoint",
+        "contrapuntal"
+      ]
+    }
   },
   "concerto": {
-    "term": { "ja": "協奏曲", "en": "Concerto" },
+    "term": {
+      "ja": "協奏曲",
+      "en": "Concerto"
+    },
     "short": {
       "ja": "独奏楽器（または少人数の楽器群）とオーケストラが掛け合う形式の曲。",
       "en": "A piece for one or a few soloists playing against a full orchestra."
     },
-    "match": { "ja": ["協奏曲"], "en": ["concerto", "concertos", "concerti"] }
+    "match": {
+      "ja": [
+        "協奏曲"
+      ],
+      "en": [
+        "concerto",
+        "concertos",
+        "concerti"
+      ]
+    }
   },
   "orchestration": {
-    "term": { "ja": "管弦楽法", "en": "Orchestration" },
+    "term": {
+      "ja": "管弦楽法",
+      "en": "Orchestration"
+    },
     "short": {
       "ja": "曲のどの部分をどの楽器に割り当てるか、音色をどう組み合わせるかという技術。",
       "en": "The craft of deciding which instruments play which parts, and how their colours combine."
     },
-    "match": { "ja": ["管弦楽法"], "en": ["orchestration"] }
+    "match": {
+      "ja": [
+        "管弦楽法"
+      ],
+      "en": [
+        "orchestration"
+      ]
+    }
   },
   "tonality": {
-    "term": { "ja": "調性", "en": "Tonality" },
+    "term": {
+      "ja": "調性",
+      "en": "Tonality"
+    },
     "short": {
       "ja": "特定の音（主音）を中心にして、曲全体の響きが安定して感じられる仕組み。",
       "en": "The sense that a piece is centred on one home note, giving it a stable, settled feeling."
     },
-    "match": { "ja": ["調性"], "en": ["tonality", "tonal"] }
+    "match": {
+      "ja": [
+        "調性"
+      ],
+      "en": [
+        "tonality",
+        "tonal"
+      ]
+    }
   },
   "chromatic": {
-    "term": { "ja": "半音階", "en": "Chromatic scale" },
+    "term": {
+      "ja": "半音階",
+      "en": "Chromatic scale"
+    },
     "short": {
       "ja": "1オクターブを12の半音すべてで埋め尽くす音階。鋭く不安定な響きになりやすい。",
       "en": "A scale using all twelve semitones in an octave, often giving a sharp, unsettled sound."
     },
-    "match": { "ja": ["半音階"], "en": ["chromatic"] }
+    "match": {
+      "ja": [
+        "半音階"
+      ],
+      "en": [
+        "chromatic"
+      ]
+    }
   },
   "quartet": {
-    "term": { "ja": "四重奏", "en": "Quartet" },
+    "term": {
+      "ja": "四重奏",
+      "en": "Quartet"
+    },
     "short": {
       "ja": "4人の奏者による演奏形態。弦楽四重奏（ヴァイオリン2・ヴィオラ・チェロ）が代表例。",
       "en": "Music for four players — the string quartet (two violins, viola, cello) is the classic example."
     },
-    "match": { "ja": ["四重奏"], "en": ["quartet", "quartets"] }
+    "match": {
+      "ja": [
+        "四重奏"
+      ],
+      "en": [
+        "quartet",
+        "quartets"
+      ]
+    }
   },
   "impressionism": {
-    "term": { "ja": "印象主義", "en": "Impressionism" },
+    "term": {
+      "ja": "印象主義",
+      "en": "Impressionism"
+    },
     "short": {
       "ja": "輪郭のはっきりした旋律よりも、移ろう響きや色彩の印象を重視する作風。",
       "en": "A style that favours shifting colour and atmosphere over sharply defined melody."
     },
-    "match": { "ja": ["印象主義"], "en": ["impressionism", "impressionist", "impressionistic"] }
+    "match": {
+      "ja": [
+        "印象主義"
+      ],
+      "en": [
+        "impressionism",
+        "impressionist",
+        "impressionistic"
+      ]
+    }
   },
   "chamber-music": {
-    "term": { "ja": "室内楽", "en": "Chamber music" },
+    "term": {
+      "ja": "室内楽",
+      "en": "Chamber music"
+    },
     "short": {
       "ja": "大きなホールでの合奏ではなく、少人数の奏者が一人一パートを受け持つ演奏形態。",
       "en": "Music for a small group where each player has their own individual part, unlike a full orchestra."
     },
-    "match": { "ja": ["室内楽"], "en": ["chamber music"] }
+    "match": {
+      "ja": [
+        "室内楽"
+      ],
+      "en": [
+        "chamber music"
+      ]
+    }
   },
   "atonal": {
-    "term": { "ja": "無調", "en": "Atonality" },
+    "term": {
+      "ja": "無調",
+      "en": "Atonality"
+    },
     "short": {
       "ja": "特定の主音を中心とした調性を持たない音楽。",
       "en": "Music with no home key or central note to settle around."
     },
-    "match": { "ja": ["無調"], "en": ["atonal", "atonality"] }
+    "match": {
+      "ja": [
+        "無調"
+      ],
+      "en": [
+        "atonal",
+        "atonality"
+      ]
+    }
   },
   "twelve-tone": {
-    "term": { "ja": "十二音技法", "en": "Twelve-tone technique" },
+    "term": {
+      "ja": "十二音技法",
+      "en": "Twelve-tone technique"
+    },
     "short": {
       "ja": "1オクターブの12音すべてを平等に扱い、決まった順序（音列）に基づいて曲を組み立てる技法。",
       "en": "A technique that treats all twelve notes of the octave as equals, building the piece from a fixed ordering of them."
     },
-    "match": { "ja": ["十二音技法", "十二音"], "en": ["twelve-tone", "twelve tone"] }
+    "match": {
+      "ja": [
+        "十二音技法",
+        "十二音"
+      ],
+      "en": [
+        "twelve-tone",
+        "twelve tone"
+      ]
+    }
   },
   "serialism": {
-    "term": { "ja": "セリー", "en": "Serialism" },
+    "term": {
+      "ja": "セリー",
+      "en": "Serialism"
+    },
     "short": {
       "ja": "十二音技法をさらに発展させ、音の高さだけでなくリズムや強弱にも決まった順序を適用する作曲技法。",
       "en": "An extension of the twelve-tone method that applies a fixed ordering not just to pitch but also to rhythm and dynamics."
     },
-    "match": { "ja": ["セリー音楽", "セリー主義", "セリー"], "en": ["serialism", "serial"] }
+    "match": {
+      "ja": [
+        "セリー音楽",
+        "セリー主義",
+        "セリー"
+      ],
+      "en": [
+        "serialism",
+        "serial"
+      ]
+    }
   },
   "sonata-form": {
-    "term": { "ja": "ソナタ形式", "en": "Sonata form" },
+    "term": {
+      "ja": "ソナタ形式",
+      "en": "Sonata form"
+    },
     "short": {
       "ja": "提示・展開・再現という3つの段階で主題を扱う楽曲構成。交響曲やソナタの第1楽章によく使われる。",
       "en": "A structure that presents themes, develops them, then brings them back — common in the first movement of symphonies and sonatas."
     },
-    "match": { "ja": ["ソナタ形式"], "en": ["sonata form", "sonata-form"] }
+    "match": {
+      "ja": [
+        "ソナタ形式"
+      ],
+      "en": [
+        "sonata form",
+        "sonata-form"
+      ]
+    }
   },
   "sonata": {
-    "term": { "ja": "ソナタ", "en": "Sonata" },
+    "term": {
+      "ja": "ソナタ",
+      "en": "Sonata"
+    },
     "short": {
       "ja": "独奏楽器（または独奏楽器とピアノ）のための、複数の楽章からなる器楽曲。",
       "en": "An instrumental piece in several movements, usually for one soloist or a soloist with piano."
     },
-    "match": { "ja": ["ソナタ"], "en": ["sonata", "sonatas"] }
+    "match": {
+      "ja": [
+        "ソナタ"
+      ],
+      "en": [
+        "sonata",
+        "sonatas"
+      ]
+    }
   },
   "mode": {
-    "term": { "ja": "旋法", "en": "Mode" },
+    "term": {
+      "ja": "旋法",
+      "en": "Mode"
+    },
     "short": {
       "ja": "長調・短調が定着する以前から使われてきた、音階の枠組み。教会旋法などがある。",
       "en": "A scale framework older than major/minor keys, such as the church modes."
     },
-    "match": { "ja": ["教会旋法", "旋法"], "en": ["modes", "modal", "mode"] }
+    "match": {
+      "ja": [
+        "教会旋法",
+        "旋法"
+      ],
+      "en": [
+        "modes",
+        "modal",
+        "mode"
+      ]
+    }
   },
   "rondo": {
-    "term": { "ja": "ロンド", "en": "Rondo" },
+    "term": {
+      "ja": "ロンド",
+      "en": "Rondo"
+    },
     "short": {
       "ja": "同じ主題が何度も戻ってくる合間に、別の部分をはさんでいく楽曲形式。",
       "en": "A form where a main theme keeps returning between contrasting sections."
     },
-    "match": { "ja": ["ロンド"], "en": ["rondo", "rondos"] }
+    "match": {
+      "ja": [
+        "ロンド"
+      ],
+      "en": [
+        "rondo",
+        "rondos"
+      ]
+    }
   },
   "nationalism": {
-    "term": { "ja": "国民楽派", "en": "Nationalist school" },
+    "term": {
+      "ja": "国民楽派",
+      "en": "Nationalist school"
+    },
     "short": {
       "ja": "自国の民謡や伝説を素材に、国民的な音楽語法を打ち立てようとした19世紀後半の潮流。",
       "en": "A late-19th-century movement that drew on national folk tunes and legends to forge a distinct musical voice."
     },
-    "match": { "ja": ["国民楽派"], "en": ["nationalism", "nationalist"] }
+    "match": {
+      "ja": [
+        "国民楽派"
+      ],
+      "en": [
+        "nationalism",
+        "nationalist"
+      ]
+    }
   },
   "harmony": {
-    "term": { "ja": "和声", "en": "Harmony" },
+    "term": {
+      "ja": "和声",
+      "en": "Harmony"
+    },
     "short": {
       "ja": "同時に鳴らす複数の音の組み合わせ方と、その響きの移り変わり方。",
       "en": "How notes are stacked together at once, and how those chords move from one to the next."
     },
-    "match": { "ja": ["和声"], "en": ["harmony", "harmonies", "harmonic"] }
+    "match": {
+      "ja": [
+        "和声"
+      ],
+      "en": [
+        "harmony",
+        "harmonies",
+        "harmonic"
+      ]
+    }
   },
   "instrumentation": {
-    "term": { "ja": "編成", "en": "Instrumentation" },
+    "term": {
+      "ja": "編成",
+      "en": "Instrumentation"
+    },
     "short": {
       "ja": "曲をどの楽器の組み合わせで演奏するか、という取り決め。",
       "en": "Which instruments a piece calls for, and in what combination."
     },
-    "match": { "ja": ["編成"], "en": ["instrumentation"] }
+    "match": {
+      "ja": [
+        "編成"
+      ],
+      "en": [
+        "instrumentation"
+      ]
+    }
   },
   "timbre": {
-    "term": { "ja": "音色", "en": "Timbre" },
+    "term": {
+      "ja": "音色",
+      "en": "Timbre"
+    },
     "short": {
       "ja": "同じ高さ・大きさの音でも、楽器や奏者によって違って聴こえる音の質感。",
       "en": "The quality of a sound that lets you tell one instrument or voice from another, even at the same pitch and volume."
     },
-    "match": { "ja": ["音色"], "en": ["timbre", "timbres"] }
+    "match": {
+      "ja": [
+        "音色"
+      ],
+      "en": [
+        "timbre",
+        "timbres"
+      ]
+    }
   },
   "imitation": {
-    "term": { "ja": "模倣", "en": "Imitation" },
+    "term": {
+      "ja": "模倣",
+      "en": "Imitation"
+    },
     "short": {
       "ja": "ある声部が奏でた旋律を、別の声部が少し遅れて同じ形で繰り返すこと。",
       "en": "One melodic line repeating what another voice just played, entering a little later."
     },
-    "match": { "ja": ["模倣"], "en": ["imitation", "imitative"] }
+    "match": {
+      "ja": [
+        "模倣"
+      ],
+      "en": [
+        "imitation",
+        "imitative"
+      ]
+    }
   },
   "neoclassicism": {
-    "term": { "ja": "新古典主義", "en": "Neoclassicism" },
+    "term": {
+      "ja": "新古典主義",
+      "en": "Neoclassicism"
+    },
     "short": {
       "ja": "20世紀に入ってから、古典派やバロックの均整のとれた形式に立ち返ろうとした潮流。",
       "en": "A 20th-century return to the balanced forms and clarity of the Classical and Baroque eras."
     },
-    "match": { "ja": ["新古典主義"], "en": ["neoclassicism", "neoclassical"] }
+    "match": {
+      "ja": [
+        "新古典主義"
+      ],
+      "en": [
+        "neoclassicism",
+        "neoclassical"
+      ]
+    }
   },
   "oratorio": {
-    "term": { "ja": "オラトリオ", "en": "Oratorio" },
+    "term": {
+      "ja": "オラトリオ",
+      "en": "Oratorio"
+    },
     "short": {
       "ja": "宗教的な題材を扱う、演技も舞台装置もない大規模な声楽曲。",
       "en": "A large-scale work for voices and orchestra on a religious subject, performed without staging or costumes."
     },
-    "match": { "ja": ["オラトリオ"], "en": ["oratorio", "oratorios"] }
+    "match": {
+      "ja": [
+        "オラトリオ"
+      ],
+      "en": [
+        "oratorio",
+        "oratorios"
+      ]
+    }
   },
   "variation": {
-    "term": { "ja": "変奏", "en": "Variation" },
+    "term": {
+      "ja": "変奏",
+      "en": "Variation"
+    },
     "short": {
       "ja": "ひとつの主題を、リズムや和声、旋律を変えながら繰り返し聴かせる手法。",
       "en": "Reshaping one theme — in rhythm, harmony, or melody — through a series of repetitions."
     },
-    "match": { "ja": ["変奏"], "en": ["variation", "variations"] }
+    "match": {
+      "ja": [
+        "変奏"
+      ],
+      "en": [
+        "variation",
+        "variations"
+      ]
+    }
   },
   "electronic-music": {
-    "term": { "ja": "電子音楽", "en": "Electronic music" },
+    "term": {
+      "ja": "電子音楽",
+      "en": "Electronic music"
+    },
     "short": {
       "ja": "生の楽器演奏ではなく、電子的に音をつくったり加工したりして構成する音楽。",
       "en": "Music built from electronically generated or processed sound rather than acoustic instruments."
     },
-    "match": { "ja": ["電子音楽"], "en": ["electronic music"] }
+    "match": {
+      "ja": [
+        "電子音楽"
+      ],
+      "en": [
+        "electronic music"
+      ]
+    }
   },
   "improvisation": {
-    "term": { "ja": "即興", "en": "Improvisation" },
+    "term": {
+      "ja": "即興",
+      "en": "Improvisation"
+    },
     "short": {
       "ja": "楽譜をあらかじめ用意せず、その場で作りながら演奏すること。",
       "en": "Playing something invented on the spot, without a prepared score."
     },
-    "match": { "ja": ["即興"], "en": ["improvisation", "improvise", "improvised", "improvising"] }
+    "match": {
+      "ja": [
+        "即興"
+      ],
+      "en": [
+        "improvisation",
+        "improvise",
+        "improvised",
+        "improvising"
+      ]
+    }
   },
   "requiem": {
-    "term": { "ja": "レクイエム", "en": "Requiem" },
+    "term": {
+      "ja": "レクイエム",
+      "en": "Requiem"
+    },
     "short": {
       "ja": "死者のためのミサ曲。",
       "en": "A mass for the dead."
     },
-    "match": { "ja": ["レクイエム"], "en": ["requiem", "requiems"] }
+    "match": {
+      "ja": [
+        "レクイエム"
+      ],
+      "en": [
+        "requiem",
+        "requiems"
+      ]
+    }
   },
   "minimalism": {
-    "term": { "ja": "ミニマル・ミュージック", "en": "Minimalism" },
+    "term": {
+      "ja": "ミニマル・ミュージック",
+      "en": "Minimalism"
+    },
     "short": {
       "ja": "短い音型を何度も反復し、少しずつ変化させていく作風。",
       "en": "A style built from a short pattern repeated over and over, changing only gradually."
     },
-    "match": { "ja": ["ミニマル"], "en": ["minimalism", "minimalist"] }
+    "match": {
+      "ja": [
+        "ミニマル"
+      ],
+      "en": [
+        "minimalism",
+        "minimalist"
+      ]
+    }
   },
   "symphonic-poem": {
-    "term": { "ja": "交響詩", "en": "Symphonic poem" },
+    "term": {
+      "ja": "交響詩",
+      "en": "Symphonic poem"
+    },
     "short": {
       "ja": "物語や情景など、音楽外の題材を1つの楽章で描くオーケストラ曲。",
       "en": "An orchestral piece in a single movement that depicts a story, scene, or idea from outside music."
     },
-    "match": { "ja": ["交響詩"], "en": ["symphonic poem", "symphonic poems", "tone poem", "tone poems"] }
+    "match": {
+      "ja": [
+        "交響詩"
+      ],
+      "en": [
+        "symphonic poem",
+        "symphonic poems",
+        "tone poem",
+        "tone poems"
+      ]
+    }
   },
   "operetta": {
-    "term": { "ja": "オペレッタ", "en": "Operetta" },
+    "term": {
+      "ja": "オペレッタ",
+      "en": "Operetta"
+    },
     "short": {
       "ja": "台詞を交え、軽妙で親しみやすい題材を扱う小規模なオペラ。",
       "en": "A light, often comic opera with spoken dialogue between the musical numbers."
     },
-    "match": { "ja": ["オペレッタ"], "en": ["operetta", "operettas"] }
+    "match": {
+      "ja": [
+        "オペレッタ"
+      ],
+      "en": [
+        "operetta",
+        "operettas"
+      ]
+    }
   },
   "motif": {
-    "term": { "ja": "動機", "en": "Motif" },
+    "term": {
+      "ja": "動機",
+      "en": "Motif"
+    },
     "short": {
       "ja": "曲を組み立てる最小単位となる、短い音型。",
       "en": "A short musical idea — often just a few notes — that a piece is built from."
     },
-    "match": { "ja": ["動機"], "en": ["motif", "motifs"] }
+    "match": {
+      "ja": [
+        "動機"
+      ],
+      "en": [
+        "motif",
+        "motifs"
+      ]
+    }
   },
   "music-drama": {
-    "term": { "ja": "楽劇", "en": "Music drama" },
+    "term": {
+      "ja": "楽劇",
+      "en": "Music drama"
+    },
     "short": {
       "ja": "歌と管弦楽と劇を切れ目なく融合させた、ワーグナーが提唱した舞台作品の形態。",
       "en": "Wagner's term for a stage work fusing singing, orchestra, and drama into one continuous whole, without separate numbers."
     },
-    "match": { "ja": ["楽劇"], "en": ["music drama", "music dramas"] }
+    "match": {
+      "ja": [
+        "楽劇"
+      ],
+      "en": [
+        "music drama",
+        "music dramas"
+      ]
+    }
   },
   "verismo": {
-    "term": { "ja": "ヴェリズモ", "en": "Verismo" },
+    "term": {
+      "ja": "ヴェリズモ",
+      "en": "Verismo"
+    },
     "short": {
       "ja": "神話や史劇ではなく、市井の人々の生々しい現実を描いた19世紀末イタリアのオペラの潮流。",
       "en": "A late-19th-century Italian opera movement depicting raw, everyday reality instead of myth or history."
     },
-    "match": { "ja": ["ヴェリズモ"], "en": ["verismo"] }
+    "match": {
+      "ja": [
+        "ヴェリズモ"
+      ],
+      "en": [
+        "verismo"
+      ]
+    }
   },
   "mass": {
-    "term": { "ja": "ミサ曲", "en": "Mass" },
+    "term": {
+      "ja": "ミサ曲",
+      "en": "Mass"
+    },
     "short": {
       "ja": "カトリックの典礼文に曲をつけた音楽作品。",
       "en": "A musical setting of the texts used in the Catholic liturgy."
     },
-    "match": { "ja": ["ミサ曲"], "en": ["mass setting", "mass settings"] }
+    "match": {
+      "ja": [
+        "ミサ曲"
+      ],
+      "en": [
+        "mass setting",
+        "mass settings"
+      ]
+    }
   },
   "programme-music": {
-    "term": { "ja": "標題音楽", "en": "Programme music" },
+    "term": {
+      "ja": "標題音楽",
+      "en": "Programme music"
+    },
     "short": {
       "ja": "物語や情景など、具体的な内容を聴き手に伝えようとする音楽。",
       "en": "Music that sets out to depict a specific story, scene, or idea, rather than being self-contained sound."
     },
-    "match": { "ja": ["標題音楽"], "en": ["programme music", "program music"] }
+    "match": {
+      "ja": [
+        "標題音楽"
+      ],
+      "en": [
+        "programme music",
+        "program music"
+      ]
+    }
   },
   "bel-canto": {
-    "term": { "ja": "ベルカント", "en": "Bel canto" },
+    "term": {
+      "ja": "ベルカント",
+      "en": "Bel canto"
+    },
     "short": {
       "ja": "なめらかで美しい声の響きそのものを聴かせることを重視するイタリアの歌唱様式。",
       "en": "An Italian singing style prizing a smooth, beautiful vocal tone above all else."
     },
-    "match": { "ja": ["ベルカント"], "en": ["bel canto"] }
+    "match": {
+      "ja": [
+        "ベルカント"
+      ],
+      "en": [
+        "bel canto"
+      ]
+    }
   },
   "chorale": {
-    "term": { "ja": "コラール", "en": "Chorale" },
+    "term": {
+      "ja": "コラール",
+      "en": "Chorale"
+    },
     "short": {
       "ja": "ドイツのプロテスタント教会で会衆が歌うために作られた、シンプルな旋律の讃美歌。",
       "en": "A simple hymn tune written for a Lutheran congregation to sing together."
     },
-    "match": { "ja": ["コラール"], "en": ["chorale", "chorales"] }
+    "match": {
+      "ja": [
+        "コラール"
+      ],
+      "en": [
+        "chorale",
+        "chorales"
+      ]
+    }
   },
   "lied": {
-    "term": { "ja": "リート", "en": "Lied" },
+    "term": {
+      "ja": "リート",
+      "en": "Lied"
+    },
     "short": {
       "ja": "ピアノ伴奏付きの、ドイツ語の詩による独唱歌曲。",
       "en": "A German-language song for solo voice and piano, setting a poem."
     },
-    "match": { "ja": ["リート"], "en": ["lied", "lieder"] }
+    "match": {
+      "ja": [
+        "リート"
+      ],
+      "en": [
+        "lied",
+        "lieder"
+      ]
+    }
   },
   "unaccompanied": {
-    "term": { "ja": "無伴奏", "en": "Unaccompanied" },
+    "term": {
+      "ja": "無伴奏",
+      "en": "Unaccompanied"
+    },
     "short": {
       "ja": "ピアノなどの伴奏を伴わず、独奏楽器だけで演奏されること。",
       "en": "Written for a solo instrument alone, with no piano or other accompaniment."
     },
-    "match": { "ja": ["無伴奏"], "en": ["unaccompanied"] }
+    "match": {
+      "ja": [
+        "無伴奏"
+      ],
+      "en": [
+        "unaccompanied"
+      ]
+    }
   },
   "fugue": {
-    "term": { "ja": "フーガ", "en": "Fugue" },
+    "term": {
+      "ja": "フーガ",
+      "en": "Fugue"
+    },
     "short": {
       "ja": "1つの主題を複数の声部が次々に模倣しながら組み合わさっていく、対位法を用いた楽曲形式。",
       "en": "A contrapuntal form where one theme enters in each voice in turn and the voices weave together."
     },
-    "match": { "ja": ["フーガ"], "en": ["fugue", "fugues"] }
+    "match": {
+      "ja": [
+        "フーガ"
+      ],
+      "en": [
+        "fugue",
+        "fugues"
+      ]
+    }
   },
   "cantata": {
-    "term": { "ja": "カンタータ", "en": "Cantata" },
+    "term": {
+      "ja": "カンタータ",
+      "en": "Cantata"
+    },
     "short": {
       "ja": "独唱・合唱とオーケストラのための、複数の楽章からなる声楽曲。オペラと違い演技を伴わない。",
       "en": "A multi-movement vocal work for soloists, chorus, and orchestra, performed without staging, unlike an opera."
     },
-    "match": { "ja": ["カンタータ"], "en": ["cantata", "cantatas"] }
+    "match": {
+      "ja": [
+        "カンタータ"
+      ],
+      "en": [
+        "cantata",
+        "cantatas"
+      ]
+    }
   },
   "expressionism": {
-    "term": { "ja": "表現主義", "en": "Expressionism" },
+    "term": {
+      "ja": "表現主義",
+      "en": "Expressionism"
+    },
     "short": {
       "ja": "美しさよりも、不安や緊張といった内面の感情を生々しく表すことを重視した20世紀初頭の潮流。",
       "en": "An early-20th-century movement prizing raw inner emotion — anxiety, tension — over conventional beauty."
     },
-    "match": { "ja": ["表現主義"], "en": ["expressionism", "expressionist"] }
+    "match": {
+      "ja": [
+        "表現主義"
+      ],
+      "en": [
+        "expressionism",
+        "expressionist"
+      ]
+    }
   },
   "toccata": {
-    "term": { "ja": "トッカータ", "en": "Toccata" },
+    "term": {
+      "ja": "トッカータ",
+      "en": "Toccata"
+    },
     "short": {
       "ja": "速いパッセージや技巧的な動きを見せつける、自由で即興的な性格の鍵盤曲。",
       "en": "A free, improvisatory keyboard piece showing off fast passages and technical flair."
     },
-    "match": { "ja": ["トッカータ"], "en": ["toccata", "toccatas"] }
+    "match": {
+      "ja": [
+        "トッカータ"
+      ],
+      "en": [
+        "toccata",
+        "toccatas"
+      ]
+    }
   },
   "cyclic-form": {
-    "term": { "ja": "循環形式", "en": "Cyclic form" },
+    "term": {
+      "ja": "循環形式",
+      "en": "Cyclic form"
+    },
     "short": {
       "ja": "同じ主題や旋律を複数の楽章にまたがって登場させ、曲全体をひとつにまとめる手法。",
       "en": "Bringing the same theme back across several movements to tie a whole piece together."
     },
-    "match": { "ja": ["循環形式"], "en": ["cyclic form"] }
+    "match": {
+      "ja": [
+        "循環形式"
+      ],
+      "en": [
+        "cyclic form"
+      ]
+    }
   },
   "polyphony": {
-    "term": { "ja": "多声音楽", "en": "Polyphony" },
+    "term": {
+      "ja": "多声音楽",
+      "en": "Polyphony"
+    },
     "short": {
       "ja": "複数の独立した声部が同時に絡み合って進んでいく音楽の織り方。",
       "en": "Music woven from several independent melodic lines moving together at once."
     },
-    "match": { "ja": ["多声音楽", "多声", "ポリフォニー"], "en": ["polyphony", "polyphonic"] }
+    "match": {
+      "ja": [
+        "多声音楽",
+        "多声",
+        "ポリフォニー"
+      ],
+      "en": [
+        "polyphony",
+        "polyphonic"
+      ]
+    }
   },
   "nocturne": {
-    "term": { "ja": "夜想曲", "en": "Nocturne" },
+    "term": {
+      "ja": "夜想曲",
+      "en": "Nocturne"
+    },
     "short": {
       "ja": "夜の雰囲気を思わせる、叙情的でゆったりとしたピアノの小品。",
       "en": "A lyrical, unhurried piano piece evoking the mood of night."
     },
-    "match": { "ja": ["夜想曲", "ノクターン"], "en": ["nocturne", "nocturnes"] }
+    "match": {
+      "ja": [
+        "夜想曲",
+        "ノクターン"
+      ],
+      "en": [
+        "nocturne",
+        "nocturnes"
+      ]
+    }
   },
   "scherzo": {
-    "term": { "ja": "スケルツォ", "en": "Scherzo" },
+    "term": {
+      "ja": "スケルツォ",
+      "en": "Scherzo"
+    },
     "short": {
       "ja": "速いテンポで軽妙、時にユーモラスな性格を持つ楽章。もとは「冗談」という意味。",
       "en": "A fast, light, sometimes humorous movement — the word originally means \"joke\" in Italian."
     },
-    "match": { "ja": ["スケルツォ"], "en": ["scherzo", "scherzos", "scherzi"] }
+    "match": {
+      "ja": [
+        "スケルツォ"
+      ],
+      "en": [
+        "scherzo",
+        "scherzos",
+        "scherzi"
+      ]
+    }
   },
   "prelude": {
-    "term": { "ja": "前奏曲", "en": "Prelude" },
+    "term": {
+      "ja": "前奏曲",
+      "en": "Prelude"
+    },
     "short": {
       "ja": "より大きな曲の前に置かれる、短く自由な性格の楽曲。単独の小品としても書かれる。",
       "en": "A short, free-form piece introducing a larger work, or written as a stand-alone miniature."
     },
-    "match": { "ja": ["前奏曲"], "en": ["prelude", "preludes"] }
+    "match": {
+      "ja": [
+        "前奏曲"
+      ],
+      "en": [
+        "prelude",
+        "preludes"
+      ]
+    }
   },
   "rhapsody": {
-    "term": { "ja": "狂詩曲", "en": "Rhapsody" },
+    "term": {
+      "ja": "狂詩曲",
+      "en": "Rhapsody"
+    },
     "short": {
       "ja": "民謡調の旋律などをつなぎ合わせた、決まった形式を持たない自由なオーケストラ曲。",
       "en": "A free-form orchestral piece stringing together folk-like tunes, with no fixed structure."
     },
-    "match": { "ja": ["狂詩曲", "ラプソディ"], "en": ["rhapsody", "rhapsodies"] }
+    "match": {
+      "ja": [
+        "狂詩曲",
+        "ラプソディ"
+      ],
+      "en": [
+        "rhapsody",
+        "rhapsodies"
+      ]
+    }
   },
   "ornament": {
-    "term": { "ja": "装飾音", "en": "Ornament" },
+    "term": {
+      "ja": "装飾音",
+      "en": "Ornament"
+    },
     "short": {
       "ja": "旋律に彩りを添える、トリルなどの小さな飾りの音。",
       "en": "A small decorative flourish — a trill, for example — added to embellish a melody."
     },
-    "match": { "ja": ["装飾音"], "en": ["ornament", "ornaments", "ornamentation"] }
+    "match": {
+      "ja": [
+        "装飾音"
+      ],
+      "en": [
+        "ornament",
+        "ornaments",
+        "ornamentation"
+      ]
+    }
   },
   "syncopation": {
-    "term": { "ja": "シンコペーション", "en": "Syncopation" },
+    "term": {
+      "ja": "シンコペーション",
+      "en": "Syncopation"
+    },
     "short": {
       "ja": "本来強く感じるはずの拍をずらし、弱起や裏拍にアクセントを置くリズムの技法。",
       "en": "Placing an accent off the beat you would expect it on, so the rhythm feels pushed or unsettled."
     },
-    "match": { "ja": ["シンコペーション"], "en": ["syncopation", "syncopated"] }
+    "match": {
+      "ja": [
+        "シンコペーション"
+      ],
+      "en": [
+        "syncopation",
+        "syncopated"
+      ]
+    }
   },
   "song-cycle": {
-    "term": { "ja": "歌曲集", "en": "Song cycle" },
+    "term": {
+      "ja": "歌曲集",
+      "en": "Song cycle"
+    },
     "short": {
       "ja": "ひとつの物語や心情の流れでつながった、複数の歌曲をまとめた作品。",
       "en": "A set of songs linked by a single story or emotional thread, meant to be heard as one work."
     },
-    "match": { "ja": ["歌曲集"], "en": ["song cycle", "song cycles"] }
+    "match": {
+      "ja": [
+        "歌曲集"
+      ],
+      "en": [
+        "song cycle",
+        "song cycles"
+      ]
+    }
   },
   "quintet": {
-    "term": { "ja": "五重奏", "en": "Quintet" },
+    "term": {
+      "ja": "五重奏",
+      "en": "Quintet"
+    },
     "short": {
       "ja": "5人の奏者による演奏形態。",
       "en": "Music for five players."
     },
-    "match": { "ja": ["五重奏"], "en": ["quintet", "quintets"] }
+    "match": {
+      "ja": [
+        "五重奏"
+      ],
+      "en": [
+        "quintet",
+        "quintets"
+      ]
+    }
   },
   "monophony": {
-    "term": { "ja": "単旋律", "en": "Monophony" },
+    "term": {
+      "ja": "単旋律",
+      "en": "Monophony"
+    },
     "short": {
       "ja": "伴奏も他の声部もない、ひとつの旋律だけからなる音楽。",
       "en": "Music consisting of a single melodic line, with no accompaniment or other voices."
     },
-    "match": { "ja": ["単旋律"], "en": ["monophony", "monophonic"] }
+    "match": {
+      "ja": [
+        "単旋律"
+      ],
+      "en": [
+        "monophony",
+        "monophonic"
+      ]
+    }
   },
   "well-tempered": {
-    "term": { "ja": "平均律", "en": "Equal temperament" },
+    "term": {
+      "ja": "平均律",
+      "en": "Equal temperament"
+    },
     "short": {
       "ja": "1オクターブを均等な12の半音に分ける調律法。どの調でも同じように演奏できる。",
       "en": "A tuning system that divides the octave into twelve equal semitones, so every key sounds equally usable."
     },
-    "match": { "ja": ["平均律"], "en": ["well-tempered", "equal temperament", "equal-tempered"] }
+    "match": {
+      "ja": [
+        "平均律"
+      ],
+      "en": [
+        "well-tempered",
+        "equal temperament",
+        "equal-tempered"
+      ]
+    }
   },
   "ostinato": {
-    "term": { "ja": "オスティナート", "en": "Ostinato" },
+    "term": {
+      "ja": "オスティナート",
+      "en": "Ostinato"
+    },
     "short": {
       "ja": "同じ音型を曲の中で執拗に反復させる手法。",
       "en": "A short musical pattern repeated insistently throughout a passage or piece."
     },
-    "match": { "ja": ["オスティナート"], "en": ["ostinato", "ostinatos", "ostinati"] }
+    "match": {
+      "ja": [
+        "オスティナート"
+      ],
+      "en": [
+        "ostinato",
+        "ostinatos",
+        "ostinati"
+      ]
+    }
   },
   "recitative": {
-    "term": { "ja": "レチタティーヴォ", "en": "Recitative" },
+    "term": {
+      "ja": "レチタティーヴォ",
+      "en": "Recitative"
+    },
     "short": {
       "ja": "旋律よりも言葉のリズムを優先し、語るように歌うオペラなどの様式。",
       "en": "A speech-like way of singing in opera and oratorio, following the rhythm of the words rather than a set melody."
     },
-    "match": { "ja": ["レチタティーヴォ"], "en": ["recitative", "recitatives"] }
+    "match": {
+      "ja": [
+        "レチタティーヴォ"
+      ],
+      "en": [
+        "recitative",
+        "recitatives"
+      ]
+    }
   },
   "whole-tone": {
-    "term": { "ja": "全音音階", "en": "Whole-tone scale" },
+    "term": {
+      "ja": "全音音階",
+      "en": "Whole-tone scale"
+    },
     "short": {
       "ja": "すべての音の間隔が全音でそろった音階。中心となる音がぼやけ、浮遊感のある響きになる。",
       "en": "A scale made entirely of whole steps, which blurs any sense of a home note and gives a floating, ambiguous sound."
     },
-    "match": { "ja": ["全音音階"], "en": ["whole-tone scale", "whole-tone"] }
+    "match": {
+      "ja": [
+        "全音音階"
+      ],
+      "en": [
+        "whole-tone scale",
+        "whole-tone"
+      ]
+    }
   },
   "intermezzo": {
-    "term": { "ja": "間奏曲", "en": "Intermezzo" },
+    "term": {
+      "ja": "間奏曲",
+      "en": "Intermezzo"
+    },
     "short": {
       "ja": "オペラの幕間や、大きな曲の楽章の間に置かれる短い曲。単独の性格的小品としても書かれる。",
       "en": "A short piece placed between the acts of an opera or the movements of a larger work, or written as a stand-alone miniature."
     },
-    "match": { "ja": ["間奏曲"], "en": ["intermezzo", "intermezzi", "intermezzos"] }
+    "match": {
+      "ja": [
+        "間奏曲"
+      ],
+      "en": [
+        "intermezzo",
+        "intermezzi",
+        "intermezzos"
+      ]
+    }
   },
   "rubato": {
-    "term": { "ja": "ルバート", "en": "Rubato" },
+    "term": {
+      "ja": "ルバート",
+      "en": "Rubato"
+    },
     "short": {
       "ja": "表現のために、テンポをわずかに伸び縮みさせて演奏すること。",
       "en": "Slightly stretching and compressing the tempo for expressive effect, rather than keeping strict time."
     },
-    "match": { "ja": ["ルバート"], "en": ["rubato"] }
+    "match": {
+      "ja": [
+        "ルバート"
+      ],
+      "en": [
+        "rubato"
+      ]
+    }
   },
   "modulation": {
-    "term": { "ja": "転調", "en": "Modulation" },
+    "term": {
+      "ja": "転調",
+      "en": "Modulation"
+    },
     "short": {
       "ja": "曲の途中で、それまでとは違う調（主音）に移ること。",
       "en": "Shifting from one key to another partway through a piece."
     },
-    "match": { "ja": ["転調"], "en": ["modulation"] }
+    "match": {
+      "ja": [
+        "転調"
+      ],
+      "en": [
+        "modulation"
+      ]
+    }
   },
   "basso-continuo": {
-    "term": { "ja": "通奏低音", "en": "Basso continuo" },
+    "term": {
+      "ja": "通奏低音",
+      "en": "Basso continuo"
+    },
     "short": {
       "ja": "バロック音楽で、チェンバロやチェロなどが低音と和声を支え続けるパート。",
       "en": "In Baroque music, a continuous supporting bass-and-harmony part typically played by harpsichord and cello together."
     },
-    "match": { "ja": ["通奏低音"], "en": ["basso continuo", "continuo"] }
+    "match": {
+      "ja": [
+        "通奏低音"
+      ],
+      "en": [
+        "basso continuo",
+        "continuo"
+      ]
+    }
   },
   "leitmotif": {
-    "term": { "ja": "ライトモティーフ", "en": "Leitmotif" },
+    "term": {
+      "ja": "ライトモティーフ",
+      "en": "Leitmotif"
+    },
     "short": {
       "ja": "特定の人物や感情、事物と結びつけて繰り返し使われる短い旋律の断片。ワーグナーが多用した。",
       "en": "A short musical fragment tied to a particular character, emotion, or idea, recurring whenever it appears — a technique Wagner used extensively."
     },
-    "match": { "ja": ["ライトモティーフ"], "en": ["leitmotif", "leitmotifs", "leitmotiv"] }
+    "match": {
+      "ja": [
+        "ライトモティーフ"
+      ],
+      "en": [
+        "leitmotif",
+        "leitmotifs",
+        "leitmotiv"
+      ]
+    }
   },
   "passacaglia": {
-    "term": { "ja": "パッサカリア", "en": "Passacaglia" },
+    "term": {
+      "ja": "パッサカリア",
+      "en": "Passacaglia"
+    },
     "short": {
       "ja": "低音に置かれた短い旋律を繰り返しながら、その上に変奏を重ねていく曲。",
       "en": "A piece built over a short bass pattern repeated again and again, with ever-changing music layered on top."
     },
-    "match": { "ja": ["パッサカリア"], "en": ["passacaglia", "passacaglias"] }
+    "match": {
+      "ja": [
+        "パッサカリア"
+      ],
+      "en": [
+        "passacaglia",
+        "passacaglias"
+      ]
+    }
   },
   "absolute-music": {
-    "term": { "ja": "絶対音楽", "en": "Absolute music" },
+    "term": {
+      "ja": "絶対音楽",
+      "en": "Absolute music"
+    },
     "short": {
       "ja": "物語や情景を描かず、音そのものの構成だけで成り立つ音楽。標題音楽の対義語。",
       "en": "Music that depicts nothing outside itself — the opposite of programme music."
     },
-    "match": { "ja": ["絶対音楽"], "en": ["absolute music"] }
+    "match": {
+      "ja": [
+        "絶対音楽"
+      ],
+      "en": [
+        "absolute music"
+      ]
+    }
   },
   "mazurka": {
-    "term": { "ja": "マズルカ", "en": "Mazurka" },
+    "term": {
+      "ja": "マズルカ",
+      "en": "Mazurka"
+    },
     "short": {
       "ja": "ポーランドの民俗舞曲に由来する、3拍子で2拍目にアクセントが来ることが多い舞曲。",
       "en": "A Polish folk dance in triple time, often accenting the second beat — Chopin wrote many for piano."
     },
-    "match": { "ja": ["マズルカ"], "en": ["mazurka", "mazurkas"] }
+    "match": {
+      "ja": [
+        "マズルカ"
+      ],
+      "en": [
+        "mazurka",
+        "mazurkas"
+      ]
+    }
   },
   "polonaise": {
-    "term": { "ja": "ポロネーズ", "en": "Polonaise" },
+    "term": {
+      "ja": "ポロネーズ",
+      "en": "Polonaise"
+    },
     "short": {
       "ja": "ポーランド起源の、荘重な行進のような3拍子の舞曲。",
       "en": "A stately, march-like Polish dance in triple time."
     },
-    "match": { "ja": ["ポロネーズ"], "en": ["polonaise", "polonaises"] }
+    "match": {
+      "ja": [
+        "ポロネーズ"
+      ],
+      "en": [
+        "polonaise",
+        "polonaises"
+      ]
+    }
   },
   "etude": {
-    "term": { "ja": "練習曲", "en": "Étude" },
+    "term": {
+      "ja": "練習曲",
+      "en": "Étude"
+    },
     "short": {
       "ja": "特定の技巧を鍛える目的で書かれた曲。演奏会用の作品としても書かれる。",
       "en": "A piece written to develop a specific technique, though many are also written as concert works in their own right."
     },
-    "match": { "ja": ["練習曲"], "en": ["étude", "études", "etude", "etudes"] }
+    "match": {
+      "ja": [
+        "練習曲"
+      ],
+      "en": [
+        "étude",
+        "études",
+        "etude",
+        "etudes"
+      ]
+    }
   },
   "fantasia": {
-    "term": { "ja": "幻想曲", "en": "Fantasia" },
+    "term": {
+      "ja": "幻想曲",
+      "en": "Fantasia"
+    },
     "short": {
       "ja": "決まった形式にとらわれず、自由な発想で書かれた曲。",
       "en": "A piece written with a free, imaginative structure rather than following a fixed form."
     },
-    "match": { "ja": ["幻想曲"], "en": ["fantasia", "fantasias"] }
+    "match": {
+      "ja": [
+        "幻想曲"
+      ],
+      "en": [
+        "fantasia",
+        "fantasias"
+      ]
+    }
+  },
+  "cadenza": {
+    "term": {
+      "ja": "カデンツァ",
+      "en": "Cadenza"
+    },
+    "short": {
+      "ja": "協奏曲などで、独奏者が伴奏なしで技巧を披露する自由な見せ場。",
+      "en": "A free, unaccompanied passage, typically near the end of a concerto movement, where the soloist shows off virtuosic technique."
+    },
+    "match": {
+      "ja": [
+        "カデンツァ"
+      ],
+      "en": [
+        "cadenza",
+        "cadenzas"
+      ]
+    }
+  },
+  "exposition": {
+    "term": {
+      "ja": "提示部",
+      "en": "Exposition"
+    },
+    "short": {
+      "ja": "ソナタ形式の冒頭部分。曲の主題がここで最初に示される。",
+      "en": "The opening section of a movement in sonata form, where the main themes are first presented."
+    },
+    "match": {
+      "ja": [
+        "提示部"
+      ],
+      "en": [
+        "exposition"
+      ]
+    }
+  },
+  "development-section": {
+    "term": {
+      "ja": "展開部",
+      "en": "Development"
+    },
+    "short": {
+      "ja": "ソナタ形式で、提示部の主題を変形・展開させる中間部分。",
+      "en": "The middle section of a movement in sonata form, where the themes from the exposition are reshaped and developed."
+    },
+    "match": {
+      "ja": [
+        "展開部"
+      ],
+      "en": [
+        "development section",
+        "the development"
+      ]
+    }
+  },
+  "recapitulation": {
+    "term": {
+      "ja": "再現部",
+      "en": "Recapitulation"
+    },
+    "short": {
+      "ja": "ソナタ形式の終盤で、提示部の主題が形を整えて戻ってくる部分。",
+      "en": "The final section of a movement in sonata form, where the exposition's themes return in a settled form."
+    },
+    "match": {
+      "ja": [
+        "再現部"
+      ],
+      "en": [
+        "recapitulation"
+      ]
+    }
+  },
+  "coda": {
+    "term": {
+      "ja": "コーダ",
+      "en": "Coda"
+    },
+    "short": {
+      "ja": "楽章や曲の最後に置かれる、締めくくりのための部分。",
+      "en": "A closing section added at the end of a movement or piece to bring it to a conclusion."
+    },
+    "match": {
+      "ja": [
+        "コーダ"
+      ],
+      "en": [
+        "coda",
+        "codas"
+      ]
+    }
+  },
+  "orchestral-introduction": {
+    "term": {
+      "ja": "序奏",
+      "en": "Introduction"
+    },
+    "short": {
+      "ja": "楽章や曲の主部に入る前に置かれる、導入のための部分。",
+      "en": "A passage placed before a movement's main section to lead the listener into it."
+    },
+    "match": {
+      "ja": [
+        "序奏"
+      ],
+      "en": [
+        "introduction",
+        "orchestral introduction"
+      ]
+    }
+  },
+  "suite": {
+    "term": {
+      "ja": "組曲",
+      "en": "Suite"
+    },
+    "short": {
+      "ja": "舞曲や性格の異なる複数の楽章を組み合わせて1つの作品にまとめたもの。",
+      "en": "A piece made up of several movements, often dance-derived, strung together as one work."
+    },
+    "match": {
+      "ja": [
+        "組曲"
+      ],
+      "en": [
+        "suite",
+        "suites"
+      ]
+    }
+  },
+  "canon": {
+    "term": {
+      "ja": "カノン",
+      "en": "Canon"
+    },
+    "short": {
+      "ja": "同じ旋律を複数の声部が少しずつ時間差をつけて追いかけるように歌う書法。",
+      "en": "A technique where one melody is sung or played by several voices entering one after another, each imitating the one before."
+    },
+    "match": {
+      "ja": [
+        "カノン"
+      ],
+      "en": [
+        "canon",
+        "canons"
+      ]
+    }
+  },
+  "minuet": {
+    "term": {
+      "ja": "メヌエット",
+      "en": "Minuet"
+    },
+    "short": {
+      "ja": "3拍子で上品な性格を持つ、フランス起源の舞曲。組曲や交響曲の楽章にも使われる。",
+      "en": "A graceful triple-time dance of French origin, often used as a movement in suites and early symphonies."
+    },
+    "match": {
+      "ja": [
+        "メヌエット"
+      ],
+      "en": [
+        "minuet",
+        "minuets"
+      ]
+    }
+  },
+  "gavotte": {
+    "term": {
+      "ja": "ガヴォット",
+      "en": "Gavotte"
+    },
+    "short": {
+      "ja": "フランス起源の、中庸なテンポで2拍目の途中から始まる舞曲。",
+      "en": "A moderate-tempo French dance, distinctively beginning halfway through the bar rather than on the downbeat."
+    },
+    "match": {
+      "ja": [
+        "ガヴォット"
+      ],
+      "en": [
+        "gavotte",
+        "gavottes"
+      ]
+    }
+  },
+  "sarabande": {
+    "term": {
+      "ja": "サラバンド",
+      "en": "Sarabande"
+    },
+    "short": {
+      "ja": "3拍子でゆったりと重々しい、2拍目にアクセントが来ることが多いバロック舞曲。",
+      "en": "A slow, stately triple-time Baroque dance, often accenting the second beat of the bar."
+    },
+    "match": {
+      "ja": [
+        "サラバンド"
+      ],
+      "en": [
+        "sarabande",
+        "sarabandes"
+      ]
+    }
+  },
+  "gigue": {
+    "term": {
+      "ja": "ジーグ",
+      "en": "Gigue"
+    },
+    "short": {
+      "ja": "跳ねるようなリズムを持つ、速い舞曲。バロック組曲の最後の楽章によく置かれる。",
+      "en": "A fast, lilting dance with a bouncing rhythm, often placed as the final movement of a Baroque suite."
+    },
+    "match": {
+      "ja": [
+        "ジーグ"
+      ],
+      "en": [
+        "gigue",
+        "gigues"
+      ]
+    }
+  },
+  "allemande": {
+    "term": {
+      "ja": "アルマンド",
+      "en": "Allemande"
+    },
+    "short": {
+      "ja": "ドイツ起源の、中庸なテンポの4拍子の舞曲。バロック組曲の冒頭近くに置かれる。",
+      "en": "A moderate-tempo dance in four beats, of German origin, usually placed near the start of a Baroque suite."
+    },
+    "match": {
+      "ja": [
+        "アルマンド"
+      ],
+      "en": [
+        "allemande",
+        "allemandes"
+      ]
+    }
+  },
+  "courante": {
+    "term": {
+      "ja": "クーラント",
+      "en": "Courante"
+    },
+    "short": {
+      "ja": "「走る」を意味する、軽快な3拍子のバロック舞曲。",
+      "en": "A lively triple-time Baroque dance whose name means \"running\"."
+    },
+    "match": {
+      "ja": [
+        "クーラント"
+      ],
+      "en": [
+        "courante",
+        "courantes"
+      ]
+    }
+  },
+  "aria": {
+    "term": {
+      "ja": "アリア",
+      "en": "Aria"
+    },
+    "short": {
+      "ja": "オペラやオラトリオの中で、独唱者が旋律を歌い上げる自己完結した曲。",
+      "en": "A self-contained melodic solo song within an opera, oratorio, or cantata."
+    },
+    "match": {
+      "ja": [
+        "アリア"
+      ],
+      "en": [
+        "aria",
+        "arias"
+      ]
+    }
+  },
+  "ballade": {
+    "term": {
+      "ja": "バラード",
+      "en": "Ballade"
+    },
+    "short": {
+      "ja": "物語的な性格を持つ、決まった形式にとらわれない器楽曲。ショパンのピアノ曲が代表例。",
+      "en": "A narrative-flavoured instrumental piece without a fixed form — Chopin's piano ballades are the best-known examples."
+    },
+    "match": {
+      "ja": [
+        "バラード"
+      ],
+      "en": [
+        "ballade",
+        "ballades"
+      ]
+    }
+  },
+  "trill": {
+    "term": {
+      "ja": "トリル",
+      "en": "Trill"
+    },
+    "short": {
+      "ja": "隣り合う2つの音を素早く交互に鳴らし続ける装飾技法。",
+      "en": "Rapidly alternating between two adjacent notes as a form of ornamentation."
+    },
+    "match": {
+      "ja": [
+        "トリル"
+      ],
+      "en": [
+        "trill",
+        "trills"
+      ]
+    }
+  },
+  "fortissimo": {
+    "term": {
+      "ja": "フォルティッシモ",
+      "en": "Fortissimo"
+    },
+    "short": {
+      "ja": "「非常に強く」を表す強弱記号。fffなど、更に強い段階を重ねて示すこともある。",
+      "en": "A dynamic marking meaning \"very loud\", sometimes intensified further as fff and beyond."
+    },
+    "match": {
+      "ja": [
+        "フォルティッシモ"
+      ],
+      "en": [
+        "fortissimo"
+      ]
+    }
+  },
+  "tremolo": {
+    "term": {
+      "ja": "トレモロ",
+      "en": "Tremolo"
+    },
+    "short": {
+      "ja": "同じ音や和音を素早く反復させ、震えるような響きを作る奏法。",
+      "en": "Rapidly repeating a single note or chord to create a shimmering, trembling sound."
+    },
+    "match": {
+      "ja": [
+        "トレモロ"
+      ],
+      "en": [
+        "tremolo",
+        "tremolos"
+      ]
+    }
+  },
+  "glissando": {
+    "term": {
+      "ja": "グリッサンド",
+      "en": "Glissando"
+    },
+    "short": {
+      "ja": "ある音から別の音まで、途切れなく滑るように駆け上がったり下ったりする奏法。",
+      "en": "Sliding continuously from one pitch to another rather than moving in discrete steps."
+    },
+    "match": {
+      "ja": [
+        "グリッサンド"
+      ],
+      "en": [
+        "glissando",
+        "glissandi",
+        "glissandos"
+      ]
+    }
+  },
+  "mute": {
+    "term": {
+      "ja": "弱音器",
+      "en": "Mute"
+    },
+    "short": {
+      "ja": "弦楽器や管楽器に取り付け、音量を落として音色を変える小さな道具。",
+      "en": "A small device attached to a string or brass instrument to soften its volume and alter its tone colour."
+    },
+    "match": {
+      "ja": [
+        "弱音器"
+      ],
+      "en": [
+        "mute",
+        "mutes",
+        "muted"
+      ]
+    }
+  },
+  "broken-chord": {
+    "term": {
+      "ja": "分散和音",
+      "en": "Broken chord"
+    },
+    "short": {
+      "ja": "和音の構成音を同時にではなく、1つずつ順番に鳴らしていく奏法。",
+      "en": "Playing the notes of a chord one after another instead of all at once."
+    },
+    "match": {
+      "ja": [
+        "分散和音"
+      ],
+      "en": [
+        "broken chord",
+        "broken chords"
+      ]
+    }
+  },
+  "countermelody": {
+    "term": {
+      "ja": "対旋律",
+      "en": "Countermelody"
+    },
+    "short": {
+      "ja": "主旋律と同時に鳴らされる、それを引き立てる独立した旋律。",
+      "en": "An independent melody played alongside the main tune, complementing it."
+    },
+    "match": {
+      "ja": [
+        "対旋律"
+      ],
+      "en": [
+        "counter-melody",
+        "countermelody",
+        "counter-melodies",
+        "countermelodies"
+      ]
+    }
+  },
+  "changing-meter": {
+    "term": {
+      "ja": "変拍子",
+      "en": "Changing metre"
+    },
+    "short": {
+      "ja": "曲の途中で拍子（1小節の拍の数）が次々と切り替わること。",
+      "en": "Music where the metre — the number of beats per bar — keeps switching rather than staying fixed."
+    },
+    "match": {
+      "ja": [
+        "変拍子"
+      ],
+      "en": [
+        "changing metre",
+        "changing meter",
+        "shifting metre",
+        "shifting meter",
+        "shifting metres"
+      ]
+    }
+  },
+  "tonic-triad": {
+    "term": {
+      "ja": "主和音",
+      "en": "Tonic triad"
+    },
+    "short": {
+      "ja": "その調の主音（中心となる音）の上に積み重ねた、最も安定して響く和音。",
+      "en": "The chord built on a key's home note — the most stable, restful-sounding chord in that key."
+    },
+    "match": {
+      "ja": [
+        "主和音"
+      ],
+      "en": [
+        "tonic triad",
+        "tonic chord"
+      ]
+    }
+  },
+  "consonance": {
+    "term": {
+      "ja": "協和音",
+      "en": "Consonance"
+    },
+    "short": {
+      "ja": "落ち着いて安定して聴こえる、複数の音の組み合わせ。",
+      "en": "A combination of notes that sounds stable and settled to the ear."
+    },
+    "match": {
+      "ja": [
+        "協和音"
+      ],
+      "en": [
+        "consonance",
+        "consonant"
+      ]
+    }
+  },
+  "dissonance": {
+    "term": {
+      "ja": "不協和音",
+      "en": "Dissonance"
+    },
+    "short": {
+      "ja": "緊張感があり、解決を求めるように聴こえる、複数の音の組み合わせ。",
+      "en": "A combination of notes that sounds tense or unresolved, seeming to demand a resolution."
+    },
+    "match": {
+      "ja": [
+        "不協和音"
+      ],
+      "en": [
+        "dissonance",
+        "dissonances",
+        "dissonant"
+      ]
+    }
+  },
+  "impromptu": {
+    "term": {
+      "ja": "即興曲",
+      "en": "Impromptu"
+    },
+    "short": {
+      "ja": "即興で弾いているかのような自由さを持つ、ピアノのための小品の形式。",
+      "en": "A short piano piece with the free, spontaneous character of an improvisation, despite being fully written out."
+    },
+    "match": {
+      "ja": [
+        "即興曲"
+      ],
+      "en": [
+        "impromptu",
+        "impromptus"
+      ]
+    }
+  },
+  "serenade": {
+    "term": {
+      "ja": "小夜曲",
+      "en": "Serenade"
+    },
+    "short": {
+      "ja": "もとは夜に戸外で恋人などに向けて演奏された、軽やかで親しみやすい性格の曲。",
+      "en": "Originally music performed outdoors in the evening, often for a loved one — light and approachable in character."
+    },
+    "match": {
+      "ja": [
+        "小夜曲"
+      ],
+      "en": [
+        "serenade",
+        "serenades"
+      ]
+    }
+  },
+  "string-ensemble": {
+    "term": {
+      "ja": "弦楽合奏",
+      "en": "String ensemble"
+    },
+    "short": {
+      "ja": "ヴァイオリン・ヴィオラ・チェロ・コントラバスなど、弦楽器だけによる合奏。",
+      "en": "An ensemble made up entirely of string instruments — violins, violas, cellos, and often double basses."
+    },
+    "match": {
+      "ja": [
+        "弦楽合奏"
+      ],
+      "en": [
+        "string ensemble",
+        "string orchestra"
+      ]
+    }
+  },
+  "wind-band": {
+    "term": {
+      "ja": "吹奏楽",
+      "en": "Wind band"
+    },
+    "short": {
+      "ja": "弦楽器を含まず、管楽器と打楽器を中心に編成された合奏。",
+      "en": "An ensemble built around wind and percussion instruments, with no strings."
+    },
+    "match": {
+      "ja": [
+        "吹奏楽"
+      ],
+      "en": [
+        "wind band",
+        "wind bands"
+      ]
+    }
+  },
+  "trio-ensemble": {
+    "term": {
+      "ja": "三重奏",
+      "en": "Trio"
+    },
+    "short": {
+      "ja": "3人の奏者による演奏形態。ピアノ三重奏（ピアノ・ヴァイオリン・チェロ）が代表例。",
+      "en": "Music for three players — the piano trio (piano, violin, cello) is the classic example."
+    },
+    "match": {
+      "ja": [
+        "三重奏"
+      ],
+      "en": [
+        "trio",
+        "trios"
+      ]
+    }
+  },
+  "character-piece": {
+    "term": {
+      "ja": "性格的小品",
+      "en": "Character piece"
+    },
+    "short": {
+      "ja": "特定の気分や情景を短くまとめて描く、標題を持つことが多い器楽の小品。",
+      "en": "A short instrumental piece capturing a single mood or scene, often given a descriptive title."
+    },
+    "match": {
+      "ja": [
+        "性格的小品"
+      ],
+      "en": [
+        "character piece",
+        "character pieces"
+      ]
+    }
+  },
+  "dotted-rhythm": {
+    "term": {
+      "ja": "付点リズム",
+      "en": "Dotted rhythm"
+    },
+    "short": {
+      "ja": "長い音と短い音を交互に配置し、はずむような感じを生むリズム。",
+      "en": "A rhythm alternating a lengthened note with a short one, giving the music a jaunty, uneven lilt."
+    },
+    "match": {
+      "ja": [
+        "付点リズム"
+      ],
+      "en": [
+        "dotted rhythm",
+        "dotted rhythms"
+      ]
+    }
+  },
+  "triplet": {
+    "term": {
+      "ja": "三連符",
+      "en": "Triplet"
+    },
+    "short": {
+      "ja": "本来2つに分かれる音符を3等分し、3つの音を均等な長さで演奏する音型。",
+      "en": "Three notes played in the time normally taken by two, each of equal length."
+    },
+    "match": {
+      "ja": [
+        "三連符"
+      ],
+      "en": [
+        "triplet",
+        "triplets"
+      ]
+    }
+  },
+  "cadence": {
+    "term": {
+      "ja": "終止",
+      "en": "Cadence"
+    },
+    "short": {
+      "ja": "和声の進行がひと区切りついて落ち着く、フレーズの終わり方。",
+      "en": "A chord progression that brings a musical phrase to a point of rest or pause."
+    },
+    "match": {
+      "ja": [
+        "終止"
+      ],
+      "en": [
+        "cadence",
+        "cadences",
+        "cadential"
+      ]
+    }
+  },
+  "transposition": {
+    "term": {
+      "ja": "移調",
+      "en": "Transposition"
+    },
+    "short": {
+      "ja": "旋律や曲全体を、音程関係を保ったまま別の高さの調に移すこと。",
+      "en": "Shifting a melody or whole piece to a different pitch level while keeping the intervals between notes unchanged."
+    },
+    "match": {
+      "ja": [
+        "移調"
+      ],
+      "en": [
+        "transposition",
+        "transpose",
+        "transposed",
+        "transposing"
+      ]
+    }
+  },
+  "double-stop": {
+    "term": {
+      "ja": "重音奏法",
+      "en": "Double stop"
+    },
+    "short": {
+      "ja": "ヴァイオリンなどの弦楽器で、2本の弦を同時に押さえて2音を同時に鳴らす奏法。",
+      "en": "Playing two strings at once on a string instrument to sound two notes simultaneously."
+    },
+    "match": {
+      "ja": [
+        "重音奏法"
+      ],
+      "en": [
+        "double stop",
+        "double stops",
+        "double-stop",
+        "double-stops"
+      ]
+    }
+  },
+  "col-legno": {
+    "term": {
+      "ja": "コル・レーニョ",
+      "en": "Col legno"
+    },
+    "short": {
+      "ja": "弦楽器で、弓の毛ではなく木の部分で弦を叩いたりこすったりする特殊奏法。",
+      "en": "A string-playing technique striking or drawing the wooden stick of the bow across the strings, instead of the hair."
+    },
+    "match": {
+      "ja": [
+        "コル・レーニョ"
+      ],
+      "en": [
+        "col legno"
+      ]
+    }
+  },
+  "harmonics": {
+    "term": {
+      "ja": "ハーモニクス",
+      "en": "Harmonics"
+    },
+    "short": {
+      "ja": "弦を軽く触れて演奏し、澄んだ笛のような音色を出す奏法。",
+      "en": "A technique of lightly touching a string while playing to produce a clear, flute-like overtone."
+    },
+    "match": {
+      "ja": [
+        "ハーモニクス"
+      ],
+      "en": [
+        "harmonics",
+        "harmonic overtone",
+        "harmonic overtones"
+      ]
+    }
+  },
+  "cantabile": {
+    "term": {
+      "ja": "カンタービレ",
+      "en": "Cantabile"
+    },
+    "short": {
+      "ja": "「歌うように」を意味する、旋律をなめらかに歌わせるための発想標語。",
+      "en": "A performance direction meaning \"in a singing style\", calling for a smooth, vocal-like melodic line."
+    },
+    "match": {
+      "ja": [
+        "カンタービレ"
+      ],
+      "en": [
+        "cantabile"
+      ]
+    }
   }
 }
