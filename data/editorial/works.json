@@ -2424,5 +2424,65 @@
       "ja": "アレクサンドル・プーシキンの物語詩(1820年)に基づく歌劇で、1837年から1842年にかけて、断続的に作曲された。当初プーシキン自身が台本づくりに協力する計画もあったが、同年の決闘による死によって果たされず、複数の手による台本作りが難航したことも、成立に長い年月を要した一因とされる。\n初演は1842年11月27日(ロシア旧暦、西暦では12月9日)、サンクトペテルブルクのボリショイ・カメンヌイ劇場で、カール・アルブレヒトの指揮によりおこなわれた。当時のイタリア・オペラに親しんだ聴衆には、グリンカが用いたロシア民俗音楽由来の和声法が粗野に映り、波乱に富んだおとぎ話風の筋書きも戸惑いを招いたとされ、初演の評判は芳しくなかった。しかし19世紀後半、いわゆる「ロシア五人組」の作曲家たちに強く支持されたことをきっかけに、ロシア国民楽派オペラの礎として広く評価されるようになった。",
       "en": "Based on Alexander Pushkin's 1820 narrative poem, the opera was composed intermittently between 1837 and 1842. Pushkin himself had once planned to help adapt his own poem for the libretto, but his death that year in a duel cut those plans short, and the resulting multi-author libretto process is one reason the opera took so long to complete.\nIt premiered on 27 November 1842 (Old Style; 9 December by the Gregorian calendar) at the Bolshoi Kamenny Theatre in St Petersburg, conducted by Karl Albrecht. Audiences accustomed to Italian opera reportedly found Glinka's harmonies, rooted in Russian folk idiom, crude, and the sprawling, episodic fairy-tale plot left many bewildered, so the premiere's reception was lukewarm. Later in the century, though, strong advocacy from the composers of the so-called \"Mighty Handful\" helped establish it as a foundational work of Russian national opera."
     }
+  },
+  "813": {
+    "structure": {
+      "ja": "序奏の器楽曲「行進曲風ロンド」に続き、テ・デウムの典礼文を11の楽曲に分けて作曲した、全12曲からなる作品。独唱8声部、合唱、弦楽・木管に加えトランペットとティンパニを含む管弦楽という、当時としては大規模な編成による、ニ長調の祝祭的な響きを持つ。\n冒頭の器楽曲「行進曲風ロンド」の主題が全曲を通じてたびたび回帰し、各楽曲間の統一感を生み出している。",
+      "en": "An instrumental Prelude, a march-like rondeau, followed by eleven vocal settings of the Te Deum text, twelve movements in all. Scored for eight vocal soloists, chorus, and an orchestra of strings and woodwinds with trumpets and timpani — a large ensemble for its time — in a festive D major.\nThe opening rondeau's theme returns repeatedly across the work, giving the whole a strong sense of unity."
+    },
+    "story": {
+      "ja": "1690年代、シャルパンティエがパリのイエズス会教会サン=ルイの楽長を務めていた頃に作曲されたとされる。ルイ14世率いるフランス軍が1692年のステンケルクの戦いで英蘭・アウクスブルク同盟軍に勝利したことを祝って書かれた作品だという説が広く語られているが、これを裏づける確たる史料は見つかっておらず、あくまで伝承の域を出ない。\nこの曲は長らく忘れられていたが、1953年、フランスの音楽学者カルル・ド・ニスによって再発見された。翌1954年、発足したばかりの欧州放送連合が、冒頭の器楽曲「行進曲風ロンド」をユーロビジョンのネットワーク放送(ユーロビジョン・ソング・コンテストを含む)のオープニング音楽として採用し、以後今日に至るまで、この曲はテレビの音楽としてもっとも広く親しまれるバロック作品のひとつとなっている。",
+      "en": "It is thought to have been composed in the 1690s, while Charpentier was music director at the Jesuit church of Saint-Louis in Paris. A popular tradition holds that it was written to celebrate the French victory under Louis XIV at the Battle of Steenkerque in 1692, against an Anglo-Dutch and Augsburg League coalition, though no firm documentary evidence confirms this, and the claim should be treated as tradition rather than settled fact.\nThe work fell into obscurity for centuries until it was rediscovered in 1953 by the French musicologist Carl de Nys. The following year, 1954, the newly founded European Broadcasting Union adopted the opening instrumental rondeau as the signature theme preceding its network broadcasts, including the Eurovision Song Contest — and it has remained, ever since, one of the most widely heard pieces of Baroque music on television."
+    }
+  },
+  "1733": {
+    "structure": {
+      "ja": "映画「戦場にかける橋」のための音楽。作品の中核をなす「クワイ河マーチ」は、アーノルドが書き下ろした対旋律・行進曲であり、これを、はるか以前の1914年、イギリス陸軍の楽長フレデリック・J・リケッツが「ケネス・J・アルフォード」の筆名で発表していた既存の行進曲「ボギー大佐」と組み合わせて同時に演奏できるよう作曲されている(軍人には対外的な作曲活動が認められていなかったため、リケッツは筆名を用いていた)。\n映画中、捕虜となったイギリス兵たちが収容所へ行進しながら歌うのではなく口笛で吹くのは、「ボギー大佐」の旋律に、当時すでに広く知られていた卑猥な替え歌の歌詞がついていたため、それを直接歌わせるのを避けたためだとされる。",
+      "en": "The score for the film The Bridge on the River Kwai. Its centrepiece, \"The River Kwai March,\" is an original counter-melody Arnold composed to be played alongside — not in place of — a much older march, \"Colonel Bogey,\" published in 1914 by the British Army bandmaster Frederick J. Ricketts under the pen name \"Kenneth J. Alford\" (military musicians were not permitted outside professional credits, hence the pseudonym).\nIn the film, the British prisoners whistle rather than sing Colonel Bogey as they march into camp — reportedly because the tune already carried well-known, bawdy alternate lyrics, and having the men sing it outright would have been inappropriate for the screen."
+    },
+    "story": {
+      "ja": "1957年、映画のために作曲された。同年10月に公開されたこの映画は、作品賞・監督賞・主演男優賞(アレック・ギネス)・脚色賞・撮影賞・編集賞、そしてアーノルドの音楽賞を含む計7部門でアカデミー賞を受賞する快挙を成し遂げた。アーノルドはこの映画音楽でグラミー賞も受賞している。\n「ボギー大佐」の旋律自体は第一次世界大戦下の1914年に生まれ、アーノルドの誕生(1921年)よりも前から存在していたものであり、映画をきっかけに1950年代にあらためて広く知られるようになった。",
+      "en": "He composed the score in 1957. The film, released that October, went on to win seven Academy Awards, including Best Picture, Best Director, Best Actor (Alec Guinness), Best Adapted Screenplay, Best Cinematography, Best Editing, and Arnold's own award for the score. Arnold also won a Grammy for the music.\nThe \"Colonel Bogey\" tune itself dates back to 1914, during the First World War — decades before Arnold was even born, in 1921 — and it was the film that brought it renewed, widespread popularity in the 1950s."
+    }
+  },
+  "4501": {
+    "structure": {
+      "ja": "全2楽章という異例の構成をとる交響曲で、各楽章はさらにテンポの異なる複数の部分を溶接するように組み合わせている。第1楽章では、小太鼓奏者に対して「あたかも何としてでも音楽の進行を妨げようとするかのように」即興で自由に、しかもオーケストラとは無関係にどんどん荒々しく叩き続けるよう指示する、きわめて異色の一節が置かれている。",
+      "en": "A symphony in an unusual two movements, each one welding together contrasting sections of differing tempo. The first movement contains a genuinely startling passage in which the snare drummer is instructed to improvise freely and increasingly wildly, independent of the orchestra, \"as if at all costs to obstruct the progress of the music\" — one of the most arresting anti-military gestures in the symphonic repertoire."
+    },
+    "story": {
+      "ja": "1920年から1922年にかけて作曲され、総譜には1922年1月15日の日付が記されている。初演は同年1月24日、コペンハーゲンでニールセン自身の指揮によりおこなわれ、好評をもって迎えられた。\nしかし1924年1月20日、ストックホルムでゲオルグ・シュネーヴォイクトの指揮によりおこなわれたデンマーク国外での初演では一転、その不協和な響きと奔放な小太鼓の扱いに反発した聴衆の一部が途中退席し、非難のざわめきが起きるという、実際のスキャンダルとなったと伝えられる。",
+      "en": "It was composed between 1920 and 1922, the full score dated 15 January 1922. It premiered on 24 January that year in Copenhagen, with Nielsen himself conducting, and was well received.\nIts reception outside Denmark was another matter: at its first performance abroad, in Stockholm on 20 January 1924 under Georg Schnéevoigt, some audience members are said to have walked out mid-performance and others hissed, unsettled by its dissonance and the unruly snare-drum writing — a genuine scandal at the time."
+    }
+  },
+  "13876": {
+    "structure": {
+      "ja": "全12曲、ソプラノとアルトの独唱と弦楽合奏のために書かれ、合唱を伴わない。第5曲「悲しみに沈んだ人」に代表される、ソプラノとアルトが対等に絡み合う二重唱の書法は、厳格な対位法を守りつつも、当時新しく生まれつつあったオペラ的な叙情性を強く感じさせるものとなっている。",
+      "en": "Twelve movements for soprano and alto soloists with string orchestra, and no chorus. The intertwining soprano-alto duets — the fifth movement, \"Quae moerebat,\" set over a throbbing repeated-note accompaniment, is the best example — combine strict contrapuntal discipline with the newly emerging, more operatic lyricism of the era."
+    },
+    "story": {
+      "ja": "1736年、結核により余命わずかとなっていたペルゴレージが、ナポリ近郊ポッツオーリのフランシスコ会修道院で療養しながら書き上げた作品で、彼はこの地で26歳の生涯を閉じた。委嘱元はナポリの信徒会「悲しみの聖母騎士団」で、それ以前は彼らのために書かれたアレッサンドロ・スカルラッティの同じ聖歌詞による作品(1720年代作曲、1735年まで使用)を用いていたが、これを時代遅れとみなし、新たにペルゴレージへ依頼したものだったとされる。\n彼の死後、この曲はまたたく間に広く知られるようになり、1749年にロンドンで出版されて以降、18世紀を通じてもっとも版を重ねた楽曲のひとつになったと伝えられる。",
+      "en": "Pergolesi wrote it in 1736, in his final weeks, dying of tuberculosis, while convalescing at a Franciscan friary in Pozzuoli near Naples, where he died at the age of twenty-six. It was commissioned by a Neapolitan confraternity, the Knights of the Virgin of Sorrows, who had previously used a setting of the same text by Alessandro Scarlatti, composed in the 1720s and performed through 1735, but had come to consider it old-fashioned and sought a new setting from Pergolesi instead.\nAfter his death the work spread rapidly; first published in London in 1749, it is said to have become one of the most frequently reprinted pieces of music of the entire eighteenth century."
+    }
+  },
+  "14813": {
+    "structure": {
+      "ja": "5声からなる8つの合唱、計40の独立した声部のために書かれたモテット。各合唱が次々に加わりながら音楽の波が受け渡されていき、要所要所で全40声部が一斉に鳴り響く壮麗な総奏を迎える。演奏に際して、聴衆を取り囲むように8つの合唱を配置する演出がしばしば取られ、音が空間を巡っていく効果そのものが最大の聴きどころとなる。",
+      "en": "A motet for 40 independent voices, divided into eight choirs of five parts each. The choirs enter one after another, passing waves of sound between them, and converge at key moments into a magnificent full 40-part tutti. Performances often place the eight choirs around the audience, making the sound's passage through space itself the piece's central listening experience."
+    },
+    "story": {
+      "ja": "1570年前後、エリザベス1世の治世に作曲されたとみられているが、この曲が書かれた具体的な機会については確証がなく、複数の仮説が並び立っている。かつてはメアリー1世(1556年)ないしエリザベス1世(1573年)の40歳の誕生日を祝うために書かれたとする説が広く語られていたが、これも裏づけとなる史料はなく、伝承の域を出ないとされる。ノーフォーク公の依頼により1570年から71年頃、ロンドンのアランデル・ハウスで初演されたとする説や、当時イングランドに伝わっていたイタリアの作曲家アレッサンドロ・ストリッジョによる同様の多声モテットに対抗する意図で書かれたとする説も唱えられているが、いずれも確定していない。\nこの曲の演奏として明確に記録が残る最初期の例は、タリスの死後にあたる1610年6月4日、ウェストミンスター寺院でおこなわれた皇太子ヘンリー・フレデリックの叙任式典であり、この際には同じ40声部の音楽に新たな英語の歌詞をつけた替え歌「天のいと高き主を讃え歌え」として演奏された。",
+      "en": "It is thought to have been composed around 1570, during the reign of Elizabeth I, but the specific occasion remains genuinely uncertain, with several competing theories and none conclusively proven. A once-popular tradition held that it was written to mark a monarch's fortieth birthday — either Mary I's, in 1556, or Elizabeth I's, in 1573 — though no documentary evidence supports this either, and it should be treated as legend. Other theories propose a first performance around 1570–71 at Arundel House in London, commissioned by the Duke of Norfolk, or that it was written to rival a similarly massive polychoral motet by the Italian composer Alessandro Striggio then circulating in England — neither is settled.\nThe earliest performance clearly documented took place after Tallis's death: on 4 June 1610, at Westminster Abbey, for the investiture of Henry Frederick, Prince of Wales, where the same 40-part music was sung with new English words, as the contrafactum \"Sing and glorify heaven's high majesty.\""
+    }
+  },
+  "28117": {
+    "structure": {
+      "ja": "全3楽章。第2楽章アダージョは、オーボエが情感豊かな旋律を歌う緩徐楽章として、単独でも広く知られるこの曲最大の聴きどころとなっている。ニ短調版のほか、ハ短調版も伝わっている。",
+      "en": "Three movements. The second, an Adagio, is the concerto's best-known and most frequently excerpted movement, an intensely lyrical oboe cantilena over a steady accompaniment. Both D minor and C minor versions of the concerto survive."
+    },
+    "story": {
+      "ja": "1717年、アムステルダムの出版者ロジェから、他の作曲家の協奏曲とあわせたアンソロジーの中で出版された。マルチェッロは通常、アルカディア学会の会員としての筆名「エテリオ・スティンファリコ」で作品を発表していたが、この出版譜には珍しく本名が記されていた。\nこの曲はのちに2度にわたり作曲者を取り違えられている。19世紀、J.S.バッハによる鍵盤用編曲(BWV974、ヴァイマル時代の1713〜14年頃の作とされる)が出版された際、原曲はアントニオ・ヴィヴァルディの作とされてしまい、さらに1923年には、ハ短調版の写本が出版された際、原典資料に「マルチェッロ」の姓のみが記されていたことから、弟アレッサンドロよりも名高い兄ベネデット・マルチェッロの作とされてしまった。今日では1717年の原典版どおり、アレッサンドロ・マルチェッロの作品であるという帰属が定着している。",
+      "en": "It was published in 1717 in Amsterdam by the publisher Roger, in an anthology alongside concertos by other composers. Marcello usually published under his Arcadian Academy pen name, \"Eterio Stinfalico,\" but this particular print unusually carried his real name.\nThe piece was twice misattributed afterward. In the nineteenth century, when J.S. Bach's keyboard arrangement of it (BWV 974, thought to date from his Weimar years around 1713–14) was published, the original was wrongly credited to Antonio Vivaldi. Then in 1923, when a C minor manuscript version was published, the source material listed only the surname \"Marcello,\" and the work was attributed instead to Alessandro's more famous brother, Benedetto Marcello. Today the attribution has been restored to Alessandro Marcello, in keeping with the original 1717 print."
+    }
   }
 }

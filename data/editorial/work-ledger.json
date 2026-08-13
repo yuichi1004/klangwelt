@@ -33,7 +33,7 @@
     "title": "Te Deum, for 8 voices, chorus, and orchestra, H.146",
     "composer": "Marc-Antoine Charpentier",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "1132": {
     "title": "Symphony in D minor, M.48",
@@ -75,7 +75,7 @@
     "title": "Bridge on the River Kwai",
     "composer": "Malcolm Arnold",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "2076": {
     "title": "Atmosphères",
@@ -237,7 +237,7 @@
     "title": "Symphony no. 5, FS97, op. 50",
     "composer": "Carl Nielsen",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "4612": {
     "title": "Requiem, op. 48",
@@ -597,7 +597,7 @@
     "title": "Stabat mater, for soprano, alto, and strings",
     "composer": "Giovanni Battista Pergolesi",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "14083": {
     "title": "Canon and Gigue in D major, for 3 violins and continuo, T.337, \"Pachelbel's Canon\"",
@@ -645,7 +645,7 @@
     "title": "Spem in alium",
     "composer": "Thomas Tallis",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "14989": {
     "title": "Symphony no. 1 in B flat major, op. 38, \"Spring\"",
@@ -1491,6 +1491,6 @@
     "title": "Oboe Concerto in D minor, op. 1, SF.935",
     "composer": "Alessandro Marcello",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   }
 }
