@@ -1824,5 +1824,125 @@
       "ja": "作曲は1887年ごろに始まったが、思うように進まず、たびたび中断された。ブルックナーは数字にまつわる迷信を強く信じており、なかでも「9」という数字には特別な畏れを抱いていたと伝えられる。\n総譜には「愛する神に」という献辞が記されている。終楽章はほぼ最後まで切れ目なく書き進められており、亡くなった時点でオーケストレーションが未完成だっただけの状態だったともいわれるが、彼の弟子レーヴェとシャルクが草稿の一部を売却・譲渡してしまったため、現存する終楽章の草稿は欠落を含む断片にとどまっている。1896年の彼の死後、初演は1903年、レーヴェの指揮によりウィーンでおこなわれた。",
       "en": "Composition began around 1887 but progressed haltingly, with frequent interruptions. Bruckner held strong superstitions about numbers, and is said to have felt a particular dread of the number nine.\nThe score carries the dedication \"to the beloved God.\" The finale was reportedly sketched through almost to the end without gaps, and some accounts suggest it lacked only full orchestration at the time of his death — but his students Löwe and Schalk sold or gave away parts of the manuscript, leaving what survives today only as a fragment with gaps. After his death in 1896, it premiered in 1903 in Vienna, conducted by Löwe."
     }
+  },
+  "3798": {
+    "structure": {
+      "ja": "単一楽章の交響詩。独奏ヴァイオリンの弦をわざと通常より半音低く調弦する「スコルダトゥーラ」という手法が用いられ、不気味な二重音(減5度、「悪魔の音程」)を響かせる。\nグレゴリオ聖歌「怒りの日」の旋律も引用されるが、原曲とは異なる長調・軽快なリズムに変えられ、骸骨たちが踊る場面にふさわしい戯画的な扱いを受けている。当時まだ管弦楽への導入が新しかった木琴が、骨のカタカタと鳴る音を模して用いられる。",
+      "en": "A single-movement tone poem in which the solo violin is deliberately mistuned a semitone low (\"scordatura\"), producing an eerie interval — the diminished fifth, the so-called \"devil's interval.\"\nIt also quotes the Gregorian \"Dies irae\" chant, but recast in a major key and a jaunty rhythm fit for dancing skeletons rather than its original solemnity. The xylophone, still a novelty in the orchestra at the time, imitates the rattle of bones."
+    },
+    "story": {
+      "ja": "もとは1872年、詩人アンリ・カザリスの詩に曲を付けた、独唱とピアノのための歌曲として作曲された。1874年、この歌曲を元に、歌唱パートを独奏ヴァイオリンに置き換え、管弦楽用の交響詩として書き直された。\n題材となったカザリスの詩は、ハロウィンの夜、真夜中に死神が現れて骸骨たちを踊らせるというフランスの古い言い伝えに基づいている。初演は1875年1月24日におこなわれたが、歪められた「怒りの日」の旋律、ヴァイオリンのきしむような響き、木琴の使用、催眠的な反復などが不評を招き、当初の評価は芳しくなかった。",
+      "en": "It began life in 1872 as a song for solo voice and piano, setting a poem by Henri Cazalis. In 1874 he reworked it, replacing the vocal line with solo violin, into an orchestral tone poem.\nCazalis's poem draws on an old French superstition about Death appearing at midnight on Halloween to make the skeletons dance. It premiered on 24 January 1875, and the distorted \"Dies irae,\" the screeching violin, the xylophone, and the hypnotic repetition all drew criticism — the initial reception was cool."
+    }
+  },
+  "7280": {
+    "structure": {
+      "ja": "テノールとアルトの独唱、大編成の管弦楽のための、6楽章からなる連作歌曲的な交響曲。作曲者自身は番号を付けず「交響曲」とも名乗らなかったが、実質的には彼の交響曲の系譜に連なる作品として扱われている。\n歌詞は唐代の漢詩をドイツ語に翻訳・翻案した詩集から取られており、そのうち4曲が李白の詩に基づく。終楽章「告別」は前の5曲を合わせたよりも長く、消え入るような静寂のうちに全曲を閉じる。",
+      "en": "A symphony in six movements, effectively a song cycle, for tenor and alto soloists and large orchestra. Mahler gave it no number and did not call it a symphony outright, but it is treated as belonging squarely within his symphonic output.\nThe texts are drawn from a collection of Tang-dynasty Chinese poetry translated and adapted into German, four of the six movements based on poems by Li Bai. The finale, \"Der Abschied\" (\"The Farewell\"), runs longer than the previous five movements combined and closes the work in fading, near-silent stillness."
+    },
+    "story": {
+      "ja": "1907年、彼はウィーン宮廷歌劇場の芸術監督の座を、政治的な駆け引きと反ユダヤ主義的な圧力のなかで追われ、同じ年に長女マリアを猩紅熱とジフテリアで、さらに自身も心臓に持病を抱えていることが判明するという、立て続けの不幸に見舞われた。友人ブルーノ・ワルターへの手紙で「一撃で、それまで築き上げてきたものをすべて失い、新生児のように最初の一歩からやり直さなければならない」と書き記している。\n翌1908年、以前読んで心に残っていた漢詩の翻訳詩集「中国の笛」を思い出し、そこから7編を選んで6楽章の作品として作曲した。マーラーは同年に世を去っており、初演は彼の死から半年後の1911年11月20日、ミュンヘンでブルーノ・ワルターの指揮によりおこなわれた。",
+      "en": "In 1907, Mahler was forced out of his position as director of the Vienna Court Opera amid political manoeuvring and antisemitic pressure, and in the same year his eldest daughter, Maria, died of scarlet fever and diphtheria, and he himself was diagnosed with a heart condition. He wrote to his friend Bruno Walter that, in one stroke, he had lost everything he thought he had built and had to learn his first steps again like a newborn.\nThe following year, 1908, a translated collection of Chinese poetry, The Chinese Flute, which had stayed with him since he first read it, came back to mind, and he selected seven poems from it for this six-movement work. Mahler died in 1911; the premiere followed six months after his death, on 20 November that year in Munich, conducted by Bruno Walter."
+    }
+  },
+  "15863": {
+    "structure": {
+      "ja": "合奏協奏曲、独奏群(2挺のヴァイオリンとチェロ)と合奏群からなる編成をとる。通常4楽章の教会ソナタ形式を拡張し、全6楽章で書かれている。\n終曲「パストラーレ」は、緩やかに揺れる8分の6拍子の旋律が、羊飼いの笛を思わせる牧歌的な情景を描く独立性の高い楽章で、単独でもしばしば演奏される。",
+      "en": "A concerto grosso, scored for a small solo group (two violins and cello) against the full string body. It expands the usual four-movement church-sonata layout to six movements.\nThe closing \"Pastorale\" is a gently rocking movement in 6/8, evoking a shepherd's pipe in a pastoral scene, distinctive enough to be frequently performed on its own."
+    },
+    "story": {
+      "ja": "楽譜の表紙には「クリスマスの夜のために作られた」という趣旨の言葉が記されている。庇護者だった枢機卿オットボーニのために、1690年ごろ、クリスマスの演奏会向けに書かれたとみられている。\n出版は彼の死後、1714年、全12曲からなる合奏協奏曲集「作品6」の一部としてのことだった。",
+      "en": "The score carries an inscription meaning \"made for the night of Christmas.\" It appears to have been written around 1690 for a Christmas concert for his patron, Cardinal Ottoboni.\nIt was published only after his death, in 1714, as part of a set of twelve concerti grossi, his Op. 6."
+    }
+  },
+  "1132": {
+    "structure": {
+      "ja": "全3楽章。複数の楽章にまたがって同じ主題が形を変えて現れる「循環形式」で書かれており、終楽章では前の楽章の主題が回想・統合される。\n第2楽章は緩徐楽章とスケルツォを一つにまとめた構成で、当時のオーケストラでは珍しかったイングリッシュホルンが重要な旋律を受け持つ。",
+      "en": "Three movements, built in cyclic form, with themes returning transformed across movements and recalled together in the finale.\nThe second movement combines a slow movement and a scherzo into one, and gives a prominent melodic role to the cor anglais — an unusual choice for an orchestral movement at the time."
+    },
+    "story": {
+      "ja": "65歳のフランクが2年をかけて取り組み、1888年8月22日に完成させた。彼の数少ない管弦楽曲のなかで唯一の本格的な交響曲にあたる。\n指揮者シャルル・ラムルーからは上演を断られ、初演は1889年2月17日、パリ音楽院でジュール・ガルサンの指揮によりおこなわれた。普仏戦争後のフランス楽壇では、ワーグナーやリストの影響を受けた作風が国家への裏切りのように受け止められる風潮があり、主題同士が似すぎている、オーケストレーションが重厚すぎるといった批判が相次いだ。作曲家グノーは「教条的なまでに徹底された無能」と評したと伝えられる。初演は不成功に終わったが、フランクの死後、この曲は国際的なレパートリーに定着していった。",
+      "en": "Franck, then sixty-five, worked on it for two years and completed it on 22 August 1888. It is his only mature symphony among a small orchestral output.\nThe conductor Charles Lamoureux turned down the premiere, which went instead to Jules Garcin at the Paris Conservatoire on 17 February 1889. In the French musical world after the Franco-Prussian War, a style shaped by Wagner and Liszt was liable to be read as a kind of national betrayal, and critics complained the themes were too alike and the orchestration too thick. The composer Gounod is said to have called it \"incompetence pushed to dogmatic lengths.\" The premiere was a failure, but after Franck's death the symphony found its place in the international repertoire."
+    }
+  },
+  "1552": {
+    "structure": {
+      "ja": "単一楽章の交響詩、演奏時間はおよそ20分。神智学や哲学思想への傾倒が色濃く反映された、当時の彼の作風の転換点にあたる作品である。\n金管楽器、とりわけトランペットが官能的で高揚感のある主題を繰り返し提示し、曲全体が絶頂に向けて次第に高まっていく構成をとる。",
+      "en": "A single-movement tone poem, around twenty minutes long, marking a turning point in his style, shaped heavily by his engagement with Theosophy and philosophical mysticism.\nThe brass, especially the trumpet, repeatedly states a sensuous, soaring theme, and the whole piece builds steadily toward a climactic peak."
+    },
+    "story": {
+      "ja": "神智学協会に傾倒していた時期にあたる1905年から1908年にかけて作曲された。彼は肉体的な世界を超越し、宇宙との一体感に到達することこそ人間の最高の使命だとするブラヴァツキーらの思想に強く影響を受けており、音楽そのものを、聴き手をそうした境地へ導く力を持つ手段だと考えていたとされる。\n初演は1908年12月、ニューヨークでモデスト・アルトシュラーの指揮によりおこなわれ、モスクワでの初演は1909年3月、作曲者自身の指揮によるものだった。",
+      "en": "It was composed between 1905 and 1908, while he was deeply engaged with the Theosophical Society. He was strongly influenced by Blavatsky's writing and the idea that humanity's highest calling was to transcend the physical world and merge into oneness with the cosmos, and is said to have thought of music itself as capable of guiding listeners toward that state.\nIt was first performed in December 1908 in New York, conducted by Modest Altschuler, with the Moscow premiere following in March 1909 under the composer himself."
+    }
+  },
+  "1633": {
+    "structure": {
+      "ja": "全3楽章。第1・2楽章は叙情的で歌謡的な性格を持つのに対し、終楽章は一転して独奏ヴァイオリンが休みなく細かい音型を弾き続ける技巧的なペルペトゥウム・モビレ(常動曲)で、性格の落差が際立つ構成になっている。\nこの落差ゆえに、終楽章はしばしば前の2楽章と「不釣り合い」だと評されてきた。",
+      "en": "Three movements. The first two are lyrical and songful, but the finale turns abruptly into a technically demanding perpetuum mobile, the solo violin running through continuous fast figuration without pause — a sharp contrast in character.\nThat contrast has often drawn comment that the finale sits oddly with the two movements before it."
+    },
+    "story": {
+      "ja": "1939年夏、戦雲が迫るスイスのシルス・マリアで作曲が始まり、パリでも作業が続けられたが、9月の開戦でヨーロッパに留まるのが危険になった。終楽章は1940年夏、ペンシルヴェニアのポコノ山地に場所を移して完成させている。\n実業家サミュエル・フェルスの依頼で、カーティス音楽院の卒業生イーゾ・ブリセッリのために書かれた。ブリセッリは第1・2楽章を高く評価したものの、終楽章を「軽すぎる」と感じて改訂を求め、他の仕事に追われていたバーバーがこれに応じなかったため、初演の権利を手放したと伝えられる。結局、公開初演は1941年2月7日、アルバート・スポルディングの独奏、ユージン・オーマンディ指揮フィラデルフィア管弦楽団によりおこなわれた。",
+      "en": "It was begun in the summer of 1939 in Sils Maria, Switzerland, with war looming, and continued in Paris, but the outbreak of fighting that September made staying in Europe unsafe. The finale was finished in the summer of 1940, the Swiss landscape swapped for another in Pennsylvania's Pocono Mountains.\nIt was commissioned by the businessman Samuel Fels for Iso Briselli, a graduate of the Curtis Institute. Briselli admired the first two movements but found the finale too lightweight and asked for changes; Barber, busy with other work, did not make them, and Briselli gave up his rights to the premiere. The public premiere finally went to Albert Spalding, with the Philadelphia Orchestra under Eugene Ormandy, on 7 February 1941."
+    }
+  },
+  "2076": {
+    "structure": {
+      "ja": "単一楽章の管弦楽曲。明確な旋律・リズム・拍節を排し、密集した音の層が絶えず移ろい続ける響きそのものを聴かせる書法をとる。\n「ミクロポリフォニー」と呼ばれる、多数の声部が極めて近い音程でわずかにずれながら同時に進行する技法が用いられ、個々の声部を聴き分けることが不可能な、渾然とした音の雲のような効果を生み出している。",
+      "en": "A single-movement orchestral piece that abandons conventional melody, rhythm and metre in favour of dense, constantly shifting layers of sound.\nIt is built on what Ligeti called \"micropolyphony\" — dozens of voices moving simultaneously at extremely close, slightly offset pitches, so densely interwoven that no individual line can be picked out, producing something closer to a cloud of sound than a texture of parts."
+    },
+    "story": {
+      "ja": "1961年に作曲され、西ドイツ放送の委嘱により、同年10月22日、ドナウエッシンゲン現代音楽祭で初演された。前作「アパリシオン」に続き、彼が「ミクロポリフォニー」と呼ぶ書法を本格的に展開した2作目にあたる。\n1968年、映画監督スタンリー・キューブリックが「2001年宇宙の旅」の音楽としてこの曲を無断で使用したことで、それまで現代音楽の専門家の間でしか知られていなかったこの曲は一躍広い聴衆の耳に届くことになった。",
+      "en": "It was composed in 1961, commissioned by Southwest German Radio and premiered on 22 October that year at the Donaueschingen Festival of contemporary music. Following on from Apparitions, it was the second piece in which he fully developed the technique he called \"micropolyphony.\"\nIn 1968, the film director Stanley Kubrick used it, without permission, in the soundtrack of 2001: A Space Odyssey, and the piece — until then known mainly to specialists in contemporary music — reached a far wider audience overnight."
+    }
+  },
+  "2748": {
+    "structure": {
+      "ja": "独奏ヴァイオリンと管弦楽のための「ロマンス」。ヒバリの飛翔と鳴き声を描写する独奏ヴァイオリンが、無伴奏に近い自由なリズムで即興的な旋律を奏でる場面に始まり、終わる。\nイギリス民謡を思わせる素朴な旋律を土台としながら、明確な拍節から解き放たれた独奏部分が、鳥の自由な飛翔感を音で表現している。",
+      "en": "A \"Romance\" for solo violin and orchestra. It opens and closes with the violin, almost unaccompanied, spinning out an improvisatory melody in free rhythm, evoking a lark's flight and song.\nBuilt on melodic material with the flavour of English folk song, the soloist's freedom from a fixed pulse conveys the bird's untethered flight."
+    },
+    "story": {
+      "ja": "原曲となるヴァイオリンとピアノのための版は1914年に完成したが、同年の第一次世界大戦開戦を受け、41歳だったヴォーン・ウィリアムズは軍に入隊し、この曲はしばらく手つかずのまま置かれた。\n楽譜の冒頭には、詩人ジョージ・メレディスの詩「舞い上がるヒバリ」全122行のうち12行が引用されている。ヴォーン・ウィリアムズは、メレディスが晩年を過ごしたボックス・ヒルの近くに住んでおり、この詩から着想を得たとされる。戦後、ヴァイオリンと管弦楽のための版に書き直され、この形での初演は1921年におこなわれた。",
+      "en": "The original version for violin and piano was finished in 1914, but with the outbreak of the First World War that same year, Vaughan Williams, then forty-one, enlisted, and the piece was set aside for some time.\nThe score's head carries twelve lines quoted from the poet George Meredith's 122-line poem \"The Lark Ascending.\" Vaughan Williams lived near Box Hill, where Meredith spent his last years, and drew on the poem for inspiration. After the war he reworked it for solo violin and orchestra, and it premiered in that form in 1921."
+    }
+  },
+  "3614": {
+    "structure": {
+      "ja": "単一楽章の交響詩。ロシア軍に護衛された隊商が中央アジアの草原を横切っていく情景を描く標題音楽で、ロシア風の旋律とアジア風の旋律という性格の異なる2つの主題が、遠くから近づき、重なり合い、再び遠ざかっていく構成をとる。\n2つの主題は最終的に対位法的に組み合わされて同時に鳴らされ、異なる文化が同じ場に共存する情景を音で表現している。",
+      "en": "A single-movement tone poem depicting a caravan crossing the Central Asian steppe under Russian military escort — programme music built around two contrasting themes, one Russian, one Asian in character, that approach from a distance, combine, and recede again.\nThe two themes are eventually combined contrapuntally and heard together, a musical image of two cultures sharing the same space."
+    },
+    "story": {
+      "ja": "1880年に作曲され、フランツ・リストに献呈されている。リストはボロディンの音楽を高く評価し、その普及に尽力した人物のひとりだった。\nもともとはアレクサンドル2世の治世25周年を祝う一連の活人画のひとつとして構想されたが、この上演企画自体は実現しなかった。しかし作品自体はリムスキー=コルサコフの指揮によりサンクトペテルブルクで初演されて以来、演奏会用の人気曲として定着していった。",
+      "en": "It was composed in 1880 and dedicated to Franz Liszt, who admired Borodin's music and did much to promote it.\nIt had originally been conceived as one of several tableaux vivants to mark the twenty-fifth anniversary of Alexander II's reign, though that production never took place. The piece itself, however, went on to become a concert favourite after its premiere in St Petersburg under Rimsky-Korsakov."
+    }
+  },
+  "10951": {
+    "structure": {
+      "ja": "金管楽器を中心とするファンファーレで始まり、全5楽章からなる。第1楽章は独立して着想され、当初はブラスバンドのための単独のファンファーレとして構想されていたが、やがて全曲の第1楽章および終楽章として拡張された。\n編成は通常の管弦楽に加え、追加の金管群を要する大規模なもので、祝祭的な色彩の強い作品となっている。",
+      "en": "Opens with a brass-and-percussion fanfare and runs to five movements in all. The first movement began as a standalone idea, originally conceived as a fanfare for brass band alone, which grew into both the opening and closing movements of the finished work.\nIt calls for an unusually large orchestra with extra brass beyond the standard ensemble, giving the whole piece a festive, ceremonial colour."
+    },
+    "story": {
+      "ja": "前年の夏、避暑地ピーセクの公園で、親しかったカミラ・ステスロヴァーとともに軍楽隊の演奏を耳にしたことがきっかけとなり、その響きが頭から離れなかったと伝えられる。ソコル体操祭の開会式向けのファンファーレの作曲を依頼されたヤナーチェクは、この記憶をもとに曲を書いた。\n1926年3月に着手し、71歳だった彼はわずか1か月ほどで「ファンファーレ付きの、なかなかいいシンフォニエッタ」を書き上げたと述べている。当初は金管と打楽器だけの単独のファンファーレとして構想されていたが、やがて全5楽章、フルオーケストラの作品へと発展した。ソコル運動は「健全な精神は健全な身体に宿る」を理念に掲げる体操組織で、この作品が書かれた1926年の体操祭は、汎スラヴ的な大規模な集会として開催された。",
+      "en": "The previous summer, sitting in a park in the spa town of Písek with Kamila Stösslová, to whom he was close, he had heard a military band play, and the sound stayed with him. Commissioned to write a fanfare for the opening of the Sokol Gymnastics Festival, he drew on that memory.\nHe began it in March 1926 and, at seventy-one, finished what he called a \"nice little sinfonietta with fanfares\" within about a month. What started as a stand-alone fanfare for brass and percussion alone grew into a five-movement work for full orchestra. The Sokol movement, built on the idea of \"a strong mind in a strong body,\" held its 1926 festival as a large pan-Slavic gathering."
+    }
+  },
+  "14258": {
+    "structure": {
+      "ja": "全4楽章の管弦楽組曲。「千夜一夜物語」から取られた個々の挿話を、明確な筋の連続としてではなく、断片的な情景の連なりとして描く。\n独奏ヴァイオリンが物語を紡ぐシェヘラザード自身を表す官能的な旋律を奏で、これと対照的な、金管が示す威圧的な主題が、彼女の命を握る暴君スルタンを表す。この2つの主題が全曲を通じて繰り返し現れる。",
+      "en": "An orchestral suite in four movements, treating episodes from The Arabian Nights not as a continuous plot but as a sequence of loosely connected scenes.\nA sinuous solo violin represents Scheherazade herself, spinning her tales, set against a stern brass theme for the sultan who holds her life in his hands — the two ideas recurring throughout."
+    },
+    "story": {
+      "ja": "1887年冬、ボロディンの未完のオペラ「イーゴリ公」の補筆完成作業と並行して、「千夜一夜物語」に取材した管弦楽曲を書く構想を温めていた。総譜には1888年6月4日から8月7日までの日付が記されている。\n初演は同年10月28日、サンクトペテルブルクで作曲者自身の指揮によりおこなわれた。当初は各楽章にそれぞれ「海とシンドバッドの船」「カランダール王子の物語」といった標題が付けられていたが、リムスキー=コルサコフはのちに、聴き手が特定の場面と旋律を過度に結びつけて聴くことを避けたいとして、これらの標題を削除している。",
+      "en": "In the winter of 1887, while finishing Borodin's unfinished opera Prince Igor, he was also mulling an orchestral piece drawing on The Arabian Nights. The autograph score is dated between 4 June and 7 August 1888.\nIt premiered on 28 October that year in St Petersburg, with the composer conducting. Each movement originally carried a title — \"The Sea and Sinbad's Ship,\" \"The Kalandar Prince's Tale,\" and so on — but Rimsky-Korsakov later removed them, not wanting listeners to tie specific scenes too literally to specific melodies."
+    }
+  },
+  "14629": {
+    "structure": {
+      "ja": "独奏ヴァイオリンと管弦楽のための、単独でも演奏される間奏曲。ハープの分散和音を伴奏に、独奏ヴァイオリンが瞑想的な旋律を歌う静謐な性格の曲である。\n歌劇「タイス」第2幕、娼婦タイスが放蕩な暮らしから信仰の道へと心を転じる場面の合間に置かれた管弦楽のみの間奏として書かれている。",
+      "en": "An interlude for solo violin and orchestra, often performed on its own. Against a harp arpeggio accompaniment, the solo violin sings a meditative, tranquil melody.\nIt is written as a purely orchestral interlude in Act 2 of the opera Thaïs, marking the moment the courtesan Thaïs turns from her dissolute life toward religious devotion."
+    },
+    "story": {
+      "ja": "歌劇「タイス」の一部として1894年に作曲された。原作はアナトール・フランスの小説で、さらにその題材は7世紀の写本にまで遡る、エジプトの高級娼婦タイスがキリスト教に改宗し、隠遁生活を送ったという伝承に基づいている。\n初演は同年3月16日、パリのオペラ座でおこなわれた。マスネ自身の手で歌曲版にも編曲されており、その版は「アヴェ・マリア」の題名で、当時から結婚式でも歌われるようになっている。",
+      "en": "It was composed as part of the opera Thaïs in 1894. The opera is based on a novel by Anatole France, itself drawing on a seventh-century manuscript telling of an Egyptian courtesan, Thaïs, who converted to Christianity and withdrew into seclusion.\nIt premiered on 16 March that year at the Opéra in Paris. Massenet himself arranged it as a song under the title \"Ave Maria,\" and that version was already being sung at weddings in his own lifetime."
+    }
   }
 }
