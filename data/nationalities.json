@@ -53,5 +53,93 @@
   "171": { "name": "Strauss", "country": "DE" },
   "129": { "name": "Schumann", "country": "DE" },
   "185": { "name": "Prokofiev", "country": "RU" },
-  "188": { "name": "Rachmaninoff", "country": "RU" }
+  "188": { "name": "Rachmaninoff", "country": "RU" },
+  "170": { "name": "Copland", "country": "US" },
+  "43": { "name": "Borodin", "country": "RU" },
+  "179": { "name": "Glazunov", "country": "RU" },
+  "18": { "name": "Scriabin", "country": "RU" },
+  "218": { "name": "Khachaturian", "country": "AM" },
+  "139": { "name": "Corelli", "country": "IT" },
+  "62": {
+    "name": "Schoenberg",
+    "country": "AT",
+    "note": {
+      "ja": "ウィーン生まれ。1933年にナチスの迫害を逃れて渡米し、1941年にアメリカ国籍を取得した。",
+      "en": "Born in Vienna; emigrated to the United States in 1933 to escape Nazi persecution and became a naturalised American citizen in 1941."
+    }
+  },
+  "5": {
+    "name": "Pärt",
+    "country": "EE",
+    "note": {
+      "ja": "エストニア生まれ。1980年に西側へ亡命してウィーンでオーストリア国籍を取得し、後にベルリンへ移った後、独立回復後のエストニアへ帰国した。",
+      "en": "Born in Estonia; emigrated to the West in 1980 and received Austrian citizenship in Vienna, later lived in Berlin, and eventually returned to an independent Estonia."
+    }
+  },
+  "40": { "name": "Piazzolla", "country": "AR" },
+  "211": { "name": "Smetana", "country": "CZ" },
+  "169": { "name": "Britten", "country": "GB" },
+  "168": { "name": "Weber", "country": "DE" },
+  "93": { "name": "Orff", "country": "DE" },
+  "192": { "name": "Bach, C.P.E.", "country": "DE" },
+  "12": {
+    "name": "Franck",
+    "country": "BE",
+    "note": {
+      "ja": "現在のベルギー・リエージュに生まれ、パリに移って以降フランスで活動し、1873年にフランス国籍を取得した。",
+      "en": "Born in Liège, in present-day Belgium; worked in France for the rest of his career and became a naturalised French citizen in 1873."
+    }
+  },
+  "29": { "name": "Gounod", "country": "FR" },
+  "92": { "name": "Gluck", "country": "DE" },
+  "39": { "name": "Monteverdi", "country": "IT" },
+  "97": { "name": "Scarlatti", "country": "IT" },
+  "128": { "name": "Couperin", "country": "FR" },
+  "53": { "name": "Fauré", "country": "FR" },
+  "89": { "name": "Donizetti", "country": "IT" },
+  "83": { "name": "Telemann", "country": "DE" },
+  "214": { "name": "Palestrina", "country": "IT" },
+  "26": {
+    "name": "Ligeti",
+    "country": "HU",
+    "note": {
+      "ja": "ハンガリー生まれ。1956年にオーストリアへ亡命し、1967年にオーストリア国籍を取得した。",
+      "en": "Born in Hungary; fled to Austria in 1956 and became a naturalised Austrian citizen in 1967."
+    }
+  },
+  "55": { "name": "Villa-Lobos", "country": "BR" },
+  "199": { "name": "Purcell", "country": "GB" },
+  "216": { "name": "Albéniz", "country": "ES" },
+  "134": {
+    "name": "Offenbach",
+    "country": "DE",
+    "note": {
+      "ja": "ドイツ・ケルンに生まれ、パリに渡って以降フランスで活動し、1860年にフランス国籍を取得した。",
+      "en": "Born in Cologne, Germany; worked in France for the rest of his career and became a naturalised French citizen in 1860."
+    }
+  },
+  "178": { "name": "Rameau", "country": "FR" },
+  "215": { "name": "Rodrigo", "country": "ES" },
+  "115": { "name": "Pachelbel", "country": "DE" },
+  "56": { "name": "Cage", "country": "US" },
+  "124": { "name": "Massenet", "country": "FR" },
+  "193": { "name": "Delibes", "country": "FR" },
+  "135": { "name": "Bernstein", "country": "US" },
+  "96": { "name": "Janacek", "country": "CZ" },
+  "66": { "name": "Boccherini", "country": "IT" },
+  "37": { "name": "Falla", "country": "ES" },
+  "184": { "name": "Bruch", "country": "DE" },
+  "118": { "name": "Rimsky-Korsakov", "country": "RU" },
+  "150": { "name": "Messiaen", "country": "FR" },
+  "173": { "name": "Respighi", "country": "IT" },
+  "116": { "name": "Dukas", "country": "FR" },
+  "95": { "name": "Glass", "country": "US" },
+  "69": { "name": "Mascagni", "country": "IT" },
+  "36": { "name": "Vaughan Williams", "country": "GB" },
+  "194": { "name": "Leoncavallo", "country": "IT" },
+  "19": { "name": "Barber", "country": "US" },
+  "148": { "name": "Joplin", "country": "US" },
+  "27": { "name": "Albinoni", "country": "IT" },
+  "213": { "name": "Takemitsu", "country": "JP" },
+  "51": { "name": "Bellini", "country": "IT" }
 }
