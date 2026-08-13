@@ -25,5 +25,33 @@
   "186": { "name": "Sibelius", "country": "FI" },
   "162": { "name": "Grieg", "country": "NO" },
   "125": { "name": "Bartók", "country": "HU" },
-  "136": { "name": "Gershwin", "country": "US" }
+  "136": { "name": "Gershwin", "country": "US" },
+  "98": { "name": "Vivaldi", "country": "IT" },
+  "208": { "name": "Haydn", "country": "AT" },
+  "138": { "name": "Wagner", "country": "DE" },
+  "2": { "name": "Bruckner", "country": "AT" },
+  "46": { "name": "Shostakovich", "country": "RU" },
+  "104": { "name": "Satie", "country": "FR" },
+  "147": { "name": "Mendelssohn", "country": "DE" },
+  "197": { "name": "Liszt", "country": "HU" },
+  "68": { "name": "Bizet", "country": "FR" },
+  "60": { "name": "Rossini", "country": "IT" },
+  "75": { "name": "Holst", "country": "GB" },
+  "77": { "name": "Mahler", "country": "AT" },
+  "175": { "name": "Berlioz", "country": "FR" },
+  "190": {
+    "name": "Stravinsky",
+    "country": "RU",
+    "note": {
+      "ja": "ロシア生まれ。1934年にフランス国籍を取得し、1939年に渡米、1945年にアメリカ国籍を取得した。",
+      "en": "Born in Russia; became a naturalised French citizen in 1934, emigrated to the United States in 1939, and became a naturalised American citizen in 1945."
+    }
+  },
+  "165": { "name": "Strauss Jr", "country": "AT" },
+  "181": { "name": "Mussorgsky", "country": "RU" },
+  "3": { "name": "Paganini", "country": "IT" },
+  "171": { "name": "Strauss", "country": "DE" },
+  "129": { "name": "Schumann", "country": "DE" },
+  "185": { "name": "Prokofiev", "country": "RU" },
+  "188": { "name": "Rachmaninoff", "country": "RU" }
 }
