@@ -141,5 +141,171 @@
   "148": { "name": "Joplin", "country": "US" },
   "27": { "name": "Albinoni", "country": "IT" },
   "213": { "name": "Takemitsu", "country": "JP" },
-  "51": { "name": "Bellini", "country": "IT" }
+  "51": { "name": "Bellini", "country": "IT" },
+  "210": { "name": "Berg", "country": "AT" },
+  "32": { "name": "Ginastera", "country": "AR" },
+  "65": { "name": "Scarlatti, A.", "country": "IT" },
+  "25": { "name": "Zemlinsky", "country": "AT" },
+  "137": { "name": "Schnittke", "country": "RU" },
+  "6": { "name": "Webern", "country": "AT" },
+  "143": { "name": "Salieri", "country": "IT" },
+  "103": { "name": "Bax", "country": "GB" },
+  "200": {
+    "name": "Honegger",
+    "country": "CH",
+    "note": {
+      "ja": "スイス人の家庭に生まれ、生涯スイス国籍を保持したが、活動の大半はフランス・パリで行った。",
+      "en": "Born to Swiss parents and remained a Swiss citizen throughout his life, though he was based mainly in Paris, France."
+    }
+  },
+  "11": { "name": "Martinů", "country": "CZ" },
+  "52": { "name": "Nielsen", "country": "DK" },
+  "209": {
+    "name": "Stamitz",
+    "country": "CZ",
+    "note": {
+      "ja": "ボヘミア生まれ。ドイツ・マンハイムの宮廷楽団を率い、マンハイム楽派の創始者となった。",
+      "en": "Born in Bohemia; led the court orchestra in Mannheim, Germany, and founded the Mannheim school."
+    }
+  },
+  "14": { "name": "Gesualdo", "country": "IT" },
+  "217": { "name": "Ives", "country": "US" },
+  "41": { "name": "Widor", "country": "FR" },
+  "121": { "name": "Milhaud", "country": "FR" },
+  "73": { "name": "Buxtehude", "country": "DK" },
+  "22": {
+    "name": "Varèse",
+    "country": "FR",
+    "note": {
+      "ja": "パリ生まれ。1915年に渡米し、後にアメリカ国籍を取得した。",
+      "en": "Born in Paris; emigrated to the United States in 1915 and later became a naturalised American citizen."
+    }
+  },
+  "59": { "name": "Lalo", "country": "FR" },
+  "100": { "name": "Rautavaara", "country": "FI" },
+  "163": { "name": "Carter", "country": "US" },
+  "123": { "name": "Chabrier", "country": "FR" },
+  "15": { "name": "Humperdinck", "country": "DE" },
+  "76": { "name": "Granados", "country": "ES" },
+  "7": {
+    "name": "Korngold",
+    "country": "AT",
+    "note": {
+      "ja": "ウィーンで活躍したが、1934年に渡米してハリウッドで映画音楽を手がけ、1943年にアメリカ国籍を取得した。",
+      "en": "Active in Vienna before emigrating to the United States in 1934, where he wrote film scores in Hollywood; became a naturalised American citizen in 1943."
+    }
+  },
+  "61": { "name": "Chausson", "country": "FR" },
+  "112": { "name": "Dohnányi", "country": "HU" },
+  "141": { "name": "Ysaÿe", "country": "BE" },
+  "212": { "name": "Sor", "country": "ES" },
+  "84": { "name": "Busoni", "country": "IT" },
+  "202": { "name": "Poulenc", "country": "FR" },
+  "8": { "name": "Delius", "country": "GB" },
+  "31": { "name": "Crumb", "country": "US" },
+  "38": { "name": "Enescu", "country": "RO" },
+  "113": { "name": "Pergolesi", "country": "IT" },
+  "58": { "name": "Frescobaldi", "country": "IT" },
+  "167": { "name": "Tartini", "country": "IT" },
+  "157": { "name": "Machaut", "country": "FR" },
+  "82": { "name": "Dufay", "country": "BE" },
+  "155": { "name": "Henze", "country": "DE" },
+  "48": { "name": "Birtwistle", "country": "GB" },
+  "47": {
+    "name": "Biber",
+    "country": "CZ",
+    "note": {
+      "ja": "ボヘミア生まれ。オーストリア・ザルツブルクの宮廷楽長として活躍した。",
+      "en": "Born in Bohemia; served as court Kapellmeister in Salzburg, Austria."
+    }
+  },
+  "191": { "name": "Schütz", "country": "DE" },
+  "110": { "name": "Dutilleux", "country": "FR" },
+  "16": { "name": "Górecki", "country": "PL" },
+  "161": { "name": "Wolf", "country": "AT" },
+  "17": {
+    "name": "Xenakis",
+    "country": "GR",
+    "note": {
+      "ja": "ルーマニア生まれのギリシャ人。ギリシャでの抵抗運動により国外追放され、1965年にフランス国籍を取得した。",
+      "en": "Born in Romania to Greek parents; exiled after resistance activities in Greece, and became a naturalised French citizen in 1965."
+    }
+  },
+  "122": { "name": "Ibert", "country": "FR" },
+  "182": { "name": "Sweelinck", "country": "NL" },
+  "10": {
+    "name": "Lully",
+    "country": "IT",
+    "note": {
+      "ja": "イタリア・フィレンツェに生まれ、少年期にフランスへ渡って以降フランスで活動し、後にフランス国籍を取得した。",
+      "en": "Born in Florence, Italy; moved to France as a boy, worked there for the rest of his career, and later became a naturalised French citizen."
+    }
+  },
+  "109": { "name": "Bach, J.C.", "country": "DE" },
+  "30": { "name": "Hummel", "country": "AT" },
+  "117": { "name": "Ockeghem", "country": "BE" },
+  "149": { "name": "Adams", "country": "US" },
+  "102": { "name": "Dowland", "country": "GB" },
+  "74": { "name": "Field", "country": "IE" },
+  "50": { "name": "Des Prez", "country": "FR" },
+  "101": { "name": "Stockhausen", "country": "DE" },
+  "49": { "name": "Szymanowski", "country": "PL" },
+  "203": { "name": "Penderecki", "country": "PL" },
+  "131": {
+    "name": "Weill",
+    "country": "DE",
+    "note": {
+      "ja": "1935年に渡米し、後にアメリカ国籍を取得した。",
+      "en": "Emigrated to the United States in 1935 and later became a naturalised American citizen."
+    }
+  },
+  "220": { "name": "Léonin", "country": "FR" },
+  "133": { "name": "Berio", "country": "IT" },
+  "120": {
+    "name": "Cherubini",
+    "country": "IT",
+    "note": {
+      "ja": "フィレンツェ生まれ。1788年にパリへ移り、後にフランス国籍を取得した。",
+      "en": "Born in Florence; moved to Paris in 1788 and later became a naturalised French citizen."
+    }
+  },
+  "9": { "name": "Charpentier", "country": "FR" },
+  "204": { "name": "Marais", "country": "FR" },
+  "72": { "name": "Reger", "country": "DE" },
+  "78": { "name": "Praetorius", "country": "DE" },
+  "13": { "name": "Tippett", "country": "GB" },
+  "156": { "name": "Glinka", "country": "RU" },
+  "180": { "name": "Babbitt", "country": "US" },
+  "21": { "name": "Balakirev", "country": "RU" },
+  "88": { "name": "Lassus", "country": "BE" },
+  "151": { "name": "Gibbons", "country": "GB" },
+  "154": {
+    "name": "Hindemith",
+    "country": "DE",
+    "note": {
+      "ja": "1940年に渡米し、1946年にアメリカ国籍を取得した(後にスイスへ移り晩年を過ごした)。",
+      "en": "Emigrated to the United States in 1940 and became a naturalised American citizen in 1946 (later settling in Switzerland for his final years)."
+    }
+  },
+  "99": {
+    "name": "Grainger",
+    "country": "AU",
+    "note": {
+      "ja": "1914年に渡米し、1918年にアメリカ国籍を取得した。",
+      "en": "Emigrated to the United States in 1914 and became a naturalised American citizen in 1918."
+    }
+  },
+  "219": { "name": "Pérotin", "country": "FR" },
+  "132": { "name": "Boulez", "country": "FR" },
+  "85": { "name": "Glière", "country": "RU" },
+  "172": { "name": "Gubaidulina", "country": "RU" },
+  "176": { "name": "Reich", "country": "US" },
+  "130": { "name": "Adès", "country": "GB" },
+  "126": { "name": "Tallis", "country": "GB" },
+  "205": { "name": "Victoria", "country": "ES" },
+  "86": { "name": "Byrd", "country": "GB" },
+  "44": { "name": "Walton", "country": "GB" },
+  "142": { "name": "Lutoslawski", "country": "PL" },
+  "90": { "name": "Rihm", "country": "DE" },
+  "34": { "name": "Kodály", "country": "HU" }
 }
