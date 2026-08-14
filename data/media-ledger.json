@@ -854,19 +854,19 @@
     "title": "Kaiser-Walzer, op. 437",
     "composer": "Strauss Jr",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "6544": {
     "title": "L' Arlésienne Suite no. 1",
     "composer": "Bizet",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "18148": {
     "title": "Piano Concerto in A minor, op. 16",
     "composer": "Grieg",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "22103": {
     "title": "Piano Concerto no. 2 in C minor, op. 18",
@@ -878,7 +878,7 @@
     "title": "Symphonie fantastique: Épisode de la vie d'une artiste, op. 14",
     "composer": "Berlioz",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7277": {
     "title": "Symphony no. 5 in C sharp minor",
@@ -890,19 +890,21 @@
     "title": "Symphony no. 5 in D minor, op. 47",
     "composer": "Shostakovich",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "19604": {
     "title": "Till Eulenspiegels lustige Streiche, op. 28, Trv171",
     "composer": "Strauss",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified film/anime/TV usage found for this specific tone poem"
   },
   "16609": {
     "title": "Violin Concerto in E minor, op. 64",
     "composer": "Mendelssohn",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no confidently verified, scene-level usage found; a Nodame Cantabile TV drama episode listing exists but scene context is unconfirmed"
   },
   "5371": {
     "title": "Il barbiere di Siviglia",
@@ -914,13 +916,13 @@
     "title": "Liebesträume",
     "composer": "Liszt",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "20403": {
     "title": "Pictures at an Exhibition",
     "composer": "Mussorgsky",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "22427": {
     "title": "The Firebird",
@@ -932,19 +934,20 @@
     "title": "24 Caprices for Solo Violin, op. 1, MS25",
     "composer": "Paganini",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed usage (The Devil's Violinist, 2013) but no confirmable Japanese release title could be found"
   },
   "23201": {
     "title": "Variations on Ah vous dirais-je, Maman, K.265",
     "composer": "Mozart",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "18093": {
     "title": "From Holberg’s Time, for string orchestra, \"Holberg Suite\"",
     "composer": "Grieg",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7278": {
     "title": "Symphony no. 2 in C minor, \"Resurrection\"",
