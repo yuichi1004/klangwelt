@@ -1596,5 +1596,126 @@
         }
       }
     ]
+  },
+  "9848": {
+    "work": "Passion According to St. Matthew, BWV.244",
+    "media": [
+      {
+        "title": { "ja": "サクリファイス", "en": "The Sacrifice" },
+        "year": 1986,
+        "kind": "film",
+        "note": {
+          "ja": "アルト・アリア「われを憐れみたまえ」が、冒頭のクレジット直後、主人公が息子と裸木を植える場面に流れ、終盤にも回帰する。",
+          "en": "The alto aria \"Erbarme dich\" plays right after the opening credits, as the protagonist plants a bare tree with his son, and recurs at the film's close."
+        }
+      }
+    ]
+  },
+  "21429": {
+    "work": "String Quintet in C major, D.956, op. posth.163",
+    "media": [
+      {
+        "title": { "ja": "謀議", "en": "Conspiracy" },
+        "year": 2001,
+        "kind": "tv",
+        "note": {
+          "ja": "第2楽章アダージョをハイドリヒがレコードで聴きながら「このアダージョは胸を引き裂く」と語る場面に流れる。",
+          "en": "Heydrich plays a recording of the second movement Adagio and remarks that \"the adagio will tear your heart out.\""
+        }
+      }
+    ]
+  },
+  "20959": {
+    "work": "String Quartet no. 14 in D minor, D.810, \"Death and the Maiden\"",
+    "media": [
+      {
+        "title": { "ja": "死と処女", "en": "Death and the Maiden" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "この曲名を映画のタイトルに冠し、演奏会形式のシーンで冒頭と終盤の枠組みとして使われるほか、主人公が拷問を受けた際に流れていた曲としても描かれる。",
+          "en": "The film takes its title from this quartet, frames the story with a staged performance of it at start and end, and depicts it as the piece that played during the protagonist's torture."
+        }
+      }
+    ]
+  },
+  "7651": {
+    "work": "Academic Festival Overture, op. 80",
+    "media": [
+      {
+        "title": { "ja": "うわさの名医", "en": "People Will Talk" },
+        "year": 1951,
+        "kind": "film",
+        "note": {
+          "ja": "「ガウデアムス・イギトゥル」を引用する終結部を、主人公の医師が演奏会の場面で指揮する。",
+          "en": "The protagonist doctor conducts the overture's finale, which quotes \"Gaudeamus igitur,\" in a concluding concert scene."
+        }
+      }
+    ]
+  },
+  "7600": {
+    "work": "The Swan Lake, op. 20",
+    "media": [
+      {
+        "title": { "ja": "リトル・ダンサー", "en": "Billy Elliot" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "成長した主人公が、モダンバレエ版「白鳥の湖」の主演として舞台袖で出番を待つラストシーンに使われる。",
+          "en": "In the final scene, the grown-up protagonist waits in the wings to take the stage as the lead swan in a modern staging of the ballet."
+        }
+      }
+    ]
+  },
+  "9781": {
+    "work": "Well-tempered Clavier, Book 1, BWV.846-869",
+    "media": [
+      {
+        "title": { "ja": "アウェイ・フロム・ハー 君を想う", "en": "Away from Her" },
+        "year": 2006,
+        "kind": "film",
+        "note": {
+          "ja": "第1番 ハ長調の前奏曲が映画冒頭に流れ、後半でアルツハイマー病のヒロインがクロスカントリースキーで迷子になる場面にも変奏を伴って再登場する。",
+          "en": "Prelude No. 1 in C major opens the film and later returns, with a variation layered over it, as the Alzheimer's-afflicted heroine gets lost while cross-country skiing."
+        }
+      }
+    ]
+  },
+  "16222": {
+    "work": "Piano Sonata no. 8 in C minor, op. 13, \"Pathétique\"",
+    "media": [
+      {
+        "title": { "ja": "バーバー", "en": "The Man Who Wasn't There" },
+        "year": 2001,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章を、少女が百貨店の店頭ピアノで弾く場面があり、主人公はその演奏に心を動かされる。",
+          "en": "A young girl plays the second movement on a department-store piano, and the protagonist is moved by her performance."
+        }
+      }
+    ]
+  },
+  "17236": {
+    "work": "Piano Concerto no. 1 in E minor, op. 11",
+    "media": [
+      {
+        "title": { "ja": "トゥルーマン・ショー", "en": "The Truman Show" },
+        "year": 1998,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章が、主人公が人工の嵐の中を船で脱出するクライマックスの場面に流れる。",
+          "en": "The second movement plays during the climactic sequence where Truman sails through an artificial storm to escape."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ 最終楽章", "en": "Nodame Cantabile: The Final Score" },
+        "year": 2009,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章が、ヒロインの指揮者ストレーゼマンとのプロデビュー公演の演目として使われる。",
+          "en": "The first movement is performed at the heroine's professional debut concert with conductor Stresemann."
+        }
+      }
+    ]
   }
 }

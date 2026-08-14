@@ -684,31 +684,32 @@
     "title": "Ein deutsches Requiem, op. 45",
     "composer": "Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified popular usage; the only real usage found (a BBC documentary series opening/closing) is not a well-known film/anime/TV drama"
   },
   "9848": {
     "title": "Passion According to St. Matthew, BWV.244",
     "composer": "Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21429": {
     "title": "String Quintet in C major, D.956, op. posth.163",
     "composer": "Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "20959": {
     "title": "String Quartet no. 14 in D minor, D.810, \"Death and the Maiden\"",
     "composer": "Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7651": {
     "title": "Academic Festival Overture, op. 80",
     "composer": "Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23629": {
     "title": "Clarinet Concerto in A major, K.622",
@@ -732,43 +733,46 @@
     "title": "The Swan Lake, op. 20",
     "composer": "Tchaikovsky",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "9781": {
     "title": "Well-tempered Clavier, Book 1, BWV.846-869",
     "composer": "Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23559": {
     "title": "Piano Sonata no. 16 in C major, K.545, \"Facile\"",
     "composer": "Mozart",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed on The Tree of Life soundtrack but the movement/scene context could not be confirmed"
   },
   "16222": {
     "title": "Piano Sonata no. 8 in C minor, op. 13, \"Pathétique\"",
     "composer": "Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "9334": {
     "title": "Cantata no. 140, \"Wachet auf, ruft uns die Stimme\", BWV.140",
     "composer": "Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; commonly confused with Bach's BWV 639 (used in Solaris), which is a different piece"
   },
   "17236": {
     "title": "Piano Concerto no. 1 in E minor, op. 11",
     "composer": "Chopin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21023": {
     "title": "4 Impromptus, D.899, op. 90",
     "composer": "Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "both candidates (The Lady in the Van, Wakefield) have only general/soundtrack-level confirmation with no pinpointed scene, and no confirmable Japanese release title for either"
   },
   "7553": {
     "title": "Nutcracker, op. 71",
