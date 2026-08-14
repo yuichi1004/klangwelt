@@ -15,7 +15,8 @@
       ],
       "en": [
         "counterpoint",
-        "contrapuntal"
+        "contrapuntal",
+        "contrapuntally"
       ]
     }
   },
@@ -53,7 +54,11 @@
         "管弦楽法"
       ],
       "en": [
-        "orchestration"
+        "orchestration",
+        "orchestrated",
+        "orchestrating",
+        "orchestrator",
+        "orchestrally"
       ]
     }
   },
@@ -90,7 +95,9 @@
         "半音階"
       ],
       "en": [
-        "chromatic"
+        "chromatic",
+        "chromaticism",
+        "chromatically"
       ]
     }
   },
@@ -324,7 +331,10 @@
       "en": [
         "harmony",
         "harmonies",
-        "harmonic"
+        "harmonic",
+        "harmonically",
+        "harmonised",
+        "harmonized"
       ]
     }
   },
@@ -380,7 +390,10 @@
       ],
       "en": [
         "imitation",
-        "imitative"
+        "imitative",
+        "imitated",
+        "imitating",
+        "imitates"
       ]
     }
   },
@@ -476,7 +489,8 @@
         "improvisation",
         "improvise",
         "improvised",
-        "improvising"
+        "improvising",
+        "improvisatory"
       ]
     }
   },
@@ -916,7 +930,8 @@
       ],
       "en": [
         "rhapsody",
-        "rhapsodies"
+        "rhapsodies",
+        "rhapsodic"
       ]
     }
   },
@@ -936,7 +951,9 @@
       "en": [
         "ornament",
         "ornaments",
-        "ornamentation"
+        "ornamentation",
+        "ornamented",
+        "ornamental"
       ]
     }
   },
@@ -970,6 +987,7 @@
     },
     "match": {
       "ja": [
+        "連作歌曲",
         "歌曲集"
       ],
       "en": [
@@ -1146,7 +1164,8 @@
         "転調"
       ],
       "en": [
-        "modulation"
+        "modulation",
+        "modulations"
       ]
     }
   },
@@ -2089,6 +2108,702 @@
       ],
       "en": [
         "cantabile"
+      ]
+    }
+  },
+  "cantus-firmus": {
+    "term": {
+      "ja": "定旋律",
+      "en": "Cantus firmus"
+    },
+    "short": {
+      "ja": "曲の土台として借りてきた既存の旋律。他の声部はこれに合わせて組み立てる。",
+      "en": "A pre-existing melody borrowed as the backbone of a piece, with the other voices built around it."
+    },
+    "match": {
+      "ja": [
+        "定旋律"
+      ],
+      "en": [
+        "cantus firmus"
+      ]
+    }
+  },
+  "motet": {
+    "term": {
+      "ja": "モテット",
+      "en": "Motet"
+    },
+    "short": {
+      "ja": "ルネサンス期に栄えた、ラテン語の宗教的な歌詞による多声の合唱曲。",
+      "en": "A polyphonic choral setting of a sacred Latin text, the central sacred form of Renaissance polyphony."
+    },
+    "match": {
+      "ja": [
+        "モテット"
+      ],
+      "en": [
+        "motet",
+        "motets"
+      ]
+    }
+  },
+  "madrigal": {
+    "term": {
+      "ja": "マドリガーレ",
+      "en": "Madrigal"
+    },
+    "short": {
+      "ja": "ルネサンス期のイタリアで栄えた、母国語の詩による世俗の多声歌曲。",
+      "en": "A secular vocal piece for several voices setting poetry in the vernacular, at its height in Renaissance Italy."
+    },
+    "match": {
+      "ja": [
+        "マドリガーレ"
+      ],
+      "en": [
+        "madrigal",
+        "madrigals"
+      ]
+    }
+  },
+  "passion": {
+    "term": {
+      "ja": "受難曲",
+      "en": "Passion"
+    },
+    "short": {
+      "ja": "福音書が伝えるキリスト受難の物語を音楽で描く宗教曲。受難週の礼拝で歌われた。",
+      "en": "A sacred work setting the Gospel account of Christ's suffering and death, sung in Holy Week services."
+    },
+    "match": {
+      "ja": [
+        "受難曲"
+      ],
+      "en": [
+        "Christ's Passion"
+      ]
+    }
+  },
+  "plainchant": {
+    "term": {
+      "ja": "グレゴリオ聖歌",
+      "en": "Gregorian chant"
+    },
+    "short": {
+      "ja": "中世の教会で歌われた、伴奏のない単旋律のラテン語聖歌。西洋音楽の最も古い層。",
+      "en": "The unaccompanied single-line Latin chant of the medieval church, the oldest surviving layer of Western music."
+    },
+    "match": {
+      "ja": [
+        "グレゴリオ聖歌"
+      ],
+      "en": [
+        "Gregorian chant",
+        "plainchant"
+      ]
+    }
+  },
+  "sacred-music": {
+    "term": {
+      "ja": "教会音楽",
+      "en": "Sacred music"
+    },
+    "short": {
+      "ja": "礼拝で用いるために書かれた音楽の総称。ミサ曲やモテットなどが含まれる。",
+      "en": "Music written for use in worship — a category covering masses, motets, cantatas and the like."
+    },
+    "match": {
+      "ja": [
+        "教会音楽"
+      ],
+      "en": [
+        "sacred music",
+        "church music"
+      ]
+    }
+  },
+  "ritornello": {
+    "term": {
+      "ja": "リトルネッロ",
+      "en": "Ritornello"
+    },
+    "short": {
+      "ja": "バロックの協奏曲で、独奏の合間に合奏が立ち返る主題。戻るたび調を変え短くなる。",
+      "en": "In a Baroque concerto, the theme the full ensemble returns to between the solo episodes — usually shortened, and in a new key each time."
+    },
+    "match": {
+      "ja": [
+        "リトルネッロ"
+      ],
+      "en": [
+        "ritornello"
+      ]
+    }
+  },
+  "concerto-grosso": {
+    "term": {
+      "ja": "合奏協奏曲",
+      "en": "Concerto grosso"
+    },
+    "short": {
+      "ja": "少人数の独奏群と合奏全体が掛け合う、バロック期の協奏曲。",
+      "en": "A Baroque concerto in which a small group of soloists is set against the full ensemble."
+    },
+    "match": {
+      "ja": [
+        "コンチェルト・グロッソ",
+        "合奏協奏曲"
+      ],
+      "en": [
+        "concerto grosso",
+        "concerti grossi"
+      ]
+    }
+  },
+  "duet": {
+    "term": {
+      "ja": "二重唱",
+      "en": "Duet"
+    },
+    "short": {
+      "ja": "2人の歌手が声を重ねて歌う曲や場面。オペラの聴きどころになることが多い。",
+      "en": "A piece or scene in which two singers perform together, often a highlight of an opera."
+    },
+    "match": {
+      "ja": [
+        "二重唱"
+      ],
+      "en": [
+        "duet",
+        "duets"
+      ]
+    }
+  },
+  "harpsichord": {
+    "term": {
+      "ja": "チェンバロ",
+      "en": "Harpsichord"
+    },
+    "short": {
+      "ja": "弦を爪ではじいて鳴らす鍵盤楽器。ピアノが広まる以前の中心的な楽器。",
+      "en": "A keyboard instrument whose strings are plucked rather than struck, central to music before the piano."
+    },
+    "match": {
+      "ja": [
+        "チェンバロ"
+      ],
+      "en": [
+        "harpsichord",
+        "harpsichords"
+      ]
+    }
+  },
+  "lute": {
+    "term": {
+      "ja": "リュート",
+      "en": "Lute"
+    },
+    "short": {
+      "ja": "洋梨形の胴を持つ撥弦楽器。ルネサンスからバロック期に広く弾かれた。",
+      "en": "A plucked string instrument with a pear-shaped body, widely played in the Renaissance and Baroque eras."
+    },
+    "match": {
+      "ja": [
+        "リュート"
+      ],
+      "en": [
+        "lute"
+      ]
+    }
+  },
+  "viol": {
+    "term": {
+      "ja": "ヴィオール",
+      "en": "Viol"
+    },
+    "short": {
+      "ja": "脚に挟んで弾く、フレットの付いた弓奏楽器。ヴァイオリン属とは別系統の楽器。",
+      "en": "A fretted bowed instrument held between the legs, from a family quite separate from the violin's."
+    },
+    "match": {
+      "ja": [
+        "ヴィオラ・ダ・ガンバ",
+        "ヴィオール"
+      ],
+      "en": [
+        "viol",
+        "viols"
+      ]
+    }
+  },
+  "celesta": {
+    "term": {
+      "ja": "チェレスタ",
+      "en": "Celesta"
+    },
+    "short": {
+      "ja": "鍵盤を押すとハンマーが金属板を叩く、澄んだ鈴のような音色の楽器。",
+      "en": "A keyboard instrument whose hammers strike metal plates, giving a clear, bell-like sound."
+    },
+    "match": {
+      "ja": [
+        "チェレスタ"
+      ],
+      "en": [
+        "celesta"
+      ]
+    }
+  },
+  "cor-anglais": {
+    "term": {
+      "ja": "イングリッシュホルン",
+      "en": "Cor anglais"
+    },
+    "short": {
+      "ja": "オーボエより5度低い音域を受け持つ木管楽器。もの悲しく落ち着いた音色を持つ。",
+      "en": "A woodwind instrument of the oboe family pitched a fifth lower, with a darker and more plaintive tone."
+    },
+    "match": {
+      "ja": [
+        "イングリッシュホルン"
+      ],
+      "en": [
+        "cor anglais"
+      ]
+    }
+  },
+  "ondes-martenot": {
+    "term": {
+      "ja": "オンド・マルトノ",
+      "en": "Ondes Martenot"
+    },
+    "short": {
+      "ja": "1928年に考案された初期の電子楽器。鍵盤とリボンで音を滑らかに動かせる。",
+      "en": "An early electronic instrument of 1928, played from a keyboard and a sliding ribbon that lets the pitch glide."
+    },
+    "match": {
+      "ja": [
+        "オンド・マルトノ"
+      ],
+      "en": [
+        "ondes Martenot"
+      ]
+    }
+  },
+  "prepared-piano": {
+    "term": {
+      "ja": "プリペアド・ピアノ",
+      "en": "Prepared piano"
+    },
+    "short": {
+      "ja": "弦にねじやゴムなどを挟んで音色を一時的に変え、打楽器のように響かせたピアノ。",
+      "en": "A piano with screws, rubber and other objects placed between the strings, temporarily turning it into a percussion-like instrument."
+    },
+    "match": {
+      "ja": [
+        "プリペアド・ピアノ"
+      ],
+      "en": [
+        "prepared piano"
+      ]
+    }
+  },
+  "tone-row": {
+    "term": {
+      "ja": "音列",
+      "en": "Tone row"
+    },
+    "short": {
+      "ja": "十二音技法などで、曲全体の素材としてあらかじめ決めておく音の並び。",
+      "en": "A fixed ordering of pitches settled in advance to supply the material for a whole piece, as in twelve-tone music."
+    },
+    "match": {
+      "ja": [
+        "音列"
+      ],
+      "en": [
+        "tone row",
+        "tone rows"
+      ]
+    }
+  },
+  "aleatory": {
+    "term": {
+      "ja": "偶然性の音楽",
+      "en": "Chance music"
+    },
+    "short": {
+      "ja": "作曲や演奏の一部を、さいころや易などの偶然の手続きに委ねる音楽。",
+      "en": "Music that hands part of the composing or performing over to chance procedures such as dice or the I Ching."
+    },
+    "match": {
+      "ja": [
+        "偶然性"
+      ],
+      "en": [
+        "aleatoric",
+        "chance music",
+        "chance-based"
+      ]
+    }
+  },
+  "microtone": {
+    "term": {
+      "ja": "微分音",
+      "en": "Microtone"
+    },
+    "short": {
+      "ja": "半音よりさらに狭い音程。通常の12音の枠組みの外にある音の高さを指す。",
+      "en": "An interval smaller than a semitone — pitches lying outside the standard twelve-note division of the octave."
+    },
+    "match": {
+      "ja": [
+        "微分音"
+      ],
+      "en": [
+        "microtone",
+        "microtones",
+        "microtonal"
+      ]
+    }
+  },
+  "polytonality": {
+    "term": {
+      "ja": "多調性",
+      "en": "Polytonality"
+    },
+    "short": {
+      "ja": "複数の調を同時に重ねて響かせる書き方。ぶつかり合う響きが持ち味になる。",
+      "en": "Writing in which two or more keys sound at the same time, the clash between them becoming the point."
+    },
+    "match": {
+      "ja": [
+        "多調性",
+        "多調"
+      ],
+      "en": [
+        "polytonality",
+        "polytonal",
+        "bitonal"
+      ]
+    }
+  },
+  "tone-cluster": {
+    "term": {
+      "ja": "トーン・クラスター",
+      "en": "Tone cluster"
+    },
+    "short": {
+      "ja": "隣り合う音を密集させて同時に鳴らし、塊のように響かせる和音。",
+      "en": "A chord of adjacent notes packed tightly together, heard as a dense block rather than as harmony."
+    },
+    "match": {
+      "ja": [
+        "トーン・クラスター",
+        "クラスター"
+      ],
+      "en": [
+        "tone cluster",
+        "tone clusters",
+        "tone-cluster"
+      ]
+    }
+  },
+  "sound-mass": {
+    "term": {
+      "ja": "音の塊",
+      "en": "Sound mass"
+    },
+    "short": {
+      "ja": "個々の音の高さより、響きの厚みや密度そのものを聴かせようとする書き方。",
+      "en": "Writing where the density and shape of the overall sound matter more than any individual pitch."
+    },
+    "match": {
+      "ja": [
+        "音の塊",
+        "音の房",
+        "音塊"
+      ],
+      "en": [
+        "sound-mass"
+      ]
+    }
+  },
+  "pentatonic": {
+    "term": {
+      "ja": "五音音階",
+      "en": "Pentatonic scale"
+    },
+    "short": {
+      "ja": "1オクターブを5つの音で構成する音階。各地の民謡や東アジアの音楽に多い。",
+      "en": "A scale of five notes to the octave, common in folk music worldwide and in the music of East Asia."
+    },
+    "match": {
+      "ja": [
+        "五音音階"
+      ],
+      "en": [
+        "pentatonic"
+      ]
+    }
+  },
+  "electroacoustic": {
+    "term": {
+      "ja": "電子音響",
+      "en": "Electronic sound"
+    },
+    "short": {
+      "ja": "電子的に作り出し、加工した音そのもの。楽器の音とは別の作曲素材として扱う。",
+      "en": "Sound generated and shaped electronically, treated as compositional material in its own right."
+    },
+    "match": {
+      "ja": [
+        "電子音響"
+      ],
+      "en": [
+        "electronic sound"
+      ]
+    }
+  },
+  "extended-technique": {
+    "term": {
+      "ja": "特殊奏法",
+      "en": "Extended technique"
+    },
+    "short": {
+      "ja": "楽器本来の弾き方から外れた奏法。胴を叩く、駒の向こう側を弓で弾くなど。",
+      "en": "Playing an instrument outside its normal manner — tapping the body, bowing behind the bridge, and the like."
+    },
+    "match": {
+      "ja": [
+        "特殊奏法",
+        "拡張奏法"
+      ],
+      "en": [
+        "extended technique",
+        "extended techniques"
+      ]
+    }
+  },
+  "scordatura": {
+    "term": {
+      "ja": "スコルダトゥーラ",
+      "en": "Scordatura"
+    },
+    "short": {
+      "ja": "弦楽器の調弦を通常と変える手法。普段は出せない和音や音色が得られる。",
+      "en": "Retuning a string instrument away from its normal tuning to obtain chords and colours otherwise impossible."
+    },
+    "match": {
+      "ja": [
+        "スコルダトゥーラ"
+      ],
+      "en": [
+        "scordatura"
+      ]
+    }
+  },
+  "functional-harmony": {
+    "term": {
+      "ja": "機能和声",
+      "en": "Functional harmony"
+    },
+    "short": {
+      "ja": "和音それぞれに役割を持たせ、緊張と解決の流れで曲を進める和声の仕組み。",
+      "en": "A system where each chord has a role, driving the music through tension and resolution back to a home key."
+    },
+    "match": {
+      "ja": [
+        "機能和声"
+      ],
+      "en": [
+        "functional harmony"
+      ]
+    }
+  },
+  "chord-progression": {
+    "term": {
+      "ja": "和声進行",
+      "en": "Chord progression"
+    },
+    "short": {
+      "ja": "和音が移り変わっていく順序。曲の骨格を作り、聴き手に流れを感じさせる。",
+      "en": "The order in which chords follow one another, forming the harmonic backbone of a piece."
+    },
+    "match": {
+      "ja": [
+        "和声進行"
+      ],
+      "en": [
+        "chord progression",
+        "chord progressions",
+        "harmonic progression"
+      ]
+    }
+  },
+  "ternary-form": {
+    "term": {
+      "ja": "三部形式",
+      "en": "Ternary form"
+    },
+    "short": {
+      "ja": "対照的な中間部を挟み、最初の部分が戻ってくる3つの部分からなる構成。",
+      "en": "A structure in three sections, where the opening material returns after a contrasting middle section."
+    },
+    "match": {
+      "ja": [
+        "三部形式"
+      ],
+      "en": [
+        "three-part structure"
+      ]
+    }
+  },
+  "binary-form": {
+    "term": {
+      "ja": "二部形式",
+      "en": "Binary form"
+    },
+    "short": {
+      "ja": "対になる2つの部分からなる構成。前半は別の調で終わり、後半で主調に戻る。",
+      "en": "A structure in two complementary halves, each usually repeated; the first ends away from the home key and the second leads back to it."
+    },
+    "match": {
+      "ja": [
+        "二部形式"
+      ],
+      "en": [
+        "binary form"
+      ]
+    }
+  },
+  "idee-fixe": {
+    "term": {
+      "ja": "固定楽想",
+      "en": "Idée fixe"
+    },
+    "short": {
+      "ja": "特定の人物や想念を表し、全曲を通して姿を変えつつ現れる旋律。",
+      "en": "A melody standing for a particular person or idea, recurring in changing guises across a whole work."
+    },
+    "match": {
+      "ja": [
+        "固定楽想",
+        "イデー・フィクス"
+      ],
+      "en": [
+        "idée fixe"
+      ]
+    }
+  },
+  "incidental-music": {
+    "term": {
+      "ja": "劇音楽",
+      "en": "Incidental music"
+    },
+    "short": {
+      "ja": "演劇の上演に合わせて演奏するために書かれた音楽。",
+      "en": "Music written to be played during a stage play, between and underneath the spoken scenes."
+    },
+    "match": {
+      "ja": [
+        "劇付随音楽",
+        "付随音楽",
+        "劇音楽"
+      ],
+      "en": [
+        "incidental music"
+      ]
+    }
+  },
+  "ragtime": {
+    "term": {
+      "ja": "ラグタイム",
+      "en": "Ragtime"
+    },
+    "short": {
+      "ja": "規則正しく刻む左手に、拍をずらした右手の旋律を重ねるピアノ音楽。",
+      "en": "Piano music setting a syncopated right-hand melody against a steady, march-like left hand."
+    },
+    "match": {
+      "ja": [
+        "ラグタイム"
+      ],
+      "en": [
+        "ragtime"
+      ]
+    }
+  },
+  "habanera": {
+    "term": {
+      "ja": "ハバネラ",
+      "en": "Habanera"
+    },
+    "short": {
+      "ja": "キューバ由来の舞曲。付点を効かせた独特の伴奏リズムを持つ。",
+      "en": "A dance of Cuban origin, recognisable by the lilting dotted rhythm of its accompaniment."
+    },
+    "match": {
+      "ja": [
+        "ハバネラ"
+      ],
+      "en": [
+        "habanera"
+      ]
+    }
+  },
+  "tarantella": {
+    "term": {
+      "ja": "タランテラ",
+      "en": "Tarantella"
+    },
+    "short": {
+      "ja": "南イタリアの急速な舞曲。休みなく回り続けるようなリズムを持つ。",
+      "en": "A fast southern Italian dance driven by a relentless, whirling rhythm."
+    },
+    "match": {
+      "ja": [
+        "タランテラ"
+      ],
+      "en": [
+        "tarantella"
+      ]
+    }
+  },
+  "sinfonietta": {
+    "term": {
+      "ja": "シンフォニエッタ",
+      "en": "Sinfonietta"
+    },
+    "short": {
+      "ja": "交響曲より短く軽やかに書かれた管弦楽曲。室内オーケストラの名前にも使われる。",
+      "en": "An orchestral work shorter and lighter than a full symphony; also used in the names of chamber orchestras."
+    },
+    "match": {
+      "ja": [
+        "シンフォニエッタ"
+      ],
+      "en": [
+        "sinfonietta"
+      ]
+    }
+  },
+  "sinfonia-concertante": {
+    "term": {
+      "ja": "協奏交響曲",
+      "en": "Sinfonia concertante"
+    },
+    "short": {
+      "ja": "複数の独奏楽器とオーケストラのための、交響曲と協奏曲の中間にあたる曲。",
+      "en": "A work for several soloists and orchestra standing midway between symphony and concerto, in vogue in the late eighteenth century."
+    },
+    "match": {
+      "ja": [
+        "協奏交響曲"
+      ],
+      "en": [
+        "sinfonia concertante"
       ]
     }
   }
