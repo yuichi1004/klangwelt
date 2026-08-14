@@ -1378,5 +1378,116 @@
         }
       }
     ]
+  },
+  "22291": {
+    "work": "Slavonic Dances, B.145, op. 72",
+    "media": [
+      {
+        "title": { "ja": "ヴィーナス", "en": "Venus" },
+        "year": 2006,
+        "kind": "film",
+        "note": {
+          "ja": "第2番が、老いた主人公2人がコヴェント・ガーデンの教会で穏やかなひとときを過ごす場面に流れる。",
+          "en": "No. 2 plays as two elderly characters share a quiet moment at a church in Covent Garden."
+        }
+      }
+    ]
+  },
+  "16490": {
+    "work": "Turandot",
+    "media": [
+      {
+        "title": { "ja": "ミッション:インポッシブル/ローグ・ネイション", "en": "Mission: Impossible – Rogue Nation" },
+        "year": 2015,
+        "kind": "film",
+        "note": {
+          "ja": "「誰も寝てはならぬ」の生演奏が、暗殺計画を主人公が阻止するオペラ劇場の場面全体を彩る。",
+          "en": "A live performance of \"Nessun dorma\" underscores the opera-house sequence where the protagonist must foil an assassination."
+        }
+      },
+      {
+        "title": { "ja": "トータル・フィアーズ", "en": "The Sum of All Fears" },
+        "year": 2002,
+        "kind": "film",
+        "note": {
+          "ja": "「誰も寝てはならぬ」が、核攻撃の首謀者たちが排除される場面と米露首脳の和平宣言に重ねて流れる。",
+          "en": "\"Nessun dorma\" plays over the climax as the conspirators behind a nuclear attack are eliminated, intercut with the US and Russian presidents declaring peace."
+        }
+      },
+      {
+        "title": { "ja": "ベッカムに恋して", "en": "Bend It Like Beckham" },
+        "year": 2002,
+        "kind": "film",
+        "note": {
+          "ja": "「誰も寝てはならぬ」が、主人公が決勝戦で勝利のフリーキックを決める場面と姉の結婚式を交互に描くクライマックスに流れる。",
+          "en": "\"Nessun dorma\" plays over the climax, intercutting the protagonist scoring the winning free kick with her sister's wedding."
+        }
+      }
+    ]
+  },
+  "16218": {
+    "work": "Piano Concerto no. 5 in E flat major, op. 73, \"Emperor\"",
+    "media": [
+      {
+        "title": { "ja": "いまを生きる", "en": "Dead Poets Society" },
+        "year": 1989,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章が、生徒がキーティング先生の部屋を相談に訪れる場面でラジオから流れる。",
+          "en": "The second movement plays on a radio in Mr. Keating's office as a student visits him for advice."
+        }
+      },
+      {
+        "title": { "ja": "ピクニックatハンギング・ロック", "en": "Picnic at Hanging Rock" },
+        "year": 1975,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章が全編に断片的に流れ、エンドクレジットでは全曲が使われる。",
+          "en": "The second movement recurs in fragments throughout the film and plays in full over the closing credits."
+        }
+      }
+    ]
+  },
+  "7764": {
+    "work": "Violin Concerto in D major, op. 77",
+    "media": [
+      {
+        "title": { "ja": "ゼア・ウィル・ビー・ブラッド", "en": "There Will Be Blood" },
+        "year": 2007,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章が、映画のクライマックスとなるボウリング場での対決の直後から流れ始め、エンドクレジットまで続く。",
+          "en": "The third movement begins immediately after the climactic bowling-alley confrontation and continues through the closing credits."
+        }
+      }
+    ]
+  },
+  "6500": {
+    "work": "Water Music Suite no. 2 in D major, HWV.349",
+    "media": [
+      {
+        "title": { "ja": "英国万歳!", "en": "The Madness of King George" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "「アラ・ホーンパイプ」を含む本組曲が、王室の威厳を描く場面を彩るヘンデル作品群の劇伴に取り入れられている。",
+          "en": "This suite, including its \"Alla Hornpipe\" movement, is woven into the Handel-derived score that underscores the film's scenes of royal pomp."
+        }
+      }
+    ]
+  },
+  "22377": {
+    "work": "String Quartet no. 12 in F, op. 96, \"American\"",
+    "media": [
+      {
+        "title": { "ja": "ストーリー・オブ・マイライフ/わたしの若草物語", "en": "Little Women" },
+        "year": 2019,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章が、ローリーとジョーが初めて一緒に踊るポーチでのダンスの場面に流れる。",
+          "en": "The third movement plays as Laurie and Jo dance together for the first time on the porch."
+        }
+      }
+    ]
   }
 }
