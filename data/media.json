@@ -1838,5 +1838,131 @@
         }
       }
     ]
+  },
+  "18412": {
+    "work": "Kaiser-Walzer, op. 437",
+    "media": [
+      {
+        "title": { "ja": "プリンセス・シシー", "en": "Sissi" },
+        "year": 1955,
+        "kind": "film",
+        "note": {
+          "ja": "シシーとフランツ・ヨーゼフの結婚式の舞踏会の場面に使われる（史実上は作曲時期が後年のため時代考証上の誤りとして知られる）。",
+          "en": "Plays during Sissi and Franz Joseph's wedding-ball scene — a well-known anachronism, since the piece wasn't composed until decades later."
+        }
+      }
+    ]
+  },
+  "6544": {
+    "work": "L' Arlésienne Suite no. 1",
+    "media": [
+      {
+        "title": { "ja": "プリズナーNo.6", "en": "The Prisoner" },
+        "year": 1967,
+        "kind": "tv",
+        "note": {
+          "ja": "エピソード「Hammer into Anvil」で、主人公が同じレコード（第1曲「前奏曲」）を何度も繰り返し再生すること自体が、相手を心理的に追い詰める仕掛けとして使われる。",
+          "en": "In the episode \"Hammer into Anvil,\" the protagonist repeatedly plays the same record (movement I, \"Prélude\") over and over as a device to psychologically unsettle his target."
+        }
+      }
+    ]
+  },
+  "18148": {
+    "work": "Piano Concerto in A minor, op. 16",
+    "media": [
+      {
+        "title": { "ja": "ロリータ", "en": "Lolita" },
+        "year": 1997,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章冒頭の劇的な出だしが、クワイルティがピアノを弾く中ハンバートが彼を撃つクライマックスの場面に流れる。",
+          "en": "The dramatic opening of the first movement plays during the climactic scene where Humbert shoots Quilty as he plays it at the piano."
+        }
+      }
+    ]
+  },
+  "20003": {
+    "work": "Symphonie fantastique: Épisode de la vie d'une artiste, op. 14",
+    "media": [
+      {
+        "title": { "ja": "愛がこわれるとき", "en": "Sleeping with the Enemy" },
+        "year": 1991,
+        "kind": "film",
+        "note": {
+          "ja": "第5楽章「魔女の夜宴の夢」が、暴力的な夫と結びつく反復主題として使われ、逃げたヒロインが夫に居場所を突き止められたことを悟る場面にも流れる。",
+          "en": "The fifth movement, \"Dream of a Witches' Sabbath,\" recurs as a motif tied to the abusive husband, playing again when the fleeing heroine realizes he has tracked her down."
+        }
+      }
+    ]
+  },
+  "3916": {
+    "work": "Symphony no. 5 in D minor, op. 47",
+    "media": [
+      {
+        "title": { "ja": "勝利への脱出", "en": "Escape to Victory" },
+        "year": 1981,
+        "kind": "film",
+        "note": {
+          "ja": "第4楽章の結尾部が、捕虜たちとドイツ軍によるサッカー試合の勝利のクライマックスに流れる。",
+          "en": "The coda of the fourth movement plays over the triumphant climax of the POWs' soccer match against the Germans."
+        }
+      }
+    ]
+  },
+  "24001": {
+    "work": "Liebesträume",
+    "media": [
+      {
+        "title": { "ja": "イヴの総て", "en": "All About Eve" },
+        "year": 1950,
+        "kind": "film",
+        "note": {
+          "ja": "第3番が、パーティーの場面でピアノ演奏として流れ、ヒロインのマーゴが同じ曲を何度も演奏させる。",
+          "en": "No. 3 is played on piano at a party scene, with the heroine Margo repeatedly requesting it be played again."
+        }
+      }
+    ]
+  },
+  "20403": {
+    "work": "Pictures at an Exhibition",
+    "media": [
+      {
+        "title": { "ja": "展覧会の絵", "en": "Pictures at an Exhibition" },
+        "year": 1966,
+        "kind": "anime",
+        "note": {
+          "ja": "手塚治虫による短編アニメーション映画。「鶏の足の上の小屋（ババ・ヤーガ）」や「キエフの大門」などの曲が、それぞれ異なる作風のセグメントに使われる。",
+          "en": "An Osamu Tezuka animated short film. Pieces such as \"The Hut on Fowl's Legs (Baba Yaga)\" and \"The Great Gate of Kiev\" score segments each done in a different animation style."
+        }
+      }
+    ]
+  },
+  "23201": {
+    "work": "Variations on Ah vous dirais-je, Maman, K.265",
+    "media": [
+      {
+        "title": { "ja": "四月は君の嘘", "en": "Your Lie in April" },
+        "year": 2014,
+        "kind": "anime",
+        "note": {
+          "ja": "第3話で、主人公が喫茶店で子供たちのために演奏する場面に使われる。",
+          "en": "In episode 3, the protagonist performs it for children at a café."
+        }
+      }
+    ]
+  },
+  "18093": {
+    "work": "From Holberg’s Time, for string orchestra, \"Holberg Suite\"",
+    "media": [
+      {
+        "title": { "ja": "ヤンクス", "en": "Yanks" },
+        "year": 1979,
+        "kind": "film",
+        "note": {
+          "ja": "第二次世界大戦下のイングランドの村で開かれる教会の演奏会の場面に、組曲全体が使われる。",
+          "en": "The suite is used in a wartime concert scene at an English village church."
+        }
+      }
+    ]
   }
 }
