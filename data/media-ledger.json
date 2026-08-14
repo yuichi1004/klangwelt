@@ -953,73 +953,80 @@
     "title": "Symphony no. 2 in C minor, \"Resurrection\"",
     "composer": "Mahler",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16674": {
     "title": "Symphony no. 3 in A minor, op. 56, \"Scottish\"",
     "composer": "Mendelssohn",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; a claim linking it to Elvira Madigan (1967) was checked and is false (that film uses Mozart K.467, not this symphony)"
   },
   "19607": {
     "title": "Der Rosenkavalier, op. 59, TrV227, \"musical comedy\"",
     "composer": "Strauss",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found within another film's soundtrack; only direct filmed performances of the opera itself exist, which do not count as \"used in\" another work"
   },
   "20029": {
     "title": "Harold en Italie, H.68, op. 16",
     "composer": "Berlioz",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found beyond direct concert-film recordings of the piece itself"
   },
   "14658": {
     "title": "Music for Strings, Percussion and Celesta, BB114, Sz.106",
     "composer": "Bartók",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15144": {
     "title": "Piano Concerto in A minor, op. 54",
     "composer": "Schumann",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; a plausible candidate (Song of Love, 1947 Clara Schumann biopic) was checked and only confirms solo piano pieces (Träumerei, Widmung, Arabeske) being performed, not this concerto"
   },
   "3799": {
     "title": "Piano Concerto no. 2 in G minor, op. 22",
     "composer": "Saint-Saëns",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed as a plot device in Nocturne (2020) but no confirmable Japanese release title and the specific movement used could not be verified"
   },
   "21510": {
     "title": "Piano Concerto no. 3 in C major, op. 26",
     "composer": "Prokofiev",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "22111": {
     "title": "Rhapsody on a Theme by Paganini, op. 43",
     "composer": "Rachmaninoff",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "6548": {
     "title": "Symphony in C major",
     "composer": "Bizet",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified film/TV/anime usage found; the piece's main cultural association is a Balanchine ballet staging, not a film placement"
   },
   "29": {
     "title": "Symphony no. 7 in E major, WAB 107",
     "composer": "Bruckner",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified film/anime/TV usage found; only historical facts exist (played at Bruckner's own funeral; broadcast on German radio after Hitler's death), which are not media placements"
   },
   "4058": {
     "title": "The Second Waltz, for orchestra",
     "composer": "Shostakovich",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "24488": {
     "title": "Violin Concerto in B minor, op. 61",
