@@ -1199,61 +1199,68 @@
     "title": "Sheherazade, op. 35",
     "composer": "Rimsky-Korsakov",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed usage exists (Song of Scheherazade, 1947) but no confirmable Japanese release title for this obscure biopic"
   },
   "10951": {
     "title": "Sinfonietta, JW VI/18",
     "composer": "Janacek",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "only usage found is the theme for a UK regional courtroom TV drama (Crown Court) — does not meet the popular-recognition bar"
   },
   "1132": {
     "title": "Symphony in D minor, M.48",
     "composer": "Franck",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "the film score (Double Indemnity) paraphrases/incorporates thematic material in variation form rather than using an actual excerpt of the piece — this is compositional influence, not a direct usage"
   },
   "2748": {
     "title": "The Lark Ascending: Romance for Violin and Orchestra",
     "composer": "Vaughan Williams",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed as a recurring theme in The Year My Voice Broke (1987) but no confirmable Japanese title; a widely-repeated Man on Wire claim was checked and could not be verified"
   },
   "16907": {
     "title": "Turangalila-symphonie, for orchestra",
     "composer": "Messiaen",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "27209": {
     "title": "Violin Concerto in D minor",
     "composer": "Khachaturian",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; often confused with Khachaturian's far more famous Sabre Dance and Spartacus Adagio, which are different pieces"
   },
   "21495": {
     "title": "Violin Concerto no. 1 in G minor, op. 26",
     "composer": "Bruch",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; a claim linking it to Kinsey (2004) was checked and that film's soundtrack actually credits a different Bruch violin concerto"
   },
   "1633": {
     "title": "Violin Concerto, op. 14",
     "composer": "Barber",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; a widely-repeated claim (Amélie, 2001) was checked and is false — that film uses Barber's separate Adagio for Strings, not this concerto"
   },
   "19303": {
     "title": "Young Person's Guide to the Orchestra, op. 34",
     "composer": "Britten",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "19537": {
     "title": "Appalachian Spring",
     "composer": "Copland",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "6582": {
     "title": "Cavalleria rusticana",
@@ -1265,13 +1272,13 @@
     "title": "Der Freischütz, op. 77",
     "composer": "Weber",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "24630": {
     "title": "Dido and Aeneas, Z.626",
     "composer": "Purcell",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "28099": {
     "title": "El amor brujo",
