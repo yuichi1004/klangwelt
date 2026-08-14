@@ -530,7 +530,8 @@
     "title": "Turandot",
     "composer": "Puccini",
     "stars": 4,
-    "status": "done"
+    "status": "skip",
+    "note": "no popularly-known usage found beyond \"Nessun Dorma\" (which is separately catalogued as its own work, id 16515)"
   },
   "21086": {
     "title": "Erlkönig, D.328, op. 1",
@@ -595,7 +596,7 @@
     "title": "Das Rheingold, WWV 86a",
     "composer": "Wagner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23812": {
     "title": "Le nozze di Figaro, K.492",
@@ -607,61 +608,65 @@
     "title": "Nabucco",
     "composer": "Verdi",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "\"Va, pensiero\" is confirmed on The Color of Money (1986) soundtrack but the scene it accompanies could not be confirmed"
   },
   "17276": {
     "title": "Preludes, op. 28",
     "composer": "Chopin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "9231": {
     "title": "Cello Suite no. 1 in G major, BWV.1007",
     "composer": "Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16515": {
     "title": "Nessun Dorma",
     "composer": "Puccini",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7545": {
     "title": "Romeo and Juliet",
     "composer": "Tchaikovsky",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified, well-documented individual film/TV/anime scene found beyond vague \"frequently used in romantic media\" claims"
   },
   "16458": {
     "title": "Violin Concerto in D major, op. 61",
     "composer": "Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed on the Immortal Beloved (1994) soundtrack but the scene context could not be confirmed"
   },
   "6494": {
     "title": "Water Music Suite no. 3 in G major, HWV.350",
     "composer": "Handel",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage; two widely-repeated claims (Alla Hornpipe in Madness of King George; a Gigue in A Royal Affair) both turned out to reference different Handel works, not this suite"
   },
   "13270": {
     "title": "2 Arabesques, L.66",
     "composer": "Debussy",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "22337": {
     "title": "8 Humoresques, op. 101",
     "composer": "Dvořák",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15764": {
     "title": "Die Meistersinger von Nürnberg, WWV 96",
     "composer": "Wagner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23669": {
     "title": "Don Giovanni, K.527",
@@ -673,7 +678,7 @@
     "title": "Sonata no. 2 in B flat minor, op. 35",
     "composer": "Chopin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7645": {
     "title": "Ein deutsches Requiem, op. 45",

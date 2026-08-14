@@ -1393,16 +1393,16 @@
       }
     ]
   },
-  "16490": {
-    "work": "Turandot",
+  "16515": {
+    "work": "Nessun Dorma",
     "media": [
       {
         "title": { "ja": "ミッション:インポッシブル/ローグ・ネイション", "en": "Mission: Impossible – Rogue Nation" },
         "year": 2015,
         "kind": "film",
         "note": {
-          "ja": "「誰も寝てはならぬ」の生演奏が、暗殺計画を主人公が阻止するオペラ劇場の場面全体を彩る。",
-          "en": "A live performance of \"Nessun dorma\" underscores the opera-house sequence where the protagonist must foil an assassination."
+          "ja": "生演奏が、暗殺計画を主人公が阻止するオペラ劇場の場面全体を彩る。",
+          "en": "A live performance underscores the opera-house sequence where the protagonist must foil an assassination."
         }
       },
       {
@@ -1410,8 +1410,8 @@
         "year": 2002,
         "kind": "film",
         "note": {
-          "ja": "「誰も寝てはならぬ」が、核攻撃の首謀者たちが排除される場面と米露首脳の和平宣言に重ねて流れる。",
-          "en": "\"Nessun dorma\" plays over the climax as the conspirators behind a nuclear attack are eliminated, intercut with the US and Russian presidents declaring peace."
+          "ja": "核攻撃の首謀者たちが排除される場面と米露首脳の和平宣言に重ねて流れる。",
+          "en": "Plays over the climax as the conspirators behind a nuclear attack are eliminated, intercut with the US and Russian presidents declaring peace."
         }
       },
       {
@@ -1419,8 +1419,8 @@
         "year": 2002,
         "kind": "film",
         "note": {
-          "ja": "「誰も寝てはならぬ」が、主人公が決勝戦で勝利のフリーキックを決める場面と姉の結婚式を交互に描くクライマックスに流れる。",
-          "en": "\"Nessun dorma\" plays over the climax, intercutting the protagonist scoring the winning free kick with her sister's wedding."
+          "ja": "主人公が決勝戦で勝利のフリーキックを決める場面と姉の結婚式を交互に描くクライマックスに流れる。",
+          "en": "Plays over the climax, intercutting the protagonist scoring the winning free kick with her sister's wedding."
         }
       }
     ]
@@ -1486,6 +1486,113 @@
         "note": {
           "ja": "第3楽章が、ローリーとジョーが初めて一緒に踊るポーチでのダンスの場面に流れる。",
           "en": "The third movement plays as Laurie and Jo dance together for the first time on the porch."
+        }
+      }
+    ]
+  },
+  "15755": {
+    "work": "Das Rheingold, WWV 86a",
+    "media": [
+      {
+        "title": { "ja": "エイリアン：コヴェナント", "en": "Alien: Covenant" },
+        "year": 2017,
+        "kind": "film",
+        "note": {
+          "ja": "「神々のワルハラ入城」のピアノ編曲版を、アンドロイドのデイヴィッドが冒頭で弾き、以降も彼を象徴する主題として使われる。",
+          "en": "A piano transcription of \"Entry of the Gods into Valhalla\" is played by the android David in the prologue and recurs as his character motif."
+        }
+      }
+    ]
+  },
+  "17276": {
+    "work": "Preludes, op. 28",
+    "media": [
+      {
+        "title": { "ja": "危険な情事", "en": "Fatal Attraction" },
+        "year": 1987,
+        "kind": "film",
+        "note": {
+          "ja": "第4番 ホ短調が、ヒロインが自宅でピアノを弾く場面に流れる。",
+          "en": "No. 4 in E minor is played by the female lead on the piano at home."
+        }
+      }
+    ]
+  },
+  "9231": {
+    "work": "Cello Suite no. 1 in G major, BWV.1007",
+    "media": [
+      {
+        "title": { "ja": "イフ・アイ・ステイ 愛が還る場所", "en": "If I Stay" },
+        "year": 2014,
+        "kind": "film",
+        "note": {
+          "ja": "「プレリュード」が、チェリストを目指す主人公のジュリアード音楽院オーディションの演目として使われる。",
+          "en": "The \"Prélude\" is performed by the cellist protagonist for her Juilliard audition, a central scene in the film."
+        }
+      }
+    ]
+  },
+  "13270": {
+    "work": "2 Arabesques, L.66",
+    "media": [
+      {
+        "title": { "ja": "スパイダーマン：ファー・フロム・ホーム", "en": "Spider-Man: Far From Home" },
+        "year": 2019,
+        "kind": "film",
+        "note": {
+          "ja": "第1番が、プラハのホテルにチェックインする生徒たちの場面に流れる。",
+          "en": "No. 1 plays as Peter Parker and his classmates check into a hotel in Prague."
+        }
+      }
+    ]
+  },
+  "22337": {
+    "work": "8 Humoresques, op. 101",
+    "media": [
+      {
+        "title": { "ja": "ギブリーズ episode2", "en": "Ghiblies Episode 2" },
+        "year": 2000,
+        "kind": "anime",
+        "note": {
+          "ja": "第7番が、スタジオジブリ制作のこの短編アニメの「初恋」の場面に使われる。",
+          "en": "No. 7 plays during a \"first love\" vignette in this Studio Ghibli animated short."
+        }
+      }
+    ]
+  },
+  "15764": {
+    "work": "Die Meistersinger von Nürnberg, WWV 96",
+    "media": [
+      {
+        "title": { "ja": "魔人ドラキュラ", "en": "Dracula" },
+        "year": 1931,
+        "kind": "film",
+        "note": {
+          "ja": "第1幕への前奏曲が、ドラキュラ伯爵がオペラ座で登場人物たちと出会う場面に流れる。",
+          "en": "The Prelude to Act I plays during the opera-house scene where Dracula encounters the other characters."
+        }
+      },
+      {
+        "title": { "ja": "カーネギー・ホール", "en": "Carnegie Hall" },
+        "year": 1947,
+        "kind": "film",
+        "note": {
+          "ja": "前奏曲が、ニューヨーク・フィルハーモニックによる演奏会の場面の演目として使われる。",
+          "en": "The Prelude is performed on screen by the New York Philharmonic as one of the film's concert set pieces."
+        }
+      }
+    ]
+  },
+  "17167": {
+    "work": "Sonata no. 2 in B flat minor, op. 35",
+    "media": [
+      {
+        "title": { "ja": "ファイティング・テンプテーションズ", "en": "The Fighting Temptations" },
+        "year": 2003,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章「葬送行進曲」が、登場人物の叔母の葬儀の場面に流れる。",
+          "en": "The third movement, the \"Funeral March,\" plays during a character's aunt's funeral scene."
         }
       }
     ]
