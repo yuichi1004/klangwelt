@@ -778,73 +778,77 @@
     "title": "Nutcracker, op. 71",
     "composer": "Tchaikovsky",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16419": {
     "title": "Piano Sonata no. 23 in F minor, op. 57, \"Appassionata\"",
     "composer": "Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "10116": {
     "title": "Brandenburg Concerto no. 5 in D major, BWV.1050",
     "composer": "Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "the only confirmed hit is a niche children's show (Little Einsteins) — does not meet the popular-recognition bar"
   },
   "23310": {
     "title": "Piano Concerto no. 20 in D minor, K.466",
     "composer": "Mozart",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "14989": {
     "title": "Symphony no. 1 in B flat major, op. 38, \"Spring\"",
     "composer": "Schumann",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "only usage found is a composer biopic (Spring Symphony, 1983) with no confirmable movement/scene detail"
   },
   "21536": {
     "title": "Symphony no. 1 in D, op. 25, \"Classical\"",
     "composer": "Prokofiev",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; the only IMDb-documented credit is an obscure 1946 TV movie with no scene detail"
   },
   "27": {
     "title": "Symphony no. 4 in E flat major, WAB 104, \"Romantic\"",
     "composer": "Bruckner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15544": {
     "title": "An American in Paris",
     "composer": "Gershwin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "3787": {
     "title": "Cello Concerto no. 1 in A minor, op. 33",
     "composer": "Saint-Saëns",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "14695": {
     "title": "Concerto for Orchestra, BB123, Sz.116",
     "composer": "Bartók",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified film/anime/TV usage found despite extensive searching"
   },
   "24494": {
     "title": "Enigma Variations, op. 36",
     "composer": "Elgar",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21716": {
     "title": "Finlandia, op. 26",
     "composer": "Sibelius",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "18412": {
     "title": "Kaiser-Walzer, op. 437",

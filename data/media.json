@@ -1717,5 +1717,126 @@
         }
       }
     ]
+  },
+  "27": {
+    "work": "Symphony no. 4 in E flat major, WAB 104, \"Romantic\"",
+    "media": [
+      {
+        "title": { "ja": "銀河英雄伝説", "en": "Legend of the Galactic Heroes" },
+        "year": 1988,
+        "kind": "anime",
+        "note": {
+          "ja": "第1楽章と第4楽章が、このシリーズの劇伴として複数のエピソードで使われている。",
+          "en": "The first and fourth movements are used as background score across several episodes of this series."
+        }
+      }
+    ]
+  },
+  "15544": {
+    "work": "An American in Paris",
+    "media": [
+      {
+        "title": { "ja": "巴里のアメリカ人", "en": "An American in Paris" },
+        "year": 1951,
+        "kind": "film",
+        "note": {
+          "ja": "曲名を映画のタイトルに冠し、台詞のないクライマックスの約17分間のバレエシーンをこの曲がまるごと彩る。",
+          "en": "The film shares the piece's title, and the entire work scores the climactic, dialogue-free ~17-minute ballet sequence."
+        }
+      }
+    ]
+  },
+  "3787": {
+    "work": "Cello Concerto no. 1 in A minor, op. 33",
+    "media": [
+      {
+        "title": { "ja": "イフ・アイ・ステイ 愛が還る場所", "en": "If I Stay" },
+        "year": 2014,
+        "kind": "film",
+        "note": {
+          "ja": "ジュリアード音楽院を目指す主人公が習得を目指す古典的名曲の一つとして、サウンドトラックに収録されている。",
+          "en": "Included on the soundtrack as one of the classical masterworks the Juilliard-aspiring cellist protagonist is mastering."
+        }
+      }
+    ]
+  },
+  "24494": {
+    "work": "Enigma Variations, op. 36",
+    "media": [
+      {
+        "title": { "ja": "エリザベス", "en": "Elizabeth" },
+        "year": 1998,
+        "kind": "film",
+        "note": {
+          "ja": "「ニムロッド」の変奏を用いた編曲版が、エリザベス1世が謀反人の処刑を命じる場面に流れる。",
+          "en": "An arrangement based on the \"Nimrod\" variation plays as Elizabeth I orders the execution of conspirators."
+        }
+      },
+      {
+        "title": { "ja": "ダンケルク", "en": "Dunkirk" },
+        "year": 2017,
+        "kind": "film",
+        "note": {
+          "ja": "「ニムロッド」の旋律がハンス・ジマーによる劇伴の中で編曲・引用され、クライマックスの撤退・救出の場面に流れる。",
+          "en": "The \"Nimrod\" melody is quoted and reworked within Hans Zimmer's score, playing during the climactic evacuation and rescue scenes."
+        }
+      }
+    ]
+  },
+  "21716": {
+    "work": "Finlandia, op. 26",
+    "media": [
+      {
+        "title": { "ja": "ダイ・ハード2", "en": "Die Hard 2" },
+        "year": 1990,
+        "kind": "film",
+        "note": {
+          "ja": "映画の結末とエンドクレジットに流れる。フィンランド出身の監督レニー・ハーリンによる母国への献辞とされる。",
+          "en": "Plays at the film's ending and over the closing credits, reportedly Finnish director Renny Harlin's tribute to his homeland."
+        }
+      }
+    ]
+  },
+  "7553": {
+    "work": "Nutcracker, op. 71",
+    "media": [
+      {
+        "title": { "ja": "バービーのくるみ割り人形", "en": "Barbie in the Nutcracker" },
+        "year": 2001,
+        "kind": "film",
+        "note": {
+          "ja": "原曲の全曲が使われ、物語の展開に合わせてバレエ「くるみ割り人形」を映像化している。",
+          "en": "The full original score is used to retell the story of the Nutcracker ballet, matching the film's narrative to the ballet's original beats."
+        }
+      }
+    ]
+  },
+  "16419": {
+    "work": "Piano Sonata no. 23 in F minor, op. 57, \"Appassionata\"",
+    "media": [
+      {
+        "title": { "ja": "ファーゴ シーズン3", "en": "Fargo, Season 3" },
+        "year": 2017,
+        "kind": "tv",
+        "note": {
+          "ja": "第3楽章が流れる中、悪役が床に横たわりながらこの曲についてのレーニンの有名な言葉を引用する場面がある。",
+          "en": "As the third movement plays, the villain lies on the floor and quotes Lenin's famous remark about the piece."
+        }
+      }
+    ]
+  },
+  "23310": {
+    "work": "Piano Concerto no. 20 in D minor, K.466",
+    "media": [
+      {
+        "title": { "ja": "アマデウス", "en": "Amadeus" },
+        "year": 1984,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章「ロマンツェ」が、映画の結末とエンドクレジットに流れる。",
+          "en": "The second movement, \"Romanza,\" plays over the film's ending and closing credits."
+        }
+      }
+    ]
   }
 }
