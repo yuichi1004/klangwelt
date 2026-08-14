@@ -901,5 +901,218 @@
         }
       }
     ]
+  },
+  "9796": {
+    "work": "Orchestral Suite no. 3 in D major, BWV.1068",
+    "media": [
+      {
+        "title": { "ja": "セブン", "en": "Se7en" },
+        "year": 1995,
+        "kind": "film",
+        "note": {
+          "ja": "第2曲「アリア」（G線上のアリア）が、図書館で七つの大罪を調べる刑事の場面で館内放送として流れる。",
+          "en": "The second movement, the \"Air\" (known as \"Air on the G String\"), plays over the library's speakers as a detective researches the Seven Deadly Sins."
+        }
+      },
+      {
+        "title": { "ja": "007 私を愛したスパイ", "en": "The Spy Who Loved Me" },
+        "year": 1977,
+        "kind": "film",
+        "note": {
+          "ja": "第2曲「アリア」が、悪役が裏切った部下をサメの水槽に落とす場面に、優雅な曲調とのコントラストとして流れる。",
+          "en": "The second movement, the \"Air,\" plays as the villain drops a disloyal aide into a shark tank, its elegance contrasting with the violence."
+        }
+      }
+    ]
+  },
+  "26281": {
+    "work": "Má vlast, JB 1:112",
+    "media": [
+      {
+        "title": { "ja": "ツリー・オブ・ライフ", "en": "The Tree of Life" },
+        "year": 2011,
+        "kind": "film",
+        "note": {
+          "ja": "第2曲「ヴルタヴァ（モルダウ）」が、少年時代の驚きと発見に満ちた場面で流れる。",
+          "en": "The second poem, \"Vltava\" (\"The Moldau\"), plays over scenes of childhood wonder and discovery."
+        }
+      }
+    ]
+  },
+  "18105": {
+    "work": "Peer Gynt Suite no. 1, op. 46",
+    "media": [
+      {
+        "title": { "ja": "ソーシャル・ネットワーク", "en": "The Social Network" },
+        "year": 2010,
+        "kind": "film",
+        "note": {
+          "ja": "第4曲「山の魔王の宮殿にて」の電子編曲版が、ヘンリー・レガッタでのボートレースの場面に緊迫感を与える。",
+          "en": "An electronic rearrangement of the fourth movement, \"In the Hall of the Mountain King,\" scores the tense rowing race at the Henley Royal Regatta."
+        }
+      },
+      {
+        "title": { "ja": "M", "en": "M" },
+        "year": 1931,
+        "kind": "film",
+        "note": {
+          "ja": "第4曲「山の魔王の宮殿にて」の旋律を、殺人鬼が犯行前に口笛で吹く不気味な主題として使う。",
+          "en": "The child murderer whistles the fourth movement, \"In the Hall of the Mountain King,\" as a sinister leitmotif before each attack."
+        }
+      }
+    ]
+  },
+  "13085": {
+    "work": "3 Gymnopédies",
+    "media": [
+      {
+        "title": { "ja": "ホワット・ライズ・ビニース", "en": "What Lies Beneath" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "第1番が、麻痺した主人公がゆっくりと浴槽に沈められていく緊迫した場面で流れる。",
+          "en": "No. 1 plays during the tense scene where the paralyzed protagonist is slowly submerged in a filling bathtub."
+        }
+      }
+    ]
+  },
+  "16741": {
+    "work": "A Midsummer Night's Dream, op. 61",
+    "media": [
+      {
+        "title": { "ja": "花嫁の父", "en": "Father of the Bride" },
+        "year": 1950,
+        "kind": "film",
+        "note": {
+          "ja": "「結婚行進曲」が、クライマックスの結婚式の場面を彩る。",
+          "en": "The \"Wedding March\" underscores the climactic wedding ceremony."
+        }
+      }
+    ]
+  },
+  "9148": {
+    "work": "Cantata no. 147: Herz und Mund und Tat und Leben",
+    "media": [
+      {
+        "title": { "ja": "ブギーナイツ", "en": "Boogie Nights" },
+        "year": 1997,
+        "kind": "film",
+        "note": {
+          "ja": "コラール「主よ、人の望みの喜びよ」のポップ編曲版が、主人公が寝室の鏡で自分に見とれる場面に流れる。",
+          "en": "A pop arrangement of the chorale \"Jesu, Joy of Man's Desiring\" plays as the protagonist admires himself in his bedroom mirror."
+        }
+      }
+    ]
+  },
+  "27227": {
+    "work": "Gayane Suite no. 1",
+    "media": [
+      {
+        "title": { "ja": "ワン・ツー・スリー", "en": "One, Two, Three" },
+        "year": 1961,
+        "kind": "film",
+        "note": {
+          "ja": "「剣の舞」が冒頭のタイトルをはじめ全編でコミカルな場面に繰り返し使われる。",
+          "en": "The \"Sabre Dance\" recurs throughout for comic effect, including under the opening titles."
+        }
+      },
+      {
+        "title": { "ja": "未来は今", "en": "The Hudsucker Proxy" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "「剣の舞」が、フラフープが飛ぶように売れていく場面のスピード感ある展開に流れる。",
+          "en": "The \"Sabre Dance\" drives the rapid-fire montage of the hula hoop selling like wildfire."
+        }
+      }
+    ]
+  },
+  "23512": {
+    "work": "Piano Sonata no. 11 in A major, K.331, \"Alla turca\"",
+    "media": [
+      {
+        "title": { "ja": "トゥルーマン・ショー", "en": "The Truman Show" },
+        "year": 1998,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章「トルコ行進曲」が、主人公が何も知らずに車で出勤する場面でカーラジオから流れる。",
+          "en": "The third movement, \"Rondo Alla Turca,\" plays on the car radio as Truman drives to work, unaware of his fabricated reality."
+        }
+      }
+    ]
+  },
+  "17217": {
+    "work": "Waltzes, op. 64",
+    "media": [
+      {
+        "title": { "ja": "ジキルとハイドとバッグス", "en": "Hyde and Hare" },
+        "year": 1955,
+        "kind": "film",
+        "note": {
+          "ja": "第1番「小犬のワルツ」を、ジキル博士の家に引き取られたバッグス・バニーがピアノで弾く場面に使う。",
+          "en": "No. 1, the \"Minute Waltz,\" is played on piano by Bugs Bunny after Dr. Jekyll takes him home as a pet."
+        }
+      }
+    ]
+  },
+  "28083": {
+    "work": "Messiah, HWV.56",
+    "media": [
+      {
+        "title": { "ja": "偉大な生涯の物語", "en": "The Greatest Story Ever Told" },
+        "year": 1965,
+        "kind": "film",
+        "note": {
+          "ja": "「ハレルヤ・コーラス」が、ラザロが蘇る場面と、映画の結末部分で流れる。",
+          "en": "The \"Hallelujah Chorus\" plays during the raising of Lazarus and again over the film's ending."
+        }
+      },
+      {
+        "title": { "ja": "ジム・キャリーはMr.ダマー", "en": "Dumb and Dumber" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "「ハレルヤ・コーラス」が、バスに乗り合わせた女性たちを見て主人公が空想にふける場面にコミカルに流れる。",
+          "en": "The \"Hallelujah Chorus\" plays comically as the protagonist fantasizes upon boarding a bus full of women."
+        }
+      }
+    ]
+  },
+  "17179": {
+    "work": "Fantaisie-impromptu in C sharp minor, op. 66",
+    "media": [
+      {
+        "title": { "ja": "美人劇場", "en": "Ziegfeld Girl" },
+        "year": 1941,
+        "kind": "film",
+        "note": {
+          "ja": "中間部の旋律を基にした歌「アイム・オールウェイズ・チェイシング・レインボウズ」を主人公が歌う場面がある。",
+          "en": "The protagonist sings \"I'm Always Chasing Rainbows,\" a song adapted directly from the piece's famous middle theme."
+        }
+      }
+    ]
+  },
+  "7640": {
+    "work": "Piano Concerto no. 1 in B flat minor, op. 23",
+    "media": [
+      {
+        "title": { "ja": "ハロルドとモード／少年は虹を渡る", "en": "Harold and Maude" },
+        "year": 1971,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章冒頭が、プールで泳ぐ母親をよそに主人公が偽の自殺を装う場面に、皮肉な対比として流れる。",
+          "en": "The opening of the first movement plays as Harold fakes another suicide attempt while his mother swims laps, an ironic contrast."
+        }
+      },
+      {
+        "title": { "ja": "偉大な嘘", "en": "The Great Lie" },
+        "year": 1941,
+        "kind": "film",
+        "note": {
+          "ja": "劇中のコンサートピアニストの十八番として演奏される。この役でアカデミー助演女優賞を得た女優は受賞スピーチでチャイコフスキーにも謝辞を述べた。",
+          "en": "It is the signature piece of the film's concert pianist character; the actress who won an Academy Award for the role famously thanked Tchaikovsky in her acceptance speech."
+        }
+      }
+    ]
   }
 }
