@@ -2122,5 +2122,112 @@
         }
       }
     ]
+  },
+  "51": {
+    "work": "Symphony no. 8 in C minor, WAB 108",
+    "media": [
+      {
+        "title": { "ja": "銀河英雄伝説", "en": "Legend of the Galactic Heroes" },
+        "year": 1988,
+        "kind": "anime",
+        "note": {
+          "ja": "第1楽章・第2楽章・第4楽章が、このシリーズの劇伴として複数のエピソードで使われている。",
+          "en": "The first, second, and fourth movements are used as background score across several episodes of this series."
+        }
+      }
+    ]
+  },
+  "43": {
+    "work": "Symphony no. 9 in D minor, WAB 109",
+    "media": [
+      {
+        "title": { "ja": "銀河英雄伝説", "en": "Legend of the Galactic Heroes" },
+        "year": 1988,
+        "kind": "anime",
+        "note": {
+          "ja": "第1楽章と第3楽章「アダージョ」が、このシリーズの劇伴として複数のエピソードで使われている。",
+          "en": "The first movement and the third movement, the Adagio, are used as background score across several episodes of this series."
+        }
+      }
+    ]
+  },
+  "3798": {
+    "work": "Danse macabre, tone poem, op. 40",
+    "media": [
+      {
+        "title": { "ja": "奇術探偵ジョナサン・クリーク", "en": "Jonathan Creek" },
+        "year": 1997,
+        "kind": "tv",
+        "note": {
+          "ja": "この曲を編曲した音楽が、英BBCのミステリードラマシリーズのテーマ曲として使われている。",
+          "en": "An arrangement of this piece serves as the theme music for this British BBC mystery drama series."
+        }
+      }
+    ]
+  },
+  "2076": {
+    "work": "Atmosphères",
+    "media": [
+      {
+        "title": { "ja": "2001年宇宙の旅", "en": "2001: A Space Odyssey" },
+        "year": 1968,
+        "kind": "film",
+        "note": {
+          "ja": "映画冒頭の暗転する場面と、ボーマン船長が光のトンネルを通過する「スターゲート」の場面の両方に、曲全体が使われる。",
+          "en": "Used in its entirety both over the film's opening black screen and during the psychedelic \"Star Gate\" sequence."
+        }
+      }
+    ]
+  },
+  "26812": {
+    "work": "Concierto de Aranjuez, for guitar and orchestra",
+    "media": [
+      {
+        "title": { "ja": "ブラス！", "en": "Brassed Off" },
+        "year": 1996,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章「アダージョ」のフリューゲルホルン独奏編曲版が、金管バンドのコンクールを描くこの映画の感情的な山場となる。",
+          "en": "A flugelhorn-solo arrangement of the second movement, the Adagio, forms the emotional centerpiece of this brass-band-competition film."
+        }
+      },
+      {
+        "title": { "ja": "ロボコップ", "en": "RoboCop" },
+        "year": 2014,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章「アダージョ」のギター版を、新たに取り付けられたロボット義手の動作確認をする主人公が弾く場面に使う。",
+          "en": "A guitar version of the second movement, the Adagio, is played by the protagonist while testing his newly installed robotic hands."
+        }
+      }
+    ]
+  },
+  "1552": {
+    "work": "Le Poème de l'extase, op. 54",
+    "media": [
+      {
+        "title": { "ja": "バーフライ", "en": "Barfly" },
+        "year": 1987,
+        "kind": "film",
+        "note": {
+          "ja": "ラジオのアナウンサーが曲名を読み上げながらこの曲がラジオから流れる場面がある。",
+          "en": "The piece plays as a radio cue, with the announcer explicitly naming it on air."
+        }
+      }
+    ]
+  },
+  "14629": {
+    "work": "Méditation, for violin and orchestra",
+    "media": [
+      {
+        "title": { "ja": "トランスアメリカ", "en": "Transamerica" },
+        "year": 2005,
+        "kind": "film",
+        "note": {
+          "ja": "映画冒頭、主人公が発声練習のビデオを見ながら声を変える練習をする場面に流れる。歌劇「タイス」における娼婦タイスの魂の変容というテーマと意図的に重ねられている。",
+          "en": "Plays in the opening scene as the protagonist practices changing her voice with an instructional video, deliberately paralleling the opera's theme of the courtesan Thaïs's spiritual transformation."
+        }
+      }
+    ]
   }
 }
