@@ -2452,5 +2452,158 @@
         }
       }
     ]
+  },
+  "26900": {
+    "work": "Asturias, for guitar",
+    "media": [
+      {
+        "title": { "ja": "ミラーズ", "en": "Mirrors" },
+        "year": 2008,
+        "kind": "film",
+        "note": {
+          "ja": "この曲を暗く編曲したオーケストラ版が、映画のメインテーマとして全編で使われる。",
+          "en": "A dark orchestral adaptation of the piece serves as the film's main theme throughout."
+        }
+      }
+    ]
+  },
+  "3436": {
+    "work": "Libertango, tango for chamber ensemble",
+    "media": [
+      {
+        "title": { "ja": "フランティック", "en": "Frantic" },
+        "year": 1988,
+        "kind": "film",
+        "note": {
+          "ja": "グレース・ジョーンズによるレゲエ・タンゴ編曲版「アイヴ・シーン・ザット・フェイス・ビフォー」が、パリのナイトクラブの場面に流れる。",
+          "en": "Grace Jones's reggae-tango arrangement, \"I've Seen That Face Before (Libertango),\" plays in a Paris nightclub scene."
+        }
+      }
+    ]
+  },
+  "4612": {
+    "work": "Requiem, op. 48",
+    "media": [
+      {
+        "title": { "ja": "シン・レッド・ライン", "en": "The Thin Red Line" },
+        "year": 1998,
+        "kind": "film",
+        "note": {
+          "ja": "「イン・パラディスム」が、戦火が訪れる前の島民たちの平和な暮らしを描く場面に流れる。",
+          "en": "\"In Paradisum\" plays over scenes of the islanders' peaceful life before the war arrives."
+        }
+      },
+      {
+        "title": { "ja": "シビル・ウォー／キャプテン・アメリカ", "en": "Captain America: Civil War" },
+        "year": 2016,
+        "kind": "film",
+        "note": {
+          "ja": "「ピエ・イエズ」の少年合唱編曲版が、ペギー・カーターの葬儀の場面に流れる。",
+          "en": "A boy-choir arrangement of \"Pie Jesu\" plays during Peggy Carter's funeral scene."
+        }
+      }
+    ]
+  },
+  "23021": {
+    "work": "Coppélia",
+    "media": [
+      {
+        "title": { "ja": "プリンセスチュチュ", "en": "Princess Tutu" },
+        "year": 2002,
+        "kind": "anime",
+        "note": {
+          "ja": "第2幕の「自動人形の踊り」が、人形使いに操られるキャラクター、エーデルの登場音楽（オルゴール）として繰り返し使われる。作品中盤にはこのバレエ自体を題材とするエピソードもある。",
+          "en": "The Act II \"Dance of the Automatons\" recurs as the music-box theme for Edel, a puppet character; the series also has an episode directly adapting the ballet's own plot."
+        }
+      }
+    ]
+  },
+  "2797": {
+    "work": "Fantasia on a Theme by Thomas Tallis, for 2 string orchestras",
+    "media": [
+      {
+        "title": { "ja": "マスター・アンド・コマンダー", "en": "Master and Commander: The Far Side of the World" },
+        "year": 2003,
+        "kind": "film",
+        "note": {
+          "ja": "嵐の場面で若い水夫が海に投げ出され、乗組員がマストを切り離すかどうか決断を迫られる場面に流れる。",
+          "en": "Plays during a storm sequence in which a young seaman is swept overboard and the crew must decide whether to cut away the mast to save him."
+        }
+      }
+    ]
+  },
+  "1480": {
+    "work": "Symphony no. 3, op. 36, \"Symphony of Sorrowful Songs\"",
+    "media": [
+      {
+        "title": { "ja": "フィアレス/恐怖の向こう側", "en": "Fearless" },
+        "year": 1993,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章が、飛行機事故の生存者が回復に向かう映画終盤の約10分間に流れる。",
+          "en": "The first movement plays during the final ten minutes of the film, as a plane-crash survivor moves toward recovery."
+        }
+      },
+      {
+        "title": { "ja": "ザ・クラウン", "en": "The Crown" },
+        "year": 2017,
+        "kind": "tv",
+        "note": {
+          "ja": "第3楽章が、シーズン2第7話の写真撮影の場面に流れる。",
+          "en": "The third movement plays during a photo-shoot scene in season 2, episode 7."
+        }
+      }
+    ]
+  },
+  "25148": {
+    "work": "Threnody 'to the Victims of Hiroshima', for 52 strings",
+    "media": [
+      {
+        "title": { "ja": "トゥモロー・ワールド", "en": "Children of Men" },
+        "year": 2006,
+        "kind": "film",
+        "note": {
+          "ja": "終盤、難民キャンプが襲撃される場面に流れる。",
+          "en": "Plays during the assault on the refugee camp in the film's final act."
+        }
+      },
+      {
+        "title": { "ja": "ツイン・ピークス：The Return", "en": "Twin Peaks: The Return" },
+        "year": 2017,
+        "kind": "tv",
+        "note": {
+          "ja": "パート8で、1945年のトリニティ核実験を描く白黒の場面に流れる。",
+          "en": "Plays during the black-and-white depiction of the 1945 Trinity atomic bomb test in Part 8."
+        }
+      }
+    ]
+  },
+  "15232": {
+    "work": "Die Dreigroschenoper",
+    "media": [
+      {
+        "title": { "ja": "クイズ・ショウ", "en": "Quiz Show" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "「マック・ザ・ナイフ」のボビー・ダーリンによる録音が、映画冒頭の場面などに使われる。",
+          "en": "Bobby Darin's recording of \"Mack the Knife\" is used in the film's opening scene and elsewhere."
+        }
+      }
+    ]
+  },
+  "1733": {
+    "work": "Bridge on the River Kwai",
+    "media": [
+      {
+        "title": { "ja": "ブレックファスト・クラブ", "en": "The Breakfast Club" },
+        "year": 1985,
+        "kind": "film",
+        "note": {
+          "ja": "「クワイ河マーチ」を、居残り登校中の5人の主人公たちが校長の入室時に一斉に口笛で吹く、有名な場面がある。",
+          "en": "In an iconic scene, all five main characters whistle the \"Colonel Bogey March\" together as the principal walks into the room during Saturday detention."
+        }
+      }
+    ]
   }
 }
