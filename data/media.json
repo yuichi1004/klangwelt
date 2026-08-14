@@ -167,16 +167,16 @@
       }
     ]
   },
-  "3999": {
-    "work": "Jazz Suite no. 2",
+  "4058": {
+    "work": "The Second Waltz, for orchestra",
     "media": [
       {
         "title": { "ja": "アイズ ワイド シャット", "en": "Eyes Wide Shut" },
         "year": 1999,
         "kind": "film",
         "note": {
-          "ja": "「ワルツ第2番」が映画の冒頭に流れ、キューブリック監督の遺作の主題音楽となっている。",
-          "en": "\"Waltz No. 2\" opens the film and serves as the main theme of Kubrick's final work."
+          "ja": "映画の冒頭に流れ、キューブリック監督の遺作の主題音楽となっている。キューブリック自身は出版上の誤りにより「ジャズ組曲第2番」の曲として紹介していたが、実際は「バラエティ管弦楽のための組曲」の一曲である。",
+          "en": "Opens the film and serves as the main theme of Kubrick's final work. Kubrick himself credited it as being from \"Jazz Suite No. 2\" due to a publishing error, but the piece actually comes from the \"Suite for Variety Orchestra.\""
         }
       }
     ]
@@ -1961,6 +1961,71 @@
         "note": {
           "ja": "第二次世界大戦下のイングランドの村で開かれる教会の演奏会の場面に、組曲全体が使われる。",
           "en": "The suite is used in a wartime concert scene at an English village church."
+        }
+      }
+    ]
+  },
+  "14658": {
+    "work": "Music for Strings, Percussion and Celesta, BB114, Sz.106",
+    "media": [
+      {
+        "title": { "ja": "シャイニング", "en": "The Shining" },
+        "year": 1980,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章「アダージョ」が、生垣の迷路の場面や少年が237号室に引き寄せられる場面など、不穏な超常現象の場面に繰り返し使われる。",
+          "en": "The third movement, the Adagio, recurs across several unsettling scenes, including the hedge-maze sequence and the boy's being drawn toward Room 237."
+        }
+      }
+    ]
+  },
+  "7278": {
+    "work": "Symphony no. 2 in C minor, \"Resurrection\"",
+    "media": [
+      {
+        "title": { "ja": "マエストロ：その音楽と愛と", "en": "Maestro" },
+        "year": 2023,
+        "kind": "film",
+        "note": {
+          "ja": "第5楽章の終結部が、イーリー大聖堂で実際に行われたバーンスタインの1973年の演奏会を再現する場面に使われる。",
+          "en": "The finale of the fifth movement plays during a recreation of Bernstein's real 1973 performance at Ely Cathedral."
+        }
+      }
+    ]
+  },
+  "21510": {
+    "work": "Piano Concerto no. 3 in C major, op. 26",
+    "media": [
+      {
+        "title": { "ja": "コンペティション", "en": "The Competition" },
+        "year": 1980,
+        "kind": "film",
+        "note": {
+          "ja": "ピアノコンクールを描くこの映画で、ヒロインが決勝の演目として演奏する。",
+          "en": "The heroine performs it as her final-round piece in the piano competition at the center of the film."
+        }
+      }
+    ]
+  },
+  "22111": {
+    "work": "Rhapsody on a Theme by Paganini, op. 43",
+    "media": [
+      {
+        "title": { "ja": "ある日どこかで", "en": "Somewhere in Time" },
+        "year": 1980,
+        "kind": "film",
+        "note": {
+          "ja": "第18変奏が映画のロマンティックな主題として全編で使われ、サウンドトラックはベストセラーとなった。",
+          "en": "The 18th variation serves as the film's romantic signature theme throughout, and the soundtrack became a bestseller."
+        }
+      },
+      {
+        "title": { "ja": "恋はデジャ・ブ", "en": "Groundhog Day" },
+        "year": 1993,
+        "kind": "film",
+        "note": {
+          "ja": "第18変奏を主人公がピアノで練習して弾けるようになり、それが恋人への愛の告白の場面のテーマ曲になる。",
+          "en": "The protagonist practices and learns to play the 18th variation on piano, and it becomes the love theme when he declares his feelings."
         }
       }
     ]
