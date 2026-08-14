@@ -734,5 +734,172 @@
         }
       }
     ]
+  },
+  "23610": {
+    "work": "Serenade in G major, K.525, \"Eine Kleine Nachtmusik\"",
+    "media": [
+      {
+        "title": { "ja": "アマデウス", "en": "Amadeus" },
+        "year": 1984,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章の主題が、モーツァルトの天賦の才を象徴する動機として繰り返し使われる。",
+          "en": "The first movement's theme recurs throughout as a motif symbolizing Mozart's effortless genius."
+        }
+      },
+      {
+        "title": { "ja": "エース・ベンチュラ", "en": "Ace Ventura: Pet Detective" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章冒頭が、上流階級のパーティー会場の場面で流れ、洗練された雰囲気を演出する。",
+          "en": "The opening bars of the first movement play during an upscale gala scene to establish a sophisticated atmosphere."
+        }
+      }
+    ]
+  },
+  "28102": {
+    "work": "The Four Seasons",
+    "media": [
+      {
+        "title": { "ja": "ザ・ソプラノズ 哀愁のマフィア", "en": "The Sopranos" },
+        "year": 2002,
+        "kind": "tv",
+        "note": {
+          "ja": "シーズン4最終話（第13話）で「春」第1楽章が、穏やかな表面の下に緊張感を漂わせる場面に使われる。",
+          "en": "The first movement of \"Spring\" is used in the season 4 finale to underscore tension beneath a calm surface."
+        }
+      }
+    ]
+  },
+  "17109": {
+    "work": "Nocturnes, op. 9",
+    "media": [
+      {
+        "title": { "ja": "127時間", "en": "127 Hours" },
+        "year": 2010,
+        "kind": "film",
+        "note": {
+          "ja": "第2番 変ホ長調が、岩に腕を挟まれた主人公アーロンが過去を回想する場面で流れる。",
+          "en": "No. 2 in E-flat major plays as Aron, his arm trapped by a boulder, reminisces about his past."
+        }
+      },
+      {
+        "title": { "ja": "ウェイキング・ライフ", "en": "Waking Life" },
+        "year": 2001,
+        "kind": "film",
+        "note": {
+          "ja": "第2番 変ホ長調が、バーでの哲学的な対話シーンのバックに流れる。",
+          "en": "No. 2 in E-flat major plays in the background of a bar scene during a philosophical conversation."
+        }
+      }
+    ]
+  },
+  "6547": {
+    "work": "Carmen",
+    "media": [
+      {
+        "title": { "ja": "カールじいさんの空飛ぶ家", "en": "Up" },
+        "year": 2009,
+        "kind": "film",
+        "note": {
+          "ja": "第1幕の「ハバネラ」（恋は野の鳥）の器楽版が、気難しい老人カールの日課の場面にコミカルに流れる。",
+          "en": "An instrumental version of the Habanera (\"L'amour est un oiseau rebelle\") from Act 1 plays over grumpy widower Carl's daily routine."
+        }
+      }
+    ]
+  },
+  "7109": {
+    "work": "The Planets, suite for orchestra and female chorus, op. 32, H.125",
+    "media": [
+      {
+        "title": { "ja": "ブルーイ", "en": "Bluey" },
+        "year": 2020,
+        "kind": "tv",
+        "note": {
+          "ja": "「木星」が、エピソード「ねむいじかん」（原題 Sleepytime）で、惑星をめぐる夢のシーンに大きく引用される。",
+          "en": "\"Jupiter\" is extensively quoted in the episode \"Sleepytime,\" during a dream sequence set among the planets."
+        }
+      }
+    ]
+  },
+  "23611": {
+    "work": "Symphony no. 40 in G minor, K.550",
+    "media": [
+      {
+        "title": { "ja": "007 リビング・デイライツ", "en": "The Living Daylights" },
+        "year": 1987,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章が、ブラチスラヴァ音楽院での演奏・亡命の場面で流れる。",
+          "en": "The first movement is heard being performed at the Bratislava Conservatoire during a defection sequence."
+        }
+      }
+    ]
+  },
+  "16291": {
+    "work": "Bagatelle in A minor, WoO 59, \"Für Elise\"",
+    "media": [
+      {
+        "title": { "ja": "ローズマリーの赤ちゃん", "en": "Rosemary's Baby" },
+        "year": 1968,
+        "kind": "film",
+        "note": {
+          "ja": "隣人が繰り返し練習する曲として全編を通じて聴こえ、演奏が徐々に上達していくことで時間の経過を示す。",
+          "en": "Heard throughout as an unseen neighbor repeatedly practices it on piano, the improving performance marking the passage of time."
+        }
+      },
+      {
+        "title": { "ja": "がっこうの怪談", "en": "Ghost Stories" },
+        "year": 2000,
+        "kind": "anime",
+        "note": {
+          "ja": "「ピアノの幽霊」のエピソードで、この曲を通しで4回聴くと死ぬという都市伝説が物語の軸になる。",
+          "en": "In the \"Piano Ghost\" episode, the piece itself drives the plot via a legend that hearing it played in full four times brings death."
+        }
+      }
+    ]
+  },
+  "22368": {
+    "work": "Symphony no. 9 in E minor, op. 95, \"From the New World\"",
+    "media": [
+      {
+        "title": { "ja": "新世界より", "en": "From the New World" },
+        "year": 2012,
+        "kind": "anime",
+        "note": {
+          "ja": "第2楽章「家路」の旋律が、毎夕方に町の放送で流れ子供たちの帰宅を告げる場面で繰り返し使われる。作品タイトル自体もこの曲の副題に由来する。",
+          "en": "The second movement's \"Goin' Home\" theme recurs, played over town loudspeakers each evening to call children home; the series title itself is drawn from the symphony's subtitle."
+        }
+      }
+    ]
+  },
+  "16375": {
+    "work": "Piano Sonata no. 14 in C sharp minor, op. 27 no. 2, \"Moonlight\"",
+    "media": [
+      {
+        "title": { "ja": "不滅の恋 ベートーヴェン", "en": "Immortal Beloved" },
+        "year": 1994,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章が、伯爵令嬢の家で新しいピアノフォルテを試すベートーヴェンが弾き始める場面で流れる。",
+          "en": "The first movement plays as Beethoven, testing a new pianoforte at a countess's home, begins to play it privately."
+        }
+      }
+    ]
+  },
+  "7680": {
+    "work": "Hungarian Dances, WoO 1",
+    "media": [
+      {
+        "title": { "ja": "独裁者", "en": "The Great Dictator" },
+        "year": 1940,
+        "kind": "film",
+        "note": {
+          "ja": "第5番の旋律に合わせ、床屋を演じるチャップリンが客のひげを剃る仕草を振り付けた場面で使われる。",
+          "en": "No. 5 accompanies the famous barbershop scene, where Chaplin's barber shaves a customer in movements choreographed to the music."
+        }
+      }
+    ]
   }
 }
