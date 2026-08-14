@@ -1114,5 +1114,153 @@
         }
       }
     ]
+  },
+  "20766": {
+    "work": "Symphony no. 8 in B minor, D.759, \"Unfinished\"",
+    "media": [
+      {
+        "title": { "ja": "マイノリティ・リポート", "en": "Minority Report" },
+        "year": 2002,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章が、主人公が自分こそが予知された殺人者だと悟り、事態を打開しようとする場面に流れる。",
+          "en": "The first movement plays as Anderton realizes he is the murderer shown in a precog vision and works to change his fate."
+        }
+      }
+    ]
+  },
+  "17119": {
+    "work": "Polonaise no. 6 in A flat major, op. 53, \"Heroic\"",
+    "media": [
+      {
+        "title": { "ja": "楽聖ショパン", "en": "A Song to Remember" },
+        "year": 1945,
+        "kind": "film",
+        "note": {
+          "ja": "ショパンの伝記映画。この曲が演奏会の場面や巡演のモンタージュに繰り返し流れる主題として使われる。",
+          "en": "In this Chopin biopic, the piece recurs as a leitmotif in concert scenes and touring montages."
+        }
+      }
+    ]
+  },
+  "22248": {
+    "work": "Cello Concerto in B minor, op. 104",
+    "media": [
+      {
+        "title": { "ja": "イーストウィックの魔女たち", "en": "The Witches of Eastwick" },
+        "year": 1987,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章を、ヒロインの一人がチェロで演奏し、悪魔的な魅力を持つ男がピアノで伴奏する場面に使う。",
+          "en": "One of the heroines plays the first movement on cello while a devilishly charming man accompanies her on piano."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ 最終楽章 前編", "en": "Nodame Cantabile: The Final Score, Part I" },
+        "year": 2009,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章が、オーケストラへの入団オーディション曲として演奏される。",
+          "en": "The first movement is performed as an audition piece for a place in an orchestra."
+        }
+      }
+    ]
+  },
+  "13215": {
+    "work": "Prélude à l'après-midi d'un faune, L.86",
+    "media": [
+      {
+        "title": { "ja": "ジェニーの肖像", "en": "Portrait of Jennie" },
+        "year": 1948,
+        "kind": "film",
+        "note": {
+          "ja": "謎めいたヒロイン、ジェニーに結びつく反復主題として全編で使われる。",
+          "en": "Used throughout as a recurring motif associated with the film's mysterious title character, Jennie."
+        }
+      },
+      {
+        "title": { "ja": "ネオ・ファンタジア", "en": "Allegro non troppo" },
+        "year": 1976,
+        "kind": "film",
+        "note": {
+          "ja": "オムニバスアニメーションの第1話で、若さを取り戻そうとする年老いたサテュロスを描く場面に流れる。",
+          "en": "Scores the first segment of this animated anthology film, depicting an aging satyr comically trying to recapture his youth."
+        }
+      }
+    ]
+  },
+  "7616": {
+    "work": "Violin Concerto in D major, op. 35",
+    "media": [
+      {
+        "title": { "ja": "オーケストラ！", "en": "The Concert" },
+        "year": 2009,
+        "kind": "film",
+        "note": {
+          "ja": "パリで再結成したオーケストラが演奏する、映画のクライマックスを飾る演目として使われる。",
+          "en": "Performed by the reunited orchestra in Paris as the film's climactic set piece."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2007,
+        "kind": "anime",
+        "note": {
+          "ja": "指揮コンクールの課題曲として、主人公の一人が指揮する場面に使われる。",
+          "en": "Conducted by one of the main characters as the set piece for a conducting competition."
+        }
+      }
+    ]
+  },
+  "2687": {
+    "work": "Aida",
+    "media": [
+      {
+        "title": { "ja": "ブレス しあわせの呼吸", "en": "Breathe" },
+        "year": 2017,
+        "kind": "film",
+        "note": {
+          "ja": "「凱旋行進曲」が、特注の車椅子が完成し家族で喜び合う場面に流れる。",
+          "en": "The \"Triumphal March\" plays over the joyful scene of a custom wheelchair's successful completion and a family gathering."
+        }
+      }
+    ]
+  },
+  "15772": {
+    "work": "Götterdämmerung, WWV 86d",
+    "media": [
+      {
+        "title": { "ja": "エクスカリバー", "en": "Excalibur" },
+        "year": 1981,
+        "kind": "film",
+        "note": {
+          "ja": "「ジークフリートの葬送行進曲」が、瀕死のアーサー王が船でアヴァロンへ運ばれる場面など、剣にまつわる主題として使われる。",
+          "en": "\"Siegfried's Funeral March\" is used as the film's signature theme for the sword, including as the dying Arthur is borne away to Avalon."
+        }
+      }
+    ]
+  },
+  "16529": {
+    "work": "Madama Butterfly",
+    "media": [
+      {
+        "title": { "ja": "危険な情事", "en": "Fatal Attraction" },
+        "year": 1987,
+        "kind": "film",
+        "note": {
+          "ja": "「ある晴れた日に」が劇中に何度も織り込まれる。",
+          "en": "\"Un bel dì vedremo\" is woven into the film at several points."
+        }
+      },
+      {
+        "title": { "ja": "ボヘミアン・ラプソディ", "en": "Bohemian Rhapsody" },
+        "year": 2018,
+        "kind": "film",
+        "note": {
+          "ja": "「ある晴れた日に」が、フレディ・マーキュリーがメアリーに求婚する場面に流れ、後の破局を暗示する。",
+          "en": "\"Un bel dì vedremo\" plays as Freddie Mercury proposes to Mary Austin, an ironic foreshadowing of their eventual breakup."
+        }
+      }
+    ]
   }
 }

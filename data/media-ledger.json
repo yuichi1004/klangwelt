@@ -358,37 +358,40 @@
     "title": "Symphony no. 8 in B minor, D.759, \"Unfinished\"",
     "composer": "Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "25919": {
     "title": "Symphony no. 94 in G, Hob.I:94, \"Surprise\"",
     "composer": "Haydn",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified film/anime/TV usage found in 2026-08 research"
   },
   "17119": {
     "title": "Polonaise no. 6 in A flat major, op. 53, \"Heroic\"",
     "composer": "Chopin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "9664": {
     "title": "Brandenburg Concerto no. 2 in F major, BWV.1047",
     "composer": "Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "only non-narrative TV-theme usages found (Voyager Golden Record track order, PBS Great Performances, Firing Line) — does not meet the popular-recognition bar"
   },
   "22248": {
     "title": "Cello Concerto in B minor, op. 104",
     "composer": "Dvořák",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "6431": {
     "title": "Music for the Royal Fireworks in D major, HWV.351",
     "composer": "Handel",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified narrative film/anime/TV usage found in 2026-08 research"
   },
   "23315": {
     "title": "Piano Concerto no. 21 in C major, K.467",
@@ -400,37 +403,38 @@
     "title": "Prélude à l'après-midi d'un faune, L.86",
     "composer": "Debussy",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7744": {
     "title": "Symphony no. 1 in C minor, op. 68",
     "composer": "Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage; a widely-repeated claim (used in The Living Daylights) checked and confirmed FALSE against the film's actual soundtrack"
   },
   "7616": {
     "title": "Violin Concerto in D major, op. 35",
     "composer": "Tchaikovsky",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "2687": {
     "title": "Aida",
     "composer": "Verdi",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15772": {
     "title": "Götterdämmerung, WWV 86d",
     "composer": "Wagner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16529": {
     "title": "Madama Butterfly",
     "composer": "Puccini",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "5040": {
     "title": "Pavane pour une infante défunte",
