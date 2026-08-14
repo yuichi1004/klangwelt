@@ -1284,73 +1284,76 @@
     "title": "El amor brujo",
     "composer": "Falla",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "the only usage found (El amor brujo, 1986) is a direct film adaptation/performance of the piece itself, not usage within an unrelated work"
   },
   "2300": {
     "title": "Faust",
     "composer": "Gounod",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23022": {
     "title": "Lakmé",
     "composer": "Delibes",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "20225": {
     "title": "Les Indes galantes",
     "composer": "Rameau",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified needle-drop usage in an unrelated film/TV/anime found; a widely-repeated claim (Marie Antoinette, 2006) was checked and is false — that film uses a different Rameau piece"
   },
   "10498": {
     "title": "Lucia di Lammermoor",
     "composer": "Donizetti",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16843": {
     "title": "Maple Leaf Rag",
     "composer": "Joplin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "4432": {
     "title": "Norma",
     "composer": "Bellini",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "28116": {
     "title": "Orfeo ed Euridice",
     "composer": "Gluck",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "3174": {
     "title": "Orfeo, SV318",
     "composer": "Monteverdi",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found in any unrelated film/anime/TV production; all verifiable media hits are direct filmed performances of the opera itself"
   },
   "23059": {
     "title": "Pagliacci",
     "composer": "Leoncavallo",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15507": {
     "title": "West Side Story",
     "composer": "Bernstein",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "2156": {
     "title": "Adagio, for violin, strings and organ in G minor, T. Mi 26",
     "composer": "Albinoni",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "26900": {
     "title": "Asturias, for guitar",

@@ -2308,5 +2308,149 @@
         }
       }
     ]
+  },
+  "2300": {
+    "work": "Faust",
+    "media": [
+      {
+        "title": { "ja": "タンタンの冒険「カスタフィオーレ夫人の宝石」", "en": "The Adventures of Tintin: \"The Castafiore Emerald\"" },
+        "year": 1992,
+        "kind": "anime",
+        "note": {
+          "ja": "「宝石の歌」が、オペラ歌手カスタフィオーレ夫人の十八番として作品全体で繰り返し歌われる名物ギャグになっている。",
+          "en": "The \"Jewel Song\" is opera singer Bianca Castafiore's signature aria, a running gag she bursts into throughout the franchise."
+        }
+      }
+    ]
+  },
+  "23022": {
+    "work": "Lakmé",
+    "media": [
+      {
+        "title": { "ja": "トゥルー・ロマンス", "en": "True Romance" },
+        "year": 1993,
+        "kind": "film",
+        "note": {
+          "ja": "「花の二重唱」が、ダイナーでの緊迫した対決の場面に流れ、曲の優美さと場面の暴力性が対照をなす。",
+          "en": "The \"Flower Duet\" plays under a tense diner confrontation, its serenity contrasting with the scene's violence."
+        }
+      }
+    ]
+  },
+  "10498": {
+    "work": "Lucia di Lammermoor",
+    "media": [
+      {
+        "title": { "ja": "ディパーテッド", "en": "The Departed" },
+        "year": 2006,
+        "kind": "film",
+        "note": {
+          "ja": "第2幕の六重唱「わが心の光」が、悪役が観劇する場面や、彼の携帯電話の着信音としても繰り返し使われる。",
+          "en": "The Act 2 sextet \"Chi mi frena\" recurs — heard at an opera performance the villain attends, and later as his phone's ringtone."
+        }
+      },
+      {
+        "title": { "ja": "フィフス・エレメント", "en": "The Fifth Element" },
+        "year": 1997,
+        "kind": "film",
+        "note": {
+          "ja": "異星人ディーヴァが歌う「ディーヴァの歌」が、第3幕の狂乱の場のアリア「甘い調べ」の編曲から始まり、作曲家オリジナルの電子音楽へと移行する。",
+          "en": "The alien Diva's performance opens with an arrangement of the Act 3 mad scene aria \"Il dolce suono\" before transitioning into the film composer's original electronic music."
+        }
+      }
+    ]
+  },
+  "16843": {
+    "work": "Maple Leaf Rag",
+    "media": [
+      {
+        "title": { "ja": "民衆の敵", "en": "The Public Enemy" },
+        "year": 1931,
+        "kind": "film",
+        "note": {
+          "ja": "社交クラブの場面で、ピアノの生演奏として背景に流れる。",
+          "en": "Plays as live background piano music in a social-club scene."
+        }
+      }
+    ]
+  },
+  "4432": {
+    "work": "Norma",
+    "media": [
+      {
+        "title": { "ja": "2046", "en": "2046" },
+        "year": 2004,
+        "kind": "film",
+        "note": {
+          "ja": "「清らかな女神よ」を、オペラ愛好家のホテル経営者が自室で大音量で流し、娘との関係の緊張を象徴する。",
+          "en": "\"Casta Diva\" is played loudly by the opera-loving hotel owner in his room, symbolizing the tension in his relationship with his daughter."
+        }
+      },
+      {
+        "title": { "ja": "フローズン・タイム", "en": "Cashback" },
+        "year": 2006,
+        "kind": "film",
+        "note": {
+          "ja": "「清らかな女神よ」が、恋人と別れる冒頭の場面をはじめ、繰り返し流れる。",
+          "en": "\"Casta Diva\" recurs throughout the film, including in the opening breakup scene."
+        }
+      }
+    ]
+  },
+  "28116": {
+    "work": "Orfeo ed Euridice",
+    "media": [
+      {
+        "title": { "ja": "スラムドッグ$ミリオネア", "en": "Slumdog Millionaire" },
+        "year": 2008,
+        "kind": "film",
+        "note": {
+          "ja": "「エウリディーチェを失って」が、タージ・マハルで上演されるオペラを少年ジャマールが客席の裏から眺める場面に流れる。",
+          "en": "\"Che farò senza Euridice?\" plays as young Jamal watches a staged opera performance at the Taj Mahal from behind the crowd."
+        }
+      }
+    ]
+  },
+  "23059": {
+    "work": "Pagliacci",
+    "media": [
+      {
+        "title": { "ja": "アンタッチャブル", "en": "The Untouchables" },
+        "year": 1987,
+        "kind": "film",
+        "note": {
+          "ja": "「衣装をつけろ」を、アル・カポネが観劇中に涙を流しながら聴く場面があり、直後に部下から殺しの報告を受けて笑いに転じる。",
+          "en": "Al Capone tearfully watches this aria at the opera, then bursts into laughter moments later when told of a killing."
+        }
+      }
+    ]
+  },
+  "15507": {
+    "work": "West Side Story",
+    "media": [
+      {
+        "title": { "ja": "glee/グリー", "en": "Glee" },
+        "year": 2009,
+        "kind": "tv",
+        "note": {
+          "ja": "「トゥナイト」が、グリークラブのソロを巡る争いの中で歌われる場面に使われる。ミュージカル自体の劇中上演ではなく、別の物語の中で歌として使われる例。",
+          "en": "\"Tonight\" is performed amid a dispute over a solo in the glee club — a case of the song deployed within a different story, not a staging of the musical itself."
+        }
+      }
+    ]
+  },
+  "2156": {
+    "work": "Adagio, for violin, strings and organ in G minor, T. Mi 26",
+    "media": [
+      {
+        "title": { "ja": "誓い", "en": "Gallipoli" },
+        "year": 1981,
+        "kind": "film",
+        "note": {
+          "ja": "オーストラリア兵アーチーが機関銃の砲火の中へ突撃する映画の結末の場面に流れる。",
+          "en": "Plays over the film's ending as the young Australian soldier Archy charges into machine-gun fire."
+        }
+      }
+    ]
   }
 }
