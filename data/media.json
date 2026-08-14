@@ -2229,5 +2229,84 @@
         }
       }
     ]
+  },
+  "16907": {
+    "work": "Turangalila-symphonie, for orchestra",
+    "media": [
+      {
+        "title": { "ja": "モーツァルト・イン・ザ・ジャングル", "en": "Mozart in the Jungle" },
+        "year": 2016,
+        "kind": "tv",
+        "note": {
+          "ja": "劇中のオーケストラが、リッカーズ島刑務所の受刑者たちのために演奏する演目として使われる。",
+          "en": "The show's fictional orchestra performs it for inmates at Rikers Island jail."
+        }
+      }
+    ]
+  },
+  "19303": {
+    "work": "Young Person's Guide to the Orchestra, op. 34",
+    "media": [
+      {
+        "title": { "ja": "ムーンライズ・キングダム", "en": "Moonrise Kingdom" },
+        "year": 2012,
+        "kind": "film",
+        "note": {
+          "ja": "少年が各楽器を解説するレコードとともに映画冒頭全体に流れ、ボーイスカウトと管弦楽をめぐる作品全体のモチーフを象徴する。",
+          "en": "Plays throughout the film's opening, complete with the boy narrator naming each instrument, symbolizing the film's recurring motif linking scouting and orchestral instrumentation."
+        }
+      }
+    ]
+  },
+  "19537": {
+    "work": "Appalachian Spring",
+    "media": [
+      {
+        "title": { "ja": "ラストゲーム", "en": "He Got Game" },
+        "year": 1998,
+        "kind": "film",
+        "note": {
+          "ja": "複数の楽章の実際の録音が、父と息子の和解を描く場面に流れる。",
+          "en": "Actual recordings of several movements underscore the film's father-son reconciliation arc."
+        }
+      }
+    ]
+  },
+  "19212": {
+    "work": "Der Freischütz, op. 77",
+    "media": [
+      {
+        "title": { "ja": "ヘルシング OVA IV", "en": "Hellsing Ultimate OVA IV" },
+        "year": 2008,
+        "kind": "anime",
+        "note": {
+          "ja": "空母上でのアーカードとリップ・ヴァン・ウィンクルの戦いの場面で、この歌劇の旋律が繰り返し使われ、キャラクターとオペラの筋書きが重ねられる。リップは劇中でこの歌劇のアリアを歌う。",
+          "en": "Themes from the opera recur during Alucard's battle with Rip Van Winkle aboard an aircraft carrier, drawing explicit parallels between the characters and the opera's plot; Rip sings an aria from it."
+        }
+      }
+    ]
+  },
+  "24630": {
+    "work": "Dido and Aeneas, Z.626",
+    "media": [
+      {
+        "title": { "ja": "ガーディアンズ・オブ・ギャラクシー：VOLUME 3", "en": "Guardians of the Galaxy Vol. 3" },
+        "year": 2023,
+        "kind": "film",
+        "note": {
+          "ja": "「ディドの嘆き」が、悪役ハイ・エボリューショナリーの主題曲として使われ、幼いロケットに理想郷から排除されると冷たく告げる場面に流れる。",
+          "en": "\"Dido's Lament\" serves as the villain the High Evolutionary's musical signature, playing as he coldly tells young Rocket he was never meant to be part of his \"perfect\" society."
+        }
+      },
+      {
+        "title": { "ja": "乾いた花", "en": "Pale Flower" },
+        "year": 1964,
+        "kind": "film",
+        "note": {
+          "ja": "「ディドの嘆き」が、主人公が対立組織の幹部を刺殺するクライマックスの、台詞のないスローモーションの場面に流れる。",
+          "en": "\"Dido's Lament\" scores the wordless, slow-motion climax in which the protagonist stabs a rival gang boss."
+        }
+      }
+    ]
   }
 }
