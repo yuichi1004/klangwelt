@@ -2029,5 +2029,98 @@
         }
       }
     ]
+  },
+  "24335": {
+    "work": "Mephisto Waltz no. 1, S.514",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2007,
+        "kind": "anime",
+        "note": {
+          "ja": "第13話「卒業」で、解散を控えたSオケの最後の演奏会で演奏される演目の一つとして使われる。",
+          "en": "Performed as one of the pieces at the disbanding student orchestra's farewell concert in episode 13, \"Graduation.\""
+        }
+      }
+    ]
+  },
+  "22391": {
+    "work": "Petrushka",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2007,
+        "kind": "anime",
+        "note": {
+          "ja": "ストラヴィンスキー自身によるピアノ編曲版「ペトルーシュカからの3楽章」の第1曲「ロシアの踊り」が、ピアノコンクール決勝で主人公が演奏中に記憶に気を取られて演奏が止まってしまう場面に使われる。",
+          "en": "The first movement, \"Danse russe,\" from Stravinsky's own piano transcription \"Three Movements from Petrushka,\" plays as the protagonist freezes mid-performance at a piano competition final, distracted by a memory."
+        }
+      }
+    ]
+  },
+  "7275": {
+    "work": "Symphony no. 1 in D major, \"Titan\"",
+    "media": [
+      {
+        "title": { "ja": "ツリー・オブ・ライフ", "en": "The Tree of Life" },
+        "year": 2011,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章の不穏な冒頭部分が、死と喪失にまつわる場面に使われる。",
+          "en": "The eerie opening material of the first movement underscores scenes of death and grief."
+        }
+      },
+      {
+        "title": { "ja": "アド・アストラ", "en": "Ad Astra" },
+        "year": 2019,
+        "kind": "film",
+        "note": {
+          "ja": "「葬送行進曲」と呼ばれる第3楽章が、宇宙空間での孤独感を描く場面に使われる。",
+          "en": "The third movement, known as the \"Funeral March,\" scores scenes conveying the isolation of deep space."
+        }
+      }
+    ]
+  },
+  "3785": {
+    "work": "Symphony no. 3 in C minor, op. 78, \"Organ\"",
+    "media": [
+      {
+        "title": { "ja": "ベイブ", "en": "Babe" },
+        "year": 1995,
+        "kind": "film",
+        "note": {
+          "ja": "終楽章の壮大な主題が映画のクライマックス、牧羊犬競技会での演技の場面に流れる。それ以前には、この旋律に歌詞をつけた「If I Had Words」を農場主が落ち込む子豚のベイブに歌って聴かせる場面もある。",
+          "en": "The finale's grand theme plays over the climactic sheepdog-trial scene; earlier, the farmer sings \"If I Had Words,\" a song set to this same melody, to comfort a despondent Babe."
+        }
+      }
+    ]
+  },
+  "16718": {
+    "work": "Symphony no. 4 in A, op. 90, \"Italian\"",
+    "media": [
+      {
+        "title": { "ja": "ヤング・ゼネレーション", "en": "Breaking Away" },
+        "year": 1979,
+        "kind": "film",
+        "note": {
+          "ja": "第4楽章「サルタレロ」が、クライマックスの自転車レースの場面に流れる。",
+          "en": "The fourth movement, \"Saltarello,\" plays during the climactic bicycle race."
+        }
+      }
+    ]
+  },
+  "22172": {
+    "work": "Piano Concerto no. 3 in D minor, op. 30",
+    "media": [
+      {
+        "title": { "ja": "シャイン", "en": "Shine" },
+        "year": 1996,
+        "kind": "film",
+        "note": {
+          "ja": "ピアニストの実話に基づく伝記映画で、この協奏曲（劇中「ラフ3」と呼ばれる）そのものが物語の軸となる。第1楽章の巨大なカデンツァが、コンクールでの演奏中に主人公が精神的に崩壊する場面に流れる。",
+          "en": "This concerto (referred to in the film as \"Rach 3\") is the central device of this biopic of a real pianist. The massive first-movement cadenza plays as the protagonist has a breakdown during a competition performance."
+        }
+      }
+    ]
   }
 }
