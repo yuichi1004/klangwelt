@@ -1116,73 +1116,78 @@
     "title": "Symphony no. 2 in D major, op. 43",
     "composer": "Sibelius",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; a widely-repeated claim (Intermezzo 1939, Lolita 1997) was checked against actual film score credits and is false"
   },
   "51": {
     "title": "Symphony no. 8 in C minor, WAB 108",
     "composer": "Bruckner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15091": {
     "title": "Carnaval, op. 9",
     "composer": "Schumann",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found in any film/TV/anime"
   },
   "3798": {
     "title": "Danse macabre, tone poem, op. 40",
     "composer": "Saint-Saëns",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "43": {
     "title": "Symphony no. 9 in D minor, WAB 109",
     "composer": "Bruckner",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7280": {
     "title": "Das Lied von der Erde",
     "composer": "Mahler",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "15863": {
     "title": "Concerto Grosso in G minor, op. 6, no. 8, \"Christmas Concerto\"",
     "composer": "Corelli",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed on the Master and Commander (2003) soundtrack but no scene context could be confirmed"
   },
   "2076": {
     "title": "Atmosphères",
     "composer": "Ligeti",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "26812": {
     "title": "Concierto de Aranjuez, for guitar and orchestra",
     "composer": "Rodrigo",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "3614": {
     "title": "In the Steppes of Central Asia",
     "composer": "Borodin",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified film/anime/TV usage found"
   },
   "1552": {
     "title": "Le Poème de l'extase, op. 54",
     "composer": "Scriabin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "14629": {
     "title": "Méditation, for violin and orchestra",
     "composer": "Massenet",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "19898": {
     "title": "Pini di Roma, P.141",
