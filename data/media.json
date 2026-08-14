@@ -1262,5 +1262,121 @@
         }
       }
     ]
+  },
+  "5040": {
+    "work": "Pavane pour une infante défunte",
+    "media": [
+      {
+        "title": { "ja": "ダークナイト ライジング", "en": "The Dark Knight Rises" },
+        "year": 2012,
+        "kind": "film",
+        "note": {
+          "ja": "チャリティー舞踏会で、ブルース・ウェインとセリーナ・カイルが踊り言葉を交わす場面に流れる。",
+          "en": "Plays during a charity ball scene as Bruce Wayne and Selina Kyle dance and converse."
+        }
+      },
+      {
+        "title": { "ja": "四月は君の嘘", "en": "Your Lie in April" },
+        "year": 2014,
+        "kind": "anime",
+        "note": {
+          "ja": "第17話で、劇中劇に登場する曲として主人公が耳を塞ぐほど強く反応する場面に流れる。",
+          "en": "In episode 17, the protagonist reacts strongly enough to cover his ears when this piece, tied to a story-within-the-story, plays."
+        }
+      }
+    ]
+  },
+  "16143": {
+    "work": "Symphony no. 3 in E flat major, op. 55, \"Eroica\"",
+    "media": [
+      {
+        "title": { "ja": "ライアンの娘", "en": "Ryan's Daughter" },
+        "year": 1970,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章の主題が、モーリス・ジャールによる映画音楽に取り入れられている。",
+          "en": "The first movement's theme is incorporated into Maurice Jarre's film score."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2007,
+        "kind": "anime",
+        "note": {
+          "ja": "指揮者不在の学生オーケストラを、主人公が急遽代役として初めて指揮する演目として使われる。",
+          "en": "It is the piece a student orchestra performs when the protagonist steps in as an emergency substitute conductor for the first time."
+        }
+      }
+    ]
+  },
+  "23353": {
+    "work": "Symphony no. 41 in C major, K.551, \"Jupiter\"",
+    "media": [
+      {
+        "title": { "ja": "アニー・ホール", "en": "Annie Hall" },
+        "year": 1977,
+        "kind": "film",
+        "note": {
+          "ja": "第4楽章（フィナーレ）が、ロングアイランドの海辺の別荘へ向かうドライブの場面に流れる。",
+          "en": "The fourth movement, the fugal finale, plays during a driving sequence to a Long Island beach house."
+        }
+      }
+    ]
+  },
+  "9688": {
+    "work": "Brandenburg Concerto no. 3 in G major, BWV.1048",
+    "media": [
+      {
+        "title": { "ja": "ダイ・ハード", "en": "Die Hard" },
+        "year": 1988,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章が、映画冒頭のナカトミプラザのクリスマスパーティーで弦楽四重奏によって演奏される。",
+          "en": "The third movement is performed by a string quartet at the Nakatomi Plaza Christmas party in the film's opening."
+        }
+      }
+    ]
+  },
+  "5095": {
+    "work": "Piano Concerto in G",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ 最終楽章 後編", "en": "Nodame Cantabile: The Final Score, Part II" },
+        "year": 2010,
+        "kind": "film",
+        "note": {
+          "ja": "第1楽章が、ヒロインの過去の演奏の回想と重ねられながら演奏される、物語の重要な演目として使われる。",
+          "en": "The first movement is performed as a major plot piece, intercut with flashbacks of the heroine's own earlier performance of it."
+        }
+      }
+    ]
+  },
+  "17159": {
+    "work": "Etudes, op. 10",
+    "media": [
+      {
+        "title": { "ja": "鋼の錬金術師", "en": "Fullmetal Alchemist" },
+        "year": 2003,
+        "kind": "anime",
+        "note": {
+          "ja": "第3番「悲しみ」（別れの曲）の編曲版が、最終話の感傷的な場面に流れる。",
+          "en": "An arrangement of No. 3, \"Tristesse,\" plays during an emotional scene in the final episode."
+        }
+      }
+    ]
+  },
+  "2708": {
+    "work": "Otello",
+    "media": [
+      {
+        "title": { "ja": "マリア", "en": "Maria" },
+        "year": 2024,
+        "kind": "film",
+        "note": {
+          "ja": "第4幕の「アヴェ・マリア」が、マリア・カラスの晩年を描くこの伝記映画の冒頭と終盤を締めくくる。",
+          "en": "The Act IV \"Ave Maria\" opens and later bookends this biographical film about Maria Callas's final days."
+        }
+      }
+    ]
   }
 }

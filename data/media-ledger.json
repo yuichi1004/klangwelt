@@ -440,73 +440,78 @@
     "title": "Pavane pour une infante défunte",
     "composer": "Ravel",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16143": {
     "title": "Symphony no. 3 in E flat major, op. 55, \"Eroica\"",
     "composer": "Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23353": {
     "title": "Symphony no. 41 in C major, K.551, \"Jupiter\"",
     "composer": "Mozart",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7566": {
     "title": "Symphony no. 6 in B minor, op. 74, \"Pathétique\"",
     "composer": "Tchaikovsky",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "both candidates unresolved: The Outlaw (1943) has no confirmable official Japanese title; Minority Report (2nd mvt) is on the soundtrack but scene context is unconfirmed"
   },
   "26013": {
     "title": "String Quartet in C major, Hob.III:77, op. 76, no. 3, \"Emperor\"",
     "composer": "Haydn",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified narrative film/anime/TV usage found — only a PBS documentary about the piece itself"
   },
   "9688": {
     "title": "Brandenburg Concerto no. 3 in G major, BWV.1048",
     "composer": "Bach",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "13331": {
     "title": "La Mer, L.109",
     "composer": "Debussy",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified direct usage; the Jaws connection is compositional influence, not an actual quotation of the piece"
   },
   "5095": {
     "title": "Piano Concerto in G",
     "composer": "Ravel",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7706": {
     "title": "Symphony no. 4 in E minor, op. 98",
     "composer": "Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage; a specific claim (used in a Prague-invasion film) traced to a mismatched/fabricated source and was discarded"
   },
   "6216": {
     "title": "Water Music Suite no. 1 in F major, HWV.348",
     "composer": "Handel",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "weak verification only — two soundtrack-listing hits (Absolutely Anything, The West Wing) but scene context unconfirmed for both"
   },
   "17159": {
     "title": "Etudes, op. 10",
     "composer": "Chopin",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "2708": {
     "title": "Otello",
     "composer": "Verdi",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "15726": {
     "title": "Siegfried, WWV 86c",
