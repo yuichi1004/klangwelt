@@ -1032,49 +1032,52 @@
     "title": "Violin Concerto in B minor, op. 61",
     "composer": "Elgar",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; note the Elgar work with well-known film usage is the Cello Concerto (op. 85), a different piece"
   },
   "21834": {
     "title": "Violin Concerto in D minor, op. 47",
     "composer": "Sibelius",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "only a weak lead found (Kinsey, 2004) — a real soundtrack credit but not a broadly-known film, and neither scene context nor Japanese title could be confirmed"
   },
   "24335": {
     "title": "Mephisto Waltz no. 1, S.514",
     "composer": "Liszt",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "22391": {
     "title": "Petrushka",
     "composer": "Stravinsky",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "7275": {
     "title": "Symphony no. 1 in D major, \"Titan\"",
     "composer": "Mahler",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "3785": {
     "title": "Symphony no. 3 in C minor, op. 78, \"Organ\"",
     "composer": "Saint-Saëns",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16718": {
     "title": "Symphony no. 4 in A, op. 90, \"Italian\"",
     "composer": "Mendelssohn",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "23990": {
     "title": "6 Hungarian Rhapsodies, S.359",
     "composer": "Liszt",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "the famous usage (No. 2, in The Cat Concerto and Rhapsody Rabbit) is well-verified, but no confirmable official Japanese title exists for either short"
   },
   "24527": {
     "title": "Cello Concerto in E minor, op. 85",
@@ -1086,25 +1089,28 @@
     "title": "Eine Alpensinfonie, op. 64, TrV233",
     "composer": "Strauss",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; often confused with Also sprach Zarathustra (used in 2001: A Space Odyssey), a different R. Strauss work"
   },
   "18023": {
     "title": "Peer Gynt Suite no. 2, op. 55",
     "composer": "Grieg",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "both candidates fall short — The Bothersome Man (2006) has a confirmed scene but no confirmable Japanese title; Song of Norway (1970) has the piece confirmed on soundtrack but no scene context"
   },
   "22172": {
     "title": "Piano Concerto no. 3 in D minor, op. 30",
     "composer": "Rachmaninoff",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21558": {
     "title": "Romeo and Juliet Suite no. 1, op. 64bis",
     "composer": "Prokofiev",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found for Suite No. 1 specifically; the famous \"Dance of the Knights\"/\"Montagues and Capulets\" belongs to the separately catalogued Suite No. 2 (id 21525, currently star2 and outside this project's ★4/★5 scope)"
   },
   "21945": {
     "title": "Symphony no. 2 in D major, op. 43",
