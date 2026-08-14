@@ -517,73 +517,79 @@
     "title": "Siegfried, WWV 86c",
     "composer": "Wagner",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified well-known usage found for \"Forest Murmurs\" or the \"Forging Song\""
   },
   "22291": {
     "title": "Slavonic Dances, B.145, op. 72",
     "composer": "Dvořák",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "16490": {
     "title": "Turandot",
     "composer": "Puccini",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21086": {
     "title": "Erlkönig, D.328, op. 1",
     "composer": "Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no well-known mainstream usage found; the two leads found are a festival short and an anime motif inspired by the song, not a direct usage"
   },
   "16218": {
     "title": "Piano Concerto no. 5 in E flat major, op. 73, \"Emperor\"",
     "composer": "Beethoven",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "21352": {
     "title": "Piano Quintet in A major, D.667, op. posth.114, \"The Trout\"",
     "composer": "Schubert",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage of the Piano Quintet itself — a widely-cited claim (Sherlock Holmes: A Game of Shadows) actually uses the separate solo song \"Die Forelle,\" not this quintet"
   },
   "22377": {
     "title": "String Quartet no. 12 in F, op. 96, \"American\"",
     "composer": "Dvořák",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "5112": {
     "title": "La valse",
     "composer": "Ravel",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage; the only lead (an uncredited IMDb \"soundtrack\" listing for Brazil) could not be corroborated"
   },
   "7638": {
     "title": "Symphony no. 5 in E minor, op. 64",
     "composer": "Tchaikovsky",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified direct usage with reliable scene context; leads found are derivative (a song based on its theme) or unconfirmed"
   },
   "7764": {
     "title": "Violin Concerto in D major, op. 77",
     "composer": "Brahms",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "6500": {
     "title": "Water Music Suite no. 2 in D major, HWV.349",
     "composer": "Handel",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "13251": {
     "title": "Children's Corner, L.113",
     "composer": "Debussy",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "only a minor usage found (a cover version as incidental background music in one TV episode) — does not meet the popular-recognition bar"
   },
   "15755": {
     "title": "Das Rheingold, WWV 86a",
