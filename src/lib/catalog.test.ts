@@ -1,10 +1,11 @@
-import { describe, expect, it } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
 
 import {
   buildComposerOptions,
   buildSearchIndex,
   catalogMeta,
   composers,
+  fetchWorkIndex,
   filterWorks,
   getComposer,
   getWork,
@@ -296,5 +297,61 @@ describe("buildComposerOptions", () => {
       ).length;
       expect(actual, option.completeName).toBe(option.coreWorkCount);
     }
+  });
+});
+
+describe("fetchWorkIndex", () => {
+  // The cache lives on `globalThis` (see the doc comment on `fetchWorkIndex`
+  // in ./catalog.ts) precisely so it survives being read from more than one
+  // copy of this module — but that means it also survives between test
+  // cases in the same process unless cleared explicitly.
+  const CACHE_KEY = Symbol.for("klangwelt.workIndexRequest");
+
+  afterEach(() => {
+    vi.unstubAllGlobals();
+    delete (globalThis as Record<symbol, unknown>)[CACHE_KEY];
+  });
+
+  it("shares one network request across concurrent callers", async () => {
+    const rows = [{ id: "1" }];
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      json: () => Promise.resolve(rows),
+    });
+    vi.stubGlobal("fetch", fetchMock);
+
+    // Two components mounting on the same page both call this before either
+    // request resolves — this is the scenario the memoisation exists for.
+    const first = fetchWorkIndex();
+    const second = fetchWorkIndex();
+
+    expect(second).toBe(first);
+    await expect(first).resolves.toEqual(rows);
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+  });
+
+  it("reuses the resolved value for a later caller too", async () => {
+    const fetchMock = vi.fn().mockResolvedValue({
+      ok: true,
+      json: () => Promise.resolve([]),
+    });
+    vi.stubGlobal("fetch", fetchMock);
+
+    await fetchWorkIndex();
+    await fetchWorkIndex();
+
+    expect(fetchMock).toHaveBeenCalledTimes(1);
+  });
+
+  it("clears the cache after a failure so the next call retries", async () => {
+    const fetchMock = vi
+      .fn()
+      .mockResolvedValueOnce({ ok: false, json: () => Promise.resolve(null) })
+      .mockResolvedValueOnce({ ok: true, json: () => Promise.resolve([]) });
+    vi.stubGlobal("fetch", fetchMock);
+
+    await expect(fetchWorkIndex()).rejects.toThrow();
+    await expect(fetchWorkIndex()).resolves.toEqual([]);
+    expect(fetchMock).toHaveBeenCalledTimes(2);
   });
 });
