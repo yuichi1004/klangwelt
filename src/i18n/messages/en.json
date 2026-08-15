@@ -114,7 +114,7 @@
   "favorites": {
     "heading": "Favourites",
     "empty": "You have no favourites yet.",
-    "emptyHint": "Tap the star on any work to save it here.",
+    "emptyHint": "Tap the heart on any work to save it here.",
     "add": "Add to favourites",
     "remove": "Remove from favourites",
     "count": "{count} works",

@@ -36,7 +36,7 @@ export function FavoriteButton({
           : "text-ink-faint hover:bg-accent-soft hover:text-accent"
       }`}
     >
-      <span aria-hidden="true">{active ? "★" : "☆"}</span>
+      <span aria-hidden="true">{active ? "♥" : "♡"}</span>
     </button>
   );
 }

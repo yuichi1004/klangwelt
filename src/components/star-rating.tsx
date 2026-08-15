@@ -5,11 +5,10 @@ export interface StarRatingProps {
   locale: Locale;
   stars: Stars;
   /**
-   * `compact` renders a `★4`-style chip, for use on `WorkCard` — the
-   * favourite toggle on the same card already owns the ★/☆ glyph as an
-   * interactive control, so a five-glyph meter there would read as a second,
-   * unrelated star. `full` renders the five-glyph meter and is for places
-   * with no favourite button nearby: the work detail page and composer pages.
+   * `compact` renders a `★4`-style chip, for use on `WorkCard`, where a
+   * five-glyph meter would be too wide next to the card's other controls.
+   * `full` renders the five-glyph meter and is for places with more room:
+   * the work detail page and composer pages.
    */
   variant?: "compact" | "full";
 }
