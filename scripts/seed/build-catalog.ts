@@ -2,9 +2,10 @@
  * Turns the raw Open Opus dump into the JSON the app actually ships.
  *
  * Three outputs:
- *  - `data/catalog/composers.json` and `data/catalog/core-works.json` are
- *    imported directly by server components, so they end up in the static
- *    HTML at build time.
+ *  - `data/catalog/composers.json`, `data/catalog/core-works.json` and
+ *    `data/catalog/media-index.json` (the film/anime/TV reverse index, see
+ *    `src/lib/media-index.ts`) are imported directly by server components,
+ *    so they end up in the static HTML at build time.
  *  - `public/data/works/<composerId>.json` holds every work by a composer and
  *    is fetched lazily from the composer page, keeping the ~25k long tail out
  *    of the initial payload.
@@ -25,6 +26,7 @@ import { loadCuration } from "../../src/lib/curation";
 import { isEpoch, isGenre } from "../../src/lib/epochs";
 import type { PortraitCredit } from "../../src/lib/licenses";
 import { loadMedia, type MediaAppearance } from "../../src/lib/media";
+import { buildMediaIndex } from "../../src/lib/media-index";
 import { loadNationalities, type NationalityEntry } from "../../src/lib/nationality";
 import {
   compareByStandard,
@@ -298,6 +300,16 @@ async function main() {
     process.exit(1);
   }
 
+  // Built from the same `media.media` the orphan check above just verified
+  // points only at works with a detail page, so every id in `mediaIndex`
+  // resolves via `getWork()` on the media detail page (issue #91).
+  const mediaIndex = buildMediaIndex(media.media);
+  if (mediaIndex.errors.length > 0) {
+    console.error(`\n${mediaIndex.errors.length} problem(s) building the media index:\n`);
+    for (const error of mediaIndex.errors) console.error(`  - ${error}`);
+    process.exit(1);
+  }
+
   const translated = coreWorks.filter(
     (work) => work.titleJa !== work.title,
   ).length;
@@ -345,6 +357,15 @@ async function main() {
   await writeFile(
     path.join(CATALOG_DIR, "meta.json"),
     `${JSON.stringify(meta, null, 2)}\n`,
+  );
+  // Unlike `work-index.json`, not also copied to `public/data/`: both
+  // `/media` and `/media/[mediaId]` read this at build time on the server
+  // (see `src/lib/catalog.ts`'s `mediaIndex` export), and at ~180 entries it
+  // is small enough to just be part of the page payload — no client-side
+  // fetch to serve.
+  await writeFile(
+    path.join(CATALOG_DIR, "media-index.json"),
+    JSON.stringify(mediaIndex.entries),
   );
 
   const histogram = (values: Iterable<number>) => {

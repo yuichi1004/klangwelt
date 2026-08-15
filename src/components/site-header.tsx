@@ -24,6 +24,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
   const links = [
     { href: `/${locale}`, label: messages.nav.catalog },
     { href: `/${locale}/composers`, label: messages.nav.composers },
+    { href: `/${locale}/media`, label: messages.nav.media },
     { href: `/${locale}/favorites`, label: messages.nav.favorites },
   ];
 

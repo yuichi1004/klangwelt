@@ -7,6 +7,7 @@
   "nav": {
     "catalog": "楽曲を探す",
     "composers": "作曲家",
+    "media": "映像作品",
     "favorites": "お気に入り",
     "credits": "出典",
     "language": "言語",
@@ -52,6 +53,18 @@
   "composers": {
     "resultCount": "{count}名",
     "resultCountFiltered": "{count}名 / 全{total}名"
+  },
+  "media": {
+    "heading": "映像作品から探す",
+    "description": "映画・アニメ・テレビ番組で使われているクラシック音楽を探せます。",
+    "search": "作品名で検索",
+    "kindFilter": "種別で絞り込む",
+    "resultCount": "{count}作品",
+    "resultCountFiltered": "{count}作品 / 全{total}作品",
+    "workCount": "{count}曲",
+    "usedIn": "この映像作品で使われている曲",
+    "browseAll": "映像作品一覧",
+    "empty": "該当する映像作品が見つかりませんでした。"
   },
   "rating": {
     "label": "定番度",
