@@ -23,6 +23,15 @@ export interface WorkCardProps {
    * actually matched, so the badge never appears for an unrelated search.
    */
   mediaMatch?: string;
+  /**
+   * A short line above the title, e.g. why the recommendations section
+   * picked this work ("If you like Chopin"). Rendered separately from the
+   * chip row below, which is already crowded with the composer, genre and
+   * star chips — a fifth chip there would force more wraps on narrow
+   * screens, and `mediaMatch`'s `role="img"` span must stay the only one
+   * per card (see `e2e/catalog.spec.ts`'s ★-chip assertions).
+   */
+  note?: string;
 }
 
 export function WorkCard({
@@ -35,11 +44,13 @@ export function WorkCard({
   stars,
   linkToDetail = true,
   mediaMatch,
+  note,
 }: WorkCardProps) {
   const messages = getMessages(locale);
   const body = (
     <>
       <div className="min-w-0 flex-1">
+        {note && <p className="mb-1 text-xs text-accent">{note}</p>}
         <p className="font-serif text-[1.0625rem] font-medium leading-snug text-ink break-words">
           {title}
         </p>
