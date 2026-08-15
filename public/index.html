@@ -23,6 +23,9 @@
         var locales = ["ja", "en"];
         var chosen = null;
         try {
+          // Keep this literal in sync with LOCALE_STORAGE_KEY in
+          // src/lib/backup.ts — this script runs before hydration and
+          // cannot import from src/.
           chosen = window.localStorage.getItem("klangwelt.locale");
         } catch (error) {
           /* storage blocked; fall through to language detection */

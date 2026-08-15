@@ -5,6 +5,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
 
+import { writeStoredLocale } from "@/lib/backup";
 import { getMessages, LOCALES, LOCALE_LABELS, type Locale } from "@/i18n/config";
 
 /** Swaps the leading locale segment, keeping the rest of the path. */
@@ -14,8 +15,6 @@ function swapLocale(pathname: string, target: Locale): string {
   segments[0] = target;
   return `/${segments.join("/")}`;
 }
-
-const LANGUAGE_STORAGE_KEY = "klangwelt.locale";
 
 export function SiteHeader({ locale }: { locale: Locale }) {
   const messages = getMessages(locale);
@@ -75,13 +74,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
               href={swapLocale(pathname, candidate)}
               hrefLang={candidate}
               // Remember the choice so `/` sends the visitor here next time.
-              onClick={() => {
-                try {
-                  window.localStorage.setItem(LANGUAGE_STORAGE_KEY, candidate);
-                } catch {
-                  // Storage blocked; the link still works.
-                }
-              }}
+              onClick={() => writeStoredLocale(candidate)}
               className={`rounded-full whitespace-nowrap px-2.5 py-1 text-xs font-medium transition-colors ${
                 candidate === locale
                   ? "bg-accent-fill text-accent-ink"

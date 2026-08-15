@@ -120,6 +120,21 @@
     "count": "{count}曲",
     "storageNote": "お気に入りはこのブラウザにのみ保存されます。"
   },
+  "backup": {
+    "heading": "バックアップ・移行",
+    "description": "お気に入りと言語設定を書き出して、別のブラウザや端末に移せます。",
+    "export": "書き出す",
+    "download": "ファイルをダウンロード",
+    "copy": "コピー",
+    "copied": "コピーしました",
+    "import": "読み込む",
+    "importFile": "ファイルを選択",
+    "importPaste": "ここに貼り付け",
+    "importPreview": "お気に入り{favorites}曲を読み込みます。{added}件が新規に追加されます（{skipped}件は既にお気に入り済みです）。",
+    "importPreviewLocale": "お気に入り{favorites}曲・言語設定「{locale}」を読み込みます。{added}件が新規に追加されます（{skipped}件は既にお気に入り済みです）。",
+    "importApply": "適用する",
+    "importError": "読み込めませんでした。ファイルの内容を確認してください。"
+  },
   "discover": {
     "heading": "お気に入りから、次の1曲",
     "hint": "保存した曲の傾向から選んでいます。訪れるたびに変わります。",
