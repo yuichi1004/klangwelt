@@ -18,6 +18,7 @@ import { getWorkEditorial } from "@/lib/editorial";
 import { EPOCH_LABELS, GENRE_LABELS } from "@/lib/epochs";
 import { createAnnotator, glossary } from "@/lib/glossary";
 import { MEDIA_KIND_LABELS, type MediaAppearance } from "@/lib/media";
+import { mediaId } from "@/lib/media-index";
 import { buildStreamingLinks } from "@/lib/streaming";
 
 /**
@@ -271,6 +272,11 @@ function WorkDataPanel({
  * it, so `note` — shown right under the title — is what actually tells the
  * reader "this is the bit you know" rather than leaving them to guess which
  * part of, say, a whole Wagner opera plays in the scene.
+ *
+ * The title links to `/media/[id]` (issue #91), where the id is recomputed
+ * with `mediaId()` rather than stored on `MediaAppearance` itself — it is
+ * always the same value `buildMediaIndex` used to build that page, so there
+ * is nothing to keep in sync.
  */
 function MediaSection({
   locale,
@@ -287,15 +293,18 @@ function MediaSection({
         {messages.work.mediaHeading}
       </h2>
       <ul className="space-y-3">
-        {media.map((appearance, index) => (
+        {media.map((appearance) => (
           <li
-            key={index}
+            key={mediaId(appearance.title.en, appearance.year)}
             className="rounded-lg border border-line bg-paper-raised p-4"
           >
             <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">
-              <span className="font-serif text-base font-medium text-ink">
+              <Link
+                href={`/${locale}/media/${mediaId(appearance.title.en, appearance.year)}`}
+                className="font-serif text-base font-medium text-ink underline underline-offset-2 hover:text-accent"
+              >
                 {appearance.title[locale]}
-              </span>
+              </Link>
               <span className="text-xs text-ink-faint">{appearance.year}</span>
               <span className="rounded-full bg-terra-surface px-2 py-0.5 text-xs text-ink">
                 {MEDIA_KIND_LABELS[appearance.kind][locale]}

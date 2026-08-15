@@ -1,5 +1,6 @@
 import composersJson from "@/data/catalog/composers.json";
 import coreWorksJson from "@/data/catalog/core-works.json";
+import mediaIndexJson from "@/data/catalog/media-index.json";
 import metaJson from "@/data/catalog/meta.json";
 import workIndexJson from "@/data/catalog/work-index.json";
 import portraitsJson from "@/data/portraits.json";
@@ -12,6 +13,8 @@ import type {
 } from "./catalog-types";
 import type { Epoch, Genre } from "./epochs";
 import type { PortraitCredit } from "./licenses";
+import type { MediaIndexEntry } from "./media-index";
+import type { MediaKind } from "./media";
 import { compareByStandard } from "./popularity";
 
 export const composers = composersJson as Composer[];
@@ -19,12 +22,14 @@ export const coreWorks = coreWorksJson as Work[];
 export const workIndex = workIndexJson as WorkIndexRow[];
 export const catalogMeta = metaJson as CatalogMeta;
 export const portraitCredits = portraitsJson as PortraitCredit[];
+export const mediaIndex = mediaIndexJson as MediaIndexEntry[];
 
 const composersById = new Map(composers.map((composer) => [composer.id, composer]));
 const worksById = new Map(coreWorks.map((work) => [work.id, work]));
 const portraitsByComposerId = new Map(
   portraitCredits.map((credit) => [credit.composerId, credit]),
 );
+const mediaById = new Map(mediaIndex.map((entry) => [entry.id, entry]));
 
 export function getComposer(id: string): Composer | undefined {
   return composersById.get(id);
@@ -33,6 +38,11 @@ export function getComposer(id: string): Composer | undefined {
 /** Only core works have a detail page, so only those resolve here. */
 export function getWork(id: string): Work | undefined {
   return worksById.get(id);
+}
+
+/** A film/anime/TV production by its `mediaId` (`src/lib/media-index.ts`). */
+export function getMediaEntry(id: string): MediaIndexEntry | undefined {
+  return mediaById.get(id);
 }
 
 export function getPortraitCredit(
@@ -148,6 +158,32 @@ export function buildComposerCards(): ComposerCard[] {
       nationality: composer.nationality,
     };
   });
+}
+
+/**
+ * The fields the `/media` list needs to filter and render a card. Kept
+ * minimal like `ComposerCard`: the full `MediaIndexEntry.works` (with each
+ * work's `note`) is only needed on the one detail page it belongs to, not on
+ * every card in the list.
+ */
+export interface MediaCard {
+  id: string;
+  title: MediaIndexEntry["title"];
+  year: number;
+  kind: MediaKind;
+  workCount: number;
+}
+
+/** `mediaIndex` is already sorted newest-first by the build (see
+ *  `buildMediaIndex`), so cards inherit that order with no extra work here. */
+export function buildMediaCards(): MediaCard[] {
+  return mediaIndex.map((entry) => ({
+    id: entry.id,
+    title: entry.title,
+    year: entry.year,
+    kind: entry.kind,
+    workCount: entry.works.length,
+  }));
 }
 
 /** Everything the filter needs about a work, joined and precomputed once. */

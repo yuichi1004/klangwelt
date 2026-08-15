@@ -7,6 +7,7 @@
   "nav": {
     "catalog": "Browse works",
     "composers": "Composers",
+    "media": "Film & TV",
     "favorites": "Favourites",
     "credits": "Credits",
     "language": "Language",
@@ -52,6 +53,18 @@
   "composers": {
     "resultCount": "{count} composers",
     "resultCountFiltered": "{count} of {total} composers"
+  },
+  "media": {
+    "heading": "Browse by film and TV",
+    "description": "Find classical music used in films, anime and TV shows.",
+    "search": "Search by title",
+    "kindFilter": "Filter by kind",
+    "resultCount": "{count} titles",
+    "resultCountFiltered": "{count} of {total} titles",
+    "workCount": "{count} works",
+    "usedIn": "Works used in this production",
+    "browseAll": "All film & TV",
+    "empty": "No productions match this search."
   },
   "rating": {
     "label": "Standard repertoire",
