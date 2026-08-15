@@ -2605,5 +2605,162 @@
         }
       }
     ]
+  },
+  "1155": {
+    "work": "Violin Sonata in A major, M.8",
+    "media": [
+      {
+        "title": { "ja": "ニンフォマニアック", "en": "Nymphomaniac" },
+        "year": 2013,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章と第4楽章を、チェロ用に編曲した版が、3人の恋人たちの物語を並行して描く場面に使われる。",
+          "en": "The third and fourth movements, arranged for cello, score a sequence depicting the intertwined stories of three lovers."
+        }
+      }
+    ]
+  },
+  "13876": {
+    "work": "Stabat mater, for soprano, alto, and strings",
+    "media": [
+      {
+        "title": { "ja": "アマデウス", "en": "Amadeus" },
+        "year": 1984,
+        "kind": "film",
+        "note": {
+          "ja": "「その体が死する時も」の部分が、幼いサリエリの父の死の場面に流れる。音楽の才を神に願ったサリエリは、父の死をその祈りが聞き届けられた証と解釈する。",
+          "en": "The \"Quando corpus morietur\" section plays during the death of young Salieri's father, which Salieri interprets as God accepting his bargain for musical greatness."
+        }
+      }
+    ]
+  },
+  "813": {
+    "work": "Te Deum, for 8 voices, chorus, and orchestra, H.146",
+    "media": [
+      {
+        "title": { "ja": "リチャード三世", "en": "Richard III" },
+        "year": 1995,
+        "kind": "film",
+        "note": {
+          "ja": "前奏曲（マルシュ・アン・ロンドー）が、リチャードの戴冠式の場面に短く流れる。",
+          "en": "The prelude, the \"Marche en rondeau,\" plays briefly during Richard's coronation scene."
+        }
+      },
+      {
+        "title": { "ja": "アウトランダー", "en": "Outlander" },
+        "year": 2016,
+        "kind": "tv",
+        "note": {
+          "ja": "シーズン2第2話で、前奏曲を編曲した音楽が、ヴェルサイユ宮廷への到着場面の壮麗さを演出する。",
+          "en": "In season 2, episode 2, an arrangement of the prelude underscores the grandeur of the arrival at the court of Versailles."
+        }
+      }
+    ]
+  },
+  "28117": {
+    "work": "Oboe Concerto in D minor, op. 1, SF.935",
+    "media": [
+      {
+        "title": { "ja": "アノニモ・ヴェネツィアーノ", "en": "The Anonymous Venetian" },
+        "year": 1970,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章「アダージョ」が映画のロマンティックな主題曲となっており、この協奏曲の20世紀における人気再燃の一因となった。",
+          "en": "The second movement, the Adagio, is the film's romantic main theme and was a major factor in the concerto's 20th-century revival in popularity."
+        }
+      },
+      {
+        "title": { "ja": "フェイブルマンズ", "en": "The Fabelmans" },
+        "year": 2022,
+        "kind": "film",
+        "note": {
+          "ja": "第2楽章「アダージョ」の鍵盤編曲版が、主人公が家族旅行の映像を編集中に母の不倫の証拠に気づく場面に流れる。",
+          "en": "A keyboard transcription of the second movement, the Adagio, plays as the protagonist discovers evidence of his mother's affair while editing family footage."
+        }
+      }
+    ]
+  },
+  "16827": {
+    "work": "The Entertainer",
+    "media": [
+      {
+        "title": { "ja": "スティング", "en": "The Sting" },
+        "year": 1973,
+        "kind": "film",
+        "note": {
+          "ja": "映画全体の主題曲として編曲・使用され、この曲を含むラグタイムブームの再燃のきっかけとなった。",
+          "en": "Arranged as the film's signature theme throughout, sparking a broader revival of ragtime's popularity."
+        }
+      },
+      {
+        "title": { "ja": "金色のコルダ -primo passo-", "en": "La Corda d'Oro -primo passo-" },
+        "year": 2006,
+        "kind": "anime",
+        "note": {
+          "ja": "第23話で、2人の登場人物がピアノとトランペットの二重奏として演奏し、チラシ配りの呼び込みに使う場面がある。",
+          "en": "In episode 23, two characters perform it as a piano-and-trumpet duet to draw a crowd while handing out flyers."
+        }
+      }
+    ]
+  },
+  "2660": {
+    "work": "Rigoletto",
+    "media": [
+      {
+        "title": { "ja": "天使のくれた時間", "en": "The Family Man" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "「女心の歌」を、映画冒頭の自宅の場面で主人公が口ずさむ。",
+          "en": "\"La donna è mobile\" is sung by the protagonist in his apartment in the film's opening scene."
+        }
+      },
+      {
+        "title": { "ja": "ルビー・スパークス", "en": "Ruby Sparks" },
+        "year": 2012,
+        "kind": "film",
+        "note": {
+          "ja": "「女心の歌」が、小説家である主人公が自分の生み出した空想の人物ルビーの予測不能さに向き合う場面に流れる。",
+          "en": "\"La donna è mobile\" plays as the novelist protagonist confronts how unpredictable his own fictional creation, Ruby, has become."
+        }
+      }
+    ]
+  },
+  "16525": {
+    "work": "La bohème",
+    "media": [
+      {
+        "title": { "ja": "月の輝く夜に", "en": "Moonstruck" },
+        "year": 1987,
+        "kind": "film",
+        "note": {
+          "ja": "「冷たき手を」がスコアに織り込まれるほか、劇中でヒロインが不倫相手とメトロポリタン歌劇場で観劇するオペラとして「おお、優しい乙女よ」等が使われる、映画史上有名なオペラ使用例の一つ。",
+          "en": "\"Che gelida manina\" is woven into the score, and the opera the heroine attends at the Met with her lover features \"O soave fanciulla\" — one of the most celebrated uses of opera in film history."
+        }
+      },
+      {
+        "title": { "ja": "つぐない", "en": "Atonement" },
+        "year": 2007,
+        "kind": "film",
+        "note": {
+          "ja": "「おお、優しい乙女よ」が、主人公が手紙を書こうとする場面に、恋人への理想化されたイメージと重ねて流れる。",
+          "en": "\"O soave fanciulla\" plays as the protagonist tries to write a letter, intercut with his idealized image of his lover."
+        }
+      }
+    ]
+  },
+  "26120": {
+    "work": "Symphony no. 104 in D, Hob.I:104, \"London\"",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ フィナーレ", "en": "Nodame Cantabile: Finale" },
+        "year": 2010,
+        "kind": "anime",
+        "note": {
+          "ja": "国際指揮者コンクールの2次審査で、主人公が本番直前に手渡される見知らぬ課題曲として使われる。",
+          "en": "Handed to the protagonist as an unfamiliar piece shortly before he must conduct it in the second round of an international conducting competition."
+        }
+      }
+    ]
   }
 }
