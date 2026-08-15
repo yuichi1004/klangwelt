@@ -208,32 +208,52 @@ export function matchedMediaTitle(
   return match ? match[locale] : undefined;
 }
 
-let workIndexRequest: Promise<WorkIndexRow[]> | undefined;
+/**
+ * Cached on `globalThis` rather than a plain module-level `let`: `globalThis`
+ * is the one place guaranteed to be shared no matter how a bundler happens
+ * to split this module across chunks, so the memoisation below cannot be
+ * silently defeated by a copy of this module's top-level state that isn't
+ * the one another component's chunk imported.
+ */
+const WORK_INDEX_CACHE_KEY = Symbol.for("klangwelt.workIndexRequest");
+
+interface GlobalWithWorkIndexCache {
+  [WORK_INDEX_CACHE_KEY]?: Promise<WorkIndexRow[]>;
+}
 
 /**
  * The full index, fetched as a static asset. Inlining all 1,286 rows into
  * every page's HTML made the landing page ~800 KB; as a separate file it is
  * fetched once and cached across navigations.
  *
- * The in-flight/resolved request is memoised at module scope so that two
- * client components mounted on the same page (the catalogue browser and the
- * favourites-based recommendations) share one network request instead of
- * both fetching the ~235 KB file. A failed request clears the memo so a
- * transient network error does not stick around for the rest of the visit.
+ * The in-flight/resolved request is memoised so that two client components
+ * mounted on the same page (the catalogue browser and the favourites-based
+ * recommendations) share one network request instead of both fetching the
+ * ~235 KB file. A failed request clears the memo so a transient network
+ * error does not stick around for the rest of the visit.
+ *
+ * React's Strict Mode intentionally double-invokes effects in development,
+ * so two calls from the same component are expected there — the cache
+ * above makes the second one a no-op (the same promise, not a second
+ * request) rather than a real duplicate fetch. See the "fetchWorkIndex"
+ * block in `catalog.test.ts` for the memoisation itself.
  */
 export function fetchWorkIndex(): Promise<WorkIndexRow[]> {
-  if (!workIndexRequest) {
-    workIndexRequest = fetch("/data/work-index.json")
+  const cache = globalThis as GlobalWithWorkIndexCache;
+  let request = cache[WORK_INDEX_CACHE_KEY];
+  if (!request) {
+    request = fetch("/data/work-index.json")
       .then((response) => {
         if (!response.ok) throw new Error("Failed to load the work index");
         return response.json() as Promise<WorkIndexRow[]>;
       })
       .catch((error: unknown) => {
-        workIndexRequest = undefined;
+        cache[WORK_INDEX_CACHE_KEY] = undefined;
         throw error;
       });
+    cache[WORK_INDEX_CACHE_KEY] = request;
   }
-  return workIndexRequest;
+  return request;
 }
 
 /** Server-side index, for the statically rendered part of the catalogue. */
