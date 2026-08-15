@@ -120,6 +120,16 @@
     "count": "{count}曲",
     "storageNote": "お気に入りはこのブラウザにのみ保存されます。"
   },
+  "discover": {
+    "heading": "お気に入りから、次の1曲",
+    "hint": "保存した曲の傾向から選んでいます。訪れるたびに変わります。",
+    "refresh": "選び直す",
+    "reason": {
+      "composer": "{name} が好きなら",
+      "epoch": "{label} をもっと",
+      "genre": "{label} から"
+    }
+  },
   "credits": {
     "heading": "出典とライセンス",
     "intro": "このサイトが利用しているデータと画像の出典です。",

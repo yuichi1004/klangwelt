@@ -25,6 +25,25 @@ const filteredResultsPattern = new RegExp(`^[\\d,]+曲 / 全${CORE_COUNT}曲$`);
 const searchBox = (page: Page) =>
   page.getByRole("searchbox", { name: "曲名・作曲家名で検索" });
 
+const discoverSection = (page: Page) => page.getByTestId("discover");
+const discoverCards = (page: Page) =>
+  discoverSection(page).locator('a[href^="/ja/works/"]');
+
+async function seedFavorites(page: Page, workIds: string[]) {
+  // Same idiom as the "corrupt storage" test below: navigate same-origin
+  // first so localStorage is reachable, seed it, then navigate to the page
+  // under test so it reads the seeded value on its initial mount.
+  await page.goto("/ja");
+  await page.evaluate(
+    (ids) =>
+      window.localStorage.setItem(
+        "klangwelt.favorites.v1",
+        JSON.stringify({ version: 1, workIds: ids }),
+      ),
+    workIds,
+  );
+}
+
 test.describe("catalogue filtering", () => {
   test.skip(
     ({ isMobile }) => Boolean(isMobile),
@@ -271,6 +290,77 @@ test.describe("favourites", () => {
     );
     await page.goto("/ja/favorites");
     await expect(page.getByText("まだお気に入りがありません。")).toBeVisible();
+  });
+});
+
+test.describe("discover (homepage recommendations)", () => {
+  // Chopin core works — 22 in the index, several stars bands, enough for the
+  // recommendation pool to comfortably clear six distinct-composer picks.
+  const CHOPIN_FAVORITES = ["17109", "17217", "17179"];
+
+  test("shows six recommendations built from favourites", async ({ page }) => {
+    await seedFavorites(page, CHOPIN_FAVORITES);
+    await page.goto("/ja");
+
+    await expect(discoverSection(page)).toBeVisible();
+    await expect(discoverCards(page)).toHaveCount(6);
+  });
+
+  test("never recommends an already-favourited work", async ({ page }) => {
+    await seedFavorites(page, CHOPIN_FAVORITES);
+    await page.goto("/ja");
+
+    await expect(discoverCards(page)).toHaveCount(6);
+    const hrefs = await discoverCards(page).evaluateAll((links) =>
+      links.map((link) => link.getAttribute("href")),
+    );
+    for (const id of CHOPIN_FAVORITES) {
+      expect(hrefs).not.toContain(`/ja/works/${id}`);
+    }
+  });
+
+  test("選び直す draws a different lineup", async ({ page }) => {
+    await seedFavorites(page, CHOPIN_FAVORITES);
+    await page.goto("/ja");
+
+    await expect(discoverCards(page)).toHaveCount(6);
+    const before = await discoverCards(page).evaluateAll((links) =>
+      links.map((link) => link.getAttribute("href")),
+    );
+
+    await discoverSection(page)
+      .getByRole("button", { name: "選び直す" })
+      .click();
+    await expect(discoverCards(page)).toHaveCount(6);
+    const after = await discoverCards(page).evaluateAll((links) =>
+      links.map((link) => link.getAttribute("href")),
+    );
+
+    expect(after).not.toEqual(before);
+  });
+
+  test("is absent when there are no favourites", async ({ page }) => {
+    await page.goto("/ja");
+    await expect(discoverSection(page)).toHaveCount(0);
+  });
+
+  test("favouriting a recommended work does not remove it from view", async ({
+    page,
+  }) => {
+    // Regression test: the six picks are computed once per seed and must
+    // not react to the favourites list changing mid-visit, or clicking a
+    // card's own star would yank it out from under the pointer.
+    await seedFavorites(page, CHOPIN_FAVORITES);
+    await page.goto("/ja");
+
+    await expect(discoverCards(page)).toHaveCount(6);
+    const firstCard = discoverCards(page).first();
+    const href = await firstCard.getAttribute("href");
+
+    await firstCard.getByRole("button", { name: "お気に入りに追加" }).click();
+
+    await expect(discoverCards(page)).toHaveCount(6);
+    await expect(page.locator(`a[href="${href}"]`).first()).toBeVisible();
   });
 });
 

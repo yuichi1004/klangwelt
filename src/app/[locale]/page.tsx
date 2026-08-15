@@ -3,6 +3,7 @@ import { Suspense } from "react";
 
 import { CatalogBrowser } from "@/components/catalog-browser";
 import { CatalogFallback } from "@/components/catalog-fallback";
+import { Recommendations } from "@/components/recommendations";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import {
   buildComposerOptions,
@@ -49,6 +50,8 @@ export default async function CatalogPage(props: PageProps<"/[locale]">) {
           </p>
         </div>
       </section>
+
+      <Recommendations locale={locale} composers={composers} />
 
       {/*
         `CatalogBrowser` reads the filters out of the query string, which Next
