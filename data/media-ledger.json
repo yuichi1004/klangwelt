@@ -250,7 +250,7 @@
     "title": "The Entertainer",
     "composer": "Joplin",
     "stars": 5,
-    "status": "todo"
+    "status": "done"
   },
   "15562": {
     "title": "Rhapsody in Blue",
@@ -262,7 +262,8 @@
     "title": "Kinderszenen, op. 15",
     "composer": "Schumann",
     "stars": 5,
-    "status": "todo"
+    "status": "skip",
+    "note": "the strongest candidate (Song of Love, 1947) has confirmed piece+scene detail but no confirmable Japanese release title; a second candidate (Dreaming/Träumerei, 1944) is only a title connection with no scene detail and no Japanese title either"
   },
   "14160": {
     "title": "L'Apprenti Sorcier",
@@ -286,13 +287,15 @@
     "title": "Peter and the Wolf, op. 67",
     "composer": "Prokofiev",
     "stars": 5,
-    "status": "todo"
+    "status": "skip",
+    "note": "all confirmed usages are direct musical-narrative adaptations/settings of the piece itself (it is a narrated concert work meant to be performed as-is), not usage within a separate unrelated story"
   },
   "19597": {
     "title": "Fanfare for the Common Man",
     "composer": "Copland",
     "stars": 5,
-    "status": "todo"
+    "status": "skip",
+    "note": "the only usage found (Ready to Rumble, 2000) is a minor/low-prestige film that does not meet the popular-recognition bar; widely-repeated claims (Superman, Saving Private Ryan) were checked and are false — those scores are merely influenced by it, not actual uses of the piece"
   },
   "22505": {
     "title": "The Rite of Spring",
@@ -316,7 +319,7 @@
     "title": "Rigoletto",
     "composer": "Verdi",
     "stars": 5,
-    "status": "todo"
+    "status": "done"
   },
   "16519": {
     "title": "Tosca",
@@ -328,19 +331,20 @@
     "title": "La bohème",
     "composer": "Puccini",
     "stars": 5,
-    "status": "todo"
+    "status": "done"
   },
   "26120": {
     "title": "Symphony no. 104 in D, Hob.I:104, \"London\"",
     "composer": "Haydn",
     "stars": 5,
-    "status": "todo"
+    "status": "done"
   },
   "20545": {
     "title": "Symphony no. 9 in C major, D.944, \"Great\"",
     "composer": "Schubert",
     "stars": 5,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "10074": {
     "title": "Goldberg Variations, BWV.988",
@@ -1365,13 +1369,15 @@
     "title": "Bachianas Brasileiras no. 5, for voice and 8 cellos, A.389",
     "composer": "Villa-Lobos",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed on the Spy Kids 2 (2002) soundtrack but no scene context could be confirmed"
   },
   "10830": {
     "title": "Glassworks, 6 pieces for chamber ensemble or piano",
     "composer": "Glass",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed as part of The Truman Show (1998) score (the \"Opening\" movement) but no specific scene context could be confirmed"
   },
   "3436": {
     "title": "Libertango, tango for chamber ensemble",
@@ -1383,7 +1389,8 @@
     "title": "Missa Papae Marcelli",
     "composer": "Palestrina",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed on The Two Popes (2019) soundtrack but no scene context could be confirmed"
   },
   "4612": {
     "title": "Requiem, op. 48",
@@ -1420,13 +1427,14 @@
     "title": "Peter Grimes, op. 33",
     "composer": "Britten",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed with strong scene detail in two productions (a 2026 BBC/Stan miniseries; The Angelic Conversation, 1985) but no confirmable Japanese title for either"
   },
   "1155": {
     "title": "Violin Sonata in A major, M.8",
     "composer": "Franck",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "1480": {
     "title": "Symphony no. 3, op. 36, \"Symphony of Sorrowful Songs\"",
@@ -1438,49 +1446,57 @@
     "title": "Symphony no. 4, FS76, op. 29, \"The Inextinguishable\"",
     "composer": "Nielsen",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "19038": {
     "title": "Violin Sonata in G minor, B.g5, \"The Devil's Trill\"",
     "composer": "Tartini",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found; the widely-repeated claim that it is used in The Red Violin (1998) was checked and is false — that film uses an original John Corigliano score"
   },
   "14525": {
     "title": "España, rhapsody for orchestra",
     "composer": "Chabrier",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "2484": {
     "title": "Estancia, op. 8a",
     "composer": "Ginastera",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "2596": {
     "title": "Háry János, suite from the opera",
     "composer": "Kodály",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage in an unrelated work found; existing screen adaptations are direct adaptations of the Háry János opera itself"
   },
   "17387": {
     "title": "Symphonic Metamorphosis of Themes by Carl Maria von Weber",
     "composer": "Hindemith",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "5257": {
     "title": "Symphonie espagnole, for violin and orchestra in D minor, op. 21",
     "composer": "Lalo",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "3682": {
     "title": "Symphony no. 1 in B flat minor",
     "composer": "Walton",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found for the symphony itself (Walton wrote extensively for film separately, e.g. Henry V, but not using this symphony)"
   },
   "25148": {
     "title": "Threnody 'to the Victims of Hiroshima', for 52 strings",
@@ -1505,19 +1521,22 @@
     "title": "Goyescas, H.63",
     "composer": "Granados",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "the only usage found (a 1942 Spanish film) is a direct adaptation/dramatization of the piece's own zarzuela, not usage within an unrelated work"
   },
   "3533": {
     "title": "Organ Symphony no. 5 in F minor, op. 42, no. 1",
     "composer": "Widor",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "confirmed on two film soundtracks (Crush, 2001; Love in the Time of Cholera, 2007) but no scene context could be confirmed for either"
   },
   "17542": {
     "title": "Ruslan and Lyudmila, G.xiv",
     "composer": "Glinka",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "14813": {
     "title": "Spem in alium",
@@ -1530,25 +1549,26 @@
     "title": "Stabat mater, for soprano, alto, and strings",
     "composer": "Pergolesi",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "813": {
     "title": "Te Deum, for 8 voices, chorus, and orchestra, H.146",
     "composer": "Charpentier",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "4501": {
     "title": "Symphony no. 5, FS97, op. 50",
     "composer": "Nielsen",
     "stars": 4,
-    "status": "todo"
+    "status": "skip",
+    "note": "no verified usage found"
   },
   "28117": {
     "title": "Oboe Concerto in D minor, op. 1, SF.935",
     "composer": "Marcello, A.",
     "stars": 4,
-    "status": "todo"
+    "status": "done"
   },
   "1733": {
     "title": "Bridge on the River Kwai",
