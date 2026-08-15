@@ -208,15 +208,32 @@ export function matchedMediaTitle(
   return match ? match[locale] : undefined;
 }
 
+let workIndexRequest: Promise<WorkIndexRow[]> | undefined;
+
 /**
  * The full index, fetched as a static asset. Inlining all 1,286 rows into
  * every page's HTML made the landing page ~800 KB; as a separate file it is
  * fetched once and cached across navigations.
+ *
+ * The in-flight/resolved request is memoised at module scope so that two
+ * client components mounted on the same page (the catalogue browser and the
+ * favourites-based recommendations) share one network request instead of
+ * both fetching the ~235 KB file. A failed request clears the memo so a
+ * transient network error does not stick around for the rest of the visit.
  */
-export async function fetchWorkIndex(): Promise<WorkIndexRow[]> {
-  const response = await fetch("/data/work-index.json");
-  if (!response.ok) throw new Error("Failed to load the work index");
-  return (await response.json()) as WorkIndexRow[];
+export function fetchWorkIndex(): Promise<WorkIndexRow[]> {
+  if (!workIndexRequest) {
+    workIndexRequest = fetch("/data/work-index.json")
+      .then((response) => {
+        if (!response.ok) throw new Error("Failed to load the work index");
+        return response.json() as Promise<WorkIndexRow[]>;
+      })
+      .catch((error: unknown) => {
+        workIndexRequest = undefined;
+        throw error;
+      });
+  }
+  return workIndexRequest;
 }
 
 /** Server-side index, for the statically rendered part of the catalogue. */
