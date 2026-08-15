@@ -120,6 +120,16 @@
     "count": "{count} works",
     "storageNote": "Favourites are stored in this browser only."
   },
+  "discover": {
+    "heading": "From your favourites, something new",
+    "hint": "Picked from the trends in what you've saved. Changes every visit.",
+    "refresh": "Shuffle",
+    "reason": {
+      "composer": "If you like {name}",
+      "epoch": "More from the {label}",
+      "genre": "From your {label} favourites"
+    }
+  },
   "credits": {
     "heading": "Credits and licences",
     "intro": "Where the data and images on this site come from.",
