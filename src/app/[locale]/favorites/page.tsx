@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
+import { BackupPanel } from "@/components/backup-panel";
 import { FavoritesList } from "@/components/favorites-list";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { buildComposerOptions } from "@/lib/catalog";
@@ -38,6 +39,7 @@ export default async function FavoritesPage(
       </p>
 
       <FavoritesList locale={locale} composers={buildComposerOptions()} />
+      <BackupPanel locale={locale} />
     </div>
   );
 }

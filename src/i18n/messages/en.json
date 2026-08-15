@@ -120,6 +120,21 @@
     "count": "{count} works",
     "storageNote": "Favourites are stored in this browser only."
   },
+  "backup": {
+    "heading": "Backup & transfer",
+    "description": "Export your favourites and language setting to move them to another browser or device.",
+    "export": "Export",
+    "download": "Download file",
+    "copy": "Copy",
+    "copied": "Copied",
+    "import": "Import",
+    "importFile": "Choose a file",
+    "importPaste": "Paste here",
+    "importPreview": "This will import {favorites} favourite(s). {added} new, {skipped} already saved.",
+    "importPreviewLocale": "This will import {favorites} favourite(s) and the language setting ({locale}). {added} new, {skipped} already saved.",
+    "importApply": "Apply",
+    "importError": "Could not read this backup. Check the file contents and try again."
+  },
   "discover": {
     "heading": "From your favourites, something new",
     "hint": "Picked from the trends in what you've saved. Changes every visit.",

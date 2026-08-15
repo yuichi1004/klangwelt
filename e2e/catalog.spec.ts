@@ -1,3 +1,5 @@
+import fs from "node:fs";
+
 import { expect, test } from "@playwright/test";
 
 import catalogMeta from "../data/catalog/meta.json";
@@ -290,6 +292,169 @@ test.describe("favourites", () => {
     );
     await page.goto("/ja/favorites");
     await expect(page.getByText("まだお気に入りがありません。")).toBeVisible();
+  });
+});
+
+test.describe("favourites backup", () => {
+  const backupToggle = (page: Page) =>
+    page.getByRole("button", { name: "バックアップ・移行" });
+  const exportTextarea = (page: Page) => page.locator("textarea[readonly]");
+  const importTextarea = (page: Page) => page.getByPlaceholder("ここに貼り付け");
+  const importSubmit = (page: Page) =>
+    page.getByRole("button", { name: "読み込む" });
+  const importApply = (page: Page) =>
+    page.getByRole("button", { name: "適用する" });
+
+  test("exports the current favourites as a downloadable file", async ({
+    page,
+  }) => {
+    await seedFavorites(page, ["16406", "23610"]);
+    await page.goto("/ja/favorites");
+    await backupToggle(page).click();
+
+    const [download] = await Promise.all([
+      page.waitForEvent("download"),
+      page.getByRole("button", { name: "ファイルをダウンロード" }).click(),
+    ]);
+
+    expect(download.suggestedFilename()).toMatch(
+      /^klangwelt-backup-\d{4}-\d{2}-\d{2}\.json$/,
+    );
+    const path = await download.path();
+    const content = JSON.parse(fs.readFileSync(path!, "utf-8"));
+    expect(content).toMatchObject({
+      app: "klangwelt",
+      exportVersion: 1,
+      favorites: { version: 1, workIds: ["16406", "23610"] },
+      locale: "ja",
+    });
+  });
+
+  test("restores favourites pasted from another browser context", async ({
+    browser,
+  }) => {
+    const firstContext = await browser.newContext();
+    const firstPage = await firstContext.newPage();
+    await seedFavorites(firstPage, ["16406", "23610"]);
+    await firstPage.goto("/ja/favorites");
+    await backupToggle(firstPage).click();
+    const exported = await exportTextarea(firstPage).inputValue();
+    await firstContext.close();
+
+    const secondContext = await browser.newContext();
+    const secondPage = await secondContext.newPage();
+    await secondPage.goto("/ja/favorites");
+    await backupToggle(secondPage).click();
+    await importTextarea(secondPage).fill(exported);
+    await importSubmit(secondPage).click();
+    // The exported payload carries `locale: "ja"`, so the preview text uses
+    // the locale-aware template rather than the favourites-only one.
+    await expect(
+      secondPage.getByText("お気に入り2曲・言語設定「日本語」を読み込みます"),
+    ).toBeVisible();
+    await importApply(secondPage).click();
+
+    await expect(secondPage.getByText("2曲")).toBeVisible();
+    const stored = await secondPage.evaluate(() =>
+      window.localStorage.getItem("klangwelt.favorites.v1"),
+    );
+    expect(JSON.parse(stored ?? "{}")).toEqual({
+      version: 1,
+      workIds: ["16406", "23610"],
+    });
+    await secondContext.close();
+  });
+
+  test("merges with existing favourites instead of overwriting them", async ({
+    page,
+  }) => {
+    await seedFavorites(page, ["16406"]);
+    await page.goto("/ja/favorites");
+    await backupToggle(page).click();
+
+    const backup = JSON.stringify({
+      app: "klangwelt",
+      exportVersion: 1,
+      exportedAt: "2026-08-15T00:00:00.000Z",
+      favorites: { version: 1, workIds: ["16406", "23610"] },
+    });
+    await importTextarea(page).fill(backup);
+    await importSubmit(page).click();
+    await expect(
+      page.getByText(
+        "お気に入り2曲を読み込みます。1件が新規に追加されます（1件は既にお気に入り済みです）。",
+      ),
+    ).toBeVisible();
+    await importApply(page).click();
+
+    await expect(page.getByText("2曲")).toBeVisible();
+    const stored = await page.evaluate(() =>
+      window.localStorage.getItem("klangwelt.favorites.v1"),
+    );
+    expect(JSON.parse(stored ?? "{}")).toEqual({
+      version: 1,
+      workIds: ["16406", "23610"],
+    });
+  });
+
+  test("shows an error and keeps existing favourites when the input is invalid", async ({
+    page,
+  }) => {
+    await seedFavorites(page, ["16406"]);
+    await page.goto("/ja/favorites");
+    await backupToggle(page).click();
+
+    await importTextarea(page).fill("{not json");
+    await importSubmit(page).click();
+
+    await expect(page.getByText("読み込めませんでした")).toBeVisible();
+    const stored = await page.evaluate(() =>
+      window.localStorage.getItem("klangwelt.favorites.v1"),
+    );
+    expect(JSON.parse(stored ?? "{}")).toEqual({
+      version: 1,
+      workIds: ["16406"],
+    });
+  });
+
+  test("file selection is available on desktop", async ({
+    page,
+    isMobile,
+  }) => {
+    test.skip(
+      Boolean(isMobile),
+      "hidden file input + setInputFiles is unreliable under mobile emulation",
+    );
+    await seedFavorites(page, ["16406"]);
+    await page.goto("/ja/favorites");
+    await backupToggle(page).click();
+
+    const backup = JSON.stringify({
+      app: "klangwelt",
+      exportVersion: 1,
+      exportedAt: "2026-08-15T00:00:00.000Z",
+      favorites: { version: 1, workIds: ["23610"] },
+    });
+    await page.setInputFiles('input[type="file"]', {
+      name: "klangwelt-backup.json",
+      mimeType: "application/json",
+      buffer: Buffer.from(backup),
+    });
+
+    await expect(
+      page.getByText(
+        "お気に入り1曲を読み込みます。1件が新規に追加されます（0件は既にお気に入り済みです）。",
+      ),
+    ).toBeVisible();
+    await importApply(page).click();
+
+    const stored = await page.evaluate(() =>
+      window.localStorage.getItem("klangwelt.favorites.v1"),
+    );
+    expect(JSON.parse(stored ?? "{}")).toEqual({
+      version: 1,
+      workIds: ["16406", "23610"],
+    });
   });
 });
 
