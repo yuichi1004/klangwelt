@@ -16,9 +16,11 @@ import { portraitThumb } from "@/lib/portrait-thumb";
  * w-full object-contain` makes a crop geometrically impossible — the
  * portraits include CC BY-SA files, and cropping one would make it an
  * adaptation (see `CONTRIBUTING.md`'s 肖像画 section and
- * `composer-portrait.tsx`). Note this is deliberately *not* the `max-h-full
- * w-auto` inside `overflow-hidden` that `ComposerPortrait` uses at
- * `showCredit={false}`, which does clip the handful of landscape outliers.
+ * `composer-portrait.tsx`). `ComposerPortrait`'s `showCredit={false}` branch
+ * uses the same `object-contain`-on-both-axes approach as of issue #111; it
+ * used to be `max-h-full w-auto` inside `overflow-hidden`, which bounded
+ * only the height and let wide portraits silently clip instead of
+ * letterbox.
  *
  * The dark `bg-paper` well matters beyond taste: many portraits are
  * engravings on white, which glare against the olive page (issue #111).
