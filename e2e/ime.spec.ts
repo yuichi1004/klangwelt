@@ -21,6 +21,11 @@ import catalogMeta from "../data/catalog/meta.json";
 const searchBox = (page: Page) =>
   page.getByRole("searchbox", { name: "曲名・作曲家名で検索" });
 
+/** The epoch/genre/popularity/composer filters live in a panel collapsed by
+ *  default, shared by mobile and desktop; open it before reaching into it. */
+const openFilterPanel = (page: Page) =>
+  page.getByRole("button", { name: /^絞り込み/ }).click();
+
 /**
  * Types as a Japanese IME does: each keystroke replaces the whole
  * pre-edit string, then the conversion is committed in one go.
@@ -45,10 +50,9 @@ async function composeAndCommit(
 }
 
 test.describe("Japanese IME input in the search box", () => {
-  test.skip(
-    ({ isMobile }) => Boolean(isMobile),
-    "covered separately through the mobile filter sheet",
-  );
+  // The search box is a single always-visible field shared by mobile and
+  // desktop now (no separate copy inside a mobile-only sheet), so these run
+  // against both projects.
 
   test("keeps only the committed text, not every pre-edit keystroke", async ({
     page,
@@ -124,14 +128,13 @@ test.describe("Japanese IME input in the search box", () => {
  * cover the ways the two have to stay in step.
  */
 test.describe("search field and URL stay in step", () => {
-  test.skip(({ isMobile }) => Boolean(isMobile), "uses the desktop sidebar");
-
   test("clearing the filters empties the field, not just the URL", async ({
     page,
   }) => {
     await page.goto("/ja?q=Moonlight");
     await expect(searchBox(page)).toHaveValue("Moonlight");
 
+    await openFilterPanel(page);
     await page.getByRole("button", { name: "条件をクリア" }).click();
 
     await expect(page).toHaveURL(/\/ja$/);
@@ -159,6 +162,7 @@ test.describe("search field and URL stay in step", () => {
     page,
   }) => {
     await page.goto("/ja");
+    await openFilterPanel(page);
     // Type and immediately click, inside the debounce window.
     await searchBox(page).pressSequentially("Symphony", { delay: 10 });
     await page.getByRole("button", { name: "バロック" }).click();
@@ -175,23 +179,5 @@ test.describe("search field and URL stay in step", () => {
     await expect(page).toHaveURL(/q=Beethoven/);
     // router.replace should not grow history at all, let alone once per key.
     expect(await page.evaluate(() => history.length)).toBe(before);
-  });
-});
-
-test.describe("Japanese IME input inside the mobile filter sheet", () => {
-  test.skip(({ isMobile }) => !isMobile, "mobile-only");
-
-  test("keeps only the committed text", async ({ page }) => {
-    await page.goto("/ja");
-    await page.getByRole("button", { name: /^絞り込み/ }).click();
-
-    // The desktop sidebar is display:none here, so only the sheet's field is
-    // visible; scope to it rather than matching both copies of the panel.
-    const field = searchBox(page).and(page.locator(":visible"));
-    await field.click();
-
-    await composeAndCommit(page, ["へ", "べ", "べー", "べーとー"], "ベートーベン");
-
-    await expect(field).toHaveValue("ベートーベン");
   });
 });

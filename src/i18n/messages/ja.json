@@ -49,7 +49,9 @@
     "sortLabel": "並び順",
     "sortStandard": "定番度順",
     "sortTitle": "曲名順",
-    "sortComposer": "作曲家順"
+    "sortComposer": "作曲家順",
+    "browseAll": "全{count}曲を見る",
+    "backToDiscover": "発見に戻る"
   },
   "composers": {
     "resultCount": "{count}名",
@@ -154,6 +156,8 @@
   "discover": {
     "heading": "お気に入りから、次の1曲",
     "hint": "保存した曲の傾向から選んでいます。訪れるたびに変わります。",
+    "popularHeading": "人気の曲",
+    "popularHint": "定番の楽曲からランダムに選んでいます。訪れるたびに変わります。",
     "refresh": "選び直す",
     "reason": {
       "composer": "{name} が好きなら",

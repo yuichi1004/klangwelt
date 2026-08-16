@@ -1,15 +1,19 @@
+import Link from "next/link";
+
 import { WorkCard } from "@/components/work-card";
 import { getMessages, type Locale } from "@/i18n/config";
-import type { SearchableWork } from "@/lib/catalog";
+import { EMPTY_FILTERS, type SearchableWork } from "@/lib/catalog";
+import { writeFilters } from "@/lib/catalog-url";
 
 /**
  * The non-interactive view of the catalogue, used as the Suspense fallback
  * for `CatalogBrowser`.
  *
  * `CatalogBrowser` reads the query string with `useSearchParams`, which Next
- * requires to sit inside a Suspense boundary. Rendering the first page of
- * results as the fallback means the exported HTML still ships real content
- * for crawlers and for first paint, instead of a spinner.
+ * requires to sit inside a Suspense boundary. This fallback mirrors what a
+ * plain visit (no search, no filters) shows once hydrated — the discovery
+ * feed, top of the standard-repertoire ranking — so the exported HTML still
+ * ships real content for crawlers and for first paint, instead of a spinner.
  */
 export function CatalogFallback({
   locale,
@@ -23,22 +27,21 @@ export function CatalogFallback({
   const messages = getMessages(locale);
 
   return (
-    <div className="mx-auto max-w-6xl gap-8 px-4 py-6 sm:px-6 lg:flex lg:py-10">
-      <aside className="hidden w-72 shrink-0 lg:block">
-        <h2 className="mb-4 text-sm font-semibold text-ink">
-          {messages.filters.heading}
-        </h2>
-      </aside>
+    <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
+      <div className="-mx-4 bg-paper px-4 py-3 sm:-mx-6 sm:px-6">
+        <div className="flex items-center gap-2">
+          <div className="flex min-w-0 flex-1 items-center gap-2 rounded-full border border-line bg-paper-raised px-3.5 py-2 text-sm text-ink-faint">
+            {messages.filters.searchPlaceholder}
+          </div>
+          <div className="shrink-0 rounded-full border border-line px-3.5 py-2 text-sm text-ink-soft">
+            {messages.filters.open}
+          </div>
+        </div>
+      </div>
 
-      <div className="min-w-0 flex-1">
-        <p className="mb-4 text-sm text-ink-soft">
-          {messages.catalog.resultCount.replace(
-            "{count}",
-            totalCount.toLocaleString(),
-          )}
-        </p>
+      <div className="mt-4">
         <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-          {works.map((work) => (
+          {works.slice(0, 12).map((work) => (
             <li key={work.id}>
               <WorkCard
                 locale={locale}
@@ -54,6 +57,17 @@ export function CatalogFallback({
             </li>
           ))}
         </ul>
+        <div className="mt-6 text-center">
+          <Link
+            href={`/${locale}${writeFilters(EMPTY_FILTERS, "standard", true)}`}
+            className="text-sm text-accent underline underline-offset-2"
+          >
+            {messages.catalog.browseAll.replace(
+              "{count}",
+              totalCount.toLocaleString(),
+            )}
+          </Link>
+        </div>
       </div>
     </div>
   );

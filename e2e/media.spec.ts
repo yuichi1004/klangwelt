@@ -51,16 +51,12 @@ test.describe("film/anime/TV appearances", () => {
 
   test("searching by a film title narrows the catalogue and badges the card", async ({
     page,
-    isMobile,
   }) => {
     await page.goto("/ja");
-    // The search box lives inside the mobile filter sheet, hidden until it's
-    // opened — same pattern as e2e/ime.spec.ts's mobile IME coverage.
-    if (isMobile) await page.getByRole("button", { name: /^絞り込み/ }).click();
-
+    // The search box is a single always-visible field shared by mobile and
+    // desktop — no panel to open first.
     await searchBox(page).fill(clockworkOrange.title.ja);
     await expect(page).toHaveURL(/q=/);
-    if (isMobile) await page.getByRole("button", { name: "閉じる" }).last().click();
 
     const card = page.locator('a[href="/ja/works/16238"]');
     await expect(card).toBeVisible();
@@ -73,13 +69,9 @@ test.describe("film/anime/TV appearances", () => {
 
   test("searching by the work's own title shows no media badge", async ({
     page,
-    isMobile,
   }) => {
     await page.goto("/ja");
-    if (isMobile) await page.getByRole("button", { name: /^絞り込み/ }).click();
-
     await searchBox(page).fill("交響曲第9番");
-    if (isMobile) await page.getByRole("button", { name: "閉じる" }).last().click();
 
     const card = page.locator('a[href="/ja/works/16238"]');
     await expect(card).toBeVisible();

@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
@@ -10,9 +11,11 @@ import {
   starChipLabel,
   toggleIn,
 } from "@/components/filter-controls";
+import { Recommendations } from "@/components/recommendations";
 import { WorkCard } from "@/components/work-card";
 import { getMessages, type Locale } from "@/i18n/config";
 import {
+  EMPTY_FILTERS,
   fetchWorkIndex,
   filterWorks,
   joinComposers,
@@ -56,7 +59,9 @@ export function CatalogBrowser({
   composers,
 }: {
   locale: Locale;
-  /** The first page of results, rendered statically for first paint and SEO. */
+  /** The first page of results, rendered statically for first paint and SEO.
+   *  Sorted by standard repertoire, so it doubles as the discovery feed's
+   *  fallback before favourites and the client index are ready. */
   initialWorks: SearchableWork[];
   totalCount: number;
   composers: ComposerOption[];
@@ -66,7 +71,7 @@ export function CatalogBrowser({
   const searchParams = useSearchParams();
   const [indexRows, setIndexRows] = useState<WorkIndexRow[] | null>(null);
 
-  const { filters, sort } = useMemo(
+  const { filters, sort, view } = useMemo(
     () => readFilters(searchParams),
     [searchParams],
   );
@@ -142,6 +147,8 @@ export function CatalogBrowser({
       // and used to overwrite what the user is typing.
       setLastUrlQuery(nextFilters.query);
       setVisible(PAGE_SIZE);
+      // A real filter/search action supersedes a plain "view all" browse —
+      // the two together would be redundant, so this always drops `view`.
       router.replace(`/${locale}${writeFilters(nextFilters, nextSort)}`, {
         scroll: false,
       });
@@ -160,7 +167,10 @@ export function CatalogBrowser({
    * everything and then navigating elsewhere on the site does not bring the
    * old filters back.
    */
-  const queryString = useMemo(() => writeFilters(filters, sort), [filters, sort]);
+  const queryString = useMemo(
+    () => writeFilters(filters, sort, view),
+    [filters, sort, view],
+  );
   const restoreChecked = useRef(false);
 
   useEffect(() => {
@@ -229,6 +239,11 @@ export function CatalogBrowser({
     filters.genres.length +
     (filters.minStars === 0 ? 0 : 1) +
     (queryText ? 1 : 0);
+
+  // The two journeys this page offers: a specific search/filter, or the
+  // condition-free discovery feed. `?view=all` is a third way into the list
+  // — "show me everything" — with no filter of its own.
+  const listMode = activeCount > 0 || view;
 
   const clearAll = useCallback(() => {
     setComposerQuery("");
@@ -325,32 +340,10 @@ export function CatalogBrowser({
     locale,
   ]);
 
-  const filterPanel = (
-    <div className="space-y-6">
-      <FilterGroup id="search" label={messages.filters.search}>
-        <input
-          type="search"
-          aria-label={messages.filters.search}
-          value={queryText}
-          onChange={(event) => setQueryText(event.target.value)}
-          onCompositionStart={() => setIsComposing(true)}
-          onCompositionEnd={(event) => {
-            // Safari fires compositionend *before* the final input event and
-            // Chrome after it, so read the value here rather than relying on
-            // onChange having already run.
-            setQueryText(event.currentTarget.value);
-            setIsComposing(false);
-          }}
-          placeholder={messages.filters.searchPlaceholder}
-          autoComplete="off"
-          autoCorrect="off"
-          autoCapitalize="none"
-          spellCheck={false}
-          enterKeyHint="search"
-          className="w-full rounded-md border border-line bg-paper px-3 py-2 text-sm text-ink placeholder:text-ink-faint"
-        />
-      </FilterGroup>
+  const filterPanelId = "catalog-filter-panel";
 
+  const filterPanel = (
+    <div id={filterPanelId} className="space-y-6 border-t border-line pt-4">
       <FilterGroup id="popularity" label={messages.filters.popularity}>
         <div className="flex flex-wrap gap-1.5">
           {([0, 3, 4, 5] as const).map((value) => (
@@ -464,159 +457,206 @@ export function CatalogBrowser({
   );
 
   return (
-    <div className="mx-auto max-w-6xl gap-8 px-4 py-6 sm:px-6 lg:flex lg:py-10">
-      <aside className="hidden w-72 shrink-0 lg:block">
-        <h2 className="mb-4 text-sm font-semibold text-ink">
-          {messages.filters.heading}
-        </h2>
-        {filterPanel}
-      </aside>
-
-      <div className="min-w-0 flex-1">
-        <div className="mb-4 flex flex-wrap items-center gap-3">
-          <p data-testid="result-count" className="mr-auto text-sm text-ink-soft">
-            {!loaded || results.length === totalCount
-              ? messages.catalog.resultCount.replace(
-                  "{count}",
-                  (loaded ? results.length : totalCount).toLocaleString(),
-                )
-              : messages.catalog.resultCountFiltered
-                  .replace("{count}", results.length.toLocaleString())
-                  .replace("{total}", totalCount.toLocaleString())}
-          </p>
-
-          <label className="flex items-center gap-2 text-sm text-ink-soft">
-            <span className="sr-only sm:not-sr-only">
-              {messages.catalog.sortLabel}
-            </span>
-            <select
-              value={sort}
-              onChange={(event) =>
-                update(effectiveFilters, event.target.value as SortKey)
-              }
-              className="rounded-md border border-line bg-paper px-2 py-1.5 text-sm text-ink"
-            >
-              <option value="standard">{messages.catalog.sortStandard}</option>
-              <option value="title">{messages.catalog.sortTitle}</option>
-              <option value="composer">{messages.catalog.sortComposer}</option>
-            </select>
-          </label>
+    <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
+      {/* Single search + filter entry point, shared by mobile and desktop.
+          Only this compact row is sticky — the expanded panel below is
+          normal flow, so an open panel never grows into a tall sticky block
+          that pins itself over the rest of the page. Sticky under the
+          header so search stays reachable while scrolling the discovery
+          feed or a long results list (#110 in the UX review). */}
+      <div className="sticky top-14 z-20 -mx-4 bg-paper px-4 py-3 sm:-mx-6 sm:px-6">
+        <div className="flex items-center gap-2">
+          <div className="flex min-w-0 flex-1 items-center gap-2 rounded-full border border-line bg-paper-raised px-3.5 py-2 focus-within:border-accent">
+            <SearchIcon className="h-4 w-4 shrink-0 text-ink-faint" />
+            <input
+              type="search"
+              aria-label={messages.filters.search}
+              value={queryText}
+              onChange={(event) => setQueryText(event.target.value)}
+              onCompositionStart={() => setIsComposing(true)}
+              onCompositionEnd={(event) => {
+                // Safari fires compositionend *before* the final input event
+                // and Chrome after it, so read the value here rather than
+                // relying on onChange having already run.
+                setQueryText(event.currentTarget.value);
+                setIsComposing(false);
+              }}
+              placeholder={messages.filters.searchPlaceholder}
+              autoComplete="off"
+              autoCorrect="off"
+              autoCapitalize="none"
+              spellCheck={false}
+              enterKeyHint="search"
+              className="w-full min-w-0 bg-transparent text-sm text-ink placeholder:text-ink-faint focus:outline-none"
+            />
+          </div>
 
           <button
             type="button"
-            onClick={() => setPanelOpen(true)}
-            className="rounded-full border border-line px-3 py-1.5 text-sm text-ink-soft lg:hidden"
+            onClick={() => setPanelOpen((open) => !open)}
+            aria-expanded={panelOpen}
+            aria-controls={filterPanelId}
+            className="flex shrink-0 items-center gap-1.5 rounded-full border border-line px-3.5 py-2 text-sm text-ink-soft"
           >
             {messages.filters.open}
             {activeCount > 0 && (
-              <span className="ml-1.5 rounded-full bg-accent px-1.5 text-xs text-paper">
+              <span className="rounded-full bg-accent px-1.5 text-xs text-paper">
                 {activeCount}
               </span>
             )}
           </button>
         </div>
-
-        {activeChips.length > 0 && (
-          <div
-            role="group"
-            aria-label={messages.filters.active}
-            className="mb-4 flex flex-wrap items-center gap-1.5"
-          >
-            {activeChips.map((chip) => (
-              <RemovableChip
-                key={chip.key}
-                onRemove={chip.onRemove}
-                ariaLabel={messages.filters.remove.replace("{name}", chip.label)}
-              >
-                {chip.label}
-              </RemovableChip>
-            ))}
-            <button
-              type="button"
-              onClick={clearAll}
-              className="ml-1 text-sm text-accent underline underline-offset-2"
-            >
-              {messages.filters.clearAll}
-            </button>
-          </div>
-        )}
-
-        {results.length === 0 ? (
-          <div className="rounded-lg border border-dashed border-line p-10 text-center">
-            <p className="text-ink-soft">{messages.filters.noResults}</p>
-            <p className="mt-1 text-sm text-ink-faint">
-              {messages.filters.noResultsHint}
-            </p>
-          </div>
-        ) : (
-          <>
-            <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-              {results.slice(0, visible).map((work) => (
-                <li key={work.id}>
-                  <WorkCard
-                    locale={locale}
-                    workId={work.id}
-                    title={locale === "ja" ? work.titleJa : work.title}
-                    secondaryTitle={locale === "ja" ? work.title : undefined}
-                    composerName={
-                      locale === "ja" ? work.composerNameJa : work.composerName
-                    }
-                    genre={work.genre}
-                    stars={work.stars}
-                    mediaMatch={matchedMediaTitle(work, effectiveFilters.query, locale)}
-                  />
-                </li>
-              ))}
-            </ul>
-
-            {visible < results.length && (
-              <button
-                type="button"
-                onClick={() => setVisible((count) => count + PAGE_SIZE)}
-                className="mt-6 w-full rounded-md border border-line py-3 text-sm text-ink-soft hover:border-accent/40 hover:text-accent"
-              >
-                {messages.filters.showMore}
-              </button>
-            )}
-          </>
-        )}
       </div>
 
       {panelOpen && (
-        <div className="fixed inset-0 z-40 lg:hidden">
+        <div className="-mx-4 max-h-[70vh] overflow-y-auto border-b border-line bg-paper px-4 pb-4 sm:-mx-6 sm:px-6">
+          {filterPanel}
+        </div>
+      )}
+
+      {activeChips.length > 0 && (
+        <div
+          role="group"
+          aria-label={messages.filters.active}
+          className="mb-4 mt-4 flex flex-wrap items-center gap-1.5"
+        >
+          {activeChips.map((chip) => (
+            <RemovableChip
+              key={chip.key}
+              onRemove={chip.onRemove}
+              ariaLabel={messages.filters.remove.replace("{name}", chip.label)}
+            >
+              {chip.label}
+            </RemovableChip>
+          ))}
           <button
             type="button"
-            aria-label={messages.nav.close}
-            onClick={() => setPanelOpen(false)}
-            className="absolute inset-0 bg-black/40"
+            onClick={clearAll}
+            className="ml-1 text-sm text-accent underline underline-offset-2"
+          >
+            {messages.filters.clearAll}
+          </button>
+        </div>
+      )}
+
+      {!listMode ? (
+        <div className="mt-4">
+          <Recommendations
+            locale={locale}
+            composers={composers}
+            initialWorks={initialWorks}
           />
-          <div className="absolute inset-x-0 bottom-0 max-h-[85vh] overflow-y-auto rounded-t-2xl border-t border-line bg-paper p-5">
-            <div className="mb-4 flex items-center">
-              <h2 className="mr-auto text-sm font-semibold text-ink">
-                {messages.filters.heading}
-              </h2>
-              <button
-                type="button"
-                onClick={() => setPanelOpen(false)}
-                className="rounded-md border border-line px-3 py-1.5 text-sm text-ink-soft"
-              >
-                {messages.nav.close}
-              </button>
-            </div>
-            {filterPanel}
-            <button
-              type="button"
-              onClick={() => setPanelOpen(false)}
-              className="mt-6 w-full rounded-full bg-accent-fill py-3.5 text-sm font-semibold text-accent-ink"
+          <div className="mx-auto max-w-6xl px-4 pb-2 text-center sm:px-6">
+            <Link
+              href={`/${locale}${writeFilters(EMPTY_FILTERS, sort, true)}`}
+              className="text-sm text-accent underline underline-offset-2"
             >
-              {messages.catalog.resultCount.replace(
+              {messages.catalog.browseAll.replace(
                 "{count}",
-                (loaded ? results.length : totalCount).toLocaleString(),
+                totalCount.toLocaleString(),
               )}
-            </button>
+            </Link>
           </div>
+        </div>
+      ) : (
+        <div className="mt-4">
+          {activeCount === 0 && view && (
+            <Link
+              href={`/${locale}`}
+              className="mb-3 inline-block text-sm text-accent underline underline-offset-2"
+            >
+              ← {messages.catalog.backToDiscover}
+            </Link>
+          )}
+          <div className="mb-4 flex flex-wrap items-center gap-3">
+            <p data-testid="result-count" className="mr-auto text-sm text-ink-soft">
+              {!loaded || results.length === totalCount
+                ? messages.catalog.resultCount.replace(
+                    "{count}",
+                    (loaded ? results.length : totalCount).toLocaleString(),
+                  )
+                : messages.catalog.resultCountFiltered
+                    .replace("{count}", results.length.toLocaleString())
+                    .replace("{total}", totalCount.toLocaleString())}
+            </p>
+
+            <label className="flex items-center gap-2 text-sm text-ink-soft">
+              <span className="sr-only sm:not-sr-only">
+                {messages.catalog.sortLabel}
+              </span>
+              <select
+                value={sort}
+                onChange={(event) =>
+                  update(effectiveFilters, event.target.value as SortKey)
+                }
+                className="rounded-md border border-line bg-paper px-2 py-1.5 text-sm text-ink"
+              >
+                <option value="standard">{messages.catalog.sortStandard}</option>
+                <option value="title">{messages.catalog.sortTitle}</option>
+                <option value="composer">{messages.catalog.sortComposer}</option>
+              </select>
+            </label>
+          </div>
+
+          {results.length === 0 ? (
+            <div className="rounded-lg border border-dashed border-line p-10 text-center">
+              <p className="text-ink-soft">{messages.filters.noResults}</p>
+              <p className="mt-1 text-sm text-ink-faint">
+                {messages.filters.noResultsHint}
+              </p>
+            </div>
+          ) : (
+            <>
+              <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+                {results.slice(0, visible).map((work) => (
+                  <li key={work.id}>
+                    <WorkCard
+                      locale={locale}
+                      workId={work.id}
+                      title={locale === "ja" ? work.titleJa : work.title}
+                      secondaryTitle={locale === "ja" ? work.title : undefined}
+                      composerName={
+                        locale === "ja" ? work.composerNameJa : work.composerName
+                      }
+                      genre={work.genre}
+                      stars={work.stars}
+                      mediaMatch={matchedMediaTitle(work, effectiveFilters.query, locale)}
+                    />
+                  </li>
+                ))}
+              </ul>
+
+              {visible < results.length && (
+                <button
+                  type="button"
+                  onClick={() => setVisible((count) => count + PAGE_SIZE)}
+                  className="mt-6 w-full rounded-md border border-line py-3 text-sm text-ink-soft hover:border-accent/40 hover:text-accent"
+                >
+                  {messages.filters.showMore}
+                </button>
+              )}
+            </>
+          )}
         </div>
       )}
     </div>
+  );
+}
+
+function SearchIcon({ className }: { className: string }) {
+  return (
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={1.8}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={className}
+      aria-hidden="true"
+    >
+      <circle cx="11" cy="11" r="7" />
+      <path d="M21 21l-4.35-4.35" />
+    </svg>
   );
 }

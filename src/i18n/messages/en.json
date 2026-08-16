@@ -49,7 +49,9 @@
     "sortLabel": "Sort",
     "sortStandard": "Standard repertoire",
     "sortTitle": "Title",
-    "sortComposer": "Composer"
+    "sortComposer": "Composer",
+    "browseAll": "Browse all {count} works",
+    "backToDiscover": "Back to discovery"
   },
   "composers": {
     "resultCount": "{count} composers",
@@ -154,6 +156,8 @@
   "discover": {
     "heading": "From your favourites, something new",
     "hint": "Picked from the trends in what you've saved. Changes every visit.",
+    "popularHeading": "Popular works",
+    "popularHint": "Picked at random from the standard repertoire. Changes every visit.",
     "refresh": "Shuffle",
     "reason": {
       "composer": "If you like {name}",
