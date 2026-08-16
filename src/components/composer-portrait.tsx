@@ -8,9 +8,13 @@ import type { PortraitCredit } from "@/lib/licenses";
  * Portrait plus its attribution.
  *
  * The credit is always shown, not just for CC BY/BY-SA files: it is required
- * for those, and good practice for the public-domain ones. The image is only
- * ever scaled, never cropped or recoloured, so a share-alike portrait does
- * not become an adaptation.
+ * for those, and good practice for the public-domain ones. This component
+ * only ever scales the image, never crops or recolours it, so a share-alike
+ * portrait does not become an adaptation — unconditionally, regardless of
+ * licence. (A separate, offline, PD-only exception exists for the *source*
+ * file: `scripts/trim-portrait-margins.ts` may trim a uniform plain margin
+ * baked into a public-domain portrait, see `CONTRIBUTING.md`'s 肖像画
+ * section and issue #122. That never touches this component's behaviour.)
  */
 export function ComposerPortrait({
   locale,
