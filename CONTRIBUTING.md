@@ -379,7 +379,9 @@ npm test                # src/lib/media.test.ts が data/media.json 単体と、
 
 `scripts/seed/fetch-portraits.ts` が Wikidata の P18 から取得し、Wikimedia Commons が報告するライセンスが許可リスト（`src/lib/licenses.ts`）に一致する場合のみ採用します。**許可リストを緩めないでください。** Open Opus の肖像画は1点ごとの出典が不明で、収録作曲家の3分の1は写真の著作権が存続している可能性が高いため使いません。
 
-CC BY-SA の画像を含むので、**拡大・縮小以外の加工をしないでください**。トリミングや色調変更は二次的著作物にあたり、シェアアライク条項が発生します。表示側も同様で、`object-cover` で正方形に切り抜くといった実装は不可です。
+CC BY-SA の画像を含むので、**拡大・縮小以外の加工をしないでください**。トリミングや色調変更は二次的著作物にあたり、シェアアライク条項が発生します。**表示側はライセンスを問わずこの原則に無条件で従います** — `composer-portrait.tsx`・`composer-thumb.tsx` は常に `object-contain` で全体を表示し、`object-cover` で正方形に切り抜くといった実装は不可です。
+
+**ソースアセット側の唯一の例外**: `requiresAttribution()`（`src/lib/licenses.ts`）が `false` を返すライセンス（Public domain / PD / CC0 / No restrictions — シェアアライク条項もクレジット義務も無い）に限り、境界に焼き込まれた均一な余白を `scripts/trim-portrait-margins.ts` で機械的にトリミングしてよい（#122）。これは表示側のクロップとは別レイヤーの、一度限りの監査済み前処理です。CC BY / CC BY-SA のファイルは対象外のままで、恒常的な自由裁量のクロップを許可するものではありません。**トリミング後のファイルは `npm run seed:portraits` を再実行すると無条件で上書きされ、元の（余白付き）画像に戻ります** — 再実行する際は事前にトリミング済みの id を控えておいてください。
 
 `npm run seed:portraits` を回したら、続けて **`npm run build:portrait-thumbs`** を実行してください。楽曲カードは 400px の原本ではなく `public/portraits/thumb/` の 128px 版を読むためです（静的エクスポートには画像最適化が無く、実行時に原本へフォールバックすることもできません）。こちらも縮小のみで、切り抜きは行いません。
 

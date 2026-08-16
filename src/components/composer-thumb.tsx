@@ -24,6 +24,12 @@ import { portraitThumb } from "@/lib/portrait-thumb";
  *
  * The dark `bg-paper` well matters beyond taste: many portraits are
  * engravings on white, which glare against the olive page (issue #111).
+ *
+ * This component never crops, regardless of licence — that stays true even
+ * though a small, PD-only exception exists for the *source* file offline
+ * (`scripts/trim-portrait-margins.ts`, issue #122): it may trim a uniform
+ * plain margin baked into a public-domain portrait before it ever reaches
+ * `public/portraits/`. Nothing here changes because of that.
  */
 export function ComposerThumb({
   portrait,
