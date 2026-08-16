@@ -41,6 +41,13 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           >
             {messages.nav.credits}
           </Link>
+          {" · "}
+          <Link
+            href={`/${locale}/terms`}
+            className="text-accent underline underline-offset-2"
+          >
+            {messages.nav.terms}
+          </Link>
         </p>
       </div>
     </footer>

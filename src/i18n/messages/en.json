@@ -10,6 +10,7 @@
     "media": "Film & TV",
     "favorites": "Favourites",
     "credits": "Credits",
+    "terms": "Terms",
     "language": "Language",
     "menu": "Menu",
     "close": "Close"
@@ -172,6 +173,113 @@
     "license": "Licence",
     "source": "Source",
     "unknownAuthor": "Unknown author"
+  },
+  "terms": {
+    "heading": "Terms of Service & Disclaimer",
+    "intro": "By using this site, you agree to the following.",
+    "updated": "Last updated: 16 August 2026",
+    "termsHeading": "Terms of Service",
+    "termsClauses": [
+      {
+        "heading": "1. Application",
+        "body": "These Terms set out the conditions for using klangwelt (\"this site\"). By using this site, you agree to these Terms.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "2. Service description",
+        "body": "This site is a non-commercial classical music catalogue and reference site run by an individual. It provides information about composers and works; it does not stream or sell recordings.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "3. Prohibited conduct",
+        "body": "When using this site, you must not:\n・Interfere with the operation of this site, including excessive automated access or scraping\n・Reproduce or republish this site's original content (programme notes, translations, glossary entries, etc.) without attribution, or for commercial purposes\n・Act in violation of any applicable law or public order and morals",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "4. Intellectual property",
+        "body": "・Core work and composer data is sourced from Open Opus (CC0 1.0).\n・Composer portraits come from Wikimedia Commons; the author and licence for each portrait are disclosed individually on the page linked below. Each image remains subject to its own licence terms (CC BY, CC BY-SA, etc.), and this site grants no additional rights to it.\n・Titles and related information for films, anime and TV shows belong to their respective copyright and trademark holders. This site is not affiliated with, and has not been authorised by, those works or their rights holders.\n・Copyright in the site's original content — programme notes, translations, site design, etc. — other than the above belongs to the operator or the relevant rights holder.\n・Most of the works themselves (the compositions) are out of copyright, but the recordings and performances you reach through the external links carry separate copyright and neighbouring rights. This site licenses none of those rights.",
+        "linkHref": "/credits",
+        "linkText": "See the full credits and licences"
+      },
+      {
+        "heading": "5. Data stored in your browser",
+        "body": "See the Disclaimer below for how data such as favourites is handled.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "6. Links to external services",
+        "body": "This site links to external services such as Spotify and YouTube Music. It has no control over, and is not responsible for, the content, availability or terms of those services.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "7. Changes, interruption and discontinuation",
+        "body": "This site is run by an individual and may change its content or features, or be interrupted or discontinued, without notice.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "8. Changes to these Terms",
+        "body": "These Terms may change without notice. Changes take effect once posted on this site.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "9. Governing law and jurisdiction",
+        "body": "These Terms are governed by the laws of Japan. Any dispute arising from this site is subject to the exclusive jurisdiction of the court with jurisdiction over the operator's location, as the court of first instance.",
+        "linkHref": "",
+        "linkText": ""
+      }
+    ],
+    "disclaimerHeading": "Disclaimer",
+    "disclaimerClauses": [
+      {
+        "heading": "1. Accuracy of content",
+        "body": "Composer profiles, programme notes, glossary entries, film and TV appearances and other content on this site are researched and written by an individual. While care is taken, this is an individual project, and no guarantee is made as to the accuracy, completeness or currency of any content. Standard-repertoire ratings and related-composer groupings reflect the operator's editorial judgement, not objective fact or an assessment by any specialist body.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "2. Data stored in your browser",
+        "body": "Favourites and other user settings are stored only in the local storage of the browser you are using, and are never sent to or stored on a server. As a result, this data can be lost if:\n・You clear your browser's history or site data\n・You switch to a different browser or device\n・You use private/incognito browsing\n・Your browser or OS malfunctions, or storage limits are reached\nThis site accepts no responsibility for data lost for these reasons. We recommend backing up your favourites regularly using the export feature on the favourites page.",
+        "linkHref": "/favorites",
+        "linkText": "Open the favourites page"
+      },
+      {
+        "heading": "3. Analytics",
+        "body": "This site uses Vercel Web Analytics to understand traffic. It does not collect names, email addresses or other identifying information — only aggregate data that does not identify individuals.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "4. External sites and content",
+        "body": "This site is not responsible for the content, availability or privacy practices of external sites it links to, including Spotify, YouTube Music, Wikimedia Commons and Open Opus.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "5. Interruption and suspension of service",
+        "body": "This site may become unavailable, in whole or in part, without notice due to maintenance, failures or other unavoidable circumstances. This site is not liable for any resulting loss.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "6. Limitation of liability",
+        "body": "This site is not liable for any loss arising from your use of it, except where caused by the operator's intentional misconduct or gross negligence.",
+        "linkHref": "",
+        "linkText": ""
+      },
+      {
+        "heading": "7. Changes to this Disclaimer",
+        "body": "This Disclaimer may change without notice.",
+        "linkHref": "",
+        "linkText": ""
+      }
+    ]
   },
   "common": {
     "years": "{birth}-{death}",
