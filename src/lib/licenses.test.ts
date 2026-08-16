@@ -1,4 +1,4 @@
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 
 import { describe, expect, it } from "vitest";
@@ -9,6 +9,7 @@ import {
   requiresAttribution,
   type PortraitCredit,
 } from "./licenses";
+import { portraitThumb } from "./portrait-thumb";
 
 const credits = JSON.parse(
   readFileSync(path.join(process.cwd(), "data/portraits.json"), "utf8"),
@@ -150,5 +151,24 @@ describe("every shipped portrait is cleared for redistribution", () => {
   it("has no duplicate composers", () => {
     const ids = credits.map((credit) => credit.composerId);
     expect(new Set(ids).size).toBe(ids.length);
+  });
+
+  /**
+   * Work cards render the thumbnail, not the stored portrait. Running
+   * `seed:portraits` without `build:portrait-thumbs` would otherwise ship a
+   * broken image with nothing failing — the static export cannot fall back to
+   * the original at runtime.
+   */
+  it("ships a card thumbnail for every portrait", () => {
+    for (const credit of credits) {
+      const thumb = path.join(
+        process.cwd(),
+        "public",
+        portraitThumb(credit.file),
+      );
+      expect(existsSync(thumb), `${credit.composerId}: run npm run build:portrait-thumbs`).toBe(
+        true,
+      );
+    }
   });
 });

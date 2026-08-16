@@ -638,6 +638,58 @@ test.describe("responsive layout", () => {
     await page.getByRole("button", { name: "メニュー" }).click();
     await expect(page.getByRole("link", { name: "作曲家" })).toBeVisible();
   });
+
+  /**
+   * The favourite button sits inside the card's link, so a near miss
+   * navigates to the work instead of saving it. It was 36×36 — under both
+   * the 44pt Apple HIG target and WCAG 2.5.5 — until the button box was
+   * decoupled from the visible disc.
+   */
+  test("the favourite button is big enough to hit", async ({ page }) => {
+    await page.goto("/ja?view=all");
+    const card = workCards(page).first();
+    const box = await card
+      .getByRole("button", { name: /お気に入り/ })
+      .boundingBox();
+    expect(box!.width).toBeGreaterThanOrEqual(44);
+    expect(box!.height).toBeGreaterThanOrEqual(44);
+  });
+
+  /**
+   * Cards carry the composer's portrait. It is decorative — the composer is
+   * named in text in the same card, and the card is itself a link, so any
+   * alt text would be read out as part of the link's name.
+   */
+  test("each card shows one decorative portrait", async ({ page }) => {
+    await page.goto("/ja?view=all");
+    const card = workCards(page).first();
+    await expect(card.locator("img")).toHaveCount(1);
+    await expect(card.locator("img")).toHaveAttribute("alt", "");
+  });
+
+  /** A ragged bottom edge is obvious once the cards carry an image. */
+  test("cards in the same row are the same height", async ({
+    page,
+    isMobile,
+  }) => {
+    test.skip(Boolean(isMobile), "one column, so there is no row to level");
+    await page.goto("/ja?view=all");
+    await expect(workCards(page).first()).toBeVisible();
+
+    const rows = await page.evaluate(() => {
+      const byTop: Record<number, number[]> = {};
+      for (const card of document.querySelectorAll('a[href^="/ja/works/"]')) {
+        const { top, height } = card.getBoundingClientRect();
+        (byTop[Math.round(top)] ||= []).push(Math.round(height));
+      }
+      return Object.values(byTop);
+    });
+
+    expect(rows.length).toBeGreaterThan(1);
+    for (const heights of rows) {
+      expect(new Set(heights).size, `row heights ${heights}`).toBe(1);
+    }
+  });
 });
 
 test.describe("navigation and language", () => {

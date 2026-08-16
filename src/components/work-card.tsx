@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+import { ComposerThumb } from "@/components/composer-thumb";
 import { FavoriteButton } from "@/components/favorite-button";
 import { StarRating } from "@/components/star-rating";
 import { getMessages, type Locale } from "@/i18n/config";
@@ -13,6 +14,11 @@ export interface WorkCardProps {
   /** Shown underneath when it differs from `title`. */
   secondaryTitle?: string;
   composerName: string;
+  /**
+   * `Composer.portrait`, for the thumbnail. Absent for the composers with no
+   * freely licensed portrait, which fall back to an initial-letter tile.
+   */
+  composerPortrait?: string;
   genre: Genre;
   stars: Stars;
   /** Work detail pages exist only for core works. */
@@ -29,7 +35,9 @@ export interface WorkCardProps {
    * chip row below, which is already crowded with the composer, genre and
    * star chips — a fifth chip there would force more wraps on narrow
    * screens, and `mediaMatch`'s `role="img"` span must stay the only one
-   * per card (see `e2e/catalog.spec.ts`'s ★-chip assertions).
+   * per card (see `e2e/catalog.spec.ts`'s ★-chip assertions). The portrait
+   * thumbnail is `alt=""`, hence `role="presentation"`, so it stays outside
+   * that count.
    */
   note?: string;
 }
@@ -40,6 +48,7 @@ export function WorkCard({
   title,
   secondaryTitle,
   composerName,
+  composerPortrait,
   genre,
   stars,
   linkToDetail = true,
@@ -49,7 +58,11 @@ export function WorkCard({
   const messages = getMessages(locale);
   const body = (
     <>
-      <div className="min-w-0 flex-1">
+      <ComposerThumb portrait={composerPortrait} composerName={composerName} />
+      {/* pr-8 clears the absolutely-positioned favourite button: its 44px box
+          ends 2px short of this column's right edge, so a long title never
+          runs underneath it. */}
+      <div className="min-w-0 flex-1 pr-8">
         {note && <p className="mb-1 text-xs text-accent">{note}</p>}
         <p className="font-serif text-[1.0625rem] font-medium leading-snug text-ink break-words">
           {title}
@@ -82,12 +95,18 @@ export function WorkCard({
           )}
         </p>
       </div>
-      <FavoriteButton workId={workId} locale={locale} size="sm" />
+      {/* Absolutely positioned so its 44px touch target costs no layout
+          width — as a flex child it took a whole column for a 16px glyph. */}
+      <span className="absolute right-0.5 top-0.5">
+        <FavoriteButton workId={workId} locale={locale} size="sm" />
+      </span>
     </>
   );
 
+  // `h-full` so cards in the same grid row end level with each other; the
+  // portrait makes a ragged bottom edge obvious (issue #107).
   const className =
-    "flex items-start gap-3 rounded-lg border border-line bg-paper-raised p-5 transition-colors";
+    "relative flex h-full items-start gap-3 rounded-lg border border-line bg-paper-raised p-4 transition-colors";
 
   if (!linkToDetail) {
     return <div className={className}>{body}</div>;

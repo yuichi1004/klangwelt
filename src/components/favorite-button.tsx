@@ -28,18 +28,28 @@ export function FavoriteButton({
       aria-pressed={active}
       aria-label={active ? messages.favorites.remove : messages.favorites.add}
       title={active ? messages.favorites.remove : messages.favorites.add}
-      className={`shrink-0 rounded-full transition-colors ${
-        size === "sm" ? "p-1.5" : "p-2"
-      } ${
-        active
-          ? "text-accent"
-          : "text-ink-faint hover:bg-accent-soft hover:text-accent"
+      // The touch target is the button box; the visible disc is the inner
+      // span. Sizing the button itself to the disc left a 36px target inside
+      // a card that is one big link, so a near miss navigated away instead of
+      // saving the work (issue #113). A `before:-inset-*` pseudo-element
+      // would widen the hit area too, but Playwright's `boundingBox()`
+      // ignores pseudo-element overflow, so it could not be asserted on.
+      className={`group grid shrink-0 place-items-center rounded-full ${
+        size === "sm" ? "h-11 w-11" : "h-12 w-12"
       }`}
     >
-      <HeartIcon
-        filled={active}
-        className={size === "sm" ? "h-4 w-4" : "h-5 w-5"}
-      />
+      <span
+        className={`rounded-full p-1.5 transition-colors ${
+          active
+            ? "text-accent"
+            : "text-ink-faint group-hover:bg-accent-soft group-hover:text-accent"
+        }`}
+      >
+        <HeartIcon
+          filled={active}
+          className={size === "sm" ? "h-4 w-4" : "h-5 w-5"}
+        />
+      </span>
     </button>
   );
 }
