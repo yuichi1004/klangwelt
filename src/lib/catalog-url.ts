@@ -28,6 +28,10 @@ function readMinStars(params: URLSearchParams | ReadonlyURLSearchParams): Catalo
 export function readFilters(params: URLSearchParams | ReadonlyURLSearchParams): {
   filters: CatalogFilters;
   sort: SortKey;
+  /** `?view=all` — an explicit request for the full, unfiltered catalogue
+   *  instead of the discovery feed. Orthogonal to `filters`: it is just
+   *  another way `CatalogBrowser` decides to show the results list. */
+  view: boolean;
 } {
   const list = (key: string) =>
     (params.get(key) ?? "").split(",").filter(Boolean);
@@ -44,10 +48,15 @@ export function readFilters(params: URLSearchParams | ReadonlyURLSearchParams): 
     // An unrecognised value — including the old "popular" — falls back to
     // "standard", which is what it meant anyway.
     sort: sort === "title" || sort === "composer" ? sort : "standard",
+    view: params.get("view") === "all",
   };
 }
 
-export function writeFilters(filters: CatalogFilters, sort: SortKey): string {
+export function writeFilters(
+  filters: CatalogFilters,
+  sort: SortKey,
+  view = false,
+): string {
   const params = new URLSearchParams();
   if (filters.query) params.set("q", filters.query);
   if (filters.composerIds.length) params.set("c", filters.composerIds.join(","));
@@ -55,6 +64,7 @@ export function writeFilters(filters: CatalogFilters, sort: SortKey): string {
   if (filters.genres.length) params.set("g", filters.genres.join(","));
   if (filters.minStars > 0) params.set("stars", String(filters.minStars));
   if (sort !== "standard") params.set("sort", sort);
+  if (view) params.set("view", "all");
   const query = params.toString();
   return query ? `?${query}` : "";
 }
@@ -68,8 +78,8 @@ export function writeFilters(filters: CatalogFilters, sort: SortKey): string {
  */
 export function sanitizeQueryString(raw: string | null): string {
   if (!raw) return "";
-  const { filters, sort } = readFilters(
+  const { filters, sort, view } = readFilters(
     new URLSearchParams(raw.replace(/^\?/, "")),
   );
-  return writeFilters(filters, sort);
+  return writeFilters(filters, sort, view);
 }

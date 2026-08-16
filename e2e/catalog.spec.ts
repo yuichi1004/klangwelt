@@ -46,18 +46,23 @@ async function seedFavorites(page: Page, workIds: string[]) {
   );
 }
 
-test.describe("catalogue filtering", () => {
-  test.skip(
-    ({ isMobile }) => Boolean(isMobile),
-    "filter sidebar is desktop-only; the mobile sheet is covered separately",
-  );
+/** Filters live in a collapsed-by-default panel shared by mobile and
+ *  desktop; open it before interacting with anything inside it (the
+ *  always-visible search box and the active-filter chips are not gated by
+ *  this). */
+const openFilterPanel = (page: Page) =>
+  page.getByRole("button", { name: /^絞り込み/ }).click();
 
+test.describe("catalogue filtering", () => {
   test("narrows results and reflects the filters in the URL", async ({ page }) => {
-    await page.goto("/ja");
+    // `?view=all` forces the results list on from the start, so the
+    // "wait for the full index" checkpoint below has something to poll.
+    await page.goto("/ja?view=all");
 
     // Wait for the full index to arrive before counting.
     await expect(resultCount(page)).toHaveText(allResultsText);
 
+    await openFilterPanel(page);
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/[?&]e=Baroque/);
 
@@ -88,9 +93,13 @@ test.describe("catalogue filtering", () => {
 
   test("clearing the filters brings every work back", async ({ page }) => {
     await page.goto("/ja?e=Baroque&stars=4");
+    await openFilterPanel(page);
     await page.getByRole("button", { name: "条件をクリア" }).click();
     await expect(page).toHaveURL(/\/ja$/);
-    await expect(resultCount(page)).toHaveText(allResultsText);
+    // Clearing the filters returns to the discovery feed, which has no
+    // result count of its own — going back to the full list is a deliberate
+    // extra step (the "全{count}曲を見る" link), not the default any more.
+    await expect(page.getByTestId("discover")).toBeVisible();
   });
 
   test("shows an empty state instead of a blank page", async ({ page }) => {
@@ -102,6 +111,7 @@ test.describe("catalogue filtering", () => {
 
   test("filtering by 定番度 narrows the URL and the results", async ({ page }) => {
     await page.goto("/ja");
+    await openFilterPanel(page);
     // The chip's accessible name is "星4つ以上" — the visible "★4以上" label
     // would read as "black star 4 以上" to a screen reader, so the chip
     // overrides it with `aria-label` (see catalog-browser.tsx starChipLabel).
@@ -127,6 +137,7 @@ test.describe("catalogue filtering", () => {
     await expect(resultCount(page)).toHaveText(filteredResultsPattern);
 
     // The first filter interaction rewrites the URL in the new form.
+    await openFilterPanel(page);
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/[?&]stars=4/);
     await expect(page).not.toHaveURL(/pop=/);
@@ -134,11 +145,6 @@ test.describe("catalogue filtering", () => {
 });
 
 test.describe("active filter chips", () => {
-  test.skip(
-    ({ isMobile }) => Boolean(isMobile),
-    "filter sidebar is desktop-only; the mobile sheet is covered separately",
-  );
-
   test("removing a chip drops only that filter", async ({ page }) => {
     await page.goto("/ja?e=Baroque&g=Keyboard");
     await expect(resultCount(page)).toHaveText(filteredResultsPattern);
@@ -159,20 +165,17 @@ test.describe("active filter chips", () => {
     await page.getByRole("button", { name: "すべてクリア" }).click();
     await expect(page).toHaveURL(/\/ja$/);
     await expect(searchBox(page)).toHaveValue("");
-    await expect(resultCount(page)).toHaveText(allResultsText);
+    // No filters left, so it's the discovery feed rather than a result list.
+    await expect(page.getByTestId("discover")).toBeVisible();
   });
 });
 
 test.describe("filters survive an in-page round trip", () => {
-  test.skip(
-    ({ isMobile }) => Boolean(isMobile),
-    "filter sidebar is desktop-only; the mobile sheet is covered separately",
-  );
-
   test("returning from a work page keeps the applied filters", async ({
     page,
   }) => {
     await page.goto("/ja");
+    await openFilterPanel(page);
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/e=Baroque/);
     await expect(resultCount(page)).toHaveText(filteredResultsPattern);
@@ -188,8 +191,13 @@ test.describe("filters survive an in-page round trip", () => {
 
   test("the header's browse-works link also restores the filters", async ({
     page,
+    isMobile,
   }) => {
+    // On mobile the header's nav links live behind the hamburger menu; this
+    // test is about the session restore, not about opening that menu.
+    test.skip(Boolean(isMobile), "header nav is desktop-only");
     await page.goto("/ja");
+    await openFilterPanel(page);
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/e=Baroque/);
 
@@ -212,11 +220,13 @@ test.describe("filters survive an in-page round trip", () => {
 
     await page.getByRole("link", { name: "楽曲一覧に戻る" }).click();
     await expect(page).toHaveURL(/\/ja$/);
-    await expect(resultCount(page)).toHaveText(allResultsText);
+    // No filters left to restore, so it's the discovery feed, not a list.
+    await expect(page.getByTestId("discover")).toBeVisible();
   });
 
   test("a link with its own filters wins over a saved one", async ({ page }) => {
     await page.goto("/ja");
+    await openFilterPanel(page);
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/e=Baroque/);
 
@@ -233,6 +243,7 @@ test.describe("filters survive an in-page round trip", () => {
     const first = await browser.newContext();
     const firstPage = await first.newPage();
     await firstPage.goto("/ja");
+    await openFilterPanel(firstPage);
     await firstPage.getByRole("button", { name: "バロック" }).click();
     await expect(firstPage).toHaveURL(/e=Baroque/);
     await first.close();
@@ -240,7 +251,8 @@ test.describe("filters survive an in-page round trip", () => {
     const second = await browser.newContext();
     const secondPage = await second.newPage();
     await secondPage.goto("/ja");
-    await expect(resultCount(secondPage)).toHaveText(allResultsText);
+    // A fresh context has no saved filters, so it's the discovery feed.
+    await expect(secondPage.getByTestId("discover")).toBeVisible();
     await second.close();
   });
 });
@@ -460,22 +472,37 @@ test.describe("favourites backup", () => {
 
 test.describe("discover (homepage recommendations)", () => {
   // Chopin core works — 22 in the index, several stars bands, enough for the
-  // recommendation pool to comfortably clear six distinct-composer picks.
+  // recommendation pool to comfortably clear twelve distinct-composer picks
+  // (the pool draws from the whole catalogue, not just Chopin's works).
   const CHOPIN_FAVORITES = ["17109", "17217", "17179"];
+  const BATCH_SIZE = 12;
 
-  test("shows six recommendations built from favourites", async ({ page }) => {
+  /**
+   * Until favourites and the client-side work index are both ready, the feed
+   * shows a favourites-blind popularity fallback (`initialWorks`, for first
+   * paint and SEO) that happens to render exactly `BATCH_SIZE` cards too —
+   * the same count as the real, favourites-aware picks, and (with no heading
+   * to tell them apart any more) sometimes the same-looking content. Waiting
+   * for the work-index fetch to settle is what actually distinguishes "the
+   * real picks landed" from "the fallback just happens to look similar".
+   */
+  const realPicksReady = (page: Page) => page.waitForLoadState("networkidle");
+
+  test("shows twelve recommendations built from favourites", async ({ page }) => {
     await seedFavorites(page, CHOPIN_FAVORITES);
     await page.goto("/ja");
 
     await expect(discoverSection(page)).toBeVisible();
-    await expect(discoverCards(page)).toHaveCount(6);
+    await realPicksReady(page);
+    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
   });
 
   test("never recommends an already-favourited work", async ({ page }) => {
     await seedFavorites(page, CHOPIN_FAVORITES);
     await page.goto("/ja");
 
-    await expect(discoverCards(page)).toHaveCount(6);
+    await realPicksReady(page);
+    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
     const hrefs = await discoverCards(page).evaluateAll((links) =>
       links.map((link) => link.getAttribute("href")),
     );
@@ -484,99 +511,82 @@ test.describe("discover (homepage recommendations)", () => {
     }
   });
 
-  test("選び直す draws a different lineup", async ({ page }) => {
-    await seedFavorites(page, CHOPIN_FAVORITES);
+  test("shows popular picks when there are no favourites, instead of disappearing", async ({
+    page,
+  }) => {
     await page.goto("/ja");
-
-    await expect(discoverCards(page)).toHaveCount(6);
-    const before = await discoverCards(page).evaluateAll((links) =>
-      links.map((link) => link.getAttribute("href")),
-    );
-
-    await discoverSection(page)
-      .getByRole("button", { name: "選び直す" })
-      .click();
-    await expect(discoverCards(page)).toHaveCount(6);
-    const after = await discoverCards(page).evaluateAll((links) =>
-      links.map((link) => link.getAttribute("href")),
-    );
-
-    expect(after).not.toEqual(before);
+    await expect(discoverSection(page)).toBeVisible();
+    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
   });
 
-  test("is absent when there are no favourites", async ({ page }) => {
+  test("もっと見る appends more picks without duplicates", async ({ page }) => {
     await page.goto("/ja");
-    await expect(discoverSection(page)).toHaveCount(0);
+    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
+
+    await discoverSection(page)
+      .getByRole("button", { name: "さらに表示" })
+      .click();
+    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE * 2);
+
+    const hrefs = await discoverCards(page).evaluateAll((links) =>
+      links.map((link) => link.getAttribute("href")),
+    );
+    expect(new Set(hrefs).size).toBe(hrefs.length);
   });
 
   test("favouriting a recommended work does not remove it from view", async ({
     page,
   }) => {
-    // Regression test: the six picks are computed once per seed and must
-    // not react to the favourites list changing mid-visit, or clicking a
-    // card's own star would yank it out from under the pointer.
+    // Regression test: the picks are computed once per seed and must not
+    // react to the favourites list changing mid-visit, or clicking a card's
+    // own star would yank it out from under the pointer.
     await seedFavorites(page, CHOPIN_FAVORITES);
     await page.goto("/ja");
 
-    await expect(discoverCards(page)).toHaveCount(6);
+    await realPicksReady(page);
+    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
     const firstCard = discoverCards(page).first();
     const href = await firstCard.getAttribute("href");
 
     await firstCard.getByRole("button", { name: "お気に入りに追加" }).click();
 
-    await expect(discoverCards(page)).toHaveCount(6);
+    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
     await expect(page.locator(`a[href="${href}"]`).first()).toBeVisible();
   });
 });
 
 test.describe("responsive layout", () => {
-  test("desktop shows the filter sidebar inline", async ({ page, isMobile }) => {
-    test.skip(Boolean(isMobile), "desktop-only");
-    await page.goto("/ja");
-    await expect(page.getByRole("heading", { name: "絞り込み" })).toBeVisible();
-    await expect(page.getByRole("button", { name: /^絞り込み/ })).toBeHidden();
-  });
-
-  test("mobile hides the sidebar and opens filters in a sheet", async ({
+  // The filter panel is a single collapsed-by-default disclosure shared by
+  // mobile and desktop — no more desktop-only sidebar or mobile-only sheet,
+  // so this now applies identically to both projects.
+  test("filters are collapsed by default and open via the toggle", async ({
     page,
-    isMobile,
   }) => {
-    test.skip(!isMobile, "mobile-only");
     await page.goto("/ja");
 
-    await expect(page.getByRole("heading", { name: "絞り込み" })).toBeHidden();
+    await expect(page.getByRole("heading", { name: "定番度" })).toBeHidden();
+    await expect(
+      page.getByRole("button", { name: /^絞り込み/ }),
+    ).toHaveAttribute("aria-expanded", "false");
 
     await page.getByRole("button", { name: /^絞り込み/ }).click();
-    await expect(page.getByRole("heading", { name: "絞り込み" })).toBeVisible();
+    await expect(page.getByRole("heading", { name: "定番度" })).toBeVisible();
+    await expect(
+      page.getByRole("button", { name: /^絞り込み/ }),
+    ).toHaveAttribute("aria-expanded", "true");
 
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/e=Baroque/);
 
-    await page.getByRole("button", { name: "閉じる" }).last().click();
-    await expect(page.getByRole("heading", { name: "絞り込み" })).toBeHidden();
-  });
-
-  test("mobile filter sheet closes when the backdrop is tapped", async ({
-    page,
-    isMobile,
-  }) => {
-    test.skip(!isMobile, "mobile-only");
-    await page.goto("/ja");
     await page.getByRole("button", { name: /^絞り込み/ }).click();
-    await expect(page.getByRole("heading", { name: "絞り込み" })).toBeVisible();
-
-    // The sheet covers the centre of the backdrop, so tap the strip above it.
-    await page
-      .getByRole("button", { name: "閉じる" })
-      .first()
-      .click({ position: { x: 10, y: 10 } });
-    await expect(page.getByRole("heading", { name: "絞り込み" })).toBeHidden();
+    await expect(page.getByRole("heading", { name: "定番度" })).toBeHidden();
   });
 
   test("no page overflows the viewport horizontally", async ({ page }, testInfo) => {
     const width = testInfo.project.use.viewport?.width ?? 412;
     for (const path of [
       "/ja",
+      "/ja?view=all",
       "/ja?e=Baroque",
       "/ja?c=145",
       "/ja/works/16406",

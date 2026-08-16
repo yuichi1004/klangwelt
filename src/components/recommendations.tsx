@@ -19,12 +19,25 @@ import { buildTasteProfile, recommend, type Recommendation } from "@/lib/recomme
  * Module scope, not component state: set once by the first mount of any
  * page during this load and reused by every later navigation within the
  * SPA, so the lineup stays put while browsing. A full reload re-imports the
- * module and draws a fresh one. "Shuffle" reassigns it explicitly.
+ * module and draws a fresh one.
  */
 let visitSeed: number | null = null;
 
 function drawSeed(): number {
   return Math.floor(Math.random() * 0xffffffff);
+}
+
+/** Cards added per initial load or "show more" click. */
+const BATCH_SIZE = 12;
+
+function resolveFavorites(
+  favoriteIds: readonly string[],
+  source: readonly SearchableWork[],
+): SearchableWork[] {
+  const byId = new Map(source.map((work) => [work.id, work]));
+  return favoriteIds
+    .map((id) => byId.get(id))
+    .filter((work): work is SearchableWork => work !== undefined);
 }
 
 function reasonNote(
@@ -56,18 +69,24 @@ function reasonNote(
 }
 
 /**
- * "Next thing to listen to", computed entirely client-side from the
- * visitor's favourites (see `src/lib/recommend.ts`). Renders nothing until
- * favourites have been read from localStorage and the work index has
- * arrived, and nothing at all when there are no favourites yet — the
- * catalogue below is the entry point for a first-time visitor, not this.
+ * The "no specific search" journey: something to listen to without setting
+ * any filter. Built from the visitor's favourites when they have any;
+ * `recommend()` degrades gracefully to a popularity-weighted pick under an
+ * empty taste profile otherwise (`buildTasteProfile([]) === EMPTY_PROFILE`,
+ * see `src/lib/recommend.ts`), so the same call serves both cases — no
+ * separate "popular picks" code path to keep in sync.
  */
 export function Recommendations({
   locale,
   composers,
+  initialWorks,
 }: {
   locale: Locale;
   composers: ComposerOption[];
+  /** Popularity-sorted works, rendered until favourites and the work index
+   *  are both ready. Keeps first paint — and the static export's HTML —
+   *  from ever showing an empty feed. */
+  initialWorks: SearchableWork[];
 }) {
   const { workIds, ready } = useFavorites();
   const messages = getMessages(locale);
@@ -75,18 +94,15 @@ export function Recommendations({
   // Lazy `useState` initialiser, not an effect: it runs once per mount and
   // is idempotent (the module-level cache short-circuits Strict Mode's
   // double invocation), so it is the sanctioned one-shot escape hatch for a
-  // value that does not need to be pure across renders — unlike the seed's
-  // *consequences* (the picks below), which do need to wait for real data
-  // and so stay effect-driven. The picks stay `null` regardless of which
-  // seed value lands here, so there is nothing for a hydration mismatch to
-  // grab onto.
-  const [seed, setSeed] = useState<number>(() => {
+  // value that does not need to be pure across renders — unlike the picks
+  // below, which do need to wait for real data and so stay effect-driven.
+  const [seed] = useState<number>(() => {
     if (visitSeed === null) visitSeed = drawSeed();
     return visitSeed;
   });
   const [picks, setPicks] = useState<Recommendation[] | null>(null);
+  const [canLoadMore, setCanLoadMore] = useState(true);
 
-  // Same memoised fetch the catalogue browser and the favourites list use.
   useEffect(() => {
     let cancelled = false;
     fetchWorkIndex()
@@ -104,7 +120,7 @@ export function Recommendations({
   // Read outside the effect below so favouriting or unfavouriting a work
   // during this visit cannot retrigger a recompute: pressing the heart on a
   // recommended card must not make that card vanish out from under the
-  // pointer. The list only changes when `seed` changes (reload or Shuffle).
+  // pointer. The list only grows via "show more"; nothing else re-derives it.
   const favoriteIdsRef = useRef<string[]>(workIds);
   useEffect(() => {
     favoriteIdsRef.current = workIds;
@@ -112,70 +128,82 @@ export function Recommendations({
 
   useEffect(() => {
     if (!ready || works === null) return;
-    const byId = new Map(works.map((work) => [work.id, work]));
-    const favorites = favoriteIdsRef.current
-      .map((id) => byId.get(id))
-      .filter((work): work is SearchableWork => work !== undefined);
-
-    if (favorites.length === 0) {
-      setPicks(null);
-      return;
-    }
-
+    const favorites = resolveFavorites(favoriteIdsRef.current, works);
     const profile = buildTasteProfile(favorites);
-    const recentlyShown = readSeen();
-    const result = recommend(works, profile, { seed, recentlyShown });
+    const result = recommend(works, profile, {
+      seed,
+      count: BATCH_SIZE,
+      recentlyShown: readSeen(),
+    });
     setPicks(result);
+    setCanLoadMore(result.length >= BATCH_SIZE);
     pushSeen(result.map((r) => r.work.id));
   }, [ready, works, seed]);
 
-  function shuffle() {
-    visitSeed = drawSeed();
-    setSeed(visitSeed);
-  }
-
-  if (!ready || works === null || picks === null || picks.length === 0) {
-    return null;
+  function showMore() {
+    if (works === null || picks === null) return;
+    const profile = buildTasteProfile(resolveFavorites(favoriteIdsRef.current, works));
+    // Distinct per batch so it doesn't just reproduce the same picks.
+    const nextSeed = (seed + picks.length * 2654435761) >>> 0;
+    const more = recommend(works, profile, {
+      seed: nextSeed,
+      count: BATCH_SIZE,
+      exclude: picks.map((r) => r.work.id),
+      recentlyShown: readSeen(),
+    });
+    setPicks([...picks, ...more]);
+    setCanLoadMore(more.length >= BATCH_SIZE);
+    pushSeen(more.map((r) => r.work.id));
   }
 
   return (
     <section
-      className="mx-auto max-w-6xl px-4 py-8 sm:px-6"
+      className="mx-auto max-w-6xl px-4 pb-8 pt-2 sm:px-6"
       data-testid="discover"
     >
-      <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <div>
-          <h2 className="font-serif text-lg font-medium text-ink">
-            {messages.discover.heading}
-          </h2>
-          <p className="mt-1 text-sm text-ink-faint">{messages.discover.hint}</p>
-        </div>
+      <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+        {picks === null
+          ? initialWorks.slice(0, BATCH_SIZE).map((work) => (
+              <li key={work.id}>
+                <WorkCard
+                  locale={locale}
+                  workId={work.id}
+                  title={locale === "ja" ? work.titleJa : work.title}
+                  secondaryTitle={locale === "ja" ? work.title : undefined}
+                  composerName={
+                    locale === "ja" ? work.composerNameJa : work.composerName
+                  }
+                  genre={work.genre}
+                  stars={work.stars}
+                />
+              </li>
+            ))
+          : picks.map(({ work, reason }) => (
+              <li key={work.id}>
+                <WorkCard
+                  locale={locale}
+                  workId={work.id}
+                  title={locale === "ja" ? work.titleJa : work.title}
+                  secondaryTitle={locale === "ja" ? work.title : undefined}
+                  composerName={
+                    locale === "ja" ? work.composerNameJa : work.composerName
+                  }
+                  genre={work.genre}
+                  stars={work.stars}
+                  note={reasonNote(reason, locale, composers)}
+                />
+              </li>
+            ))}
+      </ul>
+      {picks !== null && canLoadMore && (
         <button
           type="button"
-          onClick={shuffle}
-          className="text-sm text-accent underline underline-offset-2"
+          onClick={showMore}
+          className="mt-6 w-full rounded-md border border-line py-3 text-sm text-ink-soft hover:border-accent/40 hover:text-accent"
         >
-          {messages.discover.refresh}
+          {messages.filters.showMore}
         </button>
-      </div>
-      <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
-        {picks.map(({ work, reason }) => (
-          <li key={work.id}>
-            <WorkCard
-              locale={locale}
-              workId={work.id}
-              title={locale === "ja" ? work.titleJa : work.title}
-              secondaryTitle={locale === "ja" ? work.title : undefined}
-              composerName={
-                locale === "ja" ? work.composerNameJa : work.composerName
-              }
-              genre={work.genre}
-              stars={work.stars}
-              note={reasonNote(reason, locale, composers)}
-            />
-          </li>
-        ))}
-      </ul>
+      )}
     </section>
   );
 }

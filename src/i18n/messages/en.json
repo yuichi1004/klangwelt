@@ -49,7 +49,9 @@
     "sortLabel": "Sort",
     "sortStandard": "Standard repertoire",
     "sortTitle": "Title",
-    "sortComposer": "Composer"
+    "sortComposer": "Composer",
+    "browseAll": "Browse all {count} works",
+    "backToDiscover": "Back to discovery"
   },
   "composers": {
     "resultCount": "{count} composers",
@@ -152,9 +154,6 @@
     "importError": "Could not read this backup. Check the file contents and try again."
   },
   "discover": {
-    "heading": "From your favourites, something new",
-    "hint": "Picked from the trends in what you've saved. Changes every visit.",
-    "refresh": "Shuffle",
     "reason": {
       "composer": "If you like {name}",
       "epoch": "More from the {label}",

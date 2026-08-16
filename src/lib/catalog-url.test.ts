@@ -27,13 +27,31 @@ describe("writeFilters / readFilters round-trip", () => {
     expect(readFilters(new URLSearchParams(query.replace(/^\?/, "")))).toEqual({
       filters: original,
       sort: "title",
+      view: false,
     });
   });
 
   it("is idempotent: writing the output of a read reproduces the same query", () => {
     const query = "?q=Beethoven&e=Baroque&g=Keyboard&stars=4&sort=composer";
-    const { filters: parsed, sort } = parse(query.replace(/^\?/, ""));
-    expect(writeFilters(parsed, sort)).toBe(query);
+    const { filters: parsed, sort, view } = parse(query.replace(/^\?/, ""));
+    expect(writeFilters(parsed, sort, view)).toBe(query);
+  });
+});
+
+describe("?view=all", () => {
+  it("is false unless explicitly requested", () => {
+    expect(parse("").view).toBe(false);
+    expect(parse("view=everything").view).toBe(false);
+  });
+
+  it("round-trips through write and read", () => {
+    const query = writeFilters(EMPTY_FILTERS, "standard", true);
+    expect(query).toBe("?view=all");
+    expect(parse("view=all").view).toBe(true);
+  });
+
+  it("survives sanitizeQueryString alongside other filters", () => {
+    expect(sanitizeQueryString("?e=Baroque&view=all")).toBe("?e=Baroque&view=all");
   });
 });
 

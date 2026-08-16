@@ -3,7 +3,6 @@ import { Suspense } from "react";
 
 import { CatalogBrowser } from "@/components/catalog-browser";
 import { CatalogFallback } from "@/components/catalog-fallback";
-import { Recommendations } from "@/components/recommendations";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import {
   buildComposerOptions,
@@ -35,23 +34,21 @@ export default async function CatalogPage(props: PageProps<"/[locale]">) {
 
   return (
     <>
+      {/* A slim band, not a showcase: the search bar `CatalogBrowser` renders
+          right below is the page's real first action, so the hero itself
+          only needs to say what this site is and get out of the way. */}
       <section className="border-b border-terra/40 bg-terra-surface">
-        <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6 sm:py-20">
-          <h1 className="font-serif text-[1.75rem] font-medium leading-snug text-ink sm:text-4xl">
+        <div className="mx-auto max-w-6xl px-4 py-5 sm:px-6 sm:py-6">
+          <h1 className="font-serif text-xl font-medium leading-snug text-ink sm:text-2xl">
             {messages.site.tagline}
           </h1>
-          <p className="mt-4 max-w-2xl text-sm leading-loose text-ink-soft">
-            {messages.site.description}
-          </p>
-          <p className="mt-6 text-xs text-ink-faint">
+          <p className="mt-1.5 text-sm text-ink-soft">
             {locale === "ja"
               ? `作曲家 ${catalogMeta.composerCount}名 / 楽曲 ${catalogMeta.coreWorkCount.toLocaleString()}曲`
               : `${catalogMeta.composerCount} composers · ${catalogMeta.coreWorkCount.toLocaleString()} works`}
           </p>
         </div>
       </section>
-
-      <Recommendations locale={locale} composers={composers} />
 
       {/*
         `CatalogBrowser` reads the filters out of the query string, which Next
