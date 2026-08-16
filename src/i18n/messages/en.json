@@ -154,11 +154,6 @@
     "importError": "Could not read this backup. Check the file contents and try again."
   },
   "discover": {
-    "heading": "From your favourites, something new",
-    "hint": "Picked from the trends in what you've saved. Changes every visit.",
-    "popularHeading": "Popular works",
-    "popularHint": "Picked at random from the standard repertoire. Changes every visit.",
-    "refresh": "Shuffle",
     "reason": {
       "composer": "If you like {name}",
       "epoch": "More from the {label}",

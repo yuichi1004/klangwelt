@@ -19,7 +19,7 @@ import { buildTasteProfile, recommend, type Recommendation } from "@/lib/recomme
  * Module scope, not component state: set once by the first mount of any
  * page during this load and reused by every later navigation within the
  * SPA, so the lineup stays put while browsing. A full reload re-imports the
- * module and draws a fresh one. "Shuffle" reassigns it explicitly.
+ * module and draws a fresh one.
  */
 let visitSeed: number | null = null;
 
@@ -27,7 +27,7 @@ function drawSeed(): number {
   return Math.floor(Math.random() * 0xffffffff);
 }
 
-/** Cards added per initial load, "show more" click, or shuffle. */
+/** Cards added per initial load or "show more" click. */
 const BATCH_SIZE = 12;
 
 function resolveFavorites(
@@ -96,12 +96,11 @@ export function Recommendations({
   // double invocation), so it is the sanctioned one-shot escape hatch for a
   // value that does not need to be pure across renders — unlike the picks
   // below, which do need to wait for real data and so stay effect-driven.
-  const [seed, setSeed] = useState<number>(() => {
+  const [seed] = useState<number>(() => {
     if (visitSeed === null) visitSeed = drawSeed();
     return visitSeed;
   });
   const [picks, setPicks] = useState<Recommendation[] | null>(null);
-  const [hasFavorites, setHasFavorites] = useState(false);
   const [canLoadMore, setCanLoadMore] = useState(true);
 
   useEffect(() => {
@@ -121,7 +120,7 @@ export function Recommendations({
   // Read outside the effect below so favouriting or unfavouriting a work
   // during this visit cannot retrigger a recompute: pressing the heart on a
   // recommended card must not make that card vanish out from under the
-  // pointer. The list only changes on `seed` (reload, shuffle) or "show more".
+  // pointer. The list only grows via "show more"; nothing else re-derives it.
   const favoriteIdsRef = useRef<string[]>(workIds);
   useEffect(() => {
     favoriteIdsRef.current = workIds;
@@ -137,21 +136,14 @@ export function Recommendations({
       recentlyShown: readSeen(),
     });
     setPicks(result);
-    setHasFavorites(favorites.length > 0);
     setCanLoadMore(result.length >= BATCH_SIZE);
     pushSeen(result.map((r) => r.work.id));
   }, [ready, works, seed]);
 
-  function shuffle() {
-    visitSeed = drawSeed();
-    setSeed(visitSeed);
-  }
-
   function showMore() {
     if (works === null || picks === null) return;
     const profile = buildTasteProfile(resolveFavorites(favoriteIdsRef.current, works));
-    // Derived from `seed` (not independent) so a shuffle resets the trail,
-    // but distinct per batch so it doesn't just reproduce the same picks.
+    // Distinct per batch so it doesn't just reproduce the same picks.
     const nextSeed = (seed + picks.length * 2654435761) >>> 0;
     const more = recommend(works, profile, {
       seed: nextSeed,
@@ -164,27 +156,11 @@ export function Recommendations({
     pushSeen(more.map((r) => r.work.id));
   }
 
-  const heading = hasFavorites ? messages.discover.heading : messages.discover.popularHeading;
-  const hint = hasFavorites ? messages.discover.hint : messages.discover.popularHint;
-
   return (
     <section
-      className="mx-auto max-w-6xl px-4 py-8 sm:px-6"
+      className="mx-auto max-w-6xl px-4 pb-8 pt-2 sm:px-6"
       data-testid="discover"
     >
-      <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
-        <div>
-          <h2 className="font-serif text-lg font-medium text-ink">{heading}</h2>
-          <p className="mt-1 text-sm text-ink-faint">{hint}</p>
-        </div>
-        <button
-          type="button"
-          onClick={shuffle}
-          className="text-sm text-accent underline underline-offset-2"
-        >
-          {messages.discover.refresh}
-        </button>
-      </div>
       <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
         {picks === null
           ? initialWorks.slice(0, BATCH_SIZE).map((work) => (

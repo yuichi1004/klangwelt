@@ -481,21 +481,19 @@ test.describe("discover (homepage recommendations)", () => {
    * Until favourites and the client-side work index are both ready, the feed
    * shows a favourites-blind popularity fallback (`initialWorks`, for first
    * paint and SEO) that happens to render exactly `BATCH_SIZE` cards too —
-   * the same count as the real, favourites-aware picks. Waiting for the
-   * personalised heading is what actually distinguishes "the real picks
-   * landed" from "the fallback just happens to look similar".
+   * the same count as the real, favourites-aware picks, and (with no heading
+   * to tell them apart any more) sometimes the same-looking content. Waiting
+   * for the work-index fetch to settle is what actually distinguishes "the
+   * real picks landed" from "the fallback just happens to look similar".
    */
-  const favoritePicksReady = (page: Page) =>
-    expect(
-      page.getByRole("heading", { name: "お気に入りから、次の1曲" }),
-    ).toBeVisible();
+  const realPicksReady = (page: Page) => page.waitForLoadState("networkidle");
 
   test("shows twelve recommendations built from favourites", async ({ page }) => {
     await seedFavorites(page, CHOPIN_FAVORITES);
     await page.goto("/ja");
 
     await expect(discoverSection(page)).toBeVisible();
-    await favoritePicksReady(page);
+    await realPicksReady(page);
     await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
   });
 
@@ -503,7 +501,7 @@ test.describe("discover (homepage recommendations)", () => {
     await seedFavorites(page, CHOPIN_FAVORITES);
     await page.goto("/ja");
 
-    await favoritePicksReady(page);
+    await realPicksReady(page);
     await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
     const hrefs = await discoverCards(page).evaluateAll((links) =>
       links.map((link) => link.getAttribute("href")),
@@ -513,33 +511,11 @@ test.describe("discover (homepage recommendations)", () => {
     }
   });
 
-  test("選び直す draws a different lineup", async ({ page }) => {
-    await seedFavorites(page, CHOPIN_FAVORITES);
-    await page.goto("/ja");
-
-    await favoritePicksReady(page);
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
-    const before = await discoverCards(page).evaluateAll((links) =>
-      links.map((link) => link.getAttribute("href")),
-    );
-
-    await discoverSection(page)
-      .getByRole("button", { name: "選び直す" })
-      .click();
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
-    const after = await discoverCards(page).evaluateAll((links) =>
-      links.map((link) => link.getAttribute("href")),
-    );
-
-    expect(after).not.toEqual(before);
-  });
-
   test("shows popular picks when there are no favourites, instead of disappearing", async ({
     page,
   }) => {
     await page.goto("/ja");
     await expect(discoverSection(page)).toBeVisible();
-    await expect(page.getByRole("heading", { name: "人気の曲" })).toBeVisible();
     await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
   });
 
@@ -567,7 +543,7 @@ test.describe("discover (homepage recommendations)", () => {
     await seedFavorites(page, CHOPIN_FAVORITES);
     await page.goto("/ja");
 
-    await favoritePicksReady(page);
+    await realPicksReady(page);
     await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
     const firstCard = discoverCards(page).first();
     const href = await firstCard.getAttribute("href");
