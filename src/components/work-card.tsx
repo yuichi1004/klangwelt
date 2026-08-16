@@ -19,6 +19,13 @@ export interface WorkCardProps {
    * freely licensed portrait, which fall back to an initial-letter tile.
    */
   composerPortrait?: string;
+  /**
+   * Letter for the fallback tile when there's no portrait. Defaults to
+   * `composerName`'s first letter — pass this explicitly when `composerName`
+   * is `""` to hide the redundant text (e.g. the composer's own profile
+   * page's "代表曲" list) but the tile still needs a letter to fall back to.
+   */
+  composerInitial?: string;
   genre: Genre;
   stars: Stars;
   /** Work detail pages exist only for core works. */
@@ -49,6 +56,7 @@ export function WorkCard({
   secondaryTitle,
   composerName,
   composerPortrait,
+  composerInitial,
   genre,
   stars,
   linkToDetail = true,
@@ -58,7 +66,10 @@ export function WorkCard({
   const messages = getMessages(locale);
   const body = (
     <>
-      <ComposerThumb portrait={composerPortrait} composerName={composerName} />
+      <ComposerThumb
+        portrait={composerPortrait}
+        composerName={composerInitial ?? composerName}
+      />
       {/* pr-8 clears the absolutely-positioned favourite button: its 44px box
           ends 2px short of this column's right edge, so a long title never
           runs underneath it. */}

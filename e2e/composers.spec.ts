@@ -15,6 +15,37 @@ const resultCount = (page: Page) => page.getByTestId("result-count");
 
 const searchBox = (page: Page) => page.getByRole("searchbox", { name: "作曲家を検索" });
 
+/**
+ * The composer's own "代表曲" list passes `composerName=""` — showing "この
+ * 作曲家" on every card of their own profile page would be redundant — which
+ * once meant the fallback tile's initial-letter derivation (also driven by
+ * `composerName`) went blank too for composers with no portrait. Covers both
+ * branches of `ComposerThumb`: a real portrait (Beethoven, #145) and the
+ * initial-letter fallback (Pachelbel, #115, one of the 7 composers with none).
+ */
+test.describe("composer profile page's own-works thumbnails", () => {
+  test("shows the portrait on a composer's own work cards", async ({
+    page,
+  }) => {
+    await page.goto("/ja/composers/145");
+    const section = page.locator("section", { has: page.getByRole("heading", { name: "代表曲" }) });
+    const firstCard = section.locator('a[href^="/ja/works/"]').first();
+    await expect(firstCard.locator("img")).toHaveCount(1);
+    await expect(firstCard.locator("img")).toHaveAttribute("src", /\/portraits\/thumb\/145\.jpg/);
+  });
+
+  test("falls back to a non-empty initial tile when there is no portrait", async ({
+    page,
+  }) => {
+    await page.goto("/ja/composers/115");
+    const section = page.locator("section", { has: page.getByRole("heading", { name: "代表曲" }) });
+    const firstCard = section.locator('a[href^="/ja/works/"]').first();
+    await expect(firstCard.locator("img")).toHaveCount(0);
+    const tile = firstCard.locator('[aria-hidden="true"]').first();
+    await expect(tile).not.toBeEmpty();
+  });
+});
+
 test.describe("composer filtering", () => {
   test.skip(
     ({ isMobile }) => Boolean(isMobile),

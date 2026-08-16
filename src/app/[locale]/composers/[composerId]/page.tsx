@@ -287,6 +287,8 @@ export default async function ComposerPage(
                   title={locale === "ja" ? work.titleJa : work.title}
                   secondaryTitle={locale === "ja" ? work.title : undefined}
                   composerName=""
+                  composerPortrait={composer.portrait}
+                  composerInitial={name}
                   genre={work.genre}
                   stars={work.stars}
                 />
