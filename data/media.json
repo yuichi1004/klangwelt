@@ -25,6 +25,43 @@
           "ja": "宇宙船が回転するステーションにドッキングする場面の音楽として使われる。",
           "en": "Plays over the space station docking sequence."
         }
+      },
+      {
+        "title": { "ja": "バトル・ロワイアル", "en": "Battle Royale" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "ゲームのルール説明ビデオのBGMとして、明るい曲調と内容の対比を際立たせる。",
+          "en": "Plays over the deadpan rules-explanation video, its cheerfulness clashing with the content."
+        }
+      }
+    ]
+  },
+  "2715": {
+    "work": "Requiem",
+    "media": [
+      {
+        "title": { "ja": "バトル・ロワイアル", "en": "Battle Royale" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "「怒りの日」が、デスゲームの制定背景を語る冒頭のプロローグに流れる。",
+          "en": "The \"Dies irae\" plays over the film's opening prologue explaining the death game's origin."
+        }
+      }
+    ]
+  },
+  "20560": {
+    "work": "Auf dem Wasser zu singen, D.774, op. 72",
+    "media": [
+      {
+        "title": { "ja": "バトル・ロワイアル", "en": "Battle Royale" },
+        "year": 2000,
+        "kind": "film",
+        "note": {
+          "ja": "生徒たちが次々と命を落としていく中盤で、悲哀を際立たせる挿入曲として使われる。",
+          "en": "Plays as an insert song partway through, underscoring the students' deaths with its lyricism."
+        }
       }
     ]
   },
@@ -135,6 +172,15 @@
         "note": {
           "ja": "第4楽章「歓喜の歌」が、主人公アレックスの愛聴曲として作中で繰り返し使われる。",
           "en": "The fourth movement, the \"Ode to Joy\", recurs as protagonist Alex's favourite piece of music."
+        }
+      },
+      {
+        "title": { "ja": "新世紀エヴァンゲリオン", "en": "Neon Genesis Evangelion" },
+        "year": 1995,
+        "kind": "anime",
+        "note": {
+          "ja": "第4楽章が、第24話で渚カヲルがターミナルドグマへ降下する場面のBGMに使われる。",
+          "en": "The fourth movement underscores Kaworu's descent into Terminal Dogma in episode 24."
         }
       }
     ]
@@ -341,6 +387,15 @@
           "ja": "ロバート・レッドフォード監督デビュー作の冒頭と終盤に使われ、この曲を一般に広めた作品として知られる。",
           "en": "Bookends Robert Redford's directorial debut and is widely credited with bringing the piece to mass popularity."
         }
+      },
+      {
+        "title": { "ja": "新世紀エヴァンゲリオン劇場版 シト新生", "en": "Neon Genesis Evangelion: Death & Rebirth" },
+        "year": 1997,
+        "kind": "film",
+        "note": {
+          "ja": "弦楽四重奏版が「DEATH」編のエンディングタイトルロールに使われる。",
+          "en": "A string-quartet arrangement plays over the end credits of the \"DEATH\" segment."
+        }
       }
     ]
   },
@@ -391,6 +446,15 @@
         "note": {
           "ja": "1930年代のニューヨークを舞台にした一編に使われる。",
           "en": "Accompanies a segment set in 1930s New York City."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "エンディングテーマとして使われ、学園祭ではピアニカを交えた型破りな演奏が披露される。",
+          "en": "Used as the ending theme; the school festival features an unorthodox performance with a melodica."
         }
       }
     ]
@@ -577,6 +641,15 @@
         "note": {
           "ja": "映画音楽のほぼ全体をこの協奏曲が占め、道ならぬ恋の情感を支えている。",
           "en": "The concerto makes up nearly the whole score, carrying the film's mood of doomed romance."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "第1楽章が、シュトレーゼマン指揮・千秋ピアノによる定期公演の演奏曲として使われる。",
+          "en": "The first movement is performed at a subscription concert conducted by Stresemann with Chiaki at the piano."
         }
       }
     ]
@@ -922,6 +995,15 @@
           "ja": "第2曲「アリア」が、悪役が裏切った部下をサメの水槽に落とす場面に、優雅な曲調とのコントラストとして流れる。",
           "en": "The second movement, the \"Air,\" plays as the villain drops a disloyal aide into a shark tank, its elegance contrasting with the violence."
         }
+      },
+      {
+        "title": { "ja": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に", "en": "Neon Genesis Evangelion: The End of Evangelion" },
+        "year": 1997,
+        "kind": "film",
+        "note": {
+          "ja": "第2曲「アリア」が、「Air」編でエヴァ弐号機と量産機が戦う場面に使われる。",
+          "en": "The second movement underscores the battle between Unit 02 and the mass-production units in the \"Air\" segment."
+        }
       }
     ]
   },
@@ -1001,6 +1083,29 @@
           "ja": "コラール「主よ、人の望みの喜びよ」のポップ編曲版が、主人公が寝室の鏡で自分に見とれる場面に流れる。",
           "en": "A pop arrangement of the chorale \"Jesu, Joy of Man's Desiring\" plays as the protagonist admires himself in his bedroom mirror."
         }
+      },
+      {
+        "title": { "ja": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に", "en": "Neon Genesis Evangelion: The End of Evangelion" },
+        "year": 1997,
+        "kind": "film",
+        "note": {
+          "ja": "コラール「主よ、人の望みの喜びよ」が、「まごころを、君に」編のエンディングクレジットに使われる。",
+          "en": "The chorale \"Jesu, Joy of Man's Desiring\" plays over the end credits of the \"The End of Evangelion\" segment."
+        }
+      }
+    ]
+  },
+  "9221": {
+    "work": "Partita no. 3 for Solo Violin in E major, BWV.1006",
+    "media": [
+      {
+        "title": { "ja": "新世紀エヴァンゲリオン劇場版 シト新生", "en": "Neon Genesis Evangelion: Death & Rebirth" },
+        "year": 1997,
+        "kind": "film",
+        "note": {
+          "ja": "第3楽章「ガヴォットとロンド」が、「DEATH」編で教室に現れたアスカの姿の少女がヴァイオリンで弾く曲として登場する。",
+          "en": "The third movement, the \"Gavotte en Rondeau\", is played on violin by a girl who appears as Asuka in the \"DEATH\" segment."
+        }
       }
     ]
   },
@@ -1074,6 +1179,15 @@
         "note": {
           "ja": "「ハレルヤ・コーラス」が、バスに乗り合わせた女性たちを見て主人公が空想にふける場面にコミカルに流れる。",
           "en": "The \"Hallelujah Chorus\" plays comically as the protagonist fantasizes upon boarding a bus full of women."
+        }
+      },
+      {
+        "title": { "ja": "新世紀エヴァンゲリオン", "en": "Neon Genesis Evangelion" },
+        "year": 1995,
+        "kind": "anime",
+        "note": {
+          "ja": "「ハレルヤ・コーラス」が、第22話でアスカが精神汚染を受ける衝撃的な場面のBGMに使われる。",
+          "en": "The \"Hallelujah Chorus\" underscores Asuka's harrowing mental breakdown in episode 22."
         }
       }
     ]
@@ -1185,6 +1299,15 @@
         "note": {
           "ja": "オムニバスアニメーションの第1話で、若さを取り戻そうとする年老いたサテュロスを描く場面に流れる。",
           "en": "Scores the first segment of this animated anthology film, depicting an aging satyr comically trying to recapture his youth."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "千秋が指揮する最後の日本公演で、幻想的な幕開けを飾る1曲目として演奏される。",
+          "en": "Opens Chiaki's final concert in Japan, its dreamlike flute melody setting the mood."
         }
       }
     ]
@@ -1529,6 +1652,15 @@
           "ja": "「プレリュード」が、チェリストを目指す主人公のジュリアード音楽院オーディションの演目として使われる。",
           "en": "The \"Prélude\" is performed by the cellist protagonist for her Juilliard audition, a central scene in the film."
         }
+      },
+      {
+        "title": { "ja": "新世紀エヴァンゲリオン", "en": "Neon Genesis Evangelion" },
+        "year": 1995,
+        "kind": "anime",
+        "note": {
+          "ja": "「プレリュード」が、第15話で碇シンジがチェロを弾く場面に使われる。",
+          "en": "The \"Prélude\" is the piece Shinji plays on the cello in episode 15."
+        }
       }
     ]
   },
@@ -1691,6 +1823,15 @@
         "note": {
           "ja": "第2楽章を、少女が百貨店の店頭ピアノで弾く場面があり、主人公はその演奏に心を動かされる。",
           "en": "A young girl plays the second movement on a department-store piano, and the protagonist is moved by her performance."
+        }
+      },
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "第2楽章を、第1話でのだめが我流ながら魅力的に弾く場面があり、千秋が彼女の才能に気づくきっかけとなる。",
+          "en": "In episode 1, Nodame's idiosyncratic but captivating rendition of the second movement is what first draws Chiaki's attention to her talent."
         }
       }
     ]
@@ -2759,6 +2900,90 @@
         "note": {
           "ja": "国際指揮者コンクールの2次審査で、主人公が本番直前に手渡される見知らぬ課題曲として使われる。",
           "en": "Handed to the protagonist as an unfamiliar piece shortly before he must conduct it in the second round of an international conducting competition."
+        }
+      }
+    ]
+  },
+  "16123": {
+    "work": "Violin Sonata no. 5 in F major, op. 24, \"Spring\"",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "第1楽章が、峰龍太郎のヴァイオリン試験曲として使われる。",
+          "en": "The first movement is the piece violinist Ryutaro Mine performs for his exam."
+        }
+      }
+    ]
+  },
+  "7744": {
+    "work": "Symphony no. 1 in C minor, op. 68",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "第4楽章が、千秋が旗揚げしたオーケストラのクリスマス・デビュー公演の演奏曲として使われる。",
+          "en": "The fourth movement is performed at the Christmas debut concert of the orchestra Chiaki founds."
+        }
+      }
+    ]
+  },
+  "13308": {
+    "work": "L'isle joyeuse, L.106",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "ピアノコンクール本選での演奏曲で、苦悩の末に音楽本来の喜びを取り戻すのだめの姿を象徴する。",
+          "en": "Played in the final round of a piano competition, symbolising Nodame rediscovering her pure joy in music after a crisis of confidence."
+        }
+      }
+    ]
+  },
+  "19604": {
+    "work": "Till Eulenspiegels lustige Streiche, op. 28, Trv171",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "ティンパニ奏者・真澄の学生時代の回想など、コミカルな場面のBGMとして使われる。",
+          "en": "Underscores comic scenes, including timpanist Masumi's flashback to his student days."
+        }
+      }
+    ]
+  },
+  "23860": {
+    "work": "Sonata in D major, K.448",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "第1楽章が、千秋とのだめが初めて2台ピアノで連弾する曲として使われる。",
+          "en": "The first movement is the piece Chiaki and Nodame first play together as a two-piano duo."
+        }
+      }
+    ]
+  },
+  "23281": {
+    "work": "Oboe Concerto in C major, K.314",
+    "media": [
+      {
+        "title": { "ja": "のだめカンタービレ", "en": "Nodame Cantabile" },
+        "year": 2006,
+        "kind": "tv",
+        "note": {
+          "ja": "第1楽章が、オーボエ奏者・黒木の独奏曲として使われ、恋をして演奏が変化する様子が描かれる。",
+          "en": "The first movement is oboist Kuroki's solo showcase, whose playing shifts noticeably once he falls in love."
         }
       }
     ]
