@@ -5,6 +5,7 @@ import { BackupPanel } from "@/components/backup-panel";
 import { FavoritesList } from "@/components/favorites-list";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { buildComposerOptions } from "@/lib/catalog";
+import { buildOpenGraph } from "@/lib/og";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -15,9 +16,14 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const { locale } = await props.params;
   if (!isLocale(locale)) return {};
+  const messages = getMessages(locale);
   return {
-    title: getMessages(locale).favorites.heading,
+    title: messages.favorites.heading,
     robots: { index: false },
+    ...buildOpenGraph(locale, {
+      title: messages.favorites.heading,
+      description: messages.site.description,
+    }),
   };
 }
 

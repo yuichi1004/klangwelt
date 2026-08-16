@@ -11,6 +11,7 @@ import { WorkCard } from "@/components/work-card";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import {
   composers,
+  formatLifespan,
   getComposer,
   getCoreWorksByComposer,
   getPortraitCredit,
@@ -19,6 +20,7 @@ import { COUNTRY_LABELS } from "@/lib/countries";
 import { getComposerEditorial } from "@/lib/editorial";
 import { EPOCH_LABELS, EPOCH_YEARS } from "@/lib/epochs";
 import { createAnnotator, glossary } from "@/lib/glossary";
+import { buildOpenGraph, composerOgImage } from "@/lib/og";
 
 export function generateStaticParams() {
   return LOCALES.flatMap((locale) =>
@@ -35,8 +37,17 @@ export async function generateMetadata(
   const composer = getComposer(composerId);
   if (!composer) return {};
 
+  const messages = getMessages(locale);
+  const name = locale === "ja" ? composer.nameJa : composer.completeName;
+  const description = messages.composer.ogDescription
+    .replace("{name}", name)
+    .replace("{lifespan}", formatLifespan(messages, composer))
+    .replace("{epoch}", EPOCH_LABELS[composer.epoch][locale]);
+  const credit = getPortraitCredit(composerId);
+
   return {
-    title: locale === "ja" ? composer.nameJa : composer.completeName,
+    title: name,
+    description,
     alternates: {
       languages: Object.fromEntries(
         LOCALES.map((candidate) => [
@@ -45,6 +56,11 @@ export async function generateMetadata(
         ]),
       ),
     },
+    ...buildOpenGraph(locale, {
+      title: name,
+      description,
+      image: composerOgImage(composer, credit, name),
+    }),
   };
 }
 
@@ -71,12 +87,7 @@ export default async function ComposerPage(
   const startHereWorks = coreWorks.slice(0, 3);
 
   const name = locale === "ja" ? composer.nameJa : composer.completeName;
-  const lifespan =
-    composer.deathYear === null
-      ? messages.common.yearsLiving.replace("{birth}", String(composer.birthYear))
-      : messages.common.years
-          .replace("{birth}", String(composer.birthYear))
-          .replace("{death}", String(composer.deathYear));
+  const lifespan = formatLifespan(messages, composer);
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-12">

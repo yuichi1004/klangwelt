@@ -6,6 +6,7 @@ import { describe, expect, it } from "vitest";
 import {
   isAllowedImageLicence,
   normalizeAuthor,
+  requiresAttribution,
   type PortraitCredit,
 } from "./licenses";
 
@@ -37,6 +38,25 @@ describe("isAllowedImageLicence", () => {
       "Copyrighted free use",
     ]) {
       expect(isAllowedImageLicence(licence), String(licence)).toBe(false);
+    }
+  });
+});
+
+describe("requiresAttribution", () => {
+  it("requires attribution for the CC BY family", () => {
+    for (const licence of [
+      "CC BY 4.0",
+      "CC BY 2.0",
+      "CC BY-SA 4.0",
+      "CC BY-SA 3.0 de",
+    ]) {
+      expect(requiresAttribution(licence), licence).toBe(true);
+    }
+  });
+
+  it("does not require attribution for public-domain-equivalent licences", () => {
+    for (const licence of ["Public domain", "PD", "CC0", "No restrictions"]) {
+      expect(requiresAttribution(licence), licence).toBe(false);
     }
   });
 });
@@ -104,7 +124,7 @@ describe("every shipped portrait is cleared for redistribution", () => {
 
   it("names an author for every licence that requires attribution", () => {
     const attributionRequired = credits.filter((credit) =>
-      credit.license.startsWith("CC BY"),
+      requiresAttribution(credit.license),
     );
     expect(attributionRequired.length).toBeGreaterThan(0);
     for (const credit of attributionRequired) {

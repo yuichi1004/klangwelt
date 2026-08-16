@@ -12,6 +12,7 @@ import type {
   WorkIndexRow,
 } from "./catalog-types";
 import type { Epoch, Genre } from "./epochs";
+import type { Messages } from "@/i18n/config";
 import type { PortraitCredit } from "./licenses";
 import type { MediaIndexEntry } from "./media-index";
 import type { MediaKind } from "./media";
@@ -49,6 +50,18 @@ export function getPortraitCredit(
   composerId: string,
 ): PortraitCredit | undefined {
   return portraitsByComposerId.get(composerId);
+}
+
+/** "b. 1685" or "1685-1750", depending on whether the composer is still living. */
+export function formatLifespan(
+  messages: Messages,
+  composer: Pick<Composer, "birthYear" | "deathYear">,
+): string {
+  return composer.deathYear === null
+    ? messages.common.yearsLiving.replace("{birth}", String(composer.birthYear))
+    : messages.common.years
+        .replace("{birth}", String(composer.birthYear))
+        .replace("{death}", String(composer.deathYear));
 }
 
 /** `coreWorks` is already in canonical 定番度 order (`compareByStandard`, applied

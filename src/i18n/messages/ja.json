@@ -97,7 +97,8 @@
     "spotify": "Spotify で聴く",
     "youtubeMusic": "YouTube Music で聴く",
     "moreByComposer": "{name}の他の楽曲",
-    "backToCatalog": "楽曲一覧に戻る"
+    "backToCatalog": "楽曲一覧に戻る",
+    "ogDescription": "{composer}（{lifespan}）による{genre}。定番度: {stars}"
   },
   "composer": {
     "heading": "作曲家",
@@ -122,7 +123,8 @@
     "noPortrait": "肖像画なし",
     "browseAll": "作曲家一覧",
     "sortByName": "名前順",
-    "sortByEpoch": "年代順"
+    "sortByEpoch": "年代順",
+    "ogDescription": "{name}（{lifespan}）｜{epoch}の作曲家"
   },
   "favorites": {
     "heading": "お気に入り",

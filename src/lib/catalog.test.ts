@@ -1,5 +1,6 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
 
+import { getMessages } from "@/i18n/config";
 import {
   buildComposerOptions,
   buildSearchIndex,
@@ -7,6 +8,7 @@ import {
   composers,
   fetchWorkIndex,
   filterWorks,
+  formatLifespan,
   getComposer,
   getWork,
   joinComposers,
@@ -18,6 +20,8 @@ import {
 } from "./catalog";
 import { COUNTRY_LABELS } from "./countries";
 
+const messages = getMessages("ja");
+
 const index = buildSearchIndex();
 
 const filters = (overrides: Partial<CatalogFilters> = {}): CatalogFilters => ({
@@ -27,6 +31,20 @@ const filters = (overrides: Partial<CatalogFilters> = {}): CatalogFilters => ({
   genres: [],
   minStars: 0,
   ...overrides,
+});
+
+describe("formatLifespan", () => {
+  it("formats a birth-death range", () => {
+    expect(
+      formatLifespan(messages, { birthYear: 1685, deathYear: 1750 }),
+    ).toBe(messages.common.years.replace("{birth}", "1685").replace("{death}", "1750"));
+  });
+
+  it("formats a living composer with only a birth year", () => {
+    expect(formatLifespan(messages, { birthYear: 1935, deathYear: null })).toBe(
+      messages.common.yearsLiving.replace("{birth}", "1935"),
+    );
+  });
 });
 
 describe("catalog integrity", () => {

@@ -58,6 +58,11 @@ export function normalizeAuthor(raw: string): string {
   return value.length > 120 ? `${value.slice(0, 117)}…` : value;
 }
 
+/** CC BY / CC BY-SA require attribution; PD, CC0 and "No restrictions" don't. */
+export function requiresAttribution(license: string): boolean {
+  return license.startsWith("CC BY");
+}
+
 /** Provenance recorded for every portrait we ship. */
 export interface PortraitCredit {
   /** Composer id from Open Opus. */
