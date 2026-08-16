@@ -4,6 +4,11 @@
     "tagline": "クラシック音楽を、探して、知って、聴く。",
     "description": "作曲家・年代・定番度から検索できるクラシック音楽ポータル。楽曲ごとに解説とエピソードを添え、Spotify と YouTube Music へのリンクからすぐに聴けます。"
   },
+  "hero": {
+    "searchLabel": "楽曲を検索",
+    "searchCta": "検索する",
+    "quickFiltersLabel": "よく使う条件"
+  },
   "nav": {
     "catalog": "楽曲を探す",
     "composers": "作曲家",

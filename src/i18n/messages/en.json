@@ -4,6 +4,11 @@
     "tagline": "Find, understand and listen to classical music.",
     "description": "A classical music portal you can browse by composer, period and how standard a work is. Every work comes with programme notes and links to Spotify and YouTube Music."
   },
+  "hero": {
+    "searchLabel": "Search the catalogue",
+    "searchCta": "Search",
+    "quickFiltersLabel": "Quick filters"
+  },
   "nav": {
     "catalog": "Browse works",
     "composers": "Composers",
