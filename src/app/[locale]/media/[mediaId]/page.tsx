@@ -6,6 +6,7 @@ import { WorkCard } from "@/components/work-card";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { getComposer, getMediaEntry, getWork, mediaIndex } from "@/lib/catalog";
 import { MEDIA_KIND_LABELS } from "@/lib/media";
+import { buildOpenGraph } from "@/lib/og";
 
 /**
  * Every production gets a page, same as composers and core works — the
@@ -27,13 +28,17 @@ export async function generateMetadata(
   const entry = getMediaEntry(mediaId);
   if (!entry) return {};
 
+  const messages = getMessages(locale);
+  const title = entry.title[locale];
+
   return {
-    title: entry.title[locale],
+    title,
     alternates: {
       languages: Object.fromEntries(
         LOCALES.map((candidate) => [candidate, `/${candidate}/media/${mediaId}`]),
       ),
     },
+    ...buildOpenGraph(locale, { title, description: messages.media.description }),
   };
 }
 

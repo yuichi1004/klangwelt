@@ -98,7 +98,8 @@
     "spotify": "LISTEN ON SPOTIFY",
     "youtubeMusic": "Listen on YouTube Music",
     "moreByComposer": "More by {name}",
-    "backToCatalog": "Back to all works"
+    "backToCatalog": "Back to all works",
+    "ogDescription": "{genre} by {composer} ({lifespan}). Standard repertoire rating: {stars}."
   },
   "composer": {
     "heading": "Composer",
@@ -123,7 +124,8 @@
     "noPortrait": "No portrait",
     "browseAll": "All composers",
     "sortByName": "By name",
-    "sortByEpoch": "By period"
+    "sortByEpoch": "By period",
+    "ogDescription": "{name} ({lifespan}), a composer of the {epoch}"
   },
   "favorites": {
     "heading": "Favourites",

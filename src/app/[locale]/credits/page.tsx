@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { composers, portraitCredits } from "@/lib/catalog";
+import { buildOpenGraph } from "@/lib/og";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -13,7 +14,14 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const { locale } = await props.params;
   if (!isLocale(locale)) return {};
-  return { title: getMessages(locale).credits.heading };
+  const messages = getMessages(locale);
+  return {
+    title: messages.credits.heading,
+    ...buildOpenGraph(locale, {
+      title: messages.credits.heading,
+      description: messages.credits.intro,
+    }),
+  };
 }
 
 /**

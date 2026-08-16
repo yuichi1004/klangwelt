@@ -11,6 +11,7 @@ import {
   filterComposers,
   groupComposersByEpoch,
 } from "@/lib/composer-filter";
+import { buildOpenGraph } from "@/lib/og";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -21,7 +22,14 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const { locale } = await props.params;
   if (!isLocale(locale)) return {};
-  return { title: getMessages(locale).nav.composers };
+  const messages = getMessages(locale);
+  return {
+    title: messages.nav.composers,
+    ...buildOpenGraph(locale, {
+      title: messages.nav.composers,
+      description: messages.site.description,
+    }),
+  };
 }
 
 export default async function ComposersPage(

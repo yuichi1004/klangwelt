@@ -18,6 +18,7 @@
     "test:e2e": "playwright test",
     "test:e2e:ui": "playwright test --ui",
     "build:icons": "tsx scripts/build-icons.ts",
+    "build:og-image": "tsx scripts/build-og-image.ts",
     "build:flags": "tsx scripts/build-flags.ts",
     "build:editorial": "tsx scripts/seed/build-editorial.ts"
   },

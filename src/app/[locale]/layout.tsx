@@ -9,6 +9,8 @@ import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { FavoritesProvider } from "@/components/favorites-provider";
 import { getMessages, isLocale, LOCALES, type Locale } from "@/i18n/config";
+import { buildOpenGraph } from "@/lib/og";
+import { SITE_URL } from "@/lib/site";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -46,9 +48,16 @@ export async function generateMetadata(
   if (!isLocale(locale)) return {};
   const messages = getMessages(locale);
 
+  const title = `${messages.site.name} — ${messages.site.tagline}`;
+
   return {
+    // Open Graph images need absolute URLs; this lets every page below pass
+    // a plain relative path and have Next resolve it. Unlike `openGraph`
+    // itself, `metadataBase` *is* inherited by child segments, so it only
+    // needs setting once, here.
+    metadataBase: new URL(SITE_URL),
     title: {
-      default: `${messages.site.name} — ${messages.site.tagline}`,
+      default: title,
       template: `%s | ${messages.site.name}`,
     },
     description: messages.site.description,
@@ -69,6 +78,13 @@ export async function generateMetadata(
       ],
       apple: { url: "/apple-touch-icon.png", sizes: "180x180" },
     },
+    // Every page below repeats this in full rather than relying on
+    // inheritance — see the comment on `buildOpenGraph` in `@/lib/og`.
+    ...buildOpenGraph(locale, { title, description: messages.site.description }),
+    // Not repeated per page: with no `twitter` field of its own, a page
+    // inherits this unchanged, and Twitter/X falls back to the `og:*` tags
+    // above for title/description/image.
+    twitter: { card: "summary_large_image" },
   };
 }
 

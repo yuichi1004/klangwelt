@@ -11,6 +11,32 @@
     <link rel="alternate" hreflang="en" href="/en" />
     <link rel="alternate" hreflang="x-default" href="/ja" />
     <!--
+      Open Graph tags for `/` itself. A share crawler does not run the
+      redirect script below, so it only ever sees this hand-written head —
+      the `[locale]` pages' `generateMetadata()` never applies here. Keep
+      these in sync by hand with `site.name` / `site.tagline` /
+      `site.description` in src/i18n/messages/ja.json, and with
+      DEFAULT_OG_IMAGE / SITE_URL in src/lib/og.ts and src/lib/site.ts.
+    -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Klangwelt" />
+    <meta
+      property="og:title"
+      content="Klangwelt — クラシック音楽を、探して、知って、聴く。"
+    />
+    <meta
+      property="og:description"
+      content="作曲家・年代・定番度から検索できるクラシック音楽ポータル。楽曲ごとに解説とエピソードを添え、Spotify と YouTube Music へのリンクからすぐに聴けます。"
+    />
+    <meta property="og:url" content="https://klangwelt-dun.vercel.app/" />
+    <meta
+      property="og:image"
+      content="https://klangwelt-dun.vercel.app/og-default.png"
+    />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <!--
       Static language splash for `/`.
 
       The whole site is exported statically so there is no middleware and no

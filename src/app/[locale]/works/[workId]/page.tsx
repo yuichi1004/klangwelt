@@ -9,8 +9,10 @@ import { WorkCard } from "@/components/work-card";
 import { getMessages, isLocale, LOCALES, type Locale } from "@/i18n/config";
 import {
   coreWorks,
+  formatLifespan,
   getComposer,
   getCoreWorksByComposer,
+  getPortraitCredit,
   getWork,
 } from "@/lib/catalog";
 import type { Composer, Work } from "@/lib/catalog-types";
@@ -19,6 +21,7 @@ import { EPOCH_LABELS, GENRE_LABELS } from "@/lib/epochs";
 import { createAnnotator, glossary } from "@/lib/glossary";
 import { MEDIA_KIND_LABELS, type MediaAppearance } from "@/lib/media";
 import { mediaId } from "@/lib/media-index";
+import { buildOpenGraph, composerOgImage } from "@/lib/og";
 import { buildStreamingLinks } from "@/lib/streaming";
 
 /**
@@ -43,17 +46,36 @@ export async function generateMetadata(
   if (!work) return {};
   const composer = getComposer(work.composerId);
 
+  const messages = getMessages(locale);
   const title = locale === "ja" ? work.titleJa : work.title;
   const composerName =
     locale === "ja" ? composer?.nameJa : composer?.completeName;
+  const pageTitle = `${title} — ${composerName ?? ""}`.trim();
+
+  const description = composer
+    ? messages.work.ogDescription
+        .replace("{composer}", composerName ?? "")
+        .replace("{lifespan}", formatLifespan(messages, composer))
+        .replace("{genre}", GENRE_LABELS[work.genre][locale])
+        .replace("{stars}", `${work.stars}/5`)
+    : messages.site.description;
+  const credit = composer ? getPortraitCredit(composer.id) : undefined;
 
   return {
-    title: `${title} — ${composerName ?? ""}`.trim(),
+    title: pageTitle,
+    description,
     alternates: {
       languages: Object.fromEntries(
         LOCALES.map((candidate) => [candidate, `/${candidate}/works/${workId}`]),
       ),
     },
+    ...buildOpenGraph(locale, {
+      title: pageTitle,
+      description,
+      image: composer
+        ? composerOgImage(composer, credit, composerName ?? pageTitle)
+        : undefined,
+    }),
   };
 }
 
@@ -206,12 +228,7 @@ function WorkDataPanel({
   const messages = getMessages(locale);
   const { facts } = work;
 
-  const lifespan =
-    composer.deathYear === null
-      ? messages.common.yearsLiving.replace("{birth}", String(composer.birthYear))
-      : messages.common.years
-          .replace("{birth}", String(composer.birthYear))
-          .replace("{death}", String(composer.deathYear));
+  const lifespan = formatLifespan(messages, composer);
 
   const rows: Array<[string, string | undefined]> = [
     [messages.work.composer, `${locale === "ja" ? composer.nameJa : composer.completeName} (${lifespan})`],

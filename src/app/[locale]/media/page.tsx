@@ -6,6 +6,7 @@ import { MediaBrowser } from "@/components/media-browser";
 import { MediaFallback } from "@/components/media-fallback";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { buildMediaCards } from "@/lib/catalog";
+import { buildOpenGraph } from "@/lib/og";
 
 export function generateStaticParams() {
   return LOCALES.map((locale) => ({ locale }));
@@ -16,7 +17,14 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const { locale } = await props.params;
   if (!isLocale(locale)) return {};
-  return { title: getMessages(locale).nav.media };
+  const messages = getMessages(locale);
+  return {
+    title: messages.nav.media,
+    ...buildOpenGraph(locale, {
+      title: messages.nav.media,
+      description: messages.media.description,
+    }),
+  };
 }
 
 export default async function MediaPage(props: PageProps<"/[locale]/media">) {
