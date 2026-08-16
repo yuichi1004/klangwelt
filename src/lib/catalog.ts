@@ -106,6 +106,15 @@ export type SortKey = "standard" | "title" | "composer";
 /**
  * The composer fields the catalogue UI needs. Kept minimal because the list
  * of all 220 is serialised into the catalogue page.
+ *
+ * `portrait` is the one field here that isn't used for filtering — work cards
+ * show the composer's face, and this is where they get the path. It was
+ * weighed rather than waved through: the 213 paths add 6.3KB raw / ~1.2KB
+ * gzipped (every value shares the `/portraits/` prefix). Deriving the path
+ * from `id` instead would cost nothing, but the 7 composers with no freely
+ * licensed portrait would 404 into a broken image unless the UI hard-coded
+ * their ids — data that drifts the next time `seed:portraits` gains or loses
+ * a licence.
  */
 export interface ComposerOption {
   id: string;
@@ -114,6 +123,7 @@ export interface ComposerOption {
   completeName: string;
   epoch: Epoch;
   coreWorkCount: number;
+  portrait?: string;
 }
 
 export function buildComposerOptions(): ComposerOption[] {
@@ -124,6 +134,7 @@ export function buildComposerOptions(): ComposerOption[] {
     completeName: composer.completeName,
     epoch: composer.epoch,
     coreWorkCount: composer.coreWorkCount,
+    portrait: composer.portrait,
   }));
 }
 
@@ -204,6 +215,8 @@ export interface SearchableWork extends WorkIndexRow {
   composerName: string;
   composerNameJa: string;
   epoch: Epoch;
+  /** Path to the composer's portrait, for the card thumbnail. */
+  composerPortrait?: string;
   /** Lower-cased haystack covering both languages. */
   haystack: string;
 }
@@ -229,6 +242,7 @@ export function joinComposers(
       composerName,
       composerNameJa,
       epoch: composer?.epoch ?? "Romantic",
+      composerPortrait: composer?.portrait,
       haystack:
         `${row.title} ${row.titleJa} ${composerName} ${composerNameJa} ${composer?.name ?? ""} ${mediaTitles}`.toLowerCase(),
     };

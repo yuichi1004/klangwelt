@@ -618,6 +618,7 @@ export function CatalogBrowser({
                       composerName={
                         locale === "ja" ? work.composerNameJa : work.composerName
                       }
+                      composerPortrait={work.composerPortrait}
                       genre={work.genre}
                       stars={work.stars}
                       mediaMatch={matchedMediaTitle(work, effectiveFilters.query, locale)}

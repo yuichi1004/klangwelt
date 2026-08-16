@@ -173,6 +173,7 @@ export function Recommendations({
                   composerName={
                     locale === "ja" ? work.composerNameJa : work.composerName
                   }
+                  composerPortrait={work.composerPortrait}
                   genre={work.genre}
                   stars={work.stars}
                 />
@@ -188,6 +189,7 @@ export function Recommendations({
                   composerName={
                     locale === "ja" ? work.composerNameJa : work.composerName
                   }
+                  composerPortrait={work.composerPortrait}
                   genre={work.genre}
                   stars={work.stars}
                   note={reasonNote(reason, locale, composers)}

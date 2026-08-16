@@ -305,7 +305,25 @@ describe("buildComposerOptions", () => {
       "id",
       "name",
       "nameJa",
+      "portrait",
     ]);
+  });
+
+  /**
+   * Work cards render the composer's face, so the path has to survive the
+   * projection — for the 7 composers without one, as `undefined` rather than
+   * a derived path that would 404.
+   */
+  it("carries the portrait path, and omits it where there is none", () => {
+    const byId = new Map(buildComposerOptions().map((o) => [o.id, o]));
+    for (const composer of composers) {
+      expect(byId.get(composer.id)?.portrait, composer.id).toBe(
+        composer.portrait,
+      );
+    }
+    expect(
+      buildComposerOptions().filter((o) => o.portrait === undefined).length,
+    ).toBeGreaterThan(0);
   });
 
   it("reports counts that agree with the index", () => {
