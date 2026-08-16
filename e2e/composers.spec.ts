@@ -185,3 +185,55 @@ test.describe("composer list responsive layout", () => {
     await expect(page.getByRole("heading", { name: "絞り込み" })).toBeHidden();
   });
 });
+
+/**
+ * Issue #111. `?stars=1` in both tests below is deliberate: the grid
+ * defaults to ★3+ (`composer-url.ts`'s `DEFAULT_COMPOSER_FILTERS`), and both
+ * regressions need a composer that default view excludes — Corigliano (the
+ * widest portrait in the collection) is ★1.
+ */
+test.describe("composer grid portrait and meta-row alignment", () => {
+  test("a wide portrait is letterboxed, not cropped", async ({ page }) => {
+    await page.goto("/ja/composers?stars=1&q=コリリアーノ");
+    const card = page.locator('a[href="/ja/composers/144"]');
+    const img = card.locator("img").first();
+    const [imgBox, wellBox] = await Promise.all([
+      img.boundingBox(),
+      img.locator("..").boundingBox(),
+    ]);
+    // The old `max-h-full w-auto` bounded height only, so a wide portrait
+    // rendered past the well's width and was silently clipped by the well's
+    // `overflow-hidden` instead of properly letterboxed — this would render
+    // wider than `wellBox` under that implementation.
+    expect(imgBox!.width).toBeLessThanOrEqual(wellBox!.width + 1);
+    expect(imgBox!.height).toBeLessThanOrEqual(wellBox!.height + 1);
+  });
+
+  test("meta rows align within a grid row regardless of name length", async ({
+    page,
+    isMobile,
+  }) => {
+    test.skip(Boolean(isMobile), "single column, so there is no row to level");
+    // Early Romantic mixes 1-line names (Cherubini, Sor) with 2-line ones
+    // (Beethoven, Hummel) at desktop width — manually confirmed to land in
+    // the same grid row.
+    await page.goto("/ja/composers?stars=1&e=Early Romantic");
+
+    const rows = await page.evaluate(() => {
+      const byTop: Record<number, number[]> = {};
+      for (const meta of document.querySelectorAll(
+        '[data-testid="composer-meta"]',
+      )) {
+        const { top } = meta.getBoundingClientRect();
+        const card = meta.closest("li")!.getBoundingClientRect();
+        (byTop[Math.round(card.top)] ||= []).push(Math.round(top));
+      }
+      return Object.values(byTop);
+    });
+
+    expect(rows.length).toBeGreaterThan(1);
+    for (const tops of rows) {
+      expect(new Set(tops).size, `row tops ${tops}`).toBe(1);
+    }
+  });
+});

@@ -65,13 +65,20 @@ export function ComposerPortrait({
       className={
         showCredit
           ? "h-auto w-full rounded-lg border border-line object-contain"
-          : "max-h-full w-auto object-contain"
+          : "h-full w-full object-contain"
       }
     />
   );
 
   if (!showCredit) {
     return (
+      // `object-contain` on the image already keeps it within this box on
+      // both axes (a wide portrait letterboxes instead of overflowing);
+      // `overflow-hidden` here is only clipping square image corners that
+      // would otherwise poke past `rounded-lg` (issue #111 — this used to
+      // be `max-h-full w-auto`, which bounded height only and let wide
+      // portraits render past the box width, silently cropped by this same
+      // `overflow-hidden` instead of properly letterboxed).
       <div
         className="flex shrink-0 items-center justify-center overflow-hidden rounded-lg border border-line bg-paper"
         style={{ width: size, height: size }}

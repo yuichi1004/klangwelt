@@ -56,11 +56,17 @@ export function ComposerGrid({
                         country={composer.nationality.country}
                       />
                     )}
-                    <span className="min-w-0">
+                    {/* Reserves 2 lines regardless of actual length, so the
+                        meta row below starts at the same height whether a
+                        name wraps or not (issue #111). */}
+                    <span className="min-w-0 line-clamp-2 min-h-11">
                       {locale === "ja" ? composer.nameJa : composer.completeName}
                     </span>
                   </p>
-                  <p className="flex items-center gap-1.5 text-xs text-ink-faint">
+                  <p
+                    data-testid="composer-meta"
+                    className="flex items-center gap-1.5 text-xs text-ink-faint"
+                  >
                     <span>
                       {composer.birthYear}
                       {composer.deathYear === null
