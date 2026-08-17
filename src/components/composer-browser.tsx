@@ -11,6 +11,7 @@ import {
   starChipLabel,
   toggleIn,
 } from "@/components/filter-controls";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, type Locale } from "@/i18n/config";
 import type { ComposerCard } from "@/lib/catalog";
 import {
@@ -281,7 +282,7 @@ export function ComposerBrowser({
   );
 
   return (
-    <div className="mx-auto max-w-6xl gap-8 px-4 py-6 sm:px-6 lg:flex lg:py-10">
+    <PageContainer className="gap-8 py-6 lg:flex lg:py-10">
       <aside className="hidden w-72 shrink-0 lg:block">
         <h2 className="mb-4 text-sm font-semibold text-ink">
           {messages.filters.heading}
@@ -393,6 +394,6 @@ export function ComposerBrowser({
           </div>
         </div>
       )}
-    </div>
+    </PageContainer>
   );
 }

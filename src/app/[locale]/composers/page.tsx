@@ -4,6 +4,7 @@ import { Suspense } from "react";
 
 import { ComposerBrowser } from "@/components/composer-browser";
 import { ComposerFallback } from "@/components/composer-fallback";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { buildComposerCards } from "@/lib/catalog";
 import {
@@ -48,7 +49,7 @@ export default async function ComposersPage(
   );
 
   return (
-    <div className="mx-auto max-w-6xl px-4 pt-8 sm:px-6 sm:pt-12">
+    <PageContainer className="pt-8 sm:pt-12">
       <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
         {messages.nav.composers}
       </h1>
@@ -69,6 +70,6 @@ export default async function ComposersPage(
       >
         <ComposerBrowser locale={locale} cards={cards} />
       </Suspense>
-    </div>
+    </PageContainer>
   );
 }

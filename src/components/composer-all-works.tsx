@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, type Locale } from "@/i18n/config";
 import { fetchAllWorksByComposer } from "@/lib/catalog";
 import type { Work } from "@/lib/catalog-types";
@@ -115,7 +116,7 @@ export function ComposerAllWorks({
                 ))}
               </div>
 
-              <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+              <WorkCardGrid>
                 {filtered.slice(0, visible).map((work) => (
                   <li key={work.id}>
                     <WorkCard
@@ -130,7 +131,7 @@ export function ComposerAllWorks({
                     />
                   </li>
                 ))}
-              </ul>
+              </WorkCardGrid>
 
               {visible < filtered.length && (
                 <button

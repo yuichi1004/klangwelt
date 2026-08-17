@@ -4,8 +4,10 @@ import { notFound } from "next/navigation";
 
 import { FavoriteButton } from "@/components/favorite-button";
 import { GlossaryText } from "@/components/glossary-text";
+import { PageContainer } from "@/components/page-container";
 import { StreamingButtons } from "@/components/streaming-links";
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, isLocale, LOCALES, type Locale } from "@/i18n/config";
 import {
   coreWorks,
@@ -108,7 +110,7 @@ export default async function WorkPage(
     .slice(0, 6);
 
   return (
-    <article className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
+    <PageContainer as="article" className="py-8 sm:py-12">
       <Link
         href={`/${locale}`}
         className="text-sm text-ink-faint hover:text-accent"
@@ -143,7 +145,7 @@ export default async function WorkPage(
 
       <WorkDataPanel locale={locale} work={work} composer={composer} />
 
-      <section className="mt-8">
+      <section className="mt-8 max-w-3xl">
         <h2 className="mb-3 font-serif text-lg font-medium text-ink">
           {messages.work.notesHeading}
         </h2>
@@ -192,7 +194,7 @@ export default async function WorkPage(
           <h2 className="mb-3 font-serif text-lg font-medium text-ink">
             {messages.work.moreByComposer.replace("{name}", composerName)}
           </h2>
-          <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+          <WorkCardGrid>
             {siblings.map((sibling) => (
               <li key={sibling.id}>
                 <WorkCard
@@ -206,10 +208,10 @@ export default async function WorkPage(
                 />
               </li>
             ))}
-          </ul>
+          </WorkCardGrid>
         </section>
       )}
-    </article>
+    </PageContainer>
   );
 }
 
@@ -263,7 +265,7 @@ function WorkDataPanel({
   const visible = rows.filter((row): row is [string, string] => Boolean(row[1]));
 
   return (
-    <section className="mt-8">
+    <section className="mt-8 max-w-3xl">
       <h2 className="mb-3 font-serif text-lg font-medium text-ink">
         {messages.work.dataHeading}
       </h2>
@@ -306,7 +308,7 @@ function MediaSection({
   const messages = getMessages(locale);
 
   return (
-    <section className="mt-8">
+    <section className="mt-8 max-w-3xl">
       <h2 className="mb-3 font-serif text-lg font-medium text-ink">
         {messages.work.mediaHeading}
       </h2>

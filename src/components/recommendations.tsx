@@ -3,7 +3,9 @@
 import { useEffect, useRef, useState } from "react";
 
 import { useFavorites } from "@/components/favorites-provider";
+import { PageContainer } from "@/components/page-container";
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, type Locale } from "@/i18n/config";
 import {
   fetchWorkIndex,
@@ -157,11 +159,8 @@ export function Recommendations({
   }
 
   return (
-    <section
-      className="mx-auto max-w-6xl px-4 pb-8 pt-2 sm:px-6"
-      data-testid="discover"
-    >
-      <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+    <PageContainer as="section" className="pb-8 pt-2" testId="discover">
+      <WorkCardGrid>
         {picks === null
           ? initialWorks.slice(0, BATCH_SIZE).map((work) => (
               <li key={work.id}>
@@ -196,7 +195,7 @@ export function Recommendations({
                 />
               </li>
             ))}
-      </ul>
+      </WorkCardGrid>
       {picks !== null && canLoadMore && (
         <button
           type="button"
@@ -206,6 +205,6 @@ export function Recommendations({
           {messages.filters.showMore}
         </button>
       )}
-    </section>
+    </PageContainer>
   );
 }

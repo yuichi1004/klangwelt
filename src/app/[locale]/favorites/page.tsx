@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 
 import { BackupPanel } from "@/components/backup-panel";
 import { FavoritesList } from "@/components/favorites-list";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { buildComposerOptions } from "@/lib/catalog";
 import { buildOpenGraph } from "@/lib/og";
@@ -36,7 +37,7 @@ export default async function FavoritesPage(
   const messages = getMessages(locale);
 
   return (
-    <div className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
+    <PageContainer className="py-8 sm:py-12">
       <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
         {messages.favorites.heading}
       </h1>
@@ -46,6 +47,6 @@ export default async function FavoritesPage(
 
       <FavoritesList locale={locale} composers={buildComposerOptions()} />
       <BackupPanel locale={locale} />
-    </div>
+    </PageContainer>
   );
 }

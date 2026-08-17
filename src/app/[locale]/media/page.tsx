@@ -4,6 +4,7 @@ import { Suspense } from "react";
 
 import { MediaBrowser } from "@/components/media-browser";
 import { MediaFallback } from "@/components/media-fallback";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { buildMediaCards } from "@/lib/catalog";
 import { buildOpenGraph } from "@/lib/og";
@@ -35,7 +36,7 @@ export default async function MediaPage(props: PageProps<"/[locale]/media">) {
   const cards = buildMediaCards();
 
   return (
-    <div className="mx-auto max-w-6xl px-4 pt-8 sm:px-6 sm:pt-12">
+    <PageContainer className="pt-8 sm:pt-12">
       <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
         {messages.media.heading}
       </h1>
@@ -49,6 +50,6 @@ export default async function MediaPage(props: PageProps<"/[locale]/media">) {
       <Suspense fallback={<MediaFallback locale={locale} cards={cards} />}>
         <MediaBrowser locale={locale} cards={cards} />
       </Suspense>
-    </div>
+    </PageContainer>
   );
 }

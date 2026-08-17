@@ -11,8 +11,10 @@ import {
   starChipLabel,
   toggleIn,
 } from "@/components/filter-controls";
+import { PageContainer } from "@/components/page-container";
 import { Recommendations } from "@/components/recommendations";
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, type Locale } from "@/i18n/config";
 import {
   EMPTY_FILTERS,
@@ -457,7 +459,7 @@ export function CatalogBrowser({
   );
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
+    <PageContainer className="py-6 sm:py-10">
       {/* Single search + filter entry point, shared by mobile and desktop.
           Only this compact row is sticky — the expanded panel below is
           normal flow, so an open panel never grows into a tall sticky block
@@ -607,7 +609,7 @@ export function CatalogBrowser({
             </div>
           ) : (
             <>
-              <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+              <WorkCardGrid>
                 {results.slice(0, visible).map((work) => (
                   <li key={work.id}>
                     <WorkCard
@@ -625,7 +627,7 @@ export function CatalogBrowser({
                     />
                   </li>
                 ))}
-              </ul>
+              </WorkCardGrid>
 
               {visible < results.length && (
                 <button
@@ -640,7 +642,7 @@ export function CatalogBrowser({
           )}
         </div>
       )}
-    </div>
+    </PageContainer>
   );
 }
 
