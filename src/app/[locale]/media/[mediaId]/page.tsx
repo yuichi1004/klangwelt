@@ -96,6 +96,12 @@ export default async function MediaEntryPage(
           <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
             {works.map(({ work, composer, note }) => (
               <li key={work.id}>
+                {/* The catalogue's unit is the whole work, but `note` is
+                    scoped to this production's use of it — passed as
+                    `appearanceNote` (not `WorkCard`'s own `note` prop, whose
+                    contract is a short line above the title) so it renders
+                    inside the card's own box. See `MediaSection` on the work
+                    page for the equivalent card-with-note pattern. */}
                 <WorkCard
                   locale={locale}
                   workId={work.id}
@@ -106,17 +112,8 @@ export default async function MediaEntryPage(
                   }
                   genre={work.genre}
                   stars={work.stars}
+                  appearanceNote={note?.[locale]}
                 />
-                {/* The catalogue's unit is the whole work, but `note` is
-                    scoped to this production's use of it — rendered here
-                    rather than passed as `WorkCard`'s own `note` prop, whose
-                    contract (a short line above the title) doesn't fit a
-                    full sentence. See `MediaSection` on the work page. */}
-                {note && (
-                  <p className="mt-1.5 px-1 text-sm leading-relaxed text-ink-soft">
-                    {note[locale]}
-                  </p>
-                )}
               </li>
             ))}
           </ul>

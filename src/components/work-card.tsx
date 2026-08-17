@@ -47,6 +47,17 @@ export interface WorkCardProps {
    * that count.
    */
   note?: string;
+  /**
+   * A full sentence or two describing how this work is used in a specific
+   * film/anime/TV appearance (`data/media.json`'s `note`). Deliberately a
+   * separate prop from `note` above — that one is a single line meant to sit
+   * above the title, too short a slot for a full sentence. Rendered inside
+   * the card's own bordered box (below the chip row) rather than as a
+   * sibling after `WorkCard`, so it stretches along with `h-full` instead of
+   * overflowing the parent `<li>` when a CSS grid stretches row heights to
+   * match a taller neighbour (see `/media/[mediaId]` page).
+   */
+  appearanceNote?: string;
 }
 
 export function WorkCard({
@@ -62,6 +73,7 @@ export function WorkCard({
   linkToDetail = true,
   mediaMatch,
   note,
+  appearanceNote,
 }: WorkCardProps) {
   const messages = getMessages(locale);
   const body = (
@@ -105,6 +117,11 @@ export function WorkCard({
             </span>
           )}
         </p>
+        {appearanceNote && (
+          <p className="mt-1.5 text-sm leading-relaxed text-ink-soft">
+            {appearanceNote}
+          </p>
+        )}
       </div>
       {/* Absolutely positioned so its 44px touch target costs no layout
           width — as a flex child it took a whole column for a 16px glyph. */}
