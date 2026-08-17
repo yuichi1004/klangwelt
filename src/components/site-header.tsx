@@ -141,14 +141,17 @@ export function SiteHeader({ locale }: { locale: Locale }) {
 
       {/* Scrim behind the dropdown: grounds it against the page and doubles
           as "tap outside to close" (same pattern as composer-browser.tsx's
-          and catalog-browser.tsx's mobile filter sheets). Sits below the
-          header's own z-30 so the dropdown stays crisp on top of it. */}
+          and catalog-browser.tsx's mobile filter sheets). z-[25]: above
+          catalog-browser.tsx's sticky search/filter bar (z-20 — same level
+          would let it paint over the scrim, since it comes later in the
+          DOM) but below the header's own z-30, so the dropdown stays crisp
+          on top of it. */}
       {menuOpen && (
         <button
           type="button"
           aria-label={messages.nav.close}
           onClick={() => setMenuOpen(false)}
-          className="fixed inset-0 z-20 bg-black/40 sm:hidden"
+          className="fixed inset-0 z-[25] bg-black/40 sm:hidden"
         />
       )}
     </>
