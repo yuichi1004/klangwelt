@@ -196,18 +196,51 @@ export interface MediaCard {
   year: number;
   kind: MediaKind;
   workCount: number;
+  /**
+   * The most standard work in this production, as a one-line preview under
+   * the title — `workCount` alone said "1曲" on 90% of cards (issue #115),
+   * a number nobody can act on. Bilingual like `title` rather than resolved
+   * per locale, so `MediaCard` stays locale-independent.
+   */
+  preview: { ja: string; en: string };
+}
+
+const workIndexById = new Map(workIndex.map((row) => [row.id, row]));
+
+/**
+ * The work a card previews: the most standard one credited to the
+ * production, by `compareByStandard` — the same order the catalogue and the
+ * composer pages use. Deliberately *not* `entry.works[0]`: that order is
+ * numeric work id (see `buildMediaIndex`), so "2001: A Space Odyssey" would
+ * advertise whichever of its three works happened to be numbered lowest
+ * rather than its most recognisable one. Every `workId` in the index
+ * resolves against `workIndex` (enforced by `build-catalog.ts`'s orphan
+ * pass), so this only returns `undefined` if `entry.works` is empty, which
+ * `buildMediaIndex` never produces.
+ */
+function previewWork(entry: MediaIndexEntry): WorkIndexRow | undefined {
+  let best: WorkIndexRow | undefined;
+  for (const { workId } of entry.works) {
+    const row = workIndexById.get(workId);
+    if (row && (!best || compareByStandard(row, best) < 0)) best = row;
+  }
+  return best;
 }
 
 /** `mediaIndex` is already sorted newest-first by the build (see
  *  `buildMediaIndex`), so cards inherit that order with no extra work here. */
 export function buildMediaCards(): MediaCard[] {
-  return mediaIndex.map((entry) => ({
-    id: entry.id,
-    title: entry.title,
-    year: entry.year,
-    kind: entry.kind,
-    workCount: entry.works.length,
-  }));
+  return mediaIndex.map((entry) => {
+    const top = previewWork(entry);
+    return {
+      id: entry.id,
+      title: entry.title,
+      year: entry.year,
+      kind: entry.kind,
+      workCount: entry.works.length,
+      preview: { ja: top?.titleJa ?? "", en: top?.title ?? "" },
+    };
+  });
 }
 
 /** Everything the filter needs about a work, joined and precomputed once. */

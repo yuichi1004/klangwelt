@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { MediaKindChip } from "@/components/media-kind-chip";
 import { PageContainer } from "@/components/page-container";
 import { WorkCard } from "@/components/work-card";
 import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { getComposer, getMediaEntry, getWork, mediaIndex } from "@/lib/catalog";
-import { MEDIA_KIND_LABELS } from "@/lib/media";
 import { buildOpenGraph } from "@/lib/og";
 
 /**
@@ -84,9 +84,7 @@ export default async function MediaEntryPage(
         )}
         <p className="mt-3 flex items-center gap-2 text-sm text-ink-soft">
           <span>{entry.year}</span>
-          <span className="rounded-full bg-terra-surface px-2 py-0.5 text-xs text-ink">
-            {MEDIA_KIND_LABELS[entry.kind][locale]}
-          </span>
+          <MediaKindChip locale={locale} kind={entry.kind} />
         </p>
       </header>
 

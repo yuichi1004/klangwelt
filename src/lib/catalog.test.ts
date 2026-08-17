@@ -3,6 +3,7 @@ import { afterEach, describe, expect, it, vi } from "vitest";
 import { getMessages } from "@/i18n/config";
 import {
   buildComposerOptions,
+  buildMediaCards,
   buildSearchIndex,
   catalogMeta,
   composers,
@@ -10,15 +11,18 @@ import {
   filterWorks,
   formatLifespan,
   getComposer,
+  getMediaEntry,
   getWork,
   joinComposers,
   matchedMediaTitle,
+  mediaIndex,
   sortWorks,
   workIndex,
   type CatalogFilters,
   type SearchableWork,
 } from "./catalog";
 import { COUNTRY_LABELS } from "./countries";
+import { compareByStandard } from "./popularity";
 
 const messages = getMessages("ja");
 
@@ -389,5 +393,36 @@ describe("fetchWorkIndex", () => {
     await expect(fetchWorkIndex()).rejects.toThrow();
     await expect(fetchWorkIndex()).resolves.toEqual([]);
     expect(fetchMock).toHaveBeenCalledTimes(2);
+  });
+});
+
+describe("buildMediaCards", () => {
+  const cards = buildMediaCards();
+
+  it("previews a work for every production", () => {
+    expect(cards).toHaveLength(mediaIndex.length);
+    for (const card of cards) {
+      expect(card.preview.ja, card.id).not.toBe("");
+      expect(card.preview.en, card.id).not.toBe("");
+    }
+  });
+
+  it("previews the most standard work, not the lowest work id", () => {
+    // "2001: A Space Odyssey" credits Ligeti, R. Strauss and J. Strauss II;
+    // `entry.works` is ordered by numeric work id (see `buildMediaIndex`),
+    // so this only passes if `compareByStandard` picked the preview.
+    const card = cards.find((c) => c.id === "2001-a-space-odyssey-1968");
+    const entry = getMediaEntry("2001-a-space-odyssey-1968")!;
+    expect(card).toBeDefined();
+    expect(entry).toBeDefined();
+
+    const byId = new Map(workIndex.map((row) => [row.id, row]));
+    const expected = entry.works
+      .map(({ workId }) => byId.get(workId)!)
+      .sort(compareByStandard)[0];
+    const lowestId = byId.get(entry.works[0].workId)!;
+
+    expect(card!.preview.en).toBe(expected.title);
+    expect(card!.preview.en).not.toBe(lowestId.title);
   });
 });
