@@ -3,6 +3,7 @@ import { Suspense } from "react";
 
 import { CatalogBrowser } from "@/components/catalog-browser";
 import { CatalogFallback } from "@/components/catalog-fallback";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import {
   buildComposerOptions,
@@ -38,7 +39,7 @@ export default async function CatalogPage(props: PageProps<"/[locale]">) {
           right below is the page's real first action, so the hero itself
           only needs to say what this site is and get out of the way. */}
       <section className="border-b border-terra/40 bg-terra-surface">
-        <div className="mx-auto max-w-6xl px-4 py-5 sm:px-6 sm:py-6">
+        <PageContainer className="py-5 sm:py-6">
           <h1 className="font-serif text-xl font-medium leading-snug text-ink sm:text-2xl">
             {messages.site.tagline}
           </h1>
@@ -47,7 +48,7 @@ export default async function CatalogPage(props: PageProps<"/[locale]">) {
               ? `作曲家 ${catalogMeta.composerCount}名 / 楽曲 ${catalogMeta.coreWorkCount.toLocaleString()}曲`
               : `${catalogMeta.composerCount} composers · ${catalogMeta.coreWorkCount.toLocaleString()} works`}
           </p>
-        </div>
+        </PageContainer>
       </section>
 
       {/*

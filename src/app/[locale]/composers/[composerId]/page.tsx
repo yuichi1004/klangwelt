@@ -6,8 +6,10 @@ import { ComposerAllWorks } from "@/components/composer-all-works";
 import { ComposerFlag } from "@/components/composer-flag";
 import { ComposerPortrait } from "@/components/composer-portrait";
 import { GlossaryText } from "@/components/glossary-text";
+import { PageContainer } from "@/components/page-container";
 import { StarRating } from "@/components/star-rating";
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import {
   composers,
@@ -90,7 +92,7 @@ export default async function ComposerPage(
   const lifespan = formatLifespan(messages, composer);
 
   return (
-    <article className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
+    <PageContainer as="article" className="py-8 sm:py-12">
       <Link
         href={`/${locale}/composers`}
         className="text-sm text-ink-faint hover:text-accent"
@@ -171,7 +173,7 @@ export default async function ComposerPage(
       </header>
 
       {(editorial?.style || editorial?.keywords) && (
-        <section className="mt-9 rounded-xl border border-accent/40 bg-accent-soft/40 p-5 sm:p-6">
+        <section className="mt-9 max-w-3xl rounded-xl border border-accent/40 bg-accent-soft/40 p-5 sm:p-6">
           <h2 className="mb-3 font-serif text-lg font-medium text-ink">
             {messages.composer.styleHeading}
           </h2>
@@ -218,7 +220,7 @@ export default async function ComposerPage(
       {editorial ? (
         <>
           {editorial.biography && (
-            <section className="mt-9">
+            <section className="mt-9 max-w-3xl">
               <h2 className="mb-3 font-serif text-lg font-medium text-ink">
                 {messages.composer.biographyHeading}
               </h2>
@@ -233,7 +235,7 @@ export default async function ComposerPage(
           )}
 
           {editorial.impact && (
-            <section className="mt-9">
+            <section className="mt-9 max-w-3xl">
               <h2 className="mb-3 font-serif text-lg font-medium text-ink">
                 {messages.composer.impactHeading}
               </h2>
@@ -248,7 +250,7 @@ export default async function ComposerPage(
           )}
 
           {editorial.story && (
-            <section className="mt-9">
+            <section className="mt-9 max-w-3xl">
               <h2 className="mb-3 font-serif text-lg font-medium text-ink">
                 {messages.composer.storyHeading}
               </h2>
@@ -263,7 +265,7 @@ export default async function ComposerPage(
           )}
         </>
       ) : (
-        <section className="mt-9">
+        <section className="mt-9 max-w-3xl">
           <h2 className="mb-3 font-serif text-lg font-medium text-ink">
             {messages.composer.biographyHeading}
           </h2>
@@ -278,7 +280,7 @@ export default async function ComposerPage(
           <h2 className="mb-3 font-serif text-lg font-medium text-ink">
             {messages.composer.coreWorks}
           </h2>
-          <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+          <WorkCardGrid>
             {coreWorks.map((work) => (
               <li key={work.id}>
                 <WorkCard
@@ -294,7 +296,7 @@ export default async function ComposerPage(
                 />
               </li>
             ))}
-          </ul>
+          </WorkCardGrid>
         </section>
       )}
 
@@ -304,6 +306,6 @@ export default async function ComposerPage(
         coreWorkIds={coreWorks.map((work) => work.id)}
         totalCount={composer.workCount}
       />
-    </article>
+    </PageContainer>
   );
 }

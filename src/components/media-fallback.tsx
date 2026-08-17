@@ -1,4 +1,5 @@
 import { MediaGrid } from "@/components/media-grid";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, type Locale } from "@/i18n/config";
 import type { MediaCard } from "@/lib/catalog";
 
@@ -20,11 +21,11 @@ export function MediaFallback({
   const messages = getMessages(locale);
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
+    <PageContainer className="py-6 sm:py-10">
       <p data-testid="result-count" className="mb-4 text-sm text-ink-soft">
         {messages.media.resultCount.replace("{count}", cards.length.toLocaleString())}
       </p>
       <MediaGrid locale={locale} cards={cards} />
-    </div>
+    </PageContainer>
   );
 }

@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
+import { PageContainer } from "@/components/page-container";
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, isLocale, LOCALES } from "@/i18n/config";
 import { getComposer, getMediaEntry, getWork, mediaIndex } from "@/lib/catalog";
 import { MEDIA_KIND_LABELS } from "@/lib/media";
@@ -65,7 +67,7 @@ export default async function MediaEntryPage(
     .filter((item): item is NonNullable<typeof item> => item !== undefined);
 
   return (
-    <article className="mx-auto max-w-3xl px-4 py-8 sm:px-6 sm:py-12">
+    <PageContainer as="article" className="py-8 sm:py-12">
       <Link
         href={`/${locale}/media`}
         className="text-sm text-ink-faint hover:text-accent"
@@ -93,7 +95,7 @@ export default async function MediaEntryPage(
           <h2 className="mb-3 font-serif text-lg font-medium text-ink">
             {messages.media.usedIn}
           </h2>
-          <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+          <WorkCardGrid>
             {works.map(({ work, composer, note }) => (
               <li key={work.id}>
                 {/* The catalogue's unit is the whole work, but `note` is
@@ -116,9 +118,9 @@ export default async function MediaEntryPage(
                 />
               </li>
             ))}
-          </ul>
+          </WorkCardGrid>
         </section>
       )}
-    </article>
+    </PageContainer>
   );
 }

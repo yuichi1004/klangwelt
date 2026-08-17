@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 
 import { useFavorites } from "@/components/favorites-provider";
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, type Locale } from "@/i18n/config";
 import {
   fetchWorkIndex,
@@ -69,7 +70,7 @@ export function FavoritesList({
       <p className="mb-4 text-sm text-ink-soft">
         {messages.favorites.count.replace("{count}", String(saved.length))}
       </p>
-      <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+      <WorkCardGrid>
         {saved.map((work) => (
           <li key={work.id}>
             <WorkCard
@@ -86,7 +87,7 @@ export function FavoritesList({
             />
           </li>
         ))}
-      </ul>
+      </WorkCardGrid>
     </>
   );
 }

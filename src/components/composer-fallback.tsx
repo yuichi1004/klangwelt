@@ -1,4 +1,5 @@
 import { ComposerGrid } from "@/components/composer-grid";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, type Locale } from "@/i18n/config";
 import type { ComposerEpochGroup } from "@/lib/composer-filter";
 
@@ -25,7 +26,7 @@ export function ComposerFallback({
   const resultCount = groups.reduce((sum, group) => sum + group.members.length, 0);
 
   return (
-    <div className="mx-auto max-w-6xl gap-8 px-4 py-6 sm:px-6 lg:flex lg:py-10">
+    <PageContainer className="gap-8 py-6 lg:flex lg:py-10">
       <aside className="hidden w-72 shrink-0 lg:block">
         <h2 className="mb-4 text-sm font-semibold text-ink">
           {messages.filters.heading}
@@ -40,6 +41,6 @@ export function ComposerFallback({
         </p>
         <ComposerGrid locale={locale} groups={groups} />
       </div>
-    </div>
+    </PageContainer>
   );
 }

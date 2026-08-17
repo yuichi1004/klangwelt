@@ -101,7 +101,7 @@ export function BackupPanel({ locale }: { locale: Locale }) {
   }
 
   return (
-    <section className="mt-6">
+    <section className="mt-6 max-w-3xl">
       <button
         type="button"
         onClick={() => setOpen((current) => !current)}

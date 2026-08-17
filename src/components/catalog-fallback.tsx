@@ -1,6 +1,8 @@
 import Link from "next/link";
 
+import { PageContainer } from "@/components/page-container";
 import { WorkCard } from "@/components/work-card";
+import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, type Locale } from "@/i18n/config";
 import { EMPTY_FILTERS, type SearchableWork } from "@/lib/catalog";
 import { writeFilters } from "@/lib/catalog-url";
@@ -27,7 +29,7 @@ export function CatalogFallback({
   const messages = getMessages(locale);
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
+    <PageContainer className="py-6 sm:py-10">
       <div className="-mx-4 bg-paper px-4 py-3 sm:-mx-6 sm:px-6">
         <div className="flex items-center gap-2">
           <div className="flex min-w-0 flex-1 items-center gap-2 rounded-full border border-line bg-paper-raised px-3.5 py-2 text-sm text-ink-faint">
@@ -40,7 +42,7 @@ export function CatalogFallback({
       </div>
 
       <div className="mt-4">
-        <ul className="grid grid-cols-1 gap-3.5 sm:grid-cols-2">
+        <WorkCardGrid>
           {works.slice(0, 12).map((work) => (
             <li key={work.id}>
               <WorkCard
@@ -57,7 +59,7 @@ export function CatalogFallback({
               />
             </li>
           ))}
-        </ul>
+        </WorkCardGrid>
         <div className="mt-6 text-center">
           <Link
             href={`/${locale}${writeFilters(EMPTY_FILTERS, "standard", true)}`}
@@ -70,6 +72,6 @@ export function CatalogFallback({
           </Link>
         </div>
       </div>
-    </div>
+    </PageContainer>
   );
 }

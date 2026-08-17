@@ -5,6 +5,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 
 import { MediaGrid } from "@/components/media-grid";
 import { Chip, FilterGroup, toggleIn } from "@/components/filter-controls";
+import { PageContainer } from "@/components/page-container";
 import { getMessages, type Locale } from "@/i18n/config";
 import type { MediaCard } from "@/lib/catalog";
 import { MEDIA_KINDS, MEDIA_KIND_LABELS } from "@/lib/media";
@@ -95,7 +96,7 @@ export function MediaBrowser({
     filters.kinds.length + (queryText ? 1 : 0);
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-10">
+    <PageContainer className="py-6 sm:py-10">
       <div className="flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
         <FilterGroup id="media-search" label={messages.media.search}>
           <input
@@ -171,6 +172,6 @@ export function MediaBrowser({
           <MediaGrid locale={locale} cards={results} />
         </div>
       )}
-    </div>
+    </PageContainer>
   );
 }
