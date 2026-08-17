@@ -110,6 +110,7 @@ export default async function MediaEntryPage(
                   composerName={
                     locale === "ja" ? composer.nameJa : composer.completeName
                   }
+                  composerPortrait={composer.portrait}
                   genre={work.genre}
                   stars={work.stars}
                   appearanceNote={note?.[locale]}
