@@ -6,9 +6,12 @@
  * opens the installed app.
  *
  * Spotify's design guidelines allow third-party sites to link in, provided
- * the call to action uses approved wording ("Listen on Spotify"), the logo is
- * used unmodified at 70px or larger, and the two services are not presented
- * as a single co-branded lockup. The UI follows all three.
+ * the call to action uses approved wording ("Listen on Spotify") and the two
+ * services are not presented as a single co-branded lockup — the UI
+ * (`streaming-links.tsx`) follows both. It does not reproduce either
+ * service's logo at all (a generic play glyph stands in, tinted with the
+ * brand colour), which was a deliberate choice to stay clear of logo-usage
+ * rules entirely rather than track them — see that file's top comment.
  */
 import type { Work } from "./catalog-types";
 

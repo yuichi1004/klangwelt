@@ -262,7 +262,9 @@ test.describe("favourites", () => {
     await page.goto("/ja/works/16406");
 
     // Scoped to the work's own header: each related-work card has a star too.
-    const header = page.locator("article > header");
+    // Descendant, not direct-child — the header sits inside the article's
+    // max-w-3xl reading-column wrapper (issue #116).
+    const header = page.locator("article header");
     const star = header.getByRole("button", { name: "お気に入りに追加" });
     await expect(star).toBeVisible();
     await star.click();
@@ -282,7 +284,7 @@ test.describe("favourites", () => {
 
     await page.reload();
     await expect(
-      page.locator("article > header").getByRole("button", {
+      page.locator("article header").getByRole("button", {
         name: "お気に入りから削除",
       }),
     ).toBeVisible();
