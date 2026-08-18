@@ -111,106 +111,136 @@ export default async function WorkPage(
 
   return (
     <PageContainer as="article" className="py-8 sm:py-12">
-      <Link
-        href={`/${locale}`}
-        className="text-sm text-ink-faint hover:text-accent"
-      >
-        ← {messages.work.backToCatalog}
-      </Link>
+      {/* One reading column for the whole article. `PageContainer` owns the
+          outer max-w-6xl and the gutters (issue #112); this owns the measure.
+          Sections used to cap themselves and only some of them did, so the
+          data table and the notes ended ~300px short of the header, the
+          listen row and the sibling grid — a ragged right edge that only
+          showed above 1152px (issue #116). No `mx-auto`: left-aligning in
+          the 6xl box is what keeps this edge on the site header's. Same
+          shape as /credits and /terms. */}
+      <div className="max-w-3xl">
+        <Link
+          href={`/${locale}`}
+          className="text-sm text-ink-faint hover:text-accent"
+        >
+          ← {messages.work.backToCatalog}
+        </Link>
 
-      <header className="mt-4 flex items-start gap-3">
-        <div className="min-w-0 flex-1">
+        <header className="mt-4">
           <h1 className="font-serif text-2xl font-medium leading-snug text-ink sm:text-3xl">
             {title}
           </h1>
           {showOriginal && (
             <p className="mt-2 text-sm text-ink-faint">{work.title}</p>
           )}
-          <Link
-            href={`/${locale}/composers/${composer.id}`}
-            className="mt-3 inline-block text-sm text-accent underline underline-offset-2"
-          >
-            {composerName}
-          </Link>
-        </div>
-        <FavoriteButton workId={work.id} locale={locale} />
-      </header>
-
-      <section className="mt-8">
-        <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-          {messages.work.listenHeading}
-        </h2>
-        <StreamingButtons locale={locale} links={links} />
-      </section>
-
-      <WorkDataPanel locale={locale} work={work} composer={composer} />
-
-      <section className="mt-8 max-w-3xl">
-        <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-          {messages.work.notesHeading}
-        </h2>
-        {editorial ? (
-          <div className="space-y-6">
-            {editorial.structure && (
-              <div>
-                <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
-                  {messages.work.structureHeading}
-                </h3>
-                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                  <GlossaryText
-                    locale={locale}
-                    glossary={glossary}
-                    segments={annotate(editorial.structure[locale])}
-                  />
-                </p>
-              </div>
-            )}
-            {editorial.story && (
-              <div>
-                <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
-                  {messages.work.storyHeading}
-                </h3>
-                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                  <GlossaryText
-                    locale={locale}
-                    glossary={glossary}
-                    segments={annotate(editorial.story[locale])}
-                  />
-                </p>
-              </div>
-            )}
+          {/* The heart rides the composer row instead of floating at the
+              header's right edge: in a 720px column an icon alone in the far
+              corner has nothing to bind it to the title it acts on (issue
+              #116). `sm` — it now sits on a 14px text line, and its box is
+              still 44px, the target issue #113 asked for. */}
+          <div className="mt-1 flex flex-wrap items-center gap-x-1 gap-y-1">
+            <Link
+              href={`/${locale}/composers/${composer.id}`}
+              className="text-sm text-accent underline underline-offset-2"
+            >
+              {composerName}
+            </Link>
+            <FavoriteButton workId={work.id} locale={locale} size="sm" />
           </div>
-        ) : (
-          <p className="rounded-lg border border-dashed border-line p-5 text-sm leading-relaxed text-ink-faint">
-            {messages.work.notesMissing}
-          </p>
-        )}
-      </section>
+        </header>
 
-      {work.media && <MediaSection locale={locale} media={work.media} />}
-
-      {siblings.length > 0 && (
-        <section className="mt-12">
+        <section className="mt-8">
           <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-            {messages.work.moreByComposer.replace("{name}", composerName)}
+            {messages.work.listenHeading}
           </h2>
-          <WorkCardGrid>
-            {siblings.map((sibling) => (
-              <li key={sibling.id}>
-                <WorkCard
-                  locale={locale}
-                  workId={sibling.id}
-                  title={locale === "ja" ? sibling.titleJa : sibling.title}
-                  composerName={composerName}
-                  composerPortrait={composer.portrait}
-                  genre={sibling.genre}
-                  stars={sibling.stars}
-                />
-              </li>
-            ))}
-          </WorkCardGrid>
+          <StreamingButtons locale={locale} links={links} />
         </section>
-      )}
+
+        <WorkDataPanel locale={locale} work={work} composer={composer} />
+
+        <section className="mt-8">
+          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+            {messages.work.notesHeading}
+          </h2>
+          {editorial ? (
+            <div className="space-y-6">
+              {editorial.structure && (
+                <div>
+                  <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
+                    {messages.work.structureHeading}
+                  </h3>
+                  <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                    <GlossaryText
+                      locale={locale}
+                      glossary={glossary}
+                      segments={annotate(editorial.structure[locale])}
+                    />
+                  </p>
+                </div>
+              )}
+              {editorial.story && (
+                <div>
+                  <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wide text-ink-faint">
+                    {messages.work.storyHeading}
+                  </h3>
+                  <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                    <GlossaryText
+                      locale={locale}
+                      glossary={glossary}
+                      segments={annotate(editorial.story[locale])}
+                    />
+                  </p>
+                </div>
+              )}
+            </div>
+          ) : (
+            // The exit lives inside the box, not below it: an empty state and
+            // its way out are one thing (issue #116). The prose already
+            // named the composer's profile but nothing was clickable, and a
+            // work with no notes is the shortest page on the site — the
+            // profile carries both the biography and the full works list, so
+            // it is a superset of the 「◯◯の他の楽曲」 grid at the foot of
+            // this page.
+            <div className="rounded-lg border border-dashed border-line p-5">
+              <p className="text-sm leading-relaxed text-ink-faint">
+                {messages.work.notesMissing}
+              </p>
+              <Link
+                href={`/${locale}/composers/${composer.id}`}
+                className="mt-3 inline-block text-sm text-accent underline underline-offset-2"
+              >
+                {messages.work.notesMissingCta.replace("{name}", composerName)} →
+              </Link>
+            </div>
+          )}
+        </section>
+
+        {work.media && <MediaSection locale={locale} media={work.media} />}
+
+        {siblings.length > 0 && (
+          <section className="mt-12">
+            <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+              {messages.work.moreByComposer.replace("{name}", composerName)}
+            </h2>
+            <WorkCardGrid>
+              {siblings.map((sibling) => (
+                <li key={sibling.id}>
+                  <WorkCard
+                    locale={locale}
+                    workId={sibling.id}
+                    title={locale === "ja" ? sibling.titleJa : sibling.title}
+                    composerName={composerName}
+                    composerPortrait={composer.portrait}
+                    genre={sibling.genre}
+                    stars={sibling.stars}
+                  />
+                </li>
+              ))}
+            </WorkCardGrid>
+          </section>
+        )}
+      </div>
     </PageContainer>
   );
 }
@@ -265,7 +295,7 @@ function WorkDataPanel({
   const visible = rows.filter((row): row is [string, string] => Boolean(row[1]));
 
   return (
-    <section className="mt-8 max-w-3xl">
+    <section className="mt-8">
       <h2 className="mb-3 font-serif text-lg font-medium text-ink">
         {messages.work.dataHeading}
       </h2>
@@ -308,7 +338,7 @@ function MediaSection({
   const messages = getMessages(locale);
 
   return (
-    <section className="mt-8 max-w-3xl">
+    <section className="mt-8">
       <h2 className="mb-3 font-serif text-lg font-medium text-ink">
         {messages.work.mediaHeading}
       </h2>

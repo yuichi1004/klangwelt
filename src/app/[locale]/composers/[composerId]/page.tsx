@@ -93,219 +93,228 @@ export default async function ComposerPage(
 
   return (
     <PageContainer as="article" className="py-8 sm:py-12">
-      <Link
-        href={`/${locale}/composers`}
-        className="text-sm text-ink-faint hover:text-accent"
-      >
-        ← {messages.composer.browseAll}
-      </Link>
+      {/* One reading column for the whole article — same fix and same
+          reasoning as the work detail page (issue #116): sections used to
+          cap themselves with their own `max-w-3xl` and only some of them
+          did, so the biography/style boxes ended ~300px short of the header
+          and the 代表曲 grid once `PageContainer` became max-w-6xl (issue
+          #112). No `mx-auto`: left-aligning in the 6xl box keeps this edge
+          on the site header's. Same shape as /credits and /terms. */}
+      <div className="max-w-3xl">
+        <Link
+          href={`/${locale}/composers`}
+          className="text-sm text-ink-faint hover:text-accent"
+        >
+          ← {messages.composer.browseAll}
+        </Link>
 
-      <header className="mt-4 flex flex-col gap-5 sm:flex-row sm:items-start">
-        <ComposerPortrait locale={locale} composer={composer} credit={credit} />
+        <header className="mt-4 flex flex-col gap-5 sm:flex-row sm:items-start">
+          <ComposerPortrait locale={locale} composer={composer} credit={credit} />
 
-        <div className="min-w-0 flex-1">
-          <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
-            {name}
-          </h1>
-          {locale === "ja" && composer.nameJa !== composer.completeName && (
-            <p className="mt-1.5 text-sm text-ink-faint">
-              {composer.completeName}
-            </p>
-          )}
-          <dl className="mt-4 space-y-1.5 text-sm">
-            {composer.nationality && (
+          <div className="min-w-0 flex-1">
+            <h1 className="font-serif text-2xl font-medium text-ink sm:text-3xl">
+              {name}
+            </h1>
+            {locale === "ja" && composer.nameJa !== composer.completeName && (
+              <p className="mt-1.5 text-sm text-ink-faint">
+                {composer.completeName}
+              </p>
+            )}
+            <dl className="mt-4 space-y-1.5 text-sm">
+              {composer.nationality && (
+                <div className="flex gap-3">
+                  <dt className="w-20 shrink-0 text-ink-faint">
+                    {messages.composer.nationality}
+                  </dt>
+                  <dd className="text-ink-soft">
+                    <span className="inline-flex items-center gap-1.5">
+                      <ComposerFlag
+                        locale={locale}
+                        country={composer.nationality.country}
+                        size={14}
+                      />
+                      {COUNTRY_LABELS[composer.nationality.country][locale]}
+                    </span>
+                    {composer.nationality.note && (
+                      <p className="mt-1 text-xs text-ink-faint">
+                        {composer.nationality.note[locale]}
+                      </p>
+                    )}
+                  </dd>
+                </div>
+              )}
               <div className="flex gap-3">
                 <dt className="w-20 shrink-0 text-ink-faint">
-                  {messages.composer.nationality}
+                  {messages.composer.born}
+                </dt>
+                <dd className="text-ink-soft">{lifespan}</dd>
+              </div>
+              <div className="flex gap-3">
+                <dt className="w-20 shrink-0 text-ink-faint">
+                  {messages.composer.epoch}
                 </dt>
                 <dd className="text-ink-soft">
-                  <span className="inline-flex items-center gap-1.5">
-                    <ComposerFlag
-                      locale={locale}
-                      country={composer.nationality.country}
-                      size={14}
-                    />
-                    {COUNTRY_LABELS[composer.nationality.country][locale]}
+                  {EPOCH_LABELS[composer.epoch][locale]}
+                  <span className="ml-2 text-xs text-ink-faint">
+                    {EPOCH_YEARS[composer.epoch]}
                   </span>
-                  {composer.nationality.note && (
-                    <p className="mt-1 text-xs text-ink-faint">
-                      {composer.nationality.note[locale]}
-                    </p>
-                  )}
                 </dd>
               </div>
-            )}
-            <div className="flex gap-3">
-              <dt className="w-20 shrink-0 text-ink-faint">
-                {messages.composer.born}
-              </dt>
-              <dd className="text-ink-soft">{lifespan}</dd>
-            </div>
-            <div className="flex gap-3">
-              <dt className="w-20 shrink-0 text-ink-faint">
-                {messages.composer.epoch}
-              </dt>
-              <dd className="text-ink-soft">
-                {EPOCH_LABELS[composer.epoch][locale]}
-                <span className="ml-2 text-xs text-ink-faint">
-                  {EPOCH_YEARS[composer.epoch]}
-                </span>
-              </dd>
-            </div>
-            <div className="flex gap-3">
-              <dt className="w-20 shrink-0 text-ink-faint">
-                {messages.composer.workCount}
-              </dt>
-              <dd className="text-ink-soft">
-                {composer.workCount.toLocaleString()}
-              </dd>
-            </div>
-            <div className="flex gap-3">
-              <dt className="w-20 shrink-0 text-ink-faint">
-                {messages.rating.label}
-              </dt>
-              <dd className="text-ink-soft">
-                <StarRating locale={locale} stars={composer.stars} variant="full" />
-              </dd>
-            </div>
-          </dl>
-        </div>
-      </header>
+              <div className="flex gap-3">
+                <dt className="w-20 shrink-0 text-ink-faint">
+                  {messages.composer.workCount}
+                </dt>
+                <dd className="text-ink-soft">
+                  {composer.workCount.toLocaleString()}
+                </dd>
+              </div>
+              <div className="flex gap-3">
+                <dt className="w-20 shrink-0 text-ink-faint">
+                  {messages.rating.label}
+                </dt>
+                <dd className="text-ink-soft">
+                  <StarRating locale={locale} stars={composer.stars} variant="full" />
+                </dd>
+              </div>
+            </dl>
+          </div>
+        </header>
 
-      {(editorial?.style || editorial?.keywords) && (
-        <section className="mt-9 max-w-3xl rounded-xl border border-accent/40 bg-accent-soft/40 p-5 sm:p-6">
-          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-            {messages.composer.styleHeading}
-          </h2>
-          {editorial.keywords && (
-            <ul className="mb-3 flex flex-wrap gap-1.5">
-              {editorial.keywords[locale].map((word) => (
-                <li
-                  key={word}
-                  className="rounded-full bg-accent-fill px-2.5 py-1 text-xs font-medium text-accent-ink"
-                >
-                  {word}
+        {(editorial?.style || editorial?.keywords) && (
+          <section className="mt-9 rounded-xl border border-accent/40 bg-accent-soft/40 p-5 sm:p-6">
+            <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+              {messages.composer.styleHeading}
+            </h2>
+            {editorial.keywords && (
+              <ul className="mb-3 flex flex-wrap gap-1.5">
+                {editorial.keywords[locale].map((word) => (
+                  <li
+                    key={word}
+                    className="rounded-full bg-accent-fill px-2.5 py-1 text-xs font-medium text-accent-ink"
+                  >
+                    {word}
+                  </li>
+                ))}
+              </ul>
+            )}
+            {editorial.style && (
+              <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                <GlossaryText
+                  locale={locale}
+                  glossary={glossary}
+                  segments={annotate(editorial.style[locale])}
+                />
+              </p>
+            )}
+            {startHereWorks.length > 0 && (
+              <div className="mt-4 flex flex-wrap items-center gap-2">
+                <span className="text-xs font-medium uppercase tracking-wide text-ink-faint">
+                  {messages.composer.startHere}
+                </span>
+                {startHereWorks.map((work) => (
+                  <Link
+                    key={work.id}
+                    href={`/${locale}/works/${work.id}`}
+                    className="rounded-full border border-accent/50 bg-paper px-3 py-1 text-sm text-accent hover:bg-accent-soft"
+                  >
+                    {locale === "ja" ? work.titleJa : work.title}
+                  </Link>
+                ))}
+              </div>
+            )}
+          </section>
+        )}
+
+        {editorial ? (
+          <>
+            {editorial.biography && (
+              <section className="mt-9">
+                <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+                  {messages.composer.biographyHeading}
+                </h2>
+                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                  <GlossaryText
+                    locale={locale}
+                    glossary={glossary}
+                    segments={annotate(editorial.biography[locale])}
+                  />
+                </p>
+              </section>
+            )}
+
+            {editorial.impact && (
+              <section className="mt-9">
+                <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+                  {messages.composer.impactHeading}
+                </h2>
+                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                  <GlossaryText
+                    locale={locale}
+                    glossary={glossary}
+                    segments={annotate(editorial.impact[locale])}
+                  />
+                </p>
+              </section>
+            )}
+
+            {editorial.story && (
+              <section className="mt-9">
+                <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+                  {messages.composer.storyHeading}
+                </h2>
+                <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
+                  <GlossaryText
+                    locale={locale}
+                    glossary={glossary}
+                    segments={annotate(editorial.story[locale])}
+                  />
+                </p>
+              </section>
+            )}
+          </>
+        ) : (
+          <section className="mt-9">
+            <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+              {messages.composer.biographyHeading}
+            </h2>
+            <p className="rounded-lg border border-dashed border-line p-5 text-sm text-ink-faint">
+              {messages.composer.biographyMissing}
+            </p>
+          </section>
+        )}
+
+        {coreWorks.length > 0 && (
+          <section className="mt-12">
+            <h2 className="mb-3 font-serif text-lg font-medium text-ink">
+              {messages.composer.coreWorks}
+            </h2>
+            <WorkCardGrid>
+              {coreWorks.map((work) => (
+                <li key={work.id}>
+                  <WorkCard
+                    locale={locale}
+                    workId={work.id}
+                    title={locale === "ja" ? work.titleJa : work.title}
+                    secondaryTitle={locale === "ja" ? work.title : undefined}
+                    composerName=""
+                    composerPortrait={composer.portrait}
+                    composerInitial={name}
+                    genre={work.genre}
+                    stars={work.stars}
+                  />
                 </li>
               ))}
-            </ul>
-          )}
-          {editorial.style && (
-            <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-              <GlossaryText
-                locale={locale}
-                glossary={glossary}
-                segments={annotate(editorial.style[locale])}
-              />
-            </p>
-          )}
-          {startHereWorks.length > 0 && (
-            <div className="mt-4 flex flex-wrap items-center gap-2">
-              <span className="text-xs font-medium uppercase tracking-wide text-ink-faint">
-                {messages.composer.startHere}
-              </span>
-              {startHereWorks.map((work) => (
-                <Link
-                  key={work.id}
-                  href={`/${locale}/works/${work.id}`}
-                  className="rounded-full border border-accent/50 bg-paper px-3 py-1 text-sm text-accent hover:bg-accent-soft"
-                >
-                  {locale === "ja" ? work.titleJa : work.title}
-                </Link>
-              ))}
-            </div>
-          )}
-        </section>
-      )}
+            </WorkCardGrid>
+          </section>
+        )}
 
-      {editorial ? (
-        <>
-          {editorial.biography && (
-            <section className="mt-9 max-w-3xl">
-              <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-                {messages.composer.biographyHeading}
-              </h2>
-              <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                <GlossaryText
-                  locale={locale}
-                  glossary={glossary}
-                  segments={annotate(editorial.biography[locale])}
-                />
-              </p>
-            </section>
-          )}
-
-          {editorial.impact && (
-            <section className="mt-9 max-w-3xl">
-              <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-                {messages.composer.impactHeading}
-              </h2>
-              <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                <GlossaryText
-                  locale={locale}
-                  glossary={glossary}
-                  segments={annotate(editorial.impact[locale])}
-                />
-              </p>
-            </section>
-          )}
-
-          {editorial.story && (
-            <section className="mt-9 max-w-3xl">
-              <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-                {messages.composer.storyHeading}
-              </h2>
-              <p className="whitespace-pre-line text-[0.9375rem] leading-loose text-ink-soft">
-                <GlossaryText
-                  locale={locale}
-                  glossary={glossary}
-                  segments={annotate(editorial.story[locale])}
-                />
-              </p>
-            </section>
-          )}
-        </>
-      ) : (
-        <section className="mt-9 max-w-3xl">
-          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-            {messages.composer.biographyHeading}
-          </h2>
-          <p className="rounded-lg border border-dashed border-line p-5 text-sm text-ink-faint">
-            {messages.composer.biographyMissing}
-          </p>
-        </section>
-      )}
-
-      {coreWorks.length > 0 && (
-        <section className="mt-12">
-          <h2 className="mb-3 font-serif text-lg font-medium text-ink">
-            {messages.composer.coreWorks}
-          </h2>
-          <WorkCardGrid>
-            {coreWorks.map((work) => (
-              <li key={work.id}>
-                <WorkCard
-                  locale={locale}
-                  workId={work.id}
-                  title={locale === "ja" ? work.titleJa : work.title}
-                  secondaryTitle={locale === "ja" ? work.title : undefined}
-                  composerName=""
-                  composerPortrait={composer.portrait}
-                  composerInitial={name}
-                  genre={work.genre}
-                  stars={work.stars}
-                />
-              </li>
-            ))}
-          </WorkCardGrid>
-        </section>
-      )}
-
-      <ComposerAllWorks
-        locale={locale}
-        composerId={composer.id}
-        coreWorkIds={coreWorks.map((work) => work.id)}
-        totalCount={composer.workCount}
-      />
+        <ComposerAllWorks
+          locale={locale}
+          composerId={composer.id}
+          coreWorkIds={coreWorks.map((work) => work.id)}
+          totalCount={composer.workCount}
+        />
+      </div>
     </PageContainer>
   );
 }

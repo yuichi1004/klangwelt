@@ -3,8 +3,24 @@ import type { StreamingLinks } from "@/lib/streaming";
 
 /**
  * Independent buttons, one per service — deliberately not a single combined
- * lockup, which Spotify's brand guidelines ask third parties to avoid. The
- * Spotify wording follows their approved call-to-action list.
+ * lockup, so the two links never read as an official co-branded partnership.
+ * The Spotify wording follows their approved call-to-action list.
+ *
+ * Neither button carries Spotify's or YouTube's actual logo. A generic play
+ * glyph stands in instead, tinted with the service's brand colour on the
+ * border and the icon. This isn't a compliance workaround for one rule —
+ * it sidesteps the entire surface of logo-usage guidelines (minimum size,
+ * clear space, which backgrounds a given colour variant may sit on, "do not
+ * recreate the mark") because there is no mark being reproduced, and it
+ * lowers the risk of a visitor reading either link as an official
+ * partnership rather than a "search this elsewhere" shortcut. Color alone
+ * is not how the two are told apart: each button also carries its own text
+ * label, so a colour-blind reader loses nothing.
+ *
+ * `bg-paper-raised` and `text-ink` match every other card on this page
+ * (`WorkDataPanel`, `MediaSection`, `WorkCard`), so the buttons read as
+ * belonging to the site rather than floating above it — same move as
+ * `MediaKindChip`'s `border-terra/60 bg-terra-surface text-ink`.
  */
 export function StreamingButtons({
   locale,
@@ -22,9 +38,9 @@ export function StreamingButtons({
           href={links.spotify}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-1 items-center justify-center gap-2.5 rounded-full bg-[#1DB954] px-6 py-3.5 text-sm font-semibold text-black transition-opacity hover:opacity-90"
+          className="flex flex-1 items-center justify-center gap-2.5 rounded-full border border-[#1DB954]/70 bg-paper-raised px-6 py-3.5 text-sm font-medium text-ink transition-colors hover:border-[#1DB954] hover:bg-[#1DB954]/10"
         >
-          <SpotifyMark />
+          <PlayIcon className="shrink-0 text-[#1DB954]" />
           {messages.work.spotify}
         </a>
 
@@ -32,9 +48,9 @@ export function StreamingButtons({
           href={links.youtubeMusic}
           target="_blank"
           rel="noopener noreferrer"
-          className="flex flex-1 items-center justify-center gap-2.5 rounded-full bg-[#FF0033] px-6 py-3.5 text-sm font-semibold text-white transition-opacity hover:opacity-90"
+          className="flex flex-1 items-center justify-center gap-2.5 rounded-full border border-[#FF0033]/70 bg-paper-raised px-6 py-3.5 text-sm font-medium text-ink transition-colors hover:border-[#FF0033] hover:bg-[#FF0033]/10"
         >
-          <YouTubeMusicMark />
+          <PlayIcon className="shrink-0 text-[#FF0033]" />
           {messages.work.youtubeMusic}
         </a>
       </div>
@@ -46,31 +62,28 @@ export function StreamingButtons({
   );
 }
 
-/** Unmodified Spotify icon mark, rendered at 24px inside a 70px+ button. */
-function SpotifyMark() {
+/**
+ * A generic play-button glyph, not either service's logo — see this file's
+ * top comment for why. Same outline weight as `SearchIcon`
+ * (`catalog-browser.tsx`) for a consistent icon vocabulary across the site;
+ * the triangle is solid so the glyph still reads at 22px.
+ */
+function PlayIcon({ className }: { className?: string }) {
   return (
     <svg
       width="22"
       height="22"
       viewBox="0 0 24 24"
-      fill="currentColor"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={1.8}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={className}
       aria-hidden="true"
     >
-      <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.52 17.34c-.24.36-.66.48-1.02.24-2.82-1.74-6.36-2.1-10.56-1.14-.42.12-.78-.18-.9-.54-.12-.42.18-.78.54-.9 4.56-1.02 8.52-.6 11.64 1.32.42.18.48.66.3 1.02zm1.44-3.3c-.3.42-.84.6-1.26.3-3.24-1.98-8.16-2.58-11.94-1.38-.48.12-1.02-.12-1.14-.6-.12-.48.12-1.02.6-1.14 4.38-1.32 9.78-.66 13.5 1.62.36.18.54.78.24 1.2zm.12-3.36C15.24 8.34 8.82 8.1 5.1 9.24c-.6.18-1.2-.18-1.38-.72-.18-.6.18-1.2.72-1.38 4.32-1.32 11.34-1.02 15.78 1.62.54.3.72 1.02.42 1.56-.3.42-1.02.6-1.56.36z" />
-    </svg>
-  );
-}
-
-function YouTubeMusicMark() {
-  return (
-    <svg
-      width="22"
-      height="22"
-      viewBox="0 0 24 24"
-      fill="currentColor"
-      aria-hidden="true"
-    >
-      <path d="M12 0C5.376 0 0 5.376 0 12s5.376 12 12 12 12-5.376 12-12S18.624 0 12 0zm0 19.104c-3.924 0-7.104-3.18-7.104-7.104S8.076 4.896 12 4.896s7.104 3.18 7.104 7.104-3.18 7.104-7.104 7.104zM9.6 8.4l6 3.6-6 3.6V8.4z" />
+      <circle cx="12" cy="12" r="10" />
+      <path d="M10 8.3v7.4l6.5-3.7-6.5-3.7z" fill="currentColor" stroke="none" />
     </svg>
   );
 }
