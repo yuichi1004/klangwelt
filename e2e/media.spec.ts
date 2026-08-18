@@ -1,6 +1,7 @@
 import { expect, test } from "@playwright/test";
 
 import mediaData from "../data/media.json";
+import { MEDIA_PAGE_SIZE } from "../src/lib/media-filter";
 
 /**
  * Covers the parts of the film/anime/TV appearances feature that only exist
@@ -97,6 +98,11 @@ test.describe("browsing by film, anime and TV", () => {
     page.getByTestId("result-count");
   const mediaSearchBox = (page: import("@playwright/test").Page) =>
     page.getByRole("searchbox", { name: "作品名で検索" });
+  // Scoped to the grid so the header's own link to `/ja/media` (no trailing
+  // slash, so it wouldn't match anyway, but this stays correct if that ever
+  // changes) can never be counted as a card.
+  const mediaCards = (page: import("@playwright/test").Page) =>
+    page.locator('ul a[href^="/ja/media/"]');
 
   test("the list shows every production and narrows by kind", async ({ page }) => {
     await page.goto("/ja/media");
@@ -107,6 +113,42 @@ test.describe("browsing by film, anime and TV", () => {
     await expect(page).toHaveURL(/[?&]k=anime/);
     await expect(resultCount(page)).toHaveText(/^\d+作品 \/ 全\d+作品$/);
     expect(await resultCount(page).textContent()).not.toBe(before);
+  });
+
+  test("the list paginates and 'show more' extends it", async ({ page }) => {
+    await page.goto("/ja/media");
+    await expect(mediaCards(page)).toHaveCount(MEDIA_PAGE_SIZE);
+    // The result count is the total match count, not the visible count.
+    await expect(resultCount(page)).toHaveText(/^\d+作品$/);
+
+    await page.getByRole("button", { name: "さらに表示" }).click();
+    await expect(mediaCards(page)).toHaveCount(MEDIA_PAGE_SIZE * 2);
+  });
+
+  test("narrowing the search returns to the first page", async ({ page }) => {
+    // The regression the render-phase `visible` reset in `MediaBrowser`
+    // exists to prevent: page in a few times, then type a narrowing query,
+    // then clear it — the list must land back on page one, not stay wherever
+    // `visible` happened to be.
+    await page.goto("/ja/media");
+    await page.getByRole("button", { name: "さらに表示" }).click();
+    await page.getByRole("button", { name: "さらに表示" }).click();
+    await expect(mediaCards(page)).toHaveCount(MEDIA_PAGE_SIZE * 3);
+
+    await mediaSearchBox(page).fill("時計じかけのオレンジ");
+    await expect(mediaCards(page)).toHaveCount(1);
+
+    await mediaSearchBox(page).fill("");
+    await expect(mediaCards(page)).toHaveCount(MEDIA_PAGE_SIZE);
+    await expect(page.getByRole("button", { name: "さらに表示" })).toBeVisible();
+  });
+
+  test("a card previews the work rather than counting it", async ({ page }) => {
+    await page.goto("/ja/media");
+    await mediaSearchBox(page).fill("2001年宇宙の旅");
+    const card = page.locator('a[href="/ja/media/2001-a-space-odyssey-1968"]');
+    await expect(card).toContainText("ほか2曲");
+    await expect(card).not.toContainText("3曲");
   });
 
   test("searching finds a production by Japanese title", async ({ page }) => {

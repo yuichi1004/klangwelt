@@ -64,7 +64,7 @@
     "kindFilter": "Filter by kind",
     "resultCount": "{count} titles",
     "resultCountFiltered": "{count} of {total} titles",
-    "workCount": "{count} works",
+    "previewMore": "{title} +{count} more",
     "usedIn": "Works used in this production",
     "browseAll": "All film & TV",
     "empty": "No productions match this search."
