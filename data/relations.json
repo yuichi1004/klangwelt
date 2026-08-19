@@ -1,0 +1,140 @@
+{
+  "_comment": "作曲家どうしの関係。CONTRIBUTING.md を参照。全員分の登録は不要 — エントリの無い作曲家はプロフィールページに「関連する作曲家」セクションが出ない。`names` は id 打ち間違い検出用の照合値（Open Opus 短名 = Composer.name）で、それ自体はデータではない。`composers[0]` は常に矢印の起点（与える側）: `teacher` なら教えた側、`influence` なら影響を与えた側。`friend`/`rival`/`family`/`collaborator` は対称なので順序に意味は無い。1つのペアにつき登録できる関係は1件のみ（逆順の重複、type違いの重複も不可）。",
+  "relations": [
+    {
+      "composers": ["208", "145"],
+      "names": ["Haydn", "Beethoven"],
+      "type": "teacher",
+      "note": {
+        "ja": "1792年にウィーンへ出たベートーヴェンは、ハイドンに約1年間対位法を学んだ。",
+        "en": "Beethoven studied counterpoint with Haydn for about a year after arriving in Vienna in 1792."
+      }
+    },
+    {
+      "composers": ["143", "183"],
+      "names": ["Salieri", "Schubert"],
+      "type": "teacher",
+      "note": {
+        "ja": "シューベルトは1812年頃からウィーンでサリエリに作曲を学んだ。",
+        "en": "Schubert studied composition with Salieri in Vienna from around 1812."
+      }
+    },
+    {
+      "composers": ["118", "190"],
+      "names": ["Rimsky-Korsakov", "Stravinsky"],
+      "type": "teacher",
+      "note": {
+        "ja": "ストラヴィンスキーは1902年から数年間、リムスキー=コルサコフに個人的に師事した。",
+        "en": "Stravinsky received private instruction from Rimsky-Korsakov for several years beginning in 1902."
+      }
+    },
+    {
+      "composers": ["62", "210"],
+      "names": ["Schoenberg", "Berg"],
+      "type": "teacher",
+      "note": {
+        "ja": "ベルクは1904年からシェーンベルクに作曲を師事し、新ウィーン楽派の中心人物となった。",
+        "en": "Berg studied composition with Schoenberg from 1904, becoming a central figure of the Second Viennese School."
+      }
+    },
+    {
+      "composers": ["87", "147"],
+      "names": ["Bach", "Mendelssohn"],
+      "type": "influence",
+      "note": {
+        "ja": "メンデルスゾーンは1829年に《マタイ受難曲》を蘇演し、バッハ再評価の契機を作った。",
+        "en": "Mendelssohn's 1829 revival performance of the St Matthew Passion sparked a wider reassessment of Bach's music."
+      }
+    },
+    {
+      "composers": ["80", "189"],
+      "names": ["Brahms", "Dvořák"],
+      "type": "influence",
+      "note": {
+        "ja": "ブラームスは審査員としてドヴォルザークを見出し、出版社に推薦して国際的な名声への道を開いた。",
+        "en": "As a competition judge, Brahms recognised Dvořák's talent and recommended him to his publisher, helping launch his international career."
+      }
+    },
+    {
+      "composers": ["129", "80"],
+      "names": ["Schumann", "Brahms"],
+      "type": "friend",
+      "note": {
+        "ja": "1853年に出会い、シューマンは若きブラームスの才能を「新しい道」という評論で世に紹介した。",
+        "en": "They met in 1853; Schumann introduced the young Brahms to the public in his essay \"Neue Bahnen\" (\"New Paths\")."
+      }
+    },
+    {
+      "composers": ["147", "129"],
+      "names": ["Mendelssohn", "Schumann"],
+      "type": "friend",
+      "note": {
+        "ja": "ライプツィヒで親交を結び、互いの作品を紹介し合う関係が続いた。",
+        "en": "The two became close in Leipzig and regularly championed each other's music."
+      }
+    },
+    {
+      "composers": ["152", "197"],
+      "names": ["Chopin", "Liszt"],
+      "type": "friend",
+      "note": {
+        "ja": "1830年代のパリで親交を結び、互いの演奏会や作品を支え合った。",
+        "en": "They became friends in 1830s Paris, each supporting the other's concerts and compositions."
+      }
+    },
+    {
+      "composers": ["36", "75"],
+      "names": ["Vaughan Williams", "Holst"],
+      "type": "friend",
+      "note": {
+        "ja": "学生時代からの友人で、互いの作品を批評し合う関係を長年続けた。",
+        "en": "Friends since their student days, they spent decades critiquing each other's works-in-progress."
+      }
+    },
+    {
+      "composers": ["80", "138"],
+      "names": ["Brahms", "Wagner"],
+      "type": "rival",
+      "note": {
+        "ja": "本人同士の対立というより、絶対音楽派と新ドイツ楽派という支持者間の美学論争の象徴とされた。",
+        "en": "Their rivalry was less personal than symbolic, standing for a wider aesthetic dispute between their respective supporters over absolute versus programme music."
+      }
+    },
+    {
+      "composers": ["105", "57"],
+      "names": ["Debussy", "Ravel"],
+      "type": "rival",
+      "note": {
+        "ja": "当初は互いを認め合ったが、1900年代半ばに作風の優先権をめぐる報道が両者の関係を冷やした。",
+        "en": "Initially mutually admiring, their relationship cooled in the mid-1900s amid press disputes over stylistic priority."
+      }
+    },
+    {
+      "composers": ["197", "138"],
+      "names": ["Liszt", "Wagner"],
+      "type": "family",
+      "note": {
+        "ja": "リストの娘コジマがワーグナーと再婚し、二人は義理の親子となった。",
+        "en": "Liszt's daughter Cosima married Wagner as her second husband, making the two composers father- and son-in-law."
+      }
+    },
+    {
+      "composers": ["87", "192"],
+      "names": ["Bach", "Bach, C.P.E."],
+      "type": "family",
+      "note": {
+        "ja": "J.S.バッハの次男で、幼少期から父に音楽を学んだ。",
+        "en": "C.P.E. Bach was J.S. Bach's second surviving son and was taught music by his father from childhood."
+      }
+    },
+    {
+      "composers": ["125", "34"],
+      "names": ["Bartók", "Kodály"],
+      "type": "collaborator",
+      "note": {
+        "ja": "1906年頃から共同でハンガリー各地の民謡を採集し、その成果を出版した。",
+        "en": "From around 1906 they jointly collected Hungarian folk songs in the field and published their findings together."
+      }
+    }
+  ]
+}

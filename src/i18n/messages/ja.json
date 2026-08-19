@@ -113,6 +113,17 @@
     "epoch": "時代",
     "workCount": "収録作品数",
     "coreWorks": "代表曲",
+    "relationsHeading": "関連する作曲家",
+    "relation": {
+      "teacher": "師",
+      "student": "弟子",
+      "influencedBy": "影響を受けた",
+      "influenced": "影響を与えた",
+      "friend": "友人",
+      "rival": "対立",
+      "family": "親族",
+      "collaborator": "共作・共演"
+    },
     "allWorks": "全作品",
     "allWorksCount": "全{count}曲",
     "loadingWorks": "作品を読み込んでいます…",

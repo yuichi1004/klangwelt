@@ -7,6 +7,7 @@ import { ComposerFlag } from "@/components/composer-flag";
 import { ComposerPortrait } from "@/components/composer-portrait";
 import { GlossaryText } from "@/components/glossary-text";
 import { PageContainer } from "@/components/page-container";
+import { RelatedComposers } from "@/components/related-composers";
 import { StarRating } from "@/components/star-rating";
 import { WorkCard } from "@/components/work-card";
 import { WorkCardGrid } from "@/components/work-card-grid";
@@ -307,6 +308,8 @@ export default async function ComposerPage(
             </WorkCardGrid>
           </section>
         )}
+
+        <RelatedComposers locale={locale} composerId={composer.id} />
 
         <ComposerAllWorks
           locale={locale}

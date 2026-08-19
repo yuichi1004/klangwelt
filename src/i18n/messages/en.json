@@ -113,6 +113,17 @@
     "epoch": "Period",
     "workCount": "Works listed",
     "coreWorks": "Key works",
+    "relationsHeading": "Related composers",
+    "relation": {
+      "teacher": "Teacher",
+      "student": "Student",
+      "influencedBy": "Influenced by",
+      "influenced": "Influenced",
+      "friend": "Friend",
+      "rival": "Rival",
+      "family": "Family",
+      "collaborator": "Collaborator"
+    },
     "allWorks": "All works",
     "allWorksCount": "All {count} works",
     "loadingWorks": "Loading works…",
