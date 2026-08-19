@@ -3,20 +3,16 @@ import { describe, expect, it } from "vitest";
 import { buildSearchIndex, type SearchableWork } from "./catalog";
 import {
   COMPOSER_WEIGHT,
-  DEFAULT_COUNT,
   EMPTY_PROFILE,
   EPOCH_WEIGHT,
   GENRE_WEIGHT,
   MAX_AFFINITY_SCORE,
-  MIN_CANDIDATE_STARS,
-  POOL_PER_COMPOSER,
-  POOL_SIZE,
   POPULARITY_WEIGHT,
   RECENCY_DECAY,
   REASON_MIN_AFFINITY,
   buildTasteProfile,
   explain,
-  recommend,
+  rankByTaste,
   scoreWork,
   type TasteProfile,
 } from "./recommend";
@@ -51,6 +47,10 @@ function work(overrides: Partial<SearchableWork> = {}): SearchableWork {
 const CHOPIN_ID = "152";
 const chopinFavorites = favorites("17109", "17217", "17179");
 
+// Matches `CatalogBrowser`'s `PAGE_SIZE` — the first page is what a visitor
+// actually sees, so it is what the ★-tilt guard below cares about.
+const PAGE_SIZE = 40;
+
 describe("weight relationships (issue #86 design constants)", () => {
   // See the derivation in the module doc comment. These hold for the whole
   // interval P ∈ (1.0, 1.333); if a future retune moves POPULARITY_WEIGHT
@@ -74,10 +74,6 @@ describe("weight relationships (issue #86 design constants)", () => {
     expect(MAX_AFFINITY_SCORE).toBeCloseTo(
       COMPOSER_WEIGHT + EPOCH_WEIGHT + GENRE_WEIGHT + POPULARITY_WEIGHT,
     );
-  });
-
-  it("guarantees the pool spans at least DEFAULT_COUNT composers", () => {
-    expect(POOL_SIZE / POOL_PER_COMPOSER).toBeGreaterThanOrEqual(DEFAULT_COUNT);
   });
 });
 
@@ -272,235 +268,126 @@ describe("explain", () => {
   });
 });
 
-describe("recommend", () => {
-  it("returns the same works for the same seed", () => {
+describe("rankByTaste", () => {
+  it("returns every input work exactly once — no pool truncation", () => {
     const profile = buildTasteProfile(chopinFavorites);
-    const a = recommend(index, profile, { seed: 42 });
-    const b = recommend(index, profile, { seed: 42 });
+    const result = rankByTaste(index, profile, { seed: 1 });
+    expect(result).toHaveLength(index.length);
+    expect(new Set(result.map((r) => r.work.id))).toEqual(new Set(index.map((w) => w.id)));
+  });
+
+  it("still surfaces ★1 works, unlike a pool-filtered strip", () => {
+    const result = rankByTaste(index, EMPTY_PROFILE, { seed: 1 });
+    expect(result.some((r) => r.work.stars === 1)).toBe(true);
+  });
+
+  it("includes favourited works rather than withholding them", () => {
+    const profile = buildTasteProfile(chopinFavorites);
+    const result = rankByTaste(index, profile, { seed: 1 });
+    const ids = new Set(result.map((r) => r.work.id));
+    for (const favoriteId of profile.workIds) {
+      expect(ids.has(favoriteId)).toBe(true);
+    }
+  });
+
+  it("returns the same order for the same seed", () => {
+    const profile = buildTasteProfile(chopinFavorites);
+    const a = rankByTaste(index, profile, { seed: 42 });
+    const b = rankByTaste(index, profile, { seed: 42 });
     expect(a.map((r) => r.work.id)).toEqual(b.map((r) => r.work.id));
   });
 
-  it("returns different works for a different seed", () => {
+  it("returns a different order for a different seed", () => {
     const profile = buildTasteProfile(chopinFavorites);
-    const a = recommend(index, profile, { seed: 1 });
-    const b = recommend(index, profile, { seed: 2 });
+    const a = rankByTaste(index, profile, { seed: 1 });
+    const b = rankByTaste(index, profile, { seed: 2 });
     expect(a.map((r) => r.work.id)).not.toEqual(b.map((r) => r.work.id));
   });
 
-  it("is not a fixed top-6: the union across many seeds is larger than one draw", () => {
+  it("does not depend on the input array's order", () => {
     const profile = buildTasteProfile(chopinFavorites);
-    const seen = new Set<string>();
-    for (let seed = 0; seed < 30; seed++) {
-      for (const { work: recommended } of recommend(index, profile, { seed })) {
-        seen.add(recommended.id);
-      }
-    }
-    expect(seen.size).toBeGreaterThan(DEFAULT_COUNT);
+    const shuffled = [...index].sort((a, b) => (a.id < b.id ? 1 : -1));
+    const a = rankByTaste(index, profile, { seed: 7 });
+    const b = rankByTaste(shuffled, profile, { seed: 7 });
+    expect(b.map((r) => r.work.id)).toEqual(a.map((r) => r.work.id));
   });
 
-  it("never recommends a favourite", () => {
+  it("filtering to one composer yields exactly that composer's subsequence of the full ranking", () => {
     const profile = buildTasteProfile(chopinFavorites);
-    const favoriteIds = new Set(chopinFavorites.map((w) => w.id));
-    for (let seed = 0; seed < 10; seed++) {
-      const result = recommend(index, profile, { seed });
-      for (const { work: recommended } of result) {
-        expect(favoriteIds.has(recommended.id)).toBe(false);
-      }
-    }
+    const full = rankByTaste(index, profile, { seed: 3 });
+    const chopinOnlyFromFull = full
+      .filter((r) => r.work.composerId === CHOPIN_ID)
+      .map((r) => r.work.id);
+
+    const chopinWorks = index.filter((w) => w.composerId === CHOPIN_ID);
+    const chopinAlone = rankByTaste(chopinWorks, profile, { seed: 3 }).map((r) => r.work.id);
+
+    expect(chopinAlone).toEqual(chopinOnlyFromFull);
   });
 
-  it("never recommends an excluded id", () => {
-    const profile = buildTasteProfile(chopinFavorites);
-    const excludeId = index.find((w) => !chopinFavorites.some((f) => f.id === w.id))!.id;
-    const result = recommend(index, profile, { seed: 1, exclude: [excludeId] });
-    expect(result.some((r) => r.work.id === excludeId)).toBe(false);
-  });
-
-  it("never recommends the same composer twice when the pool has enough variety", () => {
-    const profile = buildTasteProfile(chopinFavorites);
-    for (let seed = 0; seed < 10; seed++) {
-      const result = recommend(index, profile, { seed });
-      const composerIds = result.map((r) => r.work.composerId);
-      expect(new Set(composerIds).size).toBe(composerIds.length);
-    }
-  });
-
-  it("keeps ★1 works out unless their composer is saved", () => {
-    const profile = buildTasteProfile(chopinFavorites);
-    for (let seed = 0; seed < 10; seed++) {
-      const result = recommend(index, profile, { seed });
-      for (const { work: recommended } of result) {
-        if (recommended.stars < MIN_CANDIDATE_STARS) {
-          expect(recommended.composerId).toBe(CHOPIN_ID);
-        }
+  it("spreads repeats of the same composer across the list", () => {
+    const result = rankByTaste(index, EMPTY_PROFILE, { seed: 5 });
+    // The degenerate tail — where too few distinct composers remain to keep
+    // the gap — is real (see `spreadByComposer`'s doc comment), so this
+    // checks a prefix comfortably clear of it, not the whole list.
+    const prefix = result.slice(0, 300);
+    for (let i = 0; i < prefix.length; i++) {
+      for (let j = i + 1; j < Math.min(i + 9, prefix.length); j++) {
+        expect(prefix[j].work.composerId).not.toBe(prefix[i].work.composerId);
       }
     }
   });
 
-  it("still returns count works when every favourite is by the same composer", () => {
-    // Regression test for the pool-collapse bug: without the per-composer
-    // pool cap, three Mozart favourites push the top-40 pool to ~95% Mozart,
-    // and composer-uniqueness then starves the selection to 2 works.
-    const mozartFavorites = index
-      .filter((w) => w.composerId === "196")
-      .slice(0, 3);
-    const profile = buildTasteProfile(mozartFavorites);
-    const result = recommend(index, profile, { seed: 1 });
-    expect(result).toHaveLength(DEFAULT_COUNT);
-  });
-
-  it("returns count works for a single favourite", () => {
-    const profile = buildTasteProfile(favorites("17109"));
-    const result = recommend(index, profile, { seed: 1 });
-    expect(result).toHaveLength(DEFAULT_COUNT);
-  });
-
-  it("returns count works for zero favourites", () => {
-    const result = recommend(index, EMPTY_PROFILE, { seed: 1 });
-    expect(result).toHaveLength(DEFAULT_COUNT);
-  });
-
-  it("returns count works when every candidate has already been shown", () => {
+  it("returns the composer's reason for each entry, matching explain()", () => {
     const profile = buildTasteProfile(chopinFavorites);
-    const result = recommend(index, profile, {
-      seed: 1,
-      recentlyShown: index.map((w) => w.id),
-    });
-    expect(result).toHaveLength(DEFAULT_COUNT);
-  });
-
-  it("is a demotion, not an exclusion: penalising the whole pool uniformly reproduces the unpenalised result exactly", () => {
-    // Every pool entry gets the same RECENT_PENALTY factor, which scales
-    // every sampling key by the same constant — a monotonic transform that
-    // cannot change the sort order. This is a stronger guarantee than "still
-    // returns count items": the two runs must be bit-for-bit identical.
-    const profile = buildTasteProfile(chopinFavorites);
-    for (const seed of [1, 2, 3]) {
-      const baseline = recommend(index, profile, { seed });
-      const penalized = recommend(index, profile, {
-        seed,
-        recentlyShown: index.map((w) => w.id),
-      });
-      expect(penalized.map((r) => r.work.id)).toEqual(baseline.map((r) => r.work.id));
+    const result = rankByTaste(index, profile, { seed: 1 });
+    for (const { work: candidate, reason } of result) {
+      expect(reason).toEqual(explain(candidate, profile));
     }
   });
 
-  it("shows a recently-shown work less often than an unpenalised run, across seeds", () => {
-    const profile = buildTasteProfile(chopinFavorites);
-    const seeds = Array.from({ length: 40 }, (_, i) => i);
-
-    const baselineRuns = seeds.map((seed) => recommend(index, profile, { seed }));
-    const frequency = new Map<string, number>();
-    for (const run of baselineRuns) {
-      for (const { work: recommended } of run) {
-        frequency.set(recommended.id, (frequency.get(recommended.id) ?? 0) + 1);
-      }
-    }
-    const [targetId] = [...frequency.entries()].sort((a, b) => b[1] - a[1])[0];
-    const baselineCount = baselineRuns.filter((run) =>
-      run.some((r) => r.work.id === targetId),
-    ).length;
-
-    const penalizedRuns = seeds.map((seed) =>
-      recommend(index, profile, { seed, recentlyShown: [targetId] }),
-    );
-    const penalizedCount = penalizedRuns.filter((run) =>
-      run.some((r) => r.work.id === targetId),
-    ).length;
-
-    expect(penalizedCount).toBeLessThan(baselineCount);
+  it("handles an empty list", () => {
+    expect(rankByTaste([], EMPTY_PROFILE, { seed: 1 })).toEqual([]);
   });
 
-  it("still surfaces the saved composer after one of their works was just shown", () => {
-    const profile = buildTasteProfile(chopinFavorites);
-    let sawChopin = false;
-    for (let seed = 0; seed < 20; seed++) {
-      const result = recommend(index, profile, {
-        seed,
-        recentlyShown: ["17109"],
-      });
-      if (result.some((r) => r.work.composerId === CHOPIN_ID)) sawChopin = true;
-    }
-    expect(sawChopin).toBe(true);
-  });
-
-  it("returns min(count, pool) for a catalogue smaller than count", () => {
-    const tinyCatalogue = [
-      work({ id: "a", composerId: "c1", stars: 3 }),
-      work({ id: "b", composerId: "c2", stars: 3 }),
-      work({ id: "c", composerId: "c3", stars: 3 }),
-      work({ id: "d", composerId: "c4", stars: 3 }),
-    ];
-    const result = recommend(tinyCatalogue, EMPTY_PROFILE, { seed: 1 });
-    expect(result).toHaveLength(4);
-  });
-
-  it("repeats a composer rather than returning short, for a single-composer catalogue", () => {
+  it("does not reorder a single-composer catalogue beyond the keyed order", () => {
     const singleComposerCatalogue = Array.from({ length: 5 }, (_, i) =>
       work({ id: `w${i}`, composerId: "only", stars: 3 }),
     );
-    const result = recommend(singleComposerCatalogue, EMPTY_PROFILE, { seed: 1 });
-    expect(result).toHaveLength(POOL_PER_COMPOSER);
+    const result = rankByTaste(singleComposerCatalogue, EMPTY_PROFILE, { seed: 1 });
+    expect(result).toHaveLength(5);
+    expect(new Set(result.map((r) => r.work.id))).toEqual(new Set(["w0", "w1", "w2", "w3", "w4"]));
   });
 
-  it("keeps a ★1 by an unrelated composer out, unless stars >= 2 or the composer is favourited", () => {
-    const profile: TasteProfile = {
-      composers: { fav: 1 },
-      epochs: {},
-      genres: {},
-      workIds: [],
-    };
-    const works = [
-      work({ id: "s1-other", composerId: "other", stars: 1 }),
-      work({ id: "s1-fav", composerId: "fav", stars: 1 }),
-      work({ id: "s3-a", composerId: "a", stars: 3 }),
-      work({ id: "s3-b", composerId: "b", stars: 3 }),
-    ];
-    const result = recommend(works, profile, { seed: 1, count: 4 });
-    const ids = result.map((r) => r.work.id);
-    expect(ids).not.toContain("s1-other");
-    expect(ids).toContain("s1-fav");
-  });
-
-  it("labels each recommendation by the most specific matching dimension", () => {
-    const profile: TasteProfile = {
-      composers: { c1: 1 },
-      epochs: { Baroque: 1 },
-      genres: { Chamber: 1 },
-      workIds: [],
-    };
-    const works = [
-      work({ id: "w-composer", composerId: "c1", epoch: "Baroque", genre: "Vocal", stars: 3 }),
-      work({ id: "w-genre", composerId: "c2", epoch: "Classical", genre: "Chamber", stars: 3 }),
-      work({ id: "w-epoch", composerId: "c3", epoch: "Baroque", genre: "Stage", stars: 3 }),
-      work({ id: "w-popular", composerId: "c4", epoch: "Classical", genre: "Stage", stars: 5 }),
-    ];
-    const result = recommend(works, profile, { seed: 1, count: 4 });
-    const reasonById = new Map(result.map((r) => [r.work.id, r.reason]));
-    expect(reasonById.get("w-composer")).toEqual({ kind: "composer", composerId: "c1" });
-    expect(reasonById.get("w-genre")).toEqual({ kind: "genre", genre: "Chamber" });
-    expect(reasonById.get("w-epoch")).toEqual({ kind: "epoch", epoch: "Baroque" });
-    expect(reasonById.get("w-popular")).toEqual({ kind: "popular" });
-  });
-
-  it("does not let popularity alone fill the strip with only ★5 works", () => {
+  it("biases favoured composers toward the front, averaged across seeds", () => {
     const profile = buildTasteProfile(chopinFavorites);
-    const result = recommend(index, profile, { seed: 1 });
-    expect(result.some((r) => r.work.stars < 5)).toBe(true);
+    const chopinPosition = (p: TasteProfile, seed: number) => {
+      const ranked = rankByTaste(index, p, { seed }).map((r) => r.work.id);
+      const positions = index
+        .filter((w) => w.composerId === CHOPIN_ID)
+        .map((w) => ranked.indexOf(w.id));
+      return positions.reduce((sum, p) => sum + p, 0) / positions.length;
+    };
+
+    const seeds = Array.from({ length: 20 }, (_, i) => i);
+    const meanWithTaste =
+      seeds.reduce((sum, seed) => sum + chopinPosition(profile, seed), 0) / seeds.length;
+    const meanWithoutTaste =
+      seeds.reduce((sum, seed) => sum + chopinPosition(EMPTY_PROFILE, seed), 0) / seeds.length;
+
+    expect(meanWithTaste).toBeLessThan(meanWithoutTaste);
   });
 
-  it("drops a favourite id that no longer resolves against the index, via the caller-side filter", () => {
-    // A dead id (e.g. a work later removed from the catalogue) cannot
-    // resolve through `favorites()`, so the caller's `.filter(Boolean)` drops
-    // it before `buildTasteProfile` ever sees it — this is a contract on the
-    // caller, not a special code path inside the function.
-    const withoutGhost = buildTasteProfile(favorites("17109", "17217", "17179", "nonexistent-id"));
-    expect(withoutGhost).toEqual(buildTasteProfile(chopinFavorites));
-  });
-
-  it("respects a custom count", () => {
-    const profile = buildTasteProfile(chopinFavorites);
-    const result = recommend(index, profile, { seed: 1, count: 3 });
-    expect(result).toHaveLength(3);
+  it("keeps the average ★1 count in the first page well under a linear-weight baseline", () => {
+    // Executable form of the TASTE_TILT derivation in the module doc
+    // comment: under EMPTY_PROFILE, most of the catalogue's ★1 works should
+    // not cluster into the very first page a visitor sees.
+    const seeds = Array.from({ length: 20 }, (_, i) => i);
+    const oneStarCounts = seeds.map((seed) => {
+      const page = rankByTaste(index, EMPTY_PROFILE, { seed }).slice(0, PAGE_SIZE);
+      return page.filter((r) => r.work.stars === 1).length;
+    });
+    const mean = oneStarCounts.reduce((sum, count) => sum + count, 0) / oneStarCounts.length;
+    expect(mean).toBeLessThan(4);
   });
 });

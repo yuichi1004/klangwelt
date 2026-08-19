@@ -27,10 +27,6 @@ const filteredResultsPattern = new RegExp(`^[\\d,]+曲 / 全${CORE_COUNT}曲$`);
 const searchBox = (page: Page) =>
   page.getByRole("searchbox", { name: "曲名・作曲家名で検索" });
 
-const discoverSection = (page: Page) => page.getByTestId("discover");
-const discoverCards = (page: Page) =>
-  discoverSection(page).locator('a[href^="/ja/works/"]');
-
 async function seedFavorites(page: Page, workIds: string[]) {
   // Same idiom as the "corrupt storage" test below: navigate same-origin
   // first so localStorage is reachable, seed it, then navigate to the page
@@ -55,11 +51,12 @@ const openFilterPanel = (page: Page) =>
 
 test.describe("catalogue filtering", () => {
   test("narrows results and reflects the filters in the URL", async ({ page }) => {
-    // `?view=all` forces the results list on from the start, so the
-    // "wait for the full index" checkpoint below has something to poll.
-    await page.goto("/ja?view=all");
+    await page.goto("/ja");
 
-    // Wait for the full index to arrive before counting.
+    // The result count renders `totalCount` even before the client index has
+    // landed (the おすすめ順 fallback order), so `data-loaded` — not the text
+    // — is what actually proves the full index arrived.
+    await expect(resultCount(page)).toHaveAttribute("data-loaded", "true");
     await expect(resultCount(page)).toHaveText(allResultsText);
 
     await openFilterPanel(page);
@@ -96,10 +93,7 @@ test.describe("catalogue filtering", () => {
     await openFilterPanel(page);
     await page.getByRole("button", { name: "条件をクリア" }).click();
     await expect(page).toHaveURL(/\/ja$/);
-    // Clearing the filters returns to the discovery feed, which has no
-    // result count of its own — going back to the full list is a deliberate
-    // extra step (the "全{count}曲を見る" link), not the default any more.
-    await expect(page.getByTestId("discover")).toBeVisible();
+    await expect(resultCount(page)).toHaveText(allResultsText);
   });
 
   test("shows an empty state instead of a blank page", async ({ page }) => {
@@ -165,8 +159,7 @@ test.describe("active filter chips", () => {
     await page.getByRole("button", { name: "すべてクリア" }).click();
     await expect(page).toHaveURL(/\/ja$/);
     await expect(searchBox(page)).toHaveValue("");
-    // No filters left, so it's the discovery feed rather than a result list.
-    await expect(page.getByTestId("discover")).toBeVisible();
+    await expect(resultCount(page)).toHaveText(allResultsText);
   });
 });
 
@@ -220,8 +213,7 @@ test.describe("filters survive an in-page round trip", () => {
 
     await page.getByRole("link", { name: "楽曲一覧に戻る" }).click();
     await expect(page).toHaveURL(/\/ja$/);
-    // No filters left to restore, so it's the discovery feed, not a list.
-    await expect(page.getByTestId("discover")).toBeVisible();
+    await expect(resultCount(page)).toHaveText(allResultsText);
   });
 
   test("a link with its own filters wins over a saved one", async ({ page }) => {
@@ -251,8 +243,8 @@ test.describe("filters survive an in-page round trip", () => {
     const second = await browser.newContext();
     const secondPage = await second.newPage();
     await secondPage.goto("/ja");
-    // A fresh context has no saved filters, so it's the discovery feed.
-    await expect(secondPage.getByTestId("discover")).toBeVisible();
+    // A fresh context has no saved filters, so it's the full, unfiltered list.
+    await expect(resultCount(secondPage)).toHaveText(allResultsText);
     await second.close();
   });
 });
@@ -472,88 +464,111 @@ test.describe("favourites backup", () => {
   });
 });
 
-test.describe("discover (homepage recommendations)", () => {
-  // Chopin core works — 22 in the index, several stars bands, enough for the
-  // recommendation pool to comfortably clear twelve distinct-composer picks
-  // (the pool draws from the whole catalogue, not just Chopin's works).
+test.describe("recommended sort (おすすめ順)", () => {
+  // Chopin core works — 22 in the index, several stars bands, so a filter
+  // down to just this composer (`?c=152`) fits on a single page and gives a
+  // deterministic set to assert against.
+  const CHOPIN_ID = "152";
   const CHOPIN_FAVORITES = ["17109", "17217", "17179"];
-  const BATCH_SIZE = 12;
+  const PAGE_SIZE = 40;
 
-  /**
-   * Until favourites and the client-side work index are both ready, the feed
-   * shows a favourites-blind popularity fallback (`initialWorks`, for first
-   * paint and SEO) that happens to render exactly `BATCH_SIZE` cards too —
-   * the same count as the real, favourites-aware picks, and (with no heading
-   * to tell them apart any more) sometimes the same-looking content. Waiting
-   * for the work-index fetch to settle is what actually distinguishes "the
-   * real picks landed" from "the fallback just happens to look similar".
-   */
-  const realPicksReady = (page: Page) => page.waitForLoadState("networkidle");
+  const listReady = (page: Page) =>
+    expect(resultCount(page)).toHaveAttribute("data-loaded", "true");
 
-  test("shows twelve recommendations built from favourites", async ({ page }) => {
-    await seedFavorites(page, CHOPIN_FAVORITES);
+  const sortSelect = (page: Page) =>
+    page.getByRole("combobox", { name: "並び順" });
+
+  test("is the default sort and fills a page", async ({ page }) => {
     await page.goto("/ja");
-
-    await expect(discoverSection(page)).toBeVisible();
-    await realPicksReady(page);
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
+    await listReady(page);
+    await expect(workCards(page)).toHaveCount(PAGE_SIZE);
+    await expect(page).not.toHaveURL(/sort=/);
+    await expect(sortSelect(page)).toHaveValue("recommended");
   });
 
-  test("never recommends an already-favourited work", async ({ page }) => {
-    await seedFavorites(page, CHOPIN_FAVORITES);
+  test("changing the sort keeps you in the list — regression guard for the ?view=all bounce", async ({
+    page,
+  }) => {
+    // The bug this feature replaces: leaving おすすめ順 for another sort used
+    // to drop `?view=all` from the URL and bounce back to a separate
+    // discovery feed. There is only one view now, so nothing to bounce to.
     await page.goto("/ja");
+    await listReady(page);
 
-    await realPicksReady(page);
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
-    const hrefs = await discoverCards(page).evaluateAll((links) =>
+    await sortSelect(page).selectOption("standard");
+    await expect(page).toHaveURL(/[?&]sort=standard/);
+    await expect(resultCount(page)).toHaveText(allResultsText);
+    await expect(workCards(page)).toHaveCount(PAGE_SIZE);
+
+    await sortSelect(page).selectOption("recommended");
+    await expect(page).not.toHaveURL(/sort=/);
+    await expect(workCards(page)).toHaveCount(PAGE_SIZE);
+  });
+
+  test("includes favourited works rather than withholding them", async ({
+    page,
+  }) => {
+    await seedFavorites(page, CHOPIN_FAVORITES);
+    await page.goto(`/ja?c=${CHOPIN_ID}`);
+    await listReady(page);
+
+    const hrefs = await workCards(page).evaluateAll((links) =>
       links.map((link) => link.getAttribute("href")),
     );
     for (const id of CHOPIN_FAVORITES) {
-      expect(hrefs).not.toContain(`/ja/works/${id}`);
+      expect(hrefs).toContain(`/ja/works/${id}`);
     }
   });
 
-  test("shows popular picks when there are no favourites, instead of disappearing", async ({
-    page,
-  }) => {
+  test("さらに表示 appends the next page without duplicates", async ({ page }) => {
     await page.goto("/ja");
-    await expect(discoverSection(page)).toBeVisible();
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
-  });
+    await listReady(page);
+    await expect(workCards(page)).toHaveCount(PAGE_SIZE);
 
-  test("もっと見る appends more picks without duplicates", async ({ page }) => {
-    await page.goto("/ja");
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
+    // Scoped with `exact` so this does not also match the filter panel's
+    // composer-list "さらに表示" (accessible name "作曲家 · さらに表示"), which
+    // stays in the DOM but hidden while the panel is collapsed.
+    await page.getByRole("button", { name: "さらに表示", exact: true }).click();
+    await expect(workCards(page)).toHaveCount(PAGE_SIZE * 2);
 
-    await discoverSection(page)
-      .getByRole("button", { name: "さらに表示" })
-      .click();
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE * 2);
-
-    const hrefs = await discoverCards(page).evaluateAll((links) =>
+    const hrefs = await workCards(page).evaluateAll((links) =>
       links.map((link) => link.getAttribute("href")),
     );
     expect(new Set(hrefs).size).toBe(hrefs.length);
   });
 
-  test("favouriting a recommended work does not remove it from view", async ({
-    page,
-  }) => {
-    // Regression test: the picks are computed once per seed and must not
-    // react to the favourites list changing mid-visit, or clicking a card's
-    // own star would yank it out from under the pointer.
+  test("favouriting a card does not reorder the list", async ({ page }) => {
+    // Regression test: the taste profile is frozen once per visit and must
+    // not react to the favourites list changing mid-visit, or clicking a
+    // card's own star would shuffle the list under the pointer.
     await seedFavorites(page, CHOPIN_FAVORITES);
     await page.goto("/ja");
+    await listReady(page);
+    await expect(workCards(page)).toHaveCount(PAGE_SIZE);
 
-    await realPicksReady(page);
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
-    const firstCard = discoverCards(page).first();
+    const firstCard = workCards(page).first();
     const href = await firstCard.getAttribute("href");
 
     await firstCard.getByRole("button", { name: "お気に入りに追加" }).click();
 
-    await expect(discoverCards(page)).toHaveCount(BATCH_SIZE);
-    await expect(page.locator(`a[href="${href}"]`).first()).toBeVisible();
+    await expect(workCards(page)).toHaveCount(PAGE_SIZE);
+    await expect(workCards(page).first()).toHaveAttribute("href", href!);
+  });
+
+  test("the reason note appears only in おすすめ順", async ({ page }) => {
+    await seedFavorites(page, CHOPIN_FAVORITES);
+    await page.goto(`/ja?c=${CHOPIN_ID}`);
+    await listReady(page);
+
+    await expect(page.getByText("フレデリック・ショパン が好きなら").first()).toBeVisible();
+
+    await sortSelect(page).selectOption("standard");
+    await expect(page).toHaveURL(/[?&]sort=standard/);
+    // `.first()`, not the bare locator: with every Chopin card carrying the
+    // note in おすすめ順, an unscoped `getByText` here resolves to several
+    // elements — `toBeHidden()` treats that as a strict-mode violation
+    // rather than retrying, so it would fail even once the note is gone.
+    await expect(page.getByText("フレデリック・ショパン が好きなら").first()).toBeHidden();
   });
 });
 
@@ -584,11 +599,88 @@ test.describe("responsive layout", () => {
     await expect(page.getByRole("heading", { name: "定番度" })).toBeHidden();
   });
 
+  // #109: the disclosure is not a modal (no scrim, page still scrolls), but
+  // it still owes keyboard users a way to collapse it without hunting for
+  // the toggle, and the toggle should get focus back so Tab resumes where
+  // the user left off.
+  test("Escape collapses the filter panel and refocuses the toggle", async ({
+    page,
+  }) => {
+    await page.goto("/ja");
+    const toggle = page.getByRole("button", { name: /^絞り込み/ });
+    await toggle.click();
+    await expect(page.getByRole("heading", { name: "定番度" })).toBeVisible();
+
+    await page.keyboard.press("Escape");
+    await expect(page.getByRole("heading", { name: "定番度" })).toBeHidden();
+    await expect(toggle).toHaveAttribute("aria-expanded", "false");
+    await expect(toggle).toBeFocused();
+  });
+
+  // #109: the panel used to nest a max-h-64 composer list inside a
+  // max-h-[70vh] scrolling panel — two scrollers, with the ambiguous "which
+  // one moves" feel the issue complained about. Now the panel is plain
+  // document flow and the composer list is capped by row count instead.
+  test("the open filter panel scrolls with the page, not inside itself", async ({
+    page,
+  }) => {
+    await page.goto("/ja");
+    await page.getByRole("button", { name: /^絞り込み/ }).click();
+    const panel = page.locator("#catalog-filter-panel");
+    await expect(panel).toBeVisible();
+
+    const scrollerCount = await panel.evaluate((el) => {
+      const all = el.querySelectorAll("*");
+      let count = 0;
+      for (const node of all) {
+        const style = getComputedStyle(node);
+        const scrollable =
+          style.overflowY === "auto" || style.overflowY === "scroll";
+        if (scrollable && node.scrollHeight > node.clientHeight) count++;
+      }
+      return count;
+    });
+    expect(scrollerCount).toBe(0);
+  });
+
+  test("the composer list is capped until さらに表示 is pressed", async ({
+    page,
+  }) => {
+    await page.goto("/ja");
+    await page.getByRole("button", { name: /^絞り込み/ }).click();
+
+    const list = page.getByRole("group", { name: /^作曲家/ }).getByRole("checkbox");
+    await expect(list).toHaveCount(20);
+
+    await page.getByRole("button", { name: "作曲家 · さらに表示" }).click();
+    await expect(list.first()).toBeVisible();
+    expect(await list.count()).toBeGreaterThan(20);
+  });
+
+  // Regression guard for the site-header refactor in #109: Escape and the
+  // scroll lock moved from an inline effect into the shared
+  // `useModalOverlay` hook, and the header's own Escape-to-close behaviour
+  // (pre-existing since #108) has to survive that move intact.
+  test("Escape closes the mobile menu and hands focus back to ☰", async ({
+    page,
+    isMobile,
+  }) => {
+    test.skip(!isMobile, "mobile-only");
+    await page.goto("/ja");
+    const menuButton = page.getByRole("button", { name: "メニュー" });
+    await menuButton.click();
+    await expect(page.getByRole("link", { name: "作曲家" })).toBeVisible();
+
+    await page.keyboard.press("Escape");
+    await expect(page.getByRole("link", { name: "作曲家" })).toBeHidden();
+    await expect(menuButton).toBeFocused();
+  });
+
   test("no page overflows the viewport horizontally", async ({ page }, testInfo) => {
     const width = testInfo.project.use.viewport?.width ?? 412;
     for (const path of [
       "/ja",
-      "/ja?view=all",
+      "/ja?sort=title",
       "/ja?e=Baroque",
       "/ja?c=145",
       "/ja/works/16406",
@@ -648,7 +740,7 @@ test.describe("responsive layout", () => {
    * decoupled from the visible disc.
    */
   test("the favourite button is big enough to hit", async ({ page }) => {
-    await page.goto("/ja?view=all");
+    await page.goto("/ja");
     const card = workCards(page).first();
     const box = await card
       .getByRole("button", { name: /お気に入り/ })
@@ -663,7 +755,7 @@ test.describe("responsive layout", () => {
    * alt text would be read out as part of the link's name.
    */
   test("each card shows one decorative portrait", async ({ page }) => {
-    await page.goto("/ja?view=all");
+    await page.goto("/ja");
     const card = workCards(page).first();
     await expect(card.locator("img")).toHaveCount(1);
     await expect(card.locator("img")).toHaveAttribute("alt", "");
@@ -675,7 +767,7 @@ test.describe("responsive layout", () => {
     isMobile,
   }) => {
     test.skip(Boolean(isMobile), "one column, so there is no row to level");
-    await page.goto("/ja?view=all");
+    await page.goto("/ja");
     await expect(workCards(page).first()).toBeVisible();
 
     const rows = await page.evaluate(() => {

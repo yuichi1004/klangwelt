@@ -296,6 +296,14 @@ describe("sortWorks", () => {
     sortWorks(index, "title", "en");
     expect(index.map((work) => work.id)).toEqual(before);
   });
+
+  it("orders 'recommended' the same as 'standard' — the fallback CatalogBrowser shows before the taste ranking is ready", () => {
+    for (const locale of ["ja", "en"] as const) {
+      const recommended = sortWorks(index, "recommended", locale).map((work) => work.id);
+      const standard = sortWorks(index, "standard", locale).map((work) => work.id);
+      expect(recommended).toEqual(standard);
+    }
+  });
 });
 
 describe("buildComposerOptions", () => {

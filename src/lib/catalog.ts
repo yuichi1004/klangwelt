@@ -101,7 +101,7 @@ export const EMPTY_FILTERS: CatalogFilters = {
   minStars: 0,
 };
 
-export type SortKey = "standard" | "title" | "composer";
+export type SortKey = "recommended" | "standard" | "title" | "composer";
 
 /**
  * The composer fields the catalogue UI needs. Kept minimal because the list
@@ -396,6 +396,14 @@ export function sortWorks(
           composer(a).localeCompare(composer(b), locale) ||
           title(a).localeCompare(title(b), locale),
       );
+    case "recommended":
+      // Not a comparator: the taste ordering needs the visitor's favourites
+      // and the client-side work index, so it is produced by `rankByTaste`
+      // in the browser. This is the order shown until both of those are
+      // ready — see `CatalogBrowser` — and it is deliberately identical to
+      // the "standard" branch below rather than a separate fallback to keep
+      // in sync.
+      return sorted.sort(compareByStandard);
     default:
       // Deliberately locale-independent, unlike the two branches above: this
       // reproduces the baked order of `data/catalog/*` so the catalogue page

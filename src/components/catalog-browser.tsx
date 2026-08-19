@@ -1,9 +1,9 @@
 "use client";
 
-import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
+import { useFavorites } from "@/components/favorites-provider";
 import {
   Chip,
   FilterGroup,
@@ -12,7 +12,7 @@ import {
   toggleIn,
 } from "@/components/filter-controls";
 import { PageContainer } from "@/components/page-container";
-import { Recommendations } from "@/components/recommendations";
+import { useEscapeKey } from "@/components/use-modal-overlay";
 import { WorkCard } from "@/components/work-card";
 import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, type Locale } from "@/i18n/config";
@@ -48,11 +48,61 @@ import {
   type Epoch,
   type Genre,
 } from "@/lib/epochs";
+import {
+  buildTasteProfile,
+  rankByTaste,
+  type RecommendReason,
+} from "@/lib/recommend";
+import { getVisitSeed } from "@/lib/visit-seed";
 
 const PAGE_SIZE = 40;
 
 /** How long typing must pause before the query is written to the URL. */
 const QUERY_COMMIT_DELAY_MS = 250;
+
+/**
+ * How many composer checkboxes the filter panel shows before "さらに表示".
+ *
+ * The panel is normal document flow by design (see the sticky row below), so
+ * the ~220-composer list needed a height cap of its own — and `max-h-64` on
+ * a list inside a `max-h-[70vh]` panel meant a scroll region inside a
+ * scroll region, with the bottom row sliced in half (#109). Capping the
+ * *rows* instead lets both height caps go: the panel is one plain block of
+ * page, and the search box above the list is the way to reach composer 21
+ * onwards.
+ */
+const COMPOSER_OPTION_PREVIEW = 20;
+
+/** Resolves favourite ids against the loaded index, dropping any that no
+ *  longer exist — the contract `buildTasteProfile` places on its caller. */
+function resolveFavorites(
+  favoriteIds: readonly string[],
+  source: readonly SearchableWork[],
+): SearchableWork[] {
+  const byId = new Map(source.map((work) => [work.id, work]));
+  return favoriteIds
+    .map((id) => byId.get(id))
+    .filter((work): work is SearchableWork => work !== undefined);
+}
+
+/** The card note for おすすめ順, e.g. "ショパンが好きなら". Composer-only:
+ *  a single favourite normalises its genre or epoch affinity to 1, which
+ *  would put a genre/epoch note on a large fraction of the whole catalogue —
+ *  a composer match is the one reason a reader can actually verify from the
+ *  card, and it applies to at most one work per page (see `rankByTaste`'s
+ *  composer spread). */
+function reasonNote(
+  reason: RecommendReason,
+  locale: Locale,
+  composers: ComposerOption[],
+): string | undefined {
+  if (reason.kind !== "composer") return undefined;
+  const composer = composers.find((c) => c.id === reason.composerId);
+  if (!composer) return undefined;
+  const messages = getMessages(locale);
+  const name = locale === "ja" ? composer.nameJa : composer.completeName;
+  return messages.discover.reason.composer.replace("{name}", name);
+}
 
 export function CatalogBrowser({
   locale,
@@ -62,8 +112,8 @@ export function CatalogBrowser({
 }: {
   locale: Locale;
   /** The first page of results, rendered statically for first paint and SEO.
-   *  Sorted by standard repertoire, so it doubles as the discovery feed's
-   *  fallback before favourites and the client index are ready. */
+   *  Sorted by standard repertoire, so it doubles as what おすすめ順 shows
+   *  before favourites and the client index are both ready. */
   initialWorks: SearchableWork[];
   totalCount: number;
   composers: ComposerOption[];
@@ -73,7 +123,7 @@ export function CatalogBrowser({
   const searchParams = useSearchParams();
   const [indexRows, setIndexRows] = useState<WorkIndexRow[] | null>(null);
 
-  const { filters, sort, view } = useMemo(
+  const { filters, sort } = useMemo(
     () => readFilters(searchParams),
     [searchParams],
   );
@@ -81,6 +131,22 @@ export function CatalogBrowser({
   const [visible, setVisible] = useState(PAGE_SIZE);
   const [panelOpen, setPanelOpen] = useState(false);
   const [composerQuery, setComposerQuery] = useState("");
+  const [allComposersShown, setAllComposersShown] = useState(false);
+  const filterToggleRef = useRef<HTMLButtonElement>(null);
+
+  const collapsePanel = useCallback(() => {
+    setPanelOpen(false);
+    // Escape is usually pressed with focus inside the panel that is about
+    // to unmount, which drops focus to <body> and restarts Tab at the top
+    // of the page. Hand it back to the control that owns the panel.
+    filterToggleRef.current?.focus();
+  }, []);
+
+  /* Escape only — not `useModalOverlay`. This panel is a disclosure in
+     normal document flow with no scrim (see the sticky row below): the page
+     behind it is still the thing you are reading, so locking its scroll or
+     trapping Tab inside it would both be wrong (#109). */
+  useEscapeKey(panelOpen, collapsePanel);
 
   /*
    * The search text lives here rather than being read back out of the URL.
@@ -142,6 +208,34 @@ export function CatalogBrowser({
     [indexRows, composers],
   );
 
+  const { workIds: favoriteIds, ready: favoritesReady } = useFavorites();
+
+  // The おすすめ順 taste profile is frozen at the moment favourites first
+  // become readable. Later favourite/unfavourite actions during this visit
+  // are ignored for the profile's lifetime, so pressing the heart on a card
+  // already on screen never reorders the list under the pointer. Adjusting
+  // state during render is React's documented answer here — the same
+  // pattern as the query sync above — rather than a ref written in an
+  // effect: a ref only updates after commit, so the memo below would read a
+  // stale empty list on the very render where `favoritesReady` flips true,
+  // and (nothing else changing) would never recompute again.
+  const [tasteIds, setTasteIds] = useState<readonly string[] | null>(null);
+  if (favoritesReady && tasteIds === null) {
+    setTasteIds(favoriteIds);
+  }
+
+  // Fixed for the life of this mount, so the おすすめ順 lineup does not
+  // reshuffle on every render — see `getVisitSeed`.
+  const [seed] = useState(getVisitSeed);
+
+  const profile = useMemo(
+    () =>
+      buildTasteProfile(
+        tasteIds && works ? resolveFavorites(tasteIds, works) : [],
+      ),
+    [tasteIds, works],
+  );
+
   const update = useCallback(
     (nextFilters: CatalogFilters, nextSort: SortKey) => {
       // Remember that this navigation is ours, so when the query comes back
@@ -149,8 +243,6 @@ export function CatalogBrowser({
       // and used to overwrite what the user is typing.
       setLastUrlQuery(nextFilters.query);
       setVisible(PAGE_SIZE);
-      // A real filter/search action supersedes a plain "view all" browse —
-      // the two together would be redundant, so this always drops `view`.
       router.replace(`/${locale}${writeFilters(nextFilters, nextSort)}`, {
         scroll: false,
       });
@@ -170,8 +262,8 @@ export function CatalogBrowser({
    * old filters back.
    */
   const queryString = useMemo(
-    () => writeFilters(filters, sort, view),
-    [filters, sort, view],
+    () => writeFilters(filters, sort),
+    [filters, sort],
   );
   const restoreChecked = useRef(false);
 
@@ -206,12 +298,30 @@ export function CatalogBrowser({
   }, [isComposing, queryText, lastUrlQuery, filters, sort, update]);
 
   const loaded = works !== null;
-  const results = useMemo(() => {
+  // Both async inputs おすすめ順 needs — the client index and favourites —
+  // have to be in hand before ranking by taste; until then it renders the
+  // same 定番度順 order as the exported HTML (see `sortWorks`'s "recommended"
+  // case), so there is exactly one reshuffle per load rather than a jump
+  // from an empty or wrong-order list.
+  const tasteReady = loaded && tasteIds !== null;
+
+  const { results, reasons } = useMemo(() => {
     const source = works ?? initialWorks;
     // Filters on the live text so results keep up with typing, while the URL
     // catches up on the debounce.
-    return sortWorks(filterWorks(source, effectiveFilters), sort, locale);
-  }, [works, initialWorks, effectiveFilters, sort, locale]);
+    const filtered = filterWorks(source, effectiveFilters);
+    if (sort !== "recommended" || !tasteReady) {
+      return { results: sortWorks(filtered, sort, locale), reasons: null };
+    }
+    const ranked = rankByTaste(filtered, profile, { seed });
+    // Parallel arrays rather than a per-work map: `results.slice(0, visible)`
+    // below preserves indices from 0, so `reasons[i]` lines up by
+    // construction.
+    return {
+      results: ranked.map((r) => r.work),
+      reasons: ranked.map((r) => r.reason),
+    };
+  }, [works, initialWorks, effectiveFilters, sort, tasteReady, profile, seed, locale]);
 
   const composerName = (composer: ComposerOption) =>
     locale === "ja" ? composer.nameJa : composer.completeName;
@@ -235,6 +345,13 @@ export function CatalogBrowser({
     return merged.sort((a, b) => label(a).localeCompare(label(b), locale));
   }, [composers, composerQuery, filters.composerIds, locale]);
 
+  // No reset when the search text changes: once expanded it stays expanded,
+  // and a search narrows the list anyway, so there is nothing to
+  // re-collapse.
+  const shownComposers = allComposersShown
+    ? visibleComposers
+    : visibleComposers.slice(0, COMPOSER_OPTION_PREVIEW);
+
   const activeCount =
     filters.composerIds.length +
     filters.epochs.length +
@@ -242,27 +359,13 @@ export function CatalogBrowser({
     (filters.minStars === 0 ? 0 : 1) +
     (queryText ? 1 : 0);
 
-  // The two journeys this page offers: a specific search/filter, or the
-  // condition-free discovery feed. `?view=all` is a third way into the list
-  // — "show me everything" — with no filter of its own.
-  const listMode = activeCount > 0 || view;
-
   const clearAll = useCallback(() => {
     setComposerQuery("");
     // The field owns its text, so clearing the URL is not enough — `update`
     // marks the empty query as ours, which suppresses the usual
     // URL-to-field sync.
     setQueryText("");
-    update(
-      {
-        query: "",
-        composerIds: [],
-        epochs: [],
-        genres: [],
-        minStars: 0,
-      },
-      sort,
-    );
+    update(EMPTY_FILTERS, sort);
   }, [sort, update]);
 
   /** One removable chip per active filter, shown above the results so they
@@ -416,8 +519,8 @@ export function CatalogBrowser({
           placeholder={messages.filters.composerPlaceholder}
           className="mb-2 w-full rounded-md border border-line bg-paper px-3 py-2 text-sm text-ink placeholder:text-ink-faint"
         />
-        <ul className="max-h-64 space-y-0.5 overflow-y-auto rounded-md border border-line p-1">
-          {visibleComposers.map((composer) => (
+        <ul className="space-y-0.5 rounded-md border border-line p-1">
+          {shownComposers.map((composer) => (
             <li key={composer.id}>
               <label className="flex cursor-pointer items-center gap-2 rounded px-2 py-1.5 text-sm text-ink-soft hover:bg-accent-soft/50">
                 <input
@@ -444,6 +547,19 @@ export function CatalogBrowser({
             </li>
           ))}
         </ul>
+        {!allComposersShown && visibleComposers.length > COMPOSER_OPTION_PREVIEW && (
+          <button
+            type="button"
+            onClick={() => setAllComposersShown(true)}
+            // Distinct accessible name: the results list below has its own
+            // さらに表示 (`:638`), and an unscoped locator must not match
+            // both.
+            aria-label={`${messages.filters.composer} · ${messages.filters.showMore}`}
+            className="mt-2 text-sm text-accent underline underline-offset-2"
+          >
+            {messages.filters.showMore}
+          </button>
+        )}
       </FilterGroup>
 
       {activeCount > 0 && (
@@ -464,8 +580,8 @@ export function CatalogBrowser({
           Only this compact row is sticky — the expanded panel below is
           normal flow, so an open panel never grows into a tall sticky block
           that pins itself over the rest of the page. Sticky under the
-          header so search stays reachable while scrolling the discovery
-          feed or a long results list (#110 in the UX review). */}
+          header so search stays reachable while scrolling a long results
+          list (#110 in the UX review). */}
       <div className="sticky top-14 z-20 -mx-4 bg-paper px-4 py-3 sm:-mx-6 sm:px-6">
         <div className="flex items-center gap-2">
           <div className="flex min-w-0 flex-1 items-center gap-2 rounded-full border border-line bg-paper-raised px-3.5 py-2 focus-within:border-accent">
@@ -494,6 +610,7 @@ export function CatalogBrowser({
           </div>
 
           <button
+            ref={filterToggleRef}
             type="button"
             onClick={() => setPanelOpen((open) => !open)}
             aria-expanded={panelOpen}
@@ -511,7 +628,7 @@ export function CatalogBrowser({
       </div>
 
       {panelOpen && (
-        <div className="-mx-4 max-h-[70vh] overflow-y-auto border-b border-line bg-paper px-4 pb-4 sm:-mx-6 sm:px-6">
+        <div className="-mx-4 border-b border-line bg-paper px-4 pb-4 sm:-mx-6 sm:px-6">
           {filterPanel}
         </div>
       )}
@@ -541,107 +658,84 @@ export function CatalogBrowser({
         </div>
       )}
 
-      {!listMode ? (
-        <div className="mt-4">
-          <Recommendations
-            locale={locale}
-            composers={composers}
-            initialWorks={initialWorks}
-          />
-          <div className="mx-auto max-w-6xl px-4 pb-2 text-center sm:px-6">
-            <Link
-              href={`/${locale}${writeFilters(EMPTY_FILTERS, sort, true)}`}
-              className="text-sm text-accent underline underline-offset-2"
+      <div className="mt-4">
+        <div className="mb-4 flex flex-wrap items-center gap-3">
+          <p
+            data-testid="result-count"
+            data-loaded={loaded}
+            className="mr-auto text-sm text-ink-soft"
+          >
+            {!loaded || results.length === totalCount
+              ? messages.catalog.resultCount.replace(
+                  "{count}",
+                  (loaded ? results.length : totalCount).toLocaleString(),
+                )
+              : messages.catalog.resultCountFiltered
+                  .replace("{count}", results.length.toLocaleString())
+                  .replace("{total}", totalCount.toLocaleString())}
+          </p>
+
+          <label className="flex items-center gap-2 text-sm text-ink-soft">
+            <span className="sr-only sm:not-sr-only">
+              {messages.catalog.sortLabel}
+            </span>
+            <select
+              value={sort}
+              onChange={(event) =>
+                update(effectiveFilters, event.target.value as SortKey)
+              }
+              className="rounded-md border border-line bg-paper px-2 py-1.5 text-sm text-ink"
             >
-              {messages.catalog.browseAll.replace(
-                "{count}",
-                totalCount.toLocaleString(),
-              )}
-            </Link>
-          </div>
+              <option value="recommended">{messages.catalog.sortRecommended}</option>
+              <option value="standard">{messages.catalog.sortStandard}</option>
+              <option value="title">{messages.catalog.sortTitle}</option>
+              <option value="composer">{messages.catalog.sortComposer}</option>
+            </select>
+          </label>
         </div>
-      ) : (
-        <div className="mt-4">
-          {activeCount === 0 && view && (
-            <Link
-              href={`/${locale}`}
-              className="mb-3 inline-block text-sm text-accent underline underline-offset-2"
-            >
-              ← {messages.catalog.backToDiscover}
-            </Link>
-          )}
-          <div className="mb-4 flex flex-wrap items-center gap-3">
-            <p data-testid="result-count" className="mr-auto text-sm text-ink-soft">
-              {!loaded || results.length === totalCount
-                ? messages.catalog.resultCount.replace(
-                    "{count}",
-                    (loaded ? results.length : totalCount).toLocaleString(),
-                  )
-                : messages.catalog.resultCountFiltered
-                    .replace("{count}", results.length.toLocaleString())
-                    .replace("{total}", totalCount.toLocaleString())}
+
+        {results.length === 0 ? (
+          <div className="rounded-lg border border-dashed border-line p-10 text-center">
+            <p className="text-ink-soft">{messages.filters.noResults}</p>
+            <p className="mt-1 text-sm text-ink-faint">
+              {messages.filters.noResultsHint}
             </p>
-
-            <label className="flex items-center gap-2 text-sm text-ink-soft">
-              <span className="sr-only sm:not-sr-only">
-                {messages.catalog.sortLabel}
-              </span>
-              <select
-                value={sort}
-                onChange={(event) =>
-                  update(effectiveFilters, event.target.value as SortKey)
-                }
-                className="rounded-md border border-line bg-paper px-2 py-1.5 text-sm text-ink"
-              >
-                <option value="standard">{messages.catalog.sortStandard}</option>
-                <option value="title">{messages.catalog.sortTitle}</option>
-                <option value="composer">{messages.catalog.sortComposer}</option>
-              </select>
-            </label>
           </div>
+        ) : (
+          <>
+            <WorkCardGrid>
+              {results.slice(0, visible).map((work, i) => (
+                <li key={work.id}>
+                  <WorkCard
+                    locale={locale}
+                    workId={work.id}
+                    title={locale === "ja" ? work.titleJa : work.title}
+                    secondaryTitle={locale === "ja" ? work.title : undefined}
+                    composerName={
+                      locale === "ja" ? work.composerNameJa : work.composerName
+                    }
+                    composerPortrait={work.composerPortrait}
+                    genre={work.genre}
+                    stars={work.stars}
+                    mediaMatch={matchedMediaTitle(work, effectiveFilters.query, locale)}
+                    note={reasons ? reasonNote(reasons[i], locale, composers) : undefined}
+                  />
+                </li>
+              ))}
+            </WorkCardGrid>
 
-          {results.length === 0 ? (
-            <div className="rounded-lg border border-dashed border-line p-10 text-center">
-              <p className="text-ink-soft">{messages.filters.noResults}</p>
-              <p className="mt-1 text-sm text-ink-faint">
-                {messages.filters.noResultsHint}
-              </p>
-            </div>
-          ) : (
-            <>
-              <WorkCardGrid>
-                {results.slice(0, visible).map((work) => (
-                  <li key={work.id}>
-                    <WorkCard
-                      locale={locale}
-                      workId={work.id}
-                      title={locale === "ja" ? work.titleJa : work.title}
-                      secondaryTitle={locale === "ja" ? work.title : undefined}
-                      composerName={
-                        locale === "ja" ? work.composerNameJa : work.composerName
-                      }
-                      composerPortrait={work.composerPortrait}
-                      genre={work.genre}
-                      stars={work.stars}
-                      mediaMatch={matchedMediaTitle(work, effectiveFilters.query, locale)}
-                    />
-                  </li>
-                ))}
-              </WorkCardGrid>
-
-              {visible < results.length && (
-                <button
-                  type="button"
-                  onClick={() => setVisible((count) => count + PAGE_SIZE)}
-                  className="mt-6 w-full rounded-md border border-line py-3 text-sm text-ink-soft hover:border-accent/40 hover:text-accent"
-                >
-                  {messages.filters.showMore}
-                </button>
-              )}
-            </>
-          )}
-        </div>
-      )}
+            {visible < results.length && (
+              <button
+                type="button"
+                onClick={() => setVisible((count) => count + PAGE_SIZE)}
+                className="mt-6 w-full rounded-md border border-line py-3 text-sm text-ink-soft hover:border-accent/40 hover:text-accent"
+              >
+                {messages.filters.showMore}
+              </button>
+            )}
+          </>
+        )}
+      </div>
     </PageContainer>
   );
 }

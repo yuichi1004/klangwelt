@@ -3,8 +3,9 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useCallback, useRef, useState } from "react";
 
+import { useModalOverlay } from "@/components/use-modal-overlay";
 import { writeStoredLocale } from "@/lib/backup";
 import { getMessages, LOCALES, LOCALE_LABELS, type Locale } from "@/i18n/config";
 
@@ -20,6 +21,8 @@ export function SiteHeader({ locale }: { locale: Locale }) {
   const messages = getMessages(locale);
   const pathname = usePathname() ?? `/${locale}`;
   const [menuOpen, setMenuOpen] = useState(false);
+  const headerRef = useRef<HTMLElement>(null);
+  const closeMenu = useCallback(() => setMenuOpen(false), []);
 
   const links = [
     { href: `/${locale}`, label: messages.nav.catalog },
@@ -31,30 +34,21 @@ export function SiteHeader({ locale }: { locale: Locale }) {
   const isActive = (href: string) =>
     href === `/${locale}` ? pathname === href : pathname.startsWith(href);
 
-  useEffect(() => {
-    if (!menuOpen) return;
-    const closeOnEscape = (event: KeyboardEvent) => {
-      if (event.key === "Escape") setMenuOpen(false);
-    };
-    document.addEventListener("keydown", closeOnEscape);
-    return () => document.removeEventListener("keydown", closeOnEscape);
-  }, [menuOpen]);
-
-  // Locks the background from scrolling behind the open dropdown, same as
-  // issue #108 asked for — no existing hook for this in the codebase, and
-  // there's only the one consumer, so it's inlined rather than extracted.
-  useEffect(() => {
-    if (!menuOpen) return;
-    const previousOverflow = document.body.style.overflow;
-    document.body.style.overflow = "hidden";
-    return () => {
-      document.body.style.overflow = previousOverflow;
-    };
-  }, [menuOpen]);
+  /* Escape, the background scroll lock (#108) and a Tab trap, all shared
+     with composer-browser.tsx's filter sheet since #109 — the two overlays
+     had drifted apart, with the sheet missing every one of them.
+     The trap's container is the whole <header>, not just the dropdown:
+     everything the scrim leaves interactive — the wordmark, the language
+     pills, the ☰ toggle and the dropdown itself — lives inside it, so that
+     is exactly the set a user can still see and reach. */
+  useModalOverlay(menuOpen, closeMenu, headerRef);
 
   return (
     <>
-      <header className="sticky top-0 z-30 border-b border-line bg-paper-raised/90 backdrop-blur">
+      <header
+        ref={headerRef}
+        className="sticky top-0 z-30 border-b border-line bg-paper-raised/90 backdrop-blur"
+      >
         <div className="mx-auto flex max-w-6xl items-center gap-3 px-4 py-3 sm:px-6">
           <Link
             href={`/${locale}`}
@@ -126,7 +120,7 @@ export function SiteHeader({ locale }: { locale: Locale }) {
               <Link
                 key={link.href}
                 href={link.href}
-                onClick={() => setMenuOpen(false)}
+                onClick={closeMenu}
                 aria-current={isActive(link.href) ? "page" : undefined}
                 className={`block rounded-md px-2 py-2.5 text-sm ${
                   isActive(link.href) ? "text-accent" : "text-ink-soft"
@@ -141,16 +135,18 @@ export function SiteHeader({ locale }: { locale: Locale }) {
 
       {/* Scrim behind the dropdown: grounds it against the page and doubles
           as "tap outside to close" (same pattern as composer-browser.tsx's
-          and catalog-browser.tsx's mobile filter sheets). z-[25]: above
-          catalog-browser.tsx's sticky search/filter bar (z-20 — same level
+          mobile filter sheet — the catalogue's filter panel is an inline
+          disclosure, not a sheet, since #118). z-[25]: above
+          catalog-browser.tsx's sticky search/filter row (z-20 — same level
           would let it paint over the scrim, since it comes later in the
           DOM) but below the header's own z-30, so the dropdown stays crisp
-          on top of it. */}
+          on top of it. The sheets themselves sit at z-40, above all of
+          it. */}
       {menuOpen && (
         <button
           type="button"
           aria-label={messages.nav.close}
-          onClick={() => setMenuOpen(false)}
+          onClick={closeMenu}
           className="fixed inset-0 z-[25] bg-black/40 sm:hidden"
         />
       )}

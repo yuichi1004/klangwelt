@@ -11,8 +11,12 @@ const filters = (overrides: Partial<CatalogFilters> = {}): CatalogFilters => ({
 const parse = (query: string) => readFilters(new URLSearchParams(query));
 
 describe("writeFilters / readFilters round-trip", () => {
-  it("produces an empty string for the default filters", () => {
-    expect(writeFilters(EMPTY_FILTERS, "standard")).toBe("");
+  it("produces an empty string for the default filters at the default sort", () => {
+    expect(writeFilters(EMPTY_FILTERS, "recommended")).toBe("");
+  });
+
+  it("writes 'standard' explicitly, since it is no longer the default", () => {
+    expect(writeFilters(EMPTY_FILTERS, "standard")).toBe("?sort=standard");
   });
 
   it("round-trips every field", () => {
@@ -27,31 +31,34 @@ describe("writeFilters / readFilters round-trip", () => {
     expect(readFilters(new URLSearchParams(query.replace(/^\?/, "")))).toEqual({
       filters: original,
       sort: "title",
-      view: false,
     });
   });
 
   it("is idempotent: writing the output of a read reproduces the same query", () => {
     const query = "?q=Beethoven&e=Baroque&g=Keyboard&stars=4&sort=composer";
-    const { filters: parsed, sort, view } = parse(query.replace(/^\?/, ""));
-    expect(writeFilters(parsed, sort, view)).toBe(query);
+    const { filters: parsed, sort } = parse(query.replace(/^\?/, ""));
+    expect(writeFilters(parsed, sort)).toBe(query);
+  });
+
+  it("round-trips every sort value, including the default", () => {
+    for (const sort of ["recommended", "standard", "title", "composer"] as const) {
+      const query = writeFilters(EMPTY_FILTERS, sort);
+      expect(parse(query.replace(/^\?/, "")).sort).toBe(sort);
+    }
   });
 });
 
-describe("?view=all", () => {
-  it("is false unless explicitly requested", () => {
-    expect(parse("").view).toBe(false);
-    expect(parse("view=everything").view).toBe(false);
+describe("legacy ?view=all", () => {
+  // The catalogue used to have a separate discovery feed, with `?view=all`
+  // as the way into the full list. Now there is only one view, so `view` is
+  // just another unrecognised key — dropped like any other, the same way
+  // `sanitizeQueryString` already drops `//evil.com`.
+  it("is dropped by sanitizeQueryString", () => {
+    expect(sanitizeQueryString("?view=all")).toBe("");
   });
 
-  it("round-trips through write and read", () => {
-    const query = writeFilters(EMPTY_FILTERS, "standard", true);
-    expect(query).toBe("?view=all");
-    expect(parse("view=all").view).toBe(true);
-  });
-
-  it("survives sanitizeQueryString alongside other filters", () => {
-    expect(sanitizeQueryString("?e=Baroque&view=all")).toBe("?e=Baroque&view=all");
+  it("is dropped alongside real filters, which survive", () => {
+    expect(sanitizeQueryString("?e=Baroque&view=all")).toBe("?e=Baroque");
   });
 });
 
@@ -62,10 +69,14 @@ describe("readFilters validation", () => {
     expect(parsed.genres).toEqual([]);
   });
 
+  it("defaults to 'recommended' for an empty query", () => {
+    expect(parse("").sort).toBe("recommended");
+  });
+
   it("falls back to safe defaults for an invalid star count or sort", () => {
     const { filters: parsed, sort } = parse("stars=lol&sort=xyz");
     expect(parsed.minStars).toBe(0);
-    expect(sort).toBe("standard");
+    expect(sort).toBe("recommended");
   });
 
   it("rejects a star value outside the filterable set", () => {
@@ -96,6 +107,17 @@ describe("legacy ?pop= links", () => {
 
   it("prefers the new stars= param when both are present", () => {
     expect(parse("stars=5&pop=recommended").filters.minStars).toBe(5);
+  });
+});
+
+describe("legacy ?sort=popular links", () => {
+  it("maps to 'standard', its pre-★ meaning, rather than the new default", () => {
+    expect(parse("sort=popular").sort).toBe("standard");
+  });
+
+  it("never writes sort=popular again, even when it read one", () => {
+    const { filters: parsed, sort } = parse("sort=popular");
+    expect(writeFilters(parsed, sort)).toBe("?sort=standard");
   });
 });
 

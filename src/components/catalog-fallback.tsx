@@ -1,11 +1,8 @@
-import Link from "next/link";
-
 import { PageContainer } from "@/components/page-container";
 import { WorkCard } from "@/components/work-card";
 import { WorkCardGrid } from "@/components/work-card-grid";
 import { getMessages, type Locale } from "@/i18n/config";
-import { EMPTY_FILTERS, type SearchableWork } from "@/lib/catalog";
-import { writeFilters } from "@/lib/catalog-url";
+import type { SearchableWork } from "@/lib/catalog";
 
 /**
  * The non-interactive view of the catalogue, used as the Suspense fallback
@@ -13,9 +10,11 @@ import { writeFilters } from "@/lib/catalog-url";
  *
  * `CatalogBrowser` reads the query string with `useSearchParams`, which Next
  * requires to sit inside a Suspense boundary. This fallback mirrors what a
- * plain visit (no search, no filters) shows once hydrated — the discovery
- * feed, top of the standard-repertoire ranking — so the exported HTML still
- * ships real content for crawlers and for first paint, instead of a spinner.
+ * plain visit (no search, no filters) shows once hydrated — the results
+ * list in standard-repertoire order, which is also what the hydrated
+ * おすすめ順 (the default sort) shows until the client index and favourites
+ * are both ready — so the exported HTML still ships real content for
+ * crawlers and for first paint, instead of a spinner.
  */
 export function CatalogFallback({
   locale,
@@ -42,8 +41,19 @@ export function CatalogFallback({
       </div>
 
       <div className="mt-4">
+        {/* Static duplicate of `CatalogBrowser`'s result-count line, minus
+            `data-testid="result-count"` — several e2e tests use that locator
+            as their "the app has hydrated" checkpoint, and a static copy
+            carrying the same text would let those checks pass before
+            hydration even starts. */}
+        <p className="mb-4 text-sm text-ink-soft">
+          {messages.catalog.resultCount.replace(
+            "{count}",
+            totalCount.toLocaleString(),
+          )}
+        </p>
         <WorkCardGrid>
-          {works.slice(0, 12).map((work) => (
+          {works.map((work) => (
             <li key={work.id}>
               <WorkCard
                 locale={locale}
@@ -60,17 +70,6 @@ export function CatalogFallback({
             </li>
           ))}
         </WorkCardGrid>
-        <div className="mt-6 text-center">
-          <Link
-            href={`/${locale}${writeFilters(EMPTY_FILTERS, "standard", true)}`}
-            className="text-sm text-accent underline underline-offset-2"
-          >
-            {messages.catalog.browseAll.replace(
-              "{count}",
-              totalCount.toLocaleString(),
-            )}
-          </Link>
-        </div>
       </div>
     </PageContainer>
   );

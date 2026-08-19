@@ -1,8 +1,8 @@
 /**
- * "Next thing to listen to" for the homepage, computed entirely client-side
- * from a visitor's favourites — no server, no precomputed artefact. Pure
- * logic only; I/O (favourites, localStorage, the visit seed) is the caller's
- * job, same split as `./popularity`.
+ * "Next thing to listen to", computed entirely client-side from a visitor's
+ * favourites — no server, no precomputed artefact. Pure logic only; I/O
+ * (favourites, localStorage, the visit seed) is the caller's job, same split
+ * as `./popularity`.
  *
  * The weights below are not tuned by feel. `POPULARITY_WEIGHT` is the
  * midpoint of the interval that keeps four orderings correct at once — see
@@ -21,7 +21,6 @@
  */
 import type { SearchableWork } from "./catalog";
 import type { Epoch, Genre } from "./epochs";
-import { compareByStandard } from "./popularity";
 
 /** How much a favourite's contribution fades per position further back in
  *  the newest-first list. Harmonic, not exponential, so an old favourite
@@ -35,49 +34,31 @@ export const POPULARITY_WEIGHT = 1.2;
 export const MAX_AFFINITY_SCORE =
   COMPOSER_WEIGHT + EPOCH_WEIGHT + GENRE_WEIGHT + POPULARITY_WEIGHT;
 
-/**
- * A work is a candidate only if it clears this floor, unless its composer is
- * itself a favourite. No coefficient choice in the interval above stops an
- * unrelated ★1 from occasionally outranking a real match — this filter is
- * what actually keeps ★1s out, while still surfacing an favourite composer's
- * deep cuts.
- */
-export const MIN_CANDIDATE_STARS = 2;
-
-/**
- * `POOL_SIZE / POOL_PER_COMPOSER = 16 >= DEFAULT_COUNT`, so the pool always
- * spans enough composers to fill a selection — provable from the constants
- * alone, not just true on today's catalogue. Without the per-composer cap, a
- * favourite whose composer has many works (Mozart: 41) fills the pool almost
- * entirely with that composer, and the uniqueness rule then starves the
- * selection down to two or three works instead of six.
- */
-export const POOL_SIZE = 48;
-export const POOL_PER_COMPOSER = 3;
-
 /** Keeps every sampling weight strictly positive. */
 export const WEIGHT_FLOOR = 0.5;
 
 /**
- * Applied to the *sampling weight*, after the pool is fixed — never to the
- * score used to build the pool. Penalising before the pool cut can drop the
- * top-ranked work out of the pool entirely, which turns "penalty" into a de
- * facto exclusion; applying it only to sampling keeps every pool member
- * reachable while still favouring what hasn't been shown.
+ * Sampling-weight exponent, applied only in `rankByTaste`.
+ *
+ * `rankByTaste` orders the whole catalogue, so it has no `MIN_CANDIDATE_STARS`
+ * floor to keep ★1 works out — every work has to appear somewhere in the
+ * list. This is what replaces that filter: not an exclusion, a steeper odds
+ * ratio between the best- and worst-scoring work (3.4x at the linear weight,
+ * 39x at the cube), which is enough to bring the expected number of ★1 works
+ * in the first `PAGE_SIZE` (40) cards under `EMPTY_PROFILE` from ~7.9 down to
+ * ~1.6 (measured against the shipped index).
  */
-export const RECENT_PENALTY = 0.35;
+export const TASTE_TILT = 3;
 
 /** Affinity floor for a dimension to be worth citing as the reason. */
 export const REASON_MIN_AFFINITY = 0.5;
-
-export const DEFAULT_COUNT = 6;
 
 /** Per-dimension affinity, each normalised so its strongest entry is 1. */
 export interface TasteProfile {
   composers: Readonly<Record<string, number>>;
   epochs: Readonly<Partial<Record<Epoch, number>>>;
   genres: Readonly<Partial<Record<Genre, number>>>;
-  /** The ids this was built from. `recommend` always withholds these. */
+  /** The ids this was built from. */
   workIds: readonly string[];
 }
 
@@ -104,16 +85,6 @@ export type RecommendReason =
 export interface Recommendation {
   work: SearchableWork;
   reason: RecommendReason;
-}
-
-export interface RecommendOptions {
-  /** Any 32-bit integer. Same seed and inputs -> same array. */
-  seed: number;
-  count?: number;
-  /** Extra ids to withhold; `profile.workIds` is always withheld too. */
-  exclude?: Iterable<string>;
-  /** Demoted, never excluded — see `RECENT_PENALTY`. */
-  recentlyShown?: Iterable<string>;
 }
 
 function normalizeRecord<K extends string>(
@@ -192,50 +163,6 @@ export function explain(
   return { kind: "popular" };
 }
 
-interface ScoredWork {
-  work: SearchableWork;
-  score: number;
-}
-
-function byScoreDesc(a: ScoredWork, b: ScoredWork): number {
-  return compareByStandard(
-    { score: a.score, title: a.work.title, id: a.work.id },
-    { score: b.score, title: b.work.title, id: b.work.id },
-  );
-}
-
-/**
- * The score-sorted candidate pool, capped per composer so the pool cannot
- * collapse into one favourite composer's back catalogue. Unpenalised by
- * `recentlyShown` — that only ever adjusts sampling weight, below.
- */
-function buildPool(
-  works: readonly SearchableWork[],
-  profile: TasteProfile,
-  withheld: ReadonlySet<string>,
-): ScoredWork[] {
-  const scored = works
-    .filter((work) => !withheld.has(work.id))
-    .filter(
-      (work) =>
-        work.stars >= MIN_CANDIDATE_STARS ||
-        (profile.composers[work.composerId] ?? 0) > 0,
-    )
-    .map((work) => ({ work, score: scoreWork(work, profile) }))
-    .sort(byScoreDesc);
-
-  const pool: ScoredWork[] = [];
-  const perComposer = new Map<string, number>();
-  for (const entry of scored) {
-    const used = perComposer.get(entry.work.composerId) ?? 0;
-    if (used >= POOL_PER_COMPOSER) continue;
-    perComposer.set(entry.work.composerId, used + 1);
-    pool.push(entry);
-    if (pool.length >= POOL_SIZE) break;
-  }
-  return pool;
-}
-
 /** mulberry32 — small, seedable, dependency-free. The only reason it exists
  *  is so "same seed -> same result" is testable; `Math.random()` cannot be. */
 function mulberry32(seed: number): () => number {
@@ -249,55 +176,124 @@ function mulberry32(seed: number): () => number {
 }
 
 /**
- * Length is exactly `min(count, poolSize)`; at most one work per composer
- * unless the pool cannot supply `count` distinct composers.
+ * FNV-1a over the work id, folded into the sampling draw in `rankByTaste`.
+ *
+ * `rankByTaste` re-runs on a differently-filtered slice of the catalogue on
+ * every keystroke of a search. Drawing straight from a per-call `mulberry32`
+ * stream — one `rng()` call per work, in array order — would make a work's
+ * draw depend on *where it sits in that call's input array*, so narrowing
+ * `cho` to `chop` would reshuffle every surviving work instead of just
+ * dropping the ones that stopped matching. Hashing the id and mixing it into
+ * the seed makes the draw a property of the work itself, independent of
+ * input order or size — filtering is then a subsequence of one global
+ * permutation, not a fresh shuffle every time.
  */
-export function recommend(
+function hashId(id: string): number {
+  let hash = 0x811c9dc5;
+  for (let index = 0; index < id.length; index++) {
+    hash ^= id.charCodeAt(index);
+    hash = Math.imul(hash, 0x01000193);
+  }
+  return hash >>> 0;
+}
+
+interface Keyed {
+  work: SearchableWork;
+  reason: RecommendReason;
+  key: number;
+}
+
+/** How many emitted slots back a composer must clear before it can repeat.
+ *  See `spreadByComposer`. */
+const MIN_COMPOSER_GAP = 8;
+
+/**
+ * Spreads repeats of the same composer at least `MIN_COMPOSER_GAP` slots
+ * apart, disturbing `keyed`'s relative order as little as possible.
+ *
+ * The generalisation of `recommend()`'s "one work per composer" rule to a
+ * full-length list: a hard one-per-list rule would mean a favourite
+ * composer's second-best work is over a thousand slots away, which is a
+ * worse reading experience than the occasional near-repeat a soft gap
+ * allows.
+ *
+ * A single forward-looking buffer of size `gap + 1` is enough: at each
+ * output slot, take the earliest buffered entry whose composer has not
+ * appeared in the last `gap` emitted slots, then refill the buffer from
+ * `keyed`. If every buffered entry is blocked, the buffer — being only
+ * `gap + 1` entries — is entirely composers seen in the last `gap` slots,
+ * which can only happen when fewer than `gap` distinct composers remain in
+ * the rest of the list; no ordering could satisfy the gap there anyway, so
+ * fall through to the earliest buffered entry. O(n · gap).
+ */
+function spreadByComposer(keyed: readonly Keyed[]): Keyed[] {
+  const buffer: Keyed[] = [];
+  const lastSeenAt = new Map<string, number>();
+  const output: Keyed[] = [];
+  let cursor = 0;
+
+  const refill = () => {
+    while (buffer.length < MIN_COMPOSER_GAP + 1 && cursor < keyed.length) {
+      buffer.push(keyed[cursor]);
+      cursor++;
+    }
+  };
+
+  refill();
+  while (buffer.length > 0) {
+    let pick = 0;
+    for (let index = 0; index < buffer.length; index++) {
+      const lastSeen = lastSeenAt.get(buffer[index].work.composerId);
+      if (lastSeen === undefined || output.length - lastSeen > MIN_COMPOSER_GAP) {
+        pick = index;
+        break;
+      }
+    }
+    const [entry] = buffer.splice(pick, 1);
+    lastSeenAt.set(entry.work.composerId, output.length);
+    output.push(entry);
+    refill();
+  }
+
+  return output;
+}
+
+export interface RankOptions {
+  /** Any 32-bit integer. Same seed and inputs -> same array. */
+  seed: number;
+}
+
+/**
+ * The whole list, ordered by taste. Unlike a fixed-size recommendation strip
+ * this withholds nothing — not a favourite, not a ★1 — every work in `works`
+ * appears exactly once in the output, because this *is* the results list,
+ * not a strip beside one.
+ *
+ * Generalises the same weighted race `recommend()` used to build a strip:
+ * `key = -Math.log(1 - rng()) / weight` for every candidate, sorted
+ * ascending, is a weighted random permutation (Efraimidis-Spirakis), so
+ * taking a prefix of it is exactly what a fixed-size strip wants. Ordering
+ * *all* of it is the natural generalisation — see `hashId` for why the
+ * `rng()` draw is keyed by work id rather than consumed positionally, and
+ * `spreadByComposer` for the composer-diversity pass this sort feeds into.
+ */
+export function rankByTaste(
   works: readonly SearchableWork[],
   profile: TasteProfile,
-  options: RecommendOptions,
+  options: RankOptions,
 ): Recommendation[] {
-  const count = options.count ?? DEFAULT_COUNT;
-  const withheld = new Set(profile.workIds);
-  if (options.exclude) for (const id of options.exclude) withheld.add(id);
-  const recentlyShown = new Set(options.recentlyShown ?? []);
+  const keyed: Keyed[] = works.map((work) => {
+    const weight = Math.pow(scoreWork(work, profile) + WEIGHT_FLOOR, TASTE_TILT);
+    const unit = mulberry32((options.seed ^ hashId(work.id)) >>> 0)();
+    const key = -Math.log(1 - unit) / weight;
+    return { work, reason: explain(work, profile), key };
+  });
 
-  const pool = buildPool(works, profile, withheld);
-  if (pool.length === 0) return [];
+  // A total order: `Array.prototype.sort` is stable, so without the id
+  // tie-break, exactly-equal keys (rare, but `weight` and `unit` are both
+  // finite-precision) would fall back to input order and reintroduce the
+  // position dependency `hashId` exists to remove.
+  keyed.sort((a, b) => a.key - b.key || a.work.id.localeCompare(b.work.id));
 
-  const rng = mulberry32(options.seed);
-  // Weighted, non-uniform sampling (Efraimidis-Spirakis via an exponential
-  // race): a plain shuffle would ignore the quality gradient inside the
-  // pool and give a favourite composer's best-matching work no better odds
-  // than the pool's weakest entry.
-  const keyed = pool
-    .map((entry) => {
-      const penalty = recentlyShown.has(entry.work.id) ? RECENT_PENALTY : 1;
-      const weight = (entry.score + WEIGHT_FLOOR) * penalty;
-      return { entry, key: -Math.log(1 - rng()) / weight };
-    })
-    .sort((a, b) => a.key - b.key);
-
-  const picked: Recommendation[] = [];
-  const usedComposers = new Set<string>();
-  for (const { entry } of keyed) {
-    if (picked.length >= count) break;
-    if (usedComposers.has(entry.work.composerId)) continue;
-    usedComposers.add(entry.work.composerId);
-    picked.push({ work: entry.work, reason: explain(entry.work, profile) });
-  }
-
-  // Degenerate case only (pool smaller than count / too few composers):
-  // relax uniqueness rather than returning fewer than the pool can supply.
-  if (picked.length < count) {
-    const pickedIds = new Set(picked.map((r) => r.work.id));
-    for (const { entry } of keyed) {
-      if (picked.length >= count) break;
-      if (pickedIds.has(entry.work.id)) continue;
-      pickedIds.add(entry.work.id);
-      picked.push({ work: entry.work, reason: explain(entry.work, profile) });
-    }
-  }
-
-  return picked;
+  return spreadByComposer(keyed).map(({ work, reason }) => ({ work, reason }));
 }
