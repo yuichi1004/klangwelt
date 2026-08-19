@@ -176,13 +176,138 @@ test.describe("composer list responsive layout", () => {
     await expect(page.getByRole("heading", { name: "絞り込み" })).toBeHidden();
 
     await page.getByRole("button", { name: /^絞り込み/ }).click();
+    const sheet = page.getByRole("dialog", { name: "絞り込み" });
+    await expect(sheet).toBeVisible();
     await expect(page.getByRole("heading", { name: "絞り込み" })).toBeVisible();
 
     await page.getByRole("button", { name: "バロック" }).click();
     await expect(page).toHaveURL(/e=Baroque/);
 
-    await page.getByRole("button", { name: "閉じる" }).last().click();
+    await sheet.getByRole("button", { name: "閉じる" }).click();
+    await expect(sheet).toBeHidden();
     await expect(page.getByRole("heading", { name: "絞り込み" })).toBeHidden();
+  });
+});
+
+/**
+ * The modal behaviour #109 asked for: Escape, a focus trap, a background
+ * scroll lock, and a header/CTA that stay put while the filters inside
+ * scroll. Modelled on `e2e/glossary.spec.ts`'s "mobile bottom sheet" block,
+ * the other consumer of the same shape.
+ */
+test.describe("composer filter sheet modal behaviour", () => {
+  test.skip(({ isMobile }) => !isMobile, "mobile-only layout");
+
+  test("Escape closes the sheet and returns focus to the 絞り込み button", async ({
+    page,
+  }) => {
+    await page.goto("/ja/composers");
+    const toggle = page.getByRole("button", { name: /^絞り込み/ });
+    await toggle.click();
+    const sheet = page.getByRole("dialog", { name: "絞り込み" });
+    await expect(sheet).toBeVisible();
+
+    await page.keyboard.press("Escape");
+    await expect(sheet).toBeHidden();
+    await expect(toggle).toBeFocused();
+  });
+
+  test("focus starts inside the sheet and Tab cannot leave it", async ({
+    page,
+  }) => {
+    await page.goto("/ja/composers");
+    await page.getByRole("button", { name: /^絞り込み/ }).click();
+    await expect(page.getByRole("dialog", { name: "絞り込み" })).toBeVisible();
+
+    const containedInDialog = () =>
+      page.evaluate(() =>
+        document
+          .querySelector('[role="dialog"]')
+          ?.contains(document.activeElement),
+      );
+
+    await expect.poll(containedInDialog).toBe(true);
+    for (let i = 0; i < 15; i++) {
+      await page.keyboard.press("Tab");
+    }
+    await expect.poll(containedInDialog).toBe(true);
+  });
+
+  test("the page behind the sheet does not scroll", async ({ page }) => {
+    await page.goto("/ja/composers");
+    await page.getByRole("button", { name: /^絞り込み/ }).click();
+    const sheet = page.getByRole("dialog", { name: "絞り込み" });
+    await expect(sheet).toBeVisible();
+
+    await expect
+      .poll(() => page.evaluate(() => document.body.style.overflow))
+      .toBe("hidden");
+    await page.mouse.wheel(0, 600);
+    expect(await page.evaluate(() => window.scrollY)).toBe(0);
+
+    await sheet.getByRole("button", { name: "閉じる" }).click();
+    await expect(sheet).toBeHidden();
+    await expect
+      .poll(() => page.evaluate(() => document.body.style.overflow))
+      .toBe("");
+  });
+
+  test("the heading and the CTA stay put while the filters scroll", async ({
+    page,
+  }) => {
+    await page.goto("/ja/composers");
+    await page.getByRole("button", { name: /^絞り込み/ }).click();
+    const sheet = page.getByRole("dialog", { name: "絞り込み" });
+    const heading = sheet.getByRole("heading", { name: "絞り込み" });
+    const cta = sheet.getByRole("button", { name: /^\d+名を表示$/ });
+    await expect(heading).toBeInViewport();
+    await expect(cta).toBeInViewport();
+
+    await sheet.locator(".overflow-y-auto").evaluate((el) => {
+      el.scrollTop = el.scrollHeight;
+    });
+
+    await expect(heading).toBeInViewport();
+    await expect(cta).toBeInViewport();
+  });
+
+  // At most one — never the nested pair #109 complained about. Composer
+  // filters alone (unlike the catalogue's, which also lists ~220 composers)
+  // are short enough that the sheet may not need to scroll at all on a
+  // tall-enough phone, so "at most 1" rather than "exactly 1".
+  test("the sheet has at most one scrolling region", async ({ page }) => {
+    await page.goto("/ja/composers");
+    await page.getByRole("button", { name: /^絞り込み/ }).click();
+    const sheet = page.getByRole("dialog", { name: "絞り込み" });
+    await expect(sheet).toBeVisible();
+
+    const scrollerCount = await sheet.evaluate((dialog) => {
+      const all = dialog.querySelectorAll("*");
+      let count = 0;
+      for (const el of all) {
+        const style = getComputedStyle(el);
+        const scrollable =
+          style.overflowY === "auto" || style.overflowY === "scroll";
+        if (scrollable && el.scrollHeight > el.clientHeight) count++;
+      }
+      return count;
+    });
+    expect(scrollerCount).toBeLessThanOrEqual(1);
+  });
+
+  test("the primary action reads as an action, and closes the sheet", async ({
+    page,
+  }) => {
+    await page.goto("/ja/composers");
+    await page.getByRole("button", { name: /^絞り込み/ }).click();
+    const sheet = page.getByRole("dialog", { name: "絞り込み" });
+    const cta = sheet.getByRole("button", { name: /^\d+名を表示$/ });
+    await expect(cta).toBeVisible();
+
+    const urlBefore = page.url();
+    await cta.click();
+    await expect(sheet).toBeHidden();
+    expect(page.url()).toBe(urlBefore);
   });
 });
 

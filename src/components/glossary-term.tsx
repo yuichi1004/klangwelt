@@ -9,11 +9,12 @@ import type { GlossaryEntry } from "@/lib/glossary";
  * A single 専門用語 Tips trigger: the underlined word in running prose plus
  * its popup. Desktop (`lg` and up) gets a small card positioned under the
  * word; narrower viewports get a bottom sheet, matching the look and the
- * close affordances of the catalogue/composer filter panels' mobile sheet
- * (`catalog-browser.tsx` / `composer-browser.tsx`) so the site's "sheet"
- * pattern stays singular. Both variants are always in the DOM when open and
- * switched with the `lg:` breakpoint, the same technique those filter
- * panels use, rather than a JS media query — it needs no client-only
+ * close affordances of the composer filter panel's mobile sheet
+ * (`composer-browser.tsx` — the catalogue's filter panel is an inline
+ * disclosure, not a sheet, since #118) so the site's "sheet" pattern stays
+ * singular. Both variants are always in the DOM when open and
+ * switched with the `lg:` breakpoint, the same technique that filter
+ * panel uses, rather than a JS media query — it needs no client-only
  * viewport check and cannot mismatch between server and client render.
  *
  * `<span>`, never `<div>`, for every wrapper here: the trigger sits inside

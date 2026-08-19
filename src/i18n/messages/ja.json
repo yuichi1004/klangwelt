@@ -47,15 +47,15 @@
     "resultCountFiltered": "{count}曲 / 全{total}曲",
     "mediaMatch": "映像作品: {title}",
     "sortLabel": "並び順",
+    "sortRecommended": "おすすめ順",
     "sortStandard": "定番度順",
     "sortTitle": "曲名順",
-    "sortComposer": "作曲家順",
-    "browseAll": "全{count}曲を見る",
-    "backToDiscover": "発見に戻る"
+    "sortComposer": "作曲家順"
   },
   "composers": {
     "resultCount": "{count}名",
-    "resultCountFiltered": "{count}名 / 全{total}名"
+    "resultCountFiltered": "{count}名 / 全{total}名",
+    "showResults": "{count}名を表示"
   },
   "media": {
     "heading": "映像作品から探す",
@@ -156,9 +156,7 @@
   },
   "discover": {
     "reason": {
-      "composer": "{name} が好きなら",
-      "epoch": "{label} をもっと",
-      "genre": "{label} から"
+      "composer": "{name} が好きなら"
     }
   },
   "credits": {

@@ -1,7 +1,14 @@
 "use client";
 
 import { useRouter, useSearchParams } from "next/navigation";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import {
+  useCallback,
+  useEffect,
+  useId,
+  useMemo,
+  useRef,
+  useState,
+} from "react";
 
 import { ComposerGrid } from "@/components/composer-grid";
 import {
@@ -12,6 +19,7 @@ import {
   toggleIn,
 } from "@/components/filter-controls";
 import { PageContainer } from "@/components/page-container";
+import { useModalOverlay } from "@/components/use-modal-overlay";
 import { getMessages, type Locale } from "@/i18n/config";
 import type { ComposerCard } from "@/lib/catalog";
 import {
@@ -60,6 +68,28 @@ export function ComposerBrowser({
   );
 
   const [panelOpen, setPanelOpen] = useState(false);
+  const sheetRef = useRef<HTMLDivElement>(null);
+  const sheetHeadingId = useId();
+  const closePanel = useCallback(() => setPanelOpen(false), []);
+
+  // Escape, the Tab trap, the scroll lock behind the sheet and focus back on
+  // the 絞り込み button when it closes — all of #109's modal behaviour,
+  // shared with the header menu (`use-modal-overlay.ts`).
+  useModalOverlay(panelOpen, closePanel, sheetRef);
+
+  // The sheet is `lg:hidden`, so a rotate/resize past `lg` would leave
+  // `panelOpen` true with nothing on screen — and the page behind still
+  // locked by `useModalOverlay`. Close it instead of trying to keep an
+  // invisible modal coherent.
+  useEffect(() => {
+    if (!panelOpen) return;
+    const wide = window.matchMedia("(min-width: 64rem)");
+    const closeIfWide = () => {
+      if (wide.matches) setPanelOpen(false);
+    };
+    wide.addEventListener("change", closeIfWide);
+    return () => wide.removeEventListener("change", closeIfWide);
+  }, [panelOpen]);
 
   /*
    * The search text lives here rather than being read back out of the URL —
@@ -360,37 +390,88 @@ export function ComposerBrowser({
       </div>
 
       {panelOpen && (
-        <div className="fixed inset-0 z-40 lg:hidden">
+        /* A real modal, not a floating div (#109): `useModalOverlay` traps
+           Tab inside the dialog, locks the page behind it and routes
+           Escape to `closePanel`. The scrim stays a labelled <button> so a
+           tap outside closes it, and it is deliberately *outside* the
+           dialog and therefore outside the trap — a full-screen button in
+           the tab order is noise, and keyboard users have Escape and
+           閉じる. */
+        <div className="fixed inset-0 z-40 flex flex-col justify-end lg:hidden">
           <button
             type="button"
             aria-label={messages.nav.close}
-            onClick={() => setPanelOpen(false)}
+            onClick={closePanel}
             className="absolute inset-0 bg-black/40"
           />
-          <div className="absolute inset-x-0 bottom-0 max-h-[85vh] overflow-y-auto rounded-t-2xl border-t border-line bg-paper p-5">
-            <div className="mb-4 flex items-center">
-              <h2 className="mr-auto text-sm font-semibold text-ink">
-                {messages.filters.heading}
-              </h2>
+
+          {/* `flex flex-col` here plus `min-h-0 flex-1` on the middle is
+              what keeps the handle, the heading and the CTA on screen while
+              the filters scroll. `min-h-0` is not optional: a flex child
+              refuses to shrink below its content height by default, so
+              without it the filter list pushes the CTA off the bottom
+              edge — the same "no persistent way to close" the sheet had
+              before (#109).
+              `85dvh` rather than `85vh`: with mobile Safari's URL bar
+              showing, `vh` measures the *large* viewport and the sheet's
+              last row ends up under the browser chrome. */}
+          <div
+            ref={sheetRef}
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby={sheetHeadingId}
+            tabIndex={-1}
+            className="relative flex max-h-[85dvh] flex-col rounded-t-2xl border-t border-line bg-paper"
+          >
+            <div className="shrink-0 px-5 pt-2.5">
+              {/* Decorative: the sheet is not draggable. The pill is the
+                  convention that makes it read as something that came up
+                  from the bottom edge rather than a card that landed
+                  there. */}
+              <span
+                aria-hidden="true"
+                className="mx-auto mb-3 block h-1 w-9 rounded-full bg-line"
+              />
+              <div className="flex items-center pb-3">
+                <h2
+                  id={sheetHeadingId}
+                  className="mr-auto text-sm font-semibold text-ink"
+                >
+                  {messages.filters.heading}
+                </h2>
+                <button
+                  type="button"
+                  onClick={closePanel}
+                  className="rounded-md border border-line px-3 py-1.5 text-sm text-ink-soft"
+                >
+                  {messages.nav.close}
+                </button>
+              </div>
+            </div>
+
+            {/* The sheet's only scrolling region. `overscroll-contain` is
+                the half of the scroll lock that `overflow: hidden` on
+                <body> does not cover on iOS Safari: a flick that runs past
+                the end of this box otherwise carries on into the page
+                behind it. */}
+            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain px-5 py-1">
+              {filterPanel}
+            </div>
+
+            {/* Pinned, so the way out is always one tap away no matter how
+                far the filters are scrolled. */}
+            <div className="shrink-0 border-t border-line px-5 pb-5 pt-4">
               <button
                 type="button"
-                onClick={() => setPanelOpen(false)}
-                className="rounded-md border border-line px-3 py-1.5 text-sm text-ink-soft"
+                onClick={closePanel}
+                className="w-full rounded-full bg-accent-fill py-3.5 text-sm font-semibold text-accent-ink"
               >
-                {messages.nav.close}
+                {messages.composers.showResults.replace(
+                  "{count}",
+                  results.length.toLocaleString(),
+                )}
               </button>
             </div>
-            {filterPanel}
-            <button
-              type="button"
-              onClick={() => setPanelOpen(false)}
-              className="mt-6 w-full rounded-full bg-accent-fill py-3.5 text-sm font-semibold text-accent-ink"
-            >
-              {messages.composers.resultCount.replace(
-                "{count}",
-                results.length.toLocaleString(),
-              )}
-            </button>
           </div>
         </div>
       )}

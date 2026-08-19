@@ -47,15 +47,15 @@
     "resultCountFiltered": "{count} of {total} works",
     "mediaMatch": "Featured in {title}",
     "sortLabel": "Sort",
+    "sortRecommended": "Recommended",
     "sortStandard": "Standard repertoire",
     "sortTitle": "Title",
-    "sortComposer": "Composer",
-    "browseAll": "Browse all {count} works",
-    "backToDiscover": "Back to discovery"
+    "sortComposer": "Composer"
   },
   "composers": {
     "resultCount": "{count} composers",
-    "resultCountFiltered": "{count} of {total} composers"
+    "resultCountFiltered": "{count} of {total} composers",
+    "showResults": "Show {count} composers"
   },
   "media": {
     "heading": "Browse by film and TV",
@@ -156,9 +156,7 @@
   },
   "discover": {
     "reason": {
-      "composer": "If you like {name}",
-      "epoch": "More from the {label}",
-      "genre": "From your {label} favourites"
+      "composer": "If you like {name}"
     }
   },
   "credits": {
