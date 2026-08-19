@@ -252,6 +252,48 @@ npm test              # src/lib/nationality.test.ts が data/nationalities.json 
 npm run seed:catalog   # data/catalog/composers.json に反映。エラーがあればここで止まる
 ```
 
+## 作曲家どうしの関係を追加する（`data/relations.json`）
+
+作曲家プロフィールページの「関連する作曲家」セクションに使うデータです。**★の定番度と違い、全員分の登録は必須ではありません。** エントリの無い作曲家はセクションごと表示されないだけで、ビルドも落ちません。一方で、**存在するエントリの形式ミスはビルド失敗になります**（`src/lib/relations.ts` がモジュール読み込み時に検証し、失敗すると `next build` がそこで止まります）。
+
+関係は2者間の「辺」なので、id をキーにしたオブジェクトではなく `relations` 配列です。
+
+```json
+{
+  "relations": [
+    {
+      "composers": ["208", "145"],
+      "names": ["Haydn", "Beethoven"],
+      "type": "teacher",
+      "note": {
+        "ja": "1792年にウィーンへ出たベートーヴェンは、ハイドンに約1年間対位法を学んだ。",
+        "en": "Beethoven studied counterpoint with Haydn for about a year after arriving in Vienna in 1792."
+      }
+    }
+  ]
+}
+```
+
+- `composers` は作曲家 id のタプルです。`names` はそれと同じ順の Open Opus 短名（`Composer.name`）で、id の打ち間違い検出用の照合値です（`nationalities.json` の `name` と同じ仕組み）。
+- `type` は `teacher` / `influence` / `friend` / `rival` / `family` / `collaborator` のいずれかです。**`composers[0]` は常に「した側・与えた側」です**: `type: "teacher"` の `["208", "145"]` は「208番（ハイドン）が145番（ベートーヴェン）を教えた」と読みます。`friend` / `rival` / `family` / `collaborator` は対称な関係なので順序に意味はありません。プロフィールページのラベルは見る側によって自動的に反転します — ベートーヴェンのページでは「師: ハイドン」、ハイドンのページでは「弟子: ベートーヴェン」と表示されます。
+- **1つのペアにつき登録できる関係は1件だけです。** 逆順で登録すること（`["145","208"]` を別エントリとして足すこと）も、同じペアに別の `type` を足すこともできません。同じ2人に複数の側面がある場合（例: 友人でもあり影響も与えた）は、最も本質的な1つを選び、他のニュアンスは `note` に書いてください。
+- `note` は `ja`/`en` 両方必須です。字数の上限があり（`src/lib/relations.ts` の `MAX_NOTE_LENGTH`、日本語80字・英語200字）、超えるとビルドが落ちます。ラベル（「対立」など）だけでは何が対立なのかが伝わらないため、`note` は省略できません。
+
+### 史実の確度（最重要）
+
+- **俗説を書かないでください。** モーツァルトとサリエリの毒殺伝説のような伝承は入れません。事実として裏の取れる関係だけを登録してください。
+- `rival` は特に注意してください。「当人同士の確執」なのか「支持者・批評家どうしが戦わせた美学上の対立」なのかを `note` で書き分けてください。
+- Wikipedia の文章をそのまま書き写さないでください（`data/editorial/` の作曲家解説文と同じ理由 — CC BY-SA の文章そのものはこのサイトのものにできません。事実の要約は問題ありません）。
+
+### コミット前に機械チェックを通す
+
+```bash
+npm test          # src/lib/relations.test.ts が data/relations.json 単体の検証と、
+                   # 師弟・影響の向きが見る側によって正しく反転することを検証する
+npm run build     # data/relations.json が壊れていると next build がそこで落ちる
+                   # （src/lib/relations.ts がモジュール読み込み時に検証するため）
+```
+
 ## 専門用語の Tips を追加する（`data/glossary.json`）
 
 作曲家プロフィールと楽曲ページの解説文（biography / style / impact / story / structure）に出てくる専門用語を、タップ／クリックで語義が読めるポップアップにするデータです。`data/nationalities.json` と同じく**220名分の解説を書き換えるものではありません** — ビルド時に本文を走査し、辞書に載っている表記だけを自動でポップアップに変えます。本文そのものにマークアップを書き足す必要はありません。

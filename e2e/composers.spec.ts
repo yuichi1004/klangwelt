@@ -46,6 +46,61 @@ test.describe("composer profile page's own-works thumbnails", () => {
   });
 });
 
+/**
+ * Issue #89. `src/lib/relations.test.ts` covers the pure direction-flipping
+ * logic (`relationLabelKey`) against synthetic edges; these tests check
+ * that the real seeded pair — Haydn (#208) taught Beethoven (#145), see
+ * `data/relations.json` — actually reaches the page and reads correctly
+ * from both sides.
+ */
+test.describe("related composers section", () => {
+  test("shows a relation and links to the other composer's profile", async ({ page }) => {
+    await page.goto("/ja/composers/145");
+    const section = page.locator("section", {
+      has: page.getByRole("heading", { name: "関連する作曲家" }),
+    });
+    await expect(section).toBeVisible();
+
+    const link = section.locator('a[href="/ja/composers/208"]');
+    await expect(link).toBeVisible();
+    await expect(link).toContainText("師");
+
+    await link.click();
+    await expect(page).toHaveURL("/ja/composers/208");
+  });
+
+  test("the same edge reads in the opposite direction from the other side", async ({ page }) => {
+    await page.goto("/ja/composers/208");
+    const section = page.locator("section", {
+      has: page.getByRole("heading", { name: "関連する作曲家" }),
+    });
+    const link = section.locator('a[href="/ja/composers/145"]');
+    await expect(link).toContainText("弟子");
+  });
+
+  test("friend and rival badges are distinguishable by their accessible label", async ({
+    page,
+  }) => {
+    // Brahms (#80) has both a friend (#129 Schumann) and a rival (#138
+    // Wagner) relation seeded — issue #89's central requirement is that
+    // these read apart at a glance, not just by colour.
+    await page.goto("/ja/composers/80");
+    const section = page.locator("section", {
+      has: page.getByRole("heading", { name: "関連する作曲家" }),
+    });
+    // Exact match: "対立" also appears inside the longer rival note's prose
+    // ("本人同士の対立というより…"), which a substring match would also hit.
+    await expect(section.getByText("友人", { exact: true })).toBeVisible();
+    await expect(section.getByText("対立", { exact: true })).toBeVisible();
+  });
+
+  test("a composer with no seeded relations shows no section", async ({ page }) => {
+    // #144 Corigliano has no entry in data/relations.json.
+    await page.goto("/ja/composers/144");
+    await expect(page.getByRole("heading", { name: "関連する作曲家" })).toHaveCount(0);
+  });
+});
+
 test.describe("composer filtering", () => {
   test.skip(
     ({ isMobile }) => Boolean(isMobile),
