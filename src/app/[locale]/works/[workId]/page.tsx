@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { FavoriteButton } from "@/components/favorite-button";
 import { GlossaryText } from "@/components/glossary-text";
 import { PageContainer } from "@/components/page-container";
+import { ShareMenu } from "@/components/share-menu";
 import { StreamingButtons } from "@/components/streaming-links";
 import { WorkCard } from "@/components/work-card";
 import { WorkCardGrid } from "@/components/work-card-grid";
@@ -24,6 +25,8 @@ import { createAnnotator, glossary } from "@/lib/glossary";
 import { MEDIA_KIND_LABELS, type MediaAppearance } from "@/lib/media";
 import { mediaId } from "@/lib/media-index";
 import { buildOpenGraph, composerOgImage } from "@/lib/og";
+import { buildShareLinks } from "@/lib/share";
+import { canonicalUrl } from "@/lib/site";
 import { buildStreamingLinks } from "@/lib/streaming";
 
 /**
@@ -104,6 +107,10 @@ export default async function WorkPage(
   const title = locale === "ja" ? work.titleJa : work.title;
   const showOriginal = locale === "ja" && work.titleJa !== work.title;
   const composerName = locale === "ja" ? composer.nameJa : composer.completeName;
+  const shareLinks = buildShareLinks({
+    url: canonicalUrl(`/${locale}/works/${work.id}`),
+    text: `${title} — ${composerName}`,
+  });
 
   const siblings = getCoreWorksByComposer(composer.id)
     .filter((sibling) => sibling.id !== work.id)
@@ -147,6 +154,12 @@ export default async function WorkPage(
               {composerName}
             </Link>
             <FavoriteButton workId={work.id} locale={locale} size="sm" />
+            {/* `-ml-2` cancels most of this button's own left inset (its
+                44px hit target, issue #113, centers a much smaller visible
+                disc) so the gap between the heart and share glyphs matches
+                the gap from the composer name to the heart, rather than
+                stacking two insets into a visibly wider gap. */}
+            <ShareMenu locale={locale} links={shareLinks} className="-ml-2" />
           </div>
         </header>
 
