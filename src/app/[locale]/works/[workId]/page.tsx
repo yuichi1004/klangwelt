@@ -154,7 +154,12 @@ export default async function WorkPage(
               {composerName}
             </Link>
             <FavoriteButton workId={work.id} locale={locale} size="sm" />
-            <ShareMenu locale={locale} links={shareLinks} />
+            {/* `-ml-2` cancels most of this button's own left inset (its
+                44px hit target, issue #113, centers a much smaller visible
+                disc) so the gap between the heart and share glyphs matches
+                the gap from the composer name to the heart, rather than
+                stacking two insets into a visibly wider gap. */}
+            <ShareMenu locale={locale} links={shareLinks} className="-ml-2" />
           </div>
         </header>
 
