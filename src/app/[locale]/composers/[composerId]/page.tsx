@@ -8,6 +8,7 @@ import { ComposerPortrait } from "@/components/composer-portrait";
 import { GlossaryText } from "@/components/glossary-text";
 import { PageContainer } from "@/components/page-container";
 import { RelatedComposers } from "@/components/related-composers";
+import { ShareMenu } from "@/components/share-menu";
 import { StarRating } from "@/components/star-rating";
 import { WorkCard } from "@/components/work-card";
 import { WorkCardGrid } from "@/components/work-card-grid";
@@ -24,6 +25,8 @@ import { getComposerEditorial } from "@/lib/editorial";
 import { EPOCH_LABELS, EPOCH_YEARS } from "@/lib/epochs";
 import { createAnnotator, glossary } from "@/lib/glossary";
 import { buildOpenGraph, composerOgImage } from "@/lib/og";
+import { buildShareLinks } from "@/lib/share";
+import { canonicalUrl } from "@/lib/site";
 
 export function generateStaticParams() {
   return LOCALES.flatMap((locale) =>
@@ -91,6 +94,10 @@ export default async function ComposerPage(
 
   const name = locale === "ja" ? composer.nameJa : composer.completeName;
   const lifespan = formatLifespan(messages, composer);
+  const shareLinks = buildShareLinks({
+    url: canonicalUrl(`/${locale}/composers/${composer.id}`),
+    text: name,
+  });
 
   return (
     <PageContainer as="article" className="py-8 sm:py-12">
@@ -178,6 +185,14 @@ export default async function ComposerPage(
                 </dd>
               </div>
             </dl>
+
+            {/* This header's first (and only) action row — unlike the work
+                page, there is no favourite/heart control here for it to
+                ride alongside. `-ml-2` optically aligns the 44px button's
+                visible 28px disc (issue #113's touch-target padding) with
+                the h1's left edge, since this row starts a line rather than
+                continuing one. */}
+            <ShareMenu locale={locale} links={shareLinks} className="mt-4 -ml-2" />
           </div>
         </header>
 

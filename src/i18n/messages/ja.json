@@ -150,6 +150,14 @@
     "count": "{count}曲",
     "storageNote": "お気に入りはこのブラウザにのみ保存されます。"
   },
+  "share": {
+    "heading": "共有",
+    "copyLink": "リンクをコピー",
+    "copied": "コピーしました",
+    "x": "Xで共有",
+    "linkedin": "LinkedInで共有",
+    "facebook": "Facebookで共有"
+  },
   "backup": {
     "heading": "バックアップ・移行",
     "description": "お気に入りと言語設定を書き出して、別のブラウザや端末に移せます。",
@@ -180,6 +188,8 @@
     "portraitsCount": "掲載 {count} 点",
     "servicesHeading": "配信サービス",
     "servicesBody": "Spotify および YouTube Music へのリンクは各サービスの検索ページを開くものです。本サイトは両社と提携関係にありません。商標は各権利者に帰属します。",
+    "shareServicesHeading": "共有機能",
+    "shareServicesBody": "作曲家・楽曲ページの共有ボタンから、X・LinkedIn・Facebook それぞれの投稿画面を開くことができます。本サイトはこれら3社と提携関係にありません。商標は各権利者に帰属します。",
     "author": "作者",
     "license": "ライセンス",
     "source": "出典",
@@ -188,7 +198,7 @@
   "terms": {
     "heading": "利用規約・免責事項",
     "intro": "本サイトを利用することで、以下の内容に同意したものとみなします。",
-    "updated": "最終更新: 2026年8月16日",
+    "updated": "最終更新: 2026年8月20日",
     "termsHeading": "利用規約",
     "termsClauses": [
       {
@@ -223,7 +233,7 @@
       },
       {
         "heading": "6. 外部サービスへのリンク",
-        "body": "本サイトは Spotify・YouTube Music 等の外部サービスへのリンクを提供します。リンク先の内容・可用性・利用条件について本サイトは関与せず、責任を負いません。",
+        "body": "本サイトは Spotify・YouTube Music・X・LinkedIn・Facebook 等の外部サービスへのリンクを提供します。リンク先の内容・可用性・利用条件について本サイトは関与せず、責任を負いません。",
         "linkHref": "",
         "linkText": ""
       },
@@ -268,7 +278,7 @@
       },
       {
         "heading": "4. 外部サイト・外部コンテンツについて",
-        "body": "本サイトからリンクする外部サイト（Spotify、YouTube Music、Wikimedia Commons、Open Opus 等）のコンテンツ・可用性・プライバシー等の取り扱いについて、本サイトは責任を負いません。",
+        "body": "本サイトからリンクする外部サイト（Spotify、YouTube Music、X、LinkedIn、Facebook、Wikimedia Commons、Open Opus 等）のコンテンツ・可用性・プライバシー等の取り扱いについて、本サイトは責任を負いません。",
         "linkHref": "",
         "linkText": ""
       },

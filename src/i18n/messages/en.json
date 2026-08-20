@@ -150,6 +150,14 @@
     "count": "{count} works",
     "storageNote": "Favourites are stored in this browser only."
   },
+  "share": {
+    "heading": "Share",
+    "copyLink": "Copy link",
+    "copied": "Copied",
+    "x": "Share on X",
+    "linkedin": "Share on LinkedIn",
+    "facebook": "Share on Facebook"
+  },
   "backup": {
     "heading": "Backup & transfer",
     "description": "Export your favourites and language setting to move them to another browser or device.",
@@ -180,6 +188,8 @@
     "portraitsCount": "{count} portraits",
     "servicesHeading": "Streaming services",
     "servicesBody": "Links open a search on Spotify or YouTube Music. This site is not affiliated with either company; all trademarks belong to their respective owners.",
+    "shareServicesHeading": "Sharing",
+    "shareServicesBody": "The share button on composer and work pages opens a post screen on X, LinkedIn or Facebook. This site is not affiliated with any of the three; all trademarks belong to their respective owners.",
     "author": "Author",
     "license": "Licence",
     "source": "Source",
@@ -188,7 +198,7 @@
   "terms": {
     "heading": "Terms of Service & Disclaimer",
     "intro": "By using this site, you agree to the following.",
-    "updated": "Last updated: 16 August 2026",
+    "updated": "Last updated: 20 August 2026",
     "termsHeading": "Terms of Service",
     "termsClauses": [
       {
@@ -223,7 +233,7 @@
       },
       {
         "heading": "6. Links to external services",
-        "body": "This site links to external services such as Spotify and YouTube Music. It has no control over, and is not responsible for, the content, availability or terms of those services.",
+        "body": "This site links to external services such as Spotify, YouTube Music, X, LinkedIn and Facebook. It has no control over, and is not responsible for, the content, availability or terms of those services.",
         "linkHref": "",
         "linkText": ""
       },
@@ -268,7 +278,7 @@
       },
       {
         "heading": "4. External sites and content",
-        "body": "This site is not responsible for the content, availability or privacy practices of external sites it links to, including Spotify, YouTube Music, Wikimedia Commons and Open Opus.",
+        "body": "This site is not responsible for the content, availability or privacy practices of external sites it links to, including Spotify, YouTube Music, X, LinkedIn, Facebook, Wikimedia Commons and Open Opus.",
         "linkHref": "",
         "linkText": ""
       },

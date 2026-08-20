@@ -99,6 +99,15 @@ export default async function CreditsPage(
 
         <section className="mt-9">
           <h2 className="font-serif text-xl font-medium text-ink">
+            {messages.credits.shareServicesHeading}
+          </h2>
+          <p className="mt-2 text-sm leading-relaxed text-ink-soft">
+            {messages.credits.shareServicesBody}
+          </p>
+        </section>
+
+        <section className="mt-9">
+          <h2 className="font-serif text-xl font-medium text-ink">
             {messages.credits.portraitsHeading}
           </h2>
           <p className="mt-2 text-sm leading-relaxed text-ink-soft">
