@@ -1,4 +1,94 @@
 {
+  "25464": {
+    "structure": {
+      "ja": "四部から成るオラトリオで、春夏秋冬をそれぞれ描く。独唱にはハンネ(ソプラノ)、ルーカス(テノール)、シモン(バス)の3人の農民が扮し、合唱と共に狩りの角笛や収穫祭の踊り、雷雨の情景などを描写する。",
+      "en": "An oratorio in four parts depicting spring, summer, autumn and winter. Three vocal soloists — the peasants Hanne (soprano), Lucas (tenor) and Simon (bass) — join the chorus in scenes ranging from a horn-calling hunt to a harvest dance and a thunderstorm."
+    },
+    "story": {
+      "ja": "ゴットフリート・ファン・スヴィーテン男爵の台本により、1799年から2年をかけて作曲された。1801年4月にシュヴァルツェンベルク侯爵邸で身内向けに披露され、翌月ウィーンの舞踏会場で一般公開されている。カエルの鳴き声を模した場面についてハイドンは楽譜の余白に「フランス風のがらくた」と書き込んだと伝えられる。",
+      "en": "Composed over roughly two years from 1799, to a libretto by Baron Gottfried van Swieten after James Thomson's poem, it was first heard privately in April 1801 at the Schwarzenberg palace before its public premiere in Vienna the following month. Of the frog-croaking passage, Haydn reportedly scrawled \"Frenchified trash\" in the margin — a remark that, once it became known, briefly angered van Swieten."
+    }
+  },
+  "25472": {
+    "structure": {
+      "ja": "嬰ヘ短調で書かれた全4楽章の交響曲。フィナーレ後半は緩やかなアダージョに転じ、楽員が譜面台の蝋燭を吹き消しながら一人また一人と退出していき、最後は弱音器を付けた2挺のヴァイオリンだけが残って曲を締めくくる。",
+      "en": "A symphony in F sharp minor and four movements. The finale's second half turns to a slow Adagio during which the musicians blow out the candles on their stands and leave the stage one by one, until only two muted violins remain to close the piece."
+    },
+    "story": {
+      "ja": "1772年、夏の離宮エステルハーザに滞在していた時期に作曲された。長期の滞在に疲れた楽団員たちが休暇を望んでいることを、雇い主エステルハージ侯に暗に伝えるための仕掛けだったと伝えられるが、この逸話は晩年のハイドン自身が伝記作者に語ったもので、真偽は定かでない。この主題は後年、交響曲第85番でも引用されている。",
+      "en": "Haydn wrote it in 1772 while his patron's court was staying at the summer palace of Eszterháza. The gradual exit is said to have been a quiet hint to Prince Esterházy that the musicians, worn out by the long stay, wished to go home — though the story comes from Haydn's own later account to his biographers, and its accuracy is unconfirmed. He later quoted the symphony's opening theme in his Symphony No. 85."
+    }
+  },
+  "25505": {
+    "structure": {
+      "ja": "全4楽章から成る交響曲。第2楽章と終楽章の結尾にトライアングル、シンバル、大太鼓を加えたいわゆる「トルコ風」の打楽器編成が効果的に用いられており、軍楽を思わせるその響きから「軍隊」という愛称で呼ばれている。",
+      "en": "A symphony in four movements. The second movement and the finale's close add triangle, cymbals and bass drum in a so-called \"Turkish\" percussion section, evoking the sound of a military band — the source of its nickname, \"Military.\""
+    },
+    "story": {
+      "ja": "1793年から94年にかけて作曲され、1794年3月31日、ハイドン62歳の誕生日にロンドンのハノーヴァー・スクエア・ルームズで初演された。ロンドンでの2度の滞在中に書かれた「ロンドン交響曲」12曲のうち8曲目にあたる。当時の批評家は第2楽章について「戦争の恐るべき轟音が、身の毛もよだつ崇高さの頂点にまで高まる」と評したと伝えられる。",
+      "en": "Composed in 1793 and 1794, it premiered on 31 March 1794 — Haydn's sixty-second birthday — at the Hanover Square Rooms in London, the eighth of the twelve \"London\" symphonies written across his two visits to the city. One contemporary critic described the second movement as building to \"a climax of horrid sublimity.\""
+    }
+  },
+  "25541": {
+    "structure": {
+      "ja": "全3楽章の協奏曲。当時としては画期的な、全音域を半音階で演奏できる新型キー付きトランペットのために書かれ、それまでの自然倍音に頼るトランペット協奏曲にはなかった旋律的な独奏部を持つ。",
+      "en": "A concerto in three movements, written for a groundbreaking new keyed trumpet capable of a full chromatic range — an instrument that allowed genuinely melodic solo writing far beyond what earlier natural-trumpet concertos, limited to the harmonic series, could achieve."
+    },
+    "story": {
+      "ja": "1796年、ウィーン宮廷のトランペット奏者アントン・ヴァイディンガーが開発した新型キー付きトランペットのために作曲された。だが初演は1800年3月28日、ヴァイディンガー自身の独奏でブルク劇場にて行われ、作曲から実に4年が経っていた。今日ではハイドンの協奏曲の中でも最も演奏機会の多い一曲として知られる。",
+      "en": "Haydn composed it in 1796 for Anton Weidinger, a Viennese court trumpeter who had developed the new keyed instrument, yet the premiere did not come until 28 March 1800, with Weidinger himself as soloist at the Burgtheater — a full four years after it was written. It remains, by reputation, the most frequently performed of Haydn's concertos."
+    }
+  },
+  "25548": {
+    "structure": {
+      "ja": "全4楽章の弦楽四重奏曲。通常のメヌエットに代えて、途中に「ジプシー風」と記されたアレグレット楽章を置き、終楽章にもジプシー音階を思わせる要素と交錯するリズムを取り入れている点が特徴的。",
+      "en": "A string quartet in four movements. In place of a conventional minuet, Haydn inserts an Allegretto marked \"alla zingarese\" — in a gypsy style — and the finale, too, works in cross-rhythms and scale patterns suggestive of that same idiom."
+    },
+    "story": {
+      "ja": "1772年、エステルハージ侯に仕えていた時期に作曲され、1774年、パリの出版社ラ・シュヴァルディエールから出版された。楽譜の初期の版に朝日を描いた挿絵が表紙に添えられたことから「日の出」の愛称で呼ばれるようになった。音楽学者ドナルド・トーヴィーは、作品20の6曲のうちこのニ長調の曲がとりわけ聴衆に好まれたと評している。",
+      "en": "Haydn wrote it in 1772 while in the service of Prince Esterházy, and it was published in 1774 by La Chevardière in Paris. Its \"Sun\" nickname comes from an illustration of a rising sun on the cover of an early printed edition. The musicologist Donald Tovey noted that, among the six Op. 20 quartets, this one in D major won particular favor with audiences."
+    }
+  },
+  "25574": {
+    "structure": {
+      "ja": "ニ短調で書かれた全4楽章の弦楽四重奏曲。第1楽章は下降する完全5度の動機が反転や模倣を伴いながら展開全体を貫く。メヌエット楽章はヴァイオリンをヴィオラとチェロが1小節遅れで模倣する厳格な2声のカノンで書かれ、「魔女のメヌエット」とも呼ばれる。",
+      "en": "A string quartet in D minor and four movements. The first movement is built entirely from a descending perfect-fifth motif, developed through inversion and imitation, while the minuet is a strict two-part canon — violins leading, viola and cello following a bar behind — earning it the nickname \"Witches' Minuet.\""
+    },
+    "story": {
+      "ja": "1797年から98年にかけて作曲され、独占契約の関係で出版が遅れたのち、1799年にロンドンとウィーンでほぼ同時に発売された。作品76全曲とともにエルデーディ伯爵に献呈されている。「五度」の愛称は第1楽章を貫く下降5度の動機に由来し、ハイドン晩年の弦楽四重奏曲の中でも形式面での工夫が際立つ一曲として評価されている。",
+      "en": "Written in 1797 and completed the following year, its publication was delayed by an exclusivity agreement before it appeared in London and Vienna almost simultaneously in 1799. It was dedicated, along with the rest of the Op. 76 set, to Count Joseph Erdődy. The \"Fifths\" nickname comes from the falling interval running through the first movement, and the quartet is counted among the most formally inventive of Haydn's late works."
+    }
+  },
+  "25615": {
+    "structure": {
+      "ja": "全4楽章の交響曲で、「朝」「昼」に続く「時の移ろい」三部作の最終曲にあたる。独奏ヴァイオリンやチェロが合奏と対比される協奏曲風の書法を持ち、終楽章「嵐」ではチェロの独奏が遠雷を、フルートの分散和音が雨粒を思わせる描写を行う。",
+      "en": "A symphony in four movements, the last of a \"times of day\" trilogy following \"Le Matin\" and \"Le Midi.\" Its concerto-grosso-like writing sets solo violin and cello against the full ensemble, and the storm finale paints distant thunder with a cello solo and falling rain with rippling flute arpeggios."
+    },
+    "story": {
+      "ja": "1761年、エステルハージ侯パウル・アントンの依頼により、「朝」「昼」と対をなす三部作の最後として作曲された。同年、エステルハージ家の宮廷楽団によって披露されたとみられるが、正確な初演の日付は伝わっていない。三部作を通じて用いられる独奏群と合奏の対比は、当時流行していた合奏協奏曲の様式を色濃く反映している。",
+      "en": "Haydn wrote it in 1761 at the request of Prince Paul Anton Esterházy, completing the trilogy begun with \"Le Matin\" and \"Le Midi.\" It was presumably heard that same year, performed by the Esterházy court orchestra, though no exact premiere date survives. The contrast of soloists against full ensemble running through all three symphonies closely echoes the concerto grosso style fashionable at the time."
+    }
+  },
+  "25786": {
+    "structure": {
+      "ja": "全3楽章から成る鍵盤楽器のための協奏曲で、優美な第1楽章と歌うような緩徐楽章に続いて、終楽章は「ハンガリー風ロンド」と題される。民俗舞曲的な旋律が繰り返し立ち返る軽快なロンド形式で書かれ、独奏者の技巧を存分に発揮できる終わり方となっている。",
+      "en": "A concerto for keyboard in three movements, its graceful opening Allegro followed by a singing slow movement. The finale, titled \"Rondo all'Ungarese,\" is a buoyant rondo built around a folk-dance-like tune that keeps returning between virtuosic episodes for the soloist."
+    },
+    "story": {
+      "ja": "1780年代初頭、ハイドンとモーツァルトが交流を深めつつあった時期に作曲されたとみられる。ハイドンが手がけた13曲の鍵盤協奏曲の中でも最後の作にあたり、今日では最も頻繁に演奏される一曲となっている。終楽章の旋律の由来については、ハンガリーというより、クロアチアやボスニアの舞曲に近いとする研究者もいる。",
+      "en": "It appears to date from the early 1780s, a period when Haydn and Mozart were growing acquainted with one another's work. It was the last of Haydn's thirteen keyboard concertos and has become by far the most frequently performed. Some scholars argue the finale's tune is closer to a Croatian or Bosnian dance than to genuinely Hungarian material."
+    }
+  },
+  "25814": {
+    "structure": {
+      "ja": "全4楽章の交響曲。序奏の冒頭、ティンパニによる長い独奏のロールで開始されることから「太鼓連打」の愛称で呼ばれる。この愛称はハイドン自身が付けたものではなく、後年になって定着したとされる。",
+      "en": "A symphony in four movements. It opens with a long solo timpani roll in the introduction, the source of its nickname \"Drum Roll\" — a name that was not Haydn's own but caught on only after the fact."
+    },
+    "story": {
+      "ja": "1795年、2度目のロンドン滞在中に作曲され、同年3月2日、キングズ劇場での「オペラ・コンサート」シリーズにおいて初演された。ヴィオッティが楽団を率い、ハイドン自身はフォルテピアノに着いて指揮にあたった。当時の新聞は序奏について「聴衆の注目を集めた」、緩徐楽章については「アンコールされた」と伝えている。",
+      "en": "Composed in 1795 during his second stay in London, it premiered on 2 March that year as part of the \"Opera Concerts\" series at the King's Theatre, with Viotti leading the orchestra and Haydn himself at the fortepiano. A contemporary newspaper reported that the introduction \"excited...attention\" and that the slow movement was encored."
+    }
+  },
   "25919": {
     "structure": {
       "ja": "全4楽章。第2楽章は静かな変奏曲主題で始まるが、弱奏を予期させておいて、その直後に管弦楽全体による唐突な強奏の一撃が打ち込まれる。この「驚愕」がこの曲の通称の由来である。\n以降の変奏でもこの一撃が再現されることはなく、あくまで一度きりの仕掛けとして楽章全体の中に埋め込まれている。",
