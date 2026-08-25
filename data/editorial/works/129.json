@@ -1,4 +1,14 @@
 {
+  "14972": {
+    "structure": {
+      "ja": "5楽章構成、変ホ長調を基調とする交響曲。第4楽章は「大聖堂」楽章とも呼ばれ、荘重なトロンボーンの合唱風の響きが特徴的。第2楽章は元は「ライン川の朝」と題されていたが、出版に際してその標題は外された。",
+      "en": "A symphony in five movements centered on E-flat major. The fourth, often nicknamed the \"Cathedral\" movement, features a solemn trombone chorale, while the second was originally titled \"Morning on the Rhine\" before Schumann dropped that heading ahead of publication."
+    },
+    "story": {
+      "ja": "1850年、デュッセルドルフの音楽監督に就任した年、ラインラントへの旅に着想を得て作曲され、翌1851年に自らの指揮で初演された。シューマン最後の交響曲でありながら、出版順では最後ではない。第4楽章はケルン大聖堂での枢機卿就任式に触発されたとも言われるが、確証はない。",
+      "en": "Schumann composed it in 1850, inspired by a Rhineland journey soon after becoming Düsseldorf's music director, and conducted the premiere himself the following year, 1851. It was the last symphony he wrote, though not the last published. The fourth movement is sometimes linked to a cardinal's inauguration at Cologne Cathedral, though the connection remains unconfirmed."
+    }
+  },
   "14989": {
     "structure": {
       "ja": "全4楽章。着想からわずか4日間で全曲のスケッチが書き上げられ、その後1か月足らずでオーケストレーションまで完成するという、異例の速さで作曲された。\n「春」という標題はシューマン自身が構想時に考えていたもので、各楽章に「春の始まり」「夕べ」「楽しい遊び」「たけなわの春」といった見出しを与えていたが、出版譜ではこれらの標題は削除されている。",
@@ -9,6 +19,46 @@
       "en": "He conceived the whole symphony between 23 and 26 January 1841, and completed the orchestration by 20 February. It came just after he had finally married Clara Wieck the previous autumn; Clara had written in her diary that he should compose for orchestra, since the piano alone could not hold his imagination, and had been pushing him toward exactly this.\nIt premiered on 31 March 1841 in Leipzig, conducted by Mendelssohn, to a warm reception. The year became known as Schumann's \"symphonic year,\" so concentrated was his turn toward orchestral composition at the time."
     }
   },
+  "15001": {
+    "structure": {
+      "ja": "アーデルベルト・フォン・シャミッソーの連作詩による全8曲の歌曲集。恋の始まりから結婚、出産、そして夫との死別までを一人の女性の視点で歌う。原詩は全9編あるが、最後の1編は用いられていない。",
+      "en": "A cycle of eight songs setting poems by Adelbert von Chamisso, tracing one woman's voice through falling in love, marriage, motherhood and eventually her husband's death. Of Chamisso's nine original poems, Schumann left the last one unset."
+    },
+    "story": {
+      "ja": "1840年7月、いわゆる「歌曲の年」のさなかにわずか2日で書き上げられた。クララ・ヴィークとの結婚をめぐる裁判にようやく決着がついた直後のことである。後年、クララ自身がしばしばピアノ・パートを弾いて演奏に加わったと伝えられ、女性歌手による愛唱曲として広く親しまれてきた。",
+      "en": "Schumann wrote it in just two days in July 1840, during his so-called \"year of song,\" not long after the legal battle over his marriage to Clara Wieck was finally resolved in his favor. Clara herself is said to have often taken the piano part in later performances, and the cycle has remained a favorite among sopranos and mezzos ever since."
+    }
+  },
+  "15004": {
+    "structure": {
+      "ja": "ソナタ形式による単一楽章のピアノ独奏曲。重音の連続や急速なオクターヴのユニゾン、半音階的な進行を絶え間なく多用し、両手に高度な技巧を要求することで知られる、ピアノ独奏曲中でも屈指の難曲として名高い。",
+      "en": "A single-movement solo piano piece in sonata form, built from relentless double notes, rapid octave unisons and chromatic runs. It demands formidable technique from both hands, and is counted among the most difficult works in the solo piano repertoire."
+    },
+    "story": {
+      "ja": "1830年、20歳のときに練習曲として書かれ、1833年に改作を経て出版された。友人であったピアニスト、ルートヴィヒ・シュンケに献呈されており、シュンケもまた自作のソナタをシューマンに献呈し返している。カルル・ツェルニーの同名の練習曲からも着想を得たとされる。",
+      "en": "Schumann wrote it as an étude in 1830, at twenty, and reworked it before publication in 1833. He dedicated it to his close friend, the pianist Ludwig Schuncke, who in turn dedicated a sonata of his own back to Schumann. It is thought to owe something to a toccata of the same name by Carl Czerny."
+    }
+  },
+  "15018": {
+    "structure": {
+      "ja": "全18曲からなるピアノ独奏の性格的小品集。各曲の楽譜には、シューマンが創造した架空の団体「ダヴィッド同盟」の情熱的な人格フロレスタンと内省的な人格オイゼビウスの頭文字が添えられ、対照的な性格を描き分ける。",
+      "en": "A set of eighteen character pieces for solo piano. Each is signed in the score with the initials of Florestan or Eusebius — the passionate and introspective alter egos of Schumann's imaginary \"League of David\" — sketching two contrasting temperaments throughout."
+    },
+    "story": {
+      "ja": "1837年8月、クララ・ヴィークとひそかに婚約を交わした直後、わずか数日で一気に書き上げられた。詩人ゲーテの孫にあたるヴァルター・フォン・ゲーテに献呈されている。後年の改訂版では曲名から「舞曲」の語が外され、各曲を彩っていたフロレスタンとオイゼビウスの署名も削られた。",
+      "en": "Schumann wrote the set in just a few days in August 1837, right after secretly becoming engaged to Clara Wieck, and dedicated it to Walther von Goethe, the poet's grandson. In a later revision he dropped \"Dances\" from the title and removed the Florestan and Eusebius initials that had marked each piece."
+    }
+  },
+  "15021": {
+    "structure": {
+      "ja": "ハインリヒ・ハイネの詩集『抒情的間奏曲』による全16曲の歌曲集。失恋の痛みを段階的にたどる構成で、終曲ではピアノが長い後奏を奏で、歌声が語りきれなかった思いを引き継いで締めくくる。",
+      "en": "A cycle of sixteen songs setting poems from Heinrich Heine's \"Lyrisches Intermezzo,\" tracing the stages of heartbreak in order. The final song closes with an extended piano postlude that carries forward what the voice leaves unsaid."
+    },
+    "story": {
+      "ja": "1840年5月から6月にかけて、わずか9日間で作曲された。当初は20曲あったが出版時に16曲へと絞られ、自筆譜はメンデルスゾーンに献呈されたのに対し、出版された楽譜は歌手シュレーダー=デヴリエントに献呈されるという違いがある。クララとの結婚を数か月後に控えた時期の作である。",
+      "en": "Schumann composed it in just nine days in May and June 1840. Originally twenty songs, it was trimmed to sixteen for publication; the manuscript had been dedicated to Mendelssohn, while the published score instead bears a dedication to the soprano Wilhelmine Schröder-Devrient. He wrote it only months before marrying Clara."
+    }
+  },
   "15046": {
     "structure": {
       "ja": "子供の視点から見た情景を描く13曲からなるピアノ小品集で、いずれも短く、技巧的な難所を避けた親しみやすい書法で書かれている。\n第7曲「トロイメライ」がもっとも知られており、跳躍を含む旋律線がゆるやかなテンポで歌われる。彼はもともと30曲ほどを書き、そこから13曲を選んで曲集にまとめている。",
@@ -17,6 +67,46 @@
     "story": {
       "ja": "1838年春、婚約者クララ・ヴィークと離れて過ごしていた時期に書かれた。クララの父親が二人の結婚に強く反対しており、当時シューマンとクララは各地を演奏旅行するクララと文通でしかやり取りできない状況にあった。\nクララから「あなたはときどき子供みたいね」と言われたことがきっかけで着想を得たとされ、完成した曲集を送られたクララは「これは私たち二人だけのものね」と手紙に書いている。二人の結婚はこの2年後、1840年のことである。",
       "en": "Written in the spring of 1838, during a period when he was separated from his fiancée Clara Wieck, whose father fiercely opposed their marriage and kept them apart, able to communicate only by letter while she toured as a performer.\nThe idea is said to have grown out of a remark from Clara that he sometimes seemed like a child himself. When he sent her the finished set, she wrote back that it belonged to the two of them alone. They married two years later, in 1840."
+    }
+  },
+  "15049": {
+    "structure": {
+      "ja": "性格の異なる8つの小品からなるピアノ独奏曲集。曲名はホフマンの小説から取られ、内省的な「夕べに」に始まり、憧れに満ちた「飛翔」、謎めいた「なぜに」などを経て、静かな「歌の終わり」で締めくくられる。",
+      "en": "A set of eight contrasting character pieces for solo piano, its title borrowed from a collection by E.T.A. Hoffmann. It opens with the introspective \"Des Abends\" and moves through the yearning \"Aufschwung\" and the questioning \"Warum?\" before closing quietly with \"Ende vom Lied.\""
+    },
+    "story": {
+      "ja": "1837年、ライプツィヒで作曲され、翌1838年に出版された。当時18歳のスコットランド人ピアニスト、アンナ・ロベーナ・レイドローに献呈されている。第5曲「夜に」についてシューマン自身、ギリシャ神話のヘーローとレアンドロスの伝説を思い描いていたと語ったとされるが、確かな裏付けはない。",
+      "en": "Schumann composed the set in Leipzig in 1837 and published it the following year, 1838, dedicating it to the eighteen-year-old Scottish pianist Anna Robena Laidlaw. He is said to have associated the fifth piece, \"In der Nacht,\" with the Greek legend of Hero and Leander, though the claim rests only on his own account."
+    }
+  },
+  "15061": {
+    "structure": {
+      "ja": "序奏と終曲を含む全13曲からなるピアノ独奏曲集。ワルツを中心にポロネーズ風の楽曲を交え、終曲では古い民謡「おじいさんの踊り」の旋律が引用され、仮面舞踏会の終わりを告げるように鳴り響く。",
+      "en": "A set of thirteen short piano pieces, including an introduction and finale, built mainly around waltzes with two polonaise-like numbers interspersed. The finale quotes the old folk tune \"Großvatertanz,\" tolling out like a clock to mark the end of a masked ball."
+    },
+    "story": {
+      "ja": "1831年に出版された、ジャン・パウルの小説『生意気ざかり』の仮面舞踏会の場面に着想を得た作品である。クララ・ヴィークが父の主催する集まりで演奏したと伝えられ、曲調の目まぐるしい転換に居合わせた客が戸惑ったという逸話も残るが、真偽は定かでない。ここで用いた旋律の一部は、のちに『謝肉祭』でも再び使われている。",
+      "en": "Published in 1831, the set was inspired by a masked-ball scene in Jean Paul's novel \"Flegeljahre.\" Clara Wieck is said to have played it at one of her father's gatherings, where guests reportedly struggled to follow its rapid shifts of mood, though the anecdote is unconfirmed. Schumann later reused some of its melodies in \"Carnaval.\""
+    }
+  },
+  "15062": {
+    "structure": {
+      "ja": "ピアノとヴァイオリン、ヴィオラ、チェロによる全4楽章の四重奏曲。第3楽章の終盤ではチェロのハ線を変ロ音に下げるスコルダトゥーラが指示されており、その部分だけ低音域に独特の響きを生み出す仕掛けとなっている。",
+      "en": "A quartet for piano, violin, viola and cello in four movements. Near the end of the slow third movement, the cello's lowest string is retuned down to B-flat, a scordatura that opens up an unusually dark, resonant register."
+    },
+    "story": {
+      "ja": "1842年秋に作曲され、翌年4月、シューマン家で身内向けに試演された。公開初演は1844年12月、ライプツィヒのゲヴァントハウスで、クララのピアノにコンサートマスターのダーヴィト、ヴィオラにガーデを迎えて行われた。ロシアの音楽愛好家、マチュー・ヴィエルゴルスキー伯爵に献呈されている。",
+      "en": "Schumann composed it in the autumn of 1842, and it received a private read-through at the Schumanns' home the following April. The public premiere came in December 1844 at the Leipzig Gewandhaus, with Clara at the piano alongside the concertmaster Ferdinand David and violist Niels Gade. It is dedicated to the Russian patron Count Mathieu Wielhorsky."
+    }
+  },
+  "15076": {
+    "structure": {
+      "ja": "全3楽章からなるピアノ独奏のための幻想曲。冒頭には詩人フリードリヒ・シュレーゲルの詩の一節が掲げられ、第1楽章の結尾にはベートーヴェンの歌曲集『遥かなる恋人に寄す』の旋律がひそかに引用されている。",
+      "en": "A fantasy for solo piano in three movements, prefaced with a stanza from a poem by Friedrich Schlegel. The coda of the first movement conceals a quotation from Beethoven's song cycle \"An die ferne Geliebte,\" unnoticed for decades."
+    },
+    "story": {
+      "ja": "1836年、当初はボン建立予定のベートーヴェン記念碑の建設資金を募る作品として構想され、各楽章には「廃墟」「凱旋門」「星座」といった標題が付されていたが、出版時にはすべて削られた。フランツ・リストに献呈され、リストは高く評価する返信を寄せたと伝えられるが、公開の場で自ら弾くことはなかったという。",
+      "en": "Conceived in 1836 as a fundraiser for a planned Beethoven monument in Bonn, it originally carried movement subtitles — \"Ruins,\" \"Triumphal Arch,\" \"Constellation\" — all later dropped before publication. Schumann dedicated it to Franz Liszt, who is said to have written back in warm praise, though he apparently never performed it in public himself."
     }
   },
   "15091": {
