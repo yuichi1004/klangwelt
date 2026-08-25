@@ -211,3 +211,32 @@ export function checkSimilarity(
       : longestSharedWordRun(candidate, reference);
   return { longestRun, exceeds: longestRun > SIMILARITY_LIMITS[lang] };
 }
+
+/**
+ * Replaces every occurrence of each phrase in `text` with a separator so it
+ * cannot contribute to a shared run in `checkSimilarity`. This is the escape
+ * hatch for a legitimate, unavoidable overlap — most often a work's own
+ * title, which is not copyrightable but can be long enough in Japanese (with
+ * no word boundaries) to trip the char-run limit against a composer's own
+ * biography article when no dedicated work article exists.
+ *
+ * Deliberately narrow: callers must enumerate the exact literal string
+ * (`data/editorial/work-facts.json`'s `allowedPhrases`), which can whitelist
+ * a proper noun but cannot rubber-stamp a paraphrased sentence around it —
+ * there is no numeric threshold override anywhere in this module.
+ */
+export function maskPhrases(text: string, phrases: readonly string[]): string {
+  // A non-whitespace placeholder: the char tokenizer only strips whitespace
+  // (`\s+`), so a space would vanish and let the characters on either side
+  // of the masked phrase become adjacent -- possibly forming a new,
+  // unintended shared run right at the seam. U+FFFF ("not a character") is
+  // never legitimate prose and is dropped by neither tokenizer, so it always
+  // breaks the run without ever matching a reference text.
+  const PLACEHOLDER = "\uFFFF";
+  let masked = text;
+  for (const phrase of phrases) {
+    if (!phrase) continue;
+    masked = masked.split(phrase).join(PLACEHOLDER.repeat(phrase.length));
+  }
+  return masked;
+}
