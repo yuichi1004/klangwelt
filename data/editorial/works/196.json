@@ -1,4 +1,44 @@
 {
+  "23141": {
+    "structure": {
+      "ja": "全3楽章。全27曲のピアノ協奏曲のうち短調で書かれた2曲のうちの1つで、オーボエとクラリネットを同時に用いる唯一の作でもある。終楽章は主題と変奏の形式をとり、短調のまま曲を閉じる。",
+      "en": "Three movements. It is one of only two of Mozart's twenty-seven piano concertos written in a minor key, and the only one scored with both oboes and clarinets together. The variation finale closes in minor rather than turning to major."
+    },
+    "story": {
+      "ja": "1786年3月24日に完成し、その2週間後の4月7日、ウィーンのブルク劇場でモーツァルト自身の独奏により初演された。モーツァルトの27曲のピアノ協奏曲のうち短調で書かれたのは、この曲と第20番の2曲だけである。今日演奏の際に用いられるカデンツァは、モーツァルト自身のものは残っておらず、後年の演奏家によるものが使われる。",
+      "en": "It was completed on 24 March 1786, and Mozart himself was soloist at the premiere two weeks later, on 7 April, at Vienna's Burgtheater. It is one of only two of his twenty-seven piano concertos in a minor key, alongside the Twentieth. No cadenza by Mozart survives, so performers today usually play one written later by someone else."
+    }
+  },
+  "23155": {
+    "structure": {
+      "ja": "全3楽章。ヴァイオリン・ヴィオラ・チェロにピアノを組み合わせた編成で書かれ、ピアノ四重奏という形式そのものを本格的な演奏会用ジャンルへと押し上げた最初期の作品とされる。第1楽章は短調らしい緊迫感を持ち、終楽章は明るいロンドで締めくくられる。",
+      "en": "Three movements for violin, viola, cello and piano. It is considered one of the first works to treat the piano quartet as a serious concert genre rather than domestic music. The G minor first movement carries real tension, and a bright rondo closes the work."
+    },
+    "story": {
+      "ja": "出版社ホフマイスターの依頼で、全3曲の連作の1曲目として1785年7月から10月にかけて書かれた。しかし技巧的に難しすぎて愛好家には売れないと判断したホフマイスターは、残り2曲の作曲をモーツァルトに免除し、この1曲だけを同年のうちに出版した。",
+      "en": "It was commissioned by the publisher Hoffmeister as the first of a planned set of three, written between July and October 1785. Judging it too difficult for amateur players to sell, Hoffmeister released Mozart from finishing the other two, and published only this one that same year, deeming it more ambitious than the amateur market it had been intended for."
+    }
+  },
+  "23177": {
+    "structure": {
+      "ja": "全3楽章。メヌエットを欠く珍しい構成で、第1楽章冒頭には当時としては異例に長い緩やかな序奏が置かれる。クラリネットを欠く編成ながら、序奏の重厚さと対位法的な書法により、後年の交響曲に匹敵する規模感を持つ。",
+      "en": "Three movements, omitting the usual minuet — an unusually spacious slow introduction opens the first movement instead. Clarinets are absent from the scoring, yet the weight of the introduction and its contrapuntal writing give the symphony a scale that points toward his later works."
+    },
+    "story": {
+      "ja": "1786年12月6日付で自作目録に記入され、翌1787年1月19日、プラハでモーツァルト自身の指揮により初演された。「プラハ」という愛称は、前年に同地で「フィガロの結婚」が熱狂的に迎えられたことにちなみ、この街で初演されたこの交響曲に付けられたものである。",
+      "en": "He entered it in his catalogue of works on 6 December 1786, and conducted the premiere himself in Prague on 19 January 1787. The nickname \"Prague\" comes from that premiere city, which had already given his opera The Marriage of Figaro an ecstatic reception the year before — warmer, by most accounts, than Vienna's had been."
+    }
+  },
+  "23200": {
+    "structure": {
+      "ja": "全3楽章。フルートとハープという珍しい組み合わせのための協奏曲で、モーツァルトが書いた唯一のハープ作品である。2つの独奏楽器が対等に掛け合う書き方がなされ、依頼主となった父娘の技量に配慮してか、技巧的な難所は控えめに書かれている。",
+      "en": "Three movements for the unusual pairing of flute and harp — Mozart's only work to include the harp. The two soloists trade material as equals, and the writing avoids serious technical difficulty, likely out of consideration for the amateur father and daughter who commissioned it."
+    },
+    "story": {
+      "ja": "1778年、パリに滞在中に、フルート奏者だったギーヌ公爵と、モーツァルトに作曲を師事していたその娘マリー=ルイーズ=フィリピーヌのために書かれた。しかし公爵は約束していた報酬を支払わず、後に家政婦を通じて半額を提示したが、モーツァルトはこれを断ったと伝えられている。",
+      "en": "It was written in Paris in 1778 for the flutist Duc de Guînes and his daughter Marie-Louise-Philippine, a harpist and Mozart's own composition pupil. The duke, however, never paid the fee they had agreed on; he later offered half of it through his housekeeper instead, an offer Mozart is said to have turned down outright."
+    }
+  },
   "23201": {
     "structure": {
       "ja": "ピアノ独奏のための、主題と12の変奏からなる作品。主題は当時フランスで広く歌われていた俗謡で、単純な8小節ずつのA-B-A形式で書かれている。\n各変奏はリズムや書法を変えながら主題の輪郭を保ち続け、第8変奏だけが短調に転じる。終わりから2番目の変奏は緩やかなテンポ、最後の変奏だけが4分の3拍子に変わる。",
@@ -9,6 +49,26 @@
       "en": "The date is not certain, but it was probably written around 1781 or 1782, when Mozart was about twenty-five, and was published in Vienna in 1785.\nThe composer of the original tune is unknown; it is thought to date from around 1761. The French lyrics it originally carried had nothing to do with the children's songs the melody is now associated with worldwide — they were about a young woman working up the nerve to tell her mother about a lover she had met."
     }
   },
+  "23281": {
+    "structure": {
+      "ja": "全3楽章。オーボエ協奏曲としてもっとも頻繁に演奏される作品の1つで、翌年には自身の手でフルート協奏曲第2番に書き改められている。第2楽章アダージョは息の長い歌謡的な旋律を持ち、終楽章は軽やかなロンドで締めくくられる。",
+      "en": "Three movements. One of the most frequently performed of all oboe concertos, it was reworked by Mozart himself the following year into his Flute Concerto No. 2. The slow Adagio carries a long, singing melody, and a light rondo closes the work."
+    },
+    "story": {
+      "ja": "1777年、ザルツブルクで、当地に滞在していたオーボエ奏者ジュゼッペ・フェルレンディスのために書かれたとみられる。初演の記録は残っていないが、翌1778年には自身の手でフルート協奏曲第2番として編曲されており、この2作は同じ音楽の異なる楽器版として並び知られている。",
+      "en": "It was written in Salzburg in 1777, probably for the oboist Giuseppe Ferlendis, who was visiting the city at the time. No record of a premiere survives, but the following year, 1778, Mozart reworked it himself into his Flute Concerto No. 2, and the two are now known side by side as versions of the same music for different instruments."
+    }
+  },
+  "23302": {
+    "structure": {
+      "ja": "全3楽章。オーボエやトランペット、ティンパニを欠く柔らかい編成で書かれ、フルートとクラリネットが色彩を添える。第2楽章アダージョは嬰ヘ短調で書かれており、モーツァルトが完成させた作品の中でこの調を用いた唯一の楽章である。",
+      "en": "Three movements, scored without oboes, trumpets or timpani, in a softer texture coloured instead by flute and clarinets. The F-sharp minor Adagio is the only completed movement Mozart ever wrote in that particular key, and its long melodic lines are especially prized."
+    },
+    "story": {
+      "ja": "1786年3月2日、ウィーンで完成した。3週間後には短調のピアノ協奏曲第24番が、2か月後には歌劇「フィガロの結婚」の初演が控えており、モーツァルトの創作力がもっとも充実していた時期に書かれた1曲である。オーボエやトランペットを欠く編成も含め、初演の詳細を伝える記録は残っていない。",
+      "en": "It was completed in Vienna on 2 March 1786, three weeks before the minor-key Twenty-fourth Piano Concerto and two months before the premiere of his opera The Marriage of Figaro — placing it at the height of one of the most productive stretches of his career. No record of its own premiere survives."
+    }
+  },
   "23310": {
     "structure": {
       "ja": "全3楽章。モーツァルトが書いた27曲のピアノ協奏曲のうち、短調で書かれた最初の1曲であり、管弦楽がそれまでの協奏曲よりも劇的で対等な役割を担う書き方がなされている。\nモーツァルト自身のカデンツァは残されておらず、今日演奏される際には後年ベートーヴェンが書いたカデンツァがしばしば用いられる。",
@@ -17,6 +77,16 @@
     "story": {
       "ja": "1785年2月10日に完成し、その翌日にはモーツァルト自身の独奏でウィーンのメールグルーベ・カジノにて初演された。\n19世紀、モーツァルトの作品の多くが顧みられなくなっていた時期にも、この曲だけはレパートリーに残り続けた数少ない例のひとつだった。この曲を長く愛奏していたベートーヴェンが書いたカデンツァのほか、ブラームスやフンメル、ブゾーニらもそれぞれのカデンツァを残している。",
       "en": "It was completed on 10 February 1785, and Mozart himself was soloist in the premiere the very next day, at the Mehlgrube Casino in Vienna.\nIn the nineteenth century, when much of Mozart's output had fallen out of fashion, this was one of the few concertos that stayed in the repertoire. Beethoven, who performed it often, is among several later composers — Brahms, Hummel and Busoni also among them — who wrote their own cadenzas for it."
+    }
+  },
+  "23313": {
+    "structure": {
+      "ja": "合唱と弦楽、オルガンのための、わずか46小節の小品。アダージョの指示のもと、終始抑えた音量(ソット・ヴォーチェ)で歌われる。編成は簡素で、当時の依頼先だった教会の限られた合唱団の規模に合わせたものとみられる。",
+      "en": "A brief setting for choir, strings and organ, just 46 bars long, marked Adagio and to be sung throughout at a hushed volume (sotto voce). The modest forces likely reflect the limited choir of the parish church it was written for."
+    },
+    "story": {
+      "ja": "1791年6月17日付の自筆譜が残り、バーデン・バイ・ウィーンの教会楽長アントン・シュトルのために、聖体の祝日にあわせて書かれた。同じ年、モーツァルトは歌劇「魔笛」の作曲と並行してこの曲を仕上げており、未完に終わる「レクイエム」に着手する直前の時期にあたる。",
+      "en": "The autograph is dated 17 June 1791, and it was written for Anton Stoll, choirmaster of the parish church in Baden bei Wien, for the feast of Corpus Christi. That same year, Mozart wrote it alongside his opera The Magic Flute, shortly before beginning the Requiem he would leave unfinished."
     }
   },
   "23315": {
@@ -37,6 +107,36 @@
     "story": {
       "ja": "1788年8月10日に完成した。同じ年の6月26日に完成した第39番、7月25日の第40番に続く3曲目で、わずか数週間のうちに3曲の交響曲が書き上げられたことになる。演奏の機会が予定されていた形跡はなく、なぜこれほど集中して交響曲を書いたのかについては、秋冬シーズンに自主演奏会を開く計画があったためではないかとする説が有力視されている。\n「ジュピター」という愛称はモーツァルト自身によるものではなく、後年イギリスの興行主ザロモンが名付けたとされる。この名がロンドンの演奏会プログラムに初めて印刷で使われたのは、モーツァルトの死から30年後の1821年のことである。",
       "en": "It was completed on 10 August 1788, the third of three symphonies written within a few weeks — following the Thirty-ninth, finished on 26 June, and the Fortieth, on 25 July. There is no evidence any performance was planned; the leading theory is that he intended to mount a series of concerts of his own that autumn and winter.\nThe nickname \"Jupiter\" is not his; it is usually credited to the London impresario Johann Peter Salomon and first appears in print in a London concert programme in 1821, thirty years after Mozart's death."
+    }
+  },
+  "23448": {
+    "structure": {
+      "ja": "全3楽章、メヌエットを欠く構成で書かれた最初のモーツァルトの交響曲であり、クラリネットを含む編成を用いた最初の交響曲でもある。第2楽章は初演後に一度書き直されており、現在は改訂後のアンダンテで演奏されるのが通例である。",
+      "en": "Three movements, without a minuet — the first Mozart symphony built this way, and also the first to include clarinets. The slow movement was rewritten after its premiere, and the revised Andante is the version normally performed today."
+    },
+    "story": {
+      "ja": "1778年、滞在先のパリで書かれ、まず6月12日に貴族ジッキンゲン伯爵邸で内々に、続いて6日後の18日、コンセール・スピリチュエルで公に初演された。パリ楽壇の重鎮ルグロのために書かれた曲で、愛称「パリ」はこの地で作曲・初演されたことにちなむ。",
+      "en": "It was written in Paris in 1778, first heard privately at Count Sickingen's residence on 12 June, then publicly six days later, on 18 June, at the Concert Spirituel. It was written for Joseph Legros, a leading figure in Parisian concert life, and its nickname simply reflects the city where it was composed and first performed."
+    }
+  },
+  "23468": {
+    "structure": {
+      "ja": "独唱・合唱と管弦楽のための未完の大ミサ曲。作曲されたのは「キリエ」「グローリア」「サンクトゥス」までで、「クレド」の後半と「アニュス・デイ」は書かれないまま残された。「エト・インカルナトゥス・エスト」の独唱は妻コンスタンツェのために書かれたとされる。",
+      "en": "An unfinished mass for soloists, chorus and orchestra. Only the Kyrie, Gloria and Sanctus were completed; the later parts of the Credo and the whole Agnus Dei were never written. The soprano solo \"Et incarnatus est\" is said to have been written for his wife Constanze."
+    },
+    "story": {
+      "ja": "1782年から83年にかけてウィーンで作曲された。妻コンスタンツェをザルツブルクへ連れて行くことができたら特別なミサ曲を捧げると誓ったことに由来するとされ、1783年10月26日、ザルツブルクの聖ペーター修道院教会で初演された。ソプラノ独唱はコンスタンツェ自身が歌ったと伝えられている。",
+      "en": "It was written in Vienna in 1782 and 1783, reportedly in fulfilment of a vow to compose a special mass once he could bring his wife Constanze to Salzburg. It premiered there on 26 October 1783, at St Peter's Abbey church, with Constanze herself said to have sung the soprano solo."
+    }
+  },
+  "23497": {
+    "structure": {
+      "ja": "全2幕の歌劇(オペラ・ブッファ)で、ダ・ポンテとの3作目にして最後の共作。姉妹が恋人の変装を見破れず心変わりしてしまう筋書きを通じ、恋愛における誠実さそのものを問いかける内容になっている。フィオルディリージのアリア「岩のように動かず」など、高い声域と技巧を要する場面が目立つ。",
+      "en": "An opera buffa in two acts, the third and last of his collaborations with librettist Da Ponte. Through two sisters who fail to see through their disguised lovers and fall for them anyway, it questions constancy in love itself. Fiordiligi's aria \"Come scoglio\" is famous for its demanding range."
+    },
+    "story": {
+      "ja": "1789年から90年にかけてウィーンで作曲され、1790年1月26日、ブルク劇場で初演された。しかし初演からまもなく皇帝ヨーゼフ2世が没し、宮廷の喪に服す期間として上演は5回で中断、同年6月から8月にかけて再開された。6月の上演の一つはモーツァルト自身が指揮を執っている。",
+      "en": "It was composed in Vienna in 1789 and 1790 and premiered at the Burgtheater on 26 January 1790. The run was halted after just five performances by the death of Emperor Joseph II and the court mourning that followed, resuming that June through August; Mozart himself conducted one of the June performances."
     }
   },
   "23512": {
