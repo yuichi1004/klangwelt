@@ -9,6 +9,26 @@
       "en": "The original version was written in 1716, during his time in Weimar, and lacked recitatives. After moving to Leipzig, he expanded it in 1723 for the feast of the Visitation, adding three recitatives and the now-famous closing chorale.\nAs director of music at Leipzig's Thomaskirche, Bach was expected to compose and direct close to sixty church cantatas a year, and this piece was one product of that heavy workload."
     }
   },
+  "9172": {
+    "structure": {
+      "ja": "8小節の低音主題に20の変奏を重ねるパッサカリアから、切れ目なく二重フーガへ続く。フーガはオスティナートの前半・後半をそれぞれ主題とし、対位法の頂点を築く。ハ短調、オルガン独奏曲。",
+      "en": "An 8-bar ostinato bass underpins twenty variations in the passacaglia, which flows without pause into a double fugue built on the ostinato's first and second halves as twin subjects, reaching a contrapuntal climax. Organ solo in C minor."
+    },
+    "story": {
+      "ja": "1707年前後、アルンシュタット時代の作と推定されるが確証はなく、初演や献呈についての記録も残っていない。冒頭主題はオルガン奏者アンドレ・レゾンのミサ曲からの借用という説があるが真偽は定かでない。シューマンはこの変奏書法の巧みさを高く評価したと伝えられる。",
+      "en": "Likely composed around 1707 during Bach's Arnstadt years, though this is unconfirmed, and no record survives of any premiere or dedication. The opening theme is thought by some scholars to derive from a Mass movement by André Raison, though this remains uncertain. Schumann reportedly admired the passacaglia's richly inventive variation technique."
+    }
+  },
+  "9221": {
+    "structure": {
+      "ja": "全6楽章、ホ長調。プレリュード、ルール、ロンド形式のガヴォット、メヌエット2曲、ブーレ、ジーグと続く、舞曲様式を凝縮した無伴奏ヴァイオリンのための組曲。とりわけ冒頭のプレリュードは、重音奏法を駆使した高度な技巧で知られる。",
+      "en": "Six movements in E major — Preludio, Loure, a rondo-form Gavotte, two Menuets, a Bourrée, and a Gigue — form a suite of stylized dances for unaccompanied violin, prized for the virtuosic multiple-stopping of its opening Preludio."
+    },
+    "story": {
+      "ja": "1720年、ケーテン時代に自筆浄書「伴奏なしヴァイオリンのための6曲」の一つとして完成した。バッハ自身が後年プレリュード楽章をリュート編曲や教会カンタータに転用しており、この主題を高く評価していたことがうかがえる。1977年には終曲近くのガヴォットが無人探査機ボイジャーのゴールデンレコードに収録された。",
+      "en": "Completed in 1720 at Köthen as part of a fair-copy set titled 'Six Solos for Violin without Bass.' Bach later arranged the Preludio for lute and reused it in church cantatas, suggesting his regard for the movement. In 1977, the Gavotte was included on the Voyager Golden Record, sent into interstellar space aboard the twin Voyager probes."
+    }
+  },
   "9231": {
     "structure": {
       "ja": "無伴奏チェロのための組曲、全6曲のうちの第1番。プレリュード、アルマンド、クーラント、サラバンド、メヌエット2曲、ジーグという舞曲風の楽章が続く、バロック組曲の標準的な構成をとる。\n単旋律楽器であるチェロ1本だけで、和声・対位法的な声部の錯覚までも生み出す書き方が特徴で、冒頭のプレリュードは分散和音が絶え間なく流れ続ける親しみやすい旋律で始まる。",
@@ -19,6 +39,26 @@
       "en": "There is no surviving record of exactly when it was written, but it is generally dated to around 1717-23, while Bach was court composer at Köthen.\nIt was not published until 1825, after his death, and for a long time afterward was treated mainly as technical study material rather than concert repertoire. Its rehabilitation is usually traced to the cellist Pablo Casals, who found an edition of the suites in a Barcelona bookshop at the age of thirteen; his complete recording of the set, made between 1936 and 1939, is generally credited with establishing the suites as core concert repertoire."
     }
   },
+  "9318": {
+    "structure": {
+      "ja": "全24の前奏曲とフーガから成り、ハ長調を起点に半音ずつ上行しながら各長調の後に同主短調を続ける配列を取る。「クラヴィーア」はチェンバロやクラヴィコードなど鍵盤楽器全般を指し、特定の楽器を指定しない。",
+      "en": "Twenty-four preludes and fugues progress chromatically upward from C major, each major key followed by its parallel minor, exploring every key across the octave. 'Clavier' denotes keyboard instruments generally — harpsichord, clavichord, or organ — rather than one specific instrument."
+    },
+    "story": {
+      "ja": "1740年頃、ライプツィヒ時代にまとめられたとされる。第1巻と異なりバッハ自身による統一的な表題はなく、「第2巻」という呼び方も後世の通称にすぎない。バッハの死後51年を経た1801年、ボンやライプツィヒなどの出版社から初めて印刷刊行された。",
+      "en": "Compiled around 1740 during Bach's Leipzig years. Unlike Book One, Bach gave it no unifying title of his own — 'Book Two' is a later convenience label. It first appeared in print only in 1801, fifty-one years after his death, issued simultaneously by publishers in Bonn and Leipzig. No performance of the complete collection is documented from Bach's lifetime."
+    }
+  },
+  "9327": {
+    "structure": {
+      "ja": "フランス風序曲に続き、ロンド、サラバンド、ブーレ、ポロネーズと二重奏(ドゥーブル)、メヌエット、終曲バディヌリを配した全7曲、ロ短調の組曲。独奏フルートと弦楽・通奏低音のみの編成で、オーボエやトランペットは用いない。",
+      "en": "Seven movements in B minor open with a French overture and continue through Rondeau, Sarabande, Bourrée, a Polonaise with Double, Menuet, and the closing Badinerie. Scored only for solo flute, strings, and continuo, without oboes or trumpets."
+    },
+    "story": {
+      "ja": "自筆総譜は失われ、パート譜から1738年頃、ライプツィヒ時代の作と推定される。初演の記録はない。終曲「バディヌリ」はフランス語で「戯れ」を意味する語で、独奏フルート奏者の技巧を示す曲として単独でもしばしば演奏される。バッハ協会全集による出版は1885年である。",
+      "en": "The autograph score is lost; surviving parts suggest a date around 1738, during Bach's Leipzig years, though no record of a premiere survives. The closing Badinerie, French for 'jesting,' is often performed alone as a showpiece for solo flute. The complete Bach-Gesellschaft edition appeared only in 1885, more than a century after Bach's death."
+    }
+  },
   "9334": {
     "structure": {
       "ja": "独唱・合唱・管弦楽のための教会カンタータ、全7曲。ニコライ作の讃美歌「目覚めよと呼ぶ声あり」の3節がそれぞれ第1・4・7曲の骨格となり、その間に匿名の作者による詩句が挿入される。\n第4曲は、テノールが讃美歌の旋律を歌い、弦楽器が独立した優美な旋律を奏でるという、コラール前奏曲的な書法が特徴で、単独でもしばしば演奏される。",
@@ -27,6 +67,56 @@
     "story": {
       "ja": "教会暦上、三位一体後第27主日という、年によっては巡ってこない日のために書かれ、1731年11月25日に初演された。バッハがライプツィヒで手がけた2度目のコラール・カンタータ年巻を締めくくる作品にあたる。\n歌詞の元になった讃美歌は、ペストの流行に見舞われた町で牧師を務めていたニコライが、その流行の最中に自ら病から回復する過程で書いたと伝えられる。",
       "en": "It was written for the 27th Sunday after Trinity, a date that does not occur every year, and premiered on 25 November 1731, rounding off the second annual cycle of chorale cantatas Bach produced in Leipzig.\nThe hymn behind the text is said to have been written by Nicolai, a pastor in a town gripped by plague, while he himself was recovering from the illness."
+    }
+  },
+  "9357": {
+    "structure": {
+      "ja": "全3楽章、ホ長調。第1楽章アレグロはリトルネロ形式によるABA構成、第2楽章アダージョは嬰ハ短調でシャコンヌ風の執拗な低音を持ち、終楽章アレグロ・アッサイはロンド風に展開する。独奏ヴァイオリンと弦楽合奏、通奏低音による標準的な協奏曲編成。",
+      "en": "Three movements in E major: an Allegro in ritornello ABA form, an Adagio in C-sharp minor built over a chaconne-like repeating bass, and a rondo-like Allegro assai finale. Scored for solo violin with string orchestra and continuo in standard concerto format."
+    },
+    "story": {
+      "ja": "1720年頃、ケーテンまたはライプツィヒ時代の作とみられるが確証はない。バッハ自身が後年、音域の都合で全音下げ、ニ長調のチェンバロ協奏曲BWV1054に編曲しており、この旋律への愛着がうかがえる。いずれの版についても初演の記録は残っておらず、今日ではヴァイオリン協奏曲の中でも人気の高い一曲となっている。",
+      "en": "Likely composed around 1720, though whether at Köthen or during the early Leipzig years remains uncertain. Bach later transposed it down a whole step and reworked it as the D major harpsichord concerto, BWV 1054, suggesting a lasting fondness for the melodic material. No record survives of a premiere for either version."
+    }
+  },
+  "9373": {
+    "structure": {
+      "ja": "全3楽章、ト長調。合奏協奏曲(コンチェルティーノ)形式で、独奏ヴァイオリンと2本のリコーダー(原譜表記「フィアウティ・デコー」)が独奏群を成す。第1・第3楽章で独奏ヴァイオリンが高度な技巧を披露し、第3楽章はフーガ的書法を含む。",
+      "en": "Three movements in G major, cast as a concerto grosso whose concertino group pairs a solo violin with two recorders, marked 'fiauti d'echo' in the score. The violin carries brilliant, virtuosic writing in the outer movements, and the finale unfolds in fugal style."
+    },
+    "story": {
+      "ja": "1721年3月24日、他5曲とともにブランデンブルク＝シュヴェット辺境伯クリスティアン・ルートヴィヒへ献呈された。しかし宮廷での演奏記録は残っていない。辺境伯の死後の1734年、楽譜は蔵書中で使われないまま残り、遺品整理の際にわずかな金額で売却されたと伝えられる。",
+      "en": "Dedicated on 24 March 1721, together with five companion concertos, to Christian Ludwig, Margrave of Brandenburg-Schwedt — though no record shows it was ever performed at his court. After the margrave's death in 1734, the score sat unused in his library and was reportedly sold for a trifling sum when his estate was settled."
+    }
+  },
+  "9379": {
+    "structure": {
+      "ja": "全5楽章、ニ短調。アルマンド、コレンテ、サラバンダ、ジーガに続き、圧倒的な規模を持つ終曲「シャコンヌ」で締めくくられる、無伴奏ヴァイオリンのための組曲。シャコンヌ単独の演奏時間は、先行する4楽章の合計にほぼ匹敵する。",
+      "en": "Five movements in D minor — Allemande, Corrente, Sarabanda, and Giga — culminate in the monumental closing Ciaccona, a set of variations for unaccompanied violin nearly as long as the four preceding dances combined, music long regarded as one of the summits of the solo violin repertoire."
+    },
+    "story": {
+      "ja": "1720年、ケーテン時代に自筆浄書「伴奏なしヴァイオリンのための6曲」の一つとして完成した。終曲シャコンヌについては、同年に世を去った最初の妻マリア・バルバラへの追悼として書かれたとする説が音楽学者ヘルガ・テーネによって唱えられているが、異論も多くUNCERTAINな仮説にとどまる。",
+      "en": "Completed in 1720 at Köthen as part of the same fair-copy set as the other unaccompanied violin works. Musicologist Helga Thoene has proposed that the closing Ciaccona was written as a memorial to Bach's first wife, Maria Barbara, who died that same year — a theory many scholars dispute and that remains unconfirmed."
+    }
+  },
+  "9411": {
+    "structure": {
+      "ja": "全4楽章、ヘ長調。ブランデンブルク協奏曲中唯一の4楽章構成で、角笛(コルノ・ダ・カッチャ)2、オーボエ3、ヴィオリーノ・ピッコロを含む大編成をとる。終楽章はメヌエットとポロネーズを交互に配した複合的な舞曲群。",
+      "en": "Four movements in F major — the only four-movement work among the Brandenburg Concertos — scored for an unusually large ensemble including two hunting horns, three oboes, and violino piccolo. The finale strings together a Menuet, Trio, and Polacca in alternation."
+    },
+    "story": {
+      "ja": "1721年3月24日、他5曲とともにブランデンブルク＝シュヴェット辺境伯へ献呈された。第1楽章は、以前に作曲した祝賀カンタータのシンフォニアを転用したものとされる。「ブランデンブルク協奏曲」という総称は、1873年に音楽学者フィリップ・シュピッタが伝記の中で名付けたことに由来する。",
+      "en": "Dedicated on 24 March 1721, alongside five companion concertos, to the Margrave of Brandenburg-Schwedt; its first movement reworks the sinfonia from an earlier festive cantata. The collective title 'Brandenburg Concertos' did not exist in Bach's lifetime — it was coined only in 1873, when the musicologist Philipp Spitta used it in his biography of the composer."
+    }
+  },
+  "9433": {
+    "structure": {
+      "ja": "ト短調、4声のフーガ。コレッリ様式の八分音符アウフタクトを特徴とする4小節半の主題が、オルガン独奏によって展開される単一楽章の小品で、通常の前奏曲を伴わない。同じト短調で規模の大きい「大フーガ」BWV542としばしば対比される。",
+      "en": "A four-voice fugue in G minor, built on a compact four-and-a-half-bar subject that opens with a Corelli-style eighth-note upbeat figure and unfolds as a single continuous movement for solo organ, without a separate prelude of its own."
+    },
+    "story": {
+      "ja": "1707年前後、アルンシュタット時代の作と推定される。「小フーガ」という通称は、後年の編集者が同じト短調でより規模の大きい「大フーガ」BWV542と区別するために付けたものである。バッハの数あるオルガン作品の中でも特に有名な一曲として、今日も編曲や引用を通じて親しまれ続けている。",
+      "en": "Thought to date from around 1707, during Bach's years in Arnstadt. The nickname 'Little,' added by later editors, distinguishes it from the larger G minor fugue, BWV 542, known as the 'Great.' It remains one of Bach's most famous organ fugues, still arranged and quoted across genres today, including orchestral transcriptions and appearances in film and popular music."
     }
   },
   "9664": {
