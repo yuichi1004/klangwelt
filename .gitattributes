@@ -1,0 +1,5 @@
+# Generated artifacts assembled by `npm run build:editorial` from the
+# per-id source files under data/editorial/composers/ and data/editorial/works/.
+# Never hand-edit these; see CONTRIBUTING.md.
+data/editorial/composers.json linguist-generated=true
+data/editorial/works.json     linguist-generated=true

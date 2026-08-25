@@ -1,0 +1,12 @@
+{
+  "14083": {
+    "structure": {
+      "ja": "3つのヴァイオリンと通奏低音のための作品で、カノン（各声部が同じ旋律を一定の間隔で追いかける手法）とジーグの2曲からなるが、演奏・録音されるのはほぼ常にカノンの部分だけである。\n通奏低音は全曲を通じて同じ2小節の低音型を28回繰り返し続け、その上で3声のヴァイオリンが8小節の主題を輪唱のように重ねていく。和声はほとんど動かず、変化は声部が徐々に増え、音型が細かくなっていく過程そのものにある。",
+      "en": "Written for three violins and continuo, it pairs a canon — three voices chasing the same melody at a fixed interval — with a gigue, though in concert and on record only the canon is almost ever heard.\nThe continuo repeats the same two-bar bass pattern twenty-eight times without change, while the three violins layer an eight-bar theme over it in strict imitation. The harmony barely moves; what changes is the gradual entry of each voice and the increasing rhythmic activity above the fixed bass."
+    },
+    "story": {
+      "ja": "作曲された時期も経緯も記録がなく、19世紀を通じてほとんど忘れられた作品だった。1919年に学術的に再発見されたものの一般には知られず、広く知られるようになったのは1968年のジャン=フランソワ・パイヤールによる録音がきっかけとされる。\n以後、結婚式の定番曲として、また多くのポピュラー音楽で和声進行がそのまま借用される曲として定着した。パッヘルベル自身がこれほど有名になることを想定していたと考える根拠は何もない。",
+      "en": "Nothing is known about when or why it was written, and for most of the nineteenth century it was essentially forgotten. It resurfaced in scholarly circles in 1919 but remained a specialist's curiosity; wide recognition is usually traced to a 1968 recording by the conductor Jean-François Paillard.\nSince then it has become a fixture at weddings and a chord progression borrowed wholesale by countless pop songs. There is no reason to think Pachelbel himself expected anything like this reception."
+    }
+  }
+}

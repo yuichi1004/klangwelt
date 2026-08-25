@@ -1,0 +1,12 @@
+{
+  "26562": {
+    "structure": {
+      "ja": "通常式文(キリエ、グローリア、クレド、サンクトゥスとベネディクトゥス、アニュス・デイ)を6声(のちアニュス・デイ第2部のみ7声に増強)で作曲したミサ曲。特定の旋律や既存曲を素材とせず新たに書き下ろされており、複雑な模倣対位法を避け、和音をそろえてほぼ同じリズムで各声部を進める簡潔な書法が特徴で、ラテン語の歌詞が聴き取りやすいことを重視した書法がとられている。",
+      "en": "A setting of the Ordinary of the Mass (Kyrie, Gloria, Credo, Sanctus and Benedictus, Agnus Dei) for six voices, expanding to seven only for the second Agnus Dei. It is freely composed, drawing on no borrowed melody or existing model, and largely avoids dense imitative counterpoint in favour of a clear, chordal, near-homorhythmic texture designed above all to keep the Latin text intelligible."
+    },
+    "story": {
+      "ja": "作曲年代は確定していないが、1562年頃、ローマのサンタ・マリア・マッジョーレ聖堂の写本に書き写された記録があり、この頃までに書かれていたとする説が有力視されている。1567年、パレストリーナの「ミサ曲集第2巻」で出版された。曲名は、1555年にわずか22日間在位して世を去った教皇マルチェルス2世にちなむ。\n後世、トリエント公会議が典礼における多声音楽のあり方を審議し、歌詞を聴き取りにくくする過剰な対位法を禁じかねなかったところ、このミサ曲がその明快さによって多声音楽を「救った」とする逸話が広く語り継がれてきた。しかし今日の研究では、これは後年になって形づくられた伝説とみなされており、当時の教皇庁の記録にも、この曲が実際にそうした審議の場で演奏された、あるいは決定に影響したことを裏づける証拠は見当たらない。",
+      "en": "The date of composition is not firmly established, but a copy entered into a manuscript at Santa Maria Maggiore in Rome around 1562 suggests it existed by then. It was published in 1567, in Palestrina's Second Book of Masses. Its title honours Pope Marcellus II, who reigned for only twenty-two days before his death in 1555.\nA celebrated story holds that the Council of Trent, debating whether to ban polyphonic church music for obscuring the text, was persuaded to spare it after hearing this very mass performed for a cardinal — supposedly \"saving\" polyphony through its clarity. Modern scholarship, however, treats this as a legend that took shape only later, and no contemporary record from the papal court confirms that the mass was actually performed at any such hearing or swayed its outcome."
+    }
+  }
+}

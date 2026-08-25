@@ -1,0 +1,22 @@
+{
+  "19303": {
+    "structure": {
+      "ja": "パーセルの主題による変奏曲とフーガ、全体は語り手を伴って演奏される(語りなしの演奏も可能)。全楽器がまず主題を斉奏し、その後、木管・金管・弦・打楽器という楽器群ごとに、さらに個々の楽器ごとに主題を変奏していく構成をとる。\n終盤のフーガでは、各楽器が加わってきた順番のまま次々と主題の断片を重ねていき、最後に金管が冒頭のパーセルの主題を再現して全曲を締めくくる。",
+      "en": "Variations and a fugue on a theme by Purcell, designed to be performed with a narrator (though it also works without one). The whole orchestra states the theme together, after which it is varied section by section — woodwind, brass, strings, percussion — and then instrument by instrument.\nThe closing fugue brings each instrument back in, one after another in the same order, layering fragments of the theme until the brass restates Purcell's original tune to close the work."
+    },
+    "story": {
+      "ja": "教育映画「オーケストラの楽器」のために、1945年に作曲された。この映画は1946年11月29日に公開されている。1945年はパーセル没後250年にあたり、ブリテンはすでに弦楽四重奏曲第2番などでも彼に敬意を表していた。\n主題にはパーセルが1695年に劇音楽「アブデラザール」のために書いた組曲のロンドー楽章が用いられている。作曲は1945年大晦日に完成した。演奏会形式での初演は翌1946年10月15日、リヴァプールでマルコム・サージェント指揮リヴァプール・フィルハーモニー管弦楽団によりおこなわれている。",
+      "en": "It was composed in 1945 for an educational film, Instruments of the Orchestra, released on 29 November 1946. 1945 marked the 250th anniversary of Purcell's death, and Britten had already paid tribute to him elsewhere, including in his Second String Quartet.\nThe theme comes from the rondeau of a suite Purcell wrote in 1695 for the incidental music to the play Abdelazer. He finished composing it on New Year's Eve, 1945. The concert premiere followed on 15 October the next year in Liverpool, with Malcolm Sargent conducting the Liverpool Philharmonic Orchestra."
+    }
+  },
+  "19471": {
+    "structure": {
+      "ja": "序幕と全3幕(各幕2場)からなる歌劇。台本はモンタギュー・スレイターが、ジョージ・クラッブの物語詩「町」(1810年)に基づいて書いた。場面転換の合間に置かれた4つの管弦楽間奏曲「夜明け」「日曜の朝」「月光」「嵐」は、登場人物たちの心理を映す背景として海そのものを描き出しており、演奏会用組曲としても独立してしばしば演奏される。第2幕の2つの場の間に置かれたパッサカリアも、執拗に反復される低音主題に基づく管弦楽の聴きどころのひとつである。",
+      "en": "An opera in a prologue and three acts, each divided into two scenes, its libretto by Montagu Slater after George Crabbe's narrative poem The Borough (1810). The four orchestral interludes placed between scenes — \"Dawn,\" \"Sunday Morning,\" \"Moonlight,\" and \"Storm\" — evoke the sea itself as a psychological backdrop to the drama, and are often extracted and performed as a concert suite in their own right. The Passacaglia linking the two scenes of Act 2, built over an obsessively repeating bass line, is another frequently excerpted orchestral highlight."
+    },
+    "story": {
+      "ja": "ブリテンが第二次世界大戦初期、パートナーのテノール歌手ピーター・ピアーズとともにアメリカに滞在していた頃、詩人ジョージ・クラッブについての記事を読んだことをきっかけに、故郷イギリスの海辺への郷愁にかられて構想したとされる。クーセヴィツキー音楽財団からの委嘱を受け、1944年に完成した。\n初演は1945年6月7日、ロンドンのサドラーズ・ウェルズ劇場で、レジナルド・グッドール指揮によりおこなわれ、タイトルロールをピーター・ピアーズ、エレン・オーフォード役をジョーン・クロスが歌った。第二次世界大戦の被害から再建されたばかりの同劇場の再開を飾る新作としても大きな注目を集め、たちまち大成功を収めた。ロンドンのバス車掌が「ピーター・グライムズ、あのサディストの漁師行きはさらにご乗車を!」と呼びかけていたと伝えられるほど、初演直後から一般にも広く知れ渡ったという。",
+      "en": "Britten is said to have conceived the opera while living in the United States with his partner, the tenor Peter Pears, in the early years of the Second World War, prompted by an article on the poet George Crabbe that stirred a wave of homesickness for the English coast. Commissioned through the Koussevitzky Music Foundation, it was completed in 1944.\nIt premiered on 7 June 1945 at Sadler's Wells Theatre in London, conducted by Reginald Goodall, with Peter Pears creating the title role and Joan Cross as Ellen Orford. The premiere drew particular attention as the work chosen to reopen the theatre after its wartime closure, and it was an immediate triumph. A London bus conductor is said to have been calling out for \"any more for Peter Grimes, the sadistic fisherman\" within weeks of the opening — a sign of how quickly the opera entered popular awareness."
+    }
+  }
+}

@@ -2,13 +2,15 @@
 
 主な作業は、機械的に生成できないコンテンツを書き足すことです。追加後は `npm run seed:catalog` を実行して配信用 JSON を作り直してください。
 
-## 楽曲の解説文を書く（`data/editorial/works.json`）
+## 楽曲の解説文を書く（`data/editorial/works/<composerId>.json`）
 
-Open Opus の楽曲 ID をキーにします。日英の両方を必ず書いてください。片方だけだともう一方の言語で空欄になります。
+作曲家1名につき1ファイル（例: `data/editorial/works/145.json`）に、その作曲家の楽曲 ID をキーとして書きます。編集後は必ず `npm run build:editorial` を実行してください — アプリが実際に読み込む `data/editorial/works.json` はこのコマンドで組み立てられる成果物で、手で直接編集するものではありません（`data/editorial/composers/` と同じ分割方式です）。
+
+日英の両方を必ず書いてください。片方だけだともう一方の言語で空欄になります。
 
 ```json
 {
-  "16406": {
+  "16121": {
     "structure": { "ja": "…", "en": "…" },
     "story":     { "ja": "…", "en": "…" }
   }
@@ -45,9 +47,13 @@ Wikipedia は CC BY-SA です。文章をそのまま使うと、帰属表示と
 ### コミット前に機械チェックを通す
 
 ```bash
-npm run check:work-editorial -- 16406     # 年号とWikipedia類似度のチェック（対象IDを指定）
-npm run check:work-editorial -- --all     # 全件チェック
+npx tsx scripts/seed/build-editorial.ts             # works.json / composers.json を組み立て直す
+npm run check:work-editorial -- 16406                # 年号とWikipedia類似度のチェック（対象IDを指定）
+npm run check:work-editorial -- --composer 145       # ある作曲家の全曲をまとめてチェック
+npm run check:work-editorial -- --all                # 全件チェック
 ```
+
+`check:work-editorial` は組み立て済みの `data/editorial/works.json` を読みます。ソースファイル（`data/editorial/works/<composerId>.json`）を編集した直後は先に `build-editorial.ts` を実行してください — 忘れると古い内容のままチェックが通ってしまいます。
 
 `check:work-editorial` は実行のたびにWikipediaの記事を取得しますが、**取得したテキストは比較にのみ使い、保存も出力もしません**。落ちるのは主に次の2パターンです。
 

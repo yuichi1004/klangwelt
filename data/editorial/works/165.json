@@ -1,0 +1,22 @@
+{
+  "18412": {
+    "structure": {
+      "ja": "序奏と5つのワルツ、コーダからなる演奏会用ワルツ。序奏は軍隊行進曲のような荘重な性格で始まり、そこから優雅なワルツの連なりへと移っていく、通常のウィンナ・ワルツとは異なる格式張った構成をとる。\n祝典的な性格を強く持ちながらも過度に華美になりすぎない、抑制の効いた気品ある書き方が特徴とされる。",
+      "en": "A concert waltz with an introduction, five waltz sections and a coda. The introduction opens in the stately manner of a military march before giving way to a chain of elegant waltzes — a more formal shape than the usual Viennese waltz.\nIt carries a strongly ceremonial character while staying restrained rather than overly showy, prized for its dignified poise."
+    },
+    "story": {
+      "ja": "もとは「手に手を取って」という題名で、1889年8月、オーストリア皇帝フランツ・ヨーゼフ1世がドイツ皇帝ヴィルヘルム2世を訪問した際の、両国の友好を象徴する乾杯の音楽として構想された。\n出版者フリッツ・ジムロックの提案により、どちらの皇帝とも解釈できる「皇帝円舞曲」という題名に改められた。楽譜の表紙にはオーストリア帝冠の図案が用いられている。初演は同年10月21日、ベルリンでおこなわれた。",
+      "en": "It was originally titled \"Hand in Hand,\" conceived in August 1889 as a musical toast symbolising friendship between Austria and Germany, on the occasion of Emperor Franz Joseph I's visit to Emperor Wilhelm II.\nAt the suggestion of his publisher Fritz Simrock, the title was changed to Kaiser-Walzer (\"Emperor Waltz\"), ambiguous enough to allude to either monarch; the cover of the piano edition carried an image of the Austrian imperial crown. It premiered in Berlin on 21 October that year."
+    }
+  },
+  "18889": {
+    "structure": {
+      "ja": "序奏と5つのワルツ、コーダからなるウィンナ・ワルツ。序奏は静かなトレモロに乗ってワルツの主題を予告し、そこから性格の異なる5つのワルツが次々と続く。\n最初のワルツ主題は分散和音を上昇していく親しみやすい旋律で、以後のワルツはそれぞれ異なる調・拍節感の揺らぎを見せながら、最後は序奏の回想を経て華やかに閉じられる。",
+      "en": "A Viennese waltz in the standard shape: an introduction, five waltz sections each with its own character, and a coda.\nThe introduction sets up the main waltz theme over a hushed tremolo; the first waltz itself is a rising, arpeggio-based tune, and each of the following sections shifts key and metrical feel before the piece recalls the introduction and closes in full splendour."
+    },
+    "story": {
+      "ja": "1866年、プロイセンとの戦争（普墺戦争）でオーストリアが敗れた直後、意気消沈した市民を元気づける目的で、ウィーン男声合唱協会の指揮者ヘルベックが作曲を依頼した。\n当初は合唱団のための歌曲として書かれ、1867年2月15日に初演されたが、敗戦を揶揄する歌詞が不評でさほど評価されなかった。同年4月、パリ万国博覧会で歌詞なしの管弦楽版が演奏されると一転して熱狂的に迎えられ、以後彼の代名詞となる作品として定着した。",
+      "en": "In 1866, just after Austria's defeat in its war with Prussia, the conductor Johann von Herbeck commissioned a piece from Strauss to lift the spirits of a demoralised Vienna, on behalf of the city's Men's Choral Association.\nIt was written first as a choral song and premiered on 15 February 1867, but the lyrics — which mocked the lost war — went over poorly, and the piece made little impression. Then, in April that year, a purely orchestral version performed at the Paris World's Fair was received with enthusiasm, and it has been inseparable from his name ever since."
+    }
+  }
+}

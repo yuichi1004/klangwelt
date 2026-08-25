@@ -2,7 +2,11 @@
  * Runs the year-grounding and Wikipedia-similarity gates from
  * `src/lib/editorial-guard.ts` against real work entries before they are
  * committed — the same two checks `check-composer-editorial.ts` runs for
- * composers, applied to `data/editorial/works.json`.
+ * composers, applied to the built `data/editorial/works.json`.
+ *
+ * `works.json` is a generated artifact assembled by `npm run build:editorial`
+ * from the per-composer source files under `data/editorial/works/` — run
+ * that first, or this checks stale prose and a pass here means nothing.
  *
  * There is no automated fact source for individual works (unlike composers'
  * Wikidata fetch): song/work titles do not match Wikidata items reliably
@@ -17,9 +21,11 @@
  * `editorial-guard.ts`.
  *
  * Usage:
- *   npx tsx scripts/seed/check-work-editorial.ts 16406 16238   # by id
- *   npx tsx scripts/seed/check-work-editorial.ts --all         # every entry
- *                                                                 in works.json
+ *   npx tsx scripts/seed/check-work-editorial.ts 16406 16238        # by id
+ *   npx tsx scripts/seed/check-work-editorial.ts --composer 145     # every
+ *                                                    entry for that composer
+ *   npx tsx scripts/seed/check-work-editorial.ts --all              # every
+ *                                                       entry in works.json
  */
 import { readFile } from "node:fs/promises";
 import path from "node:path";
@@ -166,18 +172,19 @@ async function main() {
   const args = process.argv.slice(2);
   const calibrate = args.includes("--calibrate");
   const useAll = args.includes("--all");
-  const ids = args.filter((arg) => !arg.startsWith("--"));
+  const composerFlagIndex = args.indexOf("--composer");
+  const composerFilter =
+    composerFlagIndex >= 0 ? args[composerFlagIndex + 1] : undefined;
+  const ids = args.filter(
+    (arg, i) =>
+      !arg.startsWith("--") &&
+      !(composerFlagIndex >= 0 && i === composerFlagIndex + 1),
+  );
 
   const works = JSON.parse(await readFile(WORKS_PATH, "utf8")) as Record<
     string,
     WorkEditorial
   >;
-  const targetIds = useAll ? Object.keys(works) : ids;
-
-  if (targetIds.length === 0) {
-    console.error("Usage: check-work-editorial.ts <id...> | --all [--calibrate]");
-    process.exit(1);
-  }
 
   const coreWorks = JSON.parse(
     await readFile(CORE_WORKS_PATH, "utf8"),
@@ -188,6 +195,24 @@ async function main() {
     await readFile(COMPOSERS_PATH, "utf8"),
   ) as CatalogComposer[];
   const composersById = new Map(composers.map((composer) => [composer.id, composer]));
+
+  let targetIds: string[];
+  if (useAll) {
+    targetIds = Object.keys(works);
+  } else if (composerFilter) {
+    targetIds = Object.keys(works).filter(
+      (id) => worksById.get(id)?.composerId === composerFilter,
+    );
+  } else {
+    targetIds = ids;
+  }
+
+  if (targetIds.length === 0) {
+    console.error(
+      "Usage: check-work-editorial.ts <id...> | --composer <id> | --all [--calibrate]",
+    );
+    process.exit(1);
+  }
 
   let allFacts: Record<string, WorkFacts> = {};
   try {
