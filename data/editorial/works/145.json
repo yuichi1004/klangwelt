@@ -9,6 +9,16 @@
       "en": "He added a note to the score: \"more an expression of feeling than painting.\" The point was not to copy the sounds of nature but to trace what being in the countryside does to a listener — a caveat quoted ever since in arguments about programme music."
     }
   },
+  "16123": {
+    "structure": {
+      "ja": "ヴァイオリンとピアノ双方のための全4楽章のソナタ。歌うように穏やかな第1楽章に始まり、緩徐楽章、快活なスケルツォを経て、生き生きとしたロンドで締めくくられる、全曲を通じて牧歌的で叙情的な性格を持つ。",
+      "en": "A sonata for violin and piano in four movements: a gently songful opening Allegro, a slow movement, a lively Scherzo, and a buoyant closing Rondo — a work whose pastoral, lyrical character runs through all four movements."
+    },
+    "story": {
+      "ja": "1800年から01年にかけて作曲され、フリース伯爵モーリッツに献呈された。同時期に書かれた弦楽五重奏曲作品29も同じ伯爵に捧げられている。当初はヴァイオリンソナタ第4番と対にして構想されていたとされ、「春」という愛称はベートーヴェン自身によるものではなく、後年になって定着したものである。",
+      "en": "Composed in 1800 and completed the following year, it was dedicated to Count Moritz von Fries, who also received the dedication of the String Quintet Op. 29 from around the same time. The sonata may originally have been conceived alongside Violin Sonata No. 4 before the two were split apart, and its \"Spring\" nickname was not Beethoven's own but was attached only after his death."
+    }
+  },
   "16124": {
     "structure": {
       "ja": "全4楽章。第2楽章「アレグレット」は、同じ付点リズムの音型が執拗に反復されながら次第に楽器を増やしていく行進曲風の楽章で、初演時から単独でアンコールされるほどの人気を博した。\n全曲を通じてリズムの推進力そのものが主役となっており、当時「舞踏の神格化」と評されたと伝えられる性格描写がしばしば引用される。",
@@ -27,6 +37,26 @@
     "story": {
       "ja": "ベートーヴェンはナポレオンを、生まれではなく実力で頂点に立った象徴として敬愛しており、当初この交響曲をナポレオンに献呈するつもりで作曲を進めていた。\nしかし1804年、ナポレオンが皇帝の座に就いたと知ると激怒し、弟子リースの証言によれば「あれもただの人間にすぎなかったのか」と叫んだという。ベートーヴェンは表紙に記していた献辞をペンで乱暴にこすり消し、紙を破るほどの勢いだったと伝えられる。曲は「ある英雄の思い出のために」という献辞に改められ、初演は1805年4月7日、ウィーンのアン・デア・ウィーン劇場でおこなわれた。",
       "en": "Beethoven admired Napoleon as proof that merit, not birth, could carry a man to the top, and had planned to dedicate the symphony to him.\nWhen he learned in 1804 that Napoleon had crowned himself emperor, he flew into a rage. According to his pupil Ferdinand Ries, he shouted that Napoleon was \"nothing more than an ordinary man\" after all, and is said to have scratched out the dedication on the title page so violently that he tore through the paper. The work was rededicated \"to the memory of a great man,\" and premiered in Vienna at the Theater an der Wien on 7 April 1805."
+    }
+  },
+  "16170": {
+    "structure": {
+      "ja": "全3楽章のピアノ協奏曲。ハ短調の重厚な第1楽章、対照的にホ長調で書かれる緩徐楽章、そして活気あるロンドで終わる。モーツァルトの同じハ短調の協奏曲を思わせる主題を持つことで知られる。",
+      "en": "A piano concerto in three movements: a weighty C minor opening Allegro, a slow movement set in the unexpectedly distant key of E major, and a spirited closing Rondo — its opening theme echoes Mozart's own C minor piano concerto."
+    },
+    "story": {
+      "ja": "1800年前後に主要部分が作曲され、1803年4月5日、ウィーンでベートーヴェン自身の独奏により初演された。同じ演奏会では交響曲第2番とオラトリオ「オリーヴ山上のキリスト」も初演されている。プロイセンのルイ・フェルディナント公に献呈された。当時居合わせたザイフリートは、独奏パートの譜面が「ほとんど白紙同然」で、ベートーヴェンがほぼ暗譜で弾いていたと証言している。",
+      "en": "Written mainly around 1800, it premiered on 5 April 1803 in Vienna with Beethoven himself as soloist, on the same program that introduced his Symphony No. 2 and the oratorio Christ on the Mount of Olives. It is dedicated to Prince Louis Ferdinand of Prussia. Ignaz von Seyfried, present at the premiere, recalled the piano part as \"almost nothing but empty pages,\" with Beethoven playing largely from memory."
+    }
+  },
+  "16184": {
+    "structure": {
+      "ja": "ハ長調で書かれた全3楽章のピアノソナタ。堂々たる第1楽章アレグロ・コン・ブリオ、短い序奏的な第2楽章アダージョ、そして終楽章では弱音のペダル・トリルを保ちながら高音の旋律とオクターヴのグリッサンドを同時に奏する高度な技巧が要求される。",
+      "en": "A piano sonata in C major and three movements: a bold opening Allegro con brio, a brief introductory Adagio, and a finale demanding a sustained pedal trill held beneath a high melody together with rapid octave glissandi — a summit of pianistic difficulty."
+    },
+    "story": {
+      "ja": "1804年の夏に完成し、若い頃からの支援者であるヴァルトシュタイン伯爵に献呈された。数々の充実作が続いた、ベートーヴェン創作力の絶頂期を代表する一曲とされる。終楽章冒頭の響きにちなみ、イタリア語で「曙光」を意味する「アウローラ」という異名でも呼ばれる。",
+      "en": "Completed in the summer of 1804, it is dedicated to Count Ferdinand von Waldstein and stands among the works of Beethoven's so-called \"heroic decade\" of prolific mastery. It also carries the Italian nickname \"L'Aurora\" — the Dawn — after the luminous sonority that opens its finale, whose demands rank among the most formidable in the entire piano repertoire."
     }
   },
   "16218": {
@@ -49,6 +79,16 @@
       "en": "It was composed in 1798, when Beethoven was twenty-seven, and published the following year. It is dedicated to his friend and patron Prince Karl von Lichnowsky.\nThe subtitle \"Pathétique\" is not his own; it is said to have been suggested by the publisher, struck by the sonata's tragic character, and Beethoven reportedly rather liked it once it was given. The sonata sold well and played an important part in establishing his reputation as a composer, not just an extraordinary pianist."
     }
   },
+  "16231": {
+    "structure": {
+      "ja": "全4楽章のピアノ三重奏曲。ソナタ形式の第1楽章、快活なスケルツォ、変奏曲形式による歌謡的な緩徐楽章を経て、ロンド・ソナタ形式の終楽章に至る。従来の三重奏曲以上にピアノに独立した役割を与えている点が特徴で、演奏時間は40分を超える大作である。",
+      "en": "A piano trio in four movements — a sonata-form Allegro, a lively Scherzo, a songful slow movement in variation form, and a rondo-sonata finale — that gives the piano markedly greater independence than Beethoven's earlier trios, in a work whose performance runs past forty minutes."
+    },
+    "story": {
+      "ja": "1810年の夏に着想を得て翌年3月に完成し、庇護者ルドルフ大公に献呈された。初演は1814年4月11日、ウィーンの「ローマ皇帝」ホテルで、ベートーヴェンのピアノ、シュパンツィヒのヴァイオリン、リンケのチェロにより行われた。聴力が衰えつつあったこの演奏について、シュポーアは「鍵盤を叩きすぎて弦がびりつくほどだった」と伝えている。",
+      "en": "Sketched in the summer of 1810 and completed the following March, it is dedicated to Archduke Rudolph, Beethoven's patron and pupil, whose title gave the trio its nickname. It premiered on 11 April 1814 at Vienna's Hotel Zum Römischen Kaiser, with Beethoven at the piano alongside violinist Ignaz Schuppanzigh and cellist Josef Linke. Of that performance, given as his hearing was failing, Louis Spohr reportedly said Beethoven \"pounded on the keys until the strings jangled.\""
+    }
+  },
   "16238": {
     "structure": {
       "ja": "全4楽章、演奏時間はおよそ70分。交響曲に独唱と合唱を導入した最初の主要作品で、終楽章でシラーの詩「歓喜に寄す」が歌われる。\n終楽章はまず、それまでの3つの楽章の主題を順に回想しては低弦がそれを拒む、という異例の場面から始まる。すべてを退けたあとに現れるのが、あの単純な音階的旋律である。楽器だけで幾度も変奏されたのち、ようやくバリトン独唱が「おお友よ、このような音ではない」と歌い出す。この一節はシラーではなくベートーヴェン自身の言葉である。",
@@ -57,6 +97,56 @@
     "story": {
       "ja": "1824年の初演時、彼の聴力はすでに失われていた。指揮台に立ちはしたが実際の指揮は別の人物が務めており、演奏が終わったあとも彼は客席に背を向けたままだった。歌手のひとりが彼の体を客席のほうへ向けさせ、そこで初めて拍手喝采を目にしたと伝えられる。",
       "en": "By the premiere in 1824 his hearing was gone. He stood on the podium, but another musician did the actual conducting, and when the music ended he was still facing the orchestra. One of the singers is said to have turned him round towards the hall, so that he saw the applause he could not hear."
+    }
+  },
+  "16245": {
+    "structure": {
+      "ja": "全4楽章の弦楽四重奏曲。ヘ長調の第1楽章、諧謔的な第2楽章、ヘ短調の悲痛なアダージョから切れ目なく終楽章へと続き、終楽章にはロシア民謡の主題「主題・ルッセ」が用いられている。演奏時間は約40分に及び、それまでの四重奏曲の倍近い規模を持つ。",
+      "en": "A string quartet in four movements: an F major opening Allegro, a scherzando second movement, a mournful F minor Adagio leading attacca into the finale, which is built on a Russian folk theme marked \"Thème russe.\" At roughly forty minutes, it is nearly twice the length of Beethoven's earlier quartets."
+    },
+    "story": {
+      "ja": "1806年、ウィーン駐在のロシア大使ラズモフスキー伯爵の依頼で作曲され、伯爵に献呈された3曲一組の四重奏曲の第1作にあたる。伯爵はそれぞれの曲にロシアの旋律を織り込むよう求めたという。初演は1807年2月、シュパンツィヒの四重奏団によりウィーンで行われたとみられるが、正確な会場は伝わっていない。あまりの難解さに、チェロ奏者が楽譜を床に投げつけて踏みつけたという逸話も伝わる。",
+      "en": "Composed in 1806 on commission from Count Andreas Razumovsky, the Russian ambassador in Vienna, it is the first of three quartets dedicated to him, each reportedly required to weave in a Russian melody. It was likely premiered by Ignaz Schuppanzigh's quartet in Vienna in February 1807, though the exact venue is unrecorded. One tale holds that a bewildered cellist at an early reading threw the score to the floor and stamped on it."
+    }
+  },
+  "16259": {
+    "structure": {
+      "ja": "全7楽章から成る弦楽四重奏曲で、切れ目なく演奏される。嬰ハ短調の瞑想的なフーガに始まり、変奏曲形式の緩徐楽章、活発なスケルツォなどを経て、再び嬰ハ短調の激しい終楽章で閉じられる、ベートーヴェン晩年の様式を象徴する異例の構成を持つ。",
+      "en": "A string quartet in an unusual seven movements played without a break: a meditative C-sharp minor fugue opens the work, followed by a variation-form slow movement and a lively scherzo, before it closes with a fierce finale returning to C-sharp minor — a structure emblematic of Beethoven's late style."
+    },
+    "story": {
+      "ja": "1826年に完成した、ベートーヴェンが晩年の四重奏曲の中でも特に愛着を示したとされる作品で、甥カールを軍隊に入れてくれた恩人シュッターハイム男爵に献呈されている。契約の都合で出版はベートーヴェンの死後となり、確実な初演の記録も残っていない。この曲を聴いたシューベルトが「我々にまだ何が書けるというのか」と語ったと伝えられ、死の床で最後に聴きたいと望んだ曲だったとも言われる。",
+      "en": "Completed in 1826, it was reportedly Beethoven's favorite among his late quartets, and it is dedicated to Baron Joseph von Stutterheim in gratitude for enrolling his nephew Karl in the army. Publication did not come until after Beethoven's death, and no confirmed record of its premiere survives. Schubert reportedly heard it and asked \"what is left for us to write\" — and is said to have wished, on his deathbed, to hear it once more."
+    }
+  },
+  "16260": {
+    "structure": {
+      "ja": "変ロ長調で書かれた単一楽章の作品。序奏「オヴェルトゥーラ」に続き、変奏を伴う主題によるフーガ、性格の異なる複数の部分を経て終結する、741小節に及ぶ大規模な構成を持つ。ベートーヴェン自身により「時に自由に、時に厳格に」と副題が付けられている。",
+      "en": "A single-movement work in B-flat major, 741 measures long: an introductory \"Overtura\" leads into a fugue built from a theme with variations, passing through several contrasting sections before its close. Beethoven himself subtitled it \"partly free, partly strict.\""
+    },
+    "story": {
+      "ja": "1825年、弦楽四重奏曲第13番の本来の終楽章として作曲され、1826年3月21日、ウィーンの音楽友の会でシュパンツィヒ四重奏団により初演されたが、あまりに難解だとして不評に終わった。出版社の説得により本体から切り離され、代わりの終楽章がベートーヴェン最後の完成作となった。当時は酷評されたものの、後年ストラヴィンスキーは「音楽史上もっとも驚くべき作品」と評している。",
+      "en": "Composed in 1825 as the original finale of String Quartet No. 13, it premiered on 21 March 1826 in Vienna at the Gesellschaft der Musikfreunde, performed by the Schuppanzigh Quartet, but met a poor reception as bafflingly difficult. Persuaded by his publisher, Beethoven detached it and wrote a replacement finale — his last completed score. Though reviled in its own time, Stravinsky later called it \"the most astonishing piece in musical literature.\""
+    }
+  },
+  "16264": {
+    "structure": {
+      "ja": "全4楽章のピアノソナタで、スケルツォを緩徐楽章の前に置く異例の楽章配置を取る。変ロ長調の堂々たる第1楽章、嬰ヘ短調の深い緩徐楽章を経て、序奏を伴う大規模なフーガで締めくくられる。ベートーヴェンのピアノソナタで唯一メトロノーム記号が付されている。",
+      "en": "A piano sonata in four movements with an unusual ordering — scherzo before slow movement — moving from a commanding B-flat major opening Allegro through a profound F-sharp minor Adagio to a vast fugue with an introduction. It is the only Beethoven piano sonata to carry metronome markings."
+    },
+    "story": {
+      "ja": "1817年から翌年にかけて作曲・出版され、ウィーン版はルドルフ大公に、ロンドン版はアントニー・ブレンターノに献呈された。演奏時間は40分を超え、ベートーヴェンの最長のピアノソナタである。「ハンマークラヴィーア」の名は、ドイツ語の音楽用語を用いようとした意向による命名で、長らく「ほとんど演奏不可能」とも評されながら、ピアノ音楽の頂点の一つとされてきた。",
+      "en": "Composed and published across 1817 and the following year, it is dedicated to Archduke Rudolph in its Vienna edition and to Antonie Brentano in its London one. Running past forty minutes, it is the longest of Beethoven's piano sonatas. The name \"Hammerklavier\" reflects his wish to use German rather than Italian musical terms, and though long called \"almost unplayable,\" it is counted among the summits of the piano repertoire."
+    }
+  },
+  "16286": {
+    "structure": {
+      "ja": "全3楽章のピアノ協奏曲。当時としては異例なことに、独奏ピアノが管弦楽に先立って単独で開始する。ホ短調の第2楽章では、独奏ピアノと斉唱する弦楽合奏との対話が、オルフェウスが復讐の女神たちを鎮める場面になぞらえられてきた。",
+      "en": "A piano concerto in three movements, unusually opening with the solo piano alone before the orchestra enters. In the E minor second movement, the dialogue between the soloist and the strings playing in unison has been likened by commentators to Orpheus calming the Furies."
+    },
+    "story": {
+      "ja": "1805年から06年にかけて作曲され、ルドルフ大公に献呈された。ロプコヴィツ侯爵邸での内輪の披露を経て、公開初演は1808年12月22日、ウィーンのアン・デア・ウィーン劇場にてベートーヴェン自身の独奏で行われた。同じ演奏会では交響曲第5番、第6番、合唱幻想曲も初演されている。初演後は長く忘れられていたが、後年になって再評価が進んだ。",
+      "en": "Composed in 1805 and the following year, it is dedicated to Archduke Rudolph. After a private hearing at Prince Lobkowitz's residence, it received its public premiere in Vienna on 22 December 1808, at the Theater an der Wien, with Beethoven himself as soloist, on a lengthy program that also unveiled his Fifth and Sixth Symphonies alongside the Choral Fantasy. It fell into neglect after its premiere, only to be rediscovered decades later."
     }
   },
   "16291": {
@@ -69,6 +159,26 @@
       "en": "It was never published in his lifetime; the manuscript appeared in print in 1867, forty years after his death. Who \"Elise\" was has never been established. A long-standing theory holds that the editor misread a dedication to \"Therese\", but the question remains open."
     }
   },
+  "16322": {
+    "structure": {
+      "ja": "単一楽章の序曲。緩やかな序奏に始まり、ハ長調のアレグロへと展開する。オフステージのトランペットを含む3本のトランペット、4本のホルン、3本のトロンボーンという、演奏会用序曲としては異例に大規模な金管編成を持つ。",
+      "en": "A single-movement overture that opens with a slow introduction before unfolding into a C major Allegro. Its brass section — three trumpets (one offstage), four horns and three trombones — is unusually large for a concert overture."
+    },
+    "story": {
+      "ja": "1806年、歌劇の改訂上演のための序曲として書かれ、同年3月29日にウィーンのアン・デア・ウィーン劇場で初演された。この歌劇は他作曲家の同名作との混同を避けて「フィデリオ」と改題され、今日では改訂前の版を「レオノーレ」、最終改訂版を「フィデリオ」と呼び分けるのが慣例である。マーラーはこの序曲を「フィデリオ」第2幕の場面転換に挿入する演奏習慣を広めたとされる。",
+      "en": "Written in 1806 as the overture for a revised staging of the opera, it premiered on 29 March that year at Vienna's Theater an der Wien. The opera was retitled Fidelio to avoid confusion with other composers' works on the same subject; by convention, earlier versions are called Leonore, the final revision Fidelio. Mahler is credited with popularizing the tradition of inserting this overture between the two scenes of Act II in Fidelio productions."
+    }
+  },
+  "16331": {
+    "structure": {
+      "ja": "ヴァイオリンとピアノのための全3楽章のソナタ。自筆譜の表紙には、協奏曲のように極めて協奏的な様式で書かれた旨が記されている。第1楽章アダージョ・ソステヌートに続くプレスト、変奏曲形式の緩徐楽章、そして急速なプレストの終楽章から成る。",
+      "en": "A sonata for violin and piano in three movements. Its title page describes it as written in a highly concertante style, almost like a concerto. An Adagio sostenuto leads into a Presto, followed by a variation-form slow movement and a swift closing Presto."
+    },
+    "story": {
+      "ja": "1803年に作曲され、同年5月24日、ウィーンのアウガルテン劇場でブリッジタワーとベートーヴェンの共演により初演された。ブリッジタワーはほぼ初見でこの難曲を弾いたという。当初は彼への献呈が予定されていたが、後に仲違いしたため、出版に際してクロイツェルへ献呈先が変更された。だがクロイツェル自身はこの曲を「演奏不可能で理解しがたい」として、生涯公の場で演奏しなかったと伝えられる。",
+      "en": "Composed in 1803, it premiered on 24 May that year at the Augarten Theatre in Vienna, with violinist George Bridgetower and Beethoven at the piano; Bridgetower reportedly sight-read the demanding part with almost no rehearsal. It was originally meant for Bridgetower, but after the two men quarreled, Beethoven rededicated it on publication to the violinist Rodolphe Kreutzer — who nonetheless is said to have found it unplayable and unintelligible, and never performed it in public."
+    }
+  },
   "16375": {
     "structure": {
       "ja": "全3楽章。「幻想曲風ソナタ」という副題が示すとおり、当時のソナタの型を外れた構成をとる。通常なら快速な楽章が置かれる第1楽章に、三連符の伴奏に乗って歌う嬰ハ短調の緩徐楽章が置かれ、そこから次第にテンポと激しさを増していく。\n終楽章は一転して激烈なプレストで、ソナタ形式の枠組みのなかに分散和音による疾走的な音型が絶え間なく続く。第1楽章の静けさと終楽章の激しさの落差が、この曲の性格そのものになっている。",
@@ -77,6 +187,16 @@
     "story": {
       "ja": "1801年に作曲され、翌年出版された。ベートーヴェン自身のピアノ教え子だった16歳の伯爵令嬢ジュリエッタ・グイチャルディに献呈されており、当時彼が彼女に思いを寄せていたことが知られている。\n「月光」という愛称はベートーヴェン自身が付けたものではない。彼の死後5年たった1832年、詩人ルートヴィヒ・レルシュタープが第1楽章をルツェルン湖畔の月光に浮かぶ小舟にたとえた批評を書いたことに由来する通称である。",
       "en": "Composed in 1801 and published the following year, it is dedicated to Countess Giulietta Guicciardi, his sixteen-year-old piano pupil, for whom he is known to have had feelings at the time.\nThe nickname \"Moonlight\" is not his own. It comes from a review published five years after his death, in 1832, in which the poet Ludwig Rellstab likened the first movement to a boat drifting in moonlight on Lake Lucerne."
+    }
+  },
+  "16382": {
+    "structure": {
+      "ja": "独唱4声、合唱、大編成の管弦楽のためのミサ曲。キリエ、グローリア、クレド、サンクトゥス、アニュス・デイの5部から成り、サンクトゥスのベネディクトゥスには独奏ヴァイオリンの長大な旋律が置かれる。コントラファゴットとオルガンの通奏低音を含む編成で、演奏時間は70分を超える。",
+      "en": "A mass for four vocal soloists, chorus and large orchestra in five sections — Kyrie, Gloria, Credo, Sanctus and Agnus Dei — whose Benedictus features an extended obbligato solo violin melody. The scoring includes contrabassoon and continuo organ, and performance runs past seventy minutes."
+    },
+    "story": {
+      "ja": "1819年から数年をかけて作曲され、庇護者ルドルフ大公のオルミュッツ大司教就任を機に構想された、大公への献呈作である。初演は1824年4月7日、サンクトペテルブルクにてゴリツィン公爵の主催で行われ、ウィーンでは同年5月7日に、キリエ・クレド・アニュス・デイのみの抜粋版がベートーヴェン自身の指揮で披露された。自筆譜には「心から出て、再び心に届かんことを」との献辞が記されている。",
+      "en": "Composed over several years from 1819, it was occasioned by the elevation of his patron Archduke Rudolph to Archbishop of Olomouc, to whom it is dedicated. It premiered on 7 April 1824 in Saint Petersburg, and an excerpted Vienna performance of the Kyrie, Credo and Agnus Dei followed on 7 May that year, conducted by Beethoven. Its autograph carries the inscription \"From the heart — may it return to the heart!\""
     }
   },
   "16406": {
@@ -99,6 +219,16 @@
       "en": "Most of it was written between 1804 and 1805, with final touches added in 1806 during a stay at the estate of his patron Prince Lichnowsky. It is dedicated to his friend, the cellist Count Franz von Brunswick.\nThe nickname \"Appassionata\" is not his own; it was given by a publisher in 1838, after his death. The autograph score does, however, carry a similar word in his own hand — so the association is not entirely foreign to him."
     }
   },
+  "16421": {
+    "structure": {
+      "ja": "ハ短調で書かれた、2楽章のみから成る異例の構成のピアノソナタ。激しい第1楽章マエストーソ・アレグロに続き、主題と5つの変奏、そしてコーダから成る穏やかなハ長調のアリエッタで結ばれる、ベートーヴェン最後のピアノソナタである。",
+      "en": "A piano sonata in C minor, unusually confined to just two movements: a turbulent opening Maestoso–Allegro followed by a serene C major Arietta built from a theme, five variations and a coda — Beethoven's final piano sonata."
+    },
+    "story": {
+      "ja": "1821年から翌年にかけて作曲され、ルドルフ大公に献呈された(英国版はアントニー・ブレンターノに献呈)。当初はほとんど注目されず、広く演奏されるようになったのは19世紀後半になってからのことである。終楽章になぜ第3楽章がないのかと問われたベートーヴェンが「時間がなかったから」と答えたという逸話も伝わるが、その真偽は定かでない。",
+      "en": "Composed across 1821 and the following year, it is dedicated to Archduke Rudolph, with a separate English edition dedicated to Antonie Brentano. Largely ignored at first, it did not enter the standard repertoire until the second half of the nineteenth century. One tale holds that, asked why there was no third movement, Beethoven replied he simply \"didn't have the time\" — though scholars doubt the story's authenticity."
+    }
+  },
   "16458": {
     "structure": {
       "ja": "全3楽章。第1楽章冒頭、ティンパニが同じ音を静かに5回打つ音型が全曲の性格を決定づける重要な動機として、以後何度も形を変えて現れる。\n独奏ヴァイオリンは超絶技巧をひけらかすよりも、抒情的な旋律を長く歌い続ける書き方が中心で、当時の協奏曲としては異例なほど穏やかで均整の取れた性格を持つ。",
@@ -107,6 +237,16 @@
     "story": {
       "ja": "1806年に作曲された。初演を任されたヴァイオリニスト、フランツ・クレメントのために書かれたが、完成が間に合わず、クレメントはほとんど初見同然で演奏したと伝えられる。\n初演は同年12月23日、ウィーンでおこなわれたが、クレメントが第1楽章と第2楽章の間に、ヴァイオリンを逆さに持って自作の曲を弾いて見せるなど、当時の慣習的な余興を挟んだこともあり、聴衆の反応は芳しくなかった。その後この曲はしばらく忘れられた存在となり、1844年、当時12歳だったヴァイオリニスト、ヨーゼフ・ヨアヒムがメンデルスゾーンの指揮で演奏したことをきっかけに再評価が進んだ。",
       "en": "It was composed in 1806, written for the violinist Franz Clement, who was to give the premiere. It was finished so late that Clement is said to have had to play much of it at sight.\nThe premiere took place on 23 December that year in Vienna, but the reception was lukewarm, not helped by Clement inserting a customary interval entertainment between the first two movements, in which he played a piece of his own on the violin held upside down. The concerto then languished in obscurity for decades until a twelve-year-old Joseph Joachim revived it under Mendelssohn's baton in 1844."
+    }
+  },
+  "16482": {
+    "structure": {
+      "ja": "ニ短調で書かれた全3楽章のピアノソナタ。緩やかなラルゴと急速なアレグロが交錯する第1楽章、変ロ長調の穏やかな第2楽章アダージョ、そしてソナタ形式ながら展開部を欠く終楽章アレグレットから成る。",
+      "en": "A piano sonata in D minor and three movements: an opening Largo–Allegro that alternates slow and fast material, a calm B-flat major Adagio, and a closing Allegretto that follows sonata form yet notably omits a development section."
+    },
+    "story": {
+      "ja": "1801年から02年にかけて作曲され、後年の「ハイリゲンシュタットの遺書」に象徴される、聴力の衰えに苦悩していた時期の作である。作品31の3曲には珍しく献呈先がない。「テンペスト」の由来は定かでなく、曲の解釈を尋ねられた際にシェイクスピアの戯曲を読むよう勧めたというシンドラーの証言によるとされるが、その信頼性自体が疑問視されている。",
+      "en": "Composed across 1801 and the following year, it dates from the period of despair over his encroaching deafness later crystallized in the Heiligenstadt Testament, and — unusually for the Op. 31 set — carries no dedication. The nickname \"Tempest\" is of uncertain origin, traced to Anton Schindler's claim that Beethoven, asked how to interpret it, said \"read Shakespeare's Tempest\" — though Schindler's reliability as a witness is widely doubted."
     }
   }
 }
