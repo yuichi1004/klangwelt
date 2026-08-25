@@ -1,0 +1,22 @@
+{
+  "20403": {
+    "structure": {
+      "ja": "ピアノ独奏のための組曲(のち複数の作曲家により管弦楽に編曲)。10枚の絵画を音で描いた各曲の間に「プロムナード」と題された歩みの音楽が挟まれ、展覧会の会場を移動する様子を表す。\n「プロムナード」は曲ごとに性格を変えながら回帰し、絵から絵へと歩く鑑賞者自身の心情の変化を映し出しているとも解釈される。",
+      "en": "A suite for solo piano (later orchestrated by several other composers), each of ten pictures rendered in sound separated by a recurring \"Promenade\" depicting the visitor's footsteps between them.\nThe Promenade returns each time in a slightly different character, often read as tracking the shifting mood of the viewer moving from picture to picture."
+    },
+    "story": {
+      "ja": "友人だった画家・建築家ヴィクトル・ハルトマンが1873年、39歳で急死した。翌1874年、批評家スターソフの尽力で開かれた遺作展にムソルグスキーが足を運んだことがこの曲の直接のきっかけとなった。\n彼はわずか3週間、1874年6月2日から22日の間に一気に書き上げている。もともとピアノ独奏曲として書かれたが、今日ではモーリス・ラヴェルが1922年に手がけた管弦楽編曲版で耳にする機会のほうが多い。ラヴェルはクーセヴィツキーの依頼を受けてこの編曲に取り組み、同年10月19日に初演されている。",
+      "en": "His friend, the painter and architect Viktor Hartmann, died suddenly in 1873 at thirty-nine. A memorial exhibition of his work, organised the following year by the critic Vladimir Stasov, gave Mussorgsky the direct spark for this suite.\nHe wrote it in just three weeks, between 2 and 22 June 1874. Though composed for solo piano, it is now more often heard in Maurice Ravel's 1922 orchestration, made on a commission from Serge Koussevitzky and premiered on 19 October that year."
+    }
+  },
+  "20429": {
+    "structure": {
+      "ja": "管弦楽のための単一楽章の交響詩で、聖ヨハネ祭前夜に禿山に集う悪魔たちの饗宴を描く。今日広く演奏されるのは、作曲者の死後に友人リムスキー=コルサコフが大幅に書き直した版で、原典版とは曲の構成・結末ともに大きく異なる。\n原典版は不協和音のまま荒々しく閉じられるのに対し、リムスキー=コルサコフ版では夜明けを告げる鐘の音とともに悪魔たちが去っていく、穏やかな結末に置き換えられている。",
+      "en": "A single-movement orchestral tone poem depicting a witches' sabbath gathering of demons on Bald Mountain on St John's Eve. The version almost always heard today is a substantial rewrite made by his friend Rimsky-Korsakov after his death, differing from the original in both structure and ending.\nMussorgsky's own version closes abruptly in crashing dissonance; Rimsky-Korsakov replaced that with a gentler ending in which dawn bells scatter the demons."
+    },
+    "story": {
+      "ja": "1867年6月、わずか12日間ほどで書き上げられた。彼自身はこの曲を「ロシア的で独創的」と自負していたが、師にあたるバラキレフが上演を拒み、彼の生前に演奏される機会は一度もなかった。\nその後ムソルグスキー自身が声楽・合唱付きの版に改作し、未完のオペラ2作に転用を試みたが、いずれも実現しなかった。彼の死から5年後の1886年、リムスキー=コルサコフが大幅に整理・改訂した「幻想曲」として出版し、今日知られる形はこの改訂版にもとづいている。",
+      "en": "He wrote it in about twelve days in June 1867. He was proud of the piece, calling it \"Russian and original,\" but his mentor Balakirev refused to perform it, and it was never played during his lifetime.\nMussorgsky himself later reworked it with vocal soloists and chorus and tried folding it into two unfinished operas, without success in either case. Five years after his death, in 1886, Rimsky-Korsakov published a heavily reorganised \"fantasy for orchestra\" version, and it is that revision, not the original, that is generally what audiences hear today."
+    }
+  }
+}
