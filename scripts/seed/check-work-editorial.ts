@@ -31,7 +31,7 @@ import { readFile } from "node:fs/promises";
 import path from "node:path";
 
 import type { WorkEditorial, LocalizedText } from "../../src/lib/editorial";
-import { checkSimilarity, ungroundedYears } from "../../src/lib/editorial-guard";
+import { checkSimilarity, maskPhrases, ungroundedYears } from "../../src/lib/editorial-guard";
 import { getJson, sleep } from "./openopus";
 
 const ROOT = process.cwd();
@@ -58,6 +58,14 @@ interface CatalogComposer {
 
 interface WorkFacts {
   extraYears?: number[];
+  /**
+   * Literal strings (usually the work's own title) masked out of the prose
+   * before the similarity check runs, so a proper noun that's merely long —
+   * not a paraphrase — doesn't trip the char-run limit against an unrelated
+   * reference article (typically the composer's own biography, when no
+   * dedicated work article exists). See `maskPhrases` in editorial-guard.ts.
+   */
+  allowedPhrases?: string[];
 }
 
 const api = (base: string, params: Record<string, string>) =>
@@ -108,6 +116,15 @@ interface CheckOptions {
   calibrate: boolean;
 }
 
+interface CheckResult {
+  ok: boolean;
+  maxOverlap: { ja: number; en: number };
+  /** Languages for which no Wikipedia reference was found at all — the
+   *  similarity gate silently did not run for these, so a pass proves
+   *  nothing about them. Common for obscure works, especially in ja. */
+  ungatedLangs: Array<"ja" | "en">;
+}
+
 async function checkWork(
   id: string,
   entry: WorkEditorial,
@@ -115,12 +132,14 @@ async function checkWork(
   composer: CatalogComposer,
   facts: WorkFacts | undefined,
   options: CheckOptions,
-): Promise<{ ok: boolean; maxOverlap: { ja: number; en: number } }> {
+): Promise<CheckResult> {
   const problems: string[] = [];
   const maxOverlap = { ja: 0, en: 0 };
+  const ungatedLangs: Array<"ja" | "en"> = [];
 
   const lifespan = { birthYear: composer.birthYear, deathYear: composer.deathYear };
   const extraYears = facts?.extraYears ?? [];
+  const allowedPhrases = facts?.allowedPhrases ?? [];
 
   const extracts: Record<"ja" | "en", string | undefined> = {
     ja: await fetchWorkWikipediaExtract("ja", work.title, composer.nameJa),
@@ -143,8 +162,12 @@ async function checkWork(
       }
 
       const reference = extracts[lang];
-      if (!reference) continue;
-      const { longestRun, exceeds } = checkSimilarity(text[lang], reference, lang);
+      if (!reference) {
+        if (!ungatedLangs.includes(lang)) ungatedLangs.push(lang);
+        continue;
+      }
+      const candidate = maskPhrases(text[lang], allowedPhrases);
+      const { longestRun, exceeds } = checkSimilarity(candidate, reference, lang);
       maxOverlap[lang] = Math.max(maxOverlap[lang], longestRun);
       if (exceeds && !options.calibrate) {
         problems.push(
@@ -161,11 +184,16 @@ async function checkWork(
     console.log(`✗ ${label}`);
     for (const problem of problems) console.log(`    - ${problem}`);
   }
+  if (ungatedLangs.length > 0) {
+    console.log(
+      `    ⚠ no ${ungatedLangs.join("/")} reference article found — similarity gate did not run for ${ungatedLangs.length === 2 ? "either language" : ungatedLangs[0]}`,
+    );
+  }
   if (options.calibrate) {
     console.log(`    overlap: ja=${maxOverlap.ja} chars, en=${maxOverlap.en} words`);
   }
 
-  return { ok: problems.length === 0, maxOverlap };
+  return { ok: problems.length === 0, maxOverlap, ungatedLangs };
 }
 
 async function main() {
@@ -226,6 +254,7 @@ async function main() {
 
   let failures = 0;
   let overallMax = { ja: 0, en: 0 };
+  let ungatedCount = 0;
 
   for (const id of targetIds) {
     const entry = works[id];
@@ -251,6 +280,7 @@ async function main() {
       calibrate,
     });
     if (!result.ok) failures++;
+    if (result.ungatedLangs.length > 0) ungatedCount++;
     overallMax = {
       ja: Math.max(overallMax.ja, result.maxOverlap.ja),
       en: Math.max(overallMax.en, result.maxOverlap.en),
@@ -260,6 +290,12 @@ async function main() {
   if (calibrate) {
     console.log(
       `\nHighest incidental overlap across ${targetIds.length} work(s): ja=${overallMax.ja} chars, en=${overallMax.en} words`,
+    );
+  }
+
+  if (ungatedCount > 0) {
+    console.log(
+      `\n⚠ ${ungatedCount}/${targetIds.length} work(s) had no Wikipedia reference for at least one language — the similarity gate did not run for those, only the year gate did.`,
     );
   }
 

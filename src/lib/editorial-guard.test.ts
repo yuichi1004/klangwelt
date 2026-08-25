@@ -10,6 +10,7 @@ import {
   hasEnoughFacts,
   longestSharedCharRun,
   longestSharedWordRun,
+  maskPhrases,
   MIN_FACT_CATEGORIES,
   ungroundedYears,
   type ComposerFactSheet,
@@ -140,6 +141,47 @@ describe("checkSimilarity", () => {
       "He first made his name as a virtuoso improviser in the salons of Vienna society";
     const result = checkSimilarity(candidate, reference, "en");
     expect(result.exceeds).toBe(true);
+  });
+});
+
+describe("maskPhrases", () => {
+  it("brings a title-length overlap back under the similarity limit", () => {
+    // A synthetic stand-in for a long Japanese work title: 25 identical
+    // characters, deliberately past SIMILARITY_LIMITS.ja (24) on its own,
+    // the way a full title plus a shared particle can when no dedicated
+    // work article exists and the reference is the composer's biography.
+    const title = "あ".repeat(25);
+    const reference = `${title}XYZREFERENCE`;
+    const candidate = `${title}QPRCANDIDATE`;
+
+    const before = checkSimilarity(candidate, reference, "ja");
+    expect(before.exceeds).toBe(true);
+
+    const masked = maskPhrases(candidate, [title]);
+    const after = checkSimilarity(masked, reference, "ja");
+    expect(after.exceeds).toBe(false);
+  });
+
+  it("does not let the masked phrase's neighbours merge into a new run", () => {
+    // If masking used whitespace, the char tokenizer (which strips \s+)
+    // would delete the placeholder entirely and glue "AB" back together.
+    const candidate = "AXXXB";
+    const reference = "AB";
+    const masked = maskPhrases(candidate, ["XXX"]);
+    expect(checkSimilarity(masked, reference, "ja").longestRun).toBeLessThan(2);
+  });
+
+  it("leaves text unchanged when the phrase list is empty", () => {
+    expect(maskPhrases("変更されない", [])).toBe("変更されない");
+  });
+
+  it("masks every occurrence, not just the first", () => {
+    const masked = maskPhrases("ABAB", ["AB"]);
+    expect(masked.includes("AB")).toBe(false);
+  });
+
+  it("ignores an empty string in the phrase list", () => {
+    expect(maskPhrases("そのまま", ["", "存在しない語"])).toBe("そのまま");
   });
 });
 

@@ -169,29 +169,62 @@ describe("work editorial progress ledger", () => {
   const LEDGER_PATH = path.join(ROOT, "data", "editorial", "work-ledger.json");
   const CORE_WORKS_PATH = path.join(ROOT, "data", "catalog", "core-works.json");
 
-  it("tracks exactly the ★4/★5 works in the shipped catalogue", () => {
+  interface LedgerEntry {
+    title: string;
+    composer: string;
+    stars: number;
+    status: "todo" | "done" | "skip";
+    note?: string;
+  }
+
+  const isNonEmptyString = (value: unknown): value is string =>
+    typeof value === "string" && value.trim().length > 0;
+
+  /**
+   * The star floor is read from the ledger itself rather than hard-coded, so
+   * this file never needs editing again when the project's scope widens
+   * (★4/★5 → ★3 → ★2, …): adding the next tier's rows lowers `floor`, and
+   * the set-equality check below follows automatically. See
+   * `scripts/seed/build-work-ledger.ts`, the only script allowed to change
+   * which ids are in the ledger.
+   */
+  it("tracks exactly the works at or above the ledger's own star floor", () => {
     const ledger = JSON.parse(readFileSync(LEDGER_PATH, "utf8")) as Record<
       string,
-      { stars: number }
+      LedgerEntry
     >;
     const coreWorks = JSON.parse(
       readFileSync(CORE_WORKS_PATH, "utf8"),
-    ) as Array<{ id: string; stars: number }>;
-    const curatedIds = coreWorks
-      .filter((work) => work.stars >= 4)
-      .map((work) => work.id);
+    ) as Array<{ id: string; title: string; stars: number }>;
 
-    expect(new Set(Object.keys(ledger))).toEqual(new Set(curatedIds));
+    const floor = Math.min(...Object.values(ledger).map((e) => e.stars));
+    expect(floor, "ledger star floor").toBeGreaterThanOrEqual(2);
+
+    const inScope = coreWorks.filter((work) => work.stars >= floor);
+    const ledgerIds = new Set(Object.keys(ledger));
+    const inScopeIds = new Set(inScope.map((work) => work.id));
+
+    const missing = inScope
+      .filter((work) => !ledgerIds.has(work.id))
+      .map((work) => `${work.id} ${work.title}`);
+    const extra = [...ledgerIds].filter((id) => !inScopeIds.has(id));
+
+    expect(missing, "run: npm run seed:work-ledger").toEqual([]);
+    expect(
+      extra,
+      "these ledger ids are no longer in scope — curation changed under the ledger",
+    ).toEqual([]);
+
     for (const [id, entry] of Object.entries(ledger)) {
       const work = coreWorks.find((w) => w.id === id)!;
       expect(entry.stars, id).toBe(work.stars);
     }
   });
 
-  it("marks every ledger entry that has a written entry as done, and no others", () => {
+  it("marks every ledger entry that has written prose as done, skips are noted, and no others are done", () => {
     const ledger = JSON.parse(readFileSync(LEDGER_PATH, "utf8")) as Record<
       string,
-      { status: "todo" | "done" }
+      LedgerEntry
     >;
     const written = JSON.parse(
       readFileSync(path.join(ROOT, "data", "editorial", "works.json"), "utf8"),
@@ -199,7 +232,34 @@ describe("work editorial progress ledger", () => {
 
     for (const [id, entry] of Object.entries(ledger)) {
       const hasContent = Boolean(written[id]?.structure || written[id]?.story);
+
+      if (entry.status === "skip") {
+        expect(hasContent, `${id}: a skipped work must not have written prose`).toBe(
+          false,
+        );
+        expect(isNonEmptyString(entry.note), `${id}: skip needs a note`).toBe(true);
+        continue;
+      }
+
       expect(entry.status, id).toBe(hasContent ? "done" : "todo");
+      expect(entry.note, `${id}: note is only meaningful on a skip`).toBeUndefined();
+    }
+  });
+
+  /**
+   * Freezes the completed ★4/★5 project (PR #46–#64): a future curation
+   * change that drops a work's stars, or a ledger edit that reverts a done
+   * row, must fail loudly rather than silently un-complete a finished tier.
+   */
+  it("keeps every ★4/★5 row done", () => {
+    const ledger = JSON.parse(readFileSync(LEDGER_PATH, "utf8")) as Record<
+      string,
+      LedgerEntry
+    >;
+    for (const [id, entry] of Object.entries(ledger)) {
+      if (entry.stars >= 4) {
+        expect(entry.status, id).toBe("done");
+      }
     }
   });
 });

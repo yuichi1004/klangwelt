@@ -23,11 +23,59 @@
     "stars": 4,
     "status": "done"
   },
+  "68": {
+    "title": "Symphony no. 5 in B flat major, WAB 105",
+    "composer": "Anton Bruckner",
+    "stars": 3,
+    "status": "todo"
+  },
+  "76": {
+    "title": "Te Deum, WAB 45",
+    "composer": "Anton Bruckner",
+    "stars": 3,
+    "status": "todo"
+  },
+  "189": {
+    "title": "Violin Concerto no. 2 in B minor, op. 7, \"La campanella\"",
+    "composer": "Niccolò Paganini",
+    "stars": 3,
+    "status": "todo"
+  },
   "210": {
     "title": "24 Caprices for Solo Violin, op. 1, MS25",
     "composer": "Niccolò Paganini",
     "stars": 4,
     "status": "done"
+  },
+  "337": {
+    "title": "Serenade in F major, op. 31",
+    "composer": "Wilhelm Stenhammar",
+    "stars": 3,
+    "status": "todo"
+  },
+  "383": {
+    "title": "Fratres, for strings and percussion",
+    "composer": "Arvo Pärt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "422": {
+    "title": "Tabula rasa",
+    "composer": "Arvo Pärt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "507": {
+    "title": "Passacaglia, op. 1",
+    "composer": "Anton Webern",
+    "stars": 3,
+    "status": "todo"
+  },
+  "535": {
+    "title": "Violin Concerto in D major, op. 35",
+    "composer": "Erich Wolfgang Korngold",
+    "stars": 3,
+    "status": "todo"
   },
   "813": {
     "title": "Te Deum, for 8 voices, chorus, and orchestra, H.146",
@@ -41,11 +89,41 @@
     "stars": 4,
     "status": "done"
   },
+  "1144": {
+    "title": "Variations symphoniques",
+    "composer": "César Franck",
+    "stars": 3,
+    "status": "todo"
+  },
   "1155": {
     "title": "Violin Sonata in A major, M.8",
     "composer": "César Franck",
     "stars": 4,
     "status": "done"
+  },
+  "1175": {
+    "title": "Prélude, choral et fugue, M.21",
+    "composer": "César Franck",
+    "stars": 3,
+    "status": "todo"
+  },
+  "1239": {
+    "title": "A Child of Our Time",
+    "composer": "Michael Tippett",
+    "stars": 3,
+    "status": "todo"
+  },
+  "1271": {
+    "title": "Tenebrae Responsories, W7: Good Friday",
+    "composer": "Carlo Gesualdo",
+    "stars": 3,
+    "status": "todo"
+  },
+  "1451": {
+    "title": "Hänsel and Gretel",
+    "composer": "Engelbert Humperdinck",
+    "stars": 3,
+    "status": "todo"
   },
   "1480": {
     "title": "Symphony no. 3, op. 36, \"Symphony of Sorrowful Songs\"",
@@ -53,17 +131,41 @@
     "stars": 4,
     "status": "done"
   },
+  "1533": {
+    "title": "Metastasis, for 60 musicians",
+    "composer": "Iannis Xenakis",
+    "stars": 3,
+    "status": "todo"
+  },
   "1552": {
     "title": "Le Poème de l'extase, op. 54",
     "composer": "Alexander Scriabin",
     "stars": 4,
     "status": "done"
   },
+  "1580": {
+    "title": "Piano Sonata no. 5, op. 53",
+    "composer": "Alexander Scriabin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "1604": {
+    "title": "Prometheus: The Poem of Fire, op. 60",
+    "composer": "Alexander Scriabin",
+    "stars": 3,
+    "status": "todo"
+  },
   "1633": {
     "title": "Violin Concerto, op. 14",
     "composer": "Samuel Barber",
     "stars": 4,
     "status": "done"
+  },
+  "1658": {
+    "title": "Knoxville: Summer of 1915, for high voice and orchestra, op. 24",
+    "composer": "Samuel Barber",
+    "stars": 3,
+    "status": "todo"
   },
   "1704": {
     "title": "String Quartet in B major, op. 11",
@@ -77,6 +179,36 @@
     "stars": 4,
     "status": "done"
   },
+  "1817": {
+    "title": "Islamey: Oriental Fantasy",
+    "composer": "Mily Balakirev",
+    "stars": 3,
+    "status": "todo"
+  },
+  "1892": {
+    "title": "Ionisation, for 13 percussion instruments",
+    "composer": "Edgard Varèse",
+    "stars": 3,
+    "status": "todo"
+  },
+  "1986": {
+    "title": "New England Triptych",
+    "composer": "William Schuman",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2003": {
+    "title": "Lyrische Symphonie for soprano, baritone and orchestra, op. 18",
+    "composer": "Alexander von Zemlinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2068": {
+    "title": "Lux aeterna, for a cappella chorus",
+    "composer": "György Ligeti",
+    "stars": 3,
+    "status": "todo"
+  },
   "2076": {
     "title": "Atmosphères",
     "composer": "György Ligeti",
@@ -89,11 +221,29 @@
     "stars": 4,
     "status": "done"
   },
+  "2269": {
+    "title": "Roméo et Juliette",
+    "composer": "Charles Gounod",
+    "stars": 3,
+    "status": "todo"
+  },
   "2300": {
     "title": "Faust",
     "composer": "Charles Gounod",
     "stars": 4,
     "status": "done"
+  },
+  "2417": {
+    "title": "Piano Concerto no. 2 in A minor, op. 85",
+    "composer": "Johann Nepomuk Hummel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2458": {
+    "title": "Black Angels, for electric string quartet",
+    "composer": "George Crumb",
+    "stars": 3,
+    "status": "todo"
   },
   "2484": {
     "title": "Estancia, op. 8a",
@@ -101,11 +251,41 @@
     "stars": 4,
     "status": "done"
   },
+  "2503": {
+    "title": "Harp Concerto, op. 25",
+    "composer": "Alberto Ginastera",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2524": {
+    "title": "Symphony in C minor, op. 27, \"Asrael\"",
+    "composer": "Josef Suk",
+    "stars": 3,
+    "status": "todo"
+  },
   "2596": {
     "title": "Háry János, suite from the opera",
     "composer": "Zoltán Kodály",
     "stars": 4,
     "status": "done"
+  },
+  "2610": {
+    "title": "Psalmus Hungaricus, oratorio for tenor, chorus, children's chorus ad lib, orchestra, and organ, op. 13",
+    "composer": "Zoltán Kodály",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2624": {
+    "title": "Dances of Galánta",
+    "composer": "Zoltán Kodály",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2650": {
+    "title": "Don Carlo",
+    "composer": "Giuseppe Verdi",
+    "stars": 3,
+    "status": "todo"
   },
   "2657": {
     "title": "Nabucco",
@@ -119,6 +299,12 @@
     "stars": 5,
     "status": "done"
   },
+  "2673": {
+    "title": "La forza del destino",
+    "composer": "Giuseppe Verdi",
+    "stars": 3,
+    "status": "todo"
+  },
   "2678": {
     "title": "La traviata",
     "composer": "Giuseppe Verdi",
@@ -131,11 +317,29 @@
     "stars": 4,
     "status": "done"
   },
+  "2703": {
+    "title": "Il trovatore",
+    "composer": "Giuseppe Verdi",
+    "stars": 3,
+    "status": "todo"
+  },
   "2708": {
     "title": "Otello",
     "composer": "Giuseppe Verdi",
     "stars": 4,
     "status": "done"
+  },
+  "2715": {
+    "title": "Requiem",
+    "composer": "Giuseppe Verdi",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2720": {
+    "title": "Falstaff",
+    "composer": "Giuseppe Verdi",
+    "stars": 3,
+    "status": "todo"
   },
   "2748": {
     "title": "The Lark Ascending: Romance for Violin and Orchestra",
@@ -143,17 +347,65 @@
     "stars": 4,
     "status": "done"
   },
+  "2776": {
+    "title": "Symphony no. 5 in D",
+    "composer": "Ralph Vaughan Williams",
+    "stars": 3,
+    "status": "todo"
+  },
   "2797": {
     "title": "Fantasia on a Theme by Thomas Tallis, for 2 string orchestras",
     "composer": "Ralph Vaughan Williams",
     "stars": 4,
     "status": "done"
   },
+  "2838": {
+    "title": "Fantasia on Greensleeves, for harp, flute and strings",
+    "composer": "Ralph Vaughan Williams",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2910": {
+    "title": "Noches en los jardines de España, for piano and orchestra, G.49",
+    "composer": "Manuel de Falla",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2931": {
+    "title": "El sombrero de tres picos",
+    "composer": "Manuel de Falla",
+    "stars": 3,
+    "status": "todo"
+  },
+  "2948": {
+    "title": "2 Rhapsodies roumaines, op. 11",
+    "composer": "George Enescu",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3107": {
+    "title": "L'incoronazione di Poppea, SV308",
+    "composer": "Claudio Monteverdi",
+    "stars": 3,
+    "status": "todo"
+  },
   "3174": {
     "title": "Orfeo, SV318",
     "composer": "Claudio Monteverdi",
     "stars": 4,
     "status": "done"
+  },
+  "3291": {
+    "title": "Vespro della beata Vergine, SV206",
+    "composer": "Claudio Monteverdi",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3382": {
+    "title": "Aconcagua', concerto for bandoneón, string instruments and percussion",
+    "composer": "Astor Piazzolla",
+    "stars": 3,
+    "status": "todo"
   },
   "3436": {
     "title": "Libertango, tango for chamber ensemble",
@@ -167,17 +419,53 @@
     "stars": 4,
     "status": "done"
   },
+  "3594": {
+    "title": "Symphony no. 2, op. 30, \"Romantic\"",
+    "composer": "Howard Hanson",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3601": {
+    "title": "Symphony no. 2 in B minor",
+    "composer": "Alexander Borodin",
+    "stars": 3,
+    "status": "todo"
+  },
   "3614": {
     "title": "In the Steppes of Central Asia",
     "composer": "Alexander Borodin",
     "stars": 4,
     "status": "done"
   },
+  "3659": {
+    "title": "Crown Imperial",
+    "composer": "William Walton",
+    "stars": 3,
+    "status": "todo"
+  },
   "3682": {
     "title": "Symphony no. 1 in B flat minor",
     "composer": "William Walton",
     "stars": 4,
     "status": "done"
+  },
+  "3689": {
+    "title": "Belshazzar's Feast, for baritone, double chorus and orchestra",
+    "composer": "William Walton",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3696": {
+    "title": "Violin Concerto",
+    "composer": "William Walton",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3731": {
+    "title": "Introduction et Rondo capriccioso, for violin and orchestra, op. 28",
+    "composer": "Camille Saint-Saëns",
+    "stars": 3,
+    "status": "todo"
   },
   "3785": {
     "title": "Symphony no. 3 in C minor, op. 78, \"Organ\"",
@@ -209,17 +497,125 @@
     "stars": 5,
     "status": "done"
   },
+  "3827": {
+    "title": "Samson et Dalila, op. 47",
+    "composer": "Camille Saint-Saëns",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3909": {
+    "title": "Symphony no. 7 in C major, op. 60, \"Leningrad\"",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
   "3916": {
     "title": "Symphony no. 5 in D minor, op. 47",
     "composer": "Dmitri Shostakovich",
     "stars": 4,
     "status": "done"
   },
+  "3923": {
+    "title": "Symphony no. 10 in E minor, op. 93",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3969": {
+    "title": "Violin Concerto no. 1 in A minor, op. 77",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3976": {
+    "title": "Piano Concerto no. 1 in C minor, for piano, trumpet, and strings, op. 35",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "3999": {
+    "title": "Jazz Suite no. 2",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4004": {
+    "title": "String Quartet no. 8 in C minor, op. 110",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4012": {
+    "title": "Cello Concerto no. 1 in E flat major, op. 107",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4045": {
+    "title": "Symphony no. 8 in C minor, op. 65, \"Stalingrad\"",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
   "4058": {
     "title": "The Second Waltz, for orchestra",
     "composer": "Dmitri Shostakovich",
     "stars": 4,
     "status": "done"
+  },
+  "4074": {
+    "title": "Jazz Suite no. 1",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4088": {
+    "title": "Piano Quintet in G minor, op. 57",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4089": {
+    "title": "24 Preludes and Fugues, op. 87",
+    "composer": "Dmitri Shostakovich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4129": {
+    "title": "16 Rosenkranz-Sonaten, C. 90-105, \"Mystery of the Rosary Sonatas\"",
+    "composer": "Heinrich Franz von Biber",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4212": {
+    "title": "Violin Concerto no. 1, op. 35, M37",
+    "composer": "Karol Szymanowski",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4288": {
+    "title": "Ave Maria ... virgo serena",
+    "composer": "Josquin Des Prez",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4321": {
+    "title": "Missa Pange lingua",
+    "composer": "Josquin Des Prez",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4410": {
+    "title": "I Puritani",
+    "composer": "Vincenzo Bellini",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4422": {
+    "title": "La sonnambula",
+    "composer": "Vincenzo Bellini",
+    "stars": 3,
+    "status": "todo"
   },
   "4432": {
     "title": "Norma",
@@ -239,17 +635,59 @@
     "stars": 4,
     "status": "done"
   },
+  "4518": {
+    "title": "Clarinet Concerto, FS129, op. 57",
+    "composer": "Carl Nielsen",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4539": {
+    "title": "Pelléas et Mélisande, op. 80",
+    "composer": "Gabriel Fauré",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4582": {
+    "title": "Piano Quartet no. 2 in G minor, op. 45",
+    "composer": "Gabriel Fauré",
+    "stars": 3,
+    "status": "todo"
+  },
   "4612": {
     "title": "Requiem, op. 48",
     "composer": "Gabriel Fauré",
     "stars": 4,
     "status": "done"
   },
+  "4670": {
+    "title": "Mass 'The Western Wind'",
+    "composer": "John Taverner",
+    "stars": 3,
+    "status": "todo"
+  },
+  "4848": {
+    "title": "Bachianas Brasileiras no. 2, A.247",
+    "composer": "Heitor Villa-Lobos",
+    "stars": 3,
+    "status": "todo"
+  },
   "4869": {
     "title": "Bachianas Brasileiras no. 5, for voice and 8 cellos, A.389",
     "composer": "Heitor Villa-Lobos",
     "stars": 4,
     "status": "done"
+  },
+  "4995": {
+    "title": "4'33\"",
+    "composer": "John Cage",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5031": {
+    "title": "Miroirs",
+    "composer": "Maurice Ravel",
+    "stars": 3,
+    "status": "todo"
   },
   "5040": {
     "title": "Pavane pour une infante défunte",
@@ -263,11 +701,35 @@
     "stars": 5,
     "status": "done"
   },
+  "5054": {
+    "title": "Daphnis et Chloé",
+    "composer": "Maurice Ravel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5072": {
+    "title": "Gaspard de la nuit",
+    "composer": "Maurice Ravel",
+    "stars": 3,
+    "status": "todo"
+  },
   "5095": {
     "title": "Piano Concerto in G",
     "composer": "Maurice Ravel",
     "stars": 4,
     "status": "done"
+  },
+  "5103": {
+    "title": "Le tombeau de Couperin",
+    "composer": "Maurice Ravel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5107": {
+    "title": "Shéhérazade",
+    "composer": "Maurice Ravel",
+    "stars": 3,
+    "status": "todo"
   },
   "5112": {
     "title": "La valse",
@@ -275,11 +737,23 @@
     "stars": 4,
     "status": "done"
   },
+  "5114": {
+    "title": "Piano Concerto for the Left Hand",
+    "composer": "Maurice Ravel",
+    "stars": 3,
+    "status": "todo"
+  },
   "5257": {
     "title": "Symphonie espagnole, for violin and orchestra in D minor, op. 21",
     "composer": "Edouard Lalo",
     "stars": 4,
     "status": "done"
+  },
+  "5344": {
+    "title": "L'italiana in Algeri",
+    "composer": "Gioachino Rossini",
+    "stars": 3,
+    "status": "todo"
   },
   "5371": {
     "title": "Il barbiere di Siviglia",
@@ -287,11 +761,59 @@
     "stars": 4,
     "status": "done"
   },
+  "5406": {
+    "title": "La cenerentola",
+    "composer": "Gioachino Rossini",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5419": {
+    "title": "Petite messe solennelle",
+    "composer": "Gioachino Rossini",
+    "stars": 3,
+    "status": "todo"
+  },
   "5441": {
     "title": "Guillaume Tell",
     "composer": "Gioachino Rossini",
     "stars": 5,
     "status": "done"
+  },
+  "5471": {
+    "title": "Poème, for violin and orchestra, op. 25",
+    "composer": "Ernest Chausson",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5557": {
+    "title": "Verklärte Nacht, for string sextet, op. 4",
+    "composer": "Arnold Schoenberg",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5620": {
+    "title": "Pierrot lunaire, for voice and chamber ensemble, op. 21",
+    "composer": "Arnold Schoenberg",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5662": {
+    "title": "The Comedians, suite for small orchestra, op. 26",
+    "composer": "Dmitry Kabalevsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "5978": {
+    "title": "String Quintet in E major, op. 11, no. 5",
+    "composer": "Luigi Boccherini",
+    "stars": 3,
+    "status": "todo"
+  },
+  "6209": {
+    "title": "Organ Concerto in F major, HWV.295, \"The Cuckoo and the Nightingale\"",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
   },
   "6216": {
     "title": "Water Music Suite no. 1 in F major, HWV.348",
@@ -299,11 +821,53 @@
     "stars": 4,
     "status": "done"
   },
+  "6233": {
+    "title": "Concerto Grosso in A major, op. 6, no. 11, HWV.329",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "6367": {
+    "title": "Giulio Cesare in Egitto, HWV.17",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "6393": {
+    "title": "Concerto Grosso in A minor, op. 6, no. 4, HWV.322",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "6422": {
+    "title": "Harpsichord Suite in E, HWV.430, \"The Harmonious Blacksmith\"",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
+  },
   "6431": {
     "title": "Music for the Royal Fireworks in D major, HWV.351",
     "composer": "George Frideric Handel",
     "stars": 4,
     "status": "done"
+  },
+  "6446": {
+    "title": "Alexander's Feast, ode for St. Cecilia's Day, HWV.75",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "6480": {
+    "title": "Organ Concerto in B flat major, op. 4, no. 6, HWV.294",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "6485": {
+    "title": "Organ Concerto in G minor, op. 7, no. 5, HWV.310",
+    "composer": "George Frideric Handel",
+    "stars": 3,
+    "status": "todo"
   },
   "6494": {
     "title": "Water Music Suite no. 3 in G major, HWV.350",
@@ -316,6 +880,12 @@
     "composer": "George Frideric Handel",
     "stars": 4,
     "status": "done"
+  },
+  "6516": {
+    "title": "Les pêcheurs de perles",
+    "composer": "Georges Bizet",
+    "stars": 3,
+    "status": "todo"
   },
   "6544": {
     "title": "L' Arlésienne Suite no. 1",
@@ -341,17 +911,59 @@
     "stars": 4,
     "status": "done"
   },
+  "6781": {
+    "title": "Variations and Fugue on a Theme of Mozart, op. 132",
+    "composer": "Max Reger",
+    "stars": 3,
+    "status": "todo"
+  },
+  "6930": {
+    "title": "Passacaglia in D minor, BuxWV161",
+    "composer": "Dietrich Buxtehude",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7062": {
+    "title": "Nocturne no. 6, H.40, \"Cradle Song\"",
+    "composer": "John Field",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7106": {
+    "title": "Suite no. 1, for Military Band in E flat major, op. 28, no. 1, H.105",
+    "composer": "Gustav Holst",
+    "stars": 3,
+    "status": "todo"
+  },
   "7109": {
     "title": "The Planets, suite for orchestra and female chorus, op. 32, H.125",
     "composer": "Gustav Holst",
     "stars": 5,
     "status": "done"
   },
+  "7125": {
+    "title": "St. Paul's Suite, for strings, op. 29, no. 2, H.118",
+    "composer": "Gustav Holst",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7190": {
+    "title": "12 Spanish Dances, op. 37, H.142",
+    "composer": "Enrique Granados",
+    "stars": 3,
+    "status": "todo"
+  },
   "7252": {
     "title": "Goyescas, H.63",
     "composer": "Enrique Granados",
     "stars": 4,
     "status": "done"
+  },
+  "7273": {
+    "title": "Symphony no. 8 in E flat major",
+    "composer": "Gustav Mahler",
+    "stars": 3,
+    "status": "todo"
   },
   "7275": {
     "title": "Symphony no. 1 in D major, \"Titan\"",
@@ -377,17 +989,95 @@
     "stars": 4,
     "status": "done"
   },
+  "7283": {
+    "title": "Symphony no. 9 in D major",
+    "composer": "Gustav Mahler",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7288": {
+    "title": "Rückert-Lieder",
+    "composer": "Gustav Mahler",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7290": {
+    "title": "Symphony no. 6 in A minor",
+    "composer": "Gustav Mahler",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7297": {
+    "title": "Des Knaben Wunderhorn",
+    "composer": "Gustav Mahler",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7301": {
+    "title": "Kindertotenlieder",
+    "composer": "Gustav Mahler",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7409": {
+    "title": "Terpsichore Dances",
+    "composer": "Michael Praetorius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7484": {
+    "title": "Symphony no. 4 in F minor, op. 36",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
   "7486": {
     "title": "Nutcracker, op. 71a",
     "composer": "Pyotr Ilyich Tchaikovsky",
     "stars": 5,
     "status": "done"
   },
+  "7498": {
+    "title": "Serenade for Strings in C major, op. 48",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7504": {
+    "title": "Eugene Onegin, op. 24",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7515": {
+    "title": "Symphony no. 2 in C minor, op. 17, \"Little Russian\"",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
   "7525": {
     "title": "The Swan Lake, op. 20a",
     "composer": "Pyotr Ilyich Tchaikovsky",
     "stars": 5,
     "status": "done"
+  },
+  "7529": {
+    "title": "Manfred Symphony in B minor, op. 58",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7538": {
+    "title": "The Sleeping Beauty, op. 66a",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7541": {
+    "title": "Capriccio Italien, op. 45",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
   },
   "7545": {
     "title": "Romeo and Juliet",
@@ -401,11 +1091,29 @@
     "stars": 4,
     "status": "done"
   },
+  "7562": {
+    "title": "Variations on a Rococo Theme, for cello and orchestra in A major, op. 33",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
   "7566": {
     "title": "Symphony no. 6 in B minor, op. 74, \"Pathétique\"",
     "composer": "Pyotr Ilyich Tchaikovsky",
     "stars": 4,
     "status": "done"
+  },
+  "7571": {
+    "title": "Francesca da Rimini in E minor, op. 32",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7575": {
+    "title": "Piano Trio in A minor, op. 50, \"In Memory of a Great Artist\"",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
   },
   "7600": {
     "title": "The Swan Lake, op. 20",
@@ -419,11 +1127,35 @@
     "stars": 5,
     "status": "done"
   },
+  "7604": {
+    "title": "Pique Dame, op. 68",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7610": {
+    "title": "Slavonic March, op. 31",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
   "7616": {
     "title": "Violin Concerto in D major, op. 35",
     "composer": "Pyotr Ilyich Tchaikovsky",
     "stars": 4,
     "status": "done"
+  },
+  "7623": {
+    "title": "The Sleeping Beauty, op. 66",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7629": {
+    "title": "The Seasons, op. 37b",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "stars": 3,
+    "status": "todo"
   },
   "7638": {
     "title": "Symphony no. 5 in E minor, op. 64",
@@ -437,6 +1169,12 @@
     "stars": 5,
     "status": "done"
   },
+  "7642": {
+    "title": "Variations and Fugue on a Theme by Handel, op. 24",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
   "7645": {
     "title": "Ein deutsches Requiem, op. 45",
     "composer": "Johannes Brahms",
@@ -448,6 +1186,18 @@
     "composer": "Johannes Brahms",
     "stars": 4,
     "status": "done"
+  },
+  "7657": {
+    "title": "Liebeslieder Walzes, op. 52",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7663": {
+    "title": "Piano Quintet in F minor, op. 34",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
   },
   "7680": {
     "title": "Hungarian Dances, WoO 1",
@@ -461,11 +1211,47 @@
     "stars": 4,
     "status": "done"
   },
+  "7713": {
+    "title": "Intermezzos, op. 117",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7715": {
+    "title": "String Sextet no. 1 in B flat major, op. 18",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7716": {
+    "title": "Piano Quartet no. 1 in G minor, op. 25",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7720": {
+    "title": "Symphony no. 2 in D major, op. 73",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
   "7744": {
     "title": "Symphony no. 1 in C minor, op. 68",
     "composer": "Johannes Brahms",
     "stars": 4,
     "status": "done"
+  },
+  "7755": {
+    "title": "Alto Rhapsody, op. 53",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7757": {
+    "title": "Clarinet Quintet in B minor, op. 115",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
   },
   "7764": {
     "title": "Violin Concerto in D major, op. 77",
@@ -473,11 +1259,77 @@
     "stars": 4,
     "status": "done"
   },
+  "7765": {
+    "title": "Symphony no. 3 in F major, op. 90",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7766": {
+    "title": "Double Concerto in A minor, op. 102",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7774": {
+    "title": "Piano Concerto no. 2 in B flat major, op. 83",
+    "composer": "Johannes Brahms",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7850": {
+    "title": "Metropolis Symphony",
+    "composer": "Michael Daugherty",
+    "stars": 3,
+    "status": "todo"
+  },
+  "7955": {
+    "title": "Nuper rosarum flores",
+    "composer": "Guillaume Dufay",
+    "stars": 3,
+    "status": "todo"
+  },
+  "8145": {
+    "title": "Tafelmusik, collection of 18 chamber pieces for various ensembles organized into 3 productions",
+    "composer": "Georg Philipp Telemann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "8741": {
+    "title": "Symphony no. 3 in B minor, op. 42, \"Il'ya Muromets\"",
+    "composer": "Reinhold Glière",
+    "stars": 3,
+    "status": "todo"
+  },
+  "8880": {
+    "title": "Mass for 4 Voices",
+    "composer": "William Byrd",
+    "stars": 3,
+    "status": "todo"
+  },
+  "8901": {
+    "title": "Ave verum corpus",
+    "composer": "William Byrd",
+    "stars": 3,
+    "status": "todo"
+  },
   "9148": {
     "title": "Cantata no. 147: Herz und Mund und Tat und Leben",
     "composer": "Johann Sebastian Bach",
     "stars": 5,
     "status": "done"
+  },
+  "9172": {
+    "title": "Passacaglia and Fugue in C minor, BWV.582",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9221": {
+    "title": "Partita no. 3 for Solo Violin in E major, BWV.1006",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
   },
   "9231": {
     "title": "Cello Suite no. 1 in G major, BWV.1007",
@@ -485,11 +1337,65 @@
     "stars": 4,
     "status": "done"
   },
+  "9318": {
+    "title": "Well-tempered Clavier, Book 2, BWV.870-893",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9327": {
+    "title": "Orchestral Suite no. 2 in B minor, BWV.1067",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
   "9334": {
     "title": "Cantata no. 140, \"Wachet auf, ruft uns die Stimme\", BWV.140",
     "composer": "Johann Sebastian Bach",
     "stars": 4,
     "status": "done"
+  },
+  "9357": {
+    "title": "Violin Concerto in E major, BWV.1042",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9373": {
+    "title": "Brandenburg Concerto no. 4 in G major, BWV.1049",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9379": {
+    "title": "Partita no. 2 for Solo Violin in D minor, BWV.1004",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9411": {
+    "title": "Brandenburg Concerto no. 1 in F major, BWV.1046",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9433": {
+    "title": "Fugue in G minor, BWV.578, \"Little Fugue\"",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9573": {
+    "title": "Orchestral Suite no. 1 in C major, BWV.1066",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9651": {
+    "title": "Passion According to St. John, BWV.245",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
   },
   "9664": {
     "title": "Brandenburg Concerto no. 2 in F major, BWV.1047",
@@ -515,11 +1421,35 @@
     "stars": 5,
     "status": "done"
   },
+  "9845": {
+    "title": "Violin Concerto in A minor, BWV.1041",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
   "9848": {
     "title": "Passion According to St. Matthew, BWV.244",
     "composer": "Johann Sebastian Bach",
     "stars": 4,
     "status": "done"
+  },
+  "9867": {
+    "title": "Brandenburg Concerto no. 6 in B flat major, BWV.1051",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9895": {
+    "title": "Mass in B minor, BWV.232",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "9971": {
+    "title": "The Musical Offering, BWV.1079",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
   },
   "10074": {
     "title": "Goldberg Variations, BWV.988",
@@ -533,11 +1463,59 @@
     "stars": 4,
     "status": "done"
   },
+  "10160": {
+    "title": "Christmas Oratorio, BWV.248",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10164": {
+    "title": "Art of the Fugue, BWV.1080",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10172": {
+    "title": "Italian Concerto, BWV.971",
+    "composer": "Johann Sebastian Bach",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10243": {
+    "title": "Lagrime di San Pietro",
+    "composer": "Orlande de Lassus",
+    "stars": 3,
+    "status": "todo"
+  },
   "10498": {
     "title": "Lucia di Lammermoor",
     "composer": "Gaetano Donizetti",
     "stars": 4,
     "status": "done"
+  },
+  "10562": {
+    "title": "La fille du régiment",
+    "composer": "Gaetano Donizetti",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10583": {
+    "title": "L'elisir d'amore",
+    "composer": "Gaetano Donizetti",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10694": {
+    "title": "Requiem, op. 9",
+    "composer": "Maurice Duruflé",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10704": {
+    "title": "Iphigénie en Tauride,, Wq. 46",
+    "composer": "Christoph Willibald von Gluck",
+    "stars": 3,
+    "status": "todo"
   },
   "10744": {
     "title": "Carmina Burana",
@@ -545,11 +1523,35 @@
     "stars": 5,
     "status": "done"
   },
+  "10756": {
+    "title": "Babes in Toyland",
+    "composer": "Victor Herbert",
+    "stars": 3,
+    "status": "todo"
+  },
   "10830": {
     "title": "Glassworks, 6 pieces for chamber ensemble or piano",
     "composer": "Philip Glass",
     "stars": 4,
     "status": "done"
+  },
+  "10837": {
+    "title": "Einstein on the Beach",
+    "composer": "Philip Glass",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10867": {
+    "title": "Koyaanisquatsi",
+    "composer": "Philip Glass",
+    "stars": 3,
+    "status": "todo"
+  },
+  "10935": {
+    "title": "String Quartet no. 1, JW VII/8, \"Kreutzer\"",
+    "composer": "Leoš Janáček",
+    "stars": 3,
+    "status": "todo"
   },
   "10951": {
     "title": "Sinfonietta, JW VI/18",
@@ -557,11 +1559,77 @@
     "stars": 4,
     "status": "done"
   },
+  "10971": {
+    "title": "Glagolitic Mass, JW III/9",
+    "composer": "Leoš Janáček",
+    "stars": 3,
+    "status": "todo"
+  },
+  "11709": {
+    "title": "Flute Concerto in G minor, RV.439, \"La Notte\"",
+    "composer": "Antonio Vivaldi",
+    "stars": 3,
+    "status": "todo"
+  },
+  "11806": {
+    "title": "Gloria in D major, RV.589",
+    "composer": "Antonio Vivaldi",
+    "stars": 3,
+    "status": "todo"
+  },
+  "11933": {
+    "title": "Bassoon Concerto in E minor, RV.484",
+    "composer": "Antonio Vivaldi",
+    "stars": 3,
+    "status": "todo"
+  },
+  "12027": {
+    "title": "Concerto for Strings in G major, RV.151, \"alla rustica\"",
+    "composer": "Antonio Vivaldi",
+    "stars": 3,
+    "status": "todo"
+  },
+  "12344": {
+    "title": "Country Gardens, folk song, BFMS 22",
+    "composer": "Percy Grainger",
+    "stars": 3,
+    "status": "todo"
+  },
+  "12569": {
+    "title": "Cantus Arcticus, for orchestra and taped bird songs, op. 61",
+    "composer": "Einojuhani Rautavaara",
+    "stars": 3,
+    "status": "todo"
+  },
+  "12666": {
+    "title": "Gruppen für drei Orchester",
+    "composer": "Karlheinz Stockhausen",
+    "stars": 3,
+    "status": "todo"
+  },
+  "12890": {
+    "title": "Lachrimae, for lute, P.15",
+    "composer": "John Dowland",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13009": {
+    "title": "Tintagel",
+    "composer": "Arnold Bax",
+    "stars": 3,
+    "status": "todo"
+  },
   "13085": {
     "title": "3 Gymnopédies",
     "composer": "Erik Satie",
     "stars": 5,
     "status": "done"
+  },
+  "13204": {
+    "title": "Préludes, Book 1, L.117",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
   },
   "13215": {
     "title": "Prélude à l'après-midi d'un faune, L.86",
@@ -569,11 +1637,29 @@
     "stars": 4,
     "status": "done"
   },
+  "13240": {
+    "title": "Préludes, Book 2, L.123",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
+  },
   "13251": {
     "title": "Children's Corner, L.113",
     "composer": "Claude Debussy",
     "stars": 4,
     "status": "done"
+  },
+  "13258": {
+    "title": "Nocturnes, L.91",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13260": {
+    "title": "String Quartet in G minor, L.85, op. 10",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
   },
   "13270": {
     "title": "2 Arabesques, L.66",
@@ -587,17 +1673,77 @@
     "stars": 5,
     "status": "done"
   },
+  "13303": {
+    "title": "Images, L.122",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13308": {
+    "title": "L'isle joyeuse, L.106",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13325": {
+    "title": "Rêverie, L.68",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
+  },
   "13331": {
     "title": "La Mer, L.109",
     "composer": "Claude Debussy",
     "stars": 4,
     "status": "done"
   },
+  "13332": {
+    "title": "Pelléas et Mélisande, L.88",
+    "composer": "Claude Debussy",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13365": {
+    "title": "Schelomo, rhapsody for cello and orchestra",
+    "composer": "Ernest Bloch",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13539": {
+    "title": "Ballet mécanique",
+    "composer": "George Antheil",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13767": {
+    "title": "Tout un monde lointain, concerto for cello and orchestra",
+    "composer": "Henri Dutilleux",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13824": {
+    "title": "Variations on a Nursery Song, for piano and orchestra, op. 25",
+    "composer": "Ernst von Dohnányi",
+    "stars": 3,
+    "status": "todo"
+  },
   "13876": {
     "title": "Stabat mater, for soprano, alto, and strings",
     "composer": "Giovanni Battista Pergolesi",
     "stars": 4,
     "status": "done"
+  },
+  "13886": {
+    "title": "La serva padrona",
+    "composer": "Giovanni Battista Pergolesi",
+    "stars": 3,
+    "status": "todo"
+  },
+  "13917": {
+    "title": "Piano Concerto no. 2 in D minor, op. 23",
+    "composer": "Edward MacDowell",
+    "stars": 3,
+    "status": "todo"
   },
   "14083": {
     "title": "Canon and Gigue in D major, for 3 violins and continuo, T.337, \"Pachelbel's Canon\"",
@@ -611,11 +1757,53 @@
     "stars": 5,
     "status": "done"
   },
+  "14170": {
+    "title": "Missa prolationum",
+    "composer": "Johannes Ockeghem",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14243": {
+    "title": "Russian Easter Festival Overture, op. 36",
+    "composer": "Nikolai Rimsky-Korsakov",
+    "stars": 3,
+    "status": "todo"
+  },
   "14258": {
     "title": "Sheherazade, op. 35",
     "composer": "Nikolai Rimsky-Korsakov",
     "stars": 4,
     "status": "done"
+  },
+  "14278": {
+    "title": "Capriccio espagnol, op. 34",
+    "composer": "Nikolai Rimsky-Korsakov",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14307": {
+    "title": "Médée",
+    "composer": "Luigi Cherubini",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14347": {
+    "title": "La création du monde, op. 81",
+    "composer": "Darius Milhaud",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14452": {
+    "title": "Le boeuf sur le toit, op. 58",
+    "composer": "Darius Milhaud",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14468": {
+    "title": "Escales, \"Ports of Call\"",
+    "composer": "Jacques Ibert",
+    "stars": 3,
+    "status": "todo"
   },
   "14525": {
     "title": "España, rhapsody for orchestra",
@@ -623,17 +1811,41 @@
     "stars": 4,
     "status": "done"
   },
+  "14580": {
+    "title": "Werther",
+    "composer": "Jules Massenet",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14603": {
+    "title": "Manon",
+    "composer": "Jules Massenet",
+    "stars": 3,
+    "status": "todo"
+  },
   "14629": {
     "title": "Méditation, for violin and orchestra",
     "composer": "Jules Massenet",
     "stars": 4,
     "status": "done"
   },
+  "14639": {
+    "title": "Duke Bluebeard's Castle, op. 11, BB62",
+    "composer": "Béla Bartók",
+    "stars": 3,
+    "status": "todo"
+  },
   "14658": {
     "title": "Music for Strings, Percussion and Celesta, BB114, Sz.106",
     "composer": "Béla Bartók",
     "stars": 4,
     "status": "done"
+  },
+  "14667": {
+    "title": "Violin Concerto no. 2 in B minor, BB117, Sz.112",
+    "composer": "Béla Bartók",
+    "stars": 3,
+    "status": "todo"
   },
   "14695": {
     "title": "Concerto for Orchestra, BB123, Sz.116",
@@ -647,11 +1859,53 @@
     "stars": 4,
     "status": "done"
   },
+  "14852": {
+    "title": "Symphonie sur un chant montagnard francais, op. 25, \"Symphonie cevenole\"",
+    "composer": "Vincent d'Indy",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14970": {
+    "title": "Les Barricades mystérieuses",
+    "composer": "François Couperin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "14972": {
+    "title": "Symphony no. 3 in E flat major, op. 97, \"Rhenish\"",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
   "14989": {
     "title": "Symphony no. 1 in B flat major, op. 38, \"Spring\"",
     "composer": "Robert Schumann",
     "stars": 4,
     "status": "done"
+  },
+  "15001": {
+    "title": "Frauenliebe und-leben, op. 42",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15004": {
+    "title": "Toccata, op. 7",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15018": {
+    "title": "Davidsbündlertänze, op. 6",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15021": {
+    "title": "Dichterliebe, op. 48",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
   },
   "15046": {
     "title": "Kinderszenen, op. 15",
@@ -659,11 +1913,71 @@
     "stars": 5,
     "status": "done"
   },
+  "15049": {
+    "title": "Fantasy Pieces, op. 12",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15061": {
+    "title": "Papillons, op. 2",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15062": {
+    "title": "Piano Quartet in E flat major, op. 47",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15076": {
+    "title": "Fantasy in C major, op. 17",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15086": {
+    "title": "Symphony no. 2 in C major, op. 61",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
   "15091": {
     "title": "Carnaval, op. 9",
     "composer": "Robert Schumann",
     "stars": 4,
     "status": "done"
+  },
+  "15105": {
+    "title": "Cello Concerto in A minor, op. 129",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15108": {
+    "title": "Études symphoniques, op. 13",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15111": {
+    "title": "Piano Quintet in E flat major, op. 44",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15129": {
+    "title": "Liederkreis, op. 39",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15138": {
+    "title": "Arabesque, op. 18",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
   },
   "15144": {
     "title": "Piano Concerto in A minor, op. 54",
@@ -671,17 +1985,47 @@
     "stars": 4,
     "status": "done"
   },
+  "15156": {
+    "title": "Scenes from Goethe's Faust, WoO 3",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15158": {
+    "title": "Kreisleriana, op. 16",
+    "composer": "Robert Schumann",
+    "stars": 3,
+    "status": "todo"
+  },
   "15232": {
     "title": "Die Dreigroschenoper",
     "composer": "Kurt Weill",
     "stars": 4,
     "status": "done"
   },
+  "15268": {
+    "title": "Sinfonia, for 8 amplified voices and orchestra",
+    "composer": "Luciano Berio",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15339": {
+    "title": "Les contes d'Hoffmann",
+    "composer": "Jacques Offenbach",
+    "stars": 3,
+    "status": "todo"
+  },
   "15387": {
     "title": "Orphée aux Enfers",
     "composer": "Jacques Offenbach",
     "stars": 5,
     "status": "done"
+  },
+  "15431": {
+    "title": "Chichester Psalms",
+    "composer": "Leonard Bernstein",
+    "stars": 3,
+    "status": "todo"
   },
   "15507": {
     "title": "West Side Story",
@@ -701,17 +2045,65 @@
     "stars": 5,
     "status": "done"
   },
+  "15564": {
+    "title": "Porgy and Bess",
+    "composer": "George Gershwin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15566": {
+    "title": "Cuban Overture",
+    "composer": "George Gershwin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15574": {
+    "title": "Piano Concerto in F",
+    "composer": "George Gershwin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15585": {
+    "title": "Second Rhapsody, \"Rhapsody in Rivets\"",
+    "composer": "George Gershwin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15599": {
+    "title": "3 Preludes",
+    "composer": "George Gershwin",
+    "stars": 3,
+    "status": "todo"
+  },
   "15726": {
     "title": "Siegfried, WWV 86c",
     "composer": "Richard Wagner",
     "stars": 4,
     "status": "done"
   },
+  "15728": {
+    "title": "Tristan und Isolde, WWV 90",
+    "composer": "Richard Wagner",
+    "stars": 3,
+    "status": "todo"
+  },
   "15735": {
     "title": "Die Walküre, WWV 86b",
     "composer": "Richard Wagner",
     "stars": 5,
     "status": "done"
+  },
+  "15743": {
+    "title": "Siegfried Idyll, WWV 103",
+    "composer": "Richard Wagner",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15752": {
+    "title": "Wesendonck Lieder, WWV 91",
+    "composer": "Richard Wagner",
+    "stars": 3,
+    "status": "todo"
   },
   "15755": {
     "title": "Das Rheingold, WWV 86a",
@@ -725,6 +2117,12 @@
     "stars": 4,
     "status": "done"
   },
+  "15765": {
+    "title": "Parsifal, WWV 111",
+    "composer": "Richard Wagner",
+    "stars": 3,
+    "status": "todo"
+  },
   "15772": {
     "title": "Götterdämmerung, WWV 86d",
     "composer": "Richard Wagner",
@@ -737,11 +2135,41 @@
     "stars": 4,
     "status": "done"
   },
+  "15869": {
+    "title": "Symphony no. 3 in G minor, op. 42",
+    "composer": "Albert Roussel",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15927": {
+    "title": "Violin Sonata no. 3",
+    "composer": "Eugene Ysaÿe",
+    "stars": 3,
+    "status": "todo"
+  },
+  "15994": {
+    "title": "Concerto for Orchestra",
+    "composer": "Witold Lutoslawski",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16072": {
+    "title": "Symphony no. 1",
+    "composer": "John Corigliano",
+    "stars": 3,
+    "status": "todo"
+  },
   "16121": {
     "title": "Symphony no. 6 in F major, op. 68, \"Pastoral\"",
     "composer": "Ludwig van Beethoven",
     "stars": 4,
     "status": "done"
+  },
+  "16123": {
+    "title": "Violin Sonata no. 5 in F major, op. 24, \"Spring\"",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
   },
   "16124": {
     "title": "Symphony no. 7 in A major, op. 92",
@@ -755,6 +2183,18 @@
     "stars": 4,
     "status": "done"
   },
+  "16170": {
+    "title": "Piano Concerto no. 3 in C minor, op. 37",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16184": {
+    "title": "Piano Sonata no. 21 in C major, op. 53, \"Waldstein\"",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
   "16218": {
     "title": "Piano Concerto no. 5 in E flat major, op. 73, \"Emperor\"",
     "composer": "Ludwig van Beethoven",
@@ -767,11 +2207,47 @@
     "stars": 4,
     "status": "done"
   },
+  "16231": {
+    "title": "Piano Trio no. 7 in B flat major, op. 97, \"Archduke\"",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
   "16238": {
     "title": "Symphony no. 9 in D minor, op. 125, \"Choral\"",
     "composer": "Ludwig van Beethoven",
     "stars": 5,
     "status": "done"
+  },
+  "16245": {
+    "title": "String Quartet no. 7 in F major, op. 59 no. 1, \"Razumovsky\"",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16259": {
+    "title": "String Quartet no. 14 in C sharp minor, op. 131",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16260": {
+    "title": "Grosse Fuge, op. 133",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16264": {
+    "title": "Piano Sonata no. 29 in B flat major, op. 106, \"Hammerklavier\"",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16286": {
+    "title": "Piano Concerto no. 4 in G major, op. 58",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
   },
   "16291": {
     "title": "Bagatelle in A minor, WoO 59, \"Für Elise\"",
@@ -779,11 +2255,29 @@
     "stars": 5,
     "status": "done"
   },
+  "16322": {
+    "title": "Leonore Overture no. 3, op. 72b",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16331": {
+    "title": "Violin Sonata no. 9 in A major, op. 47, \"Kreutzer\"",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
   "16375": {
     "title": "Piano Sonata no. 14 in C sharp minor, op. 27 no. 2, \"Moonlight\"",
     "composer": "Ludwig van Beethoven",
     "stars": 5,
     "status": "done"
+  },
+  "16382": {
+    "title": "Missa Solemnis, op. 123",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
   },
   "16406": {
     "title": "Symphony no. 5 in C minor, op. 67",
@@ -797,17 +2291,35 @@
     "stars": 4,
     "status": "done"
   },
+  "16421": {
+    "title": "Piano Sonata no. 32 in C minor, op. 111",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
   "16458": {
     "title": "Violin Concerto in D major, op. 61",
     "composer": "Ludwig van Beethoven",
     "stars": 4,
     "status": "done"
   },
+  "16482": {
+    "title": "Piano Sonata no. 17 in D minor, op. 31 no. 2, \"Tempest\"",
+    "composer": "Ludwig van Beethoven",
+    "stars": 3,
+    "status": "todo"
+  },
   "16490": {
     "title": "Turandot",
     "composer": "Giacomo Puccini",
     "stars": 4,
     "status": "done"
+  },
+  "16503": {
+    "title": "Manon Lescaut",
+    "composer": "Giacomo Puccini",
+    "stars": 3,
+    "status": "todo"
   },
   "16515": {
     "title": "Nessun Dorma",
@@ -833,17 +2345,65 @@
     "stars": 4,
     "status": "done"
   },
+  "16550": {
+    "title": "The Hebrides: Overture in B minor, op. 26, \"Fingal's Cave\"",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16578": {
+    "title": "String Quartet no. 6 in F minor, op. 80",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16591": {
+    "title": "Piano Concerto no. 1 in G minor, op. 25",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16595": {
+    "title": "Symphony no. 5 in D minor, op. 107, \"Reformation\"",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
   "16609": {
     "title": "Violin Concerto in E minor, op. 64",
     "composer": "Felix Mendelssohn",
     "stars": 4,
     "status": "done"
   },
+  "16626": {
+    "title": "String Quintet no. 2 in B flat major, op. 87",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16642": {
+    "title": "String Octet in E flat major, op. 20",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16673": {
+    "title": "Songs without Words, Book 5, op. 62",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
   "16674": {
     "title": "Symphony no. 3 in A minor, op. 56, \"Scottish\"",
     "composer": "Felix Mendelssohn",
     "stars": 4,
     "status": "done"
+  },
+  "16707": {
+    "title": "Piano Trio no. 1 in D minor, op. 49",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
   },
   "16718": {
     "title": "Symphony no. 4 in A, op. 90, \"Italian\"",
@@ -857,6 +2417,12 @@
     "stars": 5,
     "status": "done"
   },
+  "16768": {
+    "title": "String Quartet no. 2 in A minor, op. 13",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
+  },
   "16827": {
     "title": "The Entertainer",
     "composer": "Scott Joplin",
@@ -869,11 +2435,35 @@
     "stars": 4,
     "status": "done"
   },
+  "16890": {
+    "title": "Nixon in China",
+    "composer": "John Adams",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16896": {
+    "title": "Short Ride in a Fast Machine",
+    "composer": "John Adams",
+    "stars": 3,
+    "status": "todo"
+  },
+  "16906": {
+    "title": "Quatuor pour la fin du temps, I/22",
+    "composer": "Olivier Messiaen",
+    "stars": 3,
+    "status": "todo"
+  },
   "16907": {
     "title": "Turangalila-symphonie, for orchestra",
     "composer": "Olivier Messiaen",
     "stars": 4,
     "status": "done"
+  },
+  "16982": {
+    "title": "The Silver Swanne",
+    "composer": "Orlando Gibbons",
+    "stars": 3,
+    "status": "todo"
   },
   "17109": {
     "title": "Nocturnes, op. 9",
@@ -881,11 +2471,47 @@
     "stars": 5,
     "status": "done"
   },
+  "17114": {
+    "title": "Scherzo no. 1 in B minor, op. 20",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
   "17119": {
     "title": "Polonaise no. 6 in A flat major, op. 53, \"Heroic\"",
     "composer": "Frédéric Chopin",
     "stars": 4,
     "status": "done"
+  },
+  "17124": {
+    "title": "Cello Sonata in G minor, op. 65",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17128": {
+    "title": "Ballade no. 4 in F minor, op. 52",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17131": {
+    "title": "Sonata no. 3 in B minor, op. 58",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17133": {
+    "title": "Andante spianato et grande polonaise brillante, op. 22",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17147": {
+    "title": "Ballade no. 2 in F major, op. 38",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
   },
   "17159": {
     "title": "Etudes, op. 10",
@@ -899,6 +2525,12 @@
     "stars": 4,
     "status": "done"
   },
+  "17170": {
+    "title": "Scherzo no. 3 in C sharp minor, op. 39",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
   "17179": {
     "title": "Fantaisie-impromptu in C sharp minor, op. 66",
     "composer": "Frédéric Chopin",
@@ -911,11 +2543,29 @@
     "stars": 4,
     "status": "done"
   },
+  "17186": {
+    "title": "Scherzo no. 2 in B flat minor, op. 31",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17210": {
+    "title": "Waltz in E flat major, op. 18, \"Grande valse brillante\"",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
   "17217": {
     "title": "Waltzes, op. 64",
     "composer": "Frédéric Chopin",
     "stars": 5,
     "status": "done"
+  },
+  "17223": {
+    "title": "Etudes, op. 25",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
   },
   "17236": {
     "title": "Piano Concerto no. 1 in E minor, op. 11",
@@ -923,11 +2573,29 @@
     "stars": 4,
     "status": "done"
   },
+  "17239": {
+    "title": "Ballade no. 3 in A flat major, op. 47",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17254": {
+    "title": "Scherzo no. 4 in E major, op. 54",
+    "composer": "Frédéric Chopin",
+    "stars": 3,
+    "status": "todo"
+  },
   "17276": {
     "title": "Preludes, op. 28",
     "composer": "Frédéric Chopin",
     "stars": 4,
     "status": "done"
+  },
+  "17369": {
+    "title": "Symphony Mathis der Maler",
+    "composer": "Paul Hindemith",
+    "stars": 3,
+    "status": "todo"
   },
   "17387": {
     "title": "Symphonic Metamorphosis of Themes by Carl Maria von Weber",
@@ -940,6 +2608,24 @@
     "composer": "Mikhail Ivanovich Glinka",
     "stars": 4,
     "status": "done"
+  },
+  "17643": {
+    "title": "Ivan Susanin: Zhizn' za tsarya, G. xii",
+    "composer": "Mikhail Ivanovich Glinka",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17711": {
+    "title": "Messe de Nostre Dame",
+    "composer": "Guillaume de Machaut",
+    "stars": 3,
+    "status": "todo"
+  },
+  "17971": {
+    "title": "Italienisches Liederbuch",
+    "composer": "Hugo Wolf",
+    "stars": 3,
+    "status": "todo"
   },
   "18023": {
     "title": "Peer Gynt Suite no. 2, op. 55",
@@ -959,6 +2645,12 @@
     "stars": 5,
     "status": "done"
   },
+  "18116": {
+    "title": "Lyric Suite",
+    "composer": "Edvard Grieg",
+    "stars": 3,
+    "status": "todo"
+  },
   "18148": {
     "title": "Piano Concerto in A minor, op. 16",
     "composer": "Edvard Grieg",
@@ -971,11 +2663,41 @@
     "stars": 4,
     "status": "done"
   },
+  "18509": {
+    "title": "Tritsch-Tratsch-Polka, op. 214",
+    "composer": "Johann Strauss Jr",
+    "stars": 3,
+    "status": "todo"
+  },
+  "18562": {
+    "title": "Pizzicato Polka, op. 234",
+    "composer": "Johann Strauss Jr",
+    "stars": 3,
+    "status": "todo"
+  },
+  "18858": {
+    "title": "Die Fledermaus, RV.503",
+    "composer": "Johann Strauss Jr",
+    "stars": 3,
+    "status": "todo"
+  },
+  "18887": {
+    "title": "Geschichten aus dem Wienerwald, op. 325",
+    "composer": "Johann Strauss Jr",
+    "stars": 3,
+    "status": "todo"
+  },
   "18889": {
     "title": "An der schönen, blauen Donau, op. 314",
     "composer": "Johann Strauss Jr",
     "stars": 5,
     "status": "done"
+  },
+  "18998": {
+    "title": "Violin Concerto no. 8 in A minor, op. 47",
+    "composer": "Louis Spohr",
+    "stars": 3,
+    "status": "todo"
   },
   "19038": {
     "title": "Violin Sonata in G minor, B.g5, \"The Devil's Trill\"",
@@ -989,11 +2711,35 @@
     "stars": 4,
     "status": "done"
   },
+  "19229": {
+    "title": "Clarinet Concerto no. 1 in F minor, J.114, op. 73",
+    "composer": "Carl Maria von Weber",
+    "stars": 3,
+    "status": "todo"
+  },
+  "19233": {
+    "title": "Invitation to the Dance, op. 65",
+    "composer": "Carl Maria von Weber",
+    "stars": 3,
+    "status": "todo"
+  },
   "19303": {
     "title": "Young Person's Guide to the Orchestra, op. 34",
     "composer": "Benjamin Britten",
     "stars": 4,
     "status": "done"
+  },
+  "19342": {
+    "title": "War Requiem, for STB soloists, boys' voices, chorus, chamber orchestra, orchestra, and organ, op. 66",
+    "composer": "Benjamin Britten",
+    "stars": 3,
+    "status": "todo"
+  },
+  "19458": {
+    "title": "Serenade for Tenor, Horn, and Strings, op. 31",
+    "composer": "Benjamin Britten",
+    "stars": 3,
+    "status": "todo"
   },
   "19471": {
     "title": "Peter Grimes, op. 33",
@@ -1001,11 +2747,23 @@
     "stars": 4,
     "status": "done"
   },
+  "19512": {
+    "title": "Rodeo",
+    "composer": "Aaron Copland",
+    "stars": 3,
+    "status": "todo"
+  },
   "19537": {
     "title": "Appalachian Spring",
     "composer": "Aaron Copland",
     "stars": 4,
     "status": "done"
+  },
+  "19565": {
+    "title": "El Salón México",
+    "composer": "Aaron Copland",
+    "stars": 3,
+    "status": "todo"
   },
   "19597": {
     "title": "Fanfare for the Common Man",
@@ -1025,11 +2783,35 @@
     "stars": 4,
     "status": "done"
   },
+  "19619": {
+    "title": "Four Last Songs, TrV296, WoO150",
+    "composer": "Richard Strauss",
+    "stars": 3,
+    "status": "todo"
+  },
   "19622": {
     "title": "Also sprach Zarathustra, op. 30",
     "composer": "Richard Strauss",
     "stars": 5,
     "status": "done"
+  },
+  "19671": {
+    "title": "Ein Heldenleben, op. 40, TrV190",
+    "composer": "Richard Strauss",
+    "stars": 3,
+    "status": "todo"
+  },
+  "19748": {
+    "title": "Don Juan, op. 20, TrV156",
+    "composer": "Richard Strauss",
+    "stars": 3,
+    "status": "todo"
+  },
+  "19751": {
+    "title": "Tod und Verklärung, op. 24, TrV158",
+    "composer": "Richard Strauss",
+    "stars": 3,
+    "status": "todo"
   },
   "19759": {
     "title": "Eine Alpensinfonie, op. 64, TrV233",
@@ -1037,11 +2819,23 @@
     "stars": 4,
     "status": "done"
   },
+  "19884": {
+    "title": "Ancient Airs and Dances, Suite no. 1, P.109",
+    "composer": "Ottorino Respighi",
+    "stars": 3,
+    "status": "todo"
+  },
   "19898": {
     "title": "Pini di Roma, P.141",
     "composer": "Ottorino Respighi",
     "stars": 4,
     "status": "done"
+  },
+  "19906": {
+    "title": "Feste romane, P.157",
+    "composer": "Ottorino Respighi",
+    "stars": 3,
+    "status": "todo"
   },
   "19915": {
     "title": "Fontane di Roma, P.106",
@@ -1049,11 +2843,23 @@
     "stars": 4,
     "status": "done"
   },
+  "19960": {
+    "title": "Symphony no. 2, \"Sinfonía india\"",
+    "composer": "Carlos Chávez",
+    "stars": 3,
+    "status": "todo"
+  },
   "20003": {
     "title": "Symphonie fantastique: Épisode de la vie d'une artiste, op. 14",
     "composer": "Hector Berlioz",
     "stars": 4,
     "status": "done"
+  },
+  "20013": {
+    "title": "Les Troyens",
+    "composer": "Hector Berlioz",
+    "stars": 3,
+    "status": "todo"
   },
   "20029": {
     "title": "Harold en Italie, H.68, op. 16",
@@ -1061,11 +2867,41 @@
     "stars": 4,
     "status": "done"
   },
+  "20031": {
+    "title": "Requiem, H.75, op. 5",
+    "composer": "Hector Berlioz",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20063": {
+    "title": "La Damnation de Faust, op. 24",
+    "composer": "Hector Berlioz",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20071": {
+    "title": "Different Trains, for double string quartet and tape",
+    "composer": "Steve Reich",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20212": {
+    "title": "Hippolyte et Aricie",
+    "composer": "Jean-Philippe Rameau",
+    "stars": 3,
+    "status": "todo"
+  },
   "20225": {
     "title": "Les Indes galantes",
     "composer": "Jean-Philippe Rameau",
     "stars": 4,
     "status": "done"
+  },
+  "20238": {
+    "title": "Violin Concerto in A minor, op. 82",
+    "composer": "Alexander Glazunov",
+    "stars": 3,
+    "status": "todo"
   },
   "20403": {
     "title": "Pictures at an Exhibition",
@@ -1073,17 +2909,65 @@
     "stars": 4,
     "status": "done"
   },
+  "20428": {
+    "title": "Boris Godunov",
+    "composer": "Modest Mussorgsky",
+    "stars": 3,
+    "status": "todo"
+  },
   "20429": {
     "title": "Night on Bald Mountain",
     "composer": "Modest Mussorgsky",
     "stars": 5,
     "status": "done"
   },
+  "20542": {
+    "title": "Piano Trio no. 2 in E flat major, D.929, op. 100",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
   "20545": {
     "title": "Symphony no. 9 in C major, D.944, \"Great\"",
     "composer": "Franz Schubert",
     "stars": 5,
     "status": "done"
+  },
+  "20560": {
+    "title": "Auf dem Wasser zu singen, D.774, op. 72",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20607": {
+    "title": "String Quartet no. 13 in A minor, D. 804, op. 29, \"Rosamunde\"",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20610": {
+    "title": "Symphony no. 4 in C minor, D.417, \"Tragic\"",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20623": {
+    "title": "String Quartet no. 15 in G major, D. 887, op. posth.161",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20665": {
+    "title": "Piano Trio no. 1 in B flat major, D.898, op. 99",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20739": {
+    "title": "Die schöne Müllerin, D.795, op. 25",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
   },
   "20766": {
     "title": "Symphony no. 8 in B minor, D.759, \"Unfinished\"",
@@ -1097,11 +2981,35 @@
     "stars": 5,
     "status": "done"
   },
+  "20840": {
+    "title": "4 Impromptus, D.935, op. posth.142",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "20900": {
+    "title": "Octet in F major, D.803, op. posth.166",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
   "20959": {
     "title": "String Quartet no. 14 in D minor, D.810, \"Death and the Maiden\"",
     "composer": "Franz Schubert",
     "stars": 4,
     "status": "done"
+  },
+  "21005": {
+    "title": "Symphony no. 5 in B flat major, D.485",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21006": {
+    "title": "Schwanengesang, D.957",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
   },
   "21023": {
     "title": "4 Impromptus, D.899, op. 90",
@@ -1109,11 +3017,35 @@
     "stars": 4,
     "status": "done"
   },
+  "21048": {
+    "title": "Piano Sonata no. 19 in C minor, D.958",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
   "21086": {
     "title": "Erlkönig, D.328, op. 1",
     "composer": "Franz Schubert",
     "stars": 4,
     "status": "done"
+  },
+  "21133": {
+    "title": "Fantasia in F minor, D.940, op. posth.103",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21138": {
+    "title": "Gretchen am Spinnrade, D.118, op. 2",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21341": {
+    "title": "Winterreise, D.911, op. 89",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
   },
   "21352": {
     "title": "Piano Quintet in A major, D.667, op. posth.114, \"The Trout\"",
@@ -1121,11 +3053,41 @@
     "stars": 4,
     "status": "done"
   },
+  "21360": {
+    "title": "Piano Sonata no. 20 in A major, D.959",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21375": {
+    "title": "Fantasy in C major, D.760, op. 15, \"Wanderer\"",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21380": {
+    "title": "Piano Sonata no. 21 in B flat major, D.960",
+    "composer": "Franz Schubert",
+    "stars": 3,
+    "status": "todo"
+  },
   "21429": {
     "title": "String Quintet in C major, D.956, op. posth.163",
     "composer": "Franz Schubert",
     "stars": 4,
     "status": "done"
+  },
+  "21461": {
+    "title": "Kol Nidrei: Adagio on Hebrew Melodies, for cello and orchestra, op. 47",
+    "composer": "Max Bruch",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21481": {
+    "title": "Scottish Fantasy, for violin and orchestra, op. 46",
+    "composer": "Max Bruch",
+    "stars": 3,
+    "status": "todo"
   },
   "21495": {
     "title": "Violin Concerto no. 1 in G minor, op. 26",
@@ -1138,6 +3100,12 @@
     "composer": "Sergei Prokofiev",
     "stars": 4,
     "status": "done"
+  },
+  "21531": {
+    "title": "Lieutenant Kijé, op. 60",
+    "composer": "Sergei Prokofiev",
+    "stars": 3,
+    "status": "todo"
   },
   "21536": {
     "title": "Symphony no. 1 in D, op. 25, \"Classical\"",
@@ -1157,6 +3125,24 @@
     "stars": 5,
     "status": "done"
   },
+  "21660": {
+    "title": "Symphony no. 5 in B flat major, op. 100",
+    "composer": "Sergei Prokofiev",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21670": {
+    "title": "Tapiola, op. 112",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21688": {
+    "title": "Lemminkäinen Suite: 4 Legends from the Kalevala, op. 22",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
   "21716": {
     "title": "Finlandia, op. 26",
     "composer": "Jean Sibelius",
@@ -1169,11 +3155,59 @@
     "stars": 4,
     "status": "done"
   },
+  "21901": {
+    "title": "Symphony no. 4 in A minor, op. 63",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
   "21945": {
     "title": "Symphony no. 2 in D major, op. 43",
     "composer": "Jean Sibelius",
     "stars": 4,
     "status": "done"
+  },
+  "21961": {
+    "title": "Karelia Suite, op. 11",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21968": {
+    "title": "Symphony no. 7 in C major, op. 105",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21970": {
+    "title": "En Saga, op. 9",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "21988": {
+    "title": "Kullervo, symphonic poem for vocal soloists, male chorus and orchestra, op. 7",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22016": {
+    "title": "Symphony no. 5 in E flat major, op. 82",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22017": {
+    "title": "Valse triste, op. 44",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22031": {
+    "title": "Symphony no. 3 in C major, op. 52",
+    "composer": "Jean Sibelius",
+    "stars": 3,
+    "status": "todo"
   },
   "22103": {
     "title": "Piano Concerto no. 2 in C minor, op. 18",
@@ -1193,11 +3227,53 @@
     "stars": 4,
     "status": "done"
   },
+  "22182": {
+    "title": "Symphonic Dances, op. 45",
+    "composer": "Sergei Rachmaninoff",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22200": {
+    "title": "Symphony no. 2 in E minor, op. 27",
+    "composer": "Sergei Rachmaninoff",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22217": {
+    "title": "Rusalka, B.203, op. 114",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22221": {
+    "title": "Serenade for Strings in E major, op. 22",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22237": {
+    "title": "Piano Quintet in A major, B.155, op. 81",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
+  },
   "22248": {
     "title": "Cello Concerto in B minor, op. 104",
     "composer": "Antonín Dvořák",
     "stars": 4,
     "status": "done"
+  },
+  "22259": {
+    "title": "Symphony no. 7 in D minor, B.141, op. 70",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22290": {
+    "title": "Stabat Mater, for vocal soloists, chorus, and orchestra, B.71, op. 58",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
   },
   "22291": {
     "title": "Slavonic Dances, B.145, op. 72",
@@ -1205,11 +3281,35 @@
     "stars": 4,
     "status": "done"
   },
+  "22310": {
+    "title": "Carnival, op. 92",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22331": {
+    "title": "Piano Trio in E minor, op. 90, \"Dumky\"",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
+  },
   "22337": {
     "title": "8 Humoresques, op. 101",
     "composer": "Antonín Dvořák",
     "stars": 4,
     "status": "done"
+  },
+  "22350": {
+    "title": "Slavonic Dances, Series 2, op. 72, B.145",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22354": {
+    "title": "Symphony no. 8 in G major, B.163, op. 88",
+    "composer": "Antonín Dvořák",
+    "stars": 3,
+    "status": "todo"
   },
   "22368": {
     "title": "Symphony no. 9 in E minor, op. 95, \"From the New World\"",
@@ -1223,11 +3323,29 @@
     "stars": 4,
     "status": "done"
   },
+  "22387": {
+    "title": "L'Histoire du soldat",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22389": {
+    "title": "Pulcinella",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
   "22391": {
     "title": "Petrushka",
     "composer": "Igor Stravinsky",
     "stars": 4,
     "status": "done"
+  },
+  "22414": {
+    "title": "Danses concertantes",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
   },
   "22427": {
     "title": "The Firebird",
@@ -1235,11 +3353,83 @@
     "stars": 4,
     "status": "done"
   },
+  "22430": {
+    "title": "Symphony in Three Movements",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22432": {
+    "title": "Three Pieces for Clarinet",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22440": {
+    "title": "Symphony of Psalms",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22456": {
+    "title": "Agon",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22464": {
+    "title": "Symphonies of Wind Instruments",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22466": {
+    "title": "Les Noces",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22478": {
+    "title": "Ebony Concerto",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22484": {
+    "title": "Octet for Wind Instruments",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
   "22505": {
     "title": "The Rite of Spring",
     "composer": "Igor Stravinsky",
     "stars": 5,
     "status": "done"
+  },
+  "22509": {
+    "title": "Violin Concerto",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22518": {
+    "title": "Concerto in E flat major, \"Dumbarton Oaks\"",
+    "composer": "Igor Stravinsky",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22541": {
+    "title": "Musikalische Exequien, for double chorus and continuo, SWV 279-281",
+    "composer": "Heinrich Schütz",
+    "stars": 3,
+    "status": "todo"
+  },
+  "22851": {
+    "title": "Solfeggio no. 1 in C minor, H.220, Wq.117, no. 2",
+    "composer": "Carl Philipp Emanuel Bach",
+    "stars": 3,
+    "status": "todo"
   },
   "23021": {
     "title": "Coppélia",
@@ -1259,17 +3449,59 @@
     "stars": 4,
     "status": "done"
   },
+  "23141": {
+    "title": "Piano Concerto no. 24 in C minor, K.491",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23155": {
+    "title": "Piano Quartet no. 1 in G minor, K.478",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23177": {
+    "title": "Symphony no. 38 in D major, K.504, \"Prague\"",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23200": {
+    "title": "Concerto for Flute and Harp in C major, K.299",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
   "23201": {
     "title": "Variations on Ah vous dirais-je, Maman, K.265",
     "composer": "Wolfgang Amadeus Mozart",
     "stars": 4,
     "status": "done"
   },
+  "23281": {
+    "title": "Oboe Concerto in C major, K.314",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23302": {
+    "title": "Piano Concerto no. 23 in A major, K.488",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
   "23310": {
     "title": "Piano Concerto no. 20 in D minor, K.466",
     "composer": "Wolfgang Amadeus Mozart",
     "stars": 4,
     "status": "done"
+  },
+  "23313": {
+    "title": "Ave verum corpus, K.618",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
   },
   "23315": {
     "title": "Piano Concerto no. 21 in C major, K.467",
@@ -1282,6 +3514,30 @@
     "composer": "Wolfgang Amadeus Mozart",
     "stars": 4,
     "status": "done"
+  },
+  "23448": {
+    "title": "Symphony no. 31 in D major, K.297, \"Paris\"",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23468": {
+    "title": "Great Mass in C minor, K.427",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23497": {
+    "title": "Così fan tutte, K.588",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23503": {
+    "title": "String Quartet no. 19 in C major, K.465, \"Dissonance\"",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
   },
   "23512": {
     "title": "Piano Sonata no. 11 in A major, K.331, \"Alla turca\"",
@@ -1301,6 +3557,18 @@
     "stars": 5,
     "status": "done"
   },
+  "23574": {
+    "title": "Violin Concerto no. 5 in A major, K.219, \"Turkish\"",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23595": {
+    "title": "Coronation Mass in C major, K.317",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
   "23610": {
     "title": "Serenade in G major, K.525, \"Eine Kleine Nachtmusik\"",
     "composer": "Wolfgang Amadeus Mozart",
@@ -1319,6 +3587,12 @@
     "stars": 4,
     "status": "done"
   },
+  "23637": {
+    "title": "Symphony no. 25 in G minor, K.183",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
   "23646": {
     "title": "Requiem in D minor, K.626",
     "composer": "Wolfgang Amadeus Mozart",
@@ -1331,11 +3605,53 @@
     "stars": 4,
     "status": "done"
   },
+  "23723": {
+    "title": "Clarinet Quintet in A major, K.581",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23752": {
+    "title": "Fantasia in D minor, K.397",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23779": {
+    "title": "Violin Concerto no. 3 in G major, K.216",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
   "23812": {
     "title": "Le nozze di Figaro, K.492",
     "composer": "Wolfgang Amadeus Mozart",
     "stars": 4,
     "status": "done"
+  },
+  "23838": {
+    "title": "Sinfonia concertante in E flat major, K.364",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23860": {
+    "title": "Sonata in D major, K.448",
+    "composer": "Wolfgang Amadeus Mozart",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23917": {
+    "title": "Années de pèlerinage, S.160-163, R.10a-e",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "23987": {
+    "title": "Piano Sonata in B minor, S.178",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
   },
   "23990": {
     "title": "6 Hungarian Rhapsodies, S.359",
@@ -1349,11 +3665,83 @@
     "stars": 4,
     "status": "done"
   },
+  "24065": {
+    "title": "2 Episodes from Lenau's Faust, S.110",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24099": {
+    "title": "Tasso: Lamento e Trionfo, S.96",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24103": {
+    "title": "Faust Symphony, S.108, R.425",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24135": {
+    "title": "Mazeppa, S.100",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24157": {
+    "title": "Totentanz, S.126, R.457",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24197": {
+    "title": "Aprés une lecture du Dante I, fantasia quasi sonata, S.158c",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24218": {
+    "title": "19 Hungarian Rhapsodies, S.244, R.106",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24219": {
+    "title": "Piano Concerto no. 1 in E flat major, S.124",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24315": {
+    "title": "Piano Concerto no. 2 in A major, S.125",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24319": {
+    "title": "Les Préludes, S.97",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
   "24335": {
     "title": "Mephisto Waltz no. 1, S.514",
     "composer": "Franz Liszt",
     "stars": 4,
     "status": "done"
+  },
+  "24356": {
+    "title": "Transcendental Etudes, S.139, R.2b",
+    "composer": "Franz Liszt",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24483": {
+    "title": "The Dream of Gerontius, op. 38",
+    "composer": "Edward Elgar",
+    "stars": 3,
+    "status": "todo"
   },
   "24488": {
     "title": "Violin Concerto in B minor, op. 61",
@@ -1385,11 +3773,137 @@
     "stars": 4,
     "status": "done"
   },
+  "24692": {
+    "title": "The Fairy Queen, Z.629",
+    "composer": "Henry Purcell",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24720": {
+    "title": "Hail, bright Cecilia, Z.328",
+    "composer": "Henry Purcell",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24902": {
+    "title": "Symphony no. 3, H.186, \"Liturgique\"",
+    "composer": "Arthur Honegger",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24921": {
+    "title": "Pacific 231, H.53",
+    "composer": "Arthur Honegger",
+    "stars": 3,
+    "status": "todo"
+  },
+  "24944": {
+    "title": "Symphony no. 3, in 1 movement",
+    "composer": "Roy Harris",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25044": {
+    "title": "Gloria, for soprano, chorus and orchestra, FP177",
+    "composer": "Francis Poulenc",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25119": {
+    "title": "Dialogues des Carmélites, op. 159",
+    "composer": "Francis Poulenc",
+    "stars": 3,
+    "status": "todo"
+  },
   "25148": {
     "title": "Threnody 'to the Victims of Hiroshima', for 52 strings",
     "composer": "Krzysztof Penderecki",
     "stars": 4,
     "status": "done"
+  },
+  "25307": {
+    "title": "O magnum mysterium",
+    "composer": "Tomás Luis de Victoria",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25434": {
+    "title": "Double Bass Concerto in E flat major",
+    "composer": "Karl Ditters von Dittersdorf",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25462": {
+    "title": "Il Guarany",
+    "composer": "Antonio Carlos Gomes",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25464": {
+    "title": "Die Jahreszeiten, Hob.XXI:3, \"The Seasons\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25472": {
+    "title": "Symphony no. 45 in F sharp minor, Hob.I:45, \"Farewell\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25505": {
+    "title": "Symphony no. 100 in G, Hob.I:100, \"Military\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25541": {
+    "title": "Trumpet Concerto in E flat major, Hob.VIIe:1",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25548": {
+    "title": "String Quartet in D major, Hob.III:34, op. 20, no. 4, \"The Sun\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25574": {
+    "title": "String Quartet in D minor, Hob.III:76, op. 76, no. 2, \"Fifths\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25615": {
+    "title": "Symphony no. 8 in G, Hob.I:8, \"Le Soir\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25786": {
+    "title": "Keyboard Concerto in D major, Hob.XVIII:11",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25814": {
+    "title": "Symphony no. 103 in E flat major, Hob.I:103, \"Drum Roll\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25869": {
+    "title": "Symphony no. 101 in D, Hob.I:101, \"Clock\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "25892": {
+    "title": "Symphony no. 7 in C, Hob.I:7, \"Le Midi\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
   },
   "25919": {
     "title": "Symphony no. 94 in G, Hob.I:94, \"Surprise\"",
@@ -1397,11 +3911,35 @@
     "stars": 4,
     "status": "done"
   },
+  "25978": {
+    "title": "Symphony no. 48 in C, Hob.I:48, \"Maria Theresia\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
   "26013": {
     "title": "String Quartet in C major, Hob.III:77, op. 76, no. 3, \"Emperor\"",
     "composer": "Franz Joseph Haydn",
     "stars": 4,
     "status": "done"
+  },
+  "26025": {
+    "title": "String Quartet in D major, Hob.III:63, op. 64, no. 5, \"Lark\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "26027": {
+    "title": "Symphony no. 6 in D, Hob.I:6, \"Le Matin\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "26038": {
+    "title": "Cello Concerto no. 1 in C major, Hob.VIIb:1",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
   },
   "26120": {
     "title": "Symphony no. 104 in D, Hob.I:104, \"London\"",
@@ -1409,11 +3947,41 @@
     "stars": 5,
     "status": "done"
   },
+  "26126": {
+    "title": "Symphony no. 96 in D, Hob.I:96, \"Miracle\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
+  "26137": {
+    "title": "Die Schöpfung, Hob.XXI:2, \"The Creation\"",
+    "composer": "Franz Joseph Haydn",
+    "stars": 3,
+    "status": "todo"
+  },
   "26247": {
     "title": "Violin Concerto",
     "composer": "Alban Berg",
     "stars": 4,
     "status": "done"
+  },
+  "26254": {
+    "title": "Wozzeck, op. 7",
+    "composer": "Alban Berg",
+    "stars": 3,
+    "status": "todo"
+  },
+  "26275": {
+    "title": "String Quartet no. 1 in E minor,, JB 1:105, \"From My Life\"",
+    "composer": "Bedrich Smetana",
+    "stars": 3,
+    "status": "todo"
+  },
+  "26276": {
+    "title": "The Bartered Bride, JB 1:100",
+    "composer": "Bedrich Smetana",
+    "stars": 3,
+    "status": "todo"
   },
   "26281": {
     "title": "Má vlast, JB 1:112",
@@ -1421,11 +3989,35 @@
     "stars": 5,
     "status": "done"
   },
+  "26345": {
+    "title": "Variations on a Theme of Mozart, op. 9",
+    "composer": "Fernando Sor",
+    "stars": 3,
+    "status": "todo"
+  },
+  "26470": {
+    "title": "Requiem, for string orchestra",
+    "composer": "Toru Takemitsu",
+    "stars": 3,
+    "status": "todo"
+  },
+  "26495": {
+    "title": "November Steps, for shakuhachi, biwa, and orchestra",
+    "composer": "Toru Takemitsu",
+    "stars": 3,
+    "status": "todo"
+  },
   "26562": {
     "title": "Missa Papae Marcelli",
     "composer": "Giovanni Pierluigi da Palestrina",
     "stars": 4,
     "status": "done"
+  },
+  "26749": {
+    "title": "Fantasía para un gentilhombre, for guitar and orchestra",
+    "composer": "Joaquín Rodrigo",
+    "stars": 3,
+    "status": "todo"
   },
   "26812": {
     "title": "Concierto de Aranjuez, for guitar and orchestra",
@@ -1433,11 +4025,35 @@
     "stars": 4,
     "status": "done"
   },
+  "26849": {
+    "title": "Iberia Suite, B.47 Books 1-4",
+    "composer": "Isaac Albéniz",
+    "stars": 3,
+    "status": "todo"
+  },
   "26900": {
     "title": "Asturias, for guitar",
     "composer": "Isaac Albéniz",
     "stars": 4,
     "status": "done"
+  },
+  "26971": {
+    "title": "The Unanswered Question, for trumpet, winds, and string orchestra",
+    "composer": "Charles Ives",
+    "stars": 3,
+    "status": "todo"
+  },
+  "27009": {
+    "title": "Symphony no. 2",
+    "composer": "Charles Ives",
+    "stars": 3,
+    "status": "todo"
+  },
+  "27204": {
+    "title": "Spartacus Suite 1, op. 82a",
+    "composer": "Aram Khachaturian",
+    "stars": 3,
+    "status": "todo"
   },
   "27209": {
     "title": "Violin Concerto in D minor",
@@ -1451,17 +4067,41 @@
     "stars": 5,
     "status": "done"
   },
+  "27260": {
+    "title": "Viderunt omnes",
+    "composer": "Pérotin",
+    "stars": 3,
+    "status": "todo"
+  },
+  "27271": {
+    "title": "Viderunt omnes",
+    "composer": "Léonin",
+    "stars": 3,
+    "status": "todo"
+  },
   "28083": {
     "title": "Messiah, HWV.56",
     "composer": "George Frideric Handel",
     "stars": 5,
     "status": "done"
   },
+  "28085": {
+    "title": "Serenade, after Plato's \"Symposium\"",
+    "composer": "Leonard Bernstein",
+    "stars": 3,
+    "status": "todo"
+  },
   "28099": {
     "title": "El amor brujo",
     "composer": "Manuel de Falla",
     "stars": 4,
     "status": "done"
+  },
+  "28100": {
+    "title": "Elijah, op. 70",
+    "composer": "Felix Mendelssohn",
+    "stars": 3,
+    "status": "todo"
   },
   "28101": {
     "title": "Toccata and fugue in D minor, BWV.565",
@@ -1475,11 +4115,23 @@
     "stars": 5,
     "status": "done"
   },
+  "28112": {
+    "title": "Prince Igor",
+    "composer": "Alexander Borodin",
+    "stars": 3,
+    "status": "todo"
+  },
   "28113": {
     "title": "Polovtsian Dances",
     "composer": "Alexander Borodin",
     "stars": 4,
     "status": "done"
+  },
+  "28115": {
+    "title": "On Hearing the First Cuckoo in Spring",
+    "composer": "Frederick Delius",
+    "stars": 3,
+    "status": "todo"
   },
   "28116": {
     "title": "Orfeo ed Euridice",

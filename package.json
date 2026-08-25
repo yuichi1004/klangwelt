@@ -12,6 +12,7 @@
     "seed:portraits": "tsx scripts/seed/fetch-portraits.ts",
     "seed:catalog": "tsx scripts/seed/build-catalog.ts",
     "seed:composer-facts": "tsx scripts/seed/fetch-composer-facts.ts",
+    "seed:work-ledger": "tsx scripts/seed/build-work-ledger.ts",
     "check:composer-editorial": "tsx scripts/seed/check-composer-editorial.ts",
     "check:work-editorial": "tsx scripts/seed/check-work-editorial.ts",
     "check:curation": "tsx scripts/seed/check-curation.ts",
