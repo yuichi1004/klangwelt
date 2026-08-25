@@ -629,6 +629,16 @@
       "en": "In 1907, Mahler was forced out of his position as director of the Vienna Court Opera amid political manoeuvring and antisemitic pressure, and in the same year his eldest daughter, Maria, died of scarlet fever and diphtheria, and he himself was diagnosed with a heart condition. He wrote to his friend Bruno Walter that, in one stroke, he had lost everything he thought he had built and had to learn his first steps again like a newborn.\nThe following year, 1908, a translated collection of Chinese poetry, The Chinese Flute, which had stayed with him since he first read it, came back to mind, and he selected seven poems from it for this six-movement work. Mahler died in 1911; the premiere followed six months after his death, on 20 November that year in Munich, conducted by Bruno Walter."
     }
   },
+  "7484": {
+    "structure": {
+      "ja": "全4楽章の交響曲。冒頭で金管により提示される「運命」の動機が姿を変えながら全曲を貫く循環主題として使われる。第2楽章は郷愁を帯びたカンツォーナ風の緩徐楽章、第3楽章は全編ピチカートで奏される異色のスケルツォで、終楽章ではロシア民謡「野に立つ白樺」の旋律が引用される。",
+      "en": "Four movements built around a \"fate\" motto, sounded by brass at the very opening, that returns transformed throughout. The second movement is a wistful canzona-style Andantino; the third an unusual scherzo played entirely pizzicato; the finale quotes the Russian folk song \"In the Field Stood a Birch Tree.\""
+    },
+    "story": {
+      "ja": "1877年から78年にかけて、破局的な結婚生活のさなかに作曲された。精神的な支えとなった支援者ナジェジダ・フォン・メックに献呈されたが、楽譜には名を伏せ「私の最良の友へ」とのみ記されている。初演は1878年2月、モスクワにてニコライ・ルビンシテインの指揮で行われた。当初は「病的で耐え難い」と評されるなど、批評家の反応は総じて厳しかった。",
+      "en": "Composed in 1877 and 1878, during the collapse of his brief and disastrous marriage. He dedicated it to his patroness Nadezhda von Meck, who gave him crucial emotional support, though the score names only \"my best friend,\" omitting her. It premiered in Moscow in February 1878 under Nikolai Rubinstein, to reviews that were largely harsh, one calling it sickly and unbearable."
+    }
+  },
   "7486": {
     "structure": {
       "ja": "バレエ音楽「くるみ割り人形」全2幕から、演奏会用に8曲を抜き出した組曲。「小序曲」に続き、行進曲、こんぺい糖の踊り（チェレスタの独奏が特徴）、トレパック、アラビアの踊り、中国の踊り、葦笛の踊り、花のワルツと続く。\n「こんぺい糖の踊り」で使われるチェレスタは、当時のロシアではまだ知られていなかった鍵盤打楽器で、彼はパリでこの楽器を見つけ、他の作曲家に知られる前にと内密に取り寄せたと伝えられる。",
@@ -639,6 +649,36 @@
       "en": "The commission came in 1891 from Ivan Vsevolozhsky, director of the Imperial Theatres. The story is based on Alexandre Dumas père's retelling of E. T. A. Hoffmann's tale.\nThe ballet itself premiered on 17 December 1892 at the Mariinsky Theatre in St Petersburg, and was criticised at the time for its thin plot; the initial reception was lukewarm. The concert suite, however, had already been performed separately and was warmly received — a striking contrast to how the ballet itself was first received."
     }
   },
+  "7498": {
+    "structure": {
+      "ja": "弦楽合奏のみによる全4楽章の作品。第1楽章「ソナチネ形式の小品」はモーツァルトの古典的な様式を意識して書かれ、続いてワルツ、哀愁を帯びたエレジー、ロシア民謡による終曲と続く。作曲者自身、弦楽器はできる限り大きな編成で演奏してほしいと楽譜に書き添えている。",
+      "en": "Four movements for string orchestra alone. The opening \"Piece in Sonatina Form\" deliberately echoes Mozart's classical style, followed by a waltz, a mournful Élégie, and a finale built on a Russian folk theme. Tchaikovsky asked in the score for as large a string section as possible."
+    },
+    "story": {
+      "ja": "1880年秋、わずか数週間で書き上げられた。献呈されたのはモスクワ音楽院で教鞭をとった同僚の音楽家コンスタンチン・アリブレヒトである。私的な初演はその年のうちにモスクワ音楽院で行われ、公開の初演は翌年、サンクトペテルブルクでエドゥアルド・ナープラヴニークの指揮によりおこなわれた。",
+      "en": "He wrote it in just a few weeks in the autumn of 1880, dedicating it to his Moscow Conservatory colleague Konstantin Albrecht, a cellist and pedagogue there. A private run-through took place at the Conservatory that same year, and the public premiere followed the next year in St Petersburg, conducted by Eduard Nápravník."
+    }
+  },
+  "7504": {
+    "structure": {
+      "ja": "プーシキンの韻文小説による全3幕7場のオペラ。作曲者自身が台本を手がけ、「叙情的情景」と題した。壮大な劇的展開よりも、登場人物の心情を映す情景の積み重ねに主眼が置かれ、有名な「手紙の場」ではヒロインの心の揺れが独白の形で描かれる。",
+      "en": "An opera in three acts and seven scenes based on Pushkin's verse novel, with a libretto Tchaikovsky wrote himself and titled \"lyrical scenes.\" Rather than grand dramatic incident, it favors a sequence of intimate scenes mirroring the characters' inner lives — most famously the heroine's soliloquy in the Letter Scene."
+    },
+    "story": {
+      "ja": "作曲は1877年から翌年にかけて進められ、初演は1879年3月、モスクワ音楽院の学生たちによりニコライ・ルビンシテインの指揮のもとマールイ劇場でひっそりと行われた。数年後のハンブルク公演では、若きグスタフ・マーラーが指揮台に立ち、作曲者自身もその客席にいたと伝えられる。",
+      "en": "He composed it in 1877 and the following year, and it premiered quietly in March 1879, performed by Moscow Conservatory students at the Maly Theatre under Nikolai Rubinstein's baton. Years later, a Hamburg production found the young Gustav Mahler on the podium — with Tchaikovsky reportedly in the audience himself."
+    }
+  },
+  "7515": {
+    "structure": {
+      "ja": "全4楽章の交響曲。当時「小ロシア」と呼ばれたウクライナの民謡を3つ取り入れており、なかでも終楽章はウクライナ民謡「鶴」を主題とするロンド形式で、次第に熱を帯びながら壮大な高まりを見せて曲を閉じる。",
+      "en": "A symphony in four movements, weaving in three Ukrainian folk melodies from what was then called \"Little Russia.\" The finale is a rondo built on the Ukrainian folk song \"The Crane,\" gathering momentum toward a grand, triumphant close."
+    },
+    "story": {
+      "ja": "1872年に作曲され、翌年モスクワで初演された。批評家ニコライ・カシキンが、随所に使われたウクライナ民謡にちなんで「小ロシア」と名付けたとされる。1879年から翌年にかけて冒頭楽章と終楽章を中心に大幅な改訂が加えられ、現在演奏されるのはこの改訂版である。",
+      "en": "Tchaikovsky wrote it in 1872, and it premiered in Moscow the following year. The critic Nikolai Kashkin is credited with naming it \"Little Russian,\" after the Ukrainian folk tunes woven through it. He substantially revised the opening movement and finale starting in 1879, and it is that revised version now performed."
+    }
+  },
   "7525": {
     "structure": {
       "ja": "バレエ音楽「白鳥の湖」全4幕から、演奏会用に主要な場面を抜き出した組曲。編成や曲順は版によって異なるが、情景（白鳥のテーマ）、ワルツ、四羽の白鳥の踊り、情景（終曲）といった、旋律の書法がとりわけ際立つ場面が中心となる。\n「白鳥のテーマ」と呼ばれる旋律はハープの分散和音を伴うオーボエ独奏で示され、全曲を通じて繰り返し立ち返ってくる。",
@@ -647,6 +687,36 @@
     "story": {
       "ja": "全曲は1877年にモスクワのボリショイ劇場で初演されたが、振付・美術・演奏のいずれも酷評され、当時から失敗作とみなされた。作曲者自身も自分のバレエ音楽が受け入れられなかったと感じたまま世を去っている。\n1895年、彼の死後にプティパとイワーノフによる新しい振付で再演され、そこで初めて広く評価されるようになった。演奏会用組曲はこの再評価を後押しした形である。",
       "en": "The full ballet was first staged in 1877 at Moscow's Bolshoi Theatre, but the choreography, designs and playing were all harshly criticised, and it was judged a failure at the time. He died believing his ballet music had not been accepted.\nIt was only after his death, in an 1895 revival with new choreography by Petipa and Ivanov, that the ballet won the reputation it has today — a reassessment the concert suite has helped carry forward."
+    }
+  },
+  "7529": {
+    "structure": {
+      "ja": "バイロンの詩劇に基づく全4楽章の標題交響曲。単一の主題がマンフレッドを象徴する動機として全楽章に姿を変えて現れる。第2楽章はアルプスの妖精、第3楽章は牧歌的な情景、終楽章は地獄の乱痴気騒ぎとマンフレッドの魂の救済を描く。番号を持たない交響曲である。",
+      "en": "A programmatic symphony in four movements after Byron's dramatic poem, unified by a single motto representing Manfred that returns, transformed, throughout. The second movement conjures an Alpine fairy, the third a pastoral scene, and the finale a hellish bacchanal followed by Manfred's redemption. It carries no number."
+    },
+    "story": {
+      "ja": "1885年、5月から9月にかけて作曲された。着想は批評家スターソフによる筋書きで、当初ベルリオーズに提案されたが断られ、代わりにミリイ・バラキレフを通じてチャイコフスキーに託されたものである。献呈もそのバラキレフに対して行われた。初演は翌1886年、モスクワにてマックス・エルトマンスデルファーの指揮で行われている。",
+      "en": "He composed it between May and September 1885. The program originated with the critic Vladimir Stasov, who first offered it to Berlioz — Berlioz declined — before it reached Tchaikovsky through Mily Balakirev, to whom the symphony is dedicated. It premiered the following year, 1886, in Moscow under Max Erdmannsdörfer."
+    }
+  },
+  "7538": {
+    "structure": {
+      "ja": "バレエ音楽「眠れる森の美女」全曲から抜粋された、演奏会用の組曲。序奏、アダージョ、性格的な踊り、パノラマ、ワルツの5曲から構成される。編纂者は特定されておらず、作曲者自身が生前に組曲化を検討していたとも伝えられるが、実現したのは死後のことである。",
+      "en": "A five-number concert suite drawn from the full-length ballet The Sleeping Beauty: an introduction, an adagio, a character dance, the Panorama, and a waltz. Whoever compiled it remains unidentified; Tchaikovsky himself is said to have considered making a suite in his lifetime, but it only appeared after his death."
+    },
+    "story": {
+      "ja": "バレエ本編は1890年、サンクトペテルブルクのマリインスキー劇場で初演され、大きな話題を呼んだ。組曲版はチャイコフスキーの死後にまとめられ、出版社ユルゲンソンから世に出された。現存する記録に残る最も早い演奏は、彼の没後数年を経たイギリスでのものである。",
+      "en": "The full ballet premiered in 1890 at the Mariinsky Theatre in St Petersburg, conducted by Riccardo Drigo, to great acclaim. The suite itself was assembled only after Tchaikovsky's death and issued by his publisher, Jurgenson; the earliest documented performance on record took place in England, at a New Year's concert, several years after he died."
+    }
+  },
+  "7541": {
+    "structure": {
+      "ja": "単一楽章の演奏会用序曲。当初は「イタリア幻想曲」と題され、グリンカのスペイン序曲を手本にしたとされる。ローマで実際に耳にした街の旋律や、出版された民謡集から採られた主題が用いられ、終盤はイタリアの舞曲タランテラの旋律「チクッツァ」による熱狂的な高まりで締めくくられる。",
+      "en": "A single-movement concert overture, originally titled \"Italian Fantasia\" and modeled on Glinka's Spanish overtures. It draws on tunes Tchaikovsky heard in the streets of Rome and on published collections of Italian folk song, building to a tarantella finale on the tune \"Ciccuzza.\""
+    },
+    "story": {
+      "ja": "1880年、ローマ滞在中の1月から2月にかけて作曲され、5月に管弦楽化された。同年12月、モスクワにてニコライ・ルビンシテインの指揮で初演された。献呈されたのは、サンクトペテルブルク音楽院院長を務めたチェロ奏者カルル・ダヴィドフである。作曲者自身はこの曲の将来性に大きな期待を寄せていたと伝えられる。",
+      "en": "He composed it in January and February 1880 while staying in Rome, orchestrating it that May, and it premiered that December in Moscow under Nikolai Rubinstein. It is dedicated to the cellist Karl Davydov, director of the St Petersburg Conservatory. Tchaikovsky himself reportedly expected great things of the piece, delighted with how warmly it had come together."
     }
   },
   "7545": {
@@ -669,6 +739,16 @@
       "en": "Composition began in 1891, commissioned by Ivan Vsevolozhsky, director of the Moscow Imperial Theatres. It draws on Alexandre Dumas père's softened retelling of Hoffmann's original story.\nIt reunited Tchaikovsky with the choreographer Petipa, who had worked with him on The Sleeping Beauty, but Tchaikovsky is said to have resented Petipa's highly specific instructions for the length and character of each number. Petipa fell ill in August 1892 and withdrew, leaving his assistant Lev Ivanov to finish the choreography. It premiered on 18 December that year at the Mariinsky Theatre in St Petersburg, paired with the opera Iolanta, though Tchaikovsky himself wrote afterward that the audience did not seem to care for it and seemed bored."
     }
   },
+  "7562": {
+    "structure": {
+      "ja": "独奏チェロと管弦楽のための主題と変奏曲。当初は主題に8つの変奏が続く構成だったが、初演を任されたチェロ奏者フィッツェンハーゲンが変奏の順序を入れ替え、第8変奏を丸ごと削除するなど大幅に改変し、今日でも多くの演奏でその改変版が用いられている。",
+      "en": "A theme and variations for solo cello and orchestra. Tchaikovsky originally wrote eight variations on the theme, but the cellist who premiered it, Wilhelm Fitzenhagen, reordered them and cut the eighth entirely — a substantial revision that remains the version most often performed today."
+    },
+    "story": {
+      "ja": "1876年から翌77年にかけて作曲され、献呈されたモスクワ音楽院教授フィッツェンハーゲンの独奏、ニコライ・ルビンシテインの指揮により、同年11月にモスクワで初演された。作曲者自身は当時外国に滞在しており、初演の場には立ち会えなかった。後年フィッツェンハーゲンは、リストから演奏を称賛されたと語ったと伝えられる。",
+      "en": "Composed in 1876 and into the following year, it was dedicated to the Moscow Conservatory cellist Wilhelm Fitzenhagen, who gave the premiere that November in Moscow under Nikolai Rubinstein. Tchaikovsky was abroad at the time and did not attend the first performance himself. Fitzenhagen later claimed that Liszt himself had praised his playing."
+    }
+  },
   "7566": {
     "structure": {
       "ja": "全4楽章。異例なのは楽章の並びで、通常なら快速な終曲が置かれる位置に、消え入るように終わる緩徐楽章が来る。第3楽章の行進曲が壮麗に閉じるため、初めて聴く聴衆がここで拍手してしまうことも珍しくない。\n第2楽章は4分の5拍子のワルツという変則的な書き方で、3拍子の踊りが一歩ぶん多い足取りになっている。",
@@ -677,6 +757,26 @@
     "story": {
       "ja": "1893年10月28日に彼自身の指揮で初演され、その9日後に急死した。死因については当時からコレラ説と自死説が並存し、現在も確定していない。副題は初演後に弟の提案で付けられたとされ、ロシア語の原語は「悲愴」よりも「情熱的な」に近い語感を持つ。",
       "en": "He conducted the premiere on 28 October 1893 and died suddenly nine days later. Cholera and suicide were both proposed at the time and the question has never been settled. The subtitle was reportedly suggested by his brother after the premiere; the Russian word is closer to \"impassioned\" than to the French *pathétique* it is usually translated through."
+    }
+  },
+  "7571": {
+    "structure": {
+      "ja": "ダンテ『神曲』地獄篇第5歌に基づく単一楽章の幻想曲。地獄の業火と嵐を描く激しい序奏と終結部の間に、パオロとフランチェスカの悲恋を歌う叙情的な中間部が置かれる。バイロイト訪問直後の作で、ワーグナーの管弦楽法からの影響が色濃く感じられる。",
+      "en": "A single-movement fantasia after Canto V of Dante's Inferno. A violent introduction and coda depicting hellfire and storm frame a lyrical central section telling the doomed love of Paolo and Francesca. Written soon after a visit to Bayreuth, it shows the clear imprint of Wagner's orchestral writing."
+    },
+    "story": {
+      "ja": "1876年秋、着想を得てからわずか数週間で書き上げられた。献呈されたのは友人であり弟子でもあった作曲家セルゲイ・タネーエフである。初演はその翌年の春、モスクワにてニコライ・ルビンシテインの指揮で行われ、批評家ラローシュは管弦楽の色彩を「格別に華麗」と評した。",
+      "en": "He wrote it in just a few weeks in the autumn of 1876, having been struck by the idea after reading Dante's canto on a train journey, and dedicated it to his friend and former pupil, the composer Sergei Taneyev. It premiered the following spring in Moscow under Nikolai Rubinstein, and the critic Herman Laroche praised the orchestral colors as exceptionally brilliant."
+    }
+  },
+  "7575": {
+    "structure": {
+      "ja": "ピアノ三重奏のための全2楽章の作品。第1楽章「悲歌風の小品」は哀悼の情を湛えたソナタ形式、第2楽章は主題と変奏に続き「終曲の変奏とコーダ」が置かれる大規模な構成をとる。当初チャイコフスキーはピアノと弦楽器の組み合わせを好まず、この編成での作曲に消極的だったと伝えられる。",
+      "en": "A work for piano trio in two movements. The first, \"Pezzo elegiaco,\" is an elegiac sonata-form movement; the second is a theme and variations that closes with an extended \"Variazione finale e coda.\" Tchaikovsky had long resisted the piano-trio combination, reportedly considering it ill-suited to serious writing."
+    },
+    "story": {
+      "ja": "恩師であり友人でもあったニコライ・ルビンシテインが1881年に世を去ったことを受け、その追悼のために作曲された。翌1882年、ローマ滞在中に書き上げられ、命日にあたるその年3月、モスクワ音楽院で内輪の追悼演奏が行われた。公開初演は同年10月、タネーエフのピアノで行われている。",
+      "en": "He wrote it in memory of Nikolai Rubinstein, his mentor and friend, who died in 1881. Composed the following year, 1882, while he was staying in Rome, it received a private memorial performance at the Moscow Conservatory on the anniversary of Rubinstein's death, with a public premiere that October, Sergei Taneyev at the piano."
     }
   },
   "7600": {
@@ -699,6 +799,26 @@
       "en": "It was commissioned to mark the consecration of the Cathedral of Christ the Saviour, built to commemorate Russia's 1812 victory over Napoleon, for Moscow's industrial exhibition. He wrote it in about six weeks, between October and November 1880.\nIt premiered on 20 August 1882, in a tent erected in front of the still-unfinished cathedral. Tchaikovsky himself described the piece as loud and noisy, written \"without warmth or love,\" and is said to have been less than pleased at how famous it became."
     }
   },
+  "7604": {
+    "structure": {
+      "ja": "プーシキンの小説を原作とする全3幕7場のオペラ。台本は弟モデストが手がけ、原作から大きく脚色を加えており、作曲者自身も台詞の一部やアリアの歌詞を新たに書き加えている。編成にはハープとピアノが加わり、賭け事に取り憑かれる主人公の狂気を色濃く映し出す。",
+      "en": "An opera in three acts and seven scenes based on Pushkin's story, with a libretto by Tchaikovsky's brother Modest that departs substantially from the original — Tchaikovsky himself contributed new lyrics for two arias. The orchestra adds harp and piano, coloring the hero's descent into gambling-fueled madness."
+    },
+    "story": {
+      "ja": "帝室劇場支配人フセヴォロシスキーの依頼を受け、フィレンツェ滞在中のわずか44日間で総譜を書き上げたと伝えられる。初演は1890年12月、サンクトペテルブルクのマリインスキー劇場でエドゥアルド・ナープラヴニークの指揮により行われ、大成功を収めた。作曲者自身は歌手たちとオーケストラが「奇跡を起こした」と書き残している。",
+      "en": "Commissioned by Ivan Vsevolozhsky, director of the Imperial Theatres, he is said to have written the full score in just forty-four days while staying in Florence. It premiered in December 1890 at the Mariinsky Theatre in St Petersburg under Eduard Nápravník, to great success, and Tchaikovsky wrote afterward that the singers and orchestra had worked wonders."
+    }
+  },
+  "7610": {
+    "structure": {
+      "ja": "単一楽章の演奏会用序曲。自筆譜の表紙には「スラヴ民謡による、セルビア・ロシア風行進曲」との標題が記されている。セルビアの民謡2曲とロシア帝国国歌「神よ、皇帝を守り給え」の旋律が引用され、重々しい葬送行進曲風の序奏から次第に高揚していく構成をとる。",
+      "en": "A single-movement concert overture. The autograph title page reads \"Serbo-Russian March on Slavonic Folk Themes.\" It quotes two Serbian folk songs alongside the Russian imperial anthem, \"God Save the Tsar,\" building from a somber funeral-march introduction toward a triumphant close."
+    },
+    "story": {
+      "ja": "1876年、友人ニコライ・ルビンシテインの依頼により、セルビア・オスマン戦争で負傷した兵士を支援する慈善演奏会のために作曲された。同年11月、モスクワにて依頼主ルビンシテイン自身の指揮で初演され、聴衆の熱狂的な支持を受けて再演が求められたと伝えられる。",
+      "en": "Tchaikovsky wrote it in 1876 at the request of his friend Nikolai Rubinstein, for a charity concert supporting soldiers wounded in the Serbian–Ottoman War. Rubinstein himself conducted the premiere that November in Moscow, and the piece is said to have been received so enthusiastically that it was repeated on the spot."
+    }
+  },
   "7616": {
     "structure": {
       "ja": "全3楽章。終楽章はロシアの民俗舞踊を思わせる急速なロンドで、独奏ヴァイオリンに高度な重音奏法や広い音域を飛び越える跳躍が次々と要求される。\n第1楽章のカデンツァも異例に長く書かれており、超絶技巧を前面に押し出した、当時としては演奏至難とされた協奏曲である。",
@@ -707,6 +827,26 @@
     "story": {
       "ja": "1878年春、スイスのクラランスに滞在中、弟モデストと若きヴァイオリン奏者コテックとともに過ごしていたわずか1か月ほどの間に作曲された。\n当初はハンガリー出身のヴァイオリニスト、レオポルト・アウアーに献呈される予定だったが、アウアーはこの曲を演奏不可能だとして拒絶した。落胆したチャイコフスキーは献辞をアドルフ・ブロツキーに差し替えている。初演は完成から3年後の1881年12月4日、ウィーンでブロツキーの独奏によりようやく実現した。",
       "en": "It was composed in the spring of 1878 in Clarens, Switzerland, over the course of about a month, while he was staying there with his brother Modest and the young violinist Iosif Kotek.\nHe originally intended to dedicate it to the Hungarian violinist Leopold Auer, who rejected it as unplayable. Disappointed, Tchaikovsky replaced the dedication with the name of Adolph Brodsky, who finally gave the premiere three years later, on 4 December 1881, in Vienna."
+    }
+  },
+  "7623": {
+    "structure": {
+      "ja": "序幕と全3幕から成るバレエ音楽。ペローの童話を下敷きに、グリム童話の要素や、支配人フセヴォロシスキーが加えたとされるリラの精なども織り込まれている。振付師プティパが場面ごとの音楽の長さや性格を細かく指定し、その指示に沿って作曲が進められた。",
+      "en": "A ballet in a prologue and three acts, based on Perrault's fairy tale with elements from the Brothers Grimm and the Lilac Fairy, reportedly added by the Imperial Theatres' director Vsevolozhsky. The choreographer Marius Petipa specified the length and character of each number, and Tchaikovsky composed to those instructions."
+    },
+    "story": {
+      "ja": "1888年、帝室劇場支配人フセヴォロシスキーの依頼で作曲が始まった。初演は1890年1月、サンクトペテルブルクのマリインスキー劇場でリッカルド・ドリゴの指揮により行われた。皇帝アレクサンドル3世は初演後にチャイコフスキーを呼び「実に結構」とだけ声をかけたとされ、期待していた称賛の言葉ではなかったことに落胆したと伝えられる。",
+      "en": "Commissioned in 1888 by Ivan Vsevolozhsky, director of the Imperial Theatres, it premiered in January 1890 at the Mariinsky Theatre in St Petersburg, conducted by Riccardo Drigo. Tsar Alexander III reportedly summoned Tchaikovsky afterward and offered only the words \"very nice\" — a muted response said to have left the composer disappointed."
+    }
+  },
+  "7629": {
+    "structure": {
+      "ja": "ピアノ独奏のための全12曲から成る性格的小品集。各曲には月の名前と、依頼主バーナルドが添えた詩の一節、そして固有の調が与えられている。6月「舟歌」や11月「トロイカ」など親しみやすい旋律で知られ、単独でも演奏会用の小品として広く弾かれている。",
+      "en": "A set of twelve character pieces for solo piano, one for each month, each headed by a line of verse chosen by the commissioning editor and set in its own key. \"Barcarolle\" (June) and \"Troika\" (November) are among its best-loved numbers, and individual pieces are widely performed on their own."
+    },
+    "story": {
+      "ja": "1875年、雑誌ヌーヴェリスト編集長ニコライ・バーナルドの依頼により着想を得た。1月と2月の2曲はその年のうちに書かれ、残る10曲は翌1876年の春、わずか1か月余りで一気に作曲された。毎月の号に1曲ずつ掲載される形で発表され、「トロイカ」は後年ラフマニノフが好んでアンコールに弾いたと伝えられる。",
+      "en": "Nikolai Bernard, editor of the journal Nouvellist, commissioned it in 1875; the January and February pieces came that year, and the remaining ten followed the next spring, 1876, composed in just over a month. Published one piece per monthly issue, the set includes \"Troika,\" said to have later been a favorite encore of Rachmaninoff's."
     }
   },
   "7638": {
