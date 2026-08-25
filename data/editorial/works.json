@@ -1889,6 +1889,16 @@
       "en": "He wrote it in about twelve days in June 1867. He was proud of the piece, calling it \"Russian and original,\" but his mentor Balakirev refused to perform it, and it was never played during his lifetime.\nMussorgsky himself later reworked it with vocal soloists and chorus and tried folding it into two unfinished operas, without success in either case. Five years after his death, in 1886, Rimsky-Korsakov published a heavily reorganised \"fantasy for orchestra\" version, and it is that revision, not the original, that is generally what audiences hear today."
     }
   },
+  "20542": {
+    "structure": {
+      "ja": "ピアノ・ヴァイオリン・チェロによる全4楽章の三重奏曲で、演奏時間は50分に及ぶ大作。第2楽章の哀愁を帯びた旋律はスウェーデン民謡に由来するとされ、終楽章では回想のように再び現れて全曲を締めくくる。",
+      "en": "A piano trio in four movements running roughly fifty minutes, unusually large in scale for the genre. The wistful second-movement melody is thought to derive from a Swedish folk song, and returns cyclically near the close of the finale."
+    },
+    "story": {
+      "ja": "1827年、死の前年に作曲された。1828年3月には生前唯一の自主公演で、ヴァイオリンのシュパンツィヒ、チェロのリンケらとともに披露された。出版社プロープストは室内楽の出版は儲からないとこぼしたと伝えられるが、それでも死の直前に世に送り出している。第2楽章の旋律は後年、映画『バリー・リンドン』にも使われ、広く知られるようになった。",
+      "en": "It was composed in 1827, the year before his death. In March 1828 it featured in the only concert of his own works Schubert ever organized, played with Schuppanzigh on violin and Linke on cello. The publisher Probst reportedly grumbled that chamber music rarely turned a profit, yet still brought the trio into print shortly before he died. Its second-movement melody later became familiar far beyond the concert hall, through the film Barry Lyndon."
+    }
+  },
   "20545": {
     "structure": {
       "ja": "全4楽章、演奏時間は1時間を超える大規模な交響曲で、当時としては異例の長さと反復の多さで知られる。「グレート（大）」という通称は、同じハ長調で書かれたより短い第6交響曲（「小ハ長調」）と区別するための呼び名である。\n終楽章では同じ音型を執拗に反復しながら高揚させていく書き方が特徴で、シューマンはこの曲を評して「天国的な長さ」という言葉を残している。",
@@ -1897,6 +1907,66 @@
     "story": {
       "ja": "完成は1826年ごろとみられるが、シューベルトの生前に公開演奏される機会はなく、彼が所属していた楽友協会による非公式な試演にとどまった。これがシューベルト自身がこの曲を耳にした唯一の機会だったとされる。\n彼の死から10年後の1838年、弟フェルディナントがウィーンを訪れたシューマンに自筆譜を見せ、シューマンはその写しをライプツィヒに持ち帰ってメンデルスゾーンに託した。初演は1839年、メンデルスゾーン指揮のもとおこなわれたが、演奏時間の長さと技術的な難しさから、前半2楽章のみを別の曲を挟んで演奏する短縮された形だった。",
       "en": "It was probably finished around 1826, but Schubert never heard it performed publicly in his lifetime — only an informal reading by the Gesellschaft der Musikfreunde, the society to which he had dedicated it, which is thought to be the only time he ever heard the piece at all.\nTen years after his death, in 1838, his brother Ferdinand showed the manuscript to Schumann during a visit to Vienna, and Schumann carried a copy back to Leipzig and passed it to Mendelssohn. The premiere came in 1839 under Mendelssohn, though shortened — only the first two movements were played, with another piece inserted between them, given the symphony's daunting length and difficulty."
+    }
+  },
+  "20560": {
+    "structure": {
+      "ja": "ピアノ伴奏付きの独唱歌曲。8分の6拍子で舟歌のリズムに乗り、変イ短調から変イ長調へと転じる柔らかな分散和音の伴奏が水面のきらめきを描き出す。詩の連ごとに旋律を繰り返す、有節形式に近い簡潔な作り。",
+      "en": "A solo song with piano accompaniment, set in a rocking 6/8 barcarolle rhythm that moves from A-flat minor to A-flat major. The rippling, arpeggiated accompaniment evokes shimmering water, and the melody repeats strophically with each stanza of the poem."
+    },
+    "story": {
+      "ja": "1823年、シュトルベルク伯爵の詩に曲を付けて作曲され、同年末にウィーンの雑誌の付録として発表、1827年には作品72として改めて出版された。生前の演奏記録は乏しく、確かな初演の記録は残っていない。後年の楽譜には「舟歌」の副題が添えられることも多く、リストがピアノ独奏用に編曲したことでも知られる。",
+      "en": "Schubert set a poem by Count Stolberg-Stolberg in 1823, publishing it that year as a magazine supplement before it reappeared in 1827 as Op. 72. Little is documented about performances in his lifetime, and no confirmed record of a premiere survives. Later editions often carry the subtitle \"Barcarolle,\" and the song is also known today through Liszt's transcription for solo piano."
+    }
+  },
+  "20607": {
+    "structure": {
+      "ja": "全4楽章、イ短調の弦楽四重奏曲。愛称「ロザムンデ」は第2楽章が自作の抒情的な劇音楽の旋律を主題とすることに由来し、メヌエット楽章で引用される自作歌曲の動機は終楽章にも回帰する、循環的な構成をとる。",
+      "en": "A string quartet in A minor and four movements. Its nickname \"Rosamunde\" comes from the second movement, built on a lyrical theme from Schubert's own incidental music, while a song quotation in the minuet returns again in the finale."
+    },
+    "story": {
+      "ja": "1824年、健康や生活への不安を抱えていた時期に作曲された作品で、同年3月にシュパンツィヒ弦楽四重奏団によって初演され、その名手シュパンツィヒ自身に献呈された。彼の四重奏曲の中で、生前に公開の場で演奏され、かつ出版もされた唯一の曲であり、今日でも高く評価されている。",
+      "en": "Schubert wrote it in 1824, during a period of anxiety over his health and finances, and dedicated it to Ignaz Schuppanzigh, whose quartet gave the premiere that March. It remains the only one of his string quartets to have been both publicly performed and published within his lifetime, and it stands among his most admired chamber works today."
+    }
+  },
+  "20610": {
+    "structure": {
+      "ja": "全4楽章、ハ短調で書かれた交響曲。作曲家自身が自筆譜に「悲劇的」と記したことに由来する愛称を持ち、数少ない短調の交響曲の一つ(もう一つは「未完成」)。序奏付きの第1楽章から始まる伝統的な形式をとる。",
+      "en": "A symphony in C minor and four movements. The nickname \"Tragic\" comes from a note Schubert himself wrote on the autograph score, and it is one of only two of his symphonies in a minor key, alongside the \"Unfinished.\" The first movement opens with a slow introduction."
+    },
+    "story": {
+      "ja": "1816年、19歳のシューベルトによって作曲された初期の交響曲である。なぜ「悲劇的」と記したのか本人の説明は残されておらず、その真意は今もはっきりしない。序奏の重々しい響きはハイドンの「天地創造」を思わせるとの指摘もあり、初演は彼の死から20年以上を経てからのことだった。",
+      "en": "Schubert composed it in 1816, at nineteen, as one of his early symphonies. Why he inscribed the score \"Tragic\" he never explained, and the reason remains unclear. Commentators have heard an echo of Haydn's \"Representation of Chaos\" in its brooding introduction, though this remains a matter of interpretation. It was not performed until more than two decades after his death."
+    }
+  },
+  "20623": {
+    "structure": {
+      "ja": "全4楽章、ト長調で書かれた最後の完成された弦楽四重奏曲。冒頭に繰り返し現れる付点リズムの動機や、トレモロやピチカートを効果的に用いた幅広い響きの変化が特徴で、規模も大きい。初期作からの成熟をうかがわせる一曲。",
+      "en": "His last completed string quartet, in G major and four movements. A dotted-rhythm figure from the opening returns throughout, and the writing makes striking use of tremolo and pizzicato for a wide range of colour across a large-scaled span."
+    },
+    "story": {
+      "ja": "1826年6月、わずか10日ほどで一気に書き上げられたとされる。同時期にベートーヴェンの新作四重奏曲の初演に接し、触発されたとの見方もある。生前に全曲が演奏される機会はなく、1828年の自主公演で第1楽章のみが披露されたにとどまり、出版は死後になってからのことである。",
+      "en": "It is said to have been written in about ten days in June 1826, possibly spurred by hearing the premiere of one of Beethoven's late quartets around the same time. The complete work was never performed in Schubert's lifetime — only the first movement was played, at his own benefit concert in 1828 — and it went unpublished until after his death."
+    }
+  },
+  "20665": {
+    "structure": {
+      "ja": "変ロ長調、全4楽章のピアノ三重奏曲。もう一つの変ホ長調の三重奏曲と並ぶ規模を持ち、演奏時間は40分に及ぶ。終楽章では自作の歌曲「スコリー」に似た旋律が現れ、途中でポロネーズ風の挿入部を挟む。",
+      "en": "A piano trio in B-flat major and four movements, matching its E-flat major companion in scale at around forty minutes. The finale's theme echoes his own song \"Skolie,\" interrupted partway through by a polonaise-like episode."
+    },
+    "story": {
+      "ja": "1827年末から1828年にかけて作曲されたとみられ、正確な時期は判然としない。1828年1月、ピアノのベックレル、ヴァイオリンのシュパンツィヒ、チェロのリンケの顔ぶれで私的に初演されたが、出版は死後何年も経ってからのことだった。のちにコルトー、ティボー、カザルスという名手たちの録音によっても広く親しまれた。",
+      "en": "It was composed sometime between late 1827 and 1828 — the exact date is uncertain — and given a private first performance that January, with Bocklet at the piano, Schuppanzigh on violin and Linke on cello. It went unpublished for years after his death, and later became widely loved through recordings by performers such as Cortot, Thibaud and Casals."
+    }
+  },
+  "20739": {
+    "structure": {
+      "ja": "ヴィルヘルム・ミュラーの連作詩による全20曲、演奏に1時間以上を要する規模の歌曲集。粉屋の若者が旅の途上で出会った娘に恋し、やがて失意のうちに小川に安らぎを見出すまでを歌でたどる、物語性の強い構成を持つ。",
+      "en": "A cycle of twenty songs setting poems by Wilhelm Müller, running over an hour. It traces a young miller's journey — falling in love with a girl he meets along a stream, and eventually finding solace in the water after his heart is broken."
+    },
+    "story": {
+      "ja": "1823年、詩人ミュラーの詩集をもとに作曲され、バリトン歌手フォーグルに献呈のうえ翌1824年に出版された。友人たちの集まりでフォーグルの歌とシューベルト自身の伴奏により私的に披露されたと伝えられるが、公開の場での確かな初演記録は死後何十年も経つまで残っていない。",
+      "en": "Schubert composed it in 1823, setting poems by Wilhelm Müller, and dedicated it to the baritone Carl von Schönstein before it was published the following year, 1824. It is said to have been heard privately among friends, sung by Vogl with Schubert himself at the piano, though no confirmed public premiere is documented until decades after his death."
     }
   },
   "20766": {
@@ -1917,6 +1987,26 @@
     "story": {
       "ja": "1825年、ウォルター・スコットの物語詩「湖上の美人」（1810年発表）からの7篇をドイツ語訳で歌曲化した連作の1曲として作曲された。詩中でこの歌を歌うのは、父とともに洞窟に身を隠す登場人物エレンで、聖母マリアへの祈りの言葉を歌う場面にあたる。\n歌曲集は1826年、作品52として出版された。宗教的な典礼のために書かれた曲ではないが、冒頭の呼びかけの言葉がそのまま定着し、結婚式や葬儀で歌われる定番曲となった。",
       "en": "It was written in 1825 as part of a cycle setting seven poems, in German translation, from Walter Scott's narrative poem The Lady of the Lake (published 1810). In the story, it is sung by Ellen, hiding in a cave with her father, as a prayer to the Virgin Mary.\nThe songs were published as Op. 52 in 1826. It was not written for any liturgical use, but the opening words stuck, and it became a fixture at weddings and funerals under that title."
+    }
+  },
+  "20840": {
+    "structure": {
+      "ja": "ピアノ独奏のための4曲からなる即興曲集で、それぞれ独立した性格的小品として書かれる。第1曲と第4曲はヘ短調で全体を挟み込み、緩徐な変奏曲の第3曲を中心に置く、ソナタ的な配列を思わせるとの指摘もある。",
+      "en": "Four independent character pieces for solo piano. The outer pieces share F minor, framing a slow theme-and-variations third piece — an arrangement some scholars have read as echoing the shape of a four-movement sonata, though this remains disputed."
+    },
+    "story": {
+      "ja": "1827年、死の前年の12月に作曲された。同じ年には2曲のピアノ三重奏曲を含む30曲近い作品が生み出されている。生前に出版されたのは4曲のうち最初の2曲のみで、残る2曲と献辞は死後、出版社ディアベリの判断で世に出された。作曲家晩年の充実ぶりを物語る一例である。",
+      "en": "Schubert wrote the set in December 1827, the year before his death — a year that also produced nearly thirty other works, including two piano trios. Only the first two of the four impromptus were published in his lifetime; the remaining two, along with the dedication, appeared only after his death, at the publisher Diabelli's discretion."
+    }
+  },
+  "20900": {
+    "structure": {
+      "ja": "クラリネット、ファゴット、ホルンに弦楽5部を加えた8つの楽器による全6楽章の作品。ベートーヴェンの七重奏曲に倣った編成に、ヴァイオリンをもう1本加えている。演奏時間は1時間近くに及ぶ、室内楽としては大規模な曲。",
+      "en": "A work for eight instruments — clarinet, bassoon, horn and a five-part string section — in six movements, its scoring modeled on Beethoven's Septet but with an extra violin added. At nearly an hour, it is large-scale for chamber music."
+    },
+    "story": {
+      "ja": "1824年、クラリネット奏者トロイヤー伯爵の依頼により作曲され、ベートーヴェンの七重奏曲のような曲をと求められたと伝えられる。まもなく伯爵邸で私的に初演され、公開の場での初演は1827年、シュパンツィヒの主催によるコンサートでのことだった。彼の室内楽作品の中でも最大規模の曲として知られる。",
+      "en": "It was composed in 1824 at the request of the clarinetist Count Ferdinand Troyer, who is said to have asked for something in the mold of Beethoven's Septet. It was given a private first performance soon after at his house, and its public premiere came in 1827, at a concert organized by Schuppanzigh — it remains the largest-scale chamber work Schubert wrote."
     }
   },
   "20959": {
