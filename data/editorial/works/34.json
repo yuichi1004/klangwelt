@@ -8,5 +8,25 @@
       "ja": "もとは1926年に作曲されたジングシュピール(台詞入りの喜歌劇)からの音楽で、退役した老軽騎兵ハーリ・ヤーノシュが、たったひとりでナポレオンを打ち破り皇后マリー・ルイーズの心まで射止めたという法螺話を村人たちに語り聞かせ、最後には富も名誉も捨てて故郷の許嫁のもとへ帰っていくという物語を描く。歌劇の初演は同年10月16日、ブダペストの王立ハンガリー歌劇場でおこなわれた。\nこの物語に由来し、ハンガリー語では今も「ハーリ話」という言葉が法螺話・大言壮語を指す慣用句として用いられている。コダーイ自身は、ハーリを単なる嘘つきではなく、ハンガリー人が本来持つ物語る想像力の化身、いわば「詩人」なのだと説明していたと伝えられる。演奏会用組曲は歌劇とは別に、1927年3月24日、バルセロナでパウ・カザルス管弦楽団、アンタル・フライシャーの指揮により初演されており、ハンガリー国内での組曲初演はさらに遅れて1929年3月17日、コダーイ自身の指揮によりおこなわれている。",
       "en": "The music comes from a Singspiel — a comic opera with spoken dialogue — Kodály composed in 1926, telling of an old retired hussar, Háry János, who regales villagers with tall tales of single-handedly defeating Napoleon and winning the heart of Empress Marie-Louise, before giving up riches and glory to return to his sweetheart. The opera itself premiered on 16 October that year at the Royal Hungarian Opera House in Budapest.\nThe story gave rise to a lasting Hungarian idiom, \"Háry tale,\" still used today for any tall or boastful story. Kodály himself is said to have insisted that Háry was no mere liar, but the embodiment of the Hungarian storytelling imagination — a poet, in his words. The orchestral suite premiered separately from the opera, on 24 March 1927 in Barcelona with the Pau Casals Orchestra under Antal Fleischer, and only reached its Hungarian concert premiere later still, on 17 March 1929, conducted by Kodály himself."
     }
+  },
+  "2610": {
+    "structure": {
+      "ja": "テノール独唱、混声合唱、管弦楽のための3楽章から成るオラトリオ風の作品で、演奏時間は約23分。16世紀のハンガリー語による詩編パラフレーズを歌詞に用い、直接的な民謡の引用はないものの、五音音階を基調とした民謡的な旋律語法が随所に見られる。",
+      "en": "Cast in three movements for tenor soloist, mixed chorus, and orchestra, this oratorio-like work lasts about twenty-three minutes. Its text is a sixteenth-century Hungarian paraphrase of a psalm, and although it quotes no actual folk song, its melodic language is steeped in pentatonic, folk-inflected idioms."
+    },
+    "story": {
+      "ja": "1923年、ブダ・ペシュト・オーブダの3市が統合されてブダペシュトが誕生してから50周年を祝う式典のために作曲され、同年11月19日、作曲家ドホナーニの指揮で初演された。詩編に歌われる嘆きの言葉には、第一次世界大戦後の苦難に見舞われたハンガリー国民の姿が重ねられているとされる。",
+      "en": "The work was composed in 1923 for a gala marking the fiftieth anniversary of the unification of three towns into the city of Budapest, and it was premiered that November under the baton of the composer Dohnányi. The psalm's lament is widely read as an allusion to the suffering of the Hungarian people in the years following the First World War."
+    }
+  },
+  "2624": {
+    "structure": {
+      "ja": "緩やかな序奏とクラリネットのカデンツァに始まり、その後4つの急速な舞曲が続くヴェルブンコシュ様式の管弦楽曲。クラリネットが民族楽器タラガトーを思わせる音色で活躍し、以前に作曲した姉妹作『マロシュセーク舞曲』の系譜に連なる作品とされる。",
+      "en": "Opening with a slow introduction and a clarinet cadenza before moving into four fast dances in the verbunkos style, this orchestral work gives the clarinet a prominent voice recalling the Hungarian tárogató. It is often considered a companion piece to an earlier suite of dances by the same composer."
+    },
+    "story": {
+      "ja": "1933年、ブダペスト・フィルハーモニー協会の創立80周年を記念して委嘱され、同年10月23日に初演された。作曲者は少年時代を過ごした町ガランタで耳にしたジプシー楽団の響きを生涯忘れがたい原体験として語ったと伝えられ、主要な旋律は同地に伝わる古い舞曲集から採られている。",
+      "en": "Commissioned to mark the eightieth anniversary of the Budapest Philharmonic Society, the work was composed in 1933 and premiered that October. The composer reportedly recalled, throughout his life, the sound of a Gypsy band he had heard as a boy in the town after which the piece is named, and its principal themes are drawn from an old published collection of dances from that same region."
+    }
   }
 }

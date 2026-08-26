@@ -1,4 +1,14 @@
 {
+  "10935": {
+    "structure": {
+      "ja": "トルストイの小説『クロイツェル・ソナタ』に着想を得た全4楽章の弦楽四重奏曲で、演奏時間は約18分。各楽章に共通して「コン・モート」の速度指示が現れ、切迫した情感が全曲を貫く。小説の題名自体はベートーヴェンのヴァイオリン・ソナタに由来する。",
+      "en": "Inspired by Tolstoy's novella 'The Kreutzer Sonata,' this four-movement string quartet lasts about eighteen minutes. Each movement carries the marking 'con moto' at some point, lending the whole a restless, urgent character. The novella's own title refers back to a Beethoven violin sonata."
+    },
+    "story": {
+      "ja": "1923年10月に作曲され、翌年に初演、その翌年に出版された。作曲者はトルストイの小説に描かれる「痛めつけられ疲れ果てた哀れな女性」の姿を音楽に投影したと語ったと伝えられ、夫婦間の葛藤を描いた物語の緊張感が全曲に色濃く反映されている晩年の代表作の一つである。",
+      "en": "Composed in October 1923, the quartet was premiered the following year and published the year after that. The composer reportedly said he had in mind the novella's image of a poor, tormented, worn-down woman, and the tension of its story of marital conflict runs through the entire work, one of the finest of his last years."
+    }
+  },
   "10951": {
     "structure": {
       "ja": "金管楽器を中心とするファンファーレで始まり、全5楽章からなる。第1楽章は独立して着想され、当初はブラスバンドのための単独のファンファーレとして構想されていたが、やがて全曲の第1楽章および終楽章として拡張された。\n編成は通常の管弦楽に加え、追加の金管群を要する大規模なもので、祝祭的な色彩の強い作品となっている。",
@@ -7,6 +17,16 @@
     "story": {
       "ja": "前年の夏、避暑地ピーセクの公園で、親しかったカミラ・ステスロヴァーとともに軍楽隊の演奏を耳にしたことがきっかけとなり、その響きが頭から離れなかったと伝えられる。ソコル体操祭の開会式向けのファンファーレの作曲を依頼されたヤナーチェクは、この記憶をもとに曲を書いた。\n1926年3月に着手し、71歳だった彼はわずか1か月ほどで「ファンファーレ付きの、なかなかいいシンフォニエッタ」を書き上げたと述べている。当初は金管と打楽器だけの単独のファンファーレとして構想されていたが、やがて全5楽章、フルオーケストラの作品へと発展した。ソコル運動は「健全な精神は健全な身体に宿る」を理念に掲げる体操組織で、この作品が書かれた1926年の体操祭は、汎スラヴ的な大規模な集会として開催された。",
       "en": "The previous summer, sitting in a park in the spa town of Písek with Kamila Stösslová, to whom he was close, he had heard a military band play, and the sound stayed with him. Commissioned to write a fanfare for the opening of the Sokol Gymnastics Festival, he drew on that memory.\nHe began it in March 1926 and, at seventy-one, finished what he called a \"nice little sinfonietta with fanfares\" within about a month. What started as a stand-alone fanfare for brass and percussion alone grew into a five-movement work for full orchestra. The Sokol movement, built on the idea of \"a strong mind in a strong body,\" held its 1926 festival as a large pan-Slavic gathering."
+    }
+  },
+  "10971": {
+    "structure": {
+      "ja": "ラテン語ではなく古代教会スラヴ語の典礼文を用いた大規模なミサ曲で、序奏からアンティフォナ(入祭)まで8つの部分から成る。独唱4人、二重合唱、オルガン、大管弦楽という壮大な編成を要し、スラヴ文化への強い共感が反映された作品とされる。",
+      "en": "Setting the liturgy not in Latin but in Old Church Slavonic, this large-scale mass unfolds across eight sections framed by an introduction and a closing intrada. It calls for four soloists, double chorus, organ, and orchestra, often read as an expression of sympathy for Slavic culture."
+    },
+    "story": {
+      "ja": "1926年に作曲され、翌年12月5日にブルノで初演された。作曲者は汎スラヴ主義への共感で知られ、この選択には歴史的にスラヴ語での典礼が認められてきた地域の伝統が反映されているとされる。今日でも頻繁に演奏・録音される、作曲者晩年を代表する大作の一つに数えられている。",
+      "en": "Composed in 1926, the mass was premiered the following December in Brno. The composer was known for his sympathy with pan-Slavism, and the choice of language draws on a historical tradition permitting the liturgy to be celebrated in Old Church Slavonic in certain regions. It remains one of his most frequently performed and recorded works."
     }
   }
 }

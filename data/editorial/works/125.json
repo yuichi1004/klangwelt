@@ -1,4 +1,14 @@
 {
+  "14639": {
+    "structure": {
+      "ja": "ソプラノとバスの2人の歌手のみによる全1幕のオペラで、上演時間は約1時間。青ひげ公の城の7つの扉が次々と開かれ、その奥に広がる象徴的な光景―血の色をした拷問部屋から涙の湖まで―が音楽で描き出されていく。",
+      "en": "This one-act opera calls for just two singers, soprano and bass, and runs about an hour. As Bluebeard's seven castle doors are opened one by one, the music paints each symbolic space behind them, from a blood-red torture chamber to a lake of tears."
+    },
+    "story": {
+      "ja": "1911年に作曲され、その後の改訂を経て1918年5月24日、ブダペストで初演された。台本はバラージュ・ベーラがペローの童話に基づいて書いたもので、当初は作曲家コダーイに宛てて構想されたと伝えられる。総譜は作曲者の妻マールタに献呈されている。",
+      "en": "Composed in 1911 and revised in the years that followed, the opera was premiered in Budapest on 24 May 1918. The libretto, based on Perrault's fairy tale, was written by Béla Balázs and reportedly first conceived with the composer Kodály in mind. The score is dedicated to the composer's wife, Márta."
+    }
+  },
   "14658": {
     "structure": {
       "ja": "弦楽器・打楽器・チェレスタのための全4楽章の作品。第1楽章はフーガで、単一の主題が半音ずつ音程を広げながら積み重なっていく厳密な構成をとる。\n弦楽器群を左右2つに分けて配置する編成が指定されており、左右から音が交差するように響く効果を狙った空間的な書法が特徴である。",
@@ -7,6 +17,16 @@
     "story": {
       "ja": "指揮者パウル・ザッハーが率いるバーゼル室内管弦楽団の創立10周年を記念し、1936年、ザッハーからの委嘱で作曲された。バルトークはスイスでの毎年恒例の夏の休暇中にこの曲に取り組んでいる。\n当時ハンガリーでは右派政権によるモダニズム音楽への締め付けが強まっており、彼の収入は民俗音楽研究の職と教育・演奏に頼るところが大きかった。そうした状況のなかでのこの大規模な委嘱は、彼にとって重要な意味を持っていた。総譜には1936年9月7日の日付が記されており、初演は翌1937年1月21日、バーゼルでザッハー自身の指揮によりおこなわれた。",
       "en": "It was commissioned in 1936 by the conductor Paul Sacher to mark the tenth anniversary of his Basel Chamber Orchestra. Bartók worked on it during his customary summer holiday in Switzerland with his family.\nAt the time, right-wing governments in Hungary were tightening their grip on modernist music, and his income depended heavily on an ethnomusicology post along with teaching and performing — a major commission like this one mattered a great deal to him under those circumstances. The score is dated 7 September 1936, and it premiered the following year, on 21 January 1937 in Basel, with Sacher himself conducting."
+    }
+  },
+  "14667": {
+    "structure": {
+      "ja": "全3楽章のヴァイオリン協奏曲で、作曲者自身は単一楽章の変奏曲形式を望んだが、初演者の希望で伝統的な3楽章構成が採られた。第2楽章は独立した変奏曲、第3楽章は第1楽章の主題による変奏という、両者の折衷案が反映された構成になっている。",
+      "en": "This violin concerto is in three movements, though the composer himself had wanted a single-movement set of variations; a traditional design was adopted instead, at the soloist's request. As a compromise, the second movement is itself a set of variations, and the third recasts material from the first."
+    },
+    "story": {
+      "ja": "1938年にかけて作曲され、この曲を委嘱したヴァイオリニストのゾルターン・セーケイに献呈された。翌年3月23日、アムステルダムでセーケイの独奏により初演された。戦間期ハンガリーの緊迫した政治情勢と、作曲者自身の反ファシズムの信念を背景に生まれた作品とされる。",
+      "en": "Composed by 1938, the concerto is dedicated to the violinist Zoltán Székely, who commissioned it and pressed the composer toward a more conventional form. It was premiered the following March in Amsterdam, with Székely as soloist, against the tense political backdrop of interwar Hungary and the composer's own outspoken anti-fascist convictions."
     }
   },
   "14695": {
