@@ -4455,6 +4455,26 @@
       "en": "Composed in 1795 during his second stay in London, it premiered on 2 March that year as part of the \"Opera Concerts\" series at the King's Theatre, with Viotti leading the orchestra and Haydn himself at the fortepiano. A contemporary newspaper reported that the introduction \"excited...attention\" and that the slow movement was encored."
     }
   },
+  "25869": {
+    "structure": {
+      "ja": "全4楽章。「ロンドン交響曲」12曲のうち9番目にあたる作品である。第2楽章では、ピッツィカートの弦楽器とファゴットが規則正しく時を刻むような伴奏を奏で、これが愛称の由来となっている。",
+      "en": "Four movements, the ninth of Haydn's twelve so-called \"London\" symphonies. In the second movement, pizzicato strings and bassoons tick along in a steady, regular rhythm evoking a clock, giving the symphony its familiar popular nickname."
+    },
+    "story": {
+      "ja": "1793年から翌年にかけて作曲された。1794年3月3日、ロンドンのハノーヴァー・スクエア・ルームズで、ハイドン自身の指揮、ザロモン率いる約60名編成のオーケストラにより初演された。当時の批評では「彼の最高傑作」と評され、最初の2楽章はアンコールされたと伝えられる。",
+      "en": "Composed in 1793 and into the following year, it premiered that March at London's Hanover Square Rooms, conducted by Haydn himself with an orchestra of about sixty players led by Salomon. Contemporary press reportedly called it his finest work yet, and the first two movements were encored on the spot."
+    }
+  },
+  "25892": {
+    "structure": {
+      "ja": "全4楽章。「朝」「昼」「晩」と題された三部作の第2曲にあたる交響曲で、独奏楽器が随所で活躍する協奏曲的な書法が特徴である。第2楽章はレチタティーヴォ風のアダージョとして書かれている。",
+      "en": "Four movements, the second panel of a trilogy nicknamed \"Morning,\" \"Noon,\" and \"Evening,\" marked throughout by concerto-like writing that lets individual solo players step forward. The second movement takes the unusual form of a recitative-style Adagio."
+    },
+    "story": {
+      "ja": "1761年5月から6月にかけて、ウィーンのエステルハージ侯爵邸で作曲され、同年、ハイドン自身の指揮のもと初演されたとみられる。侯爵パウル・アントン・エステルハージに献呈された。冒頭には10小節ほどのファンファーレ風の堂々とした序奏が置かれている。",
+      "en": "Composed in May or June of 1761 at the Esterházy palace in Vienna, it was likely premiered that same year under Haydn's own personal direction. It is formally dedicated to Prince Paul Anton Esterházy. The symphony opens with a brief, roughly ten-bar fanfare-like flourish before the main Allegro properly begins."
+    }
+  },
   "25919": {
     "structure": {
       "ja": "全4楽章。第2楽章は静かな変奏曲主題で始まるが、弱奏を予期させておいて、その直後に管弦楽全体による唐突な強奏の一撃が打ち込まれる。この「驚愕」がこの曲の通称の由来である。\n以降の変奏でもこの一撃が再現されることはなく、あくまで一度きりの仕掛けとして楽章全体の中に埋め込まれている。",
@@ -4463,6 +4483,16 @@
     "story": {
       "ja": "1791年、最初のロンドン滞在中に作曲され、翌1792年3月23日、ハノーヴァー・スクエア・ルームズで初演された。\nこの「驚愕」の仕掛けについて、伝記作者グリージンガーが聴衆を眠りから覚まさせるためだったのかと尋ねたところ、ハイドンは、当時同じロンドンで一週間先に演奏会を開いていた弟子プレイエルに客を奪われないよう、目新しさで先手を打ちたかっただけだと答えたという。居眠りする客を驚かせるために仕込んだという逸話も広まっているが、こちらは後世の創作の色が濃い。",
       "en": "It was composed in 1791 during his first visit to London and premiered on 23 March 1792 at the Hanover Square Rooms.\nAsked by his biographer Griesinger whether the \"surprise\" was meant to wake up a dozing audience, Haydn reportedly said he simply wanted a novel effect that would draw attention away from his former pupil Pleyel, who had a rival concert series running in London that same season. A popular story that he wrote it after spotting an audience member asleep in the front row appears to be a later embellishment."
+    }
+  },
+  "25978": {
+    "structure": {
+      "ja": "全4楽章。愛称とは裏腹に、女帝マリア・テレジアのための作品である確証はなく、俗称にすぎないとされる。第3楽章のメヌエットには、ハ短調のトリオが対比として置かれている。トランペットとティンパニのパートは後年の加筆である可能性が指摘されている。",
+      "en": "Four movements which, despite the popular nickname, have no confirmed connection to Empress Maria Theresa — the title is now generally regarded as a later misnomer. The third-movement minuet contrasts with a trio in C minor, and the trumpet and timpani parts may have been added by another hand later."
+    },
+    "story": {
+      "ja": "1769年頃に作曲されたとみられる。後年、女帝マリア・テレジアの訪問に際して書かれたとする説が広く流布したが、この年代の写譜が見つかったことで疑問視されるようになった。実際にその訪問のために作曲されたのは、別の第50番であるとみる研究者が多い。",
+      "en": "Composed around 1769, the symphony was long believed to have been written for a visit by Empress Maria Theresa, but the discovery of a copy dated to that same year has cast doubt on the story. Most scholars now believe Symphony No. 50 was the work actually composed for that occasion."
     }
   },
   "26013": {
@@ -4475,6 +4505,36 @@
       "en": "Impressed by the English anthem \"God Save the King\" during his time in London, Haydn felt Austria, which had no anthem of its own, needed something similar, and set a text by the poet Lorenz Haschka as \"Gott erhalte Franz den Kaiser.\" The hymn was first performed on 12 February 1797, Emperor Francis II's twenty-ninth birthday.\nA few months later, Haydn wove the same melody into one of the string quartets making up his Op. 76 set — quartets written in 1797, after his return from London at the age of sixty-five, and dedicated to Count Erdődy."
     }
   },
+  "26025": {
+    "structure": {
+      "ja": "全4楽章。第1楽章冒頭で第1ヴァイオリンが高音域で舞い上がるように入る旋律が、愛称の由来になったとされる。トスト伯爵に献呈された作品6曲からなる四重奏曲集の1曲。終楽章は後にオルガン自動演奏機用にも編曲されている。",
+      "en": "Four movements whose soaring opening violin melody, rising high above the other instruments from the very first bars, is said to have given the quartet its popular nickname. It belongs to a set of six quartets dedicated to Johann Tost, and its finale was later reworked for a mechanical organ."
+    },
+    "story": {
+      "ja": "1790年に作曲され、翌年、作品64を構成する6曲の1曲として正式に出版された。トスト伯爵への献呈は、ハイドン自身の了承を得ずに行われた可能性が指摘されており、後の版では献呈の記載が省かれることもあった。初演の詳しい記録は今も残っていない。",
+      "en": "Composed in 1790, it was formally published the following year as one of the six quartets making up the Op. 64 set. The dedication to Johann Tost may have been made without Haydn's own personal authorization, and some later editions omitted it altogether. No detailed record survives of the quartet's actual premiere."
+    }
+  },
+  "26027": {
+    "structure": {
+      "ja": "全4楽章。「朝」「昼」「晩」と題された三部作の第1曲にあたる交響曲で、冒頭の緩やかな序奏部は日の出の情景を描いたものとされる。第3楽章のトリオではコントラバスとファゴットに技巧的な独奏の場面が与えられている。",
+      "en": "Four movements, the first panel of the trilogy nicknamed \"Morning,\" \"Noon,\" and \"Evening,\" its slow opening introduction depicting a sunrise. In the third-movement trio, both the double bass and bassoon are given brief but technically demanding solo passages of their own."
+    },
+    "story": {
+      "ja": "1761年春、エステルハージ侯爵家の楽団を率いる地位に新たに就いた直後に作曲された、いわば最初の仕事にあたる作品である。同年のうちに、宮廷楽団により初演されたとみられている。侯爵お抱えの奏者たちの妙技を披露する狙いがあったと考えられている。",
+      "en": "Composed in the spring of 1761, shortly after Haydn took up his new post leading the Esterházy court orchestra, it was effectively his very first work for his new employer. It was likely premiered that same year by the court orchestra, apparently designed to showcase the virtuosity of its individual players."
+    }
+  },
+  "26038": {
+    "structure": {
+      "ja": "独奏チェロと管弦楽のための全3楽章の協奏曲。いずれの楽章もソナタ形式で書かれている。ハイドン自身の宮廷楽団のチェロ首席奏者、ヴァイグルのために書かれたとみられる。長らく失われていたが、20世紀になってプラハで発見された。",
+      "en": "A three-movement concerto for solo cello and orchestra, each movement cast in sonata form. It was likely written for Joseph Franz Weigl, principal cellist of Haydn's own court orchestra. Long thought lost, the score was eventually rediscovered in Prague only in the twentieth century."
+    },
+    "story": {
+      "ja": "1761年から1765年ごろにかけて作曲されたとみられる。ハイドン自身が1765年に作成した自作目録に、この曲の冒頭主題が書き留められていたことが、作曲時期を裏づける重要な手がかりとなっている。真作であるかどうかは長く議論されてきたが、現在では専門家の多くがハイドンの作と認めている。",
+      "en": "Composed sometime between about 1761 and 1765, the concerto's date is supported by an important piece of evidence: Haydn himself entered its opening theme into his own thematic catalogue of works in 1765. Its authenticity was long debated after its rediscovery, but most specialists today accept it as genuinely Haydn's own work."
+    }
+  },
   "26120": {
     "structure": {
       "ja": "全4楽章。ハイドンが生涯に書いた最後の交響曲で、ロンドンでの2度目の滞在時に作曲された12曲の「ロンドン交響曲」群の最後を飾る。\n序奏はニ短調の重々しい斉奏で始まるが、続く主部は一転して軽やかなニ長調のアレグロとなる。終楽章では、ロンドンの民謡に由来するとも言われる伸びやかな旋律が持続低音の上で歌われる。",
@@ -4483,6 +4543,26 @@
     "story": {
       "ja": "1795年、2度目のロンドン滞在中に作曲された。同年5月4日、キングズ劇場でハイドン自身の作品のみによる演奏会で初演され、大成功を収めた。ハイドンは日記に「聴衆はみな大満足で、私も同様だった。この晩だけで4000グルデンを稼いだ。こんなことはイギリスでしか起こりえない」と記している。\n「ロンドン」という通称は12曲あるロンドン交響曲すべてに当てはまりうるが、慣例的にこの最後の1曲だけがそう呼ばれている。",
       "en": "Composed in 1795 during his second stay in London, it premiered on 4 May that year at the King's Theatre, in a concert made up entirely of his own works, to great success. Haydn wrote in his diary that the whole audience was thoroughly pleased, and so was he — he made 4,000 gulden that single evening, \"such a thing is possible only in England.\"\nThe nickname \"London\" could really apply to any of the twelve symphonies from these visits, but by convention it has stuck to this last one alone."
+    }
+  },
+  "26126": {
+    "structure": {
+      "ja": "全4楽章。「ロンドン交響曲」12曲の中では4番目の番号を与えられているが、実際にはこの中でもっとも早く作曲・初演された作品とされる。「奇跡」という愛称は、演奏会場でのシャンデリア落下にまつわる逸話に由来するとされてきた。",
+      "en": "Four movements, numbered fourth among Haydn's twelve \"London\" symphonies yet believed to have actually been the first of the set both composed and performed. Its popular nickname stems from a colorful legend involving a chandelier falling during a concert performance."
+    },
+    "story": {
+      "ja": "1791年に作曲され、同年3月11日、ロンドンのハノーヴァー・スクエア・ルームズで、ハイドン自身の指揮により初演された。演奏中に会場のシャンデリアが落下し、聴衆が舞台前に殺到したため難を逃れたという逸話が伝えられてきたが、近年の研究では、この逸話は別の交響曲の初演に起きた出来事だとされている。",
+      "en": "Composed in 1791, it premiered that March at London's Hanover Square Rooms, conducted by Haydn himself. A popular story claims that a chandelier fell from the ceiling during a performance, with the audience rushing forward and narrowly avoiding injury, though recent scholarship attributes that particular incident to a different symphony's premiere entirely."
+    }
+  },
+  "26137": {
+    "structure": {
+      "ja": "全3部からなるオラトリオ。独唱・混声合唱と大編成の管弦楽のために書かれ、コントラファゴットや3本のトロンボーンも加わる。第1部の「混沌の表現」と題された序曲や、合唱「天は語る」など、随所に有名な曲が含まれている。",
+      "en": "An oratorio in three parts for vocal soloists, mixed chorus, and a large orchestra that includes contrabassoon and three trombones. Well-known numbers scattered throughout include the opening \"Representation of Chaos\" and the chorus \"The Heavens Are Telling.\""
+    },
+    "story": {
+      "ja": "1796年から1798年にかけて作曲された。1798年4月30日、ウィーンのシュヴァルツェンベルク宮殿で招待客のみを対象とした私的な初演が行われ、翌年3月、旧ブルク劇場で一般公開の初演が行われた。台本はファン・スヴィーテン男爵によるドイツ語訳で、もとはヘンデルのために用意された英語の台本が下敷きになっている。",
+      "en": "Composed between 1796 and 1798, it received a private premiere that April at Vienna's Schwarzenberg Palace before invited guests, with a public premiere following the next March at the old Burgtheater. The libretto is Baron van Swieten's German adaptation of an anonymous English text that had originally been intended for Handel decades earlier."
     }
   },
   "26247": {
