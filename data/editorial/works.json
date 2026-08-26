@@ -3005,6 +3005,26 @@
       "en": "It is based on Beaumarchais's play The Marriage of Figaro, banned in Austria at the time because its plot — servants outwitting their masters through wit alone — was read as a satire on the aristocracy.\nThe librettist Da Ponte defused the politics, replacing Figaro's Act 4 tirade against the nobility with a lament about the fickleness of women, among other changes, and secured Emperor Joseph II's permission to stage it. It premiered on 1 May 1786 at the Burgtheater in Vienna, and the opening night is said to have drawn five encores."
     }
   },
+  "23917": {
+    "structure": {
+      "ja": "ピアノ独奏のための3巻からなる曲集。第1年「スイス」全9曲、第2年「イタリア」全7曲、第3年全7曲で構成され、各地の風景や美術・文学作品から受けた印象を音で描く標題的な性格を持つ。",
+      "en": "A three-volume solo piano collection: nine pieces in the first year, \"Switzerland\"; seven in the second, \"Italy\"; and seven more in the third, each movement depicting an impression drawn from a landscape, painting, or literary work."
+    },
+    "story": {
+      "ja": "スイスの風景に取材した第1年には「オーベルマンの谷」を含む9曲があり、ペトラルカのソネットや「ダンテを読んで」を含む第2年とともに1858年までに出版された。技巧の誇示より内省を志向する晩年の第3年は各曲の作曲年もばらばらで、1883年になってようやく世に出た。",
+      "en": "The first two years, drawing on Swiss scenery — including \"Vallée d'Obermann\" — and featuring three Petrarch sonnets plus \"After a Reading of Dante,\" appeared in print by 1858. The reflective, less overtly virtuosic third year, written across scattered years, was not published until 1883, decades after the first two."
+    }
+  },
+  "23987": {
+    "structure": {
+      "ja": "単一楽章でありながら、レント・アッサイの序奏に続くソナタ形式の中に緩徐楽章とスケルツォ的な要素を組み込み、全体で伝統的な多楽章ソナタの構成を凝縮して示す実験的な書法をとる。約30分に及ぶ大作である。",
+      "en": "Though cast as a single continuous movement lasting roughly half an hour, it compresses a full multi-movement sonata scheme inside sonata form, folding slow-movement and scherzo-like episodes into one unbroken span — a bold structural experiment."
+    },
+    "story": {
+      "ja": "1853年に完成し、リストと相互に作品を献呈し合っていたシューマンに捧げられた。友人ハンス・フォン・ビューローが1857年にベルリンで初演したが、シューマン夫人クララは終生演奏を拒んだと伝わり、当初はワーグナーを除いて厳しい評価にさらされた大作である。",
+      "en": "Completed in 1853, it is dedicated to Schumann, who had earlier dedicated a work of his own to Liszt in return. Hans von Bülow gave the premiere in Berlin in 1857, but reception was initially harsh — Clara Schumann herself refused to perform it, though Wagner reportedly responded warmly after a private hearing."
+    }
+  },
   "23990": {
     "structure": {
       "ja": "ピアノ独奏のための19曲からなる作品集のうち、管弦楽用に編曲された6曲がまとめられている。多くはハンガリーの民俗舞踊チャールダーシュに由来する、緩やかな導入部(ラッスー)と急速な後半部(フリスカ)からなる二部形式をとる。\nロマ(ジプシー)音楽の様式を強く反映した装飾的な旋律と即興的な性格が特徴で、当時のヴィルトゥオーゾ・ピアニズムの華やかさを凝縮した書き方がなされている。",
@@ -3025,6 +3045,106 @@
       "en": "The song it is based on was composed around 1845, a setting of Ferdinand Freiligrath's poem \"O Lieb, so lang du lieben kannst\" (\"Love, as long as you can\"). In 1850 Liszt arranged three such songs for solo piano and published them together as Liebesträume, subtitled \"Three Nocturnes.\"\nOf the three, only the third has become widely loved, and it is by far the one most often played on its own."
     }
   },
+  "24065": {
+    "structure": {
+      "ja": "レーナウの詩劇「ファウスト」に基づく2曲からなる管弦楽曲集。第1曲「夜の行列」は瞑想的な行進曲、第2曲「村の居酒屋での踊り」は悪魔メフィストフェレスが奏でる熱狂的な舞曲で、両曲は対照的な性格を成す作品である。",
+      "en": "Two contrasting orchestral pieces based on Lenau's dramatic poem Faust: a slow, meditative march titled \"The Night Procession,\" and \"The Dance in the Village Inn,\" a frenzied whirl of a dance driven by the devil Mephistopheles's fiddling at a village tavern."
+    },
+    "story": {
+      "ja": "ゲーテではなくニコラウス・レーナウの詩劇を題材とした点が特徴で、出版社は2曲を同時に出す予定だったが実現せず、年月を経て別々に世に出た。総譜はカミーユ・サン=サーンスに献呈されており、結果として「夜の行列」は演奏機会が乏しいまま、第2曲だけが単独の人気曲として広まった。",
+      "en": "Based not on Goethe but on Nikolaus Lenau's own Faust drama, the two pieces were meant to be published together, but that plan fell through and they appeared separately, years apart. The printed score is dedicated to Camille Saint-Saëns, and \"The Night Procession\" remains rarely heard while the second piece became a popular favorite on its own."
+    }
+  },
+  "24099": {
+    "structure": {
+      "ja": "嘆きと勝利の対照を軸とする単一楽章の交響詩。ヴェネツィアの舟歌に着想を得た旋律を主題とし、悲嘆に満ちた冒頭部、宮廷生活を描く中間の抒情的な部分、そして勝利の凱歌へと至る三部構成をとる。",
+      "en": "A single-movement symphonic poem built around the contrast of lament and triumph. A theme drawn from a Venetian gondolier's song runs through three sections — a grieving opening, a lyrical courtly interlude, and a final triumphant close."
+    },
+    "story": {
+      "ja": "ゲーテの戯曲「トルクァート・タッソ」上演のための序曲として1849年に書かれ、後に交響詩として改作された。友人ヨアヒム・ラフによる改訂を経て、1854年の決定稿による初演はリスト自身の指揮によるもので、幽閉の苦しみを味わった詩人タッソの生涯を音で描いている。",
+      "en": "Originally written in 1849 as an overture for a production of Goethe's play Torquato Tasso, it was later reworked into a symphonic poem with revisions by his friend Joachim Raff. Liszt himself conducted the premiere of the final version in 1854, portraying the anguish the poet Tasso endured during his years of imprisonment."
+    }
+  },
+  "24103": {
+    "structure": {
+      "ja": "ゲーテの戯曲「ファウスト」の登場人物「ファウスト」「グレートヒェン」「メフィストフェレス」を描く3楽章の交響曲。終楽章では先行楽章の主題が悪魔的に歪められて再現され、版によってはテノール独唱と男声合唱を伴う終結部が加えられる。",
+      "en": "A three-movement symphony portraying Goethe's characters Faust, Gretchen, and Mephistopheles. In the ironic finale, themes from the earlier movements return grotesquely distorted, and some versions add a closing section for tenor soloist and male chorus."
+    },
+    "story": {
+      "ja": "1854年に作曲され、盟友エクトル・ベルリオーズに献呈された。ゲーテとシラーの記念碑除幕式にあわせて1857年にヴァイマルで初演され、リスト自身が指揮を執った。当初高く評価したハンス・フォン・ビューローの評価は、のちに厳しいものへと変わり、作品は長く忘れられていた。",
+      "en": "Composed in 1854 and dedicated to his friend Hector Berlioz, it was premiered in Weimar in 1857 under Liszt's own baton, timed to coincide with the unveiling of the Goethe–Schiller monument. Hans von Bülow's early praise for the work later gave way to sharp criticism, and the symphony fell into decades of neglect."
+    }
+  },
+  "24135": {
+    "structure": {
+      "ja": "ウクライナの英雄マゼッパを描く交響詩。荒馬に縛りつけられ荒野を疾走する場面を描く前半と、勝利の凱旋を告げる後半の行進曲からなる二部構成で、前半のピアノ練習曲的な激しい音型を管弦楽へと拡大した書法が特徴である。",
+      "en": "A symphonic poem depicting the Ukrainian hero Mazeppa. The first half portrays a wild ride, bound to a runaway horse across open steppe, followed by a triumphant closing march — its fierce figuration expanded from an earlier piano étude into full orchestral scale."
+    },
+    "story": {
+      "ja": "ヴィクトル・ユゴーの詩に着想を得て1851年から作曲され、1854年にヴァイマルで初演された。もとになった「超絶技巧練習曲」第4曲の激しい音型を発展させたもので、リストの盟友的存在であったカロリーネ・ザイン=ヴィトゲンシュタイン侯爵夫人に献呈されている。",
+      "en": "Inspired by Victor Hugo's poem about the same historical horseman, it was composed from 1851 and premiered in Weimar in 1854, with Liszt himself conducting. It grows out of the fierce figuration of the fourth Transcendental Étude, and is dedicated to Princess Carolyne zu Sayn-Wittgenstein, his close companion during the Weimar years."
+    }
+  },
+  "24157": {
+    "structure": {
+      "ja": "グレゴリオ聖歌「怒りの日」の旋律に基づく、ピアノと管弦楽のための変奏曲形式の作品。死の舞踏を思わせる不気味な性格の主題が、めまぐるしく変容しながら展開し、独奏ピアノには高度な技巧が要求される。",
+      "en": "A set of variations for piano and orchestra built on the Gregorian chant melody Dies irae. The grim, dance-of-death theme is transformed restlessly across a sequence of variations, demanding formidable virtuosity and stamina from the soloist throughout."
+    },
+    "story": {
+      "ja": "ベルリオーズの「幻想交響曲」で怒りの日の旋律を耳にした体験と、ピサの墓地にある「死の勝利」の壁画に触発されて着想を得た。1849年ごろに初稿を書き、大幅な改訂を経た決定稿は1865年、婿にあたるハンス・フォン・ビューローの独奏で初演された。",
+      "en": "Its idea grew from hearing the Dies irae melody in Berlioz's Symphonie fantastique and from viewing a fresco of the Triumph of Death in a Pisa cemetery. An early draft dates from around 1849, and the extensively revised final version was premiered in 1865 with his son-in-law Hans von Bülow as soloist."
+    }
+  },
+  "24197": {
+    "structure": {
+      "ja": "単一楽章のピアノ独奏曲で、「巡礼の年 第2年 イタリア」の終曲にあたる。地獄に堕ちた魂を思わせる半音階的な主題と、天上的な性格を持つ長調の主題とが対照をなし、両者の対比を軸に劇的に展開する。",
+      "en": "A single-movement solo piano piece forming the closing number of the second year, \"Italy,\" of the Années de pèlerinage. A chromatic theme evoking damned souls is set against a serene major-key theme suggesting the heavens, the two driving its dramatic course."
+    },
+    "story": {
+      "ja": "ヴィクトル・ユゴーの詩「ダンテを読んで」に由来する題名を持つ。1839年、ウィーンで初演された二楽章版を経て、ヴァイマル定住後の1849年に単一楽章の形へと改作され、現在知られる姿となった。「悪魔の音程」とも呼ばれる三全音を随所で強調する作風も特徴的である。",
+      "en": "Its title comes from Victor Hugo's poem \"After a Reading of Dante.\" An early two-movement version was first performed in Vienna in 1839, before Liszt reshaped it into a single movement in 1849 after settling in Weimar. It makes prominent use of the tritone, traditionally nicknamed the \"devil in music,\" throughout the work."
+    }
+  },
+  "24218": {
+    "structure": {
+      "ja": "ピアノ独奏のための19曲からなる作品集。多くはハンガリーの舞踊チャールダーシュに由来する緩やかな導入部(ラッスー)と急速な後半部(フリスカ)の二部形式をとり、チンバロン風の響きやジプシー音階の模倣が随所に現れる。",
+      "en": "A collection of nineteen solo piano pieces. Most follow the Hungarian csárdás dance's two-part shape — a slow lassú introduction followed by a fast friss — and frequently imitate cimbalom sonorities and the Hungarian Gypsy scale."
+    },
+    "story": {
+      "ja": "19世紀半ば、西ハンガリーで耳にした旋律をもとに作曲を始め、多くは19世紀半ばのうちに出版された。その多くは実際にはハンガリーの作曲家による曲をロマの楽団が演奏したものだったとされる。とりわけ有名な第2番はテレキ伯爵に献呈され、後にフランツ・ドップラーとの共同で管弦楽版へと編曲されて、今なお広く親しまれている。",
+      "en": "Liszt began composing from melodies he heard in western Hungary around the mid-nineteenth century, and most of the set appeared in print within that same period. Many of these tunes actually originated with Hungarian composers of the day, simply performed by Romani bands. The especially famous No. 2, dedicated to Count László Teleki, was later orchestrated together with Franz Doppler and remains widely loved today."
+    }
+  },
+  "24219": {
+    "structure": {
+      "ja": "全4楽章が切れ目なく演奏される協奏曲で、循環主題の技法を用いて楽章間に統一感を持たせている。第3楽章のスケルツォではトライアングルが目立って用いられ、その独特な響きから「トライアングル協奏曲」の通称が生まれた。",
+      "en": "A four-movement concerto played without a break, unified through recurring cyclic themes. The scherzo third movement gives an unusually prominent role to the triangle, a striking touch that earned the piece its nickname, the \"Triangle Concerto.\""
+    },
+    "story": {
+      "ja": "着想は10代の若い頃にまで遡るとされ、その後1849年に主要部分を完成、幾度かの改訂を経て1857年にヴァイマルで初演された。独奏はリスト自身、指揮はエクトル・ベルリオーズが務め、批評家エドゥアルト・ハンスリックの皮肉な評言が通称の由来となっている。",
+      "en": "The concerto's earliest ideas reportedly date back to his teenage years; the bulk of it was completed in 1849, and after several revisions it was premiered in Weimar in 1857, with Liszt as soloist and Hector Berlioz conducting. Its nickname stems from a sardonic remark by the critic Eduard Hanslick."
+    }
+  },
+  "24315": {
+    "structure": {
+      "ja": "単一楽章のうちに6つの部分が連続して演奏される協奏曲で、独奏クラリネットが提示する主題を核に、性格の異なる各部が有機的に変容しながら展開する循環形式をとる。中間部には抒情的な独奏チェロの旋律も現れる。",
+      "en": "A single continuous movement in six connected sections, built cyclically from a theme first stated by solo clarinet and organically transformed through each contrasting, differently characterized section. A lyrical solo cello melody also emerges partway through the work."
+    },
+    "story": {
+      "ja": "着想は1839年ごろに遡り、いったん筐底に置かれたのち幾度もの改訂を経て、1861年に最終稿が完成した。技法上はリトルフの「交響的協奏曲」から着想を得たとされる主題変容の手法を核とし、弟子ハンス・フォン・ブロンザルトに献呈・初演を委ねている。",
+      "en": "Its earliest ideas date to around 1839; the manuscript was then set aside for years before extensive revision produced a final text in 1861. Built on a technique of thematic transformation Liszt drew from Henry Litolff's concertos, it is dedicated to his pupil Hans von Bronsart, who also gave the premiere."
+    }
+  },
+  "24319": {
+    "structure": {
+      "ja": "単一楽章の交響詩で、静かな序奏に始まり、愛や嵐、牧歌的な場面を経て輝かしい勝利の終結へと至る。もともとは合唱つき連作の序曲として構想された経緯から、複数の主題が姿を変えながら全曲を貫く循環的な書法をとる。",
+      "en": "A single-movement symphonic poem moving from a hushed opening through episodes of love, storm, and pastoral calm to a triumphant close. Having originated as an overture for a choral cycle, it unifies the whole through themes that recur in transformed guises."
+    },
+    "story": {
+      "ja": "詩人ラマルティーヌの詩に基づく標題が添えられているが、実際には別の合唱作品の序曲として着想され、独立した管弦楽曲へと改作された経緯がある。1854年にヴァイマルでリスト自身の指揮により初演され、「交響詩」という呼称が用いられた最初期の作例とされる。",
+      "en": "Its program, drawn from a poem by Lamartine, was in fact added late — the piece began as an overture for a separate choral work before being reshaped into an independent orchestral piece. Liszt himself conducted the premiere in Weimar in 1854, and it is considered among the earliest works ever titled a \"symphonic poem.\""
+    }
+  },
   "24335": {
     "structure": {
       "ja": "管弦楽版が先に書かれ、のちにピアノ独奏用に編曲された。原題は「村の居酒屋での踊り」といい、悪魔メフィストフェレスが酒場でヴァイオリンを奪い取り、その演奏でファウストと村娘を夜の闇へと踊り出させる場面を音で描いている。\n中間部、ヴァイオリンの奏でる旋律を模したソロが官能的な性格を帯び、そこから熱狂的な舞踏の場面へと突入していく構成が特徴である。",
@@ -3033,6 +3153,16 @@
     "story": {
       "ja": "レーナウの詩劇「ファウスト」(1836年発表、1840年改訂)にある一場面に着想を得ている。この詩劇自体はゲーテの「ファウスト」に触発されたものだが、内容は独自の展開をたどる。\nリストは1859年から1862年にかけてこの曲を作曲し、まず管弦楽版として仕上げたのち、まもなく自らピアノ独奏用に編曲した。全4曲からなる「メフィスト・ワルツ」のうち、この第1番がもっとも広く演奏されている。",
       "en": "It is based on an episode from Lenau's dramatic poem Faust (published 1836, revised 1840), itself inspired by Goethe's Faust but following its own path.\nLiszt composed it between 1859 and 1862, writing the orchestral version first and soon arranging it himself for solo piano. Of the four Mephisto Waltzes he eventually wrote, this first remains by far the most often performed."
+    }
+  },
+  "24356": {
+    "structure": {
+      "ja": "全12曲からなるピアノ独奏用の練習曲集。多くの曲に「鬼火」「荒々しき狩」「夕べの調べ」など標題が付され、超絶的な技巧を要求しながらも、単なる技術練習にとどまらない詩的な性格を色濃く持つ。",
+      "en": "A set of twelve solo piano études. Most bear evocative titles such as \"Feux follets,\" \"Wilde Jagd,\" and \"Harmonies du soir,\" and while demanding extraordinary technique, they carry a strongly poetic character beyond mere technical exercise."
+    },
+    "story": {
+      "ja": "15歳の頃に書いた技巧的にごく素朴な練習曲集を土台とし、1837年に大幅に拡張・改訂した版を経て、1852年に現在知られる最終稿として出版された。恩師カール・ツェルニーに献呈され、当初構想した24の調による24曲は半数の12曲にとどまり、鍵盤の重い当時のピアノに合わせて技巧も緩和された。",
+      "en": "It grew out of a technically modest set of études written at fifteen, greatly expanded and revised in 1837, before reaching its familiar final form in a 1852 publication dedicated to his teacher Carl Czerny. Liszt's original plan of twenty-four études, one per key, fell short at just twelve, and some passages were eased for heavier-actioned pianos."
     }
   },
   "24488": {
