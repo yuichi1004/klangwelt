@@ -28,5 +28,25 @@
       "ja": "1909年夏、ロシアのイヴァノフカで作曲され、9月23日に完成した。当時のラフマニノフは私生活も安定し、前年に交響曲第2番の初演を成功させたばかりで、比較的穏やかな時期を過ごしていた。\n同年秋に予定されていた初めてのアメリカ演奏旅行に向け、この曲は当初内密に準備された新作協奏曲として書かれている。初演は同年11月28日、ニューヨークでラフマニノフ自身の独奏、ワルター・ダムロッシュ指揮ニューヨーク交響楽団によりおこなわれた。献呈を受けたピアニスト、ヨーゼフ・ホフマンは、この曲を「自分には向いていない」として公開の場では一度も演奏しなかったと伝えられる。",
       "en": "It was composed in the summer of 1909 at Ivanovka in Russia, finished on 23 September. Rachmaninoff was going through a relatively calm period, his family life settled and the premiere of his Second Symphony the previous year a triumph.\nHe wrote it, at first in secret, for his first American concert tour that autumn. It premiered on 28 November that year in New York, with Rachmaninoff as soloist and Walter Damrosch conducting the New York Symphony Orchestra. The pianist Josef Hofmann, to whom it is dedicated, reportedly never performed it in public, saying it simply wasn't for him."
     }
+  },
+  "22182": {
+    "structure": {
+      "ja": "全3楽章の管弦楽曲で、ラフマニノフが完全に米国で書き上げた唯一の作品であり、事実上の最後の大作となった。第1楽章にはアルトサクソフォーンが用いられ、全曲を通じて「怒りの日」の旋律や自作交響曲第1番、晩祷作品37からの自己引用が織り込まれている。",
+      "en": "In three movements, this is the only work Rachmaninoff composed entirely in the United States, and effectively his final major composition. The first movement features an alto saxophone, and the score weaves in the Dies irae chant along with self-quotations from his First Symphony and the Vespers, op. 37."
+    },
+    "story": {
+      "ja": "1940年に作曲を終え、翌年1月3日、フィラデルフィアでユージン・オーマンディの指揮により初演された。指揮者とフィラデルフィア管弦楽団に献呈されたこの作品は、後年ウラディーミル・ホロヴィッツとの私的な2台ピアノ版の演奏や、振付家ミハイル・フォーキンとのバレエ化計画でも知られる。",
+      "en": "Rachmaninoff finished the score in 1940, and it premiered the following January in Philadelphia under conductor Eugene Ormandy. Dedicated to Ormandy and the Philadelphia Orchestra, the piece is also remembered for a private two-piano performance the composer later gave with Vladimir Horowitz, and for a planned ballet with choreographer Michel Fokine that was never realized."
+    }
+  },
+  "22200": {
+    "structure": {
+      "ja": "全4楽章の交響曲。ホ短調のラルゴに始まりアレグロ・モデラートに転じる第1楽章、イ短調の第2楽章アレグロ・モルト、イ長調の緩徐楽章を経て、ホ長調の終楽章アレグロ・ヴィーヴァチェで結ばれる。",
+      "en": "The symphony unfolds in four movements: a first movement opening Largo in E minor before turning to Allegro moderato, an A minor Allegro molto, a slow movement in A major, and a closing Allegro vivace in E major."
+    },
+    "story": {
+      "ja": "1907年までに作曲され、翌年1月26日、マリインスキー劇場で作曲家自身の指揮により初演された。かつての交響曲第1番の不評からようやく立ち直りつつあったラフマニノフにとって大きな成功となり、初演からおよそ10か月後には再びグリンカ賞を受けている。",
+      "en": "Completed by 1907, the symphony premiered the following January at the Mariinsky Theatre with the composer himself conducting. Coming as Rachmaninoff was still recovering from the disastrous reception of his earlier First Symphony, it proved a major success and earned him the Glinka Award again roughly ten months after the premiere."
+    }
   }
 }

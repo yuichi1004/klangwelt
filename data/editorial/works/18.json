@@ -8,5 +8,25 @@
       "ja": "神智学協会に傾倒していた時期にあたる1905年から1908年にかけて作曲された。彼は肉体的な世界を超越し、宇宙との一体感に到達することこそ人間の最高の使命だとするブラヴァツキーらの思想に強く影響を受けており、音楽そのものを、聴き手をそうした境地へ導く力を持つ手段だと考えていたとされる。\n初演は1908年12月、ニューヨークでモデスト・アルトシュラーの指揮によりおこなわれ、モスクワでの初演は1909年3月、作曲者自身の指揮によるものだった。",
       "en": "It was composed between 1905 and 1908, while he was deeply engaged with the Theosophical Society. He was strongly influenced by Blavatsky's writing and the idea that humanity's highest calling was to transcend the physical world and merge into oneness with the cosmos, and is said to have thought of music itself as capable of guiding listeners toward that state.\nIt was first performed in December 1908 in New York, conducted by Modest Altschuler, with the Moscow premiere following in March 1909 under the composer himself."
     }
+  },
+  "1580": {
+    "structure": {
+      "ja": "単一楽章によるソナタ形式で、以後スクリャービンが好んで用いる単一楽章ソナタの最初の作品となった。アレグロ・インペトゥオーソ、ランギド、プレスト・コン・アレグレッツァ、インペリオーソ、メノ・ヴィーヴォなど目まぐるしく変化する速度標語を持つ。",
+      "en": "Cast in a single movement with sonata form, this was the first of Scriabin's one-movement sonatas, a format he favored afterward. It moves through a dizzying array of tempo markings — Allegro impetuoso, Languido, Presto con allegrezza, Imperioso, and Meno vivo among them."
+    },
+    "story": {
+      "ja": "1907年に作曲され、翌年モスクワでピアニストのマルク・メイチクにより初演された。楽譜には自作の交響詩「法悦の詩」に寄せた文章から着想した題辞が添えられており、後年ピアニストのスヴャトスラフ・リヒテルは、この曲を最も演奏困難な作品の一つに数えたと伝えられる。",
+      "en": "Composed in 1907, the sonata was premiered the following year in Moscow by pianist Mark Meitschik. The score carries an epigraph adapted from Scriabin's own essay for his tone poem The Poem of Ecstasy, and pianist Sviatoslav Richter later reportedly ranked it among the most technically demanding works in the repertoire."
+    }
+  },
+  "1604": {
+    "structure": {
+      "ja": "ピアノ独奏を伴う大編成の管弦楽のための交響詩で、合唱、オルガン、チェレスタ、複数のハープを任意で加えることができる。「神秘和音」（ラ・レ♯・ソ・ド♯・ファ♯・シ）を基盤とし、全曲を通じて唯一の純粋な協和音である嬰ヘ長調の和音で結ばれる。",
+      "en": "This symphonic poem for large orchestra and solo piano can add optional chorus, organ, celesta, and multiple harps. Built on the so-called mystic chord, it closes on an F-sharp major triad — the work's only plain consonance in an otherwise harmonically adventurous score."
+    },
+    "story": {
+      "ja": "1910年頃に作曲され、翌年3月2日、モスクワでセルゲイ・クーセヴィツキーの指揮により初演された。総譜には「色光鍵盤」と呼ばれる色彩投影用のパートが任意演奏として書き込まれているが、装置が普及しなかったため、作曲家の生前にはほとんど実演されなかった。",
+      "en": "Composed around 1910, the work premiered the following March in Moscow under conductor Serge Koussevitzky. The score includes an optional part for a color-projecting keyboard known as the clavier à lumières, though the device was rarely available and the part went largely unperformed as written during the composer's own lifetime."
+    }
   }
 }
