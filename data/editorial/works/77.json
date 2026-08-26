@@ -1,4 +1,14 @@
 {
+  "7273": {
+    "structure": {
+      "ja": "伝統的な楽章分けを持たず、全2部からなる声楽付き交響曲。第1部は讃歌「来たれ、創造主なる聖霊よ」、第2部はゲーテ「ファウスト」終幕の場に基づく。8人の独唱者と複数の合唱団を要する破格の大編成で書かれている。",
+      "en": "A choral symphony in two parts rather than traditional movements: Part I sets the hymn \"Veni creator spiritus,\" Part II the closing scene of Goethe's Faust. It calls for eight vocal soloists and multiple choirs in an extraordinarily large ensemble."
+    },
+    "story": {
+      "ja": "1906年に作曲された。1910年9月12日、ミュンヘンで、マーラー自身の指揮のもと初演された。演奏には児童合唱を含む800人を超える合唱団員と、100人を超える奏者が参加したとされ、興行主により「千人の交響曲」と呼ばれるようになったが、マーラー自身はこの愛称を好まなかったと伝えられる。",
+      "en": "Composed in 1906, it premiered in September 1910 in Munich under Mahler's own baton, with a performance reportedly involving well over eight hundred choristers, including children, plus more than a hundred instrumentalists. The nickname \"Symphony of a Thousand\" came from a concert promoter, and Mahler himself reportedly disliked the label."
+    }
+  },
   "7275": {
     "structure": {
       "ja": "全4楽章。当初は5楽章からなる「2部構成の交響詩」として発表されたが、のちに第2楽章「花の章」が削除され、現在の4楽章構成に落ち着いた。\n第3楽章は、フランスの民謡「フレール・ジャック」を短調に転じた旋律を、コントラバスの独奏で不気味に奏でる葬送行進曲で、諧謔的なクレズマー風の中間部と対比をなす。",
@@ -37,6 +47,56 @@
     "story": {
       "ja": "1907年、彼はウィーン宮廷歌劇場の芸術監督の座を、政治的な駆け引きと反ユダヤ主義的な圧力のなかで追われ、同じ年に長女マリアを猩紅熱とジフテリアで、さらに自身も心臓に持病を抱えていることが判明するという、立て続けの不幸に見舞われた。友人ブルーノ・ワルターへの手紙で「一撃で、それまで築き上げてきたものをすべて失い、新生児のように最初の一歩からやり直さなければならない」と書き記している。\n翌1908年、以前読んで心に残っていた漢詩の翻訳詩集「中国の笛」を思い出し、そこから7編を選んで6楽章の作品として作曲した。マーラーは同年に世を去っており、初演は彼の死から半年後の1911年11月20日、ミュンヘンでブルーノ・ワルターの指揮によりおこなわれた。",
       "en": "In 1907, Mahler was forced out of his position as director of the Vienna Court Opera amid political manoeuvring and antisemitic pressure, and in the same year his eldest daughter, Maria, died of scarlet fever and diphtheria, and he himself was diagnosed with a heart condition. He wrote to his friend Bruno Walter that, in one stroke, he had lost everything he thought he had built and had to learn his first steps again like a newborn.\nThe following year, 1908, a translated collection of Chinese poetry, The Chinese Flute, which had stayed with him since he first read it, came back to mind, and he selected seven poems from it for this six-movement work. Mahler died in 1911; the premiere followed six months after his death, on 20 November that year in Munich, conducted by Bruno Walter."
+    }
+  },
+  "7283": {
+    "structure": {
+      "ja": "全4楽章からなる交響曲で、マーラーが生前に演奏を聴くことのなかった最後の完成交響曲である。第1楽章はニ長調、終楽章はきわめて緩やかなアダージョで、静かに消え入るように全曲を閉じる。",
+      "en": "Four movements, the last symphony Mahler completed and the one he never lived to hear performed. The first movement is in D major, and the finale, a very slow Adagio, closes the whole work in a quiet, fading dissolution."
+    },
+    "story": {
+      "ja": "1908年から翌年にかけて、避暑地トーブラハで作曲された。1911年5月、マーラーはウィーンで没し、この曲の初演に立ち会うことはなかった。初演は翌年6月26日、ウィーンで、弟子ブルーノ・ワルターの指揮により実現し、静かな感動をもって迎えられたという。",
+      "en": "Composed between 1908 and the following year at his summer retreat in Toblach, it was never performed in Mahler's own lifetime: he died in Vienna in May 1911. Its premiere came the following June in Vienna, conducted by his devoted pupil Bruno Walter, more than a year after Mahler's death."
+    }
+  },
+  "7288": {
+    "structure": {
+      "ja": "詩人リュッケルトの詩による全5曲からなる歌曲集。それぞれ楽器編成が異なり、室内楽的な繊細な響きを特徴とする。「美しさゆえに愛するなら」は、妻アルマへの私的な贈り物として書かれたとされる。",
+      "en": "Five songs setting poems by Friedrich Rückert, each scored for a different, chamber-like combination of instruments rather than a uniform orchestra. \"Liebst du um Schönheit\" was reportedly written as a private gift for his wife, Alma."
+    },
+    "story": {
+      "ja": "1901年から翌年にかけて作曲された。1905年1月29日、ウィーンの楽友協会で、マーラー自身の指揮のもと初演されたが、このときは5曲のうち4曲のみが演奏されたという。ピアノ伴奏版は初演と同年に出版され、その数年後に管弦楽伴奏版も出版されている。",
+      "en": "Composed between 1901 and the following year, it premiered in January 1905 in Vienna's own Musikverein under Mahler's own baton, though reportedly only four of the five songs were actually performed that particular evening. A piano-accompaniment edition appeared that same year, an orchestral edition following only some years later still."
+    }
+  },
+  "7290": {
+    "structure": {
+      "ja": "全4楽章からなる交響曲。愛称「悲劇的」はマーラー自身の命名ではなく、由来ははっきりしない。終楽章では大きな木槌で打撃音を鳴らす特殊な打楽器が用いられ、「運命の打撃」を象徴するとされる。",
+      "en": "Four movements, nicknamed \"Tragic\" though the title was not Mahler's own and its exact origin remains unclear. The finale calls for an unusual percussion effect: a large wooden hammer struck against the stage, said to symbolize blows of fate."
+    },
+    "story": {
+      "ja": "1903年から翌年にかけて、避暑地マイアーニクで作曲された。1906年5月27日、ドイツのエッセンで、マーラー自身の指揮のもと初演された。後年、この作品を敬愛したベルクは、自身の書簡の中で「田園」と並ぶ唯一の第6交響曲だと評したと伝えられている。",
+      "en": "Composed between 1903 and the following year at his summer home in Maiernigg, it premiered in May 1906 in Essen, Germany, conducted by Mahler himself. Alban Berg, who deeply admired the work, later wrote of it as the only true Sixth Symphony alongside Beethoven's own Pastoral, or so it is reported."
+    }
+  },
+  "7297": {
+    "structure": {
+      "ja": "民謡詩集「少年の魔法の角笛」の詩に基づく、管弦楽伴奏付きの歌曲集。ユーモラスな軍隊風の歌から、子供の無邪気な視点で歌われる歌まで幅広い性格の曲を含む。一部の旋律は、後年の交響曲にも転用されている。",
+      "en": "Songs for voice and orchestra setting texts from the folk-poetry anthology Des Knaben Wunderhorn, ranging in mood from wry, march-like military songs to verses sung from a child's innocent point of view. Mahler later reused some of their melodies within his own symphonies."
+    },
+    "story": {
+      "ja": "1887年ごろから1901年にかけて、長期間にわたって断続的に作曲された。個々の曲の初演の詳しい記録は乏しいが、その間に数回に分けてまとめられ、出版されていった。「原光」の旋律は交響曲第2番にも取り入れられ、今日でも広く親しまれ続けている。",
+      "en": "Composed intermittently over a long span from around 1887 to 1901, with only scattered records surviving of individual premieres. The songs were gathered and published in stages across those years. The melody of \"Urlicht\" was also woven into his own Symphony No. 2, and the set remains widely beloved today."
+    }
+  },
+  "7301": {
+    "structure": {
+      "ja": "詩人リュッケルトの詩による全5曲からなる歌曲集。亡くした我が子を悼む内容で、大きな編成でありながら抑制された響きが特徴で、チェレスタや大太鼓など特殊な楽器も控えめに用いられている。",
+      "en": "Five songs setting poems by Friedrich Rückert mourning the death of a child, scored for a fairly large orchestra used with unusual restraint throughout, with instruments like celesta and tam-tam employed only sparingly for quiet color."
+    },
+    "story": {
+      "ja": "1901年から1904年にかけて作曲された。翌年1月29日、ウィーンで、バリトン歌手フリードリヒ・ヴァイデマンとマーラー自身の指揮により初演された。作曲を再開したのは次女誕生から間もない時期であったといい、妻アルマはこれを不安に感じたと伝えられる。",
+      "en": "Composed between 1901 and 1904, it premiered the following January in Vienna, with baritone Friedrich Weidemann and Mahler himself conducting. He reportedly resumed work on the cycle only weeks after his second daughter's own birth, a choice his wife Alma is said to have found deeply troubling at the time."
     }
   }
 }
