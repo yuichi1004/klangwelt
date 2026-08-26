@@ -8,5 +8,25 @@
       "ja": "1817年から作曲に着手し、1820年5月に序曲を含めて完成させた。当初「猟師の花嫁」という仮題で構想されていたが、ベルリンの劇場支配人ブリュール伯爵の助言により現在の題名に改められたとされる。\n初演は1821年6月18日、ベルリンのシャウシュピールハウスでウェーバー自身の指揮によりおこなわれた。客席にはE.T.A.ホフマンやハインリヒ・ハイネ、当時12歳だったフェリックス・メンデルスゾーンもいたと伝えられる。熱狂的な反響を呼び、とりわけ「狼谷の場」は喝采を浴びた。この初演はしばしば、ドイツ・ロマン派オペラの象徴的な出発点として位置づけられる。",
       "en": "He began composing in 1817 and completed the score, overture included, in May 1820. It is said to have first been conceived under the working title \"The Huntsman's Bride,\" before the Berlin theatre intendant Count Brühl suggested the title it carries today.\nIt premiered on 18 June 1821 at the Schauspielhaus in Berlin, with Weber himself conducting. The audience is said to have included E.T.A. Hoffmann, Heinrich Heine, and a twelve-year-old Felix Mendelssohn. The reception was enthusiastic, with the Wolf's Glen scene drawing especially loud applause, and the premiere is often regarded as a symbolic starting point for German Romantic opera."
     }
+  },
+  "19229": {
+    "structure": {
+      "ja": "独奏クラリネットと管弦楽のための全3楽章の協奏曲。ヘ短調の第1楽章に続き、ハ長調の緩徐楽章ではホルン3本の伴奏に独奏が溶け合う情緒的な場面が続き、終楽章は快活なロンドで締めくくられる。",
+      "en": "A three-movement concerto for solo clarinet and orchestra. The F minor opening movement is followed by a lyrical C major slow movement, in which the soloist is cushioned by an unusual accompaniment of three horns, before a lively rondo finale closes the work."
+    },
+    "story": {
+      "ja": "1811年、クラリネット奏者ハインリヒ・ベールマンのために書かれ、同年6月13日にミュンヘンで、バイエルン王マクシミリアン1世ヨーゼフの臨席のもと初演された。第1楽章のカデンツァはベールマン自身の作とされ、後年フェルッチョ・ブゾーニをはじめ多くの奏者が独自のカデンツァを書き加えている。",
+      "en": "Weber wrote it in 1811 for the clarinettist Heinrich Baermann, and it was premiered in Munich on 13 June that year before King Maximilian I Joseph of Bavaria. The first-movement cadenza is traditionally credited to Baermann himself, and later performers, including Ferruccio Busoni, went on to add cadenzas of their own."
+    }
+  },
+  "19233": {
+    "structure": {
+      "ja": "変ニ長調のピアノ独奏曲で、標題性を持つ華麗なロンド形式による作品。舞踏会で男性が女性を誘い、ためらいから承諾、二人の対話、踊り、そして別れに至るまでの情景を音楽で描く、いわゆる性格的小品の代表例である。",
+      "en": "A solo piano piece in D-flat major, cast as a brilliant rondo with a narrative programme. It traces a ballroom scene from a man's invitation and a woman's initial hesitation, through their conversation and dance, to a final farewell."
+    },
+    "story": {
+      "ja": "1819年、妻カロリーネ・フォン・ヴェーバーに献呈された作品で、原題は「舞踏への勧誘」を意味する。のちにエクトル・ベルリオーズが管弦楽用に編曲し、この編曲版はミハイル・フォーキン振付のバレエ「薔薇の精」の音楽としても広く親しまれることとなった。",
+      "en": "Weber composed it in 1819 and dedicated it to his wife, Caroline von Weber; the German title translates literally as 'Invitation to the Dance.' Hector Berlioz later orchestrated it, and his version became familiar to still wider audiences through its use in Mikhail Fokine's ballet Le Spectre de la rose."
+    }
   }
 }

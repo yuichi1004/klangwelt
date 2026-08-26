@@ -59,6 +59,16 @@
       "en": "After several years of intermittent work, Bruckner completed the full score in 1884, and the orchestral version premiered on 10 January 1886 at Vienna's Musikverein under Hans Richter. The score bears the inscription 'Ad maiorem Dei gloriam,' and Mahler is said to have later noted in his own copy that the music suited purified, angelic souls."
     }
   },
+  "189": {
+    "structure": {
+      "ja": "独奏ヴァイオリンと管弦楽のための全3楽章の協奏曲。ロ短調の第1楽章、ニ長調の緩徐楽章に続く終楽章は「鐘のロンド」と題され、ロンド主題の再現を予告する小さな鈴の音から「ラ・カンパネッラ」の愛称で知られる。",
+      "en": "A three-movement concerto for solo violin and orchestra. After a B minor opening movement and a D major slow movement, the finale — titled 'Rondo à la clochette' — takes its popular nickname, 'La Campanella,' from the small bell that announces each return of the rondo theme."
+    },
+    "story": {
+      "ja": "1826年に作曲され、翌1827年6月26日、フィレンツェのペルゴラ劇場でパガニーニ自身の独奏により初演された。全曲が演奏される機会は少ないものの、とりわけ終楽章が人気を博し、フリッツ・クライスラー編をはじめとする独奏用編曲が数多く生まれ、協奏曲そのものよりも広く知られるようになった。",
+      "en": "Paganini composed it in 1826, and it was premiered the following year, on 26 June 1827, at the Teatro della Pergola in Florence with the composer himself as soloist. The concerto as a whole is rarely heard complete, yet its finale became immensely popular in its own right, inspiring numerous solo transcriptions, including one by Fritz Kreisler."
+    }
+  },
   "210": {
     "structure": {
       "ja": "無伴奏ヴァイオリンのための24曲からなる小品集。重音奏法、左手のピツィカート、フラジオレット(倍音奏法)、広い跳躍など、当時のヴァイオリン奏法の限界を押し広げるあらゆる技巧が詰め込まれている。\n第24番はテーマと変奏の形式で書かれ、単純な主題が曲を追うごとに技巧的な装いを増していく構成が特徴で、のちに多くの作曲家がこの主題を借りて自作の変奏曲を書いている。",
@@ -67,6 +77,16 @@
     "story": {
       "ja": "1802年ごろから1817年ごろにかけて、3つの時期に分けて書かれたとみられ、1820年ごろミラノのリコルディ社から出版された。パガニーニがジェノヴァやルッカで経験を積んでいた比較的早い時期の作品にあたる。\nあまりの難度の高さから、当初は作曲者自身にしか演奏できない曲と見なされていた。とりわけ第24番の主題は、リスト、シューマン、ブラームスをはじめとする後世の作曲家たちにたびたび取り上げられ、超絶技巧そのものを作曲の主題とする発想を広めるきっかけとなった。",
       "en": "They were written in three phases, roughly between 1802 and 1817, and published around 1820 by Ricordi in Milan, dating from a relatively early period in Paganini's career in Genoa and Lucca.\nThey were so demanding that at first it was assumed only Paganini himself could play them. The theme of No. 24 in particular was taken up repeatedly by later composers — Liszt, Schumann and Brahms among them — helping to establish virtuosity itself as a subject worth composing about."
+    }
+  },
+  "337": {
+    "structure": {
+      "ja": "フルート、オーボエ、イングリッシュホルン、クラリネット、ファゴットの木管にトライアングルやタンバリンなど多彩な打楽器を加えた大編成の管弦楽のための組曲。序曲・カンツォネッタ・スケルツォ・夜想曲・終曲の全5楽章からなる。",
+      "en": "A suite for large orchestra, its woodwind section built up with flute, oboe, cor anglais, clarinet and bassoon, and coloured by an array of percussion including triangle and tambourine. It is cast in five movements: Overtura, Canzonetta, Scherzo, Notturno and Finale."
+    },
+    "story": {
+      "ja": "1911年から13年にかけて作曲され、1914年1月20日、ストックホルムで王立宮廷管弦楽団により作曲者自身の指揮のもと初演された。妻に捧げられた作品で、のちにヨーテボリ交響楽団の指揮者を務めていたステンハンマル自身によって改訂版も演奏されている。",
+      "en": "Stenhammar composed it in 1911-13, and it was premiered on 20 January 1914 in Stockholm by the Royal Court Orchestra under his own baton. Dedicated to his wife, it was later revised and performed again by the composer himself while he was conductor of the Gothenburg Symphony Orchestra, a post he held for many years."
     }
   },
   "383": {
@@ -279,6 +299,16 @@
       "en": "He composed the score in 1957. The film, released that October, went on to win seven Academy Awards, including Best Picture, Best Director, Best Actor (Alec Guinness), Best Adapted Screenplay, Best Cinematography, Best Editing, and Arnold's own award for the score. Arnold also won a Grammy for the music.\nThe \"Colonel Bogey\" tune itself dates back to 1914, during the First World War — decades before Arnold was even born, in 1921 — and it was the film that brought it renewed, widespread popularity in the 1950s."
     }
   },
+  "1817": {
+    "structure": {
+      "ja": "単一楽章、変ロ短調で始まり変ニ長調へと転じるピアノのための東洋幻想曲。急速な主部の間に緩やかな中間部を挟む3部構成をとり、目もくらむような跳躍と重音を随所に含む、ピアノ独奏曲屈指の技巧的難曲として知られる。",
+      "en": "A one-movement oriental fantasy for piano, moving from B-flat minor to D-flat major. Its three-part form frames a slower central section between two fast outer sections, and it is renowned as one of the most technically demanding works in the piano repertoire."
+    },
+    "story": {
+      "ja": "1869年、わずか1か月ほどで作曲され、同年12月12日、モスクワでニコライ・ルビンシテインの独奏により初演された。彼に献呈された作品で、コーカサス旅行中にチェルケス人の王侯が奏でていた舞曲と、アルメニア人俳優から伝えられたクリミア・タタールの旋律とを主題に用いている。",
+      "en": "Balakirev wrote it in about a month in 1869, and it was premiered in Moscow on 12 December that year with Nikolai Rubinstein, its dedicatee, as soloist. Its themes come from a dance tune Balakirev heard a Circassian prince play during a trip to the Caucasus, and a Crimean Tatar melody passed on to him by an Armenian actor."
+    }
+  },
   "1986": {
     "structure": {
       "ja": "全3楽章の管弦楽曲で、「さらば喜べ、アメリカよ」「イエス泣きたまいしとき」「チェスター」の3曲は、18世紀の讃美歌作者ウィリアム・ビリングスの旋律に基づく。編成には持ち替えのフルート3本、変ホ調クラリネット、バスクラリネット、イングリッシュホルンが加わる。",
@@ -327,6 +357,16 @@
     "story": {
       "ja": "1958年、音楽学者レモ・ジャゾットが「アルビノーニの2つの主題と通奏低音による、弦楽とオルガンのための短調のアダージョ」という題で出版した。ジャゾット自身の説明によれば、第二次世界大戦後まもなく、連合軍の爆撃で大きな被害を受けたドレスデンのザクセン州立図書館の瓦礫の中から、アルビノーニのトリオ・ソナタの断片(通奏低音と旋律のごく一部)を発見し、それをもとに補筆・再構成したのだという。\nしかしこの写本の実物は一度も公にされたことがなく、写真や転写、目録上の記録もいっさい残っていない。ドレスデンの図書館側も該当する写本の所蔵記録を確認できておらず、今日の音楽学者の多くは、この作品を実質的にジャゾット自身による20世紀の創作とみなしており、アルビノーニの真作を集めた目録にも含まれていない。それでもなお「アルビノーニのアダージョ」の名で広く知られ、映画「去年マリエンバートで」(1961年)に用いられるなど、追悼や鎮魂の場面の定番曲として親しまれ続けている。",
       "en": "In 1958 the musicologist Remo Giazotto published it under the title \"Adagio in G minor for strings and organ, on two thematic ideas and a figured bass by Tomaso Albinoni.\" By his own account, he had discovered, not long after the Second World War, a fragment of an Albinoni trio sonata — just the bass line and a few bars of melody — among the ruins of the Saxon State Library in Dresden, badly damaged in the Allied bombing raids, and had completed and reconstructed the piece from it.\nThe manuscript itself, however, has never been produced publicly, and no photograph, transcription, or catalogue record of it has ever surfaced; the Dresden library has been unable to confirm that any such fragment was ever in its holdings. Most musicologists today therefore treat the piece as essentially Giazotto's own twentieth-century composition, and it appears in no catalogue of Albinoni's authenticated works. It remains widely known as \"Albinoni's Adagio\" all the same, familiar from its use in the film Last Year at Marienbad (1961) and its standing as a fixture of memorial and funeral music."
+    }
+  },
+  "2269": {
+    "structure": {
+      "ja": "シェイクスピアの悲劇に基づく全5幕のオペラ。台本はジュール・バルビエとミシェル・カレによる。ハープやオルガンを伴う大規模な編成にバレエの場面を含み、主要人物による4つの二重唱と、第1幕でジュリエットが歌うワルツ・アリアが聴きどころとなっている。",
+      "en": "An opera in five acts based on Shakespeare's tragedy, with a libretto by Jules Barbier and Michel Carré. Scored on a large scale with harp and organ and including ballet scenes, it is built around four duets for the title characters and a waltz-aria for Juliette in Act I."
+    },
+    "story": {
+      "ja": "1867年4月27日、パリのリリック座で、アドルフ・ドロフルの指揮のもと、ミオラン=カルヴァリョらの出演により初演された。同年開催のパリ万国博覧会を訪れた聴衆の耳にも届き大成功を収め、以後パリのオペラ・コミック座やオペラ座でも繰り返し上演される定番演目となった。",
+      "en": "It was premiered on 27 April 1867 at the Théâtre Lyrique in Paris, conducted by Adolphe Deloffre, with Marie Caroline Miolan-Carvalho creating the role of Juliette. Its success reached visitors to that year's Paris World's Fair, and the opera went on to become a repertory staple at both the Opéra-Comique and the Paris Opéra."
     }
   },
   "2300": {
@@ -1467,6 +1507,16 @@
     "story": {
       "ja": "正確な作曲時期は不明だが、様式の複雑さから晩年の作とみられている。現存する唯一の資料は、後にヨハン・ゼバスティアン・バッハの兄ヨハン・クリストフが編纂した筆写譜集「アンドレアス・バッハ本」のみである。バッハ自身の「パッサカリアとフーガ」に影響を与えたとする説がある。",
       "en": "No exact date of composition survives, though its formal complexity points to Buxtehude's later years. The sole surviving source is the Andreas Bach Buch, a manuscript collection later compiled by Johann Christoph Bach, elder brother of Johann Sebastian. It is thought to have influenced the younger Bach's own Passacaglia and Fugue."
+    }
+  },
+  "7062": {
+    "structure": {
+      "ja": "ヘ長調、6/8拍子、Andantinoの単一楽章からなる夜想曲。「子守歌」の副題でも知られ、揺れるようなアルペッジョの伴奏の上に歌うような旋律が漂う、フィールドの夜想曲様式を代表する1曲。",
+      "en": "A nocturne in F major and 6/8 time, marked Andantino and cast in a single movement. Also known by the subtitle 'Cradle Song,' it sets a singing melody over a gently rocking arpeggiated accompaniment, typical of Field's nocturne style."
+    },
+    "story": {
+      "ja": "フィールドは夜想曲というジャンルの創始者とされ、生涯に全18曲のノクターンを残しており、この第6番もその1曲である。1816年ごろ、モスクワの出版社ヴェンツェルから初版が出版された。のちにフランツ・リストが校訂を手がけた版も広く親しまれ、ショパンら後進の作曲家にも影響を与えたとされる。",
+      "en": "Field is credited as the originator of the piano nocturne, and this is one of eighteen he wrote over his lifetime. It was first published around 1816 by the Moscow firm Wenzel. A later edition revised by Franz Liszt also became widely used, and Field's intimate nocturne style is said to have left its mark on younger composers such as Chopin."
     }
   },
   "7106": {
@@ -2759,6 +2809,16 @@
       "en": "Premiered on 5 September 1733 at the Teatro San Bartolomeo in Naples, the intermezzo was written to be performed between the acts of Pergolesi's own opera seria 'Il prigioniero superbo,' possibly timed to Empress Elisabeth Christina's birthday (UNCERTAIN). Performances today often substitute the closing duet with one drawn from his 1735 work 'Il Flaminio.'"
     }
   },
+  "13917": {
+    "structure": {
+      "ja": "フルート、オーボエ、クラリネット、ファゴットの木管にホルン4、トランペット2を加えた編成による、独奏ピアノと管弦楽のための全3楽章の協奏曲。ニ短調の第1楽章、変ロ長調の諧謔的な第2楽章に続き、終楽章は緩やかな序奏を経てニ長調の急速な音楽へと展開する。",
+      "en": "A three-movement concerto for piano and orchestra. A D minor opening movement and a playful B-flat major second movement are followed by a finale that opens with a slow introduction before breaking into a fast D major close."
+    },
+    "story": {
+      "ja": "1885年に作曲され、ピアノ教師の一人でもあったテレサ・カレーニョに献呈された。1889年3月5日、ニューヨークのチッカリング・ホールにて、作曲者自身の独奏、セオドア・トーマス指揮ニューヨーク・フィルハーモニックにより初演され、同じ演奏会ではチャイコフスキーの交響曲第5番の米国初演も行われた。",
+      "en": "MacDowell composed it in 1885 and dedicated it to Teresa Carreño, one of his early piano teachers. It was premiered on 5 March 1889 at Chickering Hall in New York, with the composer as soloist and Theodore Thomas conducting the New York Philharmonic, on a programme that also gave the American premiere of Tchaikovsky's Fifth Symphony."
+    }
+  },
   "14083": {
     "structure": {
       "ja": "3つのヴァイオリンと通奏低音のための作品で、カノン（各声部が同じ旋律を一定の間隔で追いかける手法）とジーグの2曲からなるが、演奏・録音されるのはほぼ常にカノンの部分だけである。\n通奏低音は全曲を通じて同じ2小節の低音型を28回繰り返し続け、その上で3声のヴァイオリンが8小節の主題を輪唱のように重ねていく。和声はほとんど動かず、変化は声部が徐々に増え、音型が細かくなっていく過程そのものにある。",
@@ -3407,6 +3467,16 @@
     "story": {
       "ja": "ボストン交響楽団の創立50周年を記念して委嘱され、1929年から翌年にかけて作曲された。1930年10月24日、指揮者クーセヴィツキーとボストン響により初演され、フランス近代交響曲の代表作の一つとして高く評価されている。翌年、デュラン社から出版された。",
       "en": "Commissioned for the fiftieth anniversary of the Boston Symphony Orchestra, the symphony was composed between 1929 and 1930. It was premiered on 24 October 1930 in Boston under Serge Koussevitzky, and one critic praised its finale as a carnival of exuberant energy, ranking the work among the finest achievements of the modern French symphonic repertoire. It was published the following year by Durand."
+    }
+  },
+  "15927": {
+    "structure": {
+      "ja": "無伴奏ヴァイオリンのための単一楽章のソナタ。副題「バラード」の通り物語的な性格を持ち、無伴奏ヴァイオリンの技法を駆使した「6つの無伴奏ヴァイオリンソナタ」作品27の第3番にあたる。",
+      "en": "A one-movement sonata for solo violin, the third of Ysaÿe's Six Sonatas for Solo Violin, op. 27. Subtitled 'Ballade,' it has a narrative, almost improvisatory character built from the full technical resources of the unaccompanied violin."
+    },
+    "story": {
+      "ja": "1923年に作曲され、翌年ブリュッセルで出版された。全6曲それぞれが同時代の名ヴァイオリニストに献呈されており、この第3番はジョルジェ・エネスクに捧げられ、彼の演奏様式を強く意識して書かれたとされる。無伴奏という制約の中に和声的な厚みと歌謡性を同時に持たせた点が特徴である。",
+      "en": "Ysaÿe composed it in 1923, and it was published the following year in Brussels. Each of the six sonatas is dedicated to a leading violinist of the day, and this third one is dedicated to George Enescu, said to have been written with his particular style of playing in mind."
     }
   },
   "16121": {
@@ -4159,6 +4229,16 @@
       "en": "Based on Alexander Pushkin's 1820 narrative poem, the opera was composed intermittently between 1837 and 1842. Pushkin himself had once planned to help adapt his own poem for the libretto, but his death that year in a duel cut those plans short, and the resulting multi-author libretto process is one reason the opera took so long to complete.\nIt premiered on 27 November 1842 (Old Style; 9 December by the Gregorian calendar) at the Bolshoi Kamenny Theatre in St Petersburg, conducted by Karl Albrecht. Audiences accustomed to Italian opera reportedly found Glinka's harmonies, rooted in Russian folk idiom, crude, and the sprawling, episodic fairy-tale plot left many bewildered, so the premiere's reception was lukewarm. Later in the century, though, strong advocacy from the composers of the so-called \"Mighty Handful\" helped establish it as a foundational work of Russian national opera."
     }
   },
+  "17643": {
+    "structure": {
+      "ja": "全4幕とエピローグからなるオペラ。台本はクコーリニク、ローゼン、ソログープ、ジュコーフスキーらの合作による。ロシア初の本格的な国民オペラとされ、以後のロシア国民楽派の作曲家たちに大きな影響を与えた。",
+      "en": "An opera in four acts with an epilogue, its libretto the joint work of Nestor Kukolnik, Yegor Rozen, Vladimir Sollogub and Vasily Zhukovsky. Regarded as the first major Russian national opera, it exerted a lasting influence on the later generation of Russian nationalist composers."
+    },
+    "story": {
+      "ja": "1836年に作曲され、同年11月27日、サンクトペテルブルクのボリショイ・カーメンヌイ劇場で、カテリーノ・カヴォスの指揮により初演された。当初「イワン・スサーニン」と題されていたが、稽古に臨席した皇帝ニコライ1世への配慮から「皇帝に捧げし命」に改題されたと伝えられる。",
+      "en": "Glinka composed it in 1836, and it was premiered on 27 November that year at the Bolshoi Kamenny Theatre in St Petersburg, conducted by Catterino Cavos. Originally titled Ivan Susanin, it is said to have been renamed A Life for the Tsar as a gesture towards Tsar Nicholas I, who had attended a rehearsal."
+    }
+  },
   "17711": {
     "structure": {
       "ja": "トリプルム・モテトゥス・テノール・コントラテノールの4声から成る、キリエ・グローリア・クレド・サンクトゥス・アニュス・デイに終結句イテ・ミサ・エストを加えた全6曲構成のミサ曲。キリエ・サンクトゥス・アニュスなどの旋律は既存の聖歌に基づく。",
@@ -4317,6 +4397,26 @@
     "story": {
       "ja": "1817年から作曲に着手し、1820年5月に序曲を含めて完成させた。当初「猟師の花嫁」という仮題で構想されていたが、ベルリンの劇場支配人ブリュール伯爵の助言により現在の題名に改められたとされる。\n初演は1821年6月18日、ベルリンのシャウシュピールハウスでウェーバー自身の指揮によりおこなわれた。客席にはE.T.A.ホフマンやハインリヒ・ハイネ、当時12歳だったフェリックス・メンデルスゾーンもいたと伝えられる。熱狂的な反響を呼び、とりわけ「狼谷の場」は喝采を浴びた。この初演はしばしば、ドイツ・ロマン派オペラの象徴的な出発点として位置づけられる。",
       "en": "He began composing in 1817 and completed the score, overture included, in May 1820. It is said to have first been conceived under the working title \"The Huntsman's Bride,\" before the Berlin theatre intendant Count Brühl suggested the title it carries today.\nIt premiered on 18 June 1821 at the Schauspielhaus in Berlin, with Weber himself conducting. The audience is said to have included E.T.A. Hoffmann, Heinrich Heine, and a twelve-year-old Felix Mendelssohn. The reception was enthusiastic, with the Wolf's Glen scene drawing especially loud applause, and the premiere is often regarded as a symbolic starting point for German Romantic opera."
+    }
+  },
+  "19229": {
+    "structure": {
+      "ja": "独奏クラリネットと管弦楽のための全3楽章の協奏曲。ヘ短調の第1楽章に続き、ハ長調の緩徐楽章ではホルン3本の伴奏に独奏が溶け合う情緒的な場面が続き、終楽章は快活なロンドで締めくくられる。",
+      "en": "A three-movement concerto for solo clarinet and orchestra. The F minor opening movement is followed by a lyrical C major slow movement, in which the soloist is cushioned by an unusual accompaniment of three horns, before a lively rondo finale closes the work."
+    },
+    "story": {
+      "ja": "1811年、クラリネット奏者ハインリヒ・ベールマンのために書かれ、同年6月13日にミュンヘンで、バイエルン王マクシミリアン1世ヨーゼフの臨席のもと初演された。第1楽章のカデンツァはベールマン自身の作とされ、後年フェルッチョ・ブゾーニをはじめ多くの奏者が独自のカデンツァを書き加えている。",
+      "en": "Weber wrote it in 1811 for the clarinettist Heinrich Baermann, and it was premiered in Munich on 13 June that year before King Maximilian I Joseph of Bavaria. The first-movement cadenza is traditionally credited to Baermann himself, and later performers, including Ferruccio Busoni, went on to add cadenzas of their own."
+    }
+  },
+  "19233": {
+    "structure": {
+      "ja": "変ニ長調のピアノ独奏曲で、標題性を持つ華麗なロンド形式による作品。舞踏会で男性が女性を誘い、ためらいから承諾、二人の対話、踊り、そして別れに至るまでの情景を音楽で描く、いわゆる性格的小品の代表例である。",
+      "en": "A solo piano piece in D-flat major, cast as a brilliant rondo with a narrative programme. It traces a ballroom scene from a man's invitation and a woman's initial hesitation, through their conversation and dance, to a final farewell."
+    },
+    "story": {
+      "ja": "1819年、妻カロリーネ・フォン・ヴェーバーに献呈された作品で、原題は「舞踏への勧誘」を意味する。のちにエクトル・ベルリオーズが管弦楽用に編曲し、この編曲版はミハイル・フォーキン振付のバレエ「薔薇の精」の音楽としても広く親しまれることとなった。",
+      "en": "Weber composed it in 1819 and dedicated it to his wife, Caroline von Weber; the German title translates literally as 'Invitation to the Dance.' Hector Berlioz later orchestrated it, and his version became familiar to still wider audiences through its use in Mikhail Fokine's ballet Le Spectre de la rose."
     }
   },
   "19303": {
@@ -4897,6 +4997,26 @@
     "story": {
       "ja": "1828年、彼が世を去る2か月前に完成した最後の室内楽作品である。同年10月2日付、出版社プロープストへの手紙のなかで、この曲を仕上げ、直近に初めて試演したと報告している。\nプロープストはこの大規模な作品の出版を見送っており、実際に出版されたのは1853年、初の公開演奏はさらに早い1850年になってからのことだった。今日では室内楽の最高傑作のひとつとして広く評価されている。",
       "en": "It was completed in 1828, two months before he died, and was his last chamber work. In a letter to the publisher Probst dated 2 October that year, he reported having just finished it and given it an initial play-through.\nProbst declined to publish such a large-scale work; it did not actually appear in print until 1853, and its first public performance came slightly earlier, in 1850. It is now widely regarded as among the greatest of all chamber works."
+    }
+  },
+  "21461": {
+    "structure": {
+      "ja": "独奏チェロと管弦楽、ハープのための「2つのヘブライ旋律によるアダージョ」。第1主題はユダヤ教の贖罪の日の典礼詞コル・ニドレに由来し、第2主題はバイロン卿の詩集「ヘブライの旋律」中の旋律から採られている。",
+      "en": "An Adagio for solo cello, orchestra and harp on two Hebrew melodies. Its first theme derives from the Kol Nidrei prayer recited on the Jewish Day of Atonement, while the second is drawn from a setting of Byron's poem cycle Hebrew Melodies."
+    },
+    "story": {
+      "ja": "1880年、リヴァプールで完成し、翌年ベルリンのジムロック社から出版された。チェリストのロベルト・ハウスマンの依頼により作曲され、彼に献呈されている。ブルッフ自身はプロテスタントであったが、旋律の出自からしばしばユダヤ系と誤解され、生前たびたびこれを訂正していたと伝えられる。",
+      "en": "Bruch completed it in Liverpool in 1880, and it was published the following year by the Berlin firm Simrock. He wrote it at the request of the cellist Robert Hausmann, to whom it is dedicated. Though Bruch himself was Protestant, the work's Jewish melodic sources often led listeners to assume otherwise, a misunderstanding he is said to have corrected repeatedly during his lifetime."
+    }
+  },
+  "21481": {
+    "structure": {
+      "ja": "独奏ヴァイオリンと管弦楽、ハープのための幻想曲で、スコットランド民謡を自由に用いている。序奏とスケルツォ、アンダンテ、終曲の全4楽章それぞれが異なる民謡を主題としており、終楽章は「スコッツ・ワ・ヘイ」の旋律に基づく。",
+      "en": "A fantasy for solo violin, orchestra and harp built freely around Scottish folk tunes. Each of its four movements — an introduction and scherzo, an andante, and a finale — is based on a different tune, the last drawing on the melody known as 'Scots Wha Hae.'"
+    },
+    "story": {
+      "ja": "1879年から80年にかけてベルリンで作曲され、翌1881年2月22日、作曲者自身の指揮とヨーゼフ・ヨアヒムの独奏によりリヴァプールで初演された。パブロ・デ・サラサーテに献呈されたが、独奏パートの運指や弓使いはヨアヒムの助言によるものだったと伝えられる。",
+      "en": "Bruch composed it in Berlin over the winter of 1879-80, and it was premiered in Liverpool on 22 February 1881, conducted by the composer with Joseph Joachim as soloist. Though the piece is dedicated to Pablo de Sarasate, the solo part's fingering and bowing are said to reflect Joachim's own advice instead."
     }
   },
   "21495": {
