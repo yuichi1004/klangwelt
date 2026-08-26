@@ -1,4 +1,14 @@
 {
+  "3601": {
+    "structure": {
+      "ja": "全4楽章の交響曲。ロ短調のソナタ形式の第1楽章に続き、ヘ長調のスケルツォ、変ニ長調から始まる緩徐楽章を経て、再びロ短調の終楽章で結ばれる。批評家スターソフにより「勇士交響曲」と呼ばれた。",
+      "en": "Cast in four movements, the symphony opens with a sonata-form Allegro moderato in B minor, followed by an F major scherzo and a slow movement beginning in D-flat major, before closing back in B minor. Critic Vladimir Stasov dubbed it the Heroic Symphony."
+    },
+    "story": {
+      "ja": "着想から数年をかけて1876年までに完成し、翌年3月10日、エドゥアルド・ナープラヴニークの指揮により初演された。作曲家の妻エカテリーナに献呈されたこの交響曲は、後に金管を軽くする改訂が施され、リムスキー=コルサコフの指揮で改訂版が初演されている。",
+      "en": "Years in the making, Borodin completed the symphony by 1876, and it premiered the following March in Saint Petersburg under conductor Eduard Nápravník. Dedicated to the composer's wife, Ekaterina, the symphony was later revised to lighten its heavy brass writing, and the new version was premiered under fellow composer Rimsky-Korsakov."
+    }
+  },
   "3614": {
     "structure": {
       "ja": "単一楽章の交響詩。ロシア軍に護衛された隊商が中央アジアの草原を横切っていく情景を描く標題音楽で、ロシア風の旋律とアジア風の旋律という性格の異なる2つの主題が、遠くから近づき、重なり合い、再び遠ざかっていく構成をとる。\n2つの主題は最終的に対位法的に組み合わされて同時に鳴らされ、異なる文化が同じ場に共存する情景を音で表現している。",
@@ -7,6 +17,16 @@
     "story": {
       "ja": "1880年に作曲され、フランツ・リストに献呈されている。リストはボロディンの音楽を高く評価し、その普及に尽力した人物のひとりだった。\nもともとはアレクサンドル2世の治世25周年を祝う一連の活人画のひとつとして構想されたが、この上演企画自体は実現しなかった。しかし作品自体はリムスキー=コルサコフの指揮によりサンクトペテルブルクで初演されて以来、演奏会用の人気曲として定着していった。",
       "en": "It was composed in 1880 and dedicated to Franz Liszt, who admired Borodin's music and did much to promote it.\nIt had originally been conceived as one of several tableaux vivants to mark the twenty-fifth anniversary of Alexander II's reign, though that production never took place. The piece itself, however, went on to become a concert favourite after its premiere in St Petersburg under Rimsky-Korsakov."
+    }
+  },
+  "28112": {
+    "structure": {
+      "ja": "プロローグと全4幕から成るオペラ。ボロディンは生前に完成させることができず、死後にリムスキー=コルサコフとグラズノフの手によって補筆・管弦楽化された。第2幕の「だったん人の踊り」は演奏会用の抜粋として特に広く親しまれている。",
+      "en": "The opera unfolds across a prologue and four acts. Borodin left it unfinished at his death, and it was completed and orchestrated afterward by fellow composers Rimsky-Korsakov and Glazunov. Its Act II excerpt, the Polovtsian Dances, has become an especially popular concert piece on its own."
+    },
+    "story": {
+      "ja": "1887年に作曲家が没するまで、およそ20年近くにわたり断続的に書き継がれたが未完に終わった。死後、リムスキー=コルサコフとグラズノフによって補筆・オーケストレーションが施され、ペテルブルクのマリインスキー劇場で初演された。台本は12世紀の叙事詩「イーゴリ遠征物語」などに基づく。",
+      "en": "Borodin worked on the opera intermittently for nearly two decades until his death in 1887, but never finished it. Afterward, fellow composers Rimsky-Korsakov and Glazunov completed and orchestrated the score, and it reached the stage at the Mariinsky Theatre in Saint Petersburg. The libretto draws on a twelfth-century epic, The Lay of Igor's Host."
     }
   },
   "28113": {

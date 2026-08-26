@@ -9,6 +9,16 @@
       "en": "Some of the material goes back as far as 1913, but serious work began in 1917, and he finished it in October 1921 while staying at Étretat in Brittany, France. It is dedicated to the émigré poet Konstantin Balmont, a friend he made there.\nIt premiered on 16 December that year in Chicago, with Prokofiev himself as soloist and Frederick Stock conducting the Chicago Symphony, and was rapturously received by local critics. A subsequent New York performance met a much cooler reception. Its international standing was only confirmed the following year, 1922, after a well-received performance conducted by Koussevitzky in Paris."
     }
   },
+  "21531": {
+    "structure": {
+      "ja": "誕生、ロマンス、結婚式、トロイカ、埋葬の5曲から成る組曲で、もとは映画のための伴奏音楽として書かれた。当時のオーケストラでは珍しいテナーサクソフォーンが用いられ、第1曲冒頭では舞台裏のコルネットによるファンファーレが響く。",
+      "en": "The suite unfolds in five movements — Birth of Kijé, Romance, Kijé's Wedding, Troika, and Burial of Kijé. It calls for a tenor saxophone, unusual for orchestras of the time, and opens with an offstage cornet sounding a bugle-call fanfare."
+    },
+    "story": {
+      "ja": "映画音楽として着想され、1934年に組曲として完成、同年12月21日、パリでプロコフィエフ自身の指揮により初演された。当初は映画の作曲依頼を断っていたプロコフィエフだったが、翻意して引き受けた経緯があると伝えられる。テナーサクソフォーンの起用はラヴェルの「ボレロ」に触発されたとされる。",
+      "en": "Conceived as a film score, the music was completed as a concert suite in 1934 and premiered that December in Paris under Prokofiev's own baton. He had reportedly turned the film commission down at first before changing his mind, and his use of tenor saxophone is said to have been inspired by Ravel's Boléro."
+    }
+  },
   "21536": {
     "structure": {
       "ja": "全4楽章。編成・楽章構成ともに18世紀の古典派交響曲を模しており、ハイドンやモーツァルトが用いたであろう音型や和声進行を意識的に取り入れている。\n一方で転調や不協和音の使い方には20世紀の作曲家らしい鋭さが随所に顔をのぞかせ、様式の模倣そのものが一種の機知として機能している。",
@@ -37,6 +47,16 @@
     "story": {
       "ja": "1936年、モスクワの児童劇場の監督ナターリヤ・サーツから、子供向けに管弦楽を紹介する作品を書いてほしいと依頼された。当初は既存の詩を台本に使う予定だったが、気に入らず、自ら散文で物語を書き直している。\nピアノ譜は1週間足らず、オーケストレーションもさらに1週間ほどで完成させた。初演は同年5月2日、モスクワ音楽院大ホールでの児童向け演奏会にて、作曲者自身の指揮でおこなわれた。",
       "en": "In 1936, Natalya Sats, director of Moscow's Central Children's Theatre, commissioned him to write a piece introducing children to the orchestra. He initially planned to set an existing rhymed poem as the narration, but was dissatisfied with it and wrote his own prose story instead.\nHe completed the piano score in under a week and the orchestration in about another week. It premiered on 2 May that year at a children's concert in the Great Hall of the Moscow Conservatory, conducted by the composer himself."
+    }
+  },
+  "21660": {
+    "structure": {
+      "ja": "全4楽章から成る交響曲。変ロ長調のアンダンテに始まり、ニ短調のアレグロ・マルカート、ヘ長調のアダージョを経て、変ロ長調のアレグロ・ジョコーソで結ばれる。編成には変ホ調クラリネットやコントラファゴット、ピアノ、ハープを含む。",
+      "en": "The symphony spans four movements: an Andante in B-flat major, an Allegro marcato in D minor, an Adagio in F major, and a closing Allegro giocoso back in B-flat major. Its scoring includes E-flat clarinet, contrabassoon, piano, and harp alongside the full orchestra."
+    },
+    "story": {
+      "ja": "1944年に作曲され、翌年1月13日、モスクワ音楽院大ホールでソ連国立交響楽団を相手にプロコフィエフ自身の指揮で初演された。作曲家自身はこの交響曲を「自由で幸福な人間性への讃歌」と語ったと伝えられ、初演当日には赤軍のヴィスワ川渡河を祝う祝砲が鳴らされたという逸話も残る。",
+      "en": "Composed in 1944, the symphony premiered the following January at the Moscow Conservatory's Great Hall, with Prokofiev himself conducting the USSR State Symphony Orchestra. He reportedly described the work as a hymn to free and happy humanity, and legend holds that an artillery salute rang out at the premiere, marking a Red Army river crossing."
     }
   }
 }

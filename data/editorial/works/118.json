@@ -1,4 +1,14 @@
 {
+  "14243": {
+    "structure": {
+      "ja": "単一楽章のソナタ形式による演奏会用序曲で、拡大された序奏部を持つ。冒頭は5/2拍子という珍しい拍子で書かれ、終結部は2/1拍子を基調とする。ロシア正教会の聖歌集「オビホード」の旋律に基づき、ヴァイオリンやチェロ、トロンボーンなど各楽器の独奏を要所に配している。",
+      "en": "This concert overture is cast in a single movement of sonata-allegro form with an extended introduction. It opens in an unusual 5/2 meter and closes mostly in 2/1, drawing its themes from the Obikhod, a collection of Russian Orthodox chant, with prominent solo passages for violin, cello, and trombone."
+    },
+    "story": {
+      "ja": "1888年に完成し、同年12月15日、サンクトペテルブルクで作曲家自身の指揮により初演された。ムソルグスキーとボロディンという2人の亡き友への追悼として献呈され、楽譜には詩篇と福音書からの引用、そして作曲家自身の言葉による3つの銘句が添えられている。",
+      "en": "Completed in 1888, the overture premiered that December in Saint Petersburg under Rimsky-Korsakov's own baton. Dedicated to the memory of two late friends and fellow composers, Mussorgsky and Borodin, the score carries three epigraphs — one from the Psalms, one from the Gospel of Mark, and one in the composer's own words."
+    }
+  },
   "14258": {
     "structure": {
       "ja": "全4楽章の管弦楽組曲。「千夜一夜物語」から取られた個々の挿話を、明確な筋の連続としてではなく、断片的な情景の連なりとして描く。\n独奏ヴァイオリンが物語を紡ぐシェヘラザード自身を表す官能的な旋律を奏で、これと対照的な、金管が示す威圧的な主題が、彼女の命を握る暴君スルタンを表す。この2つの主題が全曲を通じて繰り返し現れる。",
@@ -7,6 +17,16 @@
     "story": {
       "ja": "1887年冬、ボロディンの未完のオペラ「イーゴリ公」の補筆完成作業と並行して、「千夜一夜物語」に取材した管弦楽曲を書く構想を温めていた。総譜には1888年6月4日から8月7日までの日付が記されている。\n初演は同年10月28日、サンクトペテルブルクで作曲者自身の指揮によりおこなわれた。当初は各楽章にそれぞれ「海とシンドバッドの船」「カランダール王子の物語」といった標題が付けられていたが、リムスキー=コルサコフはのちに、聴き手が特定の場面と旋律を過度に結びつけて聴くことを避けたいとして、これらの標題を削除している。",
       "en": "In the winter of 1887, while finishing Borodin's unfinished opera Prince Igor, he was also mulling an orchestral piece drawing on The Arabian Nights. The autograph score is dated between 4 June and 7 August 1888.\nIt premiered on 28 October that year in St Petersburg, with the composer conducting. Each movement originally carried a title — \"The Sea and Sinbad's Ship,\" \"The Kalandar Prince's Tale,\" and so on — but Rimsky-Korsakov later removed them, not wanting listeners to tie specific scenes too literally to specific melodies."
+    }
+  },
+  "14278": {
+    "structure": {
+      "ja": "アルボラーダ、変奏曲、アルボラーダ（再現）、情景とジプシーの歌、アストゥリアスのファンダンゴの5曲から成る演奏会用序曲。全体はイ長調を基調とし、ヴァイオリンのパートには「擬似ギター奏法」を意味する指示が随所に見られる。",
+      "en": "The work unfolds in five sections — Alborada, Variazioni, a reprise of the Alborada, Scena e canto gitano, and Fandango asturiano — centered around A major. The violin parts carry markings for a guitar-like playing style at several points, evoking Spanish folk instruments."
+    },
+    "story": {
+      "ja": "1887年に作曲され、同年10月31日、サンクトペテルブルクで帝室歌劇場管弦楽団を相手にリムスキー=コルサコフ自身の指揮により初演された。献呈を受けたのはこの楽団の奏者たちであった。批評家から「見事な管弦楽法の妙技」に過ぎないと評されたことに、作曲家自身は不満を示したと伝えられる。",
+      "en": "Composed in 1887, the work premiered that October in Saint Petersburg, with Rimsky-Korsakov himself conducting the Imperial Opera orchestra, to whose musicians the piece is dedicated. He reportedly bristled at critics who dismissed it as mere brilliant orchestration, insisting that its real substance lay in its melodic and rhythmic invention."
     }
   }
 }

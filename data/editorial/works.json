@@ -139,6 +139,26 @@
       "en": "It was composed between 1905 and 1908, while he was deeply engaged with the Theosophical Society. He was strongly influenced by Blavatsky's writing and the idea that humanity's highest calling was to transcend the physical world and merge into oneness with the cosmos, and is said to have thought of music itself as capable of guiding listeners toward that state.\nIt was first performed in December 1908 in New York, conducted by Modest Altschuler, with the Moscow premiere following in March 1909 under the composer himself."
     }
   },
+  "1580": {
+    "structure": {
+      "ja": "単一楽章によるソナタ形式で、以後スクリャービンが好んで用いる単一楽章ソナタの最初の作品となった。アレグロ・インペトゥオーソ、ランギド、プレスト・コン・アレグレッツァ、インペリオーソ、メノ・ヴィーヴォなど目まぐるしく変化する速度標語を持つ。",
+      "en": "Cast in a single movement with sonata form, this was the first of Scriabin's one-movement sonatas, a format he favored afterward. It moves through a dizzying array of tempo markings — Allegro impetuoso, Languido, Presto con allegrezza, Imperioso, and Meno vivo among them."
+    },
+    "story": {
+      "ja": "1907年に作曲され、翌年モスクワでピアニストのマルク・メイチクにより初演された。楽譜には自作の交響詩「法悦の詩」に寄せた文章から着想した題辞が添えられており、後年ピアニストのスヴャトスラフ・リヒテルは、この曲を最も演奏困難な作品の一つに数えたと伝えられる。",
+      "en": "Composed in 1907, the sonata was premiered the following year in Moscow by pianist Mark Meitschik. The score carries an epigraph adapted from Scriabin's own essay for his tone poem The Poem of Ecstasy, and pianist Sviatoslav Richter later reportedly ranked it among the most technically demanding works in the repertoire."
+    }
+  },
+  "1604": {
+    "structure": {
+      "ja": "ピアノ独奏を伴う大編成の管弦楽のための交響詩で、合唱、オルガン、チェレスタ、複数のハープを任意で加えることができる。「神秘和音」（ラ・レ♯・ソ・ド♯・ファ♯・シ）を基盤とし、全曲を通じて唯一の純粋な協和音である嬰ヘ長調の和音で結ばれる。",
+      "en": "This symphonic poem for large orchestra and solo piano can add optional chorus, organ, celesta, and multiple harps. Built on the so-called mystic chord, it closes on an F-sharp major triad — the work's only plain consonance in an otherwise harmonically adventurous score."
+    },
+    "story": {
+      "ja": "1910年頃に作曲され、翌年3月2日、モスクワでセルゲイ・クーセヴィツキーの指揮により初演された。総譜には「色光鍵盤」と呼ばれる色彩投影用のパートが任意演奏として書き込まれているが、装置が普及しなかったため、作曲家の生前にはほとんど実演されなかった。",
+      "en": "Composed around 1910, the work premiered the following March in Moscow under conductor Serge Koussevitzky. The score includes an optional part for a color-projecting keyboard known as the clavier à lumières, though the device was rarely available and the part went largely unperformed as written during the composer's own lifetime."
+    }
+  },
   "1633": {
     "structure": {
       "ja": "全3楽章。第1・2楽章は叙情的で歌謡的な性格を持つのに対し、終楽章は一転して独奏ヴァイオリンが休みなく細かい音型を弾き続ける技巧的なペルペトゥウム・モビレ(常動曲)で、性格の落差が際立つ構成になっている。\nこの落差ゆえに、終楽章はしばしば前の2楽章と「不釣り合い」だと評されてきた。",
@@ -367,6 +387,16 @@
     "story": {
       "ja": "パリのサン・シュルピス教会のオルガニストであったヴィドールが、同教会に設置されたアリスティド・カヴァイエ=コルの大オルガンから着想を得て書いた作品で、1879年、交響曲第6番とともに作品42として出版された。献呈は同教会のオルガンではなく、ピアノ製作者オーギュスト・ヴォルフに宛てられている。\n終曲「トッカータ」は、後年結婚式の入場・退場曲としてしばしば用いられるようになり、その人気を大きく後押ししたのが、1960年におこなわれた英国のマーガレット王女とアントニー・アームストロング=ジョーンズの結婚式での使用であったと伝えられる。以来、メンデルスゾーンの「結婚行進曲」と並ぶ、結婚式の定番曲のひとつとして親しまれている。",
       "en": "Widor, organist at the church of Saint-Sulpice in Paris, drew inspiration from the great organ Aristide Cavaillé-Coll had installed there, and the symphony was published in 1879 together with the Sixth as op. 42. Its dedication went not to the church's own organ but to the piano maker Auguste Wolff.\nThe closing Toccata later became a favourite as a wedding processional or recessional, a popularity said to have been given a considerable boost by its use at the 1960 wedding of Britain's Princess Margaret to Antony Armstrong-Jones. It has remained a wedding-day standard ever since, spoken of in the same breath as Mendelssohn's Wedding March."
+    }
+  },
+  "3601": {
+    "structure": {
+      "ja": "全4楽章の交響曲。ロ短調のソナタ形式の第1楽章に続き、ヘ長調のスケルツォ、変ニ長調から始まる緩徐楽章を経て、再びロ短調の終楽章で結ばれる。批評家スターソフにより「勇士交響曲」と呼ばれた。",
+      "en": "Cast in four movements, the symphony opens with a sonata-form Allegro moderato in B minor, followed by an F major scherzo and a slow movement beginning in D-flat major, before closing back in B minor. Critic Vladimir Stasov dubbed it the Heroic Symphony."
+    },
+    "story": {
+      "ja": "着想から数年をかけて1876年までに完成し、翌年3月10日、エドゥアルド・ナープラヴニークの指揮により初演された。作曲家の妻エカテリーナに献呈されたこの交響曲は、後に金管を軽くする改訂が施され、リムスキー=コルサコフの指揮で改訂版が初演されている。",
+      "en": "Years in the making, Borodin completed the symphony by 1876, and it premiered the following March in Saint Petersburg under conductor Eduard Nápravník. Dedicated to the composer's wife, Ekaterina, the symphony was later revised to lighten its heavy brass writing, and the new version was premiered under fellow composer Rimsky-Korsakov."
     }
   },
   "3614": {
@@ -2079,6 +2109,16 @@
       "en": "Composed in 1897 and subtitled \"Scherzo after a ballad by Goethe,\" it premiered under his own baton in Paris on 18 May that year.\nDukas wrote sparingly and was harshly self-critical, allowing only a handful of works to be published in his lifetime. This piece was an exception, acclaimed early and remaining his best-known work to this day."
     }
   },
+  "14243": {
+    "structure": {
+      "ja": "単一楽章のソナタ形式による演奏会用序曲で、拡大された序奏部を持つ。冒頭は5/2拍子という珍しい拍子で書かれ、終結部は2/1拍子を基調とする。ロシア正教会の聖歌集「オビホード」の旋律に基づき、ヴァイオリンやチェロ、トロンボーンなど各楽器の独奏を要所に配している。",
+      "en": "This concert overture is cast in a single movement of sonata-allegro form with an extended introduction. It opens in an unusual 5/2 meter and closes mostly in 2/1, drawing its themes from the Obikhod, a collection of Russian Orthodox chant, with prominent solo passages for violin, cello, and trombone."
+    },
+    "story": {
+      "ja": "1888年に完成し、同年12月15日、サンクトペテルブルクで作曲家自身の指揮により初演された。ムソルグスキーとボロディンという2人の亡き友への追悼として献呈され、楽譜には詩篇と福音書からの引用、そして作曲家自身の言葉による3つの銘句が添えられている。",
+      "en": "Completed in 1888, the overture premiered that December in Saint Petersburg under Rimsky-Korsakov's own baton. Dedicated to the memory of two late friends and fellow composers, Mussorgsky and Borodin, the score carries three epigraphs — one from the Psalms, one from the Gospel of Mark, and one in the composer's own words."
+    }
+  },
   "14258": {
     "structure": {
       "ja": "全4楽章の管弦楽組曲。「千夜一夜物語」から取られた個々の挿話を、明確な筋の連続としてではなく、断片的な情景の連なりとして描く。\n独奏ヴァイオリンが物語を紡ぐシェヘラザード自身を表す官能的な旋律を奏で、これと対照的な、金管が示す威圧的な主題が、彼女の命を握る暴君スルタンを表す。この2つの主題が全曲を通じて繰り返し現れる。",
@@ -2087,6 +2127,16 @@
     "story": {
       "ja": "1887年冬、ボロディンの未完のオペラ「イーゴリ公」の補筆完成作業と並行して、「千夜一夜物語」に取材した管弦楽曲を書く構想を温めていた。総譜には1888年6月4日から8月7日までの日付が記されている。\n初演は同年10月28日、サンクトペテルブルクで作曲者自身の指揮によりおこなわれた。当初は各楽章にそれぞれ「海とシンドバッドの船」「カランダール王子の物語」といった標題が付けられていたが、リムスキー=コルサコフはのちに、聴き手が特定の場面と旋律を過度に結びつけて聴くことを避けたいとして、これらの標題を削除している。",
       "en": "In the winter of 1887, while finishing Borodin's unfinished opera Prince Igor, he was also mulling an orchestral piece drawing on The Arabian Nights. The autograph score is dated between 4 June and 7 August 1888.\nIt premiered on 28 October that year in St Petersburg, with the composer conducting. Each movement originally carried a title — \"The Sea and Sinbad's Ship,\" \"The Kalandar Prince's Tale,\" and so on — but Rimsky-Korsakov later removed them, not wanting listeners to tie specific scenes too literally to specific melodies."
+    }
+  },
+  "14278": {
+    "structure": {
+      "ja": "アルボラーダ、変奏曲、アルボラーダ（再現）、情景とジプシーの歌、アストゥリアスのファンダンゴの5曲から成る演奏会用序曲。全体はイ長調を基調とし、ヴァイオリンのパートには「擬似ギター奏法」を意味する指示が随所に見られる。",
+      "en": "The work unfolds in five sections — Alborada, Variazioni, a reprise of the Alborada, Scena e canto gitano, and Fandango asturiano — centered around A major. The violin parts carry markings for a guitar-like playing style at several points, evoking Spanish folk instruments."
+    },
+    "story": {
+      "ja": "1887年に作曲され、同年10月31日、サンクトペテルブルクで帝室歌劇場管弦楽団を相手にリムスキー=コルサコフ自身の指揮により初演された。献呈を受けたのはこの楽団の奏者たちであった。批評家から「見事な管弦楽法の妙技」に過ぎないと評されたことに、作曲家自身は不満を示したと伝えられる。",
+      "en": "Composed in 1887, the work premiered that October in Saint Petersburg, with Rimsky-Korsakov himself conducting the Imperial Opera orchestra, to whose musicians the piece is dedicated. He reportedly bristled at critics who dismissed it as mere brilliant orchestration, insisting that its real substance lay in its melodic and rhythmic invention."
     }
   },
   "14347": {
@@ -3599,6 +3649,16 @@
       "en": "The libretto is by Louis Fuzelier. It premiered on 23 August 1735 at the Palais-Royal theatre in Paris, though only the prologue and two entrées — \"Le Turc généreux\" and \"Les Incas du Pérou\" — were given at that first performance. A third entrée, \"Les Fleurs, ou La Fête persane,\" was added later the same year, and a fourth, \"Les Sauvages,\" followed on 10 March 1736. Rameau kept revising the work for decades afterward, and in 1761 he removed \"Les Fleurs\" altogether, leaving the three-entrée form now considered standard.\nThe premiere met a cool reception: audiences of the day are said to have found the harmonies unfamiliar and the melodies unmemorable. A cross-dressing plot device in one entrée drew moral objections from a contemporary journal, forcing a hasty revision. Even so, the work grew steadily in popularity and became one of Rameau's defining achievements."
     }
   },
+  "20238": {
+    "structure": {
+      "ja": "切れ目なく続く単一楽章で、モデラート、アンダンテ・ソステヌート、ピウ・アニマート、アレグロの4部から成る。第1部の終わりに置かれた大規模なカデンツァは、重音奏法を駆使した技巧的な聴かせどころとなっている。編成にはグロッケンシュピールが加えられている。",
+      "en": "Played without pause, the concerto unfolds in four linked sections — Moderato, Andante sostenuto, Più animato, and Allegro. A substantial cadenza closes the first section, showcasing extensive double-stopping, and the orchestral scoring is colored by an unusual addition of glockenspiel."
+    },
+    "story": {
+      "ja": "1904年に作曲され、名手レオポルド・アウアーに献呈のうえ、翌年2月15日、サンクトペテルブルクでアウアーの独奏、グラズノフ自身の指揮により初演された。後年にはミッシャ・エルマンによる英国初演やエフレム・ジンバリストによる渡米デビューでの演奏を通じ、各国で広く知られるようになった。",
+      "en": "Composed in 1904 and dedicated to the violinist Leopold Auer, the concerto premiered the following February in Saint Petersburg, with Auer as soloist and Glazunov himself conducting the orchestra. It later traveled abroad through performances by Mischa Elman in Britain and by Efrem Zimbalist, who chose it for his American debut."
+    }
+  },
   "20403": {
     "structure": {
       "ja": "ピアノ独奏のための組曲(のち複数の作曲家により管弦楽に編曲)。10枚の絵画を音で描いた各曲の間に「プロムナード」と題された歩みの音楽が挟まれ、展覧会の会場を移動する様子を表す。\n「プロムナード」は曲ごとに性格を変えながら回帰し、絵から絵へと歩く鑑賞者自身の心情の変化を映し出しているとも解釈される。",
@@ -3607,6 +3667,16 @@
     "story": {
       "ja": "友人だった画家・建築家ヴィクトル・ハルトマンが1873年、39歳で急死した。翌1874年、批評家スターソフの尽力で開かれた遺作展にムソルグスキーが足を運んだことがこの曲の直接のきっかけとなった。\n彼はわずか3週間、1874年6月2日から22日の間に一気に書き上げている。もともとピアノ独奏曲として書かれたが、今日ではモーリス・ラヴェルが1922年に手がけた管弦楽編曲版で耳にする機会のほうが多い。ラヴェルはクーセヴィツキーの依頼を受けてこの編曲に取り組み、同年10月19日に初演されている。",
       "en": "His friend, the painter and architect Viktor Hartmann, died suddenly in 1873 at thirty-nine. A memorial exhibition of his work, organised the following year by the critic Vladimir Stasov, gave Mussorgsky the direct spark for this suite.\nHe wrote it in just three weeks, between 2 and 22 June 1874. Though composed for solo piano, it is now more often heard in Maurice Ravel's 1922 orchestration, made on a commission from Serge Koussevitzky and premiered on 19 October that year."
+    }
+  },
+  "20428": {
+    "structure": {
+      "ja": "プロローグと全4幕から成るオペラ。改訂版で新たに追加されたポーランドの場（マリーナの閨房、泉の場）が特徴で、当初の版とは大きく異なる構成を持つ。台本は作曲家自身がプーシキンの戯曲などに基づいて執筆した。",
+      "en": "The opera unfolds across a prologue and four acts. Its revised version added a distinctive Polish act — Marina's boudoir and the Fountain scene — not present in the composer's earlier version. Mussorgsky wrote the libretto himself, drawing on Pushkin's play and other historical sources."
+    },
+    "story": {
+      "ja": "作曲家自身により大幅な改訂が施され、1872年に完成。1874年1月27日、マリインスキー劇場でエドゥアルド・ナープラヴニークの指揮、メリニコフの主演により初演された。皇族の一人は当初これをオペラとして認めなかったと伝えられるが、真偽は定かでない。",
+      "en": "Extensively revised by the composer himself, the opera reached its final form in 1872 and premiered on 27 January 1874 at the Mariinsky Theatre, conducted by Eduard Nápravník with baritone Ivan Melnikov in the title role. A member of the imperial family reportedly dismissed it as no real opera at all, though the story is unverified."
     }
   },
   "20429": {
@@ -3899,6 +3969,16 @@
       "en": "Some of the material goes back as far as 1913, but serious work began in 1917, and he finished it in October 1921 while staying at Étretat in Brittany, France. It is dedicated to the émigré poet Konstantin Balmont, a friend he made there.\nIt premiered on 16 December that year in Chicago, with Prokofiev himself as soloist and Frederick Stock conducting the Chicago Symphony, and was rapturously received by local critics. A subsequent New York performance met a much cooler reception. Its international standing was only confirmed the following year, 1922, after a well-received performance conducted by Koussevitzky in Paris."
     }
   },
+  "21531": {
+    "structure": {
+      "ja": "誕生、ロマンス、結婚式、トロイカ、埋葬の5曲から成る組曲で、もとは映画のための伴奏音楽として書かれた。当時のオーケストラでは珍しいテナーサクソフォーンが用いられ、第1曲冒頭では舞台裏のコルネットによるファンファーレが響く。",
+      "en": "The suite unfolds in five movements — Birth of Kijé, Romance, Kijé's Wedding, Troika, and Burial of Kijé. It calls for a tenor saxophone, unusual for orchestras of the time, and opens with an offstage cornet sounding a bugle-call fanfare."
+    },
+    "story": {
+      "ja": "映画音楽として着想され、1934年に組曲として完成、同年12月21日、パリでプロコフィエフ自身の指揮により初演された。当初は映画の作曲依頼を断っていたプロコフィエフだったが、翻意して引き受けた経緯があると伝えられる。テナーサクソフォーンの起用はラヴェルの「ボレロ」に触発されたとされる。",
+      "en": "Conceived as a film score, the music was completed as a concert suite in 1934 and premiered that December in Paris under Prokofiev's own baton. He had reportedly turned the film commission down at first before changing his mind, and his use of tenor saxophone is said to have been inspired by Ravel's Boléro."
+    }
+  },
   "21536": {
     "structure": {
       "ja": "全4楽章。編成・楽章構成ともに18世紀の古典派交響曲を模しており、ハイドンやモーツァルトが用いたであろう音型や和声進行を意識的に取り入れている。\n一方で転調や不協和音の使い方には20世紀の作曲家らしい鋭さが随所に顔をのぞかせ、様式の模倣そのものが一種の機知として機能している。",
@@ -3927,6 +4007,16 @@
     "story": {
       "ja": "1936年、モスクワの児童劇場の監督ナターリヤ・サーツから、子供向けに管弦楽を紹介する作品を書いてほしいと依頼された。当初は既存の詩を台本に使う予定だったが、気に入らず、自ら散文で物語を書き直している。\nピアノ譜は1週間足らず、オーケストレーションもさらに1週間ほどで完成させた。初演は同年5月2日、モスクワ音楽院大ホールでの児童向け演奏会にて、作曲者自身の指揮でおこなわれた。",
       "en": "In 1936, Natalya Sats, director of Moscow's Central Children's Theatre, commissioned him to write a piece introducing children to the orchestra. He initially planned to set an existing rhymed poem as the narration, but was dissatisfied with it and wrote his own prose story instead.\nHe completed the piano score in under a week and the orchestration in about another week. It premiered on 2 May that year at a children's concert in the Great Hall of the Moscow Conservatory, conducted by the composer himself."
+    }
+  },
+  "21660": {
+    "structure": {
+      "ja": "全4楽章から成る交響曲。変ロ長調のアンダンテに始まり、ニ短調のアレグロ・マルカート、ヘ長調のアダージョを経て、変ロ長調のアレグロ・ジョコーソで結ばれる。編成には変ホ調クラリネットやコントラファゴット、ピアノ、ハープを含む。",
+      "en": "The symphony spans four movements: an Andante in B-flat major, an Allegro marcato in D minor, an Adagio in F major, and a closing Allegro giocoso back in B-flat major. Its scoring includes E-flat clarinet, contrabassoon, piano, and harp alongside the full orchestra."
+    },
+    "story": {
+      "ja": "1944年に作曲され、翌年1月13日、モスクワ音楽院大ホールでソ連国立交響楽団を相手にプロコフィエフ自身の指揮で初演された。作曲家自身はこの交響曲を「自由で幸福な人間性への讃歌」と語ったと伝えられ、初演当日には赤軍のヴィスワ川渡河を祝う祝砲が鳴らされたという逸話も残る。",
+      "en": "Composed in 1944, the symphony premiered the following January at the Moscow Conservatory's Great Hall, with Prokofiev himself conducting the USSR State Symphony Orchestra. He reportedly described the work as a hymn to free and happy humanity, and legend holds that an artillery salute rang out at the premiere, marking a Red Army river crossing."
     }
   },
   "21670": {
@@ -4087,6 +4177,26 @@
     "story": {
       "ja": "1909年夏、ロシアのイヴァノフカで作曲され、9月23日に完成した。当時のラフマニノフは私生活も安定し、前年に交響曲第2番の初演を成功させたばかりで、比較的穏やかな時期を過ごしていた。\n同年秋に予定されていた初めてのアメリカ演奏旅行に向け、この曲は当初内密に準備された新作協奏曲として書かれている。初演は同年11月28日、ニューヨークでラフマニノフ自身の独奏、ワルター・ダムロッシュ指揮ニューヨーク交響楽団によりおこなわれた。献呈を受けたピアニスト、ヨーゼフ・ホフマンは、この曲を「自分には向いていない」として公開の場では一度も演奏しなかったと伝えられる。",
       "en": "It was composed in the summer of 1909 at Ivanovka in Russia, finished on 23 September. Rachmaninoff was going through a relatively calm period, his family life settled and the premiere of his Second Symphony the previous year a triumph.\nHe wrote it, at first in secret, for his first American concert tour that autumn. It premiered on 28 November that year in New York, with Rachmaninoff as soloist and Walter Damrosch conducting the New York Symphony Orchestra. The pianist Josef Hofmann, to whom it is dedicated, reportedly never performed it in public, saying it simply wasn't for him."
+    }
+  },
+  "22182": {
+    "structure": {
+      "ja": "全3楽章の管弦楽曲で、ラフマニノフが完全に米国で書き上げた唯一の作品であり、事実上の最後の大作となった。第1楽章にはアルトサクソフォーンが用いられ、全曲を通じて「怒りの日」の旋律や自作交響曲第1番、晩祷作品37からの自己引用が織り込まれている。",
+      "en": "In three movements, this is the only work Rachmaninoff composed entirely in the United States, and effectively his final major composition. The first movement features an alto saxophone, and the score weaves in the Dies irae chant along with self-quotations from his First Symphony and the Vespers, op. 37."
+    },
+    "story": {
+      "ja": "1940年に作曲を終え、翌年1月3日、フィラデルフィアでユージン・オーマンディの指揮により初演された。指揮者とフィラデルフィア管弦楽団に献呈されたこの作品は、後年ウラディーミル・ホロヴィッツとの私的な2台ピアノ版の演奏や、振付家ミハイル・フォーキンとのバレエ化計画でも知られる。",
+      "en": "Rachmaninoff finished the score in 1940, and it premiered the following January in Philadelphia under conductor Eugene Ormandy. Dedicated to Ormandy and the Philadelphia Orchestra, the piece is also remembered for a private two-piano performance the composer later gave with Vladimir Horowitz, and for a planned ballet with choreographer Michel Fokine that was never realized."
+    }
+  },
+  "22200": {
+    "structure": {
+      "ja": "全4楽章の交響曲。ホ短調のラルゴに始まりアレグロ・モデラートに転じる第1楽章、イ短調の第2楽章アレグロ・モルト、イ長調の緩徐楽章を経て、ホ長調の終楽章アレグロ・ヴィーヴァチェで結ばれる。",
+      "en": "The symphony unfolds in four movements: a first movement opening Largo in E minor before turning to Allegro moderato, an A minor Allegro molto, a slow movement in A major, and a closing Allegro vivace in E major."
+    },
+    "story": {
+      "ja": "1907年までに作曲され、翌年1月26日、マリインスキー劇場で作曲家自身の指揮により初演された。かつての交響曲第1番の不評からようやく立ち直りつつあったラフマニノフにとって大きな成功となり、初演からおよそ10か月後には再びグリンカ賞を受けている。",
+      "en": "Completed by 1907, the symphony premiered the following January at the Mariinsky Theatre with the composer himself conducting. Coming as Rachmaninoff was still recovering from the disastrous reception of his earlier First Symphony, it proved a major success and earned him the Glinka Award again roughly ten months after the premiere."
     }
   },
   "22217": {
@@ -5293,6 +5403,16 @@
     "story": {
       "ja": "1725年にアムステルダムで出版された12曲の協奏曲集の冒頭4曲として世に出た。18世紀にはフランスの王侯にも愛好されたが、その後長く忘れられ、20世紀半ばの録音を機に再び広く知られるようになった。今日ではもっとも録音数の多いクラシック作品のひとつである。",
       "en": "They appeared in 1725 as the first four of a set of twelve concertos published in Amsterdam. Popular with French royalty in the eighteenth century, they were then forgotten for a long time and returned to general knowledge only through recordings in the mid-twentieth century. They are now among the most recorded works in classical music."
+    }
+  },
+  "28112": {
+    "structure": {
+      "ja": "プロローグと全4幕から成るオペラ。ボロディンは生前に完成させることができず、死後にリムスキー=コルサコフとグラズノフの手によって補筆・管弦楽化された。第2幕の「だったん人の踊り」は演奏会用の抜粋として特に広く親しまれている。",
+      "en": "The opera unfolds across a prologue and four acts. Borodin left it unfinished at his death, and it was completed and orchestrated afterward by fellow composers Rimsky-Korsakov and Glazunov. Its Act II excerpt, the Polovtsian Dances, has become an especially popular concert piece on its own."
+    },
+    "story": {
+      "ja": "1887年に作曲家が没するまで、およそ20年近くにわたり断続的に書き継がれたが未完に終わった。死後、リムスキー=コルサコフとグラズノフによって補筆・オーケストレーションが施され、ペテルブルクのマリインスキー劇場で初演された。台本は12世紀の叙事詩「イーゴリ遠征物語」などに基づく。",
+      "en": "Borodin worked on the opera intermittently for nearly two decades until his death in 1887, but never finished it. Afterward, fellow composers Rimsky-Korsakov and Glazunov completed and orchestrated the score, and it reached the stage at the Mariinsky Theatre in Saint Petersburg. The libretto draws on a twelfth-century epic, The Lay of Igor's Host."
     }
   },
   "28113": {
