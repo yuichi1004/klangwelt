@@ -129,6 +129,26 @@
       "en": "He composed it in 1824, during a period of ongoing anxiety about his health, following an illness late the previous year that has often been read into the quartet's minor-key character throughout.\nIt was first performed on 29 January 1826, at a private gathering at the home of the Hacker family in Vienna. It was not published until 1831, after his death."
     }
   },
+  "21005": {
+    "structure": {
+      "ja": "全4楽章。フルートを1本のみ、トランペットやティンパニも欠く簡素な編成で書かれ、モーツァルトを思わせる均整のとれた響きを持つ。第3楽章のメヌエットはト短調で書かれ、快活な曲想の中に陰影を添えている。",
+      "en": "Four movements scored for a modest ensemble — a single flute, no trumpets or timpani — giving the symphony a Mozartean lightness and balance. The third-movement minuet turns to G minor, casting a shadow of unease across its otherwise buoyant character."
+    },
+    "story": {
+      "ja": "1816年、19歳のシューベルトが、友人オットー・ハトヴィヒが率いるアマチュア楽団のために作曲した。彼自身もこの楽団でヴィオラを弾いていたという。生前に公の場で演奏されることも出版されることもないまま長く忘れられ、日の目を見るまでには実に長い歳月を要した。",
+      "en": "Schubert wrote it in 1816 at nineteen for the amateur orchestra led by his friend Otto Hatwig, in which he himself played viola. It went unheard in any public concert and unpublished throughout his lifetime, remaining largely forgotten for decades before belatedly entering the standard repertoire it now firmly holds today."
+    }
+  },
+  "21006": {
+    "structure": {
+      "ja": "全14曲からなる歌曲集。レルシュタットの詩による7曲、ハイネの詩による6曲、そして最後を締めくくるザイデルの詩による1曲「鳩の便り」から構成される、性格の異なる歌が並ぶ曲集である。",
+      "en": "Fourteen songs grouped by poet — seven settings of Rellstab, six of Heine, and a single closing song, \"Die Taubenpost,\" to a text by Seidl — bringing together contrasting moods and styles rather than following one continuous narrative thread."
+    },
+    "story": {
+      "ja": "1828年、生涯最後の年に作曲された。もともとレルシュタットの詩による曲群とハイネの詩による曲群は別々の歌曲集として構想されていたとみられ、これらを一つにまとめ「白鳥の歌」と名付けたのは、翌年出版を手がけた出版社ハスリンガーであったという。",
+      "en": "Written in 1828, the last year of Schubert's life, the Rellstab and Heine settings appear to have originally been conceived as two separate collections. It was the publisher Haslinger who combined them the following year under the title \"Schwanengesang,\" swan song, marketing the whole set as the composer's final testament."
+    }
+  },
   "21023": {
     "structure": {
       "ja": "ピアノ独奏のための4曲からなる即興曲集。それぞれが独立した性格的小品として書かれており、単一の主題や物語でつながっているわけではない。\n第3番は変ト長調の緩やかな旋律が三連符の伴奏に乗って歌われる、抒情的な性格を持つ曲として知られる。",
@@ -137,6 +157,16 @@
     "story": {
       "ja": "1827年、彼が世を去る前年の夏に作曲されたとみられている。同じ年には2曲のピアノ三重奏曲や、もう1組の即興曲集(作品142)なども含む、30曲近くの作品が生み出されている。\n生前に出版されたのは4曲のうち最初の2曲のみで、第3・4番が出版されたのは1857年になってからだった。「即興曲」という題名は彼自身が付けたものではなく、出版を手がけたハスリンガーによるものとされる。",
       "en": "It is thought to have been composed in the summer of 1827, the year before he died. That same year produced close to thirty other works, including two piano trios and a second set of impromptus, Op. 142.\nOnly the first two of the four were published in his lifetime; the third and fourth did not appear until 1857. The title \"Impromptu\" is not his own but was given by his publisher, Tobias Haslinger."
+    }
+  },
+  "21048": {
+    "structure": {
+      "ja": "全4楽章。変イ長調の抒情的な緩徐楽章を中央に置き、両端楽章をハ短調の激しい情念で挟む構成をとる。悲劇的な性格を帯びた第1楽章と終楽章には、ベートーヴェンからの影響が色濃く感じられる。",
+      "en": "Four movements in C minor framing a lyrical slow movement in A-flat major, its stormy outer movements carrying an unmistakably Beethovenian weight and tragic character, closer in spirit to Beethoven's own late piano sonatas than to Schubert's earlier keyboard works."
+    },
+    "story": {
+      "ja": "1828年、生涯最後の年に完成された、3曲からなる最後のピアノソナタ群の1曲目にあたる。当初はベートーヴェンの亜流とみなされ長らく顧みられなかったが、没後100年を機にドナルド・フランシス・トーヴィーらの評論や、アルトゥール・シュナーベルらの演奏を通じて再評価が進んだ。",
+      "en": "Completed in 1828, Schubert's last year, it is the first of his final trilogy of piano sonatas. Long dismissed as a mere echo of Beethoven, it was largely neglected until a wave of reassessment — spurred by the writings of Donald Francis Tovey and performances by pianists such as Artur Schnabel — around the composer's centennial."
     }
   },
   "21086": {
@@ -149,6 +179,36 @@
       "en": "In 1815, at eighteen, Schubert set Goethe's 1782 poem to music — the story of a son, carried on horseback through the night by his father, tormented by an Erlking only he can see, who dies by the time they arrive.\nSchubert revised the song three times in his lifetime; the final version was published in 1821 as his Op. 1. It was first heard privately on 1 December 1820 and had its public premiere on 7 March 1821, at Vienna's Theater am Kärntnertor."
     }
   },
+  "21133": {
+    "structure": {
+      "ja": "切れ目なく連続して演奏される4つの部分からなる、ピアノ連弾のための幻想曲。冒頭のヘ短調の主題が全曲を貫き、終曲では技巧的なフーガを経て、劇的な回帰とともに静かに幕を閉じる構成をとる。",
+      "en": "Four connected sections for piano four hands, unified by a plaintive F-minor theme that recurs throughout. The finale builds through an intricate fugue before the opening theme dramatically returns, closing the work with one of Schubert's most striking and widely admired cadences."
+    },
+    "story": {
+      "ja": "1828年、シューベルトが恋心を寄せていたともいわれるピアノの弟子、カロリーネ・エステルハージ伯爵令嬢に献呈された。同年5月、友人フランツ・ラハナーとの連弾で私的に演奏されたことが、友人の日記に書き留められている。翌年、作曲者の死後に出版された。",
+      "en": "It was dedicated to Countess Caroline Esterházy, Schubert's piano pupil for whom he reportedly harbored deep and lasting affection, in 1828. That May, he and his friend Franz Lachner played it privately as a duet, an occasion recorded in a friend's diary. It was published the following year, after Schubert's death."
+    }
+  },
+  "21138": {
+    "structure": {
+      "ja": "ゲーテの「ファウスト」の一場面に基づく歌曲。ピアノの右手が絶えず回り続ける糸車を、左手が踏み板の動きを描写し、「あの人のくちづけ!」の一節で回転が止まり、激しい和音の連打へと変わる。",
+      "en": "A setting of a scene from Goethe's Faust, in which the piano's right hand spins ceaselessly to depict the whirring wheel and the left the pedal's motion, both suddenly halting into hammered chords at the words \"his kiss!\" before the wheel gradually resumes turning."
+    },
+    "story": {
+      "ja": "1814年10月19日、17歳のシューベルトが一気に書き上げたとされる。ゲーテの詩に音楽で応えた最初期の傑作であり、彼の歌曲様式が確立した記念碑的な作品ともいわれ、今なおドイツ・リートの最高峰の一つに数えられる。1821年、モーリツ・フォン・フリースに献呈され出版された。",
+      "en": "Schubert reportedly composed it in a single sitting on 19 October 1814, at just seventeen. Regarded as his first mature masterpiece in song and a landmark in his development as a composer, it remains one of the towering works of the German Lied. It was published in 1821 with a dedication to Moritz von Fries."
+    }
+  },
+  "21341": {
+    "structure": {
+      "ja": "ヴィルヘルム・ミュラーの24編の詩による連作歌曲集。孤独な旅人の彷徨う姿を描き、絶望と諦念が全編を覆う。前半12曲と後半12曲とでは作曲時期が異なり、曲想も対照的な性格を帯びている。",
+      "en": "A cycle of twenty-four songs setting poems by Wilhelm Müller, tracing a solitary wanderer's aimless journey through despair and resignation. The first twelve songs and the second twelve, composed at different times, carry noticeably contrasting moods."
+    },
+    "story": {
+      "ja": "1827年、前半12曲を2月に、後半12曲を10月に作曲した。完成後、友人フランツ・フォン・ショーバーの家で自ら歌って聴かせた際、「どの曲よりもこの曲集が気に入っている、いずれ君たちにも気に入ってもらえるだろう」と語ったと伝えられ、居合わせた友人たちは重苦しい曲想に言葉を失ったという。",
+      "en": "Schubert composed the first twelve songs in February 1827 and the remaining twelve that October. He reportedly sang the completed cycle for friends at Franz von Schober's home, telling them these songs pleased him more than any others and that they would come to feel the same — while his friends, by one account, sat stunned by its somber mood."
+    }
+  },
   "21352": {
     "structure": {
       "ja": "ピアノ、ヴァイオリン、ヴィオラ、チェロ、コントラバスという異例の編成による五重奏曲、全5楽章。通常の四楽章制のソナタ形式に、変奏曲の楽章がもう1つ挿入された珍しい構成をとる。\n第4楽章は、自作の歌曲「鱒」の旋律を主題とする変奏曲で、この曲の愛称の由来になっている。",
@@ -157,6 +217,36 @@
     "story": {
       "ja": "1819年の夏、友人でバリトン歌手のフォーグルとともにシュタイアーを訪れた際、裕福な音楽愛好家でアマチュアのチェロ奏者だったジルヴェスター・パウムガルトナーから依頼を受けて作曲された。\nパウムガルトナーは編成についても、数年前にフンメルが作品87で用いていたのと同じ、ピアノ・ヴァイオリン・ヴィオラ・チェロ・コントラバスという珍しい組み合わせを指定し、自らのお気に入りの歌曲「鱒」を主題にした変奏曲を組み込むよう求めたと伝えられる。出版は彼の死後、1829年になってからのことである。",
       "en": "It was commissioned in the summer of 1819, during a visit to Steyr with his friend the baritone Johann Michael Vogl, by Sylvester Paumgartner, a wealthy music-lover and amateur cellist.\nPaumgartner is said to have specified the unusual instrumentation himself — piano, violin, viola, cello and double bass, the same combination Hummel had used a few years earlier in his own Op. 87 — and asked for a set of variations on his favourite of Schubert's songs, \"Die Forelle.\" It was not published until 1829, after Schubert's death."
+    }
+  },
+  "21360": {
+    "structure": {
+      "ja": "全4楽章。ゆったりと歌う牧歌的な第1楽章に続く第2楽章アンダンティーノは、静けさの中に激しい感情の高まりを孕む。終楽章は軽やかなロンドで、第1楽章の主題を回想しながら全曲を締めくくる。",
+      "en": "Four movements opening with a spacious, pastoral Allegro, followed by an Andantino whose calm surface erupts into a turbulent central outburst. A light-footed rondo finale recalls the opening movement's theme before bringing the sonata to a warm close."
+    },
+    "story": {
+      "ja": "1828年、生涯最後の3つのピアノソナタの2曲目として作曲された。当初はヨハン・ネポムク・フンメルへの献呈が意図されていたが、出版までにフンメルが世を去ったため、代わってロベルト・シューマンに献呈されている。シューマンは出版時の批評で、以前の作品ほどの独創性は見られないと評したという。",
+      "en": "Composed in 1828 as the second of Schubert's final trilogy of piano sonatas, it was originally intended for dedication to Johann Nepomuk Hummel. Hummel died before publication, so the dedication passed instead to Robert Schumann, who reviewed the set at its release and judged it less inventive than Schubert's earlier sonatas."
+    }
+  },
+  "21375": {
+    "structure": {
+      "ja": "切れ目なく演奏される全4部からなるピアノ独奏曲。自作の歌曲「さすらい人」の旋律が全曲を貫く主題として姿を変えながら繰り返し現れ、幻想曲でありながら交響曲のような密度の高い構成を持つ。",
+      "en": "Four continuous sections for solo piano, built from a theme drawn from Schubert's own song \"Der Wanderer,\" recurring throughout in ever-shifting guises. Though called a fantasy, its tightly unified structure gives it the density and scale of a symphony compressed into a single instrument."
+    },
+    "story": {
+      "ja": "1822年に作曲された。曲名は、1816年に書いた歌曲「さすらい人」の旋律を主題に用いたことに由来する。あまりの演奏の難しさに、シューベルト自身も「悪魔にしか弾けない」と語ったと伝えられており、出版は彼の死後、しばらく経ってからのことであった。",
+      "en": "Composed in 1822, the work takes its nickname from the melody of Schubert's own 1816 song \"Der Wanderer,\" which supplies its central theme. So fearsomely difficult that Schubert himself is said to have remarked that only the devil could play it properly, and it was not published until well after his death."
+    }
+  },
+  "21380": {
+    "structure": {
+      "ja": "全4楽章、ゆったりとした牧歌的な第1楽章で始まる。展開部の直前、低音域に置かれた不気味なトリルが繰り返し現れ、静けさの中に不穏な緊張感を生み出している。演奏時間は40分に及ぶ大作である。",
+      "en": "Four expansive movements opening with a broad, songful Allegro whose calm is repeatedly interrupted by an ominous low trill deep in the bass. Lasting some forty minutes, it is the longest and most spacious of Schubert's piano sonatas."
+    },
+    "story": {
+      "ja": "1828年、生涯最後の3つのピアノソナタの最後の1曲として、死のわずか数週間前に完成された。3曲の中でも特に親しまれており、今日では彼のピアノソナタの中でも最高傑作の一つとみなされている。長く見過ごされていたが、20世紀以降に評価が大きく高まった。",
+      "en": "Completed in 1828, only weeks before Schubert's death, it is the last of his final trilogy of piano sonatas. The most widely loved of the three, it is now regarded by many as the finest of all his piano sonatas, though it too went largely overlooked until well into the twentieth century."
     }
   },
   "21429": {
