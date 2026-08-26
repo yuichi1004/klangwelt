@@ -8,5 +8,25 @@
       "ja": "1981年、レコード会社CBSからの委嘱により、グラスにとって商業レーベルからの初のリリースとなる作品として作曲された。コンサートホールでの演奏を第一に想定したのではなく、当時普及し始めていたウォークマンなど、ヘッドフォンでの個人的な聴取を念頭に置いて、レコーディング・スタジオでの制作を前提に書かれたという点で異色の成立過程を持つ。\n1982年にLP・カセットとして発売され、のちに一部の曲はフィリップ・グラス・アンサンブルのコンサート・レパートリーにも取り入れられていった。1983年には振付家ジェローム・ロビンズが、この曲を含むグラスの複数の作品を用いてニューヨーク・シティ・バレエ団のために「グラス・ピーシズ」を振り付けている。",
       "en": "It was composed in 1981 on commission from CBS Records, becoming Glass's first release on a major commercial label. Unusually, it was conceived first and foremost for the recording studio rather than the concert hall, with the intimate, headphone-based listening of the then-emerging Walkman format in mind.\nIt was released on LP and cassette in 1982, and some of its movements later entered the Philip Glass Ensemble's live concert repertoire. In 1983 the choreographer Jerome Robbins used this and other Glass pieces for Glass Pieces, a work he made for New York City Ballet."
     }
+  },
+  "10837": {
+    "structure": {
+      "ja": "全4幕、休憩なしで約5時間に及ぶオペラ。旋律的な物語構成を持たず、約20分の独立した9つの場面を「ニー・プレイ」と呼ばれる5つの間奏がつなぐ構成をとる。台本はソルフェージュ音節や数字、詩から成り、観客は上演中自由に出入りできる。",
+      "en": "A four-act opera lasting roughly five hours without intermission, built not on a conventional plot but on nine independent scenes of about twenty minutes each, linked by five interludes called 'Knee Plays.' The text is drawn from solfège syllables, numbers and verse, and audience members may come and go freely."
+    },
+    "story": {
+      "ja": "1975年、カナダのケープ・ブレトン島で作曲され、翌1976年7月25日、アヴィニョン音楽祭で初演された。演出家ロバート・ウィルソンとの共作であり、台本にはクリストファー・ノウルズらが参加した。グラスが後にサティヤーグラハやアクナーテンへと続けた「肖像画三部作」の第1作にあたる。",
+      "en": "Glass composed it in 1975 on Cape Breton Island in Canada, and it premiered the following year, on 25 July 1976, at the Avignon Festival. Created jointly with the director Robert Wilson, it is the first instalment of Glass's 'Portrait Trilogy,' which he went on to continue with Satyagraha and Akhnaten."
+    }
+  },
+  "10867": {
+    "structure": {
+      "ja": "ホピ語で「均衡を失った生活」を意味する題名を持つ、同名の映画のための音楽。冒頭は金管による持続低音で始まり、「有機体」「雲」「資源」など9つの楽章、13の独立した部分から構成される。フィリップ・グラス・アンサンブルと合唱団により演奏される。",
+      "en": "The film's title is a Hopi word meaning 'life out of balance,' and Glass's score opens with a sustained brass drone. It unfolds across nine named movements — from 'Organic' and 'Clouds' to 'Resource' and 'The Grid' — in thirteen sections, performed by the Philip Glass Ensemble with chorus."
+    },
+    "story": {
+      "ja": "1982年9月25日、テルライド映画祭でこの映画とともに初めて公開され、翌年4月にはサンフランシスコで劇場公開された。演奏はマイケル・リーズマン指揮のフィリップ・グラス・アンサンブルが担い、合唱にはウェスタン・ウィンド・ヴォーカル・アンサンブルが加わっている。",
+      "en": "It was first shown, together with the film, at the Telluride Film Festival on 25 September 1982, and had a limited theatrical release in San Francisco the following April. The score was performed by the Philip Glass Ensemble under the conductor Michael Riesman, joined by the Western Wind Vocal Ensemble as chorus."
+    }
   }
 }
