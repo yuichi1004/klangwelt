@@ -1,4 +1,14 @@
 {
+  "7642": {
+    "structure": {
+      "ja": "ヘンデルのチェンバロ組曲第1番にある主題に基づき、25の変奏とフーガを重ねたピアノ独奏曲。原曲がわずか5つの変奏だったのに対し、リズムや調性、書法を大胆に変化させながら規模を大きく広げている。",
+      "en": "A solo piano work built on a theme from Handel's First Harpsichord Suite in B-flat major, expanding the original's five variations into twenty-five, each one boldly reworking rhythm, key, and texture, before a concluding, contrapuntally elaborate fugue."
+    },
+    "story": {
+      "ja": "1861年、ハンブルクで作曲され、親交の深かったクララ・シューマンの42歳の誕生日に贈られた。同年12月、クララ自身の演奏によりハンブルクで初演されて拍手喝采を浴び、批評家ドナルド・トーヴィーは後にこの曲を史上屈指の変奏曲集の一つに数えている。",
+      "en": "Composed in 1861 in Hamburg, it was presented to his close friend Clara Schumann for her forty-second birthday. She herself gave the premiere in Hamburg that December to great applause, and the critic Donald Tovey later ranked it among the finest sets of variations ever written for the solo piano."
+    }
+  },
   "7645": {
     "structure": {
       "ja": "独唱・合唱と管弦楽のための全7楽章の宗教曲。伝統的なラテン語の死者のためのミサ曲とは異なり、ブラームス自身がルター訳聖書から選んだドイツ語の聖句によって構成されている。\n死者の魂の救済を祈るのではなく、残された生者を慰めることに主眼が置かれた内容で、「悲しみに沈む者は幸いである、彼らは慰められるであろう」という言葉で全曲が始まる。",
@@ -17,6 +27,26 @@
     "story": {
       "ja": "1879年、ブレスラウ大学から名誉博士号を授与されたブラームスは、当初は簡単な礼状を送るだけで済ませようとしていた。しかし学位を推薦した指揮者ベルンハルト・ショルツから、儀礼にふさわしい正式な謝意を示すべきだと説得され、この序曲を書くことになった。\n1880年に作曲され、翌1881年1月4日に初演された。荘重な作品を期待していた大学関係者に対し、ブラームスは学生たちが実際に歌う俗謡を寄せ集めた「陽気な俗謡のポプリ」を提出する形で応じている。",
       "en": "In 1879, Brahms was awarded an honorary doctorate by the University of Breslau, and initially planned to acknowledge it with nothing more than a simple note of thanks. The conductor Bernhard Scholz, who had proposed him for the degree, persuaded him that proper etiquette called for a grander gesture, and this overture was the result.\nHe composed it in 1880, and it premiered on 4 January 1881. Where the university might have expected something solemn, Brahms instead handed them what he called a \"rollicking potpourri\" of the songs students actually sang."
+    }
+  },
+  "7657": {
+    "structure": {
+      "ja": "混声四重唱(独唱可)とピアノ連弾のための18曲からなるワルツ集。詩人ダウマーの詩集「ポリドラ」による恋の歌に、軽やかなレントラー風の三拍子を付けている。曲ごとに調や表情標語が異なり、全体で多彩な恋愛模様を描き出す。",
+      "en": "A set of eighteen waltzes for vocal quartet (or solo voices) and piano four hands, setting love poems from Georg Friedrich Daumer's collection Polydora to a light, Ländler-like triple metre, each number varying in key and mood."
+    },
+    "story": {
+      "ja": "1868年から翌年にかけて作曲され、ピアノ連弾のみの版に続いて、声楽を伴う完全版は1875年に出版された。恋する男女の駆け引きを次々に描く親密な作風は、当時のブラームスの私生活における交友関係の反映とも評され、今なお演奏会でしばしば取り上げられ広く愛されている。",
+      "en": "Composed in 1868 and the following year, it appeared first in a piano-duet-only edition before the full version with voices was published in 1875. Its intimate portrayal of romantic back-and-forth between men and women has often been read as reflecting Brahms's own social circle of the time, and it remains a beloved favorite."
+    }
+  },
+  "7663": {
+    "structure": {
+      "ja": "全4楽章。ピアノと弦楽四重奏のための編成だが、当初は弦楽五重奏として書かれ、のちに2台ピアノ用のソナタを経て現在の形に落ち着いた、幾度もの改作を経た異例の成立過程を持つ作品である。",
+      "en": "Four movements for piano and string quartet. Unusually, it began life as a string quintet, was then recast as a sonata for two pianos, and only reached its final scoring after a further round of revision."
+    },
+    "story": {
+      "ja": "1862年に弦楽五重奏として書かれたが、友人ヨアヒムから弦楽器にふさわしくないと指摘され、2台ピアノ版に改作された。クララ・シューマンの勧めでさらに書き直され、ピアノ五重奏としての最終版は1864年に完成し、後年「室内楽の王冠」とも評された。",
+      "en": "It was written in 1862 as a string quintet, but his friend Joachim felt the writing did not suit strings, so Brahms recast it for two pianos. On Clara Schumann's advice he reworked it once more, completing the final piano-quintet version in 1864, later hailed as the crown of his chamber music."
     }
   },
   "7680": {
@@ -39,6 +69,46 @@
       "en": "He composed it in 1884 and 1885 at the resort town of Mürzzuschlag, just a year after finishing his Third Symphony — and it turned out to be his last.\nHe conducted the premiere himself with the court orchestra in Meiningen on 25 October 1885, and the audience response was enthusiastic. A performance in Vienna a few months later met a cooler reception from a more conservative crowd."
     }
   },
+  "7713": {
+    "structure": {
+      "ja": "全3曲からなるピアノ独奏用の間奏曲集。第1番の楽譜には、スコットランドの子守歌をヘルダーが独訳した詩の一節が題辞として添えられており、全体を通して物静かで内省的な性格が貫かれている。",
+      "en": "A set of three solo piano intermezzos. The score of the first carries an epigraph from a German translation, by Herder, of a Scottish lullaby, and a quiet, introspective mood runs through all three pieces."
+    },
+    "story": {
+      "ja": "1892年に作曲され、旧知のクララ・シューマンに送られた。ブラームスは友人にこの曲集を「私の悲しみの3つの子守歌」と呼んだと伝えられ、批評家ハンスリックは「独白」と評した。クララは魂に再び音楽の息吹を感じたと感激して書き送ったと伝わっている。",
+      "en": "Composed in 1892, it was sent to his old friend Clara Schumann. Brahms reportedly described the set to a friend as \"three lullabies of my grief,\" and the critic Eduard Hanslick called the pieces \"monologues.\" Clara herself wrote back that they had deeply stirred musical life in her soul once again."
+    }
+  },
+  "7715": {
+    "structure": {
+      "ja": "2挺のヴァイオリン、2挺のヴィオラ、2挺のチェロのための全4楽章。第2楽章は変奏曲形式のニ短調、第3楽章はトリオを伴うスケルツォで、第1楽章と終楽章の主題には共通する要素が見られる。",
+      "en": "Four movements for two violins, two violas, and two cellos. The second movement is a set of variations in D minor, the third a scherzo with trio, and the first and final movements share related thematic material."
+    },
+    "story": {
+      "ja": "1860年に作曲され、翌年ヨーゼフ・ヨアヒムらの演奏によりハノーファーで初演された。第2楽章はのちにブラームス自身がピアノ独奏用に編曲し、クララ・シューマンに献呈している。映画「恋人たち」など、後年さまざまな映像作品でも音楽が使われてきた。",
+      "en": "Composed in 1860, it received its premiere the following year in Hanover, given by an ensemble that included the violinist Joseph Joachim. Its second movement was reworked by Brahms himself as a piece for solo piano, a transcription he dedicated to Clara Schumann, and the sextet's music has since found its way into numerous well-known films and television productions."
+    }
+  },
+  "7716": {
+    "structure": {
+      "ja": "全4楽章。終楽章は「ハンガリー風ロンド」と題され、急速なテンポとロマの音楽を思わせる性格で広く知られる、ブラームスの室内楽のなかでも屈指の技巧的難度を誇る楽章として名高い存在である。",
+      "en": "Four movements. The finale is titled \"Rondo alla Zingarese,\" a fast, csárdás-flavoured movement that is widely regarded as one of the most technically demanding in all of Brahms's chamber music output for any combination of instruments."
+    },
+    "story": {
+      "ja": "1861年に作曲を終え、同年クララ・シューマンの独奏でハンブルクで初演された。1937年にはアーノルト・シェーンベルクがこの曲を管弦楽用に編曲し、指揮者オットー・クレンペラーの依頼によりロサンゼルスで初演され、のちにバレエ作品にも用いられている。",
+      "en": "It was finished in 1861 and premiered that year in Hamburg with Clara Schumann at the piano. In 1937 Arnold Schoenberg orchestrated the work at the request of the conductor Otto Klemperer, who gave its premiere in that arrangement in Los Angeles, and it later served as the basis for a ballet."
+    }
+  },
+  "7720": {
+    "structure": {
+      "ja": "全4楽章。第1楽章冒頭に現れる短い動機が全曲にわたって姿を変えながら繰り返し現れる、有機的な統一感を持つ構成をとる。牧歌的で伸びやかな旋律に富み、明るく開放的な性格の作品として広く知られる。",
+      "en": "Four movements. A brief motif heard at the very opening of the first movement recurs throughout the symphony in ever-changing guises, giving the whole an organic unity, while pastoral, songful melodies dominate its generally sunny character."
+    },
+    "story": {
+      "ja": "1877年夏、ヴェルター湖畔の保養地ペルチャッハで作曲された。同年12月30日、ヴィーンの楽友協会でハンス・リヒター指揮のヴィーン・フィルハーモニー管弦楽団により初演された。その明るい作風から、作曲地にちなみ「ペルチャッハ交響曲」とも呼ばれる。",
+      "en": "It was composed during the summer of 1877 at the lakeside resort of Pörtschach on the Wörthersee. Hans Richter conducted the Vienna Philharmonic in the premiere at the Musikverein on 30 December that year, and its cheerful character has led it to be nicknamed the \"Pörtschach Symphony\" after its birthplace."
+    }
+  },
   "7744": {
     "structure": {
       "ja": "全4楽章。終楽章の中心主題は、ベートーヴェンの交響曲第9番終楽章の「歓喜の歌」を思わせる旋律として知られ、指揮者ハンス・フォン・ビューローがこの曲を「ベートーヴェンの交響曲第10番」と呼んだことでも有名になった。\n序奏部では、執拗に反復されるティンパニの音型の上に半音階的な旋律が重なり、重々しい緊張感を作り出す。",
@@ -49,6 +119,26 @@
       "en": "By his own account, the symphony took twenty-one years from first idea to completion. The story traces back to 1854, when a 21-year-old Brahms heard Beethoven's Ninth Symphony for the first time, an experience said to have first planted the idea of writing a symphony of his own.\nHe spoke of hearing \"the giant marching behind me,\" and avoided writing a symphony for years afterward, finally finishing this one in 1876. It premiered on 4 November that year in Karlsruhe, conducted by his friend Felix Otto Dessoff. Brahms is said to have been unhappy about the Beethoven comparison that followed him ever after."
     }
   },
+  "7755": {
+    "structure": {
+      "ja": "アルト独唱、男声合唱、管弦楽のための小品で、ゲーテの詩「冬のハルツの旅」から抜粋した3つの詩節に曲を付けている。前半は孤独な旅人の苦しみをハ短調の独唱で描き、後半は男声合唱が加わりハ長調へと転じて慰めを歌う。",
+      "en": "A short work for alto solo, male chorus, and orchestra, setting three stanzas drawn from Goethe's poem \"Harzreise im Winter.\" The opening solo depicts a lonely wanderer's anguish in C minor, before the male chorus enters in C major, offering consolation."
+    },
+    "story": {
+      "ja": "1869年に作曲され、クララ・シューマンの娘ユーリエの結婚に寄せた贈り物だったとする逸話が伝わる。ブラームスがユーリエに寄せていたとされる密かな恋心と結び付けて語られることも多いが、これはあくまで後年の研究者による推測の域を出るものではない。",
+      "en": "Composed in 1869, it has traditionally been described as a wedding gift for Julie Schumann, Clara Schumann's daughter, and is often linked to speculation that Brahms secretly harbored unspoken feelings for her. That romantic connection, however, remains a matter of scholarly conjecture rather than anything Brahms himself ever confirmed in writing."
+    }
+  },
+  "7757": {
+    "structure": {
+      "ja": "クラリネットと弦楽四重奏のための全4楽章。終楽章は主題と変奏の形式をとり、第1楽章の主題が終結部で回想されることで全曲に円環的な統一感を与える、晩年の円熟した作風を示す室内楽作品である。",
+      "en": "Four movements for clarinet and string quartet. The finale takes the form of a theme and variations, and the return of the first movement's theme near the close lends the whole work a circular sense of unity."
+    },
+    "story": {
+      "ja": "1891年夏、避暑地バート・イシュルで作曲された。名手リヒャルト・ミュールフェルトの演奏に感銘を受け、引退を考えていたブラームスが再び作曲へと向かう契機となった作品の一つで、ミュールフェルトに献呈されている。同年11月、マイニンゲンで初演された。",
+      "en": "Composed in the summer of 1891 at the resort town of Bad Ischl, it is one of the works that drew Brahms back to composing after he had considered retiring, inspired by the playing of the clarinetist Richard Mühlfeld, to whom it is dedicated. It was premiered that November in Meiningen."
+    }
+  },
   "7764": {
     "structure": {
       "ja": "全3楽章。第1楽章のカデンツァはブラームス自身が書いたものではなく、初演者ヨアヒムによる版が広く使われている。\n独奏ヴァイオリンが管弦楽と対等に渡り合う書き方で、当時「ヴァイオリンに逆らって書かれた協奏曲」と評されるほど、独奏パートの技巧的な難度が高いことでも知られる。",
@@ -57,6 +147,36 @@
     "story": {
       "ja": "1878年夏、オーストリアのペルチャッハ滞在中に作曲された。独奏部分の書法については、親友でヴァイオリニストのヨーゼフ・ヨアヒムと綿密なやり取りを重ねており、書簡や実際の演奏を通じて助言を受け、部分的にはヨアヒム自身が手を加えた箇所も残っている。\n初演は1879年1月1日、ライプツィヒでヨアヒムの独奏、ブラームス自身の指揮によりおこなわれた。初演後もなお、ヨアヒムとの共同作業を通じて独奏部分やオーケストレーションの改訂が続けられている。",
       "en": "It was composed in the summer of 1878, while he was staying at Pörtschach in Austria. He worked closely with his friend, the violinist Joseph Joachim, on the solo part, exchanging letters and playing passages together; parts of the solo writing in the manuscript are in Joachim's own hand.\nIt premiered on 1 January 1879 in Leipzig, with Joachim as soloist and Brahms conducting. Even after the premiere, the two continued refining the solo part and orchestration together."
+    }
+  },
+  "7765": {
+    "structure": {
+      "ja": "全4楽章。冒頭でファ・ラ♭・ファの動機が示され、これはブラームス自身の座右の銘「自由に、しかし喜ばしく」を表す音型とされる。終楽章は静かに閉じられる点が、他の3つの交響曲と異なる特徴である。",
+      "en": "Four movements. The opening presents an F–A-flat–F motif, said to represent Brahms's own personal motto, \"free but joyful,\" and quite unusually among all his four symphonies, the finale closes quietly rather than with a triumphant flourish."
+    },
+    "story": {
+      "ja": "1883年夏、ヴィースバーデンで作曲され、同年12月2日、ハンス・リヒターの指揮によりヴィーン楽友協会で初演された。批評家ハンスリックは当時存在した3つの交響曲のうち「芸術的にもっとも完成度が高い」と評し、リヒターは英雄的な性格からこの曲を「英雄」交響曲と呼んだと伝えられる。",
+      "en": "It was composed in the summer of 1883 in Wiesbaden and premiered that December 2 at the Musikverein in Vienna, conducted by Hans Richter. The critic Eduard Hanslick called it \"artistically the most nearly perfect\" of the three symphonies then existing, and Richter is said to have dubbed it the \"Eroica\" for its heroic character."
+    }
+  },
+  "7766": {
+    "structure": {
+      "ja": "ヴァイオリン、チェロ独奏と管弦楽のための全3楽章。旋律の骨格には、盟友ヨアヒムのモットー「自由だが孤独に」に由来する音型を転回させた動機が用いられ、両独奏楽器が対等に絡み合いながら進む。",
+      "en": "Three movements for solo violin, solo cello, and orchestra. Its melodic material draws on a motif derived from his friend Joachim's own motto, \"free but lonely,\" and the two soloists engage throughout as equal partners."
+    },
+    "story": {
+      "ja": "1887年夏に作曲された、ブラームス最後の管弦楽作品である。ヴァイオリニストのヨアヒムとの間に生じていた不和を修復する意図があったとされ、同年10月18日、ケルンでヨアヒムとチェリストのハウスマンの独奏、ブラームス自身の指揮のもとで初演された。",
+      "en": "Composed in the summer of 1887, this was Brahms's last orchestral work. It is thought to have been intended to help mend a rift with the violinist Joachim, and it was premiered in Cologne on 18 October that year, with Joachim and the cellist Robert Hausmann as soloists and Brahms himself conducting."
+    }
+  },
+  "7774": {
+    "structure": {
+      "ja": "全4楽章からなる大規模な協奏曲で、演奏時間は約50分に及ぶ。第1楽章冒頭はホルンの旋律で開始され、これが全曲の主要主題となる。協奏曲としては異例に、第2楽章に激しいスケルツォ的な楽章を置く構成をとる大作である。",
+      "en": "A large-scale, four-movement concerto lasting nearly fifty minutes in performance. The first movement opens with a horn call that supplies its principal theme, and unusually for a concerto, a vigorous scherzo-like movement is placed second in the sequence."
+    },
+    "story": {
+      "ja": "1878年から1881年にかけて作曲され、恩師エドゥアルト・マルクスゼンに献呈された。1881年11月9日、ブダペストでブラームス自身の独奏により初演され、たちまち成功を収めた作曲家は、その後各地でこの曲を携えて長い演奏旅行をおこなっている。",
+      "en": "Composed between 1878 and 1881, it is dedicated to his teacher Eduard Marxsen. Brahms himself gave the premiere as soloist in Budapest on 9 November 1881, and the concerto's immediate success led him to tour widely across the continent, performing the technically demanding solo part himself at venue after venue for years to come."
     }
   }
 }
