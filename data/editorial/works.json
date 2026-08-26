@@ -1899,6 +1899,16 @@
       "en": "Conceived in 1836 as a fundraiser for a planned Beethoven monument in Bonn, it originally carried movement subtitles — \"Ruins,\" \"Triumphal Arch,\" \"Constellation\" — all later dropped before publication. Schumann dedicated it to Franz Liszt, who is said to have written back in warm praise, though he apparently never performed it in public himself."
     }
   },
+  "15086": {
+    "structure": {
+      "ja": "全4楽章からなる交響曲。作曲当時、シューマンは体調不良に苦しんでいたが、そうした翳りを感じさせない、堂々とした構えで書き上げられている。緩徐楽章はハ短調で書かれ、深く劇的な性格を帯びる。",
+      "en": "Four movements composed while Schumann was suffering from poor health, though the symphony itself gives little hint of that private struggle, unfolding instead with confident, assured grandeur. Its slow movement, cast in C minor, carries an unusually dramatic, searching weight."
+    },
+    "story": {
+      "ja": "1845年12月から翌年10月にかけて作曲された。同年11月5日、ライプツィヒのゲヴァントハウスで、メンデルスゾーンの指揮により初演された。当初の評判は芳しくなかったが、10日後の再演では好意的に受け止められたという。スウェーデン国王オスカル1世に献呈されている。",
+      "en": "Composed between December 1845 and October the following year, it premiered that November at Leipzig's Gewandhaus under Mendelssohn's own baton. The initial reception was lukewarm, but a second performance held ten days later was reportedly received far more warmly. It is dedicated to King Oscar I of Sweden and Norway."
+    }
+  },
   "15091": {
     "structure": {
       "ja": "ピアノ独奏のための21曲からなる小品集で、副題に「4つの音による小さな情景」とある。全曲は「A-S-C-H」または「As-C-H-E」という文字を音名に読み替えた4つの音型を素材として組み立てられている。\n仮面舞踏会に集う人物たちを描く小品が並び、フロレスタンとオイゼビウス(シューマン自身の二面性を表す架空の人物)、ショパンやパガニーニを模した曲、そして終曲「フィリスティン人と結ぶダヴィッド同盟の行進」で締めくくられる。",
@@ -1909,6 +1919,56 @@
       "en": "Sketching began in Leipzig in the second half of 1834, and it was finished by February 1835. The letters \"ASCH\" refer both to Asch (now Aš in the Czech Republic), the hometown of Ernestine von Fricken, to whom Schumann was engaged at the time, and to a musical spelling of letters found in his own name, Robert Alexander Schumann — a deliberate double meaning.\nThe set includes a piece titled \"Estrella,\" representing Ernestine, whom he was courting during this period — his private life woven directly into the music."
     }
   },
+  "15105": {
+    "structure": {
+      "ja": "切れ目なく続けて演奏される全3楽章からなる協奏曲。第2楽章では独奏チェロと、オーケストラの首席チェロ奏者による静かな二重奏が置かれる、当時としてはかなり珍しい書法が用いられている。",
+      "en": "Three movements played without a break, in a concerto originally titled a \"Konzertstück\" rather than a full concerto. The slow second movement features an unusual duet between the solo cello and the orchestra's own principal cellist."
+    },
+    "story": {
+      "ja": "1850年10月、デュッセルドルフの音楽監督に就任した直後に、わずか2週間ほどで書き上げられた。生前には一度も演奏される機会がないまま終わり、初演が実現したのは没後しばらく経ってからのことであった。当初の評価は概して厳しく、長い間顧みられなかった。",
+      "en": "Composed in only about two weeks in October 1850, shortly after Schumann had taken up his post as music director in Düsseldorf, the concerto went completely unperformed during his own lifetime. Its eventual premiere came only after his death, and early reception proved largely unfavorable, leaving it neglected for decades afterward."
+    }
+  },
+  "15108": {
+    "structure": {
+      "ja": "主題と12の変奏からなる、非常に高度な演奏技巧を要するピアノ独奏曲集。主題は、婚約者の後見人フリッケン男爵が書いた素人の旋律に基づいている。後年、一部の変奏を差し替えた改訂版も新たに作られた。",
+      "en": "A theme and twelve variations for solo piano, demanding formidable, unrelenting technique throughout its length. The theme itself is drawn from an amateur melody composed by Baron von Fricken, guardian of Schumann's one-time fiancée Ernestine. A later revised edition replaced two of the original twelve variations."
+    },
+    "story": {
+      "ja": "1834年から翌年にかけて作曲され、その後出版された。イギリスのピアニスト、ウィリアム・スターンデール・ベネットに献呈されている。シューマン自身は公開演奏には不向きな作品と考えていたとされるが、ベネットはイギリスで好んでこの曲を演奏したという。",
+      "en": "Composed in 1834 and into the following year, and published not long afterward, it is dedicated to the English pianist William Sterndale Bennett. Schumann himself reportedly considered the work unsuited to any public performance, yet Bennett is said to have played it often and with real, evident enthusiasm throughout England."
+    }
+  },
+  "15111": {
+    "structure": {
+      "ja": "全4楽章からなる室内楽曲。ピアノと弦楽四重奏という編成をこの形式で本格的に確立した、先駆的な作品とされる。第2楽章は葬送行進曲風の性格を持ち、後年、映画音楽としても繰り返し引用されたことがある。",
+      "en": "Four movements for piano and string quartet, a combination this work is widely credited with firmly establishing as a major chamber form in its own right. The second movement carries the somber character of a funeral march, later echoed even in film scores."
+    },
+    "story": {
+      "ja": "1842年9月から10月にかけて、いわゆる「室内楽の年」に集中的に作曲された。翌年1月、ライプツィヒのゲヴァントハウスで、妻クララ自身のピアノにより初演された。クララに献呈された作品で、当時から高い評価を受け、今日でも広く親しまれ続けている。",
+      "en": "Composed in September and October 1842, during what is often called Schumann's chamber-music year, it premiered the following January at Leipzig's Gewandhaus with his wife, Clara, herself playing the piano part. Dedicated to Clara, the quintet was warmly received from the very start and quickly became one of his best-loved works."
+    }
+  },
+  "15129": {
+    "structure": {
+      "ja": "アイヒェンドルフの詩による全12曲からなる歌曲集。望郷や夜の情景を歌う詩が多く、幻想的で内省的な雰囲気に全体が貫かれている。中でも「春の夜」は、生前もっとも広く人気を博した1曲であったという。",
+      "en": "Twelve songs setting poems by Eichendorff, many evoking longing for a distant home and visions of the night, bound together by a dreamlike, introspective mood that runs throughout the whole cycle. Among them, \"Frühlingsnacht\" reportedly proved the most popular during Schumann's own lifetime."
+    },
+    "story": {
+      "ja": "1840年、生涯でもっとも多くの歌曲を書いた、いわゆる「歌曲の年」に集中的に作曲された。出版はその2年後のことであった。この歌曲集は今日、19世紀を代表する連作歌曲の一つに数えられており、リストの手によるピアノ独奏用への編曲版も残されている。",
+      "en": "Composed in 1840, the year in which Schumann wrote far more songs than in any other year of his career, it was published two years later. The cycle is now counted among the finest song cycles of the nineteenth century, and Liszt himself made a transcription of it for solo piano."
+    }
+  },
+  "15138": {
+    "structure": {
+      "ja": "軽やかな主要主題が回旋曲風に繰り返し立ち返る、比較的親しみやすいピアノ独奏曲。シューマン自身は、当時の自作の作風についてやや軽めの「婦人向け」の性格を持つと自ら評していたとされる。",
+      "en": "A light, songful main theme returns again and again in a rondo-like pattern, making this one of Schumann's more approachable and immediately appealing piano works. He himself reportedly described the lighter style of this period as being suited especially for lady amateurs."
+    },
+    "story": {
+      "ja": "ウィーン滞在期の終わりごろに作曲され、1839年8月、同地で出版された。フリーデリケ・ゼレ夫人に献呈されている。同時期に書かれた他の小品と同様、この曲もまた、ウィーン滞在中に少しずつ育まれた、より穏やかで優美な作風を色濃く反映した小品である。",
+      "en": "Composed toward the end of his years living in Vienna, it was published in August 1839 in that same city and is dedicated to Friederike Serre. Like other short piano works from that same period, it reflects the gentler, more graceful, songful style Schumann steadily developed while living quietly there."
+    }
+  },
   "15144": {
     "structure": {
       "ja": "全3楽章。もとは単一楽章の「幻想曲」として書かれたものが第1楽章の土台になっており、残る2楽章はのちに追加された。3つの楽章は切れ目なく演奏される。\n独奏ピアノと管弦楽が対等に旋律を受け渡しながら進む書き方が特徴で、技巧の誇示よりも両者の対話そのものを聴かせる協奏曲となっている。",
@@ -1917,6 +1977,26 @@
     "story": {
       "ja": "1841年5月、シューマンはピアノと管弦楽のための単一楽章の「幻想曲」を完成させ、同年8月13日、妻クララの独奏、メンデルスゾーンの指揮により試演された。\nこの曲を協奏曲として拡張するよう勧めたのはクララだった。1845年5月末から作業が再開され、第2楽章は7月16日、終楽章は7月31日に完成した。初演は同年12月4日、ドレスデンでクララの独奏、ヒラーの指揮によりおこなわれた。以後クララはこの曲をたびたび演奏会で取り上げ、生涯にわたって最も得意とする演目のひとつとした。",
       "en": "In May 1841, Schumann completed a single-movement \"Fantasy\" for piano and orchestra, given a trial run on 13 August that year with his wife Clara as soloist and Mendelssohn conducting.\nIt was Clara who urged him to expand it into a full concerto. Work resumed in late May 1845; the second movement was finished on 16 July and the finale on 31 July. It premiered on 4 December that year in Dresden, with Clara as soloist and Ferdinand Hiller conducting. She went on to perform it repeatedly throughout her career, making it one of her signature pieces."
+    }
+  },
+  "15156": {
+    "structure": {
+      "ja": "ゲーテの「ファウスト」に基づく、全3部からなる大規模な合唱・管弦楽作品。独唱者7、8名と混声合唱に加え、児童合唱も加わる大編成で書かれており、終曲は神秘的な合唱で厳かに締めくくられる。",
+      "en": "A large-scale choral and orchestral work in three parts based on Goethe's Faust, calling for seven or eight vocal soloists, mixed chorus, and boys' chorus alike. The final part closes with a solemn, mystical chorus of transcendence, sung by all the combined forces together."
+    },
+    "story": {
+      "ja": "1844年に着手され、実に長い年月をかけて断続的に書き継がれた大作である。第3部のみ、1849年8月、ドレスデン・ライプツィヒ・ヴァイマルの3都市で同時に初演されたが、全曲がまとめて上演されたのは、シューマンの没後しばらく経ってからのことであった。",
+      "en": "Begun in 1844, it took Schumann many long years of intermittent work to finally complete. Only the third part had its premiere during his own lifetime, performed simultaneously in Dresden, Leipzig, and Weimar in August 1849, while the complete three-part work was not staged in full until well after his death."
+    }
+  },
+  "15158": {
+    "structure": {
+      "ja": "全8曲からなるピアノ独奏曲集。ホフマンの小説に登場する幻想的な楽長ヨハネス・クライスラーに着想を得ており、各曲は性急な情熱と瞑想的な静けさとが目まぐるしく交替する構成となっている。",
+      "en": "Eight pieces for solo piano, inspired by the fantastical, tormented Kapellmeister Johannes Kreisler from E.T.A. Hoffmann's fiction. Each piece swings between restless, driven passion and passages of quiet, meditative calm, mirroring the two contrasting sides of Schumann's own artistic temperament."
+    },
+    "story": {
+      "ja": "1838年4月、わずか数日ほどで一気に書き上げられたと伝えられる作品である。ショパンに献呈され、婚約をめぐりクララの父と激しく対立していた不安定な時期に生み出された。後年、シューマン自身が「もっとも愛着のある作品」と語ったと伝えられている。",
+      "en": "Composed in April 1838, reportedly finished in only a few days, it is dedicated to Chopin and was written during the period when Schumann's engagement to Clara faced fierce, painful opposition from her own father. He himself later called it his own favorite among all the works he had ever written."
     }
   },
   "15232": {
