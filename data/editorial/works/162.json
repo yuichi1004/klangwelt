@@ -29,6 +29,16 @@
       "en": "The incidental music was written in 1875 and first performed with the play in Christiania (now Oslo) on 24 February 1876. Grieg is said to have doubted at first that he was equal to the commission.\nAfterward he drew the most popular numbers out of the full score and published them as Suite No. 1 in 1888. Detached from the play, the suite went on to become far better known than the incidental music it was drawn from."
     }
   },
+  "18116": {
+    "structure": {
+      "ja": "もとはピアノ曲集『抒情小曲集』の中から4曲を選んで管弦楽化した組曲で、羊飼いの少年、ノルウェーの行進、夜想曲、小人の行進という性格の異なる楽章から成る。牧歌的な情景から幻想的な情景まで、多彩な管弦楽の色彩が楽しめる。",
+      "en": "Orchestrated from four pieces chosen out of a larger set of piano miniatures, this suite moves through movements titled Shepherd Boy, Norwegian March, Notturno, and March of the Dwarfs. It ranges from pastoral simplicity to fantastical shadow, showcasing a colorful variety of orchestral writing."
+    },
+    "story": {
+      "ja": "最初の管弦楽編曲は指揮者アントン・ザイドルの手によるものだったが、作曲者自身は重厚に過ぎるその響きに満足せず、1905年、羊飼いの少年の楽章を弦楽のみで自ら編み直すなど手を加えた。晩年に完成したこの版は、しばしば作曲者最後の管弦楽作品とみなされている。",
+      "en": "The first orchestration was made by the conductor Anton Seidl, but the composer himself was unsatisfied with its heavy, thickly scored sound, and in 1905 he reworked the Shepherd Boy movement for strings alone and revised others. Completed late in his life, this version is often regarded as the composer's last orchestral work."
+    }
+  },
   "18148": {
     "structure": {
       "ja": "全3楽章。冒頭、ティンパニの一撃に続いてピアノが下降する分散和音を叩きつける開始が特に有名で、以後多くのロマン派協奏曲がこの型を模倣したとされる。\n彼が完成させた唯一のピアノ協奏曲で、シューマンの同じイ短調の協奏曲から着想を得たとされる書法の影響が随所に見られる。",

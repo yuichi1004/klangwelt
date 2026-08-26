@@ -259,6 +259,16 @@
       "en": "In 1941 Lincoln Kirstein, a co-founder of what became New York City Ballet, was touring South America and, impressed by Ginastera's earlier ballet Panambí, commissioned a new work depicting the life of Argentine gauchos. The scenario draws on José Hernández's epic poem Martín Fierro. But the Ballet Caravan, the company that had commissioned it, disbanded in 1942 before the full ballet could be staged.\nGinastera drew four dances from the score into a concert suite, op. 8a, which premiered on 12 May 1943 at the Teatro Colón in Buenos Aires, conducted by Ferruccio Calusio. The complete ballet itself did not reach the stage until nine years later, in 1952, also at the Teatro Colón."
     }
   },
+  "2524": {
+    "structure": {
+      "ja": "全5楽章から成る大規模な交響曲で、作曲者の妻の肖像とされる第4楽章を含む。「アズラエル」とはイスラム教やユダヤ教の伝承における死の天使を指し、この曲全体を貫く鎮魂の性格を象徴する題名となっている。",
+      "en": "This large-scale symphony is cast in five movements, including a fourth movement said to portray the composer's wife. Its title, Asrael, refers to the angel of death in Islamic and Jewish tradition, naming the elegiac character that runs through the whole work."
+    },
+    "story": {
+      "ja": "1905年、岳父ドヴォルザークの死を悼んで作曲に着手した矢先、妻オティリエをも亡くし、以降の楽章は深い喪失感を抱えながら彼女への鎮魂として書き継がれた。翌年に完成、その翌年にプラハで初演され、今日でも2人の思い出に捧げられた哀切な傑作として広く知られている。",
+      "en": "In 1905, just as the composer began the work in mourning for his father-in-law Dvořák, his wife Otilie died as well, and the later movements were written as an elegy for her. The symphony was finished the following year and premiered in Prague the year after that, dedicated to the memory of them both."
+    }
+  },
   "2596": {
     "structure": {
       "ja": "全6曲からなる組曲。第1曲「物語の始まり」は管弦楽全体による豪快な「くしゃみ」の音で幕を開けるが、これはハンガリーの民間伝承で「大きな話をしているときにくしゃみが出ると、その話が真実である証」とされることに由来する、コダーイ自身の注釈による演出である。以下「ウィーンの音楽時計」「歌」「ナポレオンの戦いと敗北」「間奏曲」「皇帝と廷臣たちの入場」と続き、随所でハンガリー特有の打弦楽器ツィンバロンが活躍する。",
@@ -267,6 +277,26 @@
     "story": {
       "ja": "もとは1926年に作曲されたジングシュピール(台詞入りの喜歌劇)からの音楽で、退役した老軽騎兵ハーリ・ヤーノシュが、たったひとりでナポレオンを打ち破り皇后マリー・ルイーズの心まで射止めたという法螺話を村人たちに語り聞かせ、最後には富も名誉も捨てて故郷の許嫁のもとへ帰っていくという物語を描く。歌劇の初演は同年10月16日、ブダペストの王立ハンガリー歌劇場でおこなわれた。\nこの物語に由来し、ハンガリー語では今も「ハーリ話」という言葉が法螺話・大言壮語を指す慣用句として用いられている。コダーイ自身は、ハーリを単なる嘘つきではなく、ハンガリー人が本来持つ物語る想像力の化身、いわば「詩人」なのだと説明していたと伝えられる。演奏会用組曲は歌劇とは別に、1927年3月24日、バルセロナでパウ・カザルス管弦楽団、アンタル・フライシャーの指揮により初演されており、ハンガリー国内での組曲初演はさらに遅れて1929年3月17日、コダーイ自身の指揮によりおこなわれている。",
       "en": "The music comes from a Singspiel — a comic opera with spoken dialogue — Kodály composed in 1926, telling of an old retired hussar, Háry János, who regales villagers with tall tales of single-handedly defeating Napoleon and winning the heart of Empress Marie-Louise, before giving up riches and glory to return to his sweetheart. The opera itself premiered on 16 October that year at the Royal Hungarian Opera House in Budapest.\nThe story gave rise to a lasting Hungarian idiom, \"Háry tale,\" still used today for any tall or boastful story. Kodály himself is said to have insisted that Háry was no mere liar, but the embodiment of the Hungarian storytelling imagination — a poet, in his words. The orchestral suite premiered separately from the opera, on 24 March 1927 in Barcelona with the Pau Casals Orchestra under Antal Fleischer, and only reached its Hungarian concert premiere later still, on 17 March 1929, conducted by Kodály himself."
+    }
+  },
+  "2610": {
+    "structure": {
+      "ja": "テノール独唱、混声合唱、管弦楽のための3楽章から成るオラトリオ風の作品で、演奏時間は約23分。16世紀のハンガリー語による詩編パラフレーズを歌詞に用い、直接的な民謡の引用はないものの、五音音階を基調とした民謡的な旋律語法が随所に見られる。",
+      "en": "Cast in three movements for tenor soloist, mixed chorus, and orchestra, this oratorio-like work lasts about twenty-three minutes. Its text is a sixteenth-century Hungarian paraphrase of a psalm, and although it quotes no actual folk song, its melodic language is steeped in pentatonic, folk-inflected idioms."
+    },
+    "story": {
+      "ja": "1923年、ブダ・ペシュト・オーブダの3市が統合されてブダペシュトが誕生してから50周年を祝う式典のために作曲され、同年11月19日、作曲家ドホナーニの指揮で初演された。詩編に歌われる嘆きの言葉には、第一次世界大戦後の苦難に見舞われたハンガリー国民の姿が重ねられているとされる。",
+      "en": "The work was composed in 1923 for a gala marking the fiftieth anniversary of the unification of three towns into the city of Budapest, and it was premiered that November under the baton of the composer Dohnányi. The psalm's lament is widely read as an allusion to the suffering of the Hungarian people in the years following the First World War."
+    }
+  },
+  "2624": {
+    "structure": {
+      "ja": "緩やかな序奏とクラリネットのカデンツァに始まり、その後4つの急速な舞曲が続くヴェルブンコシュ様式の管弦楽曲。クラリネットが民族楽器タラガトーを思わせる音色で活躍し、以前に作曲した姉妹作『マロシュセーク舞曲』の系譜に連なる作品とされる。",
+      "en": "Opening with a slow introduction and a clarinet cadenza before moving into four fast dances in the verbunkos style, this orchestral work gives the clarinet a prominent voice recalling the Hungarian tárogató. It is often considered a companion piece to an earlier suite of dances by the same composer."
+    },
+    "story": {
+      "ja": "1933年、ブダペスト・フィルハーモニー協会の創立80周年を記念して委嘱され、同年10月23日に初演された。作曲者は少年時代を過ごした町ガランタで耳にしたジプシー楽団の響きを生涯忘れがたい原体験として語ったと伝えられ、主要な旋律は同地に伝わる古い舞曲集から採られている。",
+      "en": "Commissioned to mark the eightieth anniversary of the Budapest Philharmonic Society, the work was composed in 1933 and premiered that October. The composer reportedly recalled, throughout his life, the sound of a Gypsy band he had heard as a boy in the town after which the piece is named, and its principal themes are drawn from an old published collection of dances from that same region."
     }
   },
   "2650": {
@@ -709,6 +739,16 @@
       "en": "Inspired in the autumn of 1950 by pianist Tatiana Nikolayeva's playing at an international Bach competition in Leipzig, where he served as a judge, Shostakovich completed the cycle the following February and dedicated it to her. Its complete public premiere came in December 1952, given by Nikolayeva alone in Leningrad."
     }
   },
+  "4212": {
+    "structure": {
+      "ja": "詩人ミチンスキの詩「五月の夜」に着想を得た単一楽章のヴァイオリン協奏曲で、性格の異なる5つの部分が切れ目なく続く。妖しく幻想的な管弦楽の色彩とヴァイオリンの技巧的な旋律が融合し、後年のバルトークの同種の作品にも影響を与えたとされる。",
+      "en": "Inspired by a poem, 'May Night,' this violin concerto unfolds in a single continuous movement made up of five contrasting sections. Its shimmering, fantastical orchestral colours combine with virtuosic violin writing, and the work is said to have influenced a later concerto in the same genre by Bartók."
+    },
+    "story": {
+      "ja": "1916年に作曲され、ヴァイオリニストのパヴェウ・コハンスキに献呈された。コハンスキはカデンツァの作曲や独奏部分の校訂に協力し曲の完成に深く関わったが、第一次世界大戦後の混乱を経てようやく実現した初演の舞台には、意外にも別の奏者が立ったと伝えられる。",
+      "en": "Composed in 1916, the concerto is dedicated to the violinist Paweł Kochański, who contributed the cadenza and helped edit the solo part, shaping the piece closely. Yet by the time the premiere finally took place, after the upheavals following the First World War, it was reportedly another violinist who performed it instead."
+    }
+  },
   "4432": {
     "structure": {
       "ja": "全2幕の歌劇。古代ガリアを占領するローマに対し、密かに恋人であるローマの総督ポリオーネとの間に2児をもうけたドルイド僧の巫女ノルマの、愛と信仰の板挟みを描く。\n第1幕でノルマが歌う「清らかな女神よ」は、長い息と装飾的な旋律を要求する難曲として知られ、ベルカント様式を代表するアリアのひとつとされる。",
@@ -737,6 +777,16 @@
     "story": {
       "ja": "1920年から1922年にかけて作曲され、総譜には1922年1月15日の日付が記されている。初演は同年1月24日、コペンハーゲンでニールセン自身の指揮によりおこなわれ、好評をもって迎えられた。\nしかし1924年1月20日、ストックホルムでゲオルグ・シュネーヴォイクトの指揮によりおこなわれたデンマーク国外での初演では一転、その不協和な響きと奔放な小太鼓の扱いに反発した聴衆の一部が途中退席し、非難のざわめきが起きるという、実際のスキャンダルとなったと伝えられる。",
       "en": "It was composed between 1920 and 1922, the full score dated 15 January 1922. It premiered on 24 January that year in Copenhagen, with Nielsen himself conducting, and was well received.\nIts reception outside Denmark was another matter: at its first performance abroad, in Stockholm on 20 January 1924 under Georg Schnéevoigt, some audience members are said to have walked out mid-performance and others hissed, unsettled by its dissonance and the unruly snare-drum writing — a genuine scandal at the time."
+    }
+  },
+  "4518": {
+    "structure": {
+      "ja": "独奏クラリネットと小編成の管弦楽のための単一楽章の協奏曲で、ヘ長調とホ長調という2つの調性の間で終始緊張関係が保たれる。編成には小太鼓が含まれ、独奏楽器とまるで対話するかのような存在感を放つ点が特徴的。",
+      "en": "This single-movement concerto for solo clarinet and small orchestra maintains a running tension between two keys, F major and E major, throughout. Its scoring includes a side drum that seems almost to argue with the soloist, giving the instrument an unusually prominent, dramatic role."
+    },
+    "story": {
+      "ja": "1928年、健康の衰えに苦しんでいた晩年に作曲され、木管五重奏団の仲間であったクラリネット奏者アーゲ・オクセンヴァズのために書かれた。同年9月14日に私的な試演、10月11日にコペンハーゲンで公開初演が行われ、作曲者にとって最後期の主要作の一つとなった。",
+      "en": "Composed in 1928, during a period of declining health late in the composer's life, the concerto was written for Aage Oxenvad, a clarinetist from the wind quintet with whom the composer regularly played. A private run-through took place that September, followed by a public premiere in Copenhagen that October, making it one of the composer's last major works."
     }
   },
   "4539": {
@@ -1989,6 +2039,16 @@
       "en": "It was composed in 1981 on commission from CBS Records, becoming Glass's first release on a major commercial label. Unusually, it was conceived first and foremost for the recording studio rather than the concert hall, with the intimate, headphone-based listening of the then-emerging Walkman format in mind.\nIt was released on LP and cassette in 1982, and some of its movements later entered the Philip Glass Ensemble's live concert repertoire. In 1983 the choreographer Jerome Robbins used this and other Glass pieces for Glass Pieces, a work he made for New York City Ballet."
     }
   },
+  "10935": {
+    "structure": {
+      "ja": "トルストイの小説『クロイツェル・ソナタ』に着想を得た全4楽章の弦楽四重奏曲で、演奏時間は約18分。各楽章に共通して「コン・モート」の速度指示が現れ、切迫した情感が全曲を貫く。小説の題名自体はベートーヴェンのヴァイオリン・ソナタに由来する。",
+      "en": "Inspired by Tolstoy's novella 'The Kreutzer Sonata,' this four-movement string quartet lasts about eighteen minutes. Each movement carries the marking 'con moto' at some point, lending the whole a restless, urgent character. The novella's own title refers back to a Beethoven violin sonata."
+    },
+    "story": {
+      "ja": "1923年10月に作曲され、翌年に初演、その翌年に出版された。作曲者はトルストイの小説に描かれる「痛めつけられ疲れ果てた哀れな女性」の姿を音楽に投影したと語ったと伝えられ、夫婦間の葛藤を描いた物語の緊張感が全曲に色濃く反映されている晩年の代表作の一つである。",
+      "en": "Composed in October 1923, the quartet was premiered the following year and published the year after that. The composer reportedly said he had in mind the novella's image of a poor, tormented, worn-down woman, and the tension of its story of marital conflict runs through the entire work, one of the finest of his last years."
+    }
+  },
   "10951": {
     "structure": {
       "ja": "金管楽器を中心とするファンファーレで始まり、全5楽章からなる。第1楽章は独立して着想され、当初はブラスバンドのための単独のファンファーレとして構想されていたが、やがて全曲の第1楽章および終楽章として拡張された。\n編成は通常の管弦楽に加え、追加の金管群を要する大規模なもので、祝祭的な色彩の強い作品となっている。",
@@ -1997,6 +2057,16 @@
     "story": {
       "ja": "前年の夏、避暑地ピーセクの公園で、親しかったカミラ・ステスロヴァーとともに軍楽隊の演奏を耳にしたことがきっかけとなり、その響きが頭から離れなかったと伝えられる。ソコル体操祭の開会式向けのファンファーレの作曲を依頼されたヤナーチェクは、この記憶をもとに曲を書いた。\n1926年3月に着手し、71歳だった彼はわずか1か月ほどで「ファンファーレ付きの、なかなかいいシンフォニエッタ」を書き上げたと述べている。当初は金管と打楽器だけの単独のファンファーレとして構想されていたが、やがて全5楽章、フルオーケストラの作品へと発展した。ソコル運動は「健全な精神は健全な身体に宿る」を理念に掲げる体操組織で、この作品が書かれた1926年の体操祭は、汎スラヴ的な大規模な集会として開催された。",
       "en": "The previous summer, sitting in a park in the spa town of Písek with Kamila Stösslová, to whom he was close, he had heard a military band play, and the sound stayed with him. Commissioned to write a fanfare for the opening of the Sokol Gymnastics Festival, he drew on that memory.\nHe began it in March 1926 and, at seventy-one, finished what he called a \"nice little sinfonietta with fanfares\" within about a month. What started as a stand-alone fanfare for brass and percussion alone grew into a five-movement work for full orchestra. The Sokol movement, built on the idea of \"a strong mind in a strong body,\" held its 1926 festival as a large pan-Slavic gathering."
+    }
+  },
+  "10971": {
+    "structure": {
+      "ja": "ラテン語ではなく古代教会スラヴ語の典礼文を用いた大規模なミサ曲で、序奏からアンティフォナ(入祭)まで8つの部分から成る。独唱4人、二重合唱、オルガン、大管弦楽という壮大な編成を要し、スラヴ文化への強い共感が反映された作品とされる。",
+      "en": "Setting the liturgy not in Latin but in Old Church Slavonic, this large-scale mass unfolds across eight sections framed by an introduction and a closing intrada. It calls for four soloists, double chorus, organ, and orchestra, often read as an expression of sympathy for Slavic culture."
+    },
+    "story": {
+      "ja": "1926年に作曲され、翌年12月5日にブルノで初演された。作曲者は汎スラヴ主義への共感で知られ、この選択には歴史的にスラヴ語での典礼が認められてきた地域の伝統が反映されているとされる。今日でも頻繁に演奏・録音される、作曲者晩年を代表する大作の一つに数えられている。",
+      "en": "Composed in 1926, the mass was premiered the following December in Brno. The composer was known for his sympathy with pan-Slavism, and the choice of language draws on a historical tradition permitting the liturgy to be celebrated in Old Church Slavonic in certain regions. It remains one of his most frequently performed and recorded works."
     }
   },
   "11709": {
@@ -2189,6 +2259,16 @@
       "en": "Composed between 1893 and 1902, it premiered on 30 April that year at the Opéra-Comique in Paris, conducted by André Messager with Mary Garden in the title role. An earlier rehearsal reportedly grew unruly, with the audience laughing at points meant to be taken seriously; some critics dismissed it harshly, but younger composers responded with real enthusiasm."
     }
   },
+  "13824": {
+    "structure": {
+      "ja": "仰々しい序奏に続いて童謡「きらきら星」の旋律がそのまま提示され、以降13の変奏とフガート風の終曲へと展開するピアノと管弦楽のための作品。序奏の大仰さと主題の素朴さとの落差そのものが一種の音楽的な冗談になっている。",
+      "en": "After a mock-grandiose introduction, this work for piano and orchestra states, quite plainly, the nursery tune known as Twinkle, Twinkle, Little Star, before developing it through thirteen variations and a fugal finale. The gap between the pompous opening and the simplicity of the theme is itself the musical joke."
+    },
+    "story": {
+      "ja": "1914年2月17日、ベルリンで初演され、作曲者自身がピアノ独奏を務めベルリン・フィルハーモニー管弦楽団と共演した。楽譜の序文には、ユーモアを解する聴衆を楽しませ、そうでない聴衆をいらだたせるために書かれた、という趣旨の言葉が添えられている。",
+      "en": "The work was premiered in Berlin on 17 February 1914, with the composer himself as piano soloist alongside the Berlin Philharmonic. The score's preface reportedly states, in effect, that it was written to amuse listeners with a sense of humor and to irritate any listener who happens to lack one entirely."
+    }
+  },
   "13876": {
     "structure": {
       "ja": "全12曲、ソプラノとアルトの独唱と弦楽合奏のために書かれ、合唱を伴わない。第5曲「悲しみに沈んだ人」に代表される、ソプラノとアルトが対等に絡み合う二重唱の書法は、厳格な対位法を守りつつも、当時新しく生まれつつあったオペラ的な叙情性を強く感じさせるものとなっている。",
@@ -2309,6 +2389,16 @@
       "en": "It was composed as part of the opera Thaïs in 1894. The opera is based on a novel by Anatole France, itself drawing on a seventh-century manuscript telling of an Egyptian courtesan, Thaïs, who converted to Christianity and withdrew into seclusion.\nIt premiered on 16 March that year at the Opéra in Paris. Massenet himself arranged it as a song under the title \"Ave Maria,\" and that version was already being sung at weddings in his own lifetime."
     }
   },
+  "14639": {
+    "structure": {
+      "ja": "ソプラノとバスの2人の歌手のみによる全1幕のオペラで、上演時間は約1時間。青ひげ公の城の7つの扉が次々と開かれ、その奥に広がる象徴的な光景―血の色をした拷問部屋から涙の湖まで―が音楽で描き出されていく。",
+      "en": "This one-act opera calls for just two singers, soprano and bass, and runs about an hour. As Bluebeard's seven castle doors are opened one by one, the music paints each symbolic space behind them, from a blood-red torture chamber to a lake of tears."
+    },
+    "story": {
+      "ja": "1911年に作曲され、その後の改訂を経て1918年5月24日、ブダペストで初演された。台本はバラージュ・ベーラがペローの童話に基づいて書いたもので、当初は作曲家コダーイに宛てて構想されたと伝えられる。総譜は作曲者の妻マールタに献呈されている。",
+      "en": "Composed in 1911 and revised in the years that followed, the opera was premiered in Budapest on 24 May 1918. The libretto, based on Perrault's fairy tale, was written by Béla Balázs and reportedly first conceived with the composer Kodály in mind. The score is dedicated to the composer's wife, Márta."
+    }
+  },
   "14658": {
     "structure": {
       "ja": "弦楽器・打楽器・チェレスタのための全4楽章の作品。第1楽章はフーガで、単一の主題が半音ずつ音程を広げながら積み重なっていく厳密な構成をとる。\n弦楽器群を左右2つに分けて配置する編成が指定されており、左右から音が交差するように響く効果を狙った空間的な書法が特徴である。",
@@ -2317,6 +2407,16 @@
     "story": {
       "ja": "指揮者パウル・ザッハーが率いるバーゼル室内管弦楽団の創立10周年を記念し、1936年、ザッハーからの委嘱で作曲された。バルトークはスイスでの毎年恒例の夏の休暇中にこの曲に取り組んでいる。\n当時ハンガリーでは右派政権によるモダニズム音楽への締め付けが強まっており、彼の収入は民俗音楽研究の職と教育・演奏に頼るところが大きかった。そうした状況のなかでのこの大規模な委嘱は、彼にとって重要な意味を持っていた。総譜には1936年9月7日の日付が記されており、初演は翌1937年1月21日、バーゼルでザッハー自身の指揮によりおこなわれた。",
       "en": "It was commissioned in 1936 by the conductor Paul Sacher to mark the tenth anniversary of his Basel Chamber Orchestra. Bartók worked on it during his customary summer holiday in Switzerland with his family.\nAt the time, right-wing governments in Hungary were tightening their grip on modernist music, and his income depended heavily on an ethnomusicology post along with teaching and performing — a major commission like this one mattered a great deal to him under those circumstances. The score is dated 7 September 1936, and it premiered the following year, on 21 January 1937 in Basel, with Sacher himself conducting."
+    }
+  },
+  "14667": {
+    "structure": {
+      "ja": "全3楽章のヴァイオリン協奏曲で、作曲者自身は単一楽章の変奏曲形式を望んだが、初演者の希望で伝統的な3楽章構成が採られた。第2楽章は独立した変奏曲、第3楽章は第1楽章の主題による変奏という、両者の折衷案が反映された構成になっている。",
+      "en": "This violin concerto is in three movements, though the composer himself had wanted a single-movement set of variations; a traditional design was adopted instead, at the soloist's request. As a compromise, the second movement is itself a set of variations, and the third recasts material from the first."
+    },
+    "story": {
+      "ja": "1938年にかけて作曲され、この曲を委嘱したヴァイオリニストのゾルターン・セーケイに献呈された。翌年3月23日、アムステルダムでセーケイの独奏により初演された。戦間期ハンガリーの緊迫した政治情勢と、作曲者自身の反ファシズムの信念を背景に生まれた作品とされる。",
+      "en": "Composed by 1938, the concerto is dedicated to the violinist Zoltán Székely, who commissioned it and pressed the composer toward a more conventional form. It was premiered the following March in Amsterdam, with Székely as soloist, against the tense political backdrop of interwar Hungary and the composer's own outspoken anti-fascist convictions."
     }
   },
   "14695": {
@@ -3497,6 +3597,16 @@
     "story": {
       "ja": "劇音楽は1875年に作曲され、1876年2月24日にクリスチャニア（現オスロ）で戯曲とともに初演された。グリーグは戯曲の依頼を受けた当初、自分には荷が重すぎるとためらっていたと伝えられる。\n初演後、彼は全曲の中から人気の高い場面を選び出し、1888年に組曲第1番として出版した。演奏会用に独立させたことで、原作の劇音楽よりもむしろこの組曲のほうが広く親しまれるようになった。",
       "en": "The incidental music was written in 1875 and first performed with the play in Christiania (now Oslo) on 24 February 1876. Grieg is said to have doubted at first that he was equal to the commission.\nAfterward he drew the most popular numbers out of the full score and published them as Suite No. 1 in 1888. Detached from the play, the suite went on to become far better known than the incidental music it was drawn from."
+    }
+  },
+  "18116": {
+    "structure": {
+      "ja": "もとはピアノ曲集『抒情小曲集』の中から4曲を選んで管弦楽化した組曲で、羊飼いの少年、ノルウェーの行進、夜想曲、小人の行進という性格の異なる楽章から成る。牧歌的な情景から幻想的な情景まで、多彩な管弦楽の色彩が楽しめる。",
+      "en": "Orchestrated from four pieces chosen out of a larger set of piano miniatures, this suite moves through movements titled Shepherd Boy, Norwegian March, Notturno, and March of the Dwarfs. It ranges from pastoral simplicity to fantastical shadow, showcasing a colorful variety of orchestral writing."
+    },
+    "story": {
+      "ja": "最初の管弦楽編曲は指揮者アントン・ザイドルの手によるものだったが、作曲者自身は重厚に過ぎるその響きに満足せず、1905年、羊飼いの少年の楽章を弦楽のみで自ら編み直すなど手を加えた。晩年に完成したこの版は、しばしば作曲者最後の管弦楽作品とみなされている。",
+      "en": "The first orchestration was made by the conductor Anton Seidl, but the composer himself was unsatisfied with its heavy, thickly scored sound, and in 1905 he reworked the Shepherd Boy movement for strings alone and revised others. Completed late in his life, this version is often regarded as the composer's last orchestral work."
     }
   },
   "18148": {
@@ -5513,6 +5623,26 @@
     "story": {
       "ja": "建築家ヴァルター・グロピウスと、グスタフ・マーラーの未亡人アルマ・マーラーとの間に生まれた娘、マノン・グロピウスが、1935年4月22日、18歳でポリオのため世を去った。ベルクは以前からヴァイオリニストのルイス・クラスナーより協奏曲の作曲を依頼されていたが、この死に触発され、短期間で作曲に集中した。作曲は同年7月15日に、管弦楽化を含む総譜は8月12日に完成し、「ある天使の思い出に」という献辞が添えられた。\nベルク自身は同年12月23日から24日にかけての夜、虫刺されによる敗血症のためウィーンで急逝し、この曲は彼の最後の完成作となった。そのため初演は没後となり、1936年4月19日、バルセロナのカタルーニャ音楽堂で、独奏クラスナー、パウ・カザルス管弦楽団によりおこなわれた。当初指揮を予定していたアントン・ヴェーベルンはリハーサル中に感情を抑えきれず降板し、代わってヘルマン・シェルヘンが、前夜に初めて総譜を見たとも伝えられるほどの短い準備期間で指揮を引き受けたという。",
       "en": "Manon Gropius, daughter of the architect Walter Gropius and Alma Mahler (widow of Gustav Mahler), died of polio on 22 April 1935 at the age of eighteen. Berg had already been commissioned to write a concerto by the violinist Louis Krasner, and, moved by her death, composed it in an intense burst: he finished the composition on 15 July that year and completed the full orchestration on 12 August, inscribing it \"To the memory of an angel.\"\nBerg himself died suddenly in Vienna on the night of 23–24 December that year, of blood poisoning from an insect bite, making the concerto his last completed work. Its premiere was therefore posthumous, given on 19 April 1936 at the Palau de la Música Catalana in Barcelona, with Krasner as soloist and the Pau Casals Orchestra. Anton Webern, originally engaged to conduct, withdrew, reportedly overcome with emotion during rehearsal, and Hermann Scherchen stepped in at short notice, said to have seen the score for the first time only the night before."
+    }
+  },
+  "26275": {
+    "structure": {
+      "ja": "『わが生涯より』の副題を持つ4楽章の弦楽四重奏曲で、冒頭楽章はヴィオラの印象的な独奏で始まる。終楽章では第1ヴァイオリンが甲高く持続する音を奏で、作曲家を悩ませた耳鳴りや迫りくる失聴を象徴すると言われる。演奏時間は約28分。",
+      "en": "Subtitled 'From My Life,' this four-movement quartet opens with a striking viola solo. In the finale, the first violin sustains a high, piercing note said to evoke the tinnitus and encroaching deafness that plagued the composer, more artistic gesture than literal transcription. It lasts about twenty-eight minutes."
+    },
+    "story": {
+      "ja": "1876年に作曲され、みずからの半生を音楽で振り返る自伝的な作品として構想されたと作曲者自身が語ったと伝えられる。私的な試演では友人の作曲家ドヴォルザークがヴィオラを弾いたとされ、公開初演はその後まもなく行われ、以後この曲は作曲者の代表作の一つとして広く親しまれるようになった。",
+      "en": "Composed in 1876, the quartet was, by the composer's own account, conceived as a musical retrospective of his life. At a private play-through, the composer and friend Dvořák reportedly took the viola part, and a public premiere followed not long after, launching the work toward its lasting place among the composer's most beloved pieces."
+    }
+  },
+  "26276": {
+    "structure": {
+      "ja": "チェコ語の原題は直訳すると「売られた花嫁」を意味する喜劇的な国民オペラで、当初は台詞を伴う2幕構成だったが、のちに全3幕へと拡大改訂され、台詞もレチタティーヴォに書き改められた。農村を舞台にした軽妙な筋立てで親しまれている。",
+      "en": "The Czech title of this comic national opera translates literally as 'The Sold Bride.' Originally cast in two acts with spoken dialogue, it was later expanded into three acts and its dialogue rewritten as sung recitative. Set in a village, its lighthearted plot has made it a repertoire favorite."
+    },
+    "story": {
+      "ja": "1866年5月30日に初演されたが、当日は酷暑と政情不安が重なったためか客足は伸びず、当初の評価も芳しくなかったと伝えられる。作曲者は改訂を重ね、後年ウィーンでの上演を機に国際的な評価を確立し、世界で最も広く上演されるチェコ・オペラとなった。",
+      "en": "The opera was premiered on 30 May 1866, but attendance was reportedly poor, perhaps owing to summer heat and unsettled political conditions, and early reception was lukewarm. The composer revised the work repeatedly, and a later Vienna production helped secure its international reputation, making it the most widely staged Czech opera in the world."
     }
   },
   "26281": {
