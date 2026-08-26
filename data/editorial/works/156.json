@@ -8,5 +8,15 @@
       "ja": "アレクサンドル・プーシキンの物語詩(1820年)に基づく歌劇で、1837年から1842年にかけて、断続的に作曲された。当初プーシキン自身が台本づくりに協力する計画もあったが、同年の決闘による死によって果たされず、複数の手による台本作りが難航したことも、成立に長い年月を要した一因とされる。\n初演は1842年11月27日(ロシア旧暦、西暦では12月9日)、サンクトペテルブルクのボリショイ・カメンヌイ劇場で、カール・アルブレヒトの指揮によりおこなわれた。当時のイタリア・オペラに親しんだ聴衆には、グリンカが用いたロシア民俗音楽由来の和声法が粗野に映り、波乱に富んだおとぎ話風の筋書きも戸惑いを招いたとされ、初演の評判は芳しくなかった。しかし19世紀後半、いわゆる「ロシア五人組」の作曲家たちに強く支持されたことをきっかけに、ロシア国民楽派オペラの礎として広く評価されるようになった。",
       "en": "Based on Alexander Pushkin's 1820 narrative poem, the opera was composed intermittently between 1837 and 1842. Pushkin himself had once planned to help adapt his own poem for the libretto, but his death that year in a duel cut those plans short, and the resulting multi-author libretto process is one reason the opera took so long to complete.\nIt premiered on 27 November 1842 (Old Style; 9 December by the Gregorian calendar) at the Bolshoi Kamenny Theatre in St Petersburg, conducted by Karl Albrecht. Audiences accustomed to Italian opera reportedly found Glinka's harmonies, rooted in Russian folk idiom, crude, and the sprawling, episodic fairy-tale plot left many bewildered, so the premiere's reception was lukewarm. Later in the century, though, strong advocacy from the composers of the so-called \"Mighty Handful\" helped establish it as a foundational work of Russian national opera."
     }
+  },
+  "17643": {
+    "structure": {
+      "ja": "全4幕とエピローグからなるオペラ。台本はクコーリニク、ローゼン、ソログープ、ジュコーフスキーらの合作による。ロシア初の本格的な国民オペラとされ、以後のロシア国民楽派の作曲家たちに大きな影響を与えた。",
+      "en": "An opera in four acts with an epilogue, its libretto the joint work of Nestor Kukolnik, Yegor Rozen, Vladimir Sollogub and Vasily Zhukovsky. Regarded as the first major Russian national opera, it exerted a lasting influence on the later generation of Russian nationalist composers."
+    },
+    "story": {
+      "ja": "1836年に作曲され、同年11月27日、サンクトペテルブルクのボリショイ・カーメンヌイ劇場で、カテリーノ・カヴォスの指揮により初演された。当初「イワン・スサーニン」と題されていたが、稽古に臨席した皇帝ニコライ1世への配慮から「皇帝に捧げし命」に改題されたと伝えられる。",
+      "en": "Glinka composed it in 1836, and it was premiered on 27 November that year at the Bolshoi Kamenny Theatre in St Petersburg, conducted by Catterino Cavos. Originally titled Ivan Susanin, it is said to have been renamed A Life for the Tsar as a gesture towards Tsar Nicholas I, who had attended a rehearsal."
+    }
   }
 }

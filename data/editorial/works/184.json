@@ -8,5 +8,25 @@
       "ja": "1864年夏、マンハイムに住んでいたブルッフが、当時知り合ったばかりのハンガリー人ヴァイオリニスト、ヨーゼフ・ヨアヒムの影響のもとで作曲を始めた。初演は1866年4月24日、コブレンツでの演奏会で、ブルッフ自身の指揮、オットー・フォン・ケーニヒスレーヴの独奏によりおこなわれたが、必ずしも成功とは言えなかった。\n不満を抱いたブルッフは楽譜をヨアヒムに送り、構成に関する詳細な助言を受けて改訂した。改訂版はヨアヒムの独奏により1868年1月5日にブレーメンで初演され、以後定番のレパートリーとして定着した。しかし作曲から40年ほど経ったのち、ブルッフはイタリア旅行中、行く先々でこの曲ばかりをせがまれることに苛立ち、友人への手紙で「まるで他に同じくらい良い協奏曲を書いていないかのようだ」と怒りをぶちまけている。",
       "en": "Bruch began it in the summer of 1864 in Mannheim, under the influence of the Hungarian violinist Joseph Joachim, whom he had recently met. It premiered on 24 April 1866 at a concert in Koblenz, with Bruch conducting and Otto von Königslöw as soloist, though the result was not an unqualified success.\nDissatisfied, Bruch sent the score to Joachim, who offered detailed structural advice for a revision. The revised version, with Joachim as soloist, premiered in Bremen on 5 January 1868, and it has stayed in the standard repertoire ever since. Some forty years later, though, on a trip to Italy, Bruch grew irritated at being asked to play \"my first concerto\" wherever he went, writing angrily to a friend that it was as if he had never written other, equally good concertos."
     }
+  },
+  "21461": {
+    "structure": {
+      "ja": "独奏チェロと管弦楽、ハープのための「2つのヘブライ旋律によるアダージョ」。第1主題はユダヤ教の贖罪の日の典礼詞コル・ニドレに由来し、第2主題はバイロン卿の詩集「ヘブライの旋律」中の旋律から採られている。",
+      "en": "An Adagio for solo cello, orchestra and harp on two Hebrew melodies. Its first theme derives from the Kol Nidrei prayer recited on the Jewish Day of Atonement, while the second is drawn from a setting of Byron's poem cycle Hebrew Melodies."
+    },
+    "story": {
+      "ja": "1880年、リヴァプールで完成し、翌年ベルリンのジムロック社から出版された。チェリストのロベルト・ハウスマンの依頼により作曲され、彼に献呈されている。ブルッフ自身はプロテスタントであったが、旋律の出自からしばしばユダヤ系と誤解され、生前たびたびこれを訂正していたと伝えられる。",
+      "en": "Bruch completed it in Liverpool in 1880, and it was published the following year by the Berlin firm Simrock. He wrote it at the request of the cellist Robert Hausmann, to whom it is dedicated. Though Bruch himself was Protestant, the work's Jewish melodic sources often led listeners to assume otherwise, a misunderstanding he is said to have corrected repeatedly during his lifetime."
+    }
+  },
+  "21481": {
+    "structure": {
+      "ja": "独奏ヴァイオリンと管弦楽、ハープのための幻想曲で、スコットランド民謡を自由に用いている。序奏とスケルツォ、アンダンテ、終曲の全4楽章それぞれが異なる民謡を主題としており、終楽章は「スコッツ・ワ・ヘイ」の旋律に基づく。",
+      "en": "A fantasy for solo violin, orchestra and harp built freely around Scottish folk tunes. Each of its four movements — an introduction and scherzo, an andante, and a finale — is based on a different tune, the last drawing on the melody known as 'Scots Wha Hae.'"
+    },
+    "story": {
+      "ja": "1879年から80年にかけてベルリンで作曲され、翌1881年2月22日、作曲者自身の指揮とヨーゼフ・ヨアヒムの独奏によりリヴァプールで初演された。パブロ・デ・サラサーテに献呈されたが、独奏パートの運指や弓使いはヨアヒムの助言によるものだったと伝えられる。",
+      "en": "Bruch composed it in Berlin over the winter of 1879-80, and it was premiered in Liverpool on 22 February 1881, conducted by the composer with Joseph Joachim as soloist. Though the piece is dedicated to Pablo de Sarasate, the solo part's fingering and bowing are said to reflect Joachim's own advice instead."
+    }
   }
 }
