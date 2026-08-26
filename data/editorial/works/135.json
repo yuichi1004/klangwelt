@@ -1,4 +1,14 @@
 {
+  "15431": {
+    "structure": {
+      "ja": "詩篇のヘブライ語原典による歌詞を用いた全3楽章の合唱曲。第1楽章は7拍子、終楽章は2+3+2+3の10拍子など変拍子が特徴で、少年独唱（またはカウンターテナー）と混声合唱に、2台のハープと打楽器を含む編成が独特の響きを生む。",
+      "en": "Set to Hebrew texts drawn directly from the Psalms, this choral work spans three movements marked by irregular meters — a 7/4 opening and a closing chorale grouped 2+3+2+3 in ten beats. Its scoring for boy soloist or countertenor, mixed choir, twin harps, and percussion gives it a distinctive sound."
+    },
+    "story": {
+      "ja": "チチェスター大聖堂首席司祭ウォルター・ハッシーの依頼により1965年に作曲され、まず同年7月にニューヨークで作曲家自身の指揮により初演、その後同年内に大聖堂でも演奏された。第2楽章の男声合唱の主題は、未完に終わった舞台作品や「ウエスト・サイド物語」で使われなかった旋律の転用と伝えられる。",
+      "en": "Commissioned by Walter Hussey, Dean of Chichester Cathedral, Bernstein completed the work in 1965 and first conducted it himself that July in New York, with a cathedral performance following later the same year. The men's theme in the second movement reportedly reuses material cut from an unfinished stage project and from West Side Story."
+    }
+  },
   "15507": {
     "structure": {
       "ja": "全2幕のミュージカル。シェイクスピア「ロミオとジュリエット」を1950年代のニューヨークに置き換え、対立するギャング団の若者たちの恋と悲劇を描く。\nバーンスタインの音楽は、クラシックの交響的な書法とラテン系リズム、ジャズの語法を融合させており、増4度(「マリア」の冒頭に現れる不安定な響きの音程)が全曲を通じて統一的な素材として繰り返し用いられている。",
@@ -7,6 +17,16 @@
     "story": {
       "ja": "構想の起点は1949年、振付師ジェローム・ロビンズが劇作家アーサー・ローレンツと作曲家バーンスタインに、「ロミオとジュリエット」を現代に置き換えた作品を提案したことにさかのぼる。当初はユダヤ系の娘とイタリア系カトリックの青年という設定で、舞台もニューヨークのロウアー・イーストサイドが想定されていた。\nその後計画は一時中断していたが、6年後、別々にハリウッドで働いていたローレンツとバーンスタインが再会し、当時報じられていたロサンゼルスでのメキシコ系住民による暴動のニュースに触発され、プエルトリコ系移民とポーランド系移民の対立という設定に置き換えて構想を再始動させた。台本ローレンツ、作詞スティーヴン・ソンドハイム(この作品がブロードウェイ・デビュー作となった)、振付・演出ロビンズという体制で、1957年9月26日、ニューヨークで初演された。",
       "en": "The idea traces back to 1949, when the choreographer Jerome Robbins proposed to the playwright Arthur Laurents and the composer Bernstein a modern-day Romeo and Juliet. It was first imagined with a Jewish girl and an Italian Catholic boy, set on New York's Lower East Side.\nThe project stalled, but six years later Laurents and Bernstein, both then working separately in Hollywood, reconnected, and news reports of riots involving Mexican-American youth in Los Angeles reshaped the idea into a conflict between Puerto Rican and Polish immigrant gangs. With a book by Laurents, lyrics by Stephen Sondheim (his Broadway debut), and choreography and direction by Robbins, it opened in New York on 26 September 1957."
+    }
+  },
+  "28085": {
+    "structure": {
+      "ja": "独奏ヴァイオリンと弦楽合奏、ハープ、ティンパニに5人の打楽器奏者を加えた編成による全5楽章の作品。プラトンの「饗宴」に登場する語り手たちの名を各楽章に冠し、ファイドロスとパウサニアスから始まりソクラテスとアルキビアデスで結ばれる。",
+      "en": "Scored for solo violin with string orchestra, harp, timpani, and five percussionists, the work unfolds in five movements, each named for a speaker in Plato's Symposium — beginning with Phaedrus and Pausanias and closing with Socrates and Alcibiades, moving from a slow opening to a fast finale."
+    },
+    "story": {
+      "ja": "クーセヴィツキー財団の委嘱により1954年に作曲され、同年秋、ヴェネツィアのフェニーチェ劇場でアイザック・スターンの独奏、イスラエル・フィルハーモニーを相手に作曲家自身の指揮で初演された。指揮者セルゲイ・クーセヴィツキーとその妻ナタリーの追悼に捧げられている。",
+      "en": "Commissioned by the Koussevitzky Foundation, Bernstein completed the score in 1954, and it premiered that autumn in Venice at La Fenice, with Isaac Stern as soloist and the composer conducting the Israel Philharmonic in a performance lasting some thirty minutes. The work is dedicated to the memory of conductor Serge Koussevitzky and his wife, Natalie."
     }
   }
 }

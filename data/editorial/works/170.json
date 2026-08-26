@@ -1,4 +1,14 @@
 {
+  "19512": {
+    "structure": {
+      "ja": "バレエ音楽で、「バカルー・ホリデイ」「コラル・ノクターン」「土曜の夜のワルツ」「ホーダウン」など4曲から成る演奏会用組曲としても知られる。終曲「ホーダウン」は、フィドル奏者の演奏を録音・採譜した民謡旋律に基づいている。",
+      "en": "The ballet score is also known through its four-movement concert suite — Buckaroo Holiday, Corral Nocturne, Saturday Night Waltz, and Hoe-Down. The closing Hoe-Down draws on a fiddle tune that had been recorded from a traditional player and transcribed into a folk-song collection."
+    },
+    "story": {
+      "ja": "振付家アグネス・デミルの依頼により1942年に作曲され、同年10月、ニューヨークのメトロポリタン歌劇場でバレエ・リュス・ド・モンテカルロにより初演、デミル自身が主演を務めた。初演は22回ものカーテンコールを受ける成功を収め、これを見たロジャーズとハマースタインは、後にデミルへミュージカル「オクラホマ！」の振付を依頼したと伝えられる。",
+      "en": "Commissioned by choreographer Agnes de Mille, Copland composed the ballet in 1942, and it premiered that October at New York's Metropolitan Opera House, danced by the Ballet Russe de Monte Carlo with de Mille herself in the lead. The premiere drew twenty-two curtain calls, and Rodgers and Hammerstein, having seen it, later asked de Mille to choreograph Oklahoma!"
+    }
+  },
   "19537": {
     "structure": {
       "ja": "元来はマーサ・グレアムのために書かれたバレエ音楽で、フルート・クラリネット・ファゴット・ピアノと弦楽器という13人編成の室内アンサンブルのために作曲された。今日広く演奏される演奏会用組曲は、1945年にコープランド自身がフル・オーケストラ用に編曲したものである。\n19世紀のペンシルベニアの開拓農家を舞台に、若い夫婦の結婚式当日を描く。曲中で唯一引用される旋律は、シェーカー教徒の讃美歌「シンプル・ギフツ」で、まず素朴に提示されたのち、変奏を重ねながら展開していく。",
@@ -7,6 +17,16 @@
     "story": {
       "ja": "エリザベス・スプレイグ・クーリッジ財団からの委嘱で、議会図書館のために依頼された3作のバレエ音楽のひとつとして作曲された。初演は1944年10月30日、ワシントンの議会図書館内クーリッジ講堂でおこなわれ、マーサ・グレアム自身が花嫁を、エリック・ホーキンスが夫を、マース・カニンガムが伝道師を踊った。\n作曲時の仮題は「マーサのためのバレエ」で、最終的な題名「アパラチアの春」はグレアム自身が、ハート・クレインの詩「橋」の一節から選んだとされる。もっともこの詩句自体はバレエの筋書きとは直接関係がなく、題名の由来としてしばしば逸話的に語られる。この作品により、コープランドは1945年のピューリッツァー賞(音楽部門)を受賞した。",
       "en": "Commissioned by the Elizabeth Sprague Coolidge Foundation, it was one of three ballet scores commissioned for the Library of Congress. It premiered on 30 October 1944 at the Coolidge Auditorium in the Library of Congress, Washington, D.C., with Martha Graham herself dancing the Bride, Erick Hawkins the Husbandman, and Merce Cunningham the Revivalist.\nIts working title during composition was \"Ballet for Martha\"; the final title, Appalachian Spring, is said to have been chosen by Graham herself from a line in Hart Crane's poem The Bridge — a line that, notably, has no direct connection to the ballet's own story, a fact often retold as an anecdote about how the piece got its name. It brought Copland the 1945 Pulitzer Prize for Music."
+    }
+  },
+  "19565": {
+    "structure": {
+      "ja": "単一楽章から成るおよそ10分の管弦楽曲。買い求めた楽譜に基づき、「エル・パロ・ベルデ」など4つのメキシコ民謡旋律を引用し、中でも「エル・パロ・ベルデ」の旋律が反復句として3度現れる。ギロや木魚、タンバリンなど打楽器を効果的に用いる。",
+      "en": "This roughly ten-minute orchestral work in a single movement quotes four Mexican folk melodies drawn from sheet music Copland had purchased, including El Palo Verde, which recurs three times as a refrain. Its percussion section makes prominent use of güiro, temple blocks, and tambourine among other instruments."
+    },
+    "story": {
+      "ja": "同名のメキシコシティの舞踏場に着想を得て数年をかけて作曲され、1937年8月27日、作曲家カルロス・チャベスの指揮によりメキシコシティで初演された。コプランドはガイドブックでこの店の存在を知り、実際にチャベスとともに足を運んだ際に感じた人々の飾らない人間性への共感を、後に自ら語ったと伝えられる。",
+      "en": "Inspired by a Mexico City dance hall of the same name, Copland composed the work over several years and it premiered on 27 August 1937 in Mexico City, conducted by fellow composer Carlos Chávez. He first learned of the venue from a guidebook, and later described a direct sense of connection to the warmth and dignity of the people he encountered there with Chávez."
     }
   },
   "19597": {
