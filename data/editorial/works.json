@@ -129,6 +129,16 @@
       "en": "The work was composed over several years, prompted by a Jewish teenager's assassination of a diplomat on the eve of the Second World War and the wave of persecution that followed. Its libretto, after the poet T. S. Eliot declined to write one, was penned by the composer himself. Premiered in London on 19 March 1944, it was hailed by one newspaper as strikingly original."
     }
   },
+  "1271": {
+    "structure": {
+      "ja": "聖週間の聖務のために書かれた、無伴奏6声（ソプラノ2・アルト・テノール2・バス）のテネブレ・レスポンソリウム集の一部で、聖金曜日用の9曲から成る。鋭い不協和音と大胆な半音階進行によって、キリストの受難とペトロの罪の意識を表現する劇的な書法が特徴。",
+      "en": "Part of a set of Tenebrae Responsories for Holy Week, scored for six unaccompanied voices (two sopranos, alto, two tenors, and bass), comprising nine responsories for Good Friday. Sharp dissonances and daring chromatic shifts give dramatic expression to Christ's Passion and Peter's guilt."
+    },
+    "story": {
+      "ja": "1611年、作曲者自身の居城に設けられた専用の印刷工房から出版された。半音階書法を大胆に用いたそれまでのマドリガーレ集の作風を宗教曲にまで持ち込んだ作品とされ、精神的な苦悩を色濃くにじませる劇的な表現は、後世の研究者にも強い印象を残してきた。",
+      "en": "The collection was published in 1611 from a printing press established at the composer's own castle. It carries into sacred music the same bold chromatic language he had developed in his earlier madrigal books, and its intensely anguished, dramatic expression has continued to leave a strong impression on later scholars."
+    }
+  },
   "1480": {
     "structure": {
       "ja": "3つの楽章すべてがレントで書かれた、緩・緩・緩という異例の構成をとる、ソプラノ独唱を伴う交響曲。単純で反復的な、調性に近い書法は、それ以前のグレツキの前衛的な作風から大きく転じたものである。第1楽章(3楽章中もっとも長い)では、瀕死のわが子を思う聖母マリアの嘆きが、ポーランドの修道院に伝わる中世の文書の詞によって歌われる。第2楽章では、ゲシュタポの独房の壁に十代の少女が書き残したとされる短い祈りの言葉が、第3楽章ではシロンスク地方の民謡の詞が、それぞれ用いられている。\n極端に遅いテンポと持続する弦の響き、単純な三和音を素材とした長大なクレッシェンド・デクレッシェンドが特徴で、のちに「聖なるミニマリズム」と呼ばれる潮流の先駆けのひとつに位置づけられている。",
@@ -749,6 +759,26 @@
       "en": "Composed in 1916, the concerto is dedicated to the violinist Paweł Kochański, who contributed the cadenza and helped edit the solo part, shaping the piece closely. Yet by the time the premiere finally took place, after the upheavals following the First World War, it was reportedly another violinist who performed it instead."
     }
   },
+  "4288": {
+    "structure": {
+      "ja": "4声のラテン語モテットで、歌詞の一節ごとに新たな模倣対称句を導入していく、当時としては先駆的な書法が特徴。各声部が同じ旋律を少しずつ遅れて歌い継ぐ、いわゆるポイント・オブ・イミテーションの技法を用いている。",
+      "en": "A four-voice Latin motet in which each new phrase of text introduces a fresh point of imitation, a forward-looking technique for its time. Successive voices enter with the same melodic idea in staggered succession, weaving the phrases together in turn."
+    },
+    "story": {
+      "ja": "ミラノの宮廷に仕えていた1485年頃に作曲されたとみられ、確実な年代を特定できる作曲者の作品としては最も早いものの一つとされる。1502年、ペトルッチが出版した最初のモテット曲集『モテッティA』の巻頭を飾り、16世紀を通じて広く愛唱される代表作となった。",
+      "en": "Composed around 1485, while the composer was in service at the Milanese court, it is considered one of his earliest reliably datable works. It headed Motetti A, the first printed volume of motets published by Ottaviano Petrucci in 1502, and went on to become one of the most beloved and widely performed pieces of the entire sixteenth century."
+    }
+  },
+  "4321": {
+    "structure": {
+      "ja": "聖歌「パンジェ・リングァ」の旋律に基づくパラフレーズ・ミサで、キリエからアニュス・デイまで全6曲から成る。楽章が進むにつれ聖歌旋律の扱いは徐々に自由になり、「クレド」の「受肉」の箇所では旋律全体が同時進行のホモフォニーで示される。",
+      "en": "A paraphrase mass built on the plainchant hymn 'Pange lingua,' comprising six movements from Kyrie to Agnus Dei. The chant melody is treated with increasing freedom as the mass proceeds, and in the Credo's 'Incarnatus' the whole tune appears in simple, homophonic block chords."
+    },
+    "story": {
+      "ja": "晩年の1515年頃に作曲され、作曲者最後のミサ曲と考えられている。キリエ冒頭の「ド・レ・ファ・ミ・レ・ド」という音型は後世にも影響を残し、バッハのフーガや、モーツァルトの交響曲第41番「ジュピター」終楽章の主題にもその面影が指摘されている。楽譜は作曲者の死後になってようやく出版された。",
+      "en": "Composed around 1515, near the end of his life, it is thought to be his final mass. The 'Do-Re-Fa-Mi-Re-Do' motif that opens the Kyrie left a lasting mark on later music, echoed in fugal writing by Bach and, some have suggested, in the finale theme of Mozart's 'Jupiter' Symphony. The score itself was not published until after the composer's death."
+    }
+  },
   "4432": {
     "structure": {
       "ja": "全2幕の歌劇。古代ガリアを占領するローマに対し、密かに恋人であるローマの総督ポリオーネとの間に2児をもうけたドルイド僧の巫女ノルマの、愛と信仰の板挟みを描く。\n第1幕でノルマが歌う「清らかな女神よ」は、長い息と装飾的な旋律を要求する難曲として知られ、ベルカント様式を代表するアリアのひとつとされる。",
@@ -1309,6 +1339,16 @@
       "en": "Composed between 1901 and 1904, it premiered the following January in Vienna, with baritone Friedrich Weidemann and Mahler himself conducting. He reportedly resumed work on the cycle only weeks after his second daughter's own birth, a choice his wife Alma is said to have found deeply troubling at the time."
     }
   },
+  "7409": {
+    "structure": {
+      "ja": "300曲を超える器楽舞曲を収めた曲集で、大半はフランス宮廷起源のブーレやクーラントであり、一部にイギリスやスペイン起源の曲も含まれる。編成は指定されておらず、ヴァイオリン属の合奏を想定しつつ管楽器での代用も認められていたとみられる。",
+      "en": "A collection of more than three hundred instrumental dances, most drawn from the French court repertoire such as bourrées and courantes, with some pieces of English or Spanish origin mixed in. No fixed instrumentation is specified, though a violin consort was likely intended, with wind instruments allowed as substitutes."
+    },
+    "story": {
+      "ja": "1612年に出版された、作曲者自身の作というより主に編曲・編纂を手掛けた舞曲集で、当初構想されていたより大きな作品集『ムーサエ・アオニアエ』の一部として計画されていたと考えられている。宗教音楽が大半を占める作曲者の作品群の中で唯一のまとまった世俗器楽曲集であり、20世紀の古楽復興運動を通じて再評価された。",
+      "en": "Published in 1612, the collection was mainly arranged and compiled by the composer rather than freshly composed, and is thought to have been conceived as part of a larger planned set called Musae Aioniae. Among a body of work otherwise dominated by sacred Lutheran music, it stands as his one substantial secular instrumental collection, rediscovered and championed during the twentieth-century early-music revival."
+    }
+  },
   "7484": {
     "structure": {
       "ja": "全4楽章の交響曲。冒頭で金管により提示される「運命」の動機が姿を変えながら全曲を貫く循環主題として使われる。第2楽章は郷愁を帯びたカンツォーナ風の緩徐楽章、第3楽章は全編ピチカートで奏される異色のスケルツォで、終楽章ではロシア民謡「野に立つ白樺」の旋律が引用される。",
@@ -1729,6 +1769,16 @@
       "en": "Composed between 1878 and 1881, it is dedicated to his teacher Eduard Marxsen. Brahms himself gave the premiere as soloist in Budapest on 9 November 1881, and the concerto's immediate success led him to tour widely across the continent, performing the technically demanding solo part himself at venue after venue for years to come."
     }
   },
+  "7955": {
+    "structure": {
+      "ja": "2つのテノール声部が定旋律「テリビリス・エスト・ロクス・イステ」を異なる計量記号のもとで4回反復する、アイソリズム様式のモテット。全体は6:4:2:3という比例構造を持ち、この数比の由来をめぐっては研究者の間で見解が分かれている。",
+      "en": "An isorhythmic motet in which two tenor voices repeat the plainchant 'Terribilis est locus iste' four times under different mensuration signs. The overall proportions follow a striking 6:4:2:3 ratio, whose numerical origin remains debated among scholars."
+    },
+    "story": {
+      "ja": "1436年3月25日、ブルネレスキが手掛けたドームの完成を記念するフィレンツェ大聖堂（サンタ・マリア・デル・フィオーレ）の献堂式のために作曲された。その比例構造については、大聖堂建築の寸法を反映するという説と、旧約聖書に記されたソロモン神殿の寸法に由来するという説とが唱えられ、今日でも論争が続いている。",
+      "en": "The motet was composed for the consecration of Florence Cathedral, Santa Maria del Fiore, on 25 March 1436, celebrating the completion of Brunelleschi's dome. Scholars have long debated the source of its numerical proportions, with one theory tracing them to the cathedral's own architecture and another to the dimensions of Solomon's Temple as described in the Old Testament."
+    }
+  },
   "8880": {
     "structure": {
       "ja": "エリザベス1世治世末、カトリック信仰が禁じられた時代に書かれた無伴奏の四声ミサ曲で、キリエからアニュス・デイまでを一続きの楽章としてまとめる。控えめな規模ながら、静謐な対位法による書法が随所に光る。",
@@ -2029,6 +2079,16 @@
       "en": "It was published in 1735 as the first half of the second volume of the Clavier-Übung. Its original title, \"Concerto in the Italian Taste,\" gave rise directly to the name still used today. The collection aimed to display, within a single volume, the range of keyboard styles then fashionable across Europe."
     }
   },
+  "10243": {
+    "structure": {
+      "ja": "詩人タンシッロによる、聖ペトロの悔悟を歌った20篇の詩に曲を付けた無伴奏7声の宗教的マドリガーレ集で、終曲のラテン語モテットを含め全21曲から成る。モードI〜VIIに沿って7曲ずつ3つの組に分けられ、モードVIIIは意図的に用いられていない。",
+      "en": "An unaccompanied cycle of spiritual madrigals for seven voices, setting twenty poems by Luigi Tansillo on Saint Peter's remorse, plus a concluding Latin motet — twenty-one pieces in all. The pieces are grouped into three sets of seven following church modes I through VII, deliberately omitting mode VIII."
+    },
+    "story": {
+      "ja": "死の年である1594年に作曲された、作曲者最後の作品とされる。教皇クレメンス8世に献呈され、その献辞は作曲者が世を去るわずか3週間ほど前の日付を持つという。楽譜は翌年、ミュンヘンで出版された。終曲のモテットでは、キリスト自身が一人称で語りかける形式が取られている。",
+      "en": "Composed in 1594, the year of the composer's death, this is considered his final work. It is dedicated to Pope Clement VIII, with a dedication dated only about three weeks before he died, and the score was published in Munich the following year. In the closing motet, Christ himself is given a voice, speaking in the first person."
+    }
+  },
   "10498": {
     "structure": {
       "ja": "全3幕の歌劇。スコットランドを舞台に、対立する一族に生まれた恋人たちの悲劇を描く。無理やり別の男性と結婚させられたルチーアが、婚礼の夜に錯乱して花婿を刺し、正気を失ったまま歌う「狂乱の場」がこの作品の頂点をなす。\n狂乱の場では、フルートが独奏ヴァイオリンのように独唱と絡み合いながら旋律を交わす書き方がなされ、超絶技巧の装飾歌唱と劇的な演技の両方が歌手に求められる。",
@@ -2137,6 +2197,16 @@
     "story": {
       "ja": "1720年代から1730年ごろにかけて作曲されたとみられる。同時期の別の合奏協奏曲「ごしきひわ」の室内楽版と、まったく同じ紙が用いられていることが自筆譜の研究から分かっており、これが作曲時期を推定するうえでの重要な手がかりの一つとなっている。",
       "en": "Likely composed sometime between the 1720s and around 1730, the concerto's dating rests partly on manuscript research showing it shares the very same paper stock as a chamber version of his own concerto \"Il Gardellino,\" which was itself composed by Vivaldi around that same busy period of his own career."
+    }
+  },
+  "12890": {
+    "structure": {
+      "ja": "独奏リュートのための、ト短調のパヴァーヌ。「流れよ、わが涙」の名で知られる主題に基づき、5声のヴィオル合奏とリュートのための曲集『ラクリメ、または七つの涙』とは異なる、この主題の独奏版にあたる。",
+      "en": "A pavan for solo lute in G minor, built on the theme later known as 'Flow my tears.' It is a solo version of this theme distinct from the five-viol-and-lute consort collection titled 'Lachrimae, or Seaven Teares.'"
+    },
+    "story": {
+      "ja": "1590年頃に作曲されたとみられ、後にリュート歌曲「流れよ、わが涙」や、1604年に出版された合奏用の曲集『ラクリメ、または七つの涙』の原型になったと考えられている。同じ主題を用いたこれら一連の「涙」の曲は、作曲者の憂愁に満ちた作風を象徴する代表作として知られる。",
+      "en": "Composed around 1590, the piece is thought to be the original source for both the later lute song 'Flow my tears' and the 1604 consort collection 'Lachrimae, or Seaven Teares.' This whole family of pieces built on the same 'tears' theme has come to symbolize the composer's melancholic musical idiom."
     }
   },
   "13009": {
@@ -2337,6 +2407,16 @@
     "story": {
       "ja": "1897年に作曲され、副題に「ゲーテのバラードによるスケルツォ」と記されている。同年5月18日、パリで作曲者自身の指揮により初演された。\nデュカスは寡作かつ自己批判の厳しい作曲家で、生前に出版を許した作品は数曲にとどまる。この曲は例外的に早くから高く評価され、今日でも彼の代表作として広く知られている。",
       "en": "Composed in 1897 and subtitled \"Scherzo after a ballad by Goethe,\" it premiered under his own baton in Paris on 18 May that year.\nDukas wrote sparingly and was harshly self-critical, allowing only a handful of works to be published in his lifetime. This piece was an exception, acclaimed early and remaining his best-known work to this day."
+    }
+  },
+  "14170": {
+    "structure": {
+      "ja": "全曲がメンスーラ・カノン（プロラツィオ・カノン）のみで書かれたミサ曲で、キリエからアニュス・デイまで各楽章ごとに声部間のカノンの音程がしだいに広がっていく。第1キリエでは2/2・3/2・6/4・9/4という異なる拍節が同時に用いられる。",
+      "en": "A mass built entirely from mensuration canons, in which the canonic interval between paired voices widens with each successive movement, from unison in the Kyrie to an octave by the Sanctus. The opening Kyrie combines four different simultaneous meters."
+    },
+    "story": {
+      "ja": "作曲年代は特定されていないが、対位法的な仕掛けの精緻さから作曲者晩年の作とみる説が有力で、2度・3度・6度・7度のカノンを用いた最初期の作品ともいわれる。20世紀のある研究者は、この曲を「15世紀における対位法上、最も驚異的な達成」と評している。",
+      "en": "Although its exact date of composition is unknown, its intricate contrapuntal design has led many scholars to place it late in the composer's life, and it is said to be among the earliest works to use canons at the second, third, sixth, and seventh. Modern commentators still single it out as one of the boldest displays of pure contrapuntal craft to survive from its century."
     }
   },
   "14243": {
@@ -3657,6 +3737,16 @@
     "story": {
       "ja": "アレクサンドル・プーシキンの物語詩(1820年)に基づく歌劇で、1837年から1842年にかけて、断続的に作曲された。当初プーシキン自身が台本づくりに協力する計画もあったが、同年の決闘による死によって果たされず、複数の手による台本作りが難航したことも、成立に長い年月を要した一因とされる。\n初演は1842年11月27日(ロシア旧暦、西暦では12月9日)、サンクトペテルブルクのボリショイ・カメンヌイ劇場で、カール・アルブレヒトの指揮によりおこなわれた。当時のイタリア・オペラに親しんだ聴衆には、グリンカが用いたロシア民俗音楽由来の和声法が粗野に映り、波乱に富んだおとぎ話風の筋書きも戸惑いを招いたとされ、初演の評判は芳しくなかった。しかし19世紀後半、いわゆる「ロシア五人組」の作曲家たちに強く支持されたことをきっかけに、ロシア国民楽派オペラの礎として広く評価されるようになった。",
       "en": "Based on Alexander Pushkin's 1820 narrative poem, the opera was composed intermittently between 1837 and 1842. Pushkin himself had once planned to help adapt his own poem for the libretto, but his death that year in a duel cut those plans short, and the resulting multi-author libretto process is one reason the opera took so long to complete.\nIt premiered on 27 November 1842 (Old Style; 9 December by the Gregorian calendar) at the Bolshoi Kamenny Theatre in St Petersburg, conducted by Karl Albrecht. Audiences accustomed to Italian opera reportedly found Glinka's harmonies, rooted in Russian folk idiom, crude, and the sprawling, episodic fairy-tale plot left many bewildered, so the premiere's reception was lukewarm. Later in the century, though, strong advocacy from the composers of the so-called \"Mighty Handful\" helped establish it as a foundational work of Russian national opera."
+    }
+  },
+  "17711": {
+    "structure": {
+      "ja": "トリプルム・モテトゥス・テノール・コントラテノールの4声から成る、キリエ・グローリア・クレド・サンクトゥス・アニュス・デイに終結句イテ・ミサ・エストを加えた全6曲構成のミサ曲。キリエ・サンクトゥス・アニュスなどの旋律は既存の聖歌に基づく。",
+      "en": "Scored for four voices — triplum, motetus, tenor, and contratenor — the mass sets six texts: Kyrie, Gloria, Credo, Sanctus, Agnus Dei, and the closing Ite missa est. The Kyrie, Sanctus, and Agnus Dei movements draw their melodic material from existing plainchant."
+    },
+    "story": {
+      "ja": "1360年頃、ランス大聖堂の聖堂参事会員を務めていた作曲者によって書かれたとみられ、毎週土曜日に行われる聖母ミサのために用いられたと考えられている。単独の作曲家による現存最古の完全なミサ通常文の作曲例とされ、後世のミサ曲の書き方に大きな影響を残した。",
+      "en": "Composed around 1360 while the composer held a canonry at Reims Cathedral, the mass is thought to have been written for the Saturday Lady Mass. It is widely regarded as the earliest complete setting of the Mass Ordinary by a single named composer, and it left a lasting mark on how later composers approached the mass as a unified musical whole."
     }
   },
   "18023": {
@@ -5525,6 +5615,16 @@
       "en": "Composed in 1960, it was originally conceived as an abstract, non-programmatic piece titled \"8'37\"\" after its approximate duration, and it took third prize that year at the Grzegorz Fitelberg Composers' Competition in Katowice. Only after hearing it performed and recorded did Penderecki himself sense an emotional charge in it beyond pure abstraction, and he is said to have retitled the piece and dedicated it to the victims of Hiroshima sometime afterward.\nIts public premiere came on 22 September 1961 at the Warsaw Autumn Festival, with the Kraków Philharmonic Symphony Orchestra under Andrzej Markowski (a radio broadcast performance by the Polish Radio Symphony Orchestra had already aired that May). It was performed in Hiroshima itself on 1 December 1964, and the piece brought the young Penderecki international fame almost overnight."
     }
   },
+  "25307": {
+    "structure": {
+      "ja": "降誕祭の応唱聖歌に基づく、無伴奏4声（ソプラノ・アルト・テノール・バス）のラテン語モテット。降誕の神秘を歌う瞑想的な曲調で知られ、今日のルネサンス期宗教音楽を代表する曲の一つに数えられている。",
+      "en": "A four-voice unaccompanied Latin motet, SATB, based on a chant sung as a responsory during Christmas matins. Known for its meditative treatment of the mystery of the Nativity, it ranks among the most celebrated sacred works of the entire Renaissance."
+    },
+    "story": {
+      "ja": "1572年、モテット曲集『モテクタ 第1巻』の一曲として出版された。この旋律的な素材は作曲者自身によって再利用され、1592年には同じ主題に基づくパロディ・ミサ曲「オー・マグヌム・ミステリウム」も生み出されている。降誕節に歌われる曲として、今日でも各地の聖歌隊で広く親しまれている。",
+      "en": "The motet was published in 1572 as part of the collection Motecta, Liber primus. The composer later reused its material himself, basing a parody mass, the Missa O magnum mysterium, on the same themes in 1592. It remains a Christmas-season staple, still widely sung by choirs around the world today."
+    }
+  },
   "25464": {
     "structure": {
       "ja": "四部から成るオラトリオで、春夏秋冬をそれぞれ描く。独唱にはハンネ(ソプラノ)、ルーカス(テノール)、シモン(バス)の3人の農民が扮し、合唱と共に狩りの角笛や収穫祭の踊り、雷雨の情景などを描写する。",
@@ -5833,6 +5933,26 @@
     "story": {
       "ja": "バレエ「ガイーヌ」は1942年、それ以前に書いた「幸福」（1939年）という作品を土台に作曲され、同年12月9日、疎開先のペルミで初演された。コルホーズ（集団農場）を舞台に、愛国的な女性ガイーヌとその夫の物語を描く。\n「剣の舞」はバレエ全体を書き上げたあとに追加された曲で、もとは「クルド人の踊り」という題で構想されていたと伝えられる。この曲によりハチャトゥリアンはスターリン賞を受けた。",
       "en": "The ballet Gayane was composed in 1942, built on an earlier work of his called Happiness (1939), and premiered on 9 December that year in Perm, where the theatre had been evacuated during the war. Set on a Soviet collective farm, it follows the patriotic Gayane and her husband.\nThe Sabre Dance was added after the rest of the score was finished, and is said to have originally been conceived under the title \"Dance of the Kurds.\" The work won Khachaturian a Stalin Prize."
+    }
+  },
+  "27260": {
+    "structure": {
+      "ja": "クリスマスの昇階唱を歌詞とする4声のオルガヌム・クアドルプルムで、ノートル・ダム楽派の様式による。独唱部分のみが多声で歌われ、合唱による単旋律のグレゴリオ聖歌と交互に置かれる構成を取る。",
+      "en": "A four-voice organum quadruplum setting the Christmas gradual chant, in the elaborate style of the Notre-Dame school. Only the solo passages are set polyphonically; they alternate with monophonic Gregorian chant sung by the full choir."
+    },
+    "story": {
+      "ja": "1198年頃、パリのノートル・ダム大聖堂で歌われたとみられ、前任者レオナンが編んだ聖歌集『大オルガヌム曲集』を改訂・増補する中で生まれたとされる。13世紀の理論書『アノニムス4世』は、レオナンを「オルガヌムの名手」、ペロタンを「ディスカントゥスの名手」と呼び分けて称えている。",
+      "en": "Composed around 1198 for use at Notre-Dame Cathedral in Paris, the work grew out of Pérotin's revision and expansion of the Magnus Liber Organi, the great collection of organum compiled by his predecessor Léonin. The thirteenth-century treatise attributed to Anonymous IV praises Léonin as the finest organum composer and Pérotin as the finest discantor."
+    }
+  },
+  "27271": {
+    "structure": {
+      "ja": "クリスマスの昇階唱に基づく2声のオルガヌム・ドゥプルムで、下声部が聖歌の旋律を長く引き伸ばして保持し、上声部がその上に華やかな旋律を添えていく、いわゆる「オルガヌム・プルム」様式で書かれている。",
+      "en": "A two-voice organum duplum based on the Christmas gradual chant, written in the florid style called organum purum: the lower voice sustains the chant melody in long notes while the upper voice weaves ornate lines above it."
+    },
+    "story": {
+      "ja": "パリのノートル・ダム大聖堂で活動したとされる、名前が伝わる同楽派最初期の作曲家による作品で、聖務を充実させる目的で編まれた聖歌集『大オルガヌム曲集』の一部をなす。この曲集は後継者ペロタンによって改訂・増補されるまで長く用いられ続けたと、13世紀の理論書『アノニムス4世』に記されている。",
+      "en": "The work comes from the Magnus Liber Organi, a collection of organum assembled to enrich the liturgy by the earliest named composer associated with the Notre-Dame school in Paris. According to the thirteenth-century treatise attributed to Anonymous IV, this collection remained in use for generations until it was revised and expanded by his successor, Pérotin."
     }
   },
   "28083": {
