@@ -9,6 +9,16 @@
       "en": "Acts 1 and 2 were finished by August 1857, at which point Wagner set the opera aside to write Tristan und Isolde and Die Meistersinger. He did not return to compose Act 3 of Siegfried until 1869.\nBy then he had passed through the harmonic language he forged in Tristan and had become, in effect, a different composer. The music of the final act, in which Siegfried loses his fearlessness and awakens to love for Brünnhilde, is generally held to be something he could only have written after that gap."
     }
   },
+  "15728": {
+    "structure": {
+      "ja": "全3幕のオペラ。冒頭「トリスタン和音」に象徴される、既存の調性感を大きく揺るがす革新的な和声法で知られ、後の音楽史に決定的な影響を及ぼした作品である。第2幕の「愛の二重唱」、第3幕の「愛の死」がとりわけ有名。",
+      "en": "A three-act opera renowned for its revolutionary chromatic harmony, symbolized by the famously ambiguous \"Tristan chord\" heard in its opening bars, a harmonic innovation that profoundly reshaped the later course of music history. Its Act 2 love duet and Act 3 \"Liebestod\" remain especially celebrated."
+    },
+    "story": {
+      "ja": "1857年から作曲が始められ、1865年6月10日、ミュンヘンの宮廷劇場で、指揮ハンス・フォン・ビューローのもと初演された。主演はルートヴィヒ・シュノル・フォン・カロルスフェルトとその妻マルヴィーナが務めた。当時の音楽界には衝撃をもって迎えられ、クララ・シューマンは強い嫌悪感を示したと伝えられる。",
+      "en": "Composed beginning in 1857, it premiered on 10 June 1865 at the Court Theatre in Munich, conducted by Hans von Bülow, with Ludwig Schnorr von Carolsfeld and his wife, Malvina, singing the title roles. It struck the musical world with real force at the time, and Clara Schumann reportedly reacted to it with something close to revulsion."
+    }
+  },
   "15735": {
     "structure": {
       "ja": "全3幕の楽劇で、4部作「ニーベルングの指環」の第2作にあたる。有名な「ワルキューレの騎行」は第3幕冒頭、戦死者を天上へ運ぶ8人の戦乙女たちが集う場面の音楽である。\n「指環」の名にふさわしく、登場人物や感情を表す短い動機（ライトモティーフ）が全曲を通じて繰り返し形を変えて現れ、音楽そのものが物語の筋を語る仕組みになっている。",
@@ -17,6 +27,26 @@
     "story": {
       "ja": "「ワルキューレの騎行」の主題は1851年に書き留められ、1854年までに全曲のオーケストレーションが仕上げられた。ワーグナーは4部作をまとめて上演する構想を持っていたため、この曲を含む「ワルキューレ」単独の上演には消極的だった。\nしかし後援者バイエルン国王ルートヴィヒ2世の強い意向により、1870年6月26日、ミュンヘンで単独初演されることになった。「指環」全曲がワーグナー自身の構想どおりバイロイト祝祭劇場で上演されたのは、それから6年後の1876年である。",
       "en": "The theme of the \"Ride of the Valkyries\" was sketched in 1851, and the full orchestration was finished by 1854. Wagner intended the four operas of the Ring to be staged together, and was reluctant to let Die Walküre be performed on its own.\nHis patron, King Ludwig II of Bavaria, insisted on it anyway, and the opera received its own premiere in Munich on 26 June 1870. The complete Ring cycle, staged as Wagner had originally envisioned, followed six years later, in 1876, at his own Bayreuth Festival Theatre."
+    }
+  },
+  "15743": {
+    "structure": {
+      "ja": "室内アンサンブルのための管弦楽曲。ワーグナー自身の指揮のもと、妻コジマの誕生日を祝う私的な贈り物として、自邸の階段で内密に初演された作品である。原曲は独奏楽器13名という小さな編成で書かれていた。",
+      "en": "An orchestral work originally scored for a small chamber ensemble of just thirteen players, composed as a private birthday gift for his wife, Cosima, and first performed secretly on the staircase of their own villa under Wagner's own direction."
+    },
+    "story": {
+      "ja": "1870年に作曲され、同年12月25日、ルツェルンの別荘トリプシェンで、ワーグナー自身の指揮により内輪だけで初演された。トランペット奏者ハンス・リヒターは、演奏を悟られぬよう、湖に出てひそかに練習を重ねたと伝えられる。1878年、出版社ショットに売却され、広く一般に知られるようになった。",
+      "en": "Composed in 1870, it was first performed that Christmas morning at the Wagners' villa in Tribschen, near Lucerne, conducted privately by Wagner himself. Trumpeter Hans Richter reportedly practiced his brief part out on the lake beforehand so as not to give the surprise away. It was sold to the publisher Schott in 1878, bringing it before a wider public."
+    }
+  },
+  "15752": {
+    "structure": {
+      "ja": "詩人でもあった、パトロンの妻マティルデ・ヴェーゼンドンクの詩による全5曲の歌曲集。「夢」と「温室にて」の2曲は、のちの楽劇「トリスタンとイゾルデ」のための習作として書かれたと、ワーグナー自身が位置づけている。",
+      "en": "Five songs setting poems by Mathilde Wesendonck, wife of Wagner's patron and herself the poems' author. Wagner himself described two of the songs, \"Träume\" and \"Im Treibhaus,\" as studies written in preparation for his opera Tristan und Isolde."
+    },
+    "story": {
+      "ja": "1857年から翌年にかけて作曲された。1862年、マインツの出版社ショット邸で、ソプラノのエミーリエ・ゲナストとピアノのハンス・フォン・ビューローにより私的に初演されたとみられる。マティルデが自ら詩を書いたことは、当時は公にされていなかった。",
+      "en": "Composed in 1857 and into the following year, the songs are thought to have received a private premiere in 1862 at the publisher Schott's residence in Mainz, sung by soprano Emilie Genast with Hans von Bülow at the piano. Mathilde's own authorship of the poems was not publicly acknowledged at the time."
     }
   },
   "15755": {
@@ -37,6 +67,16 @@
     "story": {
       "ja": "構想の起源は古く、1845年、療養のため訪れたボヘミアの温泉地で読んだドイツ文学史の本から、ニュルンベルクのマイスタージンガーと、実在した詩人ハンス・ザックスの姿に着想を得たとされる。\n実際の作曲は1862年から1867年にかけて、「ジークフリート」の作曲を中断していた時期におこなわれた。当時ワーグナーは差し迫った資金難を抱えており、比較的手早く上演収入が見込める喜劇を書こうとしたことも動機のひとつだったと伝えられる。初演は1868年6月21日、ミュンヘンの宮廷劇場でおこなわれた。",
       "en": "The idea dates back to 1845, when Wagner, taking a cure at a Bohemian spa, read a history of German literature that gave him a vivid picture of Nuremberg's Mastersingers and the real historical poet Hans Sachs.\nThe actual composition took place between 1862 and 1867, during a break from working on Siegfried. Wagner was under pressing financial strain at the time, and part of his motive is said to have been to write a comedy that could bring in performance income relatively quickly. It premiered on 21 June 1868 at the court theatre in Munich."
+    }
+  },
+  "15765": {
+    "structure": {
+      "ja": "全3幕からなる、ワーグナー最後の作品。作曲者自身は通常のオペラと区別し、「舞台神聖祝典劇」と呼んだ。バイロイト祝祭劇場での上演を前提に書かれ、特別に鋳造された「パルジファルの鐘」も用いられる。",
+      "en": "A three-act work, Wagner's last, which he himself described not as an opera but as a \"stage-consecrating festival play.\" Composed specifically for the Bayreuth Festspielhaus, it calls for a set of specially cast bells built just for the occasion."
+    },
+    "story": {
+      "ja": "1877年から本格的な作曲が進められ、1882年1月13日に完成した。同年7月26日、バイロイト祝祭劇場で、指揮ヘルマン・レーヴィのもと初演された。主演はヘルマン・ヴィンケルマンとアマーリエ・マテルナが務めた。少年時代にこの上演に接した作曲家マックス・レーガーは、音楽家を志す大きな契機になったと語ったと伝えられる。",
+      "en": "Composed in earnest from 1877 onward, the score was completed on 13 January 1882. It premiered that July at the Bayreuth Festspielhaus, conducted by Hermann Levi with Hermann Winkelmann and Amalie Materna in the leading roles. Composer Max Reger, who heard it as a boy, reportedly later called the experience decisive in his choice to become a musician."
     }
   },
   "15772": {

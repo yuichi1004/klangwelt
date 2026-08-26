@@ -2319,6 +2319,16 @@
       "en": "Acts 1 and 2 were finished by August 1857, at which point Wagner set the opera aside to write Tristan und Isolde and Die Meistersinger. He did not return to compose Act 3 of Siegfried until 1869.\nBy then he had passed through the harmonic language he forged in Tristan and had become, in effect, a different composer. The music of the final act, in which Siegfried loses his fearlessness and awakens to love for Brünnhilde, is generally held to be something he could only have written after that gap."
     }
   },
+  "15728": {
+    "structure": {
+      "ja": "全3幕のオペラ。冒頭「トリスタン和音」に象徴される、既存の調性感を大きく揺るがす革新的な和声法で知られ、後の音楽史に決定的な影響を及ぼした作品である。第2幕の「愛の二重唱」、第3幕の「愛の死」がとりわけ有名。",
+      "en": "A three-act opera renowned for its revolutionary chromatic harmony, symbolized by the famously ambiguous \"Tristan chord\" heard in its opening bars, a harmonic innovation that profoundly reshaped the later course of music history. Its Act 2 love duet and Act 3 \"Liebestod\" remain especially celebrated."
+    },
+    "story": {
+      "ja": "1857年から作曲が始められ、1865年6月10日、ミュンヘンの宮廷劇場で、指揮ハンス・フォン・ビューローのもと初演された。主演はルートヴィヒ・シュノル・フォン・カロルスフェルトとその妻マルヴィーナが務めた。当時の音楽界には衝撃をもって迎えられ、クララ・シューマンは強い嫌悪感を示したと伝えられる。",
+      "en": "Composed beginning in 1857, it premiered on 10 June 1865 at the Court Theatre in Munich, conducted by Hans von Bülow, with Ludwig Schnorr von Carolsfeld and his wife, Malvina, singing the title roles. It struck the musical world with real force at the time, and Clara Schumann reportedly reacted to it with something close to revulsion."
+    }
+  },
   "15735": {
     "structure": {
       "ja": "全3幕の楽劇で、4部作「ニーベルングの指環」の第2作にあたる。有名な「ワルキューレの騎行」は第3幕冒頭、戦死者を天上へ運ぶ8人の戦乙女たちが集う場面の音楽である。\n「指環」の名にふさわしく、登場人物や感情を表す短い動機（ライトモティーフ）が全曲を通じて繰り返し形を変えて現れ、音楽そのものが物語の筋を語る仕組みになっている。",
@@ -2327,6 +2337,26 @@
     "story": {
       "ja": "「ワルキューレの騎行」の主題は1851年に書き留められ、1854年までに全曲のオーケストレーションが仕上げられた。ワーグナーは4部作をまとめて上演する構想を持っていたため、この曲を含む「ワルキューレ」単独の上演には消極的だった。\nしかし後援者バイエルン国王ルートヴィヒ2世の強い意向により、1870年6月26日、ミュンヘンで単独初演されることになった。「指環」全曲がワーグナー自身の構想どおりバイロイト祝祭劇場で上演されたのは、それから6年後の1876年である。",
       "en": "The theme of the \"Ride of the Valkyries\" was sketched in 1851, and the full orchestration was finished by 1854. Wagner intended the four operas of the Ring to be staged together, and was reluctant to let Die Walküre be performed on its own.\nHis patron, King Ludwig II of Bavaria, insisted on it anyway, and the opera received its own premiere in Munich on 26 June 1870. The complete Ring cycle, staged as Wagner had originally envisioned, followed six years later, in 1876, at his own Bayreuth Festival Theatre."
+    }
+  },
+  "15743": {
+    "structure": {
+      "ja": "室内アンサンブルのための管弦楽曲。ワーグナー自身の指揮のもと、妻コジマの誕生日を祝う私的な贈り物として、自邸の階段で内密に初演された作品である。原曲は独奏楽器13名という小さな編成で書かれていた。",
+      "en": "An orchestral work originally scored for a small chamber ensemble of just thirteen players, composed as a private birthday gift for his wife, Cosima, and first performed secretly on the staircase of their own villa under Wagner's own direction."
+    },
+    "story": {
+      "ja": "1870年に作曲され、同年12月25日、ルツェルンの別荘トリプシェンで、ワーグナー自身の指揮により内輪だけで初演された。トランペット奏者ハンス・リヒターは、演奏を悟られぬよう、湖に出てひそかに練習を重ねたと伝えられる。1878年、出版社ショットに売却され、広く一般に知られるようになった。",
+      "en": "Composed in 1870, it was first performed that Christmas morning at the Wagners' villa in Tribschen, near Lucerne, conducted privately by Wagner himself. Trumpeter Hans Richter reportedly practiced his brief part out on the lake beforehand so as not to give the surprise away. It was sold to the publisher Schott in 1878, bringing it before a wider public."
+    }
+  },
+  "15752": {
+    "structure": {
+      "ja": "詩人でもあった、パトロンの妻マティルデ・ヴェーゼンドンクの詩による全5曲の歌曲集。「夢」と「温室にて」の2曲は、のちの楽劇「トリスタンとイゾルデ」のための習作として書かれたと、ワーグナー自身が位置づけている。",
+      "en": "Five songs setting poems by Mathilde Wesendonck, wife of Wagner's patron and herself the poems' author. Wagner himself described two of the songs, \"Träume\" and \"Im Treibhaus,\" as studies written in preparation for his opera Tristan und Isolde."
+    },
+    "story": {
+      "ja": "1857年から翌年にかけて作曲された。1862年、マインツの出版社ショット邸で、ソプラノのエミーリエ・ゲナストとピアノのハンス・フォン・ビューローにより私的に初演されたとみられる。マティルデが自ら詩を書いたことは、当時は公にされていなかった。",
+      "en": "Composed in 1857 and into the following year, the songs are thought to have received a private premiere in 1862 at the publisher Schott's residence in Mainz, sung by soprano Emilie Genast with Hans von Bülow at the piano. Mathilde's own authorship of the poems was not publicly acknowledged at the time."
     }
   },
   "15755": {
@@ -2347,6 +2377,16 @@
     "story": {
       "ja": "構想の起源は古く、1845年、療養のため訪れたボヘミアの温泉地で読んだドイツ文学史の本から、ニュルンベルクのマイスタージンガーと、実在した詩人ハンス・ザックスの姿に着想を得たとされる。\n実際の作曲は1862年から1867年にかけて、「ジークフリート」の作曲を中断していた時期におこなわれた。当時ワーグナーは差し迫った資金難を抱えており、比較的手早く上演収入が見込める喜劇を書こうとしたことも動機のひとつだったと伝えられる。初演は1868年6月21日、ミュンヘンの宮廷劇場でおこなわれた。",
       "en": "The idea dates back to 1845, when Wagner, taking a cure at a Bohemian spa, read a history of German literature that gave him a vivid picture of Nuremberg's Mastersingers and the real historical poet Hans Sachs.\nThe actual composition took place between 1862 and 1867, during a break from working on Siegfried. Wagner was under pressing financial strain at the time, and part of his motive is said to have been to write a comedy that could bring in performance income relatively quickly. It premiered on 21 June 1868 at the court theatre in Munich."
+    }
+  },
+  "15765": {
+    "structure": {
+      "ja": "全3幕からなる、ワーグナー最後の作品。作曲者自身は通常のオペラと区別し、「舞台神聖祝典劇」と呼んだ。バイロイト祝祭劇場での上演を前提に書かれ、特別に鋳造された「パルジファルの鐘」も用いられる。",
+      "en": "A three-act work, Wagner's last, which he himself described not as an opera but as a \"stage-consecrating festival play.\" Composed specifically for the Bayreuth Festspielhaus, it calls for a set of specially cast bells built just for the occasion."
+    },
+    "story": {
+      "ja": "1877年から本格的な作曲が進められ、1882年1月13日に完成した。同年7月26日、バイロイト祝祭劇場で、指揮ヘルマン・レーヴィのもと初演された。主演はヘルマン・ヴィンケルマンとアマーリエ・マテルナが務めた。少年時代にこの上演に接した作曲家マックス・レーガーは、音楽家を志す大きな契機になったと語ったと伝えられる。",
+      "en": "Composed in earnest from 1877 onward, the score was completed on 13 January 1882. It premiered that July at the Bayreuth Festspielhaus, conducted by Hermann Levi with Hermann Winkelmann and Amalie Materna in the leading roles. Composer Max Reger, who heard it as a boy, reportedly later called the experience decisive in his choice to become a musician."
     }
   },
   "15772": {
@@ -3109,6 +3149,46 @@
       "en": "It was originally titled \"Hand in Hand,\" conceived in August 1889 as a musical toast symbolising friendship between Austria and Germany, on the occasion of Emperor Franz Joseph I's visit to Emperor Wilhelm II.\nAt the suggestion of his publisher Fritz Simrock, the title was changed to Kaiser-Walzer (\"Emperor Waltz\"), ambiguous enough to allude to either monarch; the cover of the piano edition carried an image of the Austrian imperial crown. It premiered in Berlin on 21 October that year."
     }
   },
+  "18509": {
+    "structure": {
+      "ja": "イ長調で書かれた、快活な性格の単一楽章のポルカ。曲名の「トリッチ・トラッチ」は、他愛のないおしゃべりやゴシップを意味し、当時ロシア公演中の作曲家をめぐる噂話を当てこすったものとも言われている。",
+      "en": "A brisk, single-movement polka in A major. Its title, roughly meaning idle chatter or gossip, is thought by some to poke fun at rumors then circulating about the composer's own romantic life during his concert tour of Russia."
+    },
+    "story": {
+      "ja": "1858年秋に作曲され、同年11月24日、ウィーンで初演された。出版社カール・ハスリンガーから同年中に出版されている。初演直後の劇場新聞では、その新鮮な響きとオーケストレーションが高く評価されたと伝えられ、ピアノ編曲版もまたたく間に売り切れたという。",
+      "en": "Composed in the autumn of 1858, it premiered that November in Vienna and was published the same year by Carl Haslinger. A theater newspaper reportedly praised its fresh sound and orchestration soon after the premiere, and piano arrangements of the piece are said to have sold out almost immediately afterward."
+    }
+  },
+  "18562": {
+    "structure": {
+      "ja": "弟ヨーゼフ・シュトラウスとの合作によるポルカ。曲名の通り、金管や木管をいっさい用いず、弦楽器のピッツィカートと打楽器のみで演奏される、当時としてはかなり珍しい編成で書かれた軽妙な小品である。",
+      "en": "A short polka jointly composed with his brother, Josef Strauss. As its title suggests, it is scored quite unusually for strings played entirely pizzicato and light percussion alone, without any winds or brass instruments whatsoever appearing anywhere in the score."
+    },
+    "story": {
+      "ja": "1869年、兄弟の合作として作曲され、同年6月24日、ロシアのパヴロフスクでの夏の演奏旅行中に初演された。同年11月には、指揮ヨーゼフ・シュトラウスのもと、ウィーンのゾフィエンザールでも初演されている。発表当初から人気を博し、今日もなお定番の演目として親しまれている。",
+      "en": "Composed jointly by the two brothers in 1869, it premiered that June in Pavlovsk, Russia, during their summer concert tour together. A Vienna premiere followed that November at the Sofienbad-Saal, conducted by Josef Strauss himself. It was an immediate favorite from the start and remains a staple of the repertoire today."
+    }
+  },
+  "18858": {
+    "structure": {
+      "ja": "全3幕からなるオペレッタ。フランスの戯曲「レヴェイヨン」に基づき、ハフナーとジェネによって台本化された。第2幕、オルロフスキー公爵邸の仮面舞踏会を舞台にした場面が作品の中心をなす。",
+      "en": "A three-act operetta based on the French play Le Réveillon, adapted into a libretto by Karl Haffner and Richard Genée. Its central scene unfolds at a masked ball hosted by Prince Orlofsky, occupying the whole of the second act."
+    },
+    "story": {
+      "ja": "1874年に作曲され、同年4月5日、ウィーンのアン・デア・ウィーン劇場で、シュトラウス自身の指揮のもと初演された。同年のうちにニューヨークでも上演され、以後急速に各地へ広まった。パリでの翻案上演は当初不評だったが、後年、原題のまま定着している。",
+      "en": "Composed in 1874, it premiered that April at the Theater an der Wien in Vienna, conducted by Strauss himself. It reached New York that same year and spread rapidly elsewhere afterward. An early Paris adaptation initially failed to catch on, though the operetta later took hold there under its own original title."
+    }
+  },
+  "18887": {
+    "structure": {
+      "ja": "全5曲のワルツからなる作品。冒頭に置かれた100小節を超える長大な序奏部が特徴で、そこでは民俗楽器ツィターが独奏を奏でる。第2ワルツでは独奏ヴァイオリンとフルートによる技巧的な経過句も置かれている。",
+      "en": "A sequence of five waltzes preceded by an unusually long introduction running well over a hundred bars, featuring a solo for the folk instrument zither. The second waltz includes a technically demanding passage for solo violin and flute."
+    },
+    "story": {
+      "ja": "1868年6月19日、ウィーンのフォルクスガルテンで行われた、弟ヨーゼフとエドゥアルトのための慈善演奏会で、シュトラウス自身の指揮のもと初演された。宮廷儀典長を務めた侯爵コンスタンティン・ホーエンローエ=シリングスフュルストに献呈されている。父ヨハン・シュトラウス1世のワルツの旋律を引用した一節も含まれている。",
+      "en": "It premiered on 19 June 1868 at the Volksgarten in Vienna, at a benefit concert for his brothers Josef and Eduard, conducted by Strauss himself. It is dedicated to Prince Konstantin zu Hohenlohe-Schillingsfürst, the imperial court's chief master of ceremonies. One passage quotes a melody from a waltz by his own father, Johann Strauss I."
+    }
+  },
   "18889": {
     "structure": {
       "ja": "序奏と5つのワルツ、コーダからなるウィンナ・ワルツ。序奏は静かなトレモロに乗ってワルツの主題を予告し、そこから性格の異なる5つのワルツが次々と続く。\n最初のワルツ主題は分散和音を上昇していく親しみやすい旋律で、以後のワルツはそれぞれ異なる調・拍節感の揺らぎを見せながら、最後は序奏の回想を経て華やかに閉じられる。",
@@ -3199,6 +3279,16 @@
       "en": "Written with the librettist Hugo von Hofmannsthal, it was composed between 1909 and 1910; the finale's music was finished on 26 September that year.\nIt premiered on 26 January 1911 at the court opera in Dresden and caused a sensation, drawing twenty-one curtain calls on opening night and, reportedly, extra trains laid on from Berlin and elsewhere to bring in audiences eager to see the new work. Hofmannsthal had already supplied the play behind Elektra, but this was the pair's first full collaboration as composer and librettist."
     }
   },
+  "19619": {
+    "structure": {
+      "ja": "ソプラノ独唱と管弦楽のための全4曲の歌曲集。ヘッセの詩による3曲とアイヒェンドルフの詩による1曲からなり、いずれも死や安らぎを見つめる内省的な内容を持つ。「夕映えの中で」では、自作の交響詩「死と変容」の旋律が引用されている。",
+      "en": "Four songs for soprano and orchestra, three setting poems by Hermann Hesse and one by Joseph von Eichendorff, each turning inward toward themes of death and quiet repose. \"Im Abendrot\" quotes a melody from Strauss's own earlier tone poem Death and Transfiguration."
+    },
+    "story": {
+      "ja": "1948年に作曲されたが、生前に演奏される機会がないまま、作曲者の死の翌年5月22日、ロンドンのロイヤル・アルバート・ホールで、指揮ヴィルヘルム・フルトヴェングラー、ソプラノのキルステン・フラグスタートにより初演された。「4つの最後の歌」という総題は、出版社の編集者エルンスト・ロートが後年名付けたものである。",
+      "en": "Composed in 1948, the songs went unperformed during Strauss's own lifetime, receiving their premiere in London the following May, conducted by Wilhelm Furtwängler with soprano Kirsten Flagstad as soloist. Their collective title, Four Last Songs, was coined afterward by Ernst Roth, an editor at the publishing house Boosey & Hawkes."
+    }
+  },
   "19622": {
     "structure": {
       "ja": "ニーチェの同名の哲学書に着想を得た交響詩で、書物の章題のいくつかをそのまま楽章相当の見出しに用いている。冒頭「日の出」は、オルガンの低音のうえにトランペットが上行する3つの音を提示する序奏で、単独でもよく知られる。\n以後は変奏やフーガ的な書法を交えながら、科学・宗教・踊りの歌といった主題が次々と現れ、最後は調性の異なる2つの和音が交互に鳴り続ける、解決しないまま曲を閉じる書き方で終わる。",
@@ -3207,6 +3297,36 @@
     "story": {
       "ja": "1896年に作曲され、同年11月27日、作曲者自身の指揮によりフランクフルトで初演された。シュトラウスは初演にあたり、「ニーチェの偉大な著作を音楽で描写しようとしたのではなく、原始から始まる人類の発展を、宗教的・科学的な段階を経て『超人』の思想に至るまで、音楽によって伝えようとした」という趣旨のプログラム・ノートを寄せている。\n彼自身の言葉どおり、この曲は書物の忠実な音楽化ではなく、あくまで「自由な着想」にとどまるとされる。",
       "en": "It was composed in 1896 and premiered under his own baton in Frankfurt on 27 November that year. In his own programme note for the premiere, Strauss wrote that he had not tried to depict Nietzsche's book in music but rather to convey, through music, an idea of humanity's development from its origins, through religious and scientific stages, to Nietzsche's idea of the superman.\nBy his own account, then, the piece is only \"freely based on\" the book, not a musical retelling of it."
+    }
+  },
+  "19671": {
+    "structure": {
+      "ja": "6部からなる、切れ目なく演奏される交響詩。「英雄の伴侶」の部分では独奏ヴァイオリンが活躍し、随所に「ドン・キホーテ」や「ツァラトゥストラはこう語った」など、自作からの引用が30以上散りばめられている。",
+      "en": "A tone poem in six continuous sections. A prominent solo violin represents the hero's companion, and the score weaves in more than thirty musical self-quotations drawn from Strauss's own earlier works, including Don Quixote and Also sprach Zarathustra."
+    },
+    "story": {
+      "ja": "1898年に作曲され、翌年3月3日、フランクフルトで、シュトラウス自身の指揮のもと初演された。指揮者ヴィレム・メンゲルベルクとコンセルトヘボウ管弦楽団に献呈されているが、初演の指揮は献呈先ではなく作曲者自身が務めた。批評家の反応は大きく分かれ、過激すぎるとする声もあれば、指揮者ヘンリー・ウッドのように美しいと評する声もあったと伝えられる。",
+      "en": "Composed in 1898, it premiered the following March in Frankfurt, conducted by Strauss himself. It is dedicated to conductor Willem Mengelberg and the Concertgebouw Orchestra, though Strauss led the premiere personally rather than leaving it to its dedicatee. Critical reaction split sharply, with one calling it extreme and conductor Henry Wood reportedly finding it beautiful."
+    }
+  },
+  "19748": {
+    "structure": {
+      "ja": "詩人レーナウの未完の戯曲に着想を得た、ホ長調の交響詩。ロンド形式とソナタ形式の要素を組み合わせた構成を持ち、演奏時間は約18分。今日ではオーケストラのオーディションでも頻繁に課される難所を含む。",
+      "en": "A tone poem in E major inspired by Nikolaus Lenau's unfinished play. Its form blends elements of rondo and sonata design, and runs about eighteen minutes in performance. Even today, its exposed, demanding passages are a frequent audition test for orchestral players."
+    },
+    "story": {
+      "ja": "1888年、24歳のときに作曲され、翌年11月11日、ヴァイマルで、宮廷楽長の地位にあったシュトラウス自身の指揮のもと初演された。この曲によって彼は、国際的に前衛的な作曲家としての名声を確立したとされる。コジマ・ワーグナーは、ワーグナー的な深みに欠けるとして、この曲を好まなかったと伝えられる。",
+      "en": "Composed in 1888, when Strauss was just twenty-four, it premiered the following November in Weimar, conducted by Strauss himself in his post as court Kapellmeister there. The work is credited with establishing his international reputation as a musical modernist. Cosima Wagner reportedly disliked it, finding it lacking in properly Wagnerian metaphysical depth."
+    }
+  },
+  "19751": {
+    "structure": {
+      "ja": "切れ目なく演奏される全4部からなる交響詩。瀕死の男の姿を描くラルゴに始まり、生と死の闘争、走馬灯のような過去の回想を経て、最後は静かな変容の場面で締めくくられる。演奏時間は約25分に及ぶ。",
+      "en": "A tone poem in four continuous sections, opening with a Largo depicting a dying man, passing through a struggle between life and death and a review of his past, before closing with a final section of transfiguration. It runs about twenty-five minutes."
+    },
+    "story": {
+      "ja": "1888年から翌年にかけて作曲され、1890年6月21日、アイゼナハ音楽祭で、シュトラウス自身の指揮のもと初演された。友人フリードリヒ・レッシュに献呈されている。作曲家アレクサンダー・リッターは、完成後の音楽にあわせて、その内容を解説する詩を書き添えた。シュトラウス自身、実際に死を迎える間際、この曲で描いた通りの最期だったと家族に語ったと伝えられる。",
+      "en": "Composed in 1888 and into the following year, it premiered in June 1890 at the Eisenach music festival, conducted by Strauss himself. It is dedicated to his friend Friedrich Rösch. Composer Alexander Ritter later wrote an interpretive poem to accompany the finished score. Strauss himself, right at the point of his own actual death decades later, reportedly told his family that his end matched exactly what this piece had once portrayed."
     }
   },
   "19759": {

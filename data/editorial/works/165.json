@@ -9,6 +9,46 @@
       "en": "It was originally titled \"Hand in Hand,\" conceived in August 1889 as a musical toast symbolising friendship between Austria and Germany, on the occasion of Emperor Franz Joseph I's visit to Emperor Wilhelm II.\nAt the suggestion of his publisher Fritz Simrock, the title was changed to Kaiser-Walzer (\"Emperor Waltz\"), ambiguous enough to allude to either monarch; the cover of the piano edition carried an image of the Austrian imperial crown. It premiered in Berlin on 21 October that year."
     }
   },
+  "18509": {
+    "structure": {
+      "ja": "イ長調で書かれた、快活な性格の単一楽章のポルカ。曲名の「トリッチ・トラッチ」は、他愛のないおしゃべりやゴシップを意味し、当時ロシア公演中の作曲家をめぐる噂話を当てこすったものとも言われている。",
+      "en": "A brisk, single-movement polka in A major. Its title, roughly meaning idle chatter or gossip, is thought by some to poke fun at rumors then circulating about the composer's own romantic life during his concert tour of Russia."
+    },
+    "story": {
+      "ja": "1858年秋に作曲され、同年11月24日、ウィーンで初演された。出版社カール・ハスリンガーから同年中に出版されている。初演直後の劇場新聞では、その新鮮な響きとオーケストレーションが高く評価されたと伝えられ、ピアノ編曲版もまたたく間に売り切れたという。",
+      "en": "Composed in the autumn of 1858, it premiered that November in Vienna and was published the same year by Carl Haslinger. A theater newspaper reportedly praised its fresh sound and orchestration soon after the premiere, and piano arrangements of the piece are said to have sold out almost immediately afterward."
+    }
+  },
+  "18562": {
+    "structure": {
+      "ja": "弟ヨーゼフ・シュトラウスとの合作によるポルカ。曲名の通り、金管や木管をいっさい用いず、弦楽器のピッツィカートと打楽器のみで演奏される、当時としてはかなり珍しい編成で書かれた軽妙な小品である。",
+      "en": "A short polka jointly composed with his brother, Josef Strauss. As its title suggests, it is scored quite unusually for strings played entirely pizzicato and light percussion alone, without any winds or brass instruments whatsoever appearing anywhere in the score."
+    },
+    "story": {
+      "ja": "1869年、兄弟の合作として作曲され、同年6月24日、ロシアのパヴロフスクでの夏の演奏旅行中に初演された。同年11月には、指揮ヨーゼフ・シュトラウスのもと、ウィーンのゾフィエンザールでも初演されている。発表当初から人気を博し、今日もなお定番の演目として親しまれている。",
+      "en": "Composed jointly by the two brothers in 1869, it premiered that June in Pavlovsk, Russia, during their summer concert tour together. A Vienna premiere followed that November at the Sofienbad-Saal, conducted by Josef Strauss himself. It was an immediate favorite from the start and remains a staple of the repertoire today."
+    }
+  },
+  "18858": {
+    "structure": {
+      "ja": "全3幕からなるオペレッタ。フランスの戯曲「レヴェイヨン」に基づき、ハフナーとジェネによって台本化された。第2幕、オルロフスキー公爵邸の仮面舞踏会を舞台にした場面が作品の中心をなす。",
+      "en": "A three-act operetta based on the French play Le Réveillon, adapted into a libretto by Karl Haffner and Richard Genée. Its central scene unfolds at a masked ball hosted by Prince Orlofsky, occupying the whole of the second act."
+    },
+    "story": {
+      "ja": "1874年に作曲され、同年4月5日、ウィーンのアン・デア・ウィーン劇場で、シュトラウス自身の指揮のもと初演された。同年のうちにニューヨークでも上演され、以後急速に各地へ広まった。パリでの翻案上演は当初不評だったが、後年、原題のまま定着している。",
+      "en": "Composed in 1874, it premiered that April at the Theater an der Wien in Vienna, conducted by Strauss himself. It reached New York that same year and spread rapidly elsewhere afterward. An early Paris adaptation initially failed to catch on, though the operetta later took hold there under its own original title."
+    }
+  },
+  "18887": {
+    "structure": {
+      "ja": "全5曲のワルツからなる作品。冒頭に置かれた100小節を超える長大な序奏部が特徴で、そこでは民俗楽器ツィターが独奏を奏でる。第2ワルツでは独奏ヴァイオリンとフルートによる技巧的な経過句も置かれている。",
+      "en": "A sequence of five waltzes preceded by an unusually long introduction running well over a hundred bars, featuring a solo for the folk instrument zither. The second waltz includes a technically demanding passage for solo violin and flute."
+    },
+    "story": {
+      "ja": "1868年6月19日、ウィーンのフォルクスガルテンで行われた、弟ヨーゼフとエドゥアルトのための慈善演奏会で、シュトラウス自身の指揮のもと初演された。宮廷儀典長を務めた侯爵コンスタンティン・ホーエンローエ=シリングスフュルストに献呈されている。父ヨハン・シュトラウス1世のワルツの旋律を引用した一節も含まれている。",
+      "en": "It premiered on 19 June 1868 at the Volksgarten in Vienna, at a benefit concert for his brothers Josef and Eduard, conducted by Strauss himself. It is dedicated to Prince Konstantin zu Hohenlohe-Schillingsfürst, the imperial court's chief master of ceremonies. One passage quotes a melody from a waltz by his own father, Johann Strauss I."
+    }
+  },
   "18889": {
     "structure": {
       "ja": "序奏と5つのワルツ、コーダからなるウィンナ・ワルツ。序奏は静かなトレモロに乗ってワルツの主題を予告し、そこから性格の異なる5つのワルツが次々と続く。\n最初のワルツ主題は分散和音を上昇していく親しみやすい旋律で、以後のワルツはそれぞれ異なる調・拍節感の揺らぎを見せながら、最後は序奏の回想を経て華やかに閉じられる。",
