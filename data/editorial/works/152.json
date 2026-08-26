@@ -9,6 +9,16 @@
       "en": "Written around 1830-32, when he was about twenty, and published in 1832. It is dedicated to the pianist Marie Pleyel — not to be confused with Camille Pleyel, the piano maker.\nChopin had admired Field's nocturnes since his youth and built much of his own style on them; this one is often noted for its resemblance to a Field nocturne in the same key, though the density of ornament and the harmonic writing are entirely his own."
     }
   },
+  "17114": {
+    "structure": {
+      "ja": "単一楽章のピアノ独奏曲。急速なテンポ「プレスト・コン・フォーコ」で書かれ、序破急の三部構成をとる。中間部はロ長調に転じ、ポーランドに伝わる伝統的なクリスマス聖歌の旋律が静かに引用されている。",
+      "en": "A single-movement piano piece marked Presto con fuoco, cast in a three-part form with a contrasting middle section. That middle section turns to B major and quotes the melody of a traditional Polish Christmas carol amid the surrounding turbulence."
+    },
+    "story": {
+      "ja": "1831年、祖国ポーランドで起きた蜂起の頃から書き始められ、数年をかけて仕上げられた。1835年に出版され、ウィーン時代からの友人トマス・アルブレヒトに献呈されている。同時代のシューマンは、諧謔を意味する「スケルツォ」という題名と、この曲の激しい内容との落差に驚きを示したと伝えられる。",
+      "en": "Composed from 1831, in the years following the outbreak of the November Uprising in his native Poland, and completed some time later, it was published in 1835 and dedicated to his Vienna-era friend Thomas Albrecht. Robert Schumann is said to have remarked on how strikingly the work's stormy character clashed with the light-hearted connotations of its title, \"scherzo,\" meaning jest."
+    }
+  },
   "17119": {
     "structure": {
       "ja": "単一楽章のピアノ独奏曲。堂々とした主部主題に続き、中間部では低音域でオクターヴの連打が延々と続く技巧的な難所があり、演奏者に高い持久力を要求する。\nポロネーズはポーランドの宮廷舞踊に由来する3拍子の様式で、ショパンはこの伝統的な形式を、祖国の栄光を思わせる壮大な規模の作品へと拡大している。",
@@ -17,6 +27,56 @@
     "story": {
       "ja": "1842年、療養のため滞在していたノアンで、持病の結核が悪化しつつあるなかで作曲された。当時のポーランドはロシア帝国の支配下にあり、祖国を離れて暮らすショパンの作品には、しばしばこうした政治的な背景が重ねて読み取られてきた。\n「英雄」という呼び名はショパン自身が付けたものではなく、後年広まった通称である。友人でドイツの銀行家アルベール・レーオに献呈され、1843年に出版された。",
       "en": "It was composed in 1842 at Nohant, where he had gone to recuperate, while his tuberculosis was worsening. Poland at the time was under Russian imperial rule, and Chopin's works, written from exile, have often been read against that political backdrop.\nThe nickname \"Heroic\" is not his own; it caught on only later. The piece is dedicated to his friend, the German banker Auguste Léo, and was published in 1843."
+    }
+  },
+  "17124": {
+    "structure": {
+      "ja": "チェロとピアノのための全4楽章。第1楽章アレグロ・モデラート(ト短調)、第2楽章スケルツォ(ニ短調)、第3楽章ラルゴ(変ロ長調)、第4楽章フィナーレ、アレグロ(ト短調から同主調のト長調)。全楽章にわたって主題的な関連が見られる。",
+      "en": "Four movements for cello and piano: an Allegro moderato in G minor, a Scherzo in D minor, a slow Largo in B-flat major, and a closing Allegro that moves from G minor to G major. Thematic material recurs and interlinks across all four movements."
+    },
+    "story": {
+      "ja": "1847年に作曲を終え、チェリストで親友のオーギュスト・フランショームに献呈された。翌年2月16日、パリのプレイエル・ホールでフランショームとショパン自身の共演により初演されたが、これが彼にとって生涯最後の公開演奏会となった。この日は第1楽章を省いた3楽章のみが演奏されたと伝えられ、出版された作品としては生前最後のものとなった。",
+      "en": "Completed in 1847, it is dedicated to the cellist Auguste Franchomme, a close friend. It was premiered the following year, on 16 February, at the Salle Pleyel in Paris, with Franchomme and Chopin himself performing together — his last public concert. Only three of the four movements were played that evening, omitting the opening one, and the sonata was the last of his works published in his lifetime."
+    }
+  },
+  "17128": {
+    "structure": {
+      "ja": "単一楽章のピアノ独奏曲。鐘の音を思わせるハ長調の序奏に続き、ヘ短調の主題が4つの変奏を経て展開され、変ロ長調の第2主題を挟んで、対位法的に書かれた急速なコーダで結ばれる。演奏時間は10分あまりに及ぶ。",
+      "en": "A single-movement piano piece. A bell-like introduction in C major leads into a theme in F minor that unfolds through four variations, a second theme in B-flat major follows, and the work closes with a fast, contrapuntally intricate coda, lasting roughly ten to twelve minutes."
+    },
+    "story": {
+      "ja": "1842年、パリで作曲され、翌年出版された。社交界で親交のあったロスチャイルド男爵夫人シャルロットに献呈されている。今日でも演奏家のあいだでは、4曲あるバラードのなかでも技巧的・音楽的にもっとも難度が高い作品のひとつとして広く評されている。",
+      "en": "Composed in 1842 in Paris and published the following year, it is dedicated to Baroness Charlotte de Rothschild, a society figure close to Chopin. Among concert pianists it is widely regarded as the most demanding of his four ballades, both technically and in the depth of musical expression it requires."
+    }
+  },
+  "17131": {
+    "structure": {
+      "ja": "全4楽章。第1楽章アレグロ・マエストーソはロ短調に始まりロ長調で閉じる。第2楽章はスケルツォ、モルト・ヴィヴァーチェ(変ホ長調)、第3楽章はラルゴ(ロ長調)、終楽章はプレスト・ノン・タント。第1番・第2番と異なり、長調で全曲を閉じる構成をとる。",
+      "en": "Four movements. The opening Allegro maestoso begins in B minor and closes in B major. A Scherzo, Molto vivace, in E-flat major follows, then a slow Largo in B major, and a closing Presto non tanto. Unlike the first two piano sonatas, this one ends throughout in a major key."
+    },
+    "story": {
+      "ja": "1844年に作曲され、翌年出版された。献呈先はペルテュイ伯爵夫人で、その夫は元副官として、以前にも第24番マズルカの献呈を受けたことのある人物である。ソナタ第2番と並び、ショパンのピアノ作品のなかでも屈指の演奏至難な楽曲として今なお評されている。",
+      "en": "Composed in 1844 and published the following year, it is dedicated to the Countess de Perthuis, whose husband, a former aide-de-camp, had earlier received the dedication of the Mazurkas, Op. 24. Alongside the Second Sonata, it is regarded as one of the technically most demanding works in Chopin's output for solo piano."
+    }
+  },
+  "17133": {
+    "structure": {
+      "ja": "「アンダンテ・スピアナート」と「華麗なる大ポロネーズ」の2部からなる、ピアノと管弦楽のための作品。前半はト長調・8分の6拍子の穏やかな序奏、後半は変ホ長調のポロネーズで、「スピアナート(平らかに)」という標語はショパンの全作品中でここにしか使われていない。",
+      "en": "A two-part work for piano and orchestra, pairing a gentle Andante spianato with the Grande polonaise brillante. The calm opening is in G major and 6/8 time; the polonaise that follows is in E-flat major, and the marking \"spianato\" appears nowhere else in Chopin's output."
+    },
+    "story": {
+      "ja": "ポロネーズの部分は若い頃に作曲され、後年パリでの演奏会を前に、これに先立つ序奏として「アンダンテ・スピアナート」が新たに書き加えられた。全曲版の初演は1835年4月26日、パリ音楽院でアベネックの指揮のもとおこなわれ、翌年に出版された。献呈先はデスト男爵令嬢とされている。",
+      "en": "The polonaise section dates from his youth, and the Andante spianato was added years later in Paris as an introduction, ahead of a public performance there. The complete work was premiered on 26 April 1835 at the Paris Conservatoire under the conductor François-Antoine Habeneck and published the following year; it is dedicated to a Baroness d'Este."
+    }
+  },
+  "17147": {
+    "structure": {
+      "ja": "穏やかなアンダンティーノ(ヘ長調、8分の6拍子)と、荒々しいプレスト・コン・フォーコ(イ短調)の主題が交互に現れる構成をとる。曲は開始した調のヘ長調ではなく、対照的なイ短調で閉じられる異例の終わり方をする。",
+      "en": "The work alternates a calm Andantino in F major and 6/8 time with a stormy Presto con fuoco theme in A minor. Unusually, it closes not in the opening key of F major but in the contrasting key of A minor, in which the turbulent second theme has taken over."
+    },
+    "story": {
+      "ja": "1836年に着手され、1838年末までに完成した。シューマンが自作「クライスレリアーナ」をショパンに献呈したことへの返礼として、この曲はシューマン自身に献呈されている。当のシューマンは、先に書かれた第1番のバラードほどの独創性は感じられないと評したと伝えられる。",
+      "en": "Begun in 1836 and completed by the end of 1838, it is dedicated to Robert Schumann, in return for Schumann's own earlier dedication of his Kreisleriana to Chopin. Schumann himself is said to have judged this second ballade less ingenious than the first one Chopin had written some years before."
     }
   },
   "17159": {
@@ -39,6 +99,16 @@
       "en": "The Funeral March movement was composed on its own in 1837, about two years before the rest, and was later folded into the complete sonata. The whole work was finished in 1839, during a summer spent at George Sand's estate at Nohant.\nContemporary critics found the four movements oddly disconnected and reacted with some bewilderment. The Funeral March, in an orchestral arrangement, was played at Chopin's own funeral."
     }
   },
+  "17170": {
+    "structure": {
+      "ja": "急速なテンポ「プレスト・コン・フォーコ」で書かれ、序奏に続いてオクターヴによる力強い主題が現れる。中間部はコラール風の静かな旋律に、下降するアルペジオが応答する構成をとり、嬰ハ短調で始まりながら終わりは同主調の長調(ピカルディの三度)で結ばれる。",
+      "en": "Marked Presto con fuoco, it opens with an introduction leading into a powerful theme stated in octaves. A calmer, chorale-like middle section answered by cascading arpeggios follows, and though it begins in C-sharp minor, the piece closes in the parallel major through a Picardy third."
+    },
+    "story": {
+      "ja": "1838年、療養のため滞在していたマヨルカ島の元修道院で着想され、翌年までにフランスで完成した。弟子のアドルフ・グートマンに献呈され、1840年に出版された。同時代のリストを思わせる序奏の書法から曲は始まり、その後に力強いオクターヴの主題が続く運びとなっている。",
+      "en": "It was begun in 1838 in a former monastery on the island of Mallorca, where Chopin had gone to recuperate, and was completed in France by the following year. Dedicated to his pupil Adolf Gutmann, it was published in 1840. The piece opens with an introduction recalling the style of his contemporary Franz Liszt."
+    }
+  },
   "17179": {
     "structure": {
       "ja": "単一楽章の即興曲。急速な8分の6拍子の部分が変ニ長調の穏やかな中間部を挟んで前後に置かれ、三部形式をとる。\n右手が16分音符4つ、左手が3連符という異なる分割のリズムが同時に鳴らされる書き方が特徴で、両手の噛み合わない拍節感がこの曲特有の落ち着かない疾走感を生んでいる。",
@@ -59,6 +129,26 @@
       "en": "The idea is thought to trace back to sketches made in 1831 during his stay in Vienna, and the piece was completed in 1835, after his move to Paris. It is dedicated to Baron Stockhausen, the Hanoverian ambassador to France.\nContemporaries including Robert Schumann speculated that the four ballades were connected to the poetry of his compatriot Adam Mickiewicz, though Chopin himself never confirmed any such link. The two knew each other as fellow Polish exiles in Paris, and a connection to Mickiewicz's narrative poem Konrad Wallenrod is often suggested — but the music is not thought to depict any specific scene from it."
     }
   },
+  "17186": {
+    "structure": {
+      "ja": "変ロ短調、プレストの主要主題が低音域で「問いかけ」のように静かに提示された後、変ニ長調を中心とする穏やかな部分が続く構成をとる。中間部はイ長調に転じ、対照的な広がりのある旋律をゆったりと歌う。",
+      "en": "In B-flat minor, marked Presto, the opening theme is stated almost like a question before giving way to a gentler section centred on D-flat major. A contrasting middle section turns to A major, unfolding a broader, more lyrical melody."
+    },
+    "story": {
+      "ja": "1837年に作曲・出版され、伯爵令嬢アデール・フュルステンシュタインに献呈された。同時代のシューマンはこの曲を「優しさ、大胆さ、愛、そして侮蔑にあふれている」と評したと伝えられる。弟子のヴィルヘルム・フォン・レンツによれば、ショパン自身は冒頭の楽想を「問いかけ」にたとえていたという。",
+      "en": "Composed and published in 1837, it is dedicated to Countess Adèle de Fürstenstein. Robert Schumann, a contemporary, is said to have described it as overflowing with tenderness, boldness, love, and contempt. According to his pupil Wilhelm von Lenz, Chopin himself likened the work's opening gesture to a kind of question."
+    }
+  },
+  "17210": {
+    "structure": {
+      "ja": "変ホ長調のワルツ。同じ音型がめまぐるしく反復されながら華やかに展開する主題を持ち、ショパン自身が「華麗なるワルツ」という副題を付けた最初の曲で、以降の作品34のワルツにも同じ副題が用いられている。",
+      "en": "A waltz in E-flat major built on a theme that spins the same figure through dazzling, unbroken repetition. It was the first work to carry Chopin's own subtitle \"grande valse brillante,\" a label he later reused for the waltzes of his Op. 34."
+    },
+    "story": {
+      "ja": "1833年に作曲され、翌年出版された、ショパンが生前に出版した最初の独奏ピアノ用ワルツである。それ以前に書かれた十数曲のワルツは未出版のまま失われている。教え子ローラ・ホースフォードに献呈された。1909年にはストラヴィンスキーがバレエ「レ・シルフィード」のためにこの曲を管弦楽用に編曲している。",
+      "en": "Composed in 1833 and published the following year, it was the first of his solo-piano waltzes to be published in his lifetime; roughly a dozen earlier ones went unpublished and were lost. It is dedicated to his pupil Laura Horsford. In 1909, long after his death, Igor Stravinsky orchestrated the piece for the ballet Les Sylphides."
+    }
+  },
   "17217": {
     "structure": {
       "ja": "3曲からなるワルツ集。第1番は変ニ長調で、絶えず回転し続けるような主題から「小犬のワルツ」の通称で知られ、第2番は嬰ハ短調、緩急を織り交ぜた構成、第3番は変イ長調で書かれている。\n第1番の主題は、同じ音型がめまぐるしく反復されながら加速していく書き方で、ショパン自身が付けた題名ではないものの、小犬が自分の尻尾を追いかける様子を思わせるとして広まった通称である。",
@@ -69,6 +159,16 @@
       "en": "Composed and published in 1847. The first waltz is dedicated to Countess Delfina Potocka, a well-known figure in Chopin's social circle.\nThe publisher's subtitle, meaning something like \"miniature,\" was later misread as an instruction to play the piece in exactly one minute, and that misunderstanding hardened into popular legend. Played at a reasonable tempo it actually takes closer to two minutes."
     }
   },
+  "17223": {
+    "structure": {
+      "ja": "全12曲からなる練習曲集。第1番(変イ長調)から第12番(ハ短調)まで、それぞれ独自の技巧的主題を持つ演奏会用の小品として書かれている。「エオリアン・ハープ」「蝶々」「木枯らし」「大洋」といった愛称で知られる曲も含まれるが、いずれもショパン自身が付けたものではない。",
+      "en": "A set of twelve études, from the first in A-flat major to the twelfth in C minor, each built as a concert piece around its own technical idea. Several carry popular nicknames — \"Aeolian Harp,\" \"Butterfly,\" \"Winter Wind,\" \"Ocean\" — though none of them originated with Chopin himself."
+    },
+    "story": {
+      "ja": "ショパン20代半ばの時期にかけて作曲され、1837年に出版された。フランス、ドイツ、イギリスでほぼ同時に版が出されている。献呈先はマリー・ダグー伯爵夫人だが、その理由は今も明らかになっていない。同時代のシューマンは第1番を「練習曲というより詩そのもの」と評したと伝えられる。",
+      "en": "Composed while Chopin was in his mid-twenties, the set was published in 1837, in near-simultaneous editions in France, Germany, and England. It is dedicated to the Countess Marie d'Agoult, though the reason behind that dedication remains unknown. Robert Schumann, a contemporary, is said to have called the first étude \"a poem rather than a study.\""
+    }
+  },
   "17236": {
     "structure": {
       "ja": "全3楽章。作曲順としては2曲あるピアノ協奏曲のうち後に書かれたものだが、先に出版されたため「第1番」の番号を与えられている。\n独奏ピアノが華やかな装飾的な旋律を延々と紡いでいく、いわゆる「ブリランテ様式」の書法が特徴で、管弦楽は控えめな伴奏的役割にとどまる。",
@@ -77,6 +177,26 @@
     "story": {
       "ja": "1830年、20歳のショパンによって作曲された。同年10月11日、ワルシャワの国立劇場で、彼自身の独奏、ソリヴァの指揮により初演された。\nこの演奏会は、ポーランドを離れる前の「告別演奏会」の一環として開かれたもので、聴衆はおよそ700人、上々の入りだったと伝えられる。数週間後、ショパンはウィーンへ、さらにパリへと旅立ち、以後生涯故郷の地を踏むことはなかった。",
       "en": "It was composed in 1830, when Chopin was twenty. It premiered on 11 October that year at the National Theatre in Warsaw, with Chopin as soloist and Carlo Soliva conducting.\nThe concert was one of his \"farewell\" performances before leaving Poland, drawing an audience of around seven hundred to a well-filled house. Within weeks he left for Vienna and then Paris, and never set foot in his homeland again."
+    }
+  },
+  "17239": {
+    "structure": {
+      "ja": "アレグレットの単一楽章で、A-B-C-B-A形式に近い、循環的な構成をとる。「ドルチェ(甘く)」「メッツァ・ヴォーチェ(半ばの声で)」といった発想標語が随所に置かれ、4曲あるバラードのなかで唯一、短調ではなく長調のまま曲を閉じる。",
+      "en": "A single Allegretto movement in a near-symmetrical A-B-C-B-A arrangement. Expression marks such as dolce and mezza voce recur throughout, and it is the only one of the four ballades that closes in a major key rather than a minor one."
+    },
+    "story": {
+      "ja": "1841年夏、ノアンで作曲され、同年のうちにパリとライプツィヒで出版された。教え子だったポーリーヌ・ド・ノアイユに献呈されている。演奏時間は7分から8分ほどで、詩人ミツキェヴィチの物語詩に着想を得たとする説も語られてきたが、確かな裏付けは見つかっていない。",
+      "en": "Composed in the summer of 1841 at Nohant, it was published that same year in both Paris and Leipzig. It is dedicated to his pupil Pauline de Noailles. Lasting around seven to eight minutes in performance, it has sometimes been linked to a narrative poem by Adam Mickiewicz, though no firm evidence supports that connection."
+    }
+  },
+  "17254": {
+    "structure": {
+      "ja": "急速なテンポ「プレスト」によるソナタ・ロンド形式をとる。嬰ハ短調のトリオを挟み、4曲あるスケルツォのなかで唯一、全体を通して長調を基調とする明るい性格の作品として広く知られている。",
+      "en": "Cast in sonata-rondo form and marked Presto, it features a central trio section in the key of C-sharp minor. It stands out among Chopin's four scherzos as the only one built predominantly in a bright, major key throughout its length."
+    },
+    "story": {
+      "ja": "1842年、ノアンで作曲され、翌年出版された。献呈された貴族令嬢の氏名は版によって表記が異なり、はっきりしない。作曲家サン=サーンスはこの曲を特に高く評価していたと伝えられ、評者のあいだでも他の3曲に比べて優雅で軽やかな性格を持つ作品と評されることが多い。",
+      "en": "Composed in 1842 at Nohant and published the following year, it carries a dedication to a young noblewoman whose exact name differs between the surviving editions and remains uncertain. The composer Camille Saint-Saëns is said to have particularly admired the piece, and commentators have often described it as more graceful and light-footed than the other three scherzos."
     }
   },
   "17276": {
