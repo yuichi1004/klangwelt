@@ -19,6 +19,16 @@
       "en": "Written with the librettist Hugo von Hofmannsthal, it was composed between 1909 and 1910; the finale's music was finished on 26 September that year.\nIt premiered on 26 January 1911 at the court opera in Dresden and caused a sensation, drawing twenty-one curtain calls on opening night and, reportedly, extra trains laid on from Berlin and elsewhere to bring in audiences eager to see the new work. Hofmannsthal had already supplied the play behind Elektra, but this was the pair's first full collaboration as composer and librettist."
     }
   },
+  "19619": {
+    "structure": {
+      "ja": "ソプラノ独唱と管弦楽のための全4曲の歌曲集。ヘッセの詩による3曲とアイヒェンドルフの詩による1曲からなり、いずれも死や安らぎを見つめる内省的な内容を持つ。「夕映えの中で」では、自作の交響詩「死と変容」の旋律が引用されている。",
+      "en": "Four songs for soprano and orchestra, three setting poems by Hermann Hesse and one by Joseph von Eichendorff, each turning inward toward themes of death and quiet repose. \"Im Abendrot\" quotes a melody from Strauss's own earlier tone poem Death and Transfiguration."
+    },
+    "story": {
+      "ja": "1948年に作曲されたが、生前に演奏される機会がないまま、作曲者の死の翌年5月22日、ロンドンのロイヤル・アルバート・ホールで、指揮ヴィルヘルム・フルトヴェングラー、ソプラノのキルステン・フラグスタートにより初演された。「4つの最後の歌」という総題は、出版社の編集者エルンスト・ロートが後年名付けたものである。",
+      "en": "Composed in 1948, the songs went unperformed during Strauss's own lifetime, receiving their premiere in London the following May, conducted by Wilhelm Furtwängler with soprano Kirsten Flagstad as soloist. Their collective title, Four Last Songs, was coined afterward by Ernst Roth, an editor at the publishing house Boosey & Hawkes."
+    }
+  },
   "19622": {
     "structure": {
       "ja": "ニーチェの同名の哲学書に着想を得た交響詩で、書物の章題のいくつかをそのまま楽章相当の見出しに用いている。冒頭「日の出」は、オルガンの低音のうえにトランペットが上行する3つの音を提示する序奏で、単独でもよく知られる。\n以後は変奏やフーガ的な書法を交えながら、科学・宗教・踊りの歌といった主題が次々と現れ、最後は調性の異なる2つの和音が交互に鳴り続ける、解決しないまま曲を閉じる書き方で終わる。",
@@ -27,6 +37,36 @@
     "story": {
       "ja": "1896年に作曲され、同年11月27日、作曲者自身の指揮によりフランクフルトで初演された。シュトラウスは初演にあたり、「ニーチェの偉大な著作を音楽で描写しようとしたのではなく、原始から始まる人類の発展を、宗教的・科学的な段階を経て『超人』の思想に至るまで、音楽によって伝えようとした」という趣旨のプログラム・ノートを寄せている。\n彼自身の言葉どおり、この曲は書物の忠実な音楽化ではなく、あくまで「自由な着想」にとどまるとされる。",
       "en": "It was composed in 1896 and premiered under his own baton in Frankfurt on 27 November that year. In his own programme note for the premiere, Strauss wrote that he had not tried to depict Nietzsche's book in music but rather to convey, through music, an idea of humanity's development from its origins, through religious and scientific stages, to Nietzsche's idea of the superman.\nBy his own account, then, the piece is only \"freely based on\" the book, not a musical retelling of it."
+    }
+  },
+  "19671": {
+    "structure": {
+      "ja": "6部からなる、切れ目なく演奏される交響詩。「英雄の伴侶」の部分では独奏ヴァイオリンが活躍し、随所に「ドン・キホーテ」や「ツァラトゥストラはこう語った」など、自作からの引用が30以上散りばめられている。",
+      "en": "A tone poem in six continuous sections. A prominent solo violin represents the hero's companion, and the score weaves in more than thirty musical self-quotations drawn from Strauss's own earlier works, including Don Quixote and Also sprach Zarathustra."
+    },
+    "story": {
+      "ja": "1898年に作曲され、翌年3月3日、フランクフルトで、シュトラウス自身の指揮のもと初演された。指揮者ヴィレム・メンゲルベルクとコンセルトヘボウ管弦楽団に献呈されているが、初演の指揮は献呈先ではなく作曲者自身が務めた。批評家の反応は大きく分かれ、過激すぎるとする声もあれば、指揮者ヘンリー・ウッドのように美しいと評する声もあったと伝えられる。",
+      "en": "Composed in 1898, it premiered the following March in Frankfurt, conducted by Strauss himself. It is dedicated to conductor Willem Mengelberg and the Concertgebouw Orchestra, though Strauss led the premiere personally rather than leaving it to its dedicatee. Critical reaction split sharply, with one calling it extreme and conductor Henry Wood reportedly finding it beautiful."
+    }
+  },
+  "19748": {
+    "structure": {
+      "ja": "詩人レーナウの未完の戯曲に着想を得た、ホ長調の交響詩。ロンド形式とソナタ形式の要素を組み合わせた構成を持ち、演奏時間は約18分。今日ではオーケストラのオーディションでも頻繁に課される難所を含む。",
+      "en": "A tone poem in E major inspired by Nikolaus Lenau's unfinished play. Its form blends elements of rondo and sonata design, and runs about eighteen minutes in performance. Even today, its exposed, demanding passages are a frequent audition test for orchestral players."
+    },
+    "story": {
+      "ja": "1888年、24歳のときに作曲され、翌年11月11日、ヴァイマルで、宮廷楽長の地位にあったシュトラウス自身の指揮のもと初演された。この曲によって彼は、国際的に前衛的な作曲家としての名声を確立したとされる。コジマ・ワーグナーは、ワーグナー的な深みに欠けるとして、この曲を好まなかったと伝えられる。",
+      "en": "Composed in 1888, when Strauss was just twenty-four, it premiered the following November in Weimar, conducted by Strauss himself in his post as court Kapellmeister there. The work is credited with establishing his international reputation as a musical modernist. Cosima Wagner reportedly disliked it, finding it lacking in properly Wagnerian metaphysical depth."
+    }
+  },
+  "19751": {
+    "structure": {
+      "ja": "切れ目なく演奏される全4部からなる交響詩。瀕死の男の姿を描くラルゴに始まり、生と死の闘争、走馬灯のような過去の回想を経て、最後は静かな変容の場面で締めくくられる。演奏時間は約25分に及ぶ。",
+      "en": "A tone poem in four continuous sections, opening with a Largo depicting a dying man, passing through a struggle between life and death and a review of his past, before closing with a final section of transfiguration. It runs about twenty-five minutes."
+    },
+    "story": {
+      "ja": "1888年から翌年にかけて作曲され、1890年6月21日、アイゼナハ音楽祭で、シュトラウス自身の指揮のもと初演された。友人フリードリヒ・レッシュに献呈されている。作曲家アレクサンダー・リッターは、完成後の音楽にあわせて、その内容を解説する詩を書き添えた。シュトラウス自身、実際に死を迎える間際、この曲で描いた通りの最期だったと家族に語ったと伝えられる。",
+      "en": "Composed in 1888 and into the following year, it premiered in June 1890 at the Eisenach music festival, conducted by Strauss himself. It is dedicated to his friend Friedrich Rösch. Composer Alexander Ritter later wrote an interpretive poem to accompany the finished score. Strauss himself, right at the point of his own actual death decades later, reportedly told his family that his end matched exactly what this piece had once portrayed."
     }
   },
   "19759": {
