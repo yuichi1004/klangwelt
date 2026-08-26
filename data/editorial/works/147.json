@@ -1,4 +1,44 @@
 {
+  "16550": {
+    "structure": {
+      "ja": "単一楽章の演奏会用序曲。スコットランド、ヘブリディーズ諸島の洞窟を訪れた体験から着想され、冒頭でチェロとファゴットが奏でる、波のうねりを思わせる旋律で開始される。ソナタ形式に基づきながらも、標題音楽的な情景描写を優先した自由な展開を見せる。",
+      "en": "A single-movement concert overture inspired by a visit to a sea cave in Scotland's Hebrides islands. It opens with a wave-like theme in cellos and bassoons and loosely follows sonata form, though vivid pictorial description takes priority over strict formal development."
+    },
+    "story": {
+      "ja": "1829年、スコットランド旅行中にヘブリディーズ諸島の洞窟を訪れた際の印象から着想を得て作曲が始められた。当初は「孤島」と題されていたが、後に出版譜で「フィンガルの洞窟」の名が与えられ、この呼び名が定着した。1832年にロンドンで初演されたのち、メンデルスゾーンはなおも改訂を重ねている。",
+      "en": "The idea came in 1829, during a trip to Scotland, from the impression left by a visit to a sea cave in the Hebrides. He first called it The Lonely Island, but a later published edition attached the name Fingal's Cave, which stuck. It premiered in London in 1832, and Mendelssohn kept revising it afterward."
+    }
+  },
+  "16578": {
+    "structure": {
+      "ja": "全4楽章、全楽章がへ短調の枠組みでまとめられている。急速で切迫感のある第1楽章に始まり、第2楽章も同様に激しい性格を保つ。緩徐楽章を経て、終楽章は再び烈しいアレグロ・モルトで幕を閉じる、悲痛な色調に貫かれた作品である。",
+      "en": "Four movements, all cast within an F minor frame. It opens with a fast, urgent first movement, and the second maintains much the same fierce character. After a slow movement, the finale closes again in a violent Allegro molto — a work steeped throughout in grief and anguish."
+    },
+    "story": {
+      "ja": "1847年、姉ファニー・ヘンゼルの急死から数か月後に書かれた、メンデルスゾーン生前最後の大作である。同年10月、友人イグナーツ・モシェレスを前にした私的な会で試演されたが、公の場での初演を聴くことのないまま、彼自身も同じ年のうちに姉を追うように世を去っている。",
+      "en": "Written in 1847, only months after the sudden death of his sister Fanny Hensel, this was the last major work Mendelssohn completed. That October it was tried out privately before his friend Ignaz Moscheles, but he never lived to hear it performed in public, dying himself later that same year."
+    }
+  },
+  "16591": {
+    "structure": {
+      "ja": "全3楽章が切れ目なく演奏され、楽章間は金管のファンファーレでつながれる。独奏ピアノは冒頭から性急に主題を提示し、オーケストラの長い前奏を置かない。技巧的な走句が随所にちりばめられ、若きヴィルトゥオーソらしい推進力に満ちている。",
+      "en": "Three movements played without a break, linked by brass fanfares between them. The solo piano launches into its theme almost at once, without a long orchestral introduction, and virtuosic passagework runs throughout, full of youthful, headlong energy."
+    },
+    "story": {
+      "ja": "ミュンヘンで出会ったピアニスト、デルフィーヌ・フォン・シャウロートに献呈された作品で、1831年に完成、同年10月17日、同地でメンデルスゾーン自身の独奏により初演された。同じ演奏会では交響曲第1番と「真夏の夜の夢」序曲も演奏されている。技巧的な難所の多さから、あるピアノが酷使の末に壊れてしまったという逸話も伝わる。",
+      "en": "Dedicated to the pianist Delphine von Schauroth, whom Mendelssohn met in Munich, the concerto was finished in 1831 and premiered there that October 17, with the composer himself at the piano; the same concert also featured his First Symphony and the Midsummer Night's Dream overture. One account even claims a piano was left wrecked from repeated performances of its demanding solo part."
+    }
+  },
+  "16595": {
+    "structure": {
+      "ja": "全4楽章。終楽章にルターの讃美歌「神はわがやぐら」の旋律が現れ、コラール風のクライマックスを築く点が最大の特徴である。宗教改革300年を記念する目的で書かれたにもかかわらず、若き日の習作的性格が強いとして、作曲家自身は後年この作品を遠ざけるようになった。",
+      "en": "Four movements. Its defining feature is the finale, which builds to a chorale-like climax on Luther's hymn \"A Mighty Fortress Is Our God.\" Though written to mark the three-hundredth anniversary of the Reformation, Mendelssohn himself came to regard it as an immature early effort and later distanced himself from it."
+    },
+    "story": {
+      "ja": "1830年に迫っていたアウクスブルク信仰告白300周年の記念行事のために書かれたが、作曲者が麻疹にかかったため、その記念演奏には間に合わなかった。初演は2年後の1832年11月15日、ベルリンで作曲家自身の指揮によりようやく実現している。「宗教改革」の愛称は姉ファニー・ヘンゼルによるものとされる。",
+      "en": "Mendelssohn wrote it for celebrations marking the three-hundredth anniversary of the Augsburg Confession in 1830, but a bout of measles kept him from finishing in time for the occasion. The premiere finally came two years later, on 15 November 1832 in Berlin under his own baton. The \"Reformation\" nickname is credited to his sister, Fanny Hensel."
+    }
+  },
   "16609": {
     "structure": {
       "ja": "全3楽章、切れ目なく演奏される。独奏ヴァイオリンが管弦楽の短い導入をまたずに、冒頭から主題を歌い出すという、当時としては異例の始まり方をする。\n第1楽章のカデンツァは通常、展開部の終わりではなく再現部の直前に置かれる、伝統的な配置を外れた構成をとっている。",
@@ -9,6 +49,36 @@
       "en": "The idea traces back to 1838, when Mendelssohn wrote to his friend, the violinist Ferdinand David, that he wanted to write a concerto around an E minor theme that kept running through his head. He did not get down to serious work on it until July 1844, finishing by mid-September.\nHe worked out the technical details of the solo part with David, who was to give the premiere. That premiere came on 13 March 1845 in Leipzig, with David as soloist; Mendelssohn himself was too ill to conduct, and his assistant Niels Gade led the orchestra instead."
     }
   },
+  "16626": {
+    "structure": {
+      "ja": "全4楽章。ヴァイオリン2、ヴィオラ2、チェロ1という編成をとり、中間2声部にヴィオラを置くことで全体に深みのある響きを生み出している。第3楽章のアダージョ・エ・レントは切れ目なく終楽章へと続き、劇的な緊張感を保ったまま結末へ向かう。",
+      "en": "Four movements, scored for two violins, two violas, and cello, the pair of inner violas lending the whole ensemble a rich, dark-hued sonority. The third-movement Adagio e lento leads without pause into the finale, sustaining dramatic tension right through to the close."
+    },
+    "story": {
+      "ja": "1845年7月、保養地バート・ゾーデンで書き上げられた、メンデルスゾーン最後の弦楽室内楽作品のひとつである。当時の演奏記録はほとんど残っておらず、出版も作曲家の死後になってようやく実現した。円熟期の筆致がうかがえる、渋みのある佳品として位置づけられている。",
+      "en": "Completed in July 1845 at the spa town of Bad Soden, this is one of the last chamber works Mendelssohn wrote for strings. Almost no record survives of any performance during his lifetime, and it was only published after his death. It is regarded today as a restrained, deeply mature late work."
+    }
+  },
+  "16642": {
+    "structure": {
+      "ja": "第1・第2ヴァイオリン各2、ヴィオラ2、チェロ2という「二重弦楽四重奏」の編成で書かれ、8声部が対等に活躍する。終楽章にはヘンデルの「メサイア」中「ハレルヤ」の一節を引用したフガートが組み込まれ、華やかな終結部を築いている。",
+      "en": "Scored as a double string quartet — four violins, two violas, two cellos — with all eight parts treated as equals. The finale weaves in a fugato quoting a phrase from the \"Hallelujah\" chorus of Handel's Messiah, building toward a brilliant close."
+    },
+    "story": {
+      "ja": "1825年秋、当時16歳だったメンデルスゾーンが、ヴァイオリンの師であり友人でもあったエドゥアルト・リーツの誕生日を祝って書き上げ、自筆譜とともに贈った作品である。1832年には改訂版が出版され、以後は青年期を代表する傑作として広く演奏されるようになった。",
+      "en": "Written in the autumn of 1825, when Mendelssohn was just sixteen, this was composed as a birthday gift for Eduard Rietz, his violin teacher and friend, complete with a signed autograph score. A revised edition appeared in 1832, and the work has since become one of the most widely performed masterpieces of his youth."
+    }
+  },
+  "16673": {
+    "structure": {
+      "ja": "全6曲からなるピアノ独奏曲集。歌詞を伴わない「言葉のない歌」として、各曲に旋律的な性格を持たせている。第3曲は葬送行進曲風、第5曲は「ヴェネツィアの舟歌」と呼ばれる舟歌風の緩やかな曲、第6曲は明るい「春の歌」として、それぞれ性格の異なる小品が並ぶ。",
+      "en": "Six pieces for solo piano, each a wordless \"song\" built around a single singing melody. The third takes on a funeral march character, the fifth is a gentle barcarolle known as the Venetian Boat Song, and the sixth, a bright Spring Song, closes the set with a very different mood."
+    },
+    "story": {
+      "ja": "1841年から1844年にかけて書き継がれ、ピアニストのクララ・シューマンに献呈された。第6曲「春の歌」はロンドン近郊カンバーウェル・グリーンで、妻の親戚宅に滞在中に書かれたことから、現地では「カンバーウェル・グリーン」の愛称でも呼ばれている。",
+      "en": "Written across 1841 to 1844 and dedicated to the pianist Clara Schumann, the set's sixth piece, the Spring Song, was composed while Mendelssohn was staying with his wife's relatives at Camberwell Green, near London — a place name that stuck to the piece as an English nickname of its own."
+    }
+  },
   "16674": {
     "structure": {
       "ja": "全4楽章、切れ目なく演奏される。着想を得てから完成まで13年を要しており、メンデルスゾーンの交響曲のなかでもっとも長い期間をかけて書かれた作品である。\n冒頭の主題は、着想を得たその場でスケッチされたものがほぼそのまま用いられているとされ、全曲を通じて陰影を帯びた性格を保ち続ける。",
@@ -17,6 +87,16 @@
     "story": {
       "ja": "1829年、20歳のメンデルスゾーンが初めてイギリスを訪れた際、7月30日にエディンバラのホリールード宮殿にある廃墟の礼拝堂を訪ねたことがきっかけとなった。家族への手紙で「ここに『スコットランド』交響曲の始まりを見つけたと思う」と書き記している。\nその場で書き留めた旋律が実際に交響曲として完成するまでには、その後13年を要した。完成は1842年1月20日、ベルリンでのことで、初演は同年3月3日、ライプツィヒ・ゲヴァントハウス管弦楽団により、メンデルスゾーン自身の指揮でおこなわれた。ヴィクトリア女王に献呈されている。",
       "en": "The idea came during Mendelssohn's first visit to Britain in 1829, when he visited the ruined chapel at Holyrood Palace in Edinburgh on 30 July. He wrote home that he believed he had found the beginning of his \"Scottish\" symphony there.\nThe tune he sketched on the spot did not become a finished symphony for another thirteen years. He completed it in Berlin on 20 January 1842, and it premiered on 3 March that year with the Leipzig Gewandhaus Orchestra, Mendelssohn himself conducting. It is dedicated to Queen Victoria."
+    }
+  },
+  "16707": {
+    "structure": {
+      "ja": "全4楽章。第1楽章冒頭からチェロが情熱的な主題を歌い出し、終楽章に至るまで一貫して劇的な緊張感を保つ。ピアノ・ヴァイオリン・チェロの三者が対等に扱われ、当時のピアノ三重奏曲としては先進的な書法が随所に見られる。",
+      "en": "Four movements. The cello sings out a passionate theme from the very start of the first movement, and dramatic tension is sustained right through to the finale. Piano, violin, and cello are treated as true equals, with writing that was, for a piano trio of its day, strikingly forward-looking."
+    },
+    "story": {
+      "ja": "1839年9月に完成し、翌1840年2月1日、ライプツィヒのゲヴァントハウスで、ヴァイオリニストのフェルディナント・ダーヴィト、チェリストのヴィットマン、そしてメンデルスゾーン自身のピアノにより初演された。友人でもあったロベルト・シューマンは、この作品を同時代随一のピアノ三重奏曲だと評したと伝えられている。",
+      "en": "Completed in September 1839, the trio premiered the following February in Leipzig's Gewandhaus, with violinist Ferdinand David, cellist Wittmann, and Mendelssohn himself taking the piano part. His friend and fellow composer Robert Schumann is said to have praised it warmly in print, calling it the finest piano trio of the entire age."
     }
   },
   "16718": {
@@ -37,6 +117,26 @@
     "story": {
       "ja": "序曲は1826年、彼が17歳のときに書かれた。特定の上演のためではなく、ドイツ語訳で読んだ戯曲に触発された演奏会用の作品として作曲されている。\n16年後の1842年、プロイセン国王フリードリヒ・ヴィルヘルム4世の依頼で、実際の上演に合わせた劇音楽一式が新たに書き加えられた。「結婚行進曲」を含む全曲は1843年10月14日、戯曲とともに初演された。",
       "en": "The overture was written in 1826, when he was seventeen — not for any particular staging, but as a concert piece inspired by reading the play in German translation.\nSixteen years later, in 1842, King Frederick William IV of Prussia commissioned a full set of incidental music for an actual production. The complete score, including the Wedding March, was first performed with the play on 14 October 1843."
+    }
+  },
+  "16768": {
+    "structure": {
+      "ja": "全4楽章。自作の歌曲「問い」の旋律的動機が全曲を通じて回帰し、循環的な統一感を生み出している。ベートーヴェンの後期弦楽四重奏曲から強い影響を受けた書法が随所に見られ、当時18歳だった作曲家の早熟さを物語る作品である。",
+      "en": "Four movements. A motif drawn from his own song \"Frage\" (A Question) recurs throughout, giving the whole quartet a cyclic unity. The writing shows the strong imprint of Beethoven's late quartets, and stands as striking evidence of the composer's precocity — he was only eighteen when he wrote it."
+    },
+    "story": {
+      "ja": "1827年、18歳のメンデルスゾーンにより作曲された。当時のベートーヴェンの後期弦楽四重奏曲は聴衆にほとんど理解されておらず、作曲家の父ですら難解で受け入れがたいと評していたと伝えられるが、若きメンデルスゾーンはそこから多くを学び取っている。1830年に出版され、のちに自らピアノ連弾用にも編曲した。",
+      "en": "Mendelssohn wrote this in 1827, at eighteen. Beethoven's late quartets were still barely understood by audiences of the day — even his own father reportedly dismissed them as baffling and unpolished — yet the young composer absorbed a great deal from them here. It was published in 1830, and he later arranged it himself for piano four hands."
+    }
+  },
+  "28100": {
+    "structure": {
+      "ja": "全2部、42曲からなる大規模なオラトリオ。予言者エリヤの激しい台詞で幕を開けたのち、フーガ風の序曲を経て切れ目なく合唱へなだれ込む構成をとる。独唱者8名と大規模な合唱、そして管弦楽という大編成が用いられている。",
+      "en": "A large-scale oratorio in two parts and forty-two numbers. It opens with the prophet Elijah's fierce declamation, then moves through a fugal overture straight into the opening chorus without pause. The forces required are substantial: eight vocal soloists, a large chorus, and full orchestra."
+    },
+    "story": {
+      "ja": "1845年から翌1846年にかけて作曲され、同年8月26日、バーミンガム・タウンホールでメンデルスゾーン自身の指揮のもと、英語版で初演された。エリヤ役はバス・バリトンのヨーゼフ・シュタウディグルが務め、初演は大成功を収めたと伝えられる。作曲家は翌年のロンドン公演に向けて、さらに改訂を加えている。",
+      "en": "Composed across 1845 and into 1846, the oratorio premiered that August 26 in Birmingham Town Hall, conducted by Mendelssohn himself, in its English version, with bass-baritone Josef Staudigl as Elijah. Reports call the premiere a triumph. Mendelssohn went on to revise the score further ahead of London performances the following year."
     }
   }
 }
