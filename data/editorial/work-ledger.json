@@ -387,7 +387,7 @@
     "title": "L'incoronazione di Poppea, SV308",
     "composer": "Claudio Monteverdi",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "3174": {
     "title": "Orfeo, SV318",
@@ -399,7 +399,7 @@
     "title": "Vespro della beata Vergine, SV206",
     "composer": "Claudio Monteverdi",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "3382": {
     "title": "Aconcagua', concerto for bandoneón, string instruments and percussion",
@@ -609,13 +609,13 @@
     "title": "I Puritani",
     "composer": "Vincenzo Bellini",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "4422": {
     "title": "La sonnambula",
     "composer": "Vincenzo Bellini",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "4432": {
     "title": "Norma",
@@ -807,7 +807,7 @@
     "title": "String Quintet in E major, op. 11, no. 5",
     "composer": "Luigi Boccherini",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "6209": {
     "title": "Organ Concerto in F major, HWV.295, \"The Cuckoo and the Nightingale\"",
@@ -1497,13 +1497,13 @@
     "title": "La fille du régiment",
     "composer": "Gaetano Donizetti",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "10583": {
     "title": "L'elisir d'amore",
     "composer": "Gaetano Donizetti",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "10694": {
     "title": "Requiem, op. 9",
@@ -1737,7 +1737,7 @@
     "title": "La serva padrona",
     "composer": "Giovanni Battista Pergolesi",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "13917": {
     "title": "Piano Concerto no. 2 in D minor, op. 23",
@@ -1785,7 +1785,7 @@
     "title": "Médée",
     "composer": "Luigi Cherubini",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "14347": {
     "title": "La création du monde, op. 81",
@@ -2319,7 +2319,7 @@
     "title": "Manon Lescaut",
     "composer": "Giacomo Puccini",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "16515": {
     "title": "Nessun Dorma",
@@ -2823,7 +2823,7 @@
     "title": "Ancient Airs and Dances, Suite no. 1, P.109",
     "composer": "Ottorino Respighi",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "19898": {
     "title": "Pini di Roma, P.141",
@@ -2835,7 +2835,7 @@
     "title": "Feste romane, P.157",
     "composer": "Ottorino Respighi",
     "stars": 3,
-    "status": "todo"
+    "status": "done"
   },
   "19915": {
     "title": "Fontane di Roma, P.106",

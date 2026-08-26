@@ -18,5 +18,25 @@
       "ja": "1914年から1916年にかけて作曲された、ローマを主題とする3部作交響詩の第1作である。初演は1917年3月11日、ローマのアウグステオ劇場でおこなわれたが、この時の指揮はトスカニーニではなく、アントニオ・グァルニエーリが務めた(トスカニーニは当初この演奏会を指揮する予定だったが、戦時下でのワーグナー作品の扱いをめぐる論争から降板したという経緯がある)。この初演の評判は芳しくなく、レスピーギ自身も落胆したと伝えられる。\nしかし1918年2月、トスカニーニ自身の指揮による演奏が転機となり、この曲は一躍レスピーギの出世作となった。以後、続く「ローマの松」「ローマの祭り」とあわせて彼の代表作として広く知られるようになった。",
       "en": "Composed between 1914 and 1916, it is the first of his trilogy of Roman tone poems. It premiered on 11 March 1917 at the Teatro Augusteo in Rome, conducted not by Toscanini but by Antonio Guarnieri — Toscanini had originally been engaged to conduct but withdrew amid a wartime dispute over programming Wagner. The premiere was poorly received, and Respighi himself is said to have been discouraged by its reception.\nThe turning point came in February 1918, when Toscanini himself conducted a performance that transformed the work into Respighi's breakthrough. It went on, together with the later Pines of Rome and Feste Romane, to become one of the defining achievements of his career."
     }
+  },
+  "19884": {
+    "structure": {
+      "ja": "16世紀から17世紀にかけてのリュート曲を管弦楽用に編曲した組曲。フルート2、オーボエ2、コーラングレ、ファゴット2、ホルン2、トランペット、ハープ、チェンバロと弦楽で演奏される。",
+      "en": "A suite of sixteenth- and seventeenth-century lute pieces arranged for modern orchestra in four movements, scored for two flutes, two oboes, English horn, two bassoons, two horns, trumpet, harp, harpsichord, and strings, reflecting Respighi's antiquarian interest in early music."
+    },
+    "story": {
+      "ja": "1917年に作曲された。第1曲「イル・コンテ・オルランド」はシモーネ・モリナーロが16世紀末に編んだ曲集に、第2曲のガリアルダはヴィンチェンツォ・ガリレイの旋律に基づく。第3曲のヴィッラネッラと第4曲のパッソメッツォ・エ・マスケラーダは、いずれも作者不詳の16世紀末の旋律による。",
+      "en": "Composed in 1917, the suite draws its first movement, a balletto titled 'Il Conte Orlando,' from a collection assembled by Simone Molinaro at the end of the sixteenth century, and its second, a gagliarda, from a melody by Vincenzo Galilei. The third and fourth movements set anonymous melodies from the same late-sixteenth-century period."
+    }
+  },
+  "19906": {
+    "structure": {
+      "ja": "「ローマの噴水」「ローマの松」に続く「ローマ三部作」の最後を飾る作品。「チルチェンセス」「五十年祭」「十月祭」「主顕祭前夜」の全4部から成り、剣闘士の死闘やローマの民衆の祝祭など、多彩な情景が管弦楽で描かれる。",
+      "en": "The final panel of Respighi's 'Roman Trilogy,' following 'Fountains of Rome' and 'Pines of Rome.' Its four parts — 'Circuses,' 'The Jubilee,' 'The October Festival,' and 'Epiphany' — depict scenes ranging from gladiators' combat to the festive crowds of Rome, all vividly rendered by the orchestra."
+    },
+    "story": {
+      "ja": "作曲は1928年、初演は翌1929年、指揮アルトゥーロ・トスカニーニ、ニューヨーク・フィルハーモニックによってニューヨークのカーネギーホールで行われ、出版も同年、リコルディ社からなされた。「ローマの噴水」「ローマの松」の前2作と比べると成功度で劣ると評されることが多い一方、指揮者ヤン・パスカル・トルトゥリエはその管弦楽法の洗練を称賛したとされる(UNCERTAIN)。",
+      "en": "Composed in 1928, the work was premiered the following year at Carnegie Hall in New York by Arturo Toscanini and the New York Philharmonic, and published that same year by Ricordi. It is often judged less successful than its two predecessors, though the conductor Yan Pascal Tortelier praised its sophisticated orchestration (UNCERTAIN)."
+    }
   }
 }
