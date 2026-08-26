@@ -989,6 +989,16 @@
       "en": "It premiered in Paris on 3 August 1829. Rossini lived for almost another forty years but never wrote another opera. The reasons are not entirely clear, but the work was commercially successful enough that he could afford to stop; he spent his remaining decades on sacred and vocal music and, famously, on food.\nThe overture's finale went on to serve as the theme for the American radio, television and film versions of The Lone Ranger, and in the United States it is now remembered at least as much for that as for the opera it introduces."
     }
   },
+  "5471": {
+    "structure": {
+      "ja": "独奏ヴァイオリンと管弦楽のための単一楽章の作品で、変ホ長調、演奏時間は約16分。神秘的な緩徐部に始まり、いくつかの速度の異なる部分を経て、最後は静かに閉じられる、劇的な起伏を持つ狂詩曲的な構成を特徴とする。",
+      "en": "Cast in a single movement for solo violin and orchestra in E-flat major and lasting about sixteen minutes, the piece opens in a mysterious slow tempo, passes through several contrasting sections, and closes quietly in a rhapsodic design."
+    },
+    "story": {
+      "ja": "1896年、フィレンツェ滞在中に作曲され、同年末にナンシーで初演、翌年出版された。ヴァイオリニストのイザイから協奏曲の依頼を受けたが、思うように書けず、代わりにこの作品を仕上げてイザイに献呈したと伝えられる。出版に際しては、友人でもあった作曲家アルベニスが費用の一部を援助したという。",
+      "en": "Composed in 1896 while the composer was staying in Florence, the work was premiered in Nancy later that year and published the following year. Violinist Eugène Ysaÿe had asked for a full concerto, but finding himself unable to satisfy the request, the composer wrote this piece instead and dedicated it to him."
+    }
+  },
   "6209": {
     "structure": {
       "ja": "全4楽章。オルガン独奏と管弦楽のための協奏曲で、ある楽章でオルガンの高音域にカッコウとナイチンゲールの鳴き声を模した旋律が現れ、愛称の由来となっている。当時のオルガンにはペダル鍵盤がなく、鍵盤のみで演奏される。",
@@ -1107,6 +1117,16 @@
     "story": {
       "ja": "「水上の音楽」全体は1717年7月17日、国王ジョージ1世のテムズ川での船遊びに合わせて初演された。第2組曲を含む全曲がどのような順で演奏されたかについては史料が乏しく、現在出版されている組曲の並びは後世の校訂者による整理である。\n第1組曲がホルンを中心に大規模な編成であるのに対し、第2組曲はより小編成で明るい響きを特徴とし、当時の記録によれば国王はこの音楽全体をいたく気に入り、繰り返し演奏させたと伝えられる。",
       "en": "The complete Water Music was first performed on 17 July 1717, to accompany King George I's excursion on the Thames. Little documentary evidence survives of the order the movements were actually played in that day; the suite divisions used in modern editions are the work of later editors.\nWhere the first suite is built around a large horn-led ensemble, the second is more lightly scored and brighter in tone. Contemporary accounts describe the king as delighted with the music as a whole, having it played through again and again."
+    }
+  },
+  "6516": {
+    "structure": {
+      "ja": "全3幕のオペラで、台本はミシェル・カレとレオン・コルモンによる。舞台はセイロン島の真珠採りの村。ハープを伴う管弦楽が用いられ、ナディールのロマンス「耳に残るは君の歌声」ではコーラングレが独奏で寄り添う。",
+      "en": "An opera in three acts with a libretto by Michel Carré and Léon Cormon, set among pearl divers on the island of Ceylon. The orchestra includes harp, and a solo cor anglais obbligato accompanies Nadir's romance 'Je crois entendre encore.'"
+    },
+    "story": {
+      "ja": "1863年4月から8月にかけて一気に書き上げられ、劇場支配人カルヴァーリョの依頼により同年9月30日、パリのテアトル・リリックで初演された。「聖なる神殿の奥深く」の二重唱など親しみやすい旋律を持ちながらも、初演当時の批評は総じて手厳しく、公演はわずか18回で打ち切られた。もっとも、批評家ベルリオーズだけはこの作品を高く評価したと伝えられる。",
+      "en": "Written in a rapid burst between April and August 1863, the opera was premiered that September at the Théâtre Lyrique in Paris at the invitation of its director, Léon Carvalho. Despite its now-beloved melodies, such as the duet 'Au fond du temple saint,' the initial press response was largely hostile and the run closed after only eighteen performances; the critic Hector Berlioz was a rare dissenting voice, praising the score highly."
     }
   },
   "6544": {
@@ -2019,6 +2039,16 @@
       "en": "It is based on Walter Scott's novel The Bride of Lammermoor, itself said to draw on a real incident of 1669, in which a Scottish noblewoman wounded her bridegroom on their wedding night, went mad, and died within a month.\nCommissioned by the Teatro di San Carlo in Naples in May 1835, Donizetti composed it in a remarkably short two months, finishing on 6 July. It premiered at the same theatre on 26 September that year, to great success."
     }
   },
+  "10694": {
+    "structure": {
+      "ja": "全9楽章から成るレクイエムで、旋律の大部分がグレゴリオ聖歌に由来する。「怒りの日」をほぼ用いず「慈しみ深きイエスよ」を残し、「われを解き放ちたまえ」と「楽園にて」を含める構成は、フォーレのレクイエムと共通し、慰めに満ちた性格を作品全体に与えている。",
+      "en": "This nine-movement Requiem draws most of its melodic material from Gregorian chant. Largely setting aside the Dies irae while keeping the Pie Jesu and including the Libera me and In paradisum, it shares its overall design with Fauré's Requiem, giving the whole a consoling rather than fearsome character."
+    },
+    "story": {
+      "ja": "戦時中に依頼を受けた作品の構想を出発点として数年越しの推敲を経て1947年に完成し、翌年デュラン社から出版された。作曲者の亡き父の追悼に捧げられており、後年にはオルガンと弦楽、あるいは管弦楽伴奏を伴う版など、複数の編成による版も作られ、今日でも広く演奏されている。",
+      "en": "Growing out of a wartime commission that the composer reworked over several years, the Requiem was completed in 1947 and published the following year by Durand. It is dedicated to the memory of the composer's father, and the composer later prepared alternative versions scored for organ and strings or for full orchestra."
+    }
+  },
   "10744": {
     "structure": {
       "ja": "独唱、合唱、児童合唱と大編成の管弦楽のための世俗カンタータ。25の曲からなり、冒頭の「おお、運命の女神よ」が終曲で再び現れて全体を輪のように閉じる。\n和声は単純で、同じ和音を打楽器的に連打する書き方が多い。旋律の反復とリズムの推進力で押していく作りで、20世紀の作品でありながら対位法をほとんど用いない。",
@@ -2259,6 +2289,16 @@
       "en": "Composed between 1893 and 1902, it premiered on 30 April that year at the Opéra-Comique in Paris, conducted by André Messager with Mary Garden in the title role. An earlier rehearsal reportedly grew unruly, with the audience laughing at points meant to be taken seriously; some critics dismissed it harshly, but younger composers responded with real enthusiasm."
     }
   },
+  "13767": {
+    "structure": {
+      "ja": "独奏チェロと管弦楽のための全5楽章の協奏曲で、各楽章の冒頭にはボードレールの詩集『悪の華』からの一節が添えられている。チェレスタやハープ、多彩な打楽器を含む大編成の管弦楽が用いられる。",
+      "en": "This concerto for solo cello and orchestra unfolds in five movements, each headed by a line from Baudelaire's collection Les Fleurs du Mal. The large orchestra includes celesta, harp, and an extensive array of percussion instruments."
+    },
+    "story": {
+      "ja": "1967年から1970年にかけて作曲され、同年7月25日、エクサンプロヴァンス音楽祭で初演された。独奏はこの曲を委嘱したチェリストのムスティスラフ・ロストロポーヴィチが務め、作品も彼に献呈されている。曲名はボードレールの詩の一節から採られた。",
+      "en": "Composed between 1967 and 1970, the concerto was premiered that July at the Festival d'Aix-en-Provence by the Orchestre de Paris. The soloist was Mstislav Rostropovich, who commissioned the work and to whom it is dedicated; its title is drawn from a line in a Baudelaire poem about hair, the same collection that supplies a heading for each of the work's five movements."
+    }
+  },
   "13824": {
     "structure": {
       "ja": "仰々しい序奏に続いて童謡「きらきら星」の旋律がそのまま提示され、以降13の変奏とフガート風の終曲へと展開するピアノと管弦楽のための作品。序奏の大仰さと主題の素朴さとの落差そのものが一種の音楽的な冗談になっている。",
@@ -2349,6 +2389,16 @@
       "en": "Written soon after it was conceived, the score reached the stage on 21 February 1920, given at a Paris theater near the Champs-Élysées with Vladimir Golschmann on the podium and Jean Cocteau staging the choreography. The title's origin remains debated: Milhaud himself reportedly traced it to a Brazilian dance term, though a rival theory points instead to a bar's painted sign."
     }
   },
+  "14468": {
+    "structure": {
+      "ja": "地中海の3つの寄港地を描いた全3楽章の管弦楽曲で、演奏時間は約15分。チェレスタや2台のハープを含む大編成が用いられ、各楽章に南欧・北アフリカの風土を思わせる色彩豊かな響きが広がる。",
+      "en": "Depicting three Mediterranean ports of call across three movements, this orchestral work lasts about fifteen minutes. It calls for a large orchestra including celesta and two harps, and each movement conjures the colorful atmosphere of southern Europe and North Africa."
+    },
+    "story": {
+      "ja": "第一次世界大戦後、作曲者自身が海軍勤務や地中海への旅で見聞きした情景をもとに数年をかけて作曲され、1924年、パリのサル・プレイエルでラムルー管弦楽団により初演された。当初から評判を呼び、その色彩的な管弦楽法はラヴェルの作品にも比肩すると評された。",
+      "en": "Drawing on scenes the composer witnessed during naval service and travels around the Mediterranean after the First World War, the piece took shape over several years before reaching the concert stage. Its first hearing came in Paris in 1924, given by the Lamoureux Orchestra, and the score's vivid, colorful orchestration drew immediate comparisons to Ravel's own."
+    }
+  },
   "14525": {
     "structure": {
       "ja": "単一楽章からなる管弦楽のための狂詩曲。スペイン旅行中に耳にした2つの舞曲、速く情熱的なホタと、より緩やかで官能的なマラゲーニャを融合させ、華麗な管弦楽法によって一続きの音楽として仕立てている。",
@@ -2437,6 +2487,16 @@
     "story": {
       "ja": "1570年前後、エリザベス1世の治世に作曲されたとみられているが、この曲が書かれた具体的な機会については確証がなく、複数の仮説が並び立っている。かつてはメアリー1世(1556年)ないしエリザベス1世(1573年)の40歳の誕生日を祝うために書かれたとする説が広く語られていたが、これも裏づけとなる史料はなく、伝承の域を出ないとされる。ノーフォーク公の依頼により1570年から71年頃、ロンドンのアランデル・ハウスで初演されたとする説や、当時イングランドに伝わっていたイタリアの作曲家アレッサンドロ・ストリッジョによる同様の多声モテットに対抗する意図で書かれたとする説も唱えられているが、いずれも確定していない。\nこの曲の演奏として明確に記録が残る最初期の例は、タリスの死後にあたる1610年6月4日、ウェストミンスター寺院でおこなわれた皇太子ヘンリー・フレデリックの叙任式典であり、この際には同じ40声部の音楽に新たな英語の歌詞をつけた替え歌「天のいと高き主を讃え歌え」として演奏された。",
       "en": "It is thought to have been composed around 1570, during the reign of Elizabeth I, but the specific occasion remains genuinely uncertain, with several competing theories and none conclusively proven. A once-popular tradition held that it was written to mark a monarch's fortieth birthday — either Mary I's, in 1556, or Elizabeth I's, in 1573 — though no documentary evidence supports this either, and it should be treated as legend. Other theories propose a first performance around 1570–71 at Arundel House in London, commissioned by the Duke of Norfolk, or that it was written to rival a similarly massive polychoral motet by the Italian composer Alessandro Striggio then circulating in England — neither is settled.\nThe earliest performance clearly documented took place after Tallis's death: on 4 June 1610, at Westminster Abbey, for the investiture of Henry Frederick, Prince of Wales, where the same 40-part music was sung with new English words, as the contrafactum \"Sing and glorify heaven's high majesty.\""
+    }
+  },
+  "14852": {
+    "structure": {
+      "ja": "ピアノと管弦楽のための幻想曲として構想された全3楽章の作品で、演奏時間は約30分。ピアノは目立つ役割を持ちながらも協奏曲のような主役にはならず、冒頭の旋律はコーラングレによって静かに提示される。",
+      "en": "Conceived as a fantasy for piano and orchestra, this three-movement work runs about thirty minutes. The piano plays a prominent but not dominant role, and the opening melody is first heard on the cor anglais."
+    },
+    "story": {
+      "ja": "1886年に作曲され、翌年3月20日にパリで初演された。副題「セヴェンヌ交響曲」は、作曲者がセヴェンヌ山地を望むペリエ村付近で耳にした民謡に由来し、その旋律が全曲を通じて姿を変えながら現れる。独奏はピアニストのマリー=レオンティーヌ・ボルド=ペーヌが務め、彼女に献呈された。",
+      "en": "Composed in 1886, the symphony was premiered in Paris the following March. Its subtitle, 'Symphonie cévenole,' derives from a folk tune the composer heard near the village of Périer, overlooking the Cévennes mountains, a melody that reappears in transformed guises throughout the work. The pianist Marie-Léontine Bordes-Pène played the solo part at the premiere and is the work's dedicatee."
     }
   },
   "14972": {
@@ -2659,6 +2719,16 @@
       "en": "It premiered on 31 August 1928 at the Theater am Schiffbauerdamm in Berlin, as the production chosen by the manager Ernst Josef Aufricht to reopen the theatre. By 1933 it had reportedly been staged around 4,000 times by more than 200 companies across the German-speaking world — an unexpectedly enormous popular success for a work whose content was so bleak and satirical.\nThe number that has come to define the show, \"Mack the Knife\" (\"Die Moritat von Mackie Messer\"), is said to have been a last-minute addition. Harald Paulsen, the actor cast as Macheath, was unhappy that his entrance made too weak an impression and demanded a number that would establish him as a dangerous, glamorous antihero; Brecht and Weill are said to have written the street-singer's ballad shortly before the opening, some accounts say the night before. It went on to become a worldwide standard, familiar today through recordings by Louis Armstrong and Bobby Darin, among many others."
     }
   },
+  "15339": {
+    "structure": {
+      "ja": "E.T.A.ホフマンの3つの怪奇小説に基づく序幕・3幕・終幕から成るオペラで、台本はジュール・バルビエが手掛けた。人形オランピアのアリア「森の小鳥」や、舟歌「美しき夜、恋の夜よ」など親しみやすい旋律で知られる。",
+      "en": "Based on three fantastical tales by E.T.A. Hoffmann, this opera unfolds across a prologue, three acts, and an epilogue, with a libretto by Jules Barbier. It is celebrated for accessible melodies such as the doll Olympia's aria and the barcarolle 'Belle nuit, ô nuit d'amour.'"
+    },
+    "story": {
+      "ja": "作曲者は完成を見ることなく1880年に世を去り、管弦楽化は弟子のエルネスト・ギローが引き継いだ。1881年、パリのオペラ・コミック座で初演されたが、これは作曲者にとって最初で唯一の遺作上演となった。当初はヴェネツィアを舞台とする幕が省かれたまま上演され、後年になって復元が試みられている。",
+      "en": "The composer died in 1880 before completing the work, and his pupil Ernest Guiraud finished the orchestration. The opera was premiered in 1881 at the Opéra-Comique in Paris, the composer's only work to reach the stage posthumously in this way. Early performances omitted the Venice act entirely, and later productions have attempted to restore it."
+    }
+  },
   "15387": {
     "structure": {
       "ja": "ギリシャ神話のオルフェウスとエウリュディケーの物語を下敷きにした風刺的な喜歌劇（オペレッタ）全2幕（のち4幕に改訂）。オリュンポスの神々を俗物として描く筋書きが特徴で、シリアスな神話劇の伝統をあえて茶化している。\n終幕、地獄で開かれる宴の場で演奏される「地獄のギャロップ」が特に有名で、のちにフレンチカンカンの伴奏曲として定着した通称でも広く知られている。",
@@ -2857,6 +2927,16 @@
     "story": {
       "ja": "楽譜の表紙には「クリスマスの夜のために作られた」という趣旨の言葉が記されている。庇護者だった枢機卿オットボーニのために、1690年ごろ、クリスマスの演奏会向けに書かれたとみられている。\n出版は彼の死後、1714年、全12曲からなる合奏協奏曲集「作品6」の一部としてのことだった。",
       "en": "The score carries an inscription meaning \"made for the night of Christmas.\" It appears to have been written around 1690 for a Christmas concert for his patron, Cardinal Ottoboni.\nIt was published only after his death, in 1714, as part of a set of twelve concerti grossi, his Op. 6."
+    }
+  },
+  "15869": {
+    "structure": {
+      "ja": "全4楽章の交響曲で、演奏時間は約25分。急・緩・急・急という伝統的な楽章配置を取りながらも、コーラングレやバスクラリネット、コントラファゴット、2台のハープを含む大編成の管弦楽が用いられている。",
+      "en": "Cast in four movements — fast, slow, fast, and fast — this symphony calls for a large orchestra including English horn, bass clarinet, contrabassoon, celesta, and two harps, alongside an extensive percussion section that includes a tam-tam and other colors."
+    },
+    "story": {
+      "ja": "ボストン交響楽団の創立50周年を記念して委嘱され、1929年から翌年にかけて作曲された。1930年10月24日、指揮者クーセヴィツキーとボストン響により初演され、フランス近代交響曲の代表作の一つとして高く評価されている。翌年、デュラン社から出版された。",
+      "en": "Commissioned for the fiftieth anniversary of the Boston Symphony Orchestra, the symphony was composed between 1929 and 1930. It was premiered on 24 October 1930 in Boston under Serge Koussevitzky, and one critic praised its finale as a carnival of exuberant energy, ranking the work among the finest achievements of the modern French symphonic repertoire. It was published the following year by Durand."
     }
   },
   "16121": {
@@ -3327,6 +3407,16 @@
     "story": {
       "ja": "1986年、ピッツバーグ交響楽団と結びつきの深いグレート・ウッズ音楽祭のためのファンファーレとして作曲され、同年、同楽団により初演された。作曲家自身は、この曲を「豪華なスポーツカーに招かれて乗り込んだものの、途中で後悔する」ときの感覚になぞらえたと伝えられ、後にアダムズの管弦楽曲の中でも屈指の人気作となった。",
       "en": "Composed in 1986 for the Great Woods festival associated with the Pittsburgh Symphony Orchestra, the piece was premiered that year by the orchestra. Adams himself likened the experience of the piece to being invited into a terrific sports car, only to regret it once the ride was already underway, and it later became one of the most widely performed American orchestral works of its time."
+    }
+  },
+  "16906": {
+    "structure": {
+      "ja": "クラリネット、ヴァイオリン、チェロ、ピアノのための全8楽章の作品で、「新約聖書」の「もはや時がない」と告げる天使の幻に着想を得ている。各楽章には瞑想的な緩徐楽章と激しく躍動する楽章とが対照的に配置される。",
+      "en": "Scored for clarinet, violin, cello, and piano across eight movements, the work is inspired by a biblical vision of an angel proclaiming that time will be no more. Meditative slow movements stand in stark contrast to passages of fierce, driving energy."
+    },
+    "story": {
+      "ja": "捕虜として抑留されていた1940年に着手され、その翌年にかけて書き継がれた。翌年1月15日、収容所内で共に捕らわれていた仲間の演奏家たちと作曲者自身のピアノにより初演された。編成はクラリネット、ヴァイオリン、チェロ、ピアノという、収容所内で入手できた奏者と楽器の制約から生まれたものである。",
+      "en": "Begun in 1940 while the composer was held as a prisoner of war, the quartet was completed the following year and premiered that same January inside the camp, performed by fellow prisoner-musicians alongside the composer himself at the piano. Its unusual scoring for clarinet, violin, cello, and piano arose from the instruments and players actually available there."
     }
   },
   "16907": {
@@ -5403,6 +5493,26 @@
     "story": {
       "ja": "指揮者ハンス・キンドラーの委嘱を受けて着想されたが、完成した楽譜はセルゲイ・クーセヴィツキーに渡され、1939年2月、クーセヴィツキー指揮のボストン交響楽団により初演された。クーセヴィツキーの提案により結尾部が加筆され、初演当初の評価は芳しくなかったものの、後年になって人気を高めていった。",
       "en": "Originally commissioned by conductor Hans Kindler, Harris instead handed the finished score to Serge Koussevitzky, who conducted its premiere with the Boston Symphony Orchestra in February 1939. A closing coda was added at Koussevitzky's suggestion, and although the initial reception was cool, the symphony grew steadily more popular in later decades."
+    }
+  },
+  "25044": {
+    "structure": {
+      "ja": "ソプラノ独唱、混声合唱、管弦楽のための全6楽章から成る宗教曲で、荘重な楽章と軽やかで開放的な楽章とが交互に置かれている。大規模な管弦楽にはコントラファゴットや大編成の金管も含まれる。",
+      "en": "Scored for soprano soloist, mixed chorus, and orchestra in six movements, this sacred work alternates between solemn passages and bright, buoyant sections full of rhythmic energy. The large orchestra includes contrabassoon and a substantial brass section."
+    },
+    "story": {
+      "ja": "クーセヴィツキー財団の委嘱により1960年に完成し、指揮者クーセヴィツキー夫妻の追悼に捧げられた。翌年1月、ボストンでシャルル・ミュンシュの指揮とソプラノのアデル・アディソンの独唱により初演され、まもなくパリでも初演され、今日でも合唱曲の代表作として親しまれている。",
+      "en": "Commissioned by the Koussevitzky Foundation, the work was completed in 1960 and dedicated to the memory of Serge and Nathalie Koussevitzky. It was premiered in Boston the following January under Charles Münch, with soprano Adele Addison as soloist, and a Paris premiere followed soon after, establishing the work as one of the composer's most frequently performed choral pieces."
+    }
+  },
+  "25119": {
+    "structure": {
+      "ja": "全3幕12場から成るオペラで、台本は作曲者自身がベルナノスの戯曲をもとに手掛けた。場面転換の間には管弦楽による間奏曲が置かれ、終幕ではギロチンの下で修道女たちが「サルヴェ・レジナ」を歌いながら一人ずつ姿を消していく。",
+      "en": "An opera in three acts and twelve scenes, with a libretto the composer adapted himself from Georges Bernanos's play. Orchestral interludes link the scenes, and in the final scene the nuns sing the Salve Regina one by one as they go to the guillotine."
+    },
+    "story": {
+      "ja": "フランス革命期に実際に処刑されたコンピエーニュのカルメル会修道女たちの史実に基づく物語で、1953年から数年をかけて作曲され、1956年に完成した。翌年1月26日、ミラノ・スカラ座でイタリア語訳により初演され、同年6月にはパリでフランス語による初演も行われた。プッチーニ以降のオペラの中でも、国際的なレパートリーに定着し続けている数少ない作品の一つとされる。",
+      "en": "Based on the historical fact of the Carmelite nuns of Compiègne, who were actually executed during the French Revolution, the opera was composed over several years beginning in 1953 and completed in 1956. It was premiered in Italian translation the following January at La Scala in Milan, with a French-language premiere in Paris that June. It remains one of the few post-Puccini operas to have held a continuous place in the international repertory."
     }
   },
   "25148": {
