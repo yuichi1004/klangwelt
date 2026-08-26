@@ -9,6 +9,16 @@
       "en": "In September 1827, Berlioz saw the Irish actress Harriet Smithson play Ophelia in a Paris production of Hamlet and fell instantly in love; he pursued her for years afterward, and she reportedly refused even to meet him.\nThe symphony was finished in February 1830 and premiered in Paris on 5 December that year, accompanied by a written programme describing a lovesick young artist who poisons himself with opium. Handing out a written programme to the audience beforehand was, at the time, an almost unprecedented practice. Smithson herself did not hear the work, or realise she might be its subject, until 1832; the two married the following year, 1833."
     }
   },
+  "20013": {
+    "structure": {
+      "ja": "「トロイア陥落」と「カルタゴのトロイア人」から成る全5幕の大作。舞台裏に配置される金管・打楽器や、6台から8台にも及ぶハープ、サクソルンなど、大規模で色彩豊かな編成が用いられている。",
+      "en": "Les Troyens unfolds across five acts, divided into 'La Prise de Troie' and 'Les Troyens à Carthage.' Its vast orchestration calls for six to eight harps, saxhorns, offstage brass and percussion, and either ophicleide or tuba, yielding an unusually rich and colorful sound."
+    },
+    "story": {
+      "ja": "何年もかけて書き上げられながら、生前は全曲上演の機会に恵まれず、1863年11月4日、パリのリリック座で後半の「カルタゴのトロイア人」のみが部分初演された。ディドン役を歌ったシャルトン=デメールらの熱演もあり、規模の大きさゆえに長らく全曲上演は実現しなかった。",
+      "en": "Berlioz spent years composing this vast opera, yet never saw it staged in full during his lifetime. Only its second half, 'Les Troyens à Carthage,' reached the stage on 4 November 1863 at the Théâtre Lyrique in Paris, with Anne-Arsène Charton-Demeur singing Didon under Adolphe Deloffre's baton. The opera's sheer scale kept a complete staging out of reach for decades."
+    }
+  },
   "20029": {
     "structure": {
       "ja": "独奏ヴィオラを伴う全4楽章の交響曲。独奏ヴィオラは超絶技巧を披露する協奏曲的な役割ではなく、物思いにふける旅人ハロルドを表す固定楽想として、管弦楽の情景のなかを漂うように現れては消える。\nバイロンの詩「チャイルド・ハロルドの巡礼」に着想を得ており、山あいの情景、巡礼の行進、セレナード、山賊の乱痴気騒ぎという4つの場面が描かれる。",
@@ -17,6 +27,26 @@
     "story": {
       "ja": "1834年、名ヴァイオリニストのパガニーニが新たに入手したストラディヴァリウスのヴィオラを披露するための協奏曲を求め、ベルリオーズに作曲を依頼したことがきっかけとなった。\nしかしベルリオーズはヴィオラを技巧的に誇示する独奏楽器としてではなく、交響曲全体のなかに溶け込ませる構想を選んだ。楽譜を見たパガニーニは独奏部分の技巧的な地味さに失望し、演奏を辞退したと伝えられる。初演は同年11月23日、パリ音楽院でベルリオーズ自身の指揮、クレティアン・ユーランの独奏によりおこなわれた。パガニーニは4年後の1838年、実際にこの曲を耳にして深く感銘を受け、ベルリオーズの前にひざまずいて多額の謝礼を贈ったという逸話が伝えられている。",
       "en": "In 1834, the virtuoso Paganini, who had recently acquired a Stradivari viola, asked Berlioz to write a concerto to show it off.\nBerlioz instead conceived a work that folded the viola into a full symphonic design rather than treating it as a display instrument. Paganini, seeing the score, was disappointed by how technically modest the solo part was and declined to play it. It premiered on 23 November that year at the Paris Conservatoire, conducted by Berlioz with Chrétien Urhan as soloist. Four years later, in 1838, Paganini finally heard the work performed and was deeply moved — he is said to have knelt before Berlioz and given him a large sum of money."
+    }
+  },
+  "20031": {
+    "structure": {
+      "ja": "レクイエム・エテルナムとキリエに始まり、怒りの日、聖なるかな、アニュス・デイなど全10楽章から成る大作。四隅に配置された4組の金管群とティンパニ16台、約210名規模の合唱を要する破格の編成で書かれている。",
+      "en": "Berlioz's Requiem spans ten movements, from the opening Requiem aeternam and Kyrie through the Dies irae to a closing Agnus Dei. Its extraordinary scoring calls for four separate brass ensembles stationed at the four corners of the hall, sixteen timpani, and a chorus of roughly two hundred singers."
+    },
+    "story": {
+      "ja": "数年前に起きた革命の戦没者を追悼するため、内務大臣ガスパラン伯爵の依頼で1837年に作曲され、同年12月5日、パリのアンヴァリッドでアベネック指揮により初演された。ベルリオーズ自身、自作の中で一曲だけ残せるとしたらこの曲を選ぶと語ったと伝えられる。",
+      "en": "Commissioned by Interior Minister Comte de Gasparin to commemorate soldiers who died in a revolution some years earlier, Berlioz completed the Requiem in 1837 and heard it premiered that December at the Invalides in Paris under François Habeneck. He is said to have remarked that, if only one of his works could survive, this would be his choice."
+    }
+  },
+  "20063": {
+    "structure": {
+      "ja": "ゲーテの『ファウスト』第一部に基づく全4部の劇的物語（レジャンド・ドラマティック）。独唱4声部に児童合唱と混声合唱を重ね、大編成のオーケストラが壮大な音絵巻を描き出し、「ラコッツィ行進曲」を含む。",
+      "en": "Cast as a légende dramatique in four parts after Goethe's Faust, Part One, the work layers four vocal soloists over children's and mixed chorus against a large orchestra. Its best-known excerpt, the Rákóczi March, sits among richly pictorial scenes spanning heaven, hell, and the Hungarian plain."
+    },
+    "story": {
+      "ja": "1846年2月15日、ペシュトでの演奏会では「ラコッツィ行進曲」が熱狂的な成功を収めた一方、同年12月6日にパリ・オペラ=コミック座で行われた全曲初演はベルリオーズ自身の指揮にもかかわらず客足が伸びず、興行的には失敗に終わったと伝えられる。",
+      "en": "The Rákóczi March scored a triumphant success at a concert in Pest on 15 February 1846, but the complete work fared far worse: its premiere on 6 December that same year at the Paris Opéra-Comique, conducted by Berlioz himself, played to sparse houses and proved a costly financial failure that left the composer deeply in debt."
     }
   }
 }

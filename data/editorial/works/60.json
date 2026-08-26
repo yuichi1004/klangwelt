@@ -1,4 +1,14 @@
 {
+  "5344": {
+    "structure": {
+      "ja": "全2幕から成るドランマ・ジョコーソ。アルジェ太守に囚われたイタリア女性イザベッラの機知を描く筋書きで、フルートやオーボエ、クラリネットを含む中規模編成のオーケストラが軽妙な旋律を支える。",
+      "en": "Structured as a two-act dramma giocoso, L'italiana in Algeri follows the resourceful Isabella as she outwits the Bey of Algiers who holds her captive. A modest orchestra of flute, oboe, clarinet, bassoon, horns, trumpet, trombone, and timpani carries the score's buoyant comic energy."
+    },
+    "story": {
+      "ja": "サン・ベネデット劇場からの依頼で作曲され、1813年5月22日にヴェネツィアで初演。台本は、数年前に海賊にさらわれアルジェの太守のもとへ連れ去られたと伝わる実在の女性の逸話に着想を得たとされる。若きロッシーニはわずか数週間でこの快活な喜劇を書き上げた。",
+      "en": "Written on commission for the Teatro San Benedetto, the opera premiered in Venice on 22 May 1813 with Marietta Marcolini and Filippo Galli in the leading roles. Its plot is said to draw on the real-life ordeal of a woman reportedly abducted by pirates and taken to an Algerian harem some years earlier, a story the young Rossini turned into comedy in just weeks."
+    }
+  },
   "5371": {
     "structure": {
       "ja": "全2幕の喜歌劇。理髪師フィガロが機知を働かせ、後見人に閉じ込められた娘ロジーナと恋人アルマヴィーヴァ伯爵の結婚を取り持つ物語を描く。\nフィガロが登場して歌う「私は町の何でも屋」は、早口で自らの多才ぶりをまくしたてる技巧的な書き方が特徴で、この歌劇を象徴するナンバーとして知られる。",
@@ -7,6 +17,26 @@
     "story": {
       "ja": "原作となるボーマルシェの戯曲は、すでにジョヴァンニ・パイジエッロが1782年にオペラ化しており、ロッシーニの新作はその先行作への挑戦と受け止められた。\nロッシーニはこの曲をわずか13日間で書き上げたとされる。1816年2月20日、ローマのアルジェンティーナ劇場で初演されたが、完成が土壇場までかかりリハーサル不足だったこと、パイジエッロを支持する一派の妨害、伯爵役の歌手が転んで鼻血を出すなどの不運が重なり、初日は大混乱のうちに終わった。舞台に猫が迷い込んだという逸話も伝えられる。しかしその後まもなく評価は一変し、彼の代表作のひとつとして定着した。",
       "en": "The source play by Beaumarchais had already been turned into an opera by Giovanni Paisiello in 1782, and Rossini's new setting was widely taken as a challenge to that earlier work.\nHe is said to have written it in just thirteen days. The Teatro Argentina in Rome was the setting for the first night, 20 February 1816, and the last-minute completion left too little time to rehearse; supporters of Paisiello set out to disrupt the performance, and the singer playing the count tripped and bloodied his nose — a chaotic evening, with a stray cat wandering onstage for good measure, by one account. Its reputation turned around soon afterward, and it became one of his most enduring works."
+    }
+  },
+  "5406": {
+    "structure": {
+      "ja": "「善の勝利」の副題を持つ全2幕のドランマ・ジョコーソ。序曲は自作『ラ・ガッツェッタ』からの転用で、終幕のロンドは『セビリアの理髪師』のアルマヴィーヴァ伯爵のアリアに由来する旋律を発展させている。",
+      "en": "Subtitled La bontà in trionfo (Goodness Triumphant), this two-act dramma giocoso reuses the overture from Rossini's earlier La gazzetta, while its closing rondo grows out of melodic material from Count Almaviva's aria in The Barber of Seville."
+    },
+    "story": {
+      "ja": "わずか3週間ほどで書き上げられ、1817年1月25日にローマのヴァッレ劇場でロッシーニ自身の指揮により初演され、アンジェリーナ役はゲルトルーデ・リゲッティ・ジョルジが歌った。一部の回想録は初演の不評を伝えるが、実際には概ね好評で、批判は歌手の出来にのみ向けられたとする説もある。",
+      "en": "Composed in only about three weeks, the opera premiered in Rome at the Teatro Valle on 25 January 1817, with Rossini himself conducting and Geltrude Righetti Giorgi as Angelina. Though some later memoirs describe a poor first reception, contemporary accounts suggest the opera was in fact well received, with criticism directed mainly at the singers."
+    }
+  },
+  "5419": {
+    "structure": {
+      "ja": "キリエ、グロリア、クレードの三部を中心に、前奏曲や奉献唱を含む全14曲ほどから成る。原典版はソプラノ・アルト・テノール・バス独唱、混声合唱、ハルモニウムとピアノ2台という室内楽的編成で書かれている。",
+      "en": "Built around a tripartite Kyrie, Gloria, and Credo, the Petite messe solennelle comprises roughly fourteen sections, including a religious prelude and offertory. Its original chamber scoring calls for four vocal soloists, mixed chorus, harmonium, and two pianos rather than a full orchestra."
+    },
+    "story": {
+      "ja": "パリ郊外パッシーで1863年に作曲され、翌年、ピレ=ヴィル伯爵夫人邸で18歳のアルベール・ラヴィニャックの指揮により私的に初演された。ロッシーニ自身はこの曲を「老いの過ち」の掉尾と呼び、教会の女性歌手禁止規定を理由に、生前は公の演奏を控えたと伝えられる。",
+      "en": "Composed in 1863 at Passy outside Paris, the work received its first, private performance the following year at the Paris home of Countess Pillet-Will, conducted from the harmonium by eighteen-year-old Albert Lavignac. Rossini himself called it the last of his 'sins of old age,' and reportedly withheld public performance during his lifetime, citing the church's ban on female singers."
     }
   },
   "5441": {

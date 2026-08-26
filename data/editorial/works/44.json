@@ -1,4 +1,14 @@
 {
+  "3659": {
+    "structure": {
+      "ja": "1937年の戴冠式のために書かれた祝典行進曲。単一楽章によるABABC形式で、快活なハ長調の主部と変イ長調のトリオが対比され、フルート3本やコーラングレ、バスクラリネット、コントラファゴットを含む大編成に任意のオルガンも加わる。",
+      "en": "Written as a ceremonial march for the 1937 coronation, Crown Imperial unfolds in a single ABABC-form movement. Its buoyant main section in C major contrasts with a trio shifting to A-flat major, scored for a large orchestra including triple flutes, cor anglais, bass clarinet, contrabassoon, and optional organ."
+    },
+    "story": {
+      "ja": "ジョージ6世の戴冠式に向けて英国放送協会から依頼され、普段は筆の遅いウォルトンが2週間足らずで書き上げたと伝えられる。曲名は楽譜冒頭に掲げたウィリアム・ダンバーの詩の一節に由来し、1937年5月12日、ウェストミンスター寺院での戴冠式で王太后メアリーの行列に合わせて演奏された。",
+      "en": "Commissioned by the BBC for King George VI's coronation, Walton — usually a slow, deliberate composer — reportedly completed the march in under two weeks. Its title comes from a line by poet William Dunbar printed at the head of the score, and the piece was performed on 12 May 1937 as Queen Mother Mary's procession entered Westminster Abbey."
+    }
+  },
   "3682": {
     "structure": {
       "ja": "全4楽章の交響曲。切迫感のある推進力に満ちたリズムと、なかなか解決へ向かわない終楽章の劇的な構えが特徴とされる。",
@@ -7,6 +17,26 @@
     "story": {
       "ja": "1932年から作曲が始まり、当時ウォルトンが交際していたドイツ人男爵夫人イマ・デルンベルクに献呈された。1934年秋までに最初の3楽章は完成していたが、終楽章の作曲は難航した。映画音楽の仕事に追われたことや、その年のうちにデルンベルクとの関係が終わりを迎えたことなどが重なったためとされる。\n初演を待ちきれない指揮者ハミルトン・ハーティは、1934年12月3日、ロンドンのクイーンズ・ホールで、ロンドン交響楽団を指揮し、未完成のまま最初の3楽章のみを演奏会にかけた。作曲家コンスタント・ランバートの助言をきっかけに終楽章の構想がまとまり、全曲は1935年11月6日、同じくクイーンズ・ホールでハーティ指揮BBC交響楽団により初演された。ウォルトンの相手が完成までに別の女性へと変わっていたにもかかわらず、献辞は当初のままイマ・デルンベルクに宛てて残された。",
       "en": "Walton began composing it in 1932, and it is dedicated to Baroness Imma Doernberg, a German widow with whom he was involved at the time. The first three movements were finished by autumn 1934, but the finale resisted him, not least because he was distracted by film-scoring work for money and because his relationship with Doernberg ended that same year.\nUnwilling to wait any longer, the conductor Hamilton Harty gave the unfinished symphony's first three movements alone at Queen's Hall, London, on 3 December 1934, with the London Symphony Orchestra. A suggestion from the composer Constant Lambert reportedly helped Walton find his way into the finale, and the complete symphony premiered on 6 November 1935, again at Queen's Hall, with Harty conducting the BBC Symphony Orchestra. Although his affections had moved on to another woman by the time the work was finished, the dedication to Doernberg was left unchanged."
+    }
+  },
+  "3689": {
+    "structure": {
+      "ja": "独唱バリトンと二重混声合唱に、左右に配置された2組の金管バンド（各トランペット3・トロンボーン3・テューバを含む）が加わる単一楽章の合唱作品。バビロン捕囚・饗宴・王国の崩壊を描く三部構成をとり、演奏時間は約35分に及ぶ。",
+      "en": "Belshazzar's Feast is a single-movement choral work for baritone soloist and double chorus, reinforced by two antiphonal brass bands placed on either side of the stage. Its three-part narrative traces the Babylonian captivity, the feast, and the kingdom's fall, running roughly thirty-five minutes."
+    },
+    "story": {
+      "ja": "英国放送協会からの委嘱で書かれ、1931年10月8日、リーズ・タウンホールでマルコム・サージェント指揮により初演された。友人であり支援者でもあったバーナーズ卿に献呈され、当初は異教的すぎるとの批評もあったが、後年カラヤンら指揮者からも高く評価されるようになった。",
+      "en": "Commissioned by the BBC and dedicated to Walton's friend and patron Lord Berners, the work premiered on 8 October 1931 at Leeds Town Hall under Malcolm Sargent, with baritone Dennis Noble and the London Symphony Orchestra. Early critics found it more pagan spectacle than oratorio, but conductors including Karajan later praised it as among the finest choral works of its era."
+    }
+  },
+  "3696": {
+    "structure": {
+      "ja": "全3楽章から成るヴァイオリン協奏曲。ロ短調の瞑想的な第1楽章アンダンテ・トランクィロに続き、ナポリ風のスケルツォ第2楽章プレスト・カプリッチョーソ、そしてロンド形式の終楽章ヴィヴァーチェが置かれる。",
+      "en": "Walton's Violin Concerto unfolds across three movements: a brooding Andante tranquillo in B minor, a Neapolitan-flavored scherzo marked Presto capriccioso alla Napolitana, and a rondo-form finale marked Vivace. A later revision trimmed the percussion section without altering the work's overall shape."
+    },
+    "story": {
+      "ja": "ヴァイオリニストのヤッシャ・ハイフェッツが自ら委嘱し、1939年12月7日にクリーヴランド管弦楽団との共演で初演。英国初演は1941年、独奏をヘンリー・ホルストが務め、ウォルトン自身が指揮した。ラヴェッロで作曲中にタランチュラに噛まれた体験が、舞曲風の楽想に影を落としたと伝えられる。",
+      "en": "Violinist Jascha Heifetz commissioned the concerto and gave its premiere with the Cleveland Orchestra on 7 December 1939; the British premiere followed in 1941, with Henry Holst as soloist under Walton's own baton. According to the composer, being bitten by a tarantula while working in Ravello left its mark on the score's tarantella-like passages."
     }
   }
 }

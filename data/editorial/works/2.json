@@ -38,5 +38,25 @@
       "ja": "1884年夏から1887年8月にかけて第1稿が書き上げられた。同年9月、ブルックナーは総譜の写しを指揮者ヘルマン・レーヴィのもとへ送ったが、レーヴィはオーケストレーションを「まったく不可能」、主題の展開を「疑わしい」として演奏を拒否した。\n衝撃を受けたブルックナーは、1889年から1890年にかけて大規模な改訂に取り組んだ。第1楽章の結尾を強奏から弱奏に書き換え、スケルツォのトリオを全面的に書き直し、指揮者シャルクの勧めで緩徐楽章と終楽章にも大きく手を入れている。改訂稿による初演は1892年、ハンス・リヒター指揮ウィーン楽友協会でおこなわれた。",
       "en": "The first version was written between the summer of 1884 and August 1887. That September, he sent a copy of the score to the conductor Hermann Levi, who refused to conduct it, calling the orchestration \"quite impossible\" and the working-out of the themes \"dubious.\"\nShaken, Bruckner set about a major revision between 1889 and 1890, replacing the first movement's loud closing bars with a quiet one, rewriting the scherzo's trio entirely, and, at the urging of the conductor Franz Schalk, substantially reworking the slow movement and finale too. The revised version premiered in 1892, with Hans Richter conducting at the Musikverein in Vienna."
     }
+  },
+  "68": {
+    "structure": {
+      "ja": "序奏付きのアレグロを持つ第1楽章と終楽章が変ロ長調の枠を成し、緩徐楽章はニ短調のアダージョ、スケルツォも同じくニ短調で書かれている。1878年の改訂でバスチューバが加えられ、重厚な響きが増した。",
+      "en": "Framed by two B-flat major movements with slow introductions, the Fifth Symphony places a D minor Adagio and a D minor scherzo at its center. A bass tuba, added during the 1878 revision, deepens the work's already weighty orchestral sonority."
+    },
+    "story": {
+      "ja": "数年をかけて改訂が重ねられた末、1878年に最終的な姿となったが、ブルックナーは病のため1894年4月8日のグラーツでの初演に立ち会えず、生前一度もオーケストラでこの曲を耳にすることがなかった。初演は弟子フランツ・シャルクによる改変版で行われた。",
+      "en": "Bruckner spent several years revising the symphony before arriving at its final form in 1878, but illness kept him from attending the premiere in Graz on 8 April 1894, conducted by his student Franz Schalk in an altered version — he never heard the work played by an orchestra in his lifetime."
+    }
+  },
+  "76": {
+    "structure": {
+      "ja": "「テ・デウム・ラウダームス」に始まり「イン・テ・ドミネ・スペラーヴィ」で閉じる全5楽章から成る。ハ長調の外枠楽章に対しヘ短調やニ短調の内側の楽章が対比され、オルガンは随意、コントラバスチューバも用いられる。",
+      "en": "Bruckner's Te Deum falls into five movements, opening with 'Te Deum laudamus' and closing with 'In te, Domine, speravi.' Outer movements in C major frame inner ones in F minor and D minor, scored with ad libitum organ and a contrabass tuba."
+    },
+    "story": {
+      "ja": "数年にわたる作曲期間を経て1884年に総譜が完成し、1886年1月10日、ウィーン楽友協会の大ホールでハンス・リヒター指揮により管弦楽版が初演された。総譜には「神のより大いなる栄光のために」との献辞が記され、後年マーラーは自らの所有譜に、清められた魂にふさわしい音楽だと書き添えたと伝えられる。",
+      "en": "After several years of intermittent work, Bruckner completed the full score in 1884, and the orchestral version premiered on 10 January 1886 at Vienna's Musikverein under Hans Richter. The score bears the inscription 'Ad maiorem Dei gloriam,' and Mahler is said to have later noted in his own copy that the music suited purified, angelic souls."
+    }
   }
 }
