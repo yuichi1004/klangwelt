@@ -1,4 +1,14 @@
 {
+  "2650": {
+    "structure": {
+      "ja": "シラーの戯曲に基づく全5幕の大作オペラ。パリ・オペラ座での上演を念頭にフランス語で書かれ、バレエ場面も含む。後年、4幕構成のフランス語版や5幕構成のイタリア語版など、複数の改訂版が作られている。",
+      "en": "A five-act grand opera based on Schiller's play, written in French for the Paris Opéra and including a ballet scene. Verdi later prepared several revised versions, including a four-act French edition and a five-act Italian one."
+    },
+    "story": {
+      "ja": "1866年に作曲が始められ、翌年3月11日、パリ・オペラ座で初演された。上演時間の長さが問題視され、初演前からヴェルディ自身の承諾のもと複数箇所が削られたという。以後もたびたび改訂が重ねられ、上演のたびに使われる版が異なる、決定的な一版が定まらない作品として知られている。",
+      "en": "Composed beginning in 1866, it premiered the following March at the Paris Opéra. Its considerable length proved troublesome, and Verdi himself reportedly authorized several cuts even before opening night. It was revised repeatedly in the years afterward, and different productions today still tend to favor rather different editions of the same score."
+    }
+  },
   "2657": {
     "structure": {
       "ja": "全4部の歌劇。バビロニア王ネブカドネザル(ナブッコ)によるエルサレム征服とヘブライ人の捕囚を題材とする。\n第3部でヘブライの捕虜たちが歌う合唱「行け、我が想いよ、黄金の翼に乗って」は、望郷の念を歌う静かな旋律で、この作品を象徴する場面として広く知られている。",
@@ -17,6 +27,16 @@
     "story": {
       "ja": "ヴィクトル・ユゴーの戯曲「王は愉しむ」を原作とする。国王を放蕩者として描いたユゴーの原作はフランスで上演禁止となった経緯があり、ヴェルディの台本でも国王を公爵に置き換えるなど、検閲対策のための改変が加えられている。\n1851年3月11日、ヴェネツィアのフェニーチェ劇場で初演された。「女心の歌」の旋律が上演前に広まって模倣されることを恐れたヴェルディは、リハーサルの最終段階まで主演のテノール歌手にその旋律を口ずさむことすら禁じていたと伝えられる。初演の翌朝には早くも街角でこの歌を口ずさむ者がいたという。",
       "en": "Based on Victor Hugo's play Le roi s'amuse, which had itself been banned in France for its unflattering portrait of a king given to womanising, Verdi's librettist recast the king as a duke and made other changes to satisfy the censors.\nIt premiered on 11 March 1851 at La Fenice in Venice. Fearing that \"La donna è mobile\" would be copied and sung around town before opening night, Verdi reportedly forbade even his lead tenor from humming the tune until the final rehearsals. By the next morning, it is said, people were already singing it in the streets."
+    }
+  },
+  "2673": {
+    "structure": {
+      "ja": "スペインの戯曲に基づく全4幕のオペラ。原作の悲劇的な結末に対し、後の改訂版では主人公アルヴァーロが生き延びる結末に書き換えられている。序曲は改訂版制作の際に新たに書き下ろされ、単独でも演奏会でよく取り上げられる。",
+      "en": "A four-act opera based on a Spanish tragedy. In a later revision, the ending was rewritten so that the hero, Alvaro, survives rather than dying as in the original tragic conclusion. Its familiar overture was newly composed for that same revision and is often performed on its own in concert."
+    },
+    "story": {
+      "ja": "1861年に作曲が始められ、翌年、ロシアのサンクトペテルブルクで初演された。上演の混乱から初演は当初の予定より遅れたと伝えられる。1869年、ミラノのスカラ座で、大幅に改訂された版が新たに初演され、以後はこちらの版が世界各地で広く上演されている。",
+      "en": "Composed beginning in 1861, it premiered the following year in St. Petersburg, Russia, though production troubles reportedly delayed the opening from its original schedule. A substantially revised version premiered in 1869 at La Scala in Milan, and that later version has since become the one most widely staged around the world."
     }
   },
   "2678": {
@@ -39,6 +59,16 @@
       "en": "It was commissioned by Ismail Pasha, Khedive of Egypt, for the opening of a new opera house in Cairo. The popular story that it was written to celebrate the opening of the Suez Canal is a myth; Verdi was separately invited to write ceremonial music for that occasion and turned it down.\nThe Franco-Prussian War delayed shipment of the sets and costumes, so the opera missed the theatre's actual opening. It finally premiered in Cairo on 24 December 1871, though Verdi did not attend, and is said to have regarded the Milan production at La Scala on 8 February 1872 as the real premiere."
     }
   },
+  "2703": {
+    "structure": {
+      "ja": "スペインの戯曲に基づく全4幕のオペラ。ジプシーの娘アズチェーナをめぐる復讐劇で、有名な「アンヴィル・コーラス」では、舞台上で実際に金床が打ち鳴らされる。難度の高いソプラノとテノールの独唱が随所に置かれた作品でもある。",
+      "en": "A four-act opera based on a Spanish play, centered on a revenge plot involving the Gypsy woman Azucena. Its famous \"Anvil Chorus\" calls for real anvils to be struck onstage, one of opera's most instantly recognizable orchestral effects."
+    },
+    "story": {
+      "ja": "1850年ごろから作曲が始められ、1853年1月19日、ローマのアポロ劇場で初演された。台本作者カンマラーノは完成前に病没し、残りの部分は別の詩人の手で仕上げられた。初演から3年のうちに世界各地で200を超える上演が行われたと伝えられている。",
+      "en": "Composed beginning around 1850, it premiered on 19 January 1853 at Rome's Teatro Apollo. Its librettist, Salvadore Cammarano, died before completing the text, and another poet finished the remaining verses in his place. Within three years of the premiere, it had reportedly been staged well over two hundred times worldwide."
+    }
+  },
   "2708": {
     "structure": {
       "ja": "全4幕の歌劇。シェイクスピアの戯曲を原作とし、序幕にあたる第1幕冒頭からいきなり嵐の場面で幕を開ける、それまでのイタリア・オペラの慣例だった序曲を省いた構成をとる。\n台詞の抑揚に密着した朗唱風の書法が全編を貫き、独立したアリアで音楽が止まることが少ない、切れ目のない劇的な流れを重視した書き方がなされている。",
@@ -47,6 +77,26 @@
     "story": {
       "ja": "「アイーダ」の成功後、ヴェルディは新作の作曲にほとんど関心を示さず、17年近くもの間、故郷サンタガータの農園経営に専念していた。\n出版者ジュリオ・リコルディが台本作家アッリーゴ・ボーイトを引き合わせ、粘り強く説得を重ねたことで、ようやく1884年に作曲が始まった。1886年11月1日、ボーイト宛に「これで完成だ」と書き送っている。初演は1887年2月5日、ミラノ・スカラ座でおこなわれ、大成功のうちにヴェルディは20回もカーテンコールに応えたと伝えられる。",
       "en": "After the success of Aida, Verdi showed little interest in writing anything new, spending nearly seventeen years mostly managing his estate at Sant'Agata.\nIt took his publisher Giulio Ricordi's patient efforts, and a libretto by Arrigo Boito, to draw him back. Composition finally began in 1884; on 1 November 1886 he wrote to Boito, \"It is finished.\" It premiered on 5 February 1887 at La Scala in Milan to a triumphant reception, with Verdi reportedly taking twenty curtain calls."
+    }
+  },
+  "2715": {
+    "structure": {
+      "ja": "独唱4名、混声合唱、大編成の管弦楽のためのレクイエム・ミサ曲。「怒りの日」の楽章はさらに複数の部分に分かれ、なかでも「怒りの日」冒頭の激しい合唱は特に有名である。4本のオフステージ・トランペットも用いられる。",
+      "en": "A setting of the Requiem Mass for four vocal soloists, mixed chorus, and a large orchestra. Its Dies irae section unfolds across several further subdivisions, opening with a famously violent choral outburst, and calls for four offstage trumpets among its forces."
+    },
+    "story": {
+      "ja": "作家マンゾーニを追悼して1873年に作曲が始められ、翌年5月22日、ミラノのサン・マルコ聖堂で、ヴェルディ自身の指揮のもと初演された。その3日後には、スカラ座でも同じ演奏者たちにより再演されている。当時の批評では「教会の衣をまとったオペラ」と評されたと伝えられる。",
+      "en": "Composed beginning in 1873 in memory of the writer Alessandro Manzoni, it premiered the following May at Milan's San Marco church, conducted by Verdi himself. A second performance with the same forces followed only three days later at La Scala. Contemporary critics reportedly called it an opera dressed in ecclesiastical robes."
+    }
+  },
+  "2720": {
+    "structure": {
+      "ja": "シェイクスピアに基づく全3幕の喜劇オペラ。ヴェルディ最後のオペラであり、唯一の本格的な喜劇作品でもある。伝統的な独立したアリアを持たず、全体が途切れなく流れるように作曲され、終幕は壮大なフーガで締めくくられる。",
+      "en": "A three-act comic opera based on Shakespeare, Verdi's last opera and his only mature venture into comedy. Rather than separate set-piece arias, the music flows continuously throughout, and the whole work closes with a grand concluding fugue sung by the entire cast."
+    },
+    "story": {
+      "ja": "1889年ごろから作曲が始められ、1893年2月9日、ミラノのスカラ座で初演された。台本は作曲家でもあるボーイトが手がけた。初演当初は成功を収めたが、その後しばらく上演機会が減り、指揮者トスカニーニの尽力によって再評価されたと伝えられている。",
+      "en": "Composed beginning around 1889, it premiered on 9 February 1893 at La Scala in Milan. The libretto was written by Arrigo Boito, himself also a composer. It succeeded at its premiere but was staged less often in the years that followed, until conductor Arturo Toscanini's advocacy reportedly helped restore its standing."
     }
   }
 }

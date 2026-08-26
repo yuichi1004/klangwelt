@@ -1,4 +1,44 @@
 {
+  "11709": {
+    "structure": {
+      "ja": "独奏フルートと弦楽合奏、通奏低音のための協奏曲。全6楽章からなる短い楽章の連なりで、第2楽章には「幻影」、第5楽章には「眠り」という標題が添えられている。全曲を通してト短調で統一されている。",
+      "en": "A concerto for solo flute, strings, and continuo in six short movements, the second bearing the title \"Ghosts\" and the fifth \"Sleep.\" The whole work is unified throughout in the key of G minor, lending it a restless, nocturnal character."
+    },
+    "story": {
+      "ja": "室内協奏曲として書かれていた曲を土台に、1720年代に改作され、1728年ごろ、アムステルダムで6曲からなる曲集の1曲として出版されたとみられる。愛称の由来ははっきりしないが、標題を持つ2つの楽章の幻想的な性格から名付けられたと考えられている。",
+      "en": "Reworked in the 1720s from an earlier chamber concerto, it was published around 1728 in Amsterdam as one of a set of six flute concertos. The origin of its popular nickname is not firmly documented, though it is thought to reflect the ghostly, dreamlike character of its two titled movements."
+    }
+  },
+  "11806": {
+    "structure": {
+      "ja": "独唱3名、混声合唱と管弦楽のための、全12曲からなる典礼音楽。オーボエやトランペットも加わる比較的大きな編成で書かれ、明るく祝祭的な性格の曲から、静かに祈るような曲まで幅広い性格を持つ。",
+      "en": "A setting of the Gloria in twelve short sections for three vocal soloists, mixed chorus, and orchestra, scored for a fairly substantial ensemble including oboes and trumpets. Its mood ranges widely, from bright, festive outbursts to hushed, prayerful stillness."
+    },
+    "story": {
+      "ja": "1715年ごろ、ヴィヴァルディが音楽教師を勤めていたヴェネツィアの女子養育院ピエタ慈善院の合唱隊のために作曲されたとみられる。長く忘れられていたが、20世紀になって楽譜が再発見され、以来クリスマスなどの機会にたびたび演奏される人気曲となっている。",
+      "en": "Likely composed around 1715 for the girls' choir of the Ospedale della Pietà in Venice, the charitable institution where Vivaldi was employed for many years as a music teacher. Long forgotten afterward, its score was rediscovered only in the twentieth century, and it has since become a favorite, especially at Christmastime performances."
+    }
+  },
+  "11933": {
+    "structure": {
+      "ja": "独奏ファゴットと弦楽合奏、通奏低音のための全3楽章の協奏曲。全曲を通してホ短調で統一されている。ヴィヴァルディはファゴットのための協奏曲を数多く残しており、この曲はその一つである。",
+      "en": "A three-movement concerto for solo bassoon, strings, and continuo, unified throughout in the key of E minor. It belongs to a large group of bassoon concertos Vivaldi composed, one of the largest bodies of solo bassoon writing from the whole Baroque era."
+    },
+    "story": {
+      "ja": "1730年ごろに作曲されたとみられる。自筆譜は現在、イタリア・トリノの国立図書館に所蔵されている。初演の詳しい記録は残っていないが、ヴィヴァルディ自身が音楽教師を務めていた、ヴェネツィアの慈善院の演奏会で披露された可能性が高いと考えられている。",
+      "en": "Likely composed around 1730, the concerto's autograph manuscript is now held at the national library in Turin, Italy. No detailed record survives of its actual premiere, though it was quite possibly first heard at a concert given by the charitable institution in Venice where Vivaldi himself long directed the music."
+    }
+  },
+  "12027": {
+    "structure": {
+      "ja": "弦楽合奏と通奏低音のための、独奏楽器を伴わない全3楽章の合奏協奏曲。ト長調で書かれ、終楽章では民謡風の性格を持つリディア旋法が用いられており、これが愛称の由来となっている、簡潔で親しみやすい小品である。",
+      "en": "A three-movement concerto for string orchestra and continuo without any solo instrument, set in G major. Its finale draws on the Lydian mode, giving the music a rustic, folk-like flavor that is thought to have given the concerto its popular nickname."
+    },
+    "story": {
+      "ja": "1720年代から1730年ごろにかけて作曲されたとみられる。同時期の別の合奏協奏曲「ごしきひわ」の室内楽版と、まったく同じ紙が用いられていることが自筆譜の研究から分かっており、これが作曲時期を推定するうえでの重要な手がかりの一つとなっている。",
+      "en": "Likely composed sometime between the 1720s and around 1730, the concerto's dating rests partly on manuscript research showing it shares the very same paper stock as a chamber version of his own concerto \"Il Gardellino,\" which was itself composed by Vivaldi around that same busy period of his own career."
+    }
+  },
   "28102": {
     "structure": {
       "ja": "「春」「夏」「秋」「冬」の4曲からなるヴァイオリン協奏曲集で、それぞれが急・緩・急の3楽章をもつ。合計12楽章。\n各曲には作者不明のソネット（14行詩）が添えられ、楽譜には詩のどの行がどの小節に対応するかまで書き込まれている。小鳥のさえずり、雷鳴、凍える人の歯の震え、氷の上で足を滑らせる場面などが、音型として具体的に指定されている。",
