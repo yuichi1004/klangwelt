@@ -269,6 +269,16 @@
       "en": "In 1941 Lincoln Kirstein, a co-founder of what became New York City Ballet, was touring South America and, impressed by Ginastera's earlier ballet Panambí, commissioned a new work depicting the life of Argentine gauchos. The scenario draws on José Hernández's epic poem Martín Fierro. But the Ballet Caravan, the company that had commissioned it, disbanded in 1942 before the full ballet could be staged.\nGinastera drew four dances from the score into a concert suite, op. 8a, which premiered on 12 May 1943 at the Teatro Colón in Buenos Aires, conducted by Ferruccio Calusio. The complete ballet itself did not reach the stage until nine years later, in 1952, also at the Teatro Colón."
     }
   },
+  "2503": {
+    "structure": {
+      "ja": "アレグロ・ジュスト、モルト・モデラート、リベラメンテ・カプリチョーソ〜ヴィヴァーチェの全3楽章から成るハープ協奏曲。ティンパニやシロフォン、チェレスタ、ラテン系の打楽器を含む多彩な管弦楽が独奏ハープを支える。",
+      "en": "A harp concerto in three movements — Allegro giusto, Molto moderato, and Liberamente capriccioso–Vivace. The solo harp is supported by a colorful orchestra that includes timpani, xylophone, celesta, and an array of Latin American percussion."
+    },
+    "story": {
+      "ja": "フィラデルフィア管弦楽団のハープ奏者エドナ・フィリップスの委嘱により1956年に作曲されたが、初演は彼女の引退後の1965年、指揮者ユージン・オーマンディとハープ奏者ニカノール・サバレタによって行われた。以降ハーピストのハイディ・レーヴォルダーらの尽力もあって定番のレパートリーとして定着し、作曲者の全作品中でも最も演奏機会の多い曲の一つとなった。",
+      "en": "Commissioned by Edna Phillips, harpist of the Philadelphia Orchestra, the concerto was composed in 1956, but by the time of its 1965 premiere under conductor Eugene Ormandy, with soloist Nicanor Zabaleta, she had already retired. Championed afterward by harpists including Heidi Lehwalder, it went on to become a repertoire staple and one of the most frequently performed of all Ginastera's works."
+    }
+  },
   "2524": {
     "structure": {
       "ja": "全5楽章から成る大規模な交響曲で、作曲者の妻の肖像とされる第4楽章を含む。「アズラエル」とはイスラム教やユダヤ教の伝承における死の天使を指し、この曲全体を貫く鎮魂の性格を象徴する題名となっている。",
@@ -449,6 +459,26 @@
       "en": "In 1934 the tune of Greensleeves, which the composer had used in one of his operas, was reworked as a stand-alone concert piece by his colleague Ralph Greaves. Vaughan Williams had already drawn on the same folk melody in an earlier score for the theatre, well before the opera was written."
     }
   },
+  "2910": {
+    "structure": {
+      "ja": "ピアノと管弦楽のための「交響的印象」と作曲者自身が呼ぶ全3楽章の作品で、協奏曲的な独奏性の誇示よりも、両者が織りなす色彩的な響きの融合を重視した書法が特徴となっている。スペインを主題とする作品ながら、ギターは一切用いられていない。",
+      "en": "Described by the composer as 'symphonic impressions' rather than a concerto, this three-movement work for piano and orchestra favors coloristic blending of the two forces over soloistic display. Despite its Spanish subject, no guitar appears in the large orchestral scoring."
+    },
+    "story": {
+      "ja": "もとはピアノ独奏のための夜想曲として1909年頃に着想され、後に管弦楽を伴う形へと発展した。1916年4月9日、マドリードの王立劇場で、ピアニストのホセ・クビレスとエンリケ・フェルナンデス・アルボスの指揮によるマドリード交響楽団により初演された。曲は、作曲者にこの構想を促したピアニスト、リカルド・ビニェスに献呈されている。",
+      "en": "Originally conceived around 1909 as solo-piano nocturnes, the work gradually grew into its final form for piano and orchestra. It was premiered on 9 April 1916 at the Teatro Real in Madrid, with pianist José Cubiles and the Madrid Symphony Orchestra under Enrique Fernández Arbós. Falla dedicated the score to pianist Ricardo Viñes, who had encouraged him toward this treatment."
+    }
+  },
+  "2931": {
+    "structure": {
+      "ja": "全2幕のバレエ音楽で、粉屋の女房の踊り（ファンダンゴ）、隣人たちの踊り（セギディーリャ）、粉屋の踊り（ファルーカ）、代官の踊り（メヌエット）、終幕の踊り（ホタ）などから構成される。冒頭にはカンテ・ホンド風の旋律を歌う舞台裏のメゾソプラノの声が置かれる。",
+      "en": "A two-act ballet built around a sequence of Spanish dances — the Miller's Wife's fandango, the neighbors' seguidillas, the Miller's farruca, the Corregidor's minuet, and the closing jota. An offstage mezzo-soprano voice, singing in a cante jondo-inflected style, opens the work before the curtain rises."
+    },
+    "story": {
+      "ja": "1916年から17年にかけて作曲された小規模なパントマイム劇『代官と粉屋の女房』を、セルゲイ・ディアギレフの勧めにより拡大改作したもので、1919年7月、ロンドンのアルハンブラ劇場でバレエ・リュスにより初演された。振付はレオニード・マシーン、舞台美術はパブロ・ピカソが手掛けた。",
+      "en": "The ballet grew out of a smaller pantomime, 'El corregidor y la molinera,' composed in 1916–17, which Sergei Diaghilev urged Falla to expand. The enlarged ballet was premiered by the Ballets Russes in July 1919 at the Alhambra Theatre in London, with choreography by Léonide Massine and set and costume designs by Pablo Picasso."
+    }
+  },
   "3174": {
     "structure": {
       "ja": "全5幕(プロローグ付き)の音楽劇。当時としては大規模な、フルート・コルネット・トランペット・トロンボーン・弦楽器・鍵盤楽器を含む約40の楽器からなる編成が用いられ、劇的な場面に応じて楽器を使い分けるという、それまでのオペラには見られなかった精緻な指定がなされている。\n題材は、竪琴の名手オルフェオが、死んだ妻エウリディーチェを取り戻すために冥界へ下る、ギリシャ神話の物語である。",
@@ -457,6 +487,16 @@
     "story": {
       "ja": "台本作家アレッサンドロ・ストリッジョ(子)との共作で、マントヴァ宮廷の毎年恒例のカーニヴァル余興のために書かれた。初演は1607年、マントヴァでおこなわれている。\nオペラという形式そのものの誕生は、これに先立つヤーコポ・ペーリの「ダフネ」に帰されるが、その楽譜は失われており、現存する最古のオペラで、かつ今日でも定期的に上演され続けている最初の作品として、この曲が挙げられる。",
       "en": "Written with the librettist Alessandro Striggio the Younger, it was composed for the annual Carnival entertainment at the Mantuan court and premiered there in 1607.\nThe birth of opera as a form is usually credited to Jacopo Peri's earlier Dafne, but that score is lost; this work stands instead as the earliest surviving opera, and the earliest still regularly performed today."
+    }
+  },
+  "3382": {
+    "structure": {
+      "ja": "バンドネオン独奏と弦楽合奏、ハープ、ピアノのための全3楽章の協奏曲。アレグロ・マルカート、モデラート、プレストという速度標語が付され、終結部の約20小節では、作曲者自身の旧作タンゴ「エル・フラコ・アロルディ」の旋律が壮大に引用される。",
+      "en": "A three-movement concerto for solo bandoneón with string orchestra, harp, and piano, marked Allegro Marcato, Moderato, and Presto. In its final twenty measures, the melody of Piazzolla's earlier tango 'El Flaco Aroldi' returns in grandly reorchestrated form."
+    },
+    "story": {
+      "ja": "1979年に作曲された、バンドネオンのための協奏曲。「アコンカグア」という曲名は南米大陸最高峰の山の名に由来するが、その象徴的な意味合いについて作曲者自身が語った記録は残っていない。1983年、ブエノスアイレスのコロン劇場で行われた録音は、作曲者の生涯における重要な記録の一つとして知られる。",
+      "en": "Composed in 1979, the concerto for bandoneón takes its title from the name of the highest peak in the Americas, though the composer left no known explanation of what symbolic connection, if any, the title carries. A 1983 recording made at the Teatro Colón in Buenos Aires stands as one of the notable documents of the work from Piazzolla's own lifetime."
     }
   },
   "3436": {
@@ -849,6 +889,16 @@
       "en": "He is said to have begun sketching the work around 1887, the year in which, on 31 December, his mother died. Fauré himself, though, was reluctant to tie the piece to any single event, reportedly saying he had written it for no particular reason — for pleasure, as he put it. A first version in five movements premiered on 16 January 1888 at a funeral mass at the Église de la Madeleine in Paris, where Fauré served as choirmaster and organist.\nHe added the Offertoire in 1889, along with a reworking of the Libera me, originally an independent piece from 1877, and a seven-movement version was performed in 1893. The fuller orchestration familiar today was prepared for publication between 1898 and 1900. The work is often described as a \"lullaby of death,\" a phrase usually credited not to Fauré himself but to Aaron Copland writing later; Fauré is said to have explained his own view of death as a peaceful release rather than something to be feared."
     }
   },
+  "4848": {
+    "structure": {
+      "ja": "前奏曲「カパドシオの歌」、アリア「我らの大地の歌」、舞曲「セルタンの思い出」、そして終曲トッカータ「カイピラの小さな汽車」の全4曲から成る組曲。サクソフォンやチェレスタ、多彩な打楽器を含む大編成の管弦楽が用いられている。",
+      "en": "A four-movement suite: the Prelude 'Song of the Capadocian,' the Aria 'Song of Our Land,' the Dance 'Remembrance of the Sertão,' and the closing Toccata, 'The Little Train of the Caipira.' It calls for a large orchestra including saxophones, celesta, and an extensive battery of percussion."
+    },
+    "story": {
+      "ja": "1930年に作曲され、1934年9月3日、ヴェネツィアの国際現代音楽祭にてディミトリ・ミトロプーロスの指揮により初演された。作曲者の伴侶であったアルミンダ・ネヴィス・ダルメイダに献呈されている。汽車の汽笛や車輪の音を模した終曲「カイピラの小さな汽車」は、組曲中でもとりわけ広く親しまれている。",
+      "en": "Composed in 1930, the suite was premiered on 3 September 1934 at the International Festival of Contemporary Music in Venice, conducted by Dimitri Mitropoulos. It is dedicated to Arminda Neves d'Almeida, the composer's companion. The closing 'Little Train of the Caipira,' evoking the whistle and clatter of a train, has become the suite's best-known movement."
+    }
+  },
   "4869": {
     "structure": {
       "ja": "全2曲。第1曲「アリア(カンティレーナ)」はアダージョで、歌詞を伴わないヴォカリーズによる旋律が曲の始めと終わりを縁取り、中間部ではルース・ヴァラダーレス・コヘイアの詩によるポルトガル語の歌詞が歌われる。第2曲「ダンサ(マルテロ)」は活発な性格を持ち、マヌエル・バンデイラの詩を用いて、ブラジル民衆詩の伝統的な形式「マルテロ」のリズムを反映している。\nソプラノ独唱とチェロ8挺という異色の編成がとられ、チェロ群はある楽器が旋律を支え、別の楽器が歌に応答するなど、あたかも小オーケストラのような機能を担う。バッハの対位法的書法とブラジルの旋律・リズムの融合をめざした「ブラジル風バッハ」全9曲の一環をなす作品である。",
@@ -1227,6 +1277,16 @@
     "story": {
       "ja": "1913年、女子校の音楽棟新設を記念して同校の生徒オーケストラのために作曲され、献呈もその楽団に捧げられている。学校側は感謝の印としてホルストのために防音の作曲室を新たに用意し、これを機に彼は一家を挙げて近くの地区へと居を移したと伝えられる。",
       "en": "The suite was written in 1913 for the student orchestra of a girls' school, to mark the opening of its new music wing, and is dedicated to that same ensemble. The school provided Holst with a soundproofed studio of his own, prompting him, it is said, to move house to the nearby neighbourhood."
+    }
+  },
+  "7190": {
+    "structure": {
+      "ja": "全4巻、各巻3曲ずつ、計12曲から成るピアノのための舞曲集で、スペイン各地の民俗舞踊に取材している。第5曲「アンダルーサ（プライェーラ）」はとりわけ有名で、後にギター用に編曲され広く演奏されるようになった。",
+      "en": "A collection of twelve piano dances arranged in four volumes of three pieces each, drawing on folk dance traditions from across Spain. The fifth piece, 'Andaluza (Playera),' is especially well known and has since been widely transcribed for guitar."
+    },
+    "story": {
+      "ja": "1890年頃に作曲され、1892年、バルセロナのフアン・バウティスタ・プホル社から出版された。献呈者や初演の日時・演奏者の記録は伝わっていないが、19世紀末のスペイン国民楽派の先駆けとなる作品として、作曲者の名を国内外に広く知らしめるきっかけとなった。",
+      "en": "Composed around 1890, the set was published in Barcelona in 1892 by the firm of Juan Bta. Pujol y Cía. No dedicatee or concert premiere is recorded, but the collection helped establish Granados's reputation at home and abroad, and it stands among the founding works of the Spanish nationalist piano repertoire."
     }
   },
   "7252": {
@@ -4059,6 +4119,16 @@
       "en": "Composed between 1914 and 1916, it is the first of his trilogy of Roman tone poems. It premiered on 11 March 1917 at the Teatro Augusteo in Rome, conducted not by Toscanini but by Antonio Guarnieri — Toscanini had originally been engaged to conduct but withdrew amid a wartime dispute over programming Wagner. The premiere was poorly received, and Respighi himself is said to have been discouraged by its reception.\nThe turning point came in February 1918, when Toscanini himself conducted a performance that transformed the work into Respighi's breakthrough. It went on, together with the later Pines of Rome and Feste Romane, to become one of the defining achievements of his career."
     }
   },
+  "19960": {
+    "structure": {
+      "ja": "単一楽章ながら内部で3つの部分に分かれる交響曲で、ナヤリット州のウイチョル族・コラ族、ソノラ州のヤキ族、バハ・カリフォルニアのティブロン島のセリ族という、メキシコ先住民の旋律をそれぞれ主題に用いている。ヒカラ・デ・アグアやギロなど先住民の打楽器も指定されている。",
+      "en": "A symphony in a single continuous movement divided internally into three sections, each built on a melody from a different indigenous Mexican people — Huichol and Cora, Yaqui, and Seri. The score also calls for indigenous percussion such as the water gourd and güiro."
+    },
+    "story": {
+      "ja": "1935年から翌年にかけて作曲され、1936年1月23日、作曲者自身の指揮によるコロンビア放送交響楽団のラジオ放送で初めて公開された。同年4月にはボストン交響楽団によりコンサートホールでも演奏され、今日ではチャベスの全作品中で最も広く親しまれている一曲とされている。",
+      "en": "Composed in 1935 and completed the following year, the symphony had its first public hearing on 23 January 1936 in a radio broadcast by the Columbia Broadcasting Symphony Orchestra, conducted by the composer himself. It reached the concert hall that April with the Boston Symphony Orchestra, and it remains, by wide consensus, the most popular of all Chávez's works."
+    }
+  },
   "20003": {
     "structure": {
       "ja": "全5楽章の標題交響曲。「固定楽想(イデー・フィクス)」と呼ばれる単一の旋律が、恋する芸術家にとっての「恋人」を象徴する主題として全楽章を通じて姿を変えながら回帰する。\n終楽章「魔女の夜宴の夢」では、この旋律が下品な舞曲風に歪められて再現され、続いてグレゴリオ聖歌「怒りの日」の旋律が滑稽に扱われる場面が置かれる。",
@@ -5625,6 +5695,16 @@
       "en": "The motet was published in 1572 as part of the collection Motecta, Liber primus. The composer later reused its material himself, basing a parody mass, the Missa O magnum mysterium, on the same themes in 1592. It remains a Christmas-season staple, still widely sung by choirs around the world today."
     }
   },
+  "25462": {
+    "structure": {
+      "ja": "アントニオ・スカルヴィーニとカルロ・ドルメヴィルによるイタリア語台本による全4幕のオペラ。16世紀半ば、リオデジャネイロ近郊の植民地時代を舞台に、グアラニー族の王子ペリと、ポルトガル貴族の娘セシリアとの間の恋を描く。",
+      "en": "A four-act opera with an Italian libretto by Antonio Scalvini and Carlo D'Ormeville. Set in colonial Brazil near Rio de Janeiro in the mid-sixteenth century, it tells of the love between Pery, a Guarani prince, and Cecília, the daughter of a Portuguese nobleman."
+    },
+    "story": {
+      "ja": "ブラジルの作家ジョゼ・デ・アレンカルの小説『グアラニー族』に基づき、1870年3月19日、ミラノのスカラ座でエウジェニオ・テルツィアーニの指揮により初演された。ヴェルディは公演後、楽屋を訪れてゴメスに自らの後継者となるだろうと語ったと伝えられ、リストもその和声と管弦楽法の充実ぶりを称賛したという。",
+      "en": "Based on the Brazilian writer José de Alencar's novel 'O Guarani,' the opera was premiered on 19 March 1870 at La Scala in Milan, conducted by Eugenio Terziani. Verdi is said to have gone backstage afterward to tell Gomes he would be his successor, and Liszt is reported to have praised the maturity of its harmony and orchestration."
+    }
+  },
   "25464": {
     "structure": {
       "ja": "四部から成るオラトリオで、春夏秋冬をそれぞれ描く。独唱にはハンネ(ソプラノ)、ルーカス(テノール)、シモン(バス)の3人の農民が扮し、合唱と共に狩りの角笛や収穫祭の踊り、雷雨の情景などを描写する。",
@@ -5865,6 +5945,16 @@
       "en": "Vltava was written in just eighteen days, from 20 November to 8 December 1874, during the very period his hearing was collapsing. By October that year he had lost hearing in both ears completely, meaning the piece was composed entirely from inner imagination rather than anything he could still hear played.\nThe whole cycle was written between 1874 and 1879, and the pieces written after he went deaf are often rated among his finest work. The complete cycle received its first performance as a set in Prague on 5 November 1882."
     }
   },
+  "26345": {
+    "structure": {
+      "ja": "ホ長調で書かれた、独奏ギターのための序奏・主題と5つの変奏曲から成る作品。主題は歌劇『魔笛』第1幕で、パパゲーノの魔法の鈴に驚いたモノスタトスと奴隷たちが歌う「なんと美しい響き」の旋律による。",
+      "en": "Written in E major for solo guitar, the piece consists of an introduction, a theme, and five variations. The theme is drawn from 'Das klinget so herrlich,' sung by Monostatos and the slaves as they react to Papageno's magic bells in Act One of Mozart's 'The Magic Flute.'"
+    },
+    "story": {
+      "ja": "正確な作曲年は判然としないが、1820年代前半にロンドンまたはパリで出版されたとみられる。作曲者の実の弟であるカルロス・ソルに献呈された作品である。数あるソルのギター独奏曲の中でも、今日に至るまで最も広く演奏され続けている作品の一つに数えられている。",
+      "en": "The precise date of composition is unknown, but the piece was published in either London or Paris in the early 1820s. It is dedicated to the composer's own brother, Carlos Sor, and it remains, to this day, one of the most widely performed of all his works for solo guitar."
+    }
+  },
   "26562": {
     "structure": {
       "ja": "通常式文(キリエ、グローリア、クレド、サンクトゥスとベネディクトゥス、アニュス・デイ)を6声(のちアニュス・デイ第2部のみ7声に増強)で作曲したミサ曲。特定の旋律や既存曲を素材とせず新たに書き下ろされており、複雑な模倣対位法を避け、和音をそろえてほぼ同じリズムで各声部を進める簡潔な書法が特徴で、ラテン語の歌詞が聴き取りやすいことを重視した書法がとられている。",
@@ -5875,6 +5965,16 @@
       "en": "The date of composition is not firmly established, but a copy entered into a manuscript at Santa Maria Maggiore in Rome around 1562 suggests it existed by then. It was published in 1567, in Palestrina's Second Book of Masses. Its title honours Pope Marcellus II, who reigned for only twenty-two days before his death in 1555.\nA celebrated story holds that the Council of Trent, debating whether to ban polyphonic church music for obscuring the text, was persuaded to spare it after hearing this very mass performed for a cardinal — supposedly \"saving\" polyphony through its clarity. Modern scholarship, however, treats this as a legend that took shape only later, and no contemporary record from the papal court confirms that the mass was actually performed at any such hearing or swayed its outcome."
     }
   },
+  "26749": {
+    "structure": {
+      "ja": "17世紀のギタリスト、ガスパール・サンスの教則本『スペイン風ギター教程』に収められた舞曲の旋律に基づく、独奏ギターと小編成管弦楽（ピッコロ・フルート・オーボエ・ファゴット・トランペット・弦楽）のための全4楽章の作品。",
+      "en": "The four movements rework dance tunes taken from a guitar method the Baroque-era guitarist Gaspar Sanz had once compiled, recast here for solo guitar accompanied by a chamber-sized orchestra of piccolo, flute, oboe, bassoon, trumpet, and strings."
+    },
+    "story": {
+      "ja": "ギタリスト、アンドレス・セゴビアの依頼により1954年に作曲された。1958年3月5日、セゴビアの独奏、エンリケ・ホルダの指揮によるサンフランシスコ交響楽団により初演され、曲は依頼者であるセゴビアに献呈されている。終楽章「カナリオ」は後年、ロックバンド、エマーソン・レイク・アンド・パーマーによって編曲されたことでも知られる。",
+      "en": "Composed in 1954 at the request of guitarist Andrés Segovia, the work was premiered on 5 March 1958 by Segovia with the San Francisco Symphony under Enrique Jordá, and it is dedicated to Segovia himself. The closing movement, 'Canario,' later became known in an unexpected context when it was arranged by the rock band Emerson, Lake & Palmer."
+    }
+  },
   "26812": {
     "structure": {
       "ja": "ギターと管弦楽のための協奏曲、全3楽章。ギターは音量の小さい楽器であるため、管弦楽は独奏と同時に厚く鳴らさないよう慎重に配慮されている。\n第2楽章のイングリッシュホルンとギターの対話がとりわけ知られる。ギターが和音をかき鳴らして支え、その上に長い嘆きの旋律が乗る構成で、途中でギターの装飾的な独奏に引き継がれる。",
@@ -5883,6 +5983,16 @@
     "story": {
       "ja": "作曲者は3歳で失明しており、楽譜は点字で書き記したうえで口述によって清書された。題名はマドリード近郊アランフエスの離宮とその庭園に由来する。第2楽章については、妻の流産と自身の重病の経験が反映されているという説明が後年なされている。",
       "en": "The composer had been blind since the age of three; he wrote in Braille and dictated the score for copying. The title refers to the royal palace and gardens at Aranjuez, near Madrid. He later said the slow movement reflected his wife's miscarriage and his own serious illness at the time."
+    }
+  },
+  "26849": {
+    "structure": {
+      "ja": "全4巻、各巻3曲、計12曲から成るピアノ独奏のための組曲で、アンダルシアをはじめスペイン各地の風土や民俗音楽を描いている。後年、指揮者エンリケ・フェルナンデス・アルボスがそのうち5曲を管弦楽用に編曲した。",
+      "en": "A twelve-piece suite for solo piano arranged in four volumes of three pieces each, evoking the landscapes and folk music of Andalusia and other regions of Spain. Five of the pieces were later orchestrated by the conductor Enrique Fernández Arbós."
+    },
+    "story": {
+      "ja": "作曲が進むにつれ、各巻はピアニストのブランシュ・セルヴァによって順次初演された。1906年5月にはパリのサル・プレイエルで第1巻が、1909年2月には同市で第4巻が初演されたが、これは作曲者が世を去るわずか3か月ほど前のことであった。作曲家メシアンは後年、ピアノ音楽史上屈指の傑作としてこの曲集を称えている。",
+      "en": "As the suite took shape, each book was premiered in turn by the pianist Blanche Selva. Book I was first heard in Paris at the Salle Pleyel in May 1906, and Book IV followed in the same city in February 1909, only about three months before the composer's death. Olivier Messiaen later praised the suite as among the greatest works ever written for piano."
     }
   },
   "26900": {
