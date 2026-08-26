@@ -69,6 +69,26 @@
       "en": "They were written in three phases, roughly between 1802 and 1817, and published around 1820 by Ricordi in Milan, dating from a relatively early period in Paganini's career in Genoa and Lucca.\nThey were so demanding that at first it was assumed only Paganini himself could play them. The theme of No. 24 in particular was taken up repeatedly by later composers — Liszt, Schumann and Brahms among them — helping to establish virtuosity itself as a subject worth composing about."
     }
   },
+  "383": {
+    "structure": {
+      "ja": "弦楽合奏と打楽器のための単一楽章の作品。ティンティナブリ様式で書かれ、低声部と高声部はニ短調音階に、中声部はイ短調の三和音に限定される。A音とE音の持続低音の上で、打楽器の合図に区切られた9つの和声進行が繰り返される。",
+      "en": "A single-movement work for string ensemble and percussion in Pärt's tintinnabuli style, where the outer voices move within a D minor scale and the middle voice within an A minor triad. Nine chord progressions unfold over a sustained A–E drone, each marked off by a percussion signal."
+    },
+    "story": {
+      "ja": "1977年に作曲されて以来、パルトはこの曲を弦楽合奏版や独奏楽器を伴う版など、編成を変えて幾度も書き直してきた。もとは実験的な性格の強い作品だったが、1980年代以降は映画やドキュメンタリーの音楽としてもたびたび用いられ、彼の代表作の一つに数えられるようになった。",
+      "en": "Pärt composed Fratres in 1977 and went on to rework it repeatedly in different scorings, from string ensemble to versions built around a single solo instrument. Once a relatively austere, experimental piece, it has since the 1980s been used again and again in films and documentaries, becoming one of his most widely recognized works."
+    }
+  },
+  "422": {
+    "structure": {
+      "ja": "2台の独奏ヴァイオリンとプリペアド・ピアノ、弦楽合奏のための2楽章の作品。第1楽章「遊戯」はカノンによる変奏が拡大しカデンツァに至り、第2楽章「沈黙」はニ短調で、3つの器楽群が呼応しながら進む拡大カノンの形をとる。",
+      "en": "A two-movement work for two solo violins, prepared piano and string orchestra. The first movement, 'Ludus,' builds through expanding canonic variation to a cadenza, while the second, 'Silentium,' in D minor, unfolds as an extended canon shared among three instrumental groups."
+    },
+    "story": {
+      "ja": "1977年9月30日、タリンで初演された。指揮者エリ・クラスの依頼により、シュニトケの合奏協奏曲第1番と組み合わせる作品として書かれ、独奏はギドン・クレーメルとタチアナ・グリンデンコ、プリペアド・ピアノはシュニトケ自身が務めた。クレーメルに献呈され、西側諸国に届いたパルト初期の作品のひとつとされる。",
+      "en": "It premiered in Tallinn on 30 September 1977. Commissioned by the conductor Eri Klas as a companion piece to Schnittke's first concerto grosso, it was played by the violinists Gidon Kremer and Tatiana Grindenko, with Schnittke himself at the prepared piano. Dedicated to Kremer, it is counted among Pärt's earliest works to reach Western audiences."
+    }
+  },
   "507": {
     "structure": {
       "ja": "弦楽器がピツィカートで提示する8小節・ニ短調の主題に基づく23の変奏から成るパッサカリア。伝統的な3拍子ではなく2/4拍子を採用している点が特徴で、大編成の管弦楽のために書かれている。",
@@ -179,6 +199,16 @@
       "en": "It was composed between October and December 1976 in Katowice, on commission from Southwest German Radio in Baden-Baden. It premiered on 4 April 1977 at the Royan International Festival of Contemporary Art in France, with the soprano Stefania Woytowicz and the SWR Symphony Orchestra under Ernest Bour, but the audience and critics of the day, expecting avant-garde modernism, gave it a cool reception.\nThe symphony found its wider audience fifteen years later, through a 1992 recording by the soprano Dawn Upshaw with the London Sinfonietta under David Zinman. That recording became an unexpected sensation, topping the UK classical chart and holding the top spot on the US Billboard classical chart for an extended run, and is said to have sold more than a million copies worldwide — transforming Górecki, until then known mainly to specialists, into an internationally recognised composer almost overnight."
     }
   },
+  "1533": {
+    "structure": {
+      "ja": "61人の奏者による管弦楽曲で、同じパートを弾く奏者が一人もいない編成をとる。全3楽章のうち第1・第3楽章は旋律主題を持たず音の密度と強度の変化のみで進行し、第2楽章は12音技法の断片とフィボナッチ数列に基づく音価を用いる。",
+      "en": "An orchestral work for sixty-one players, scored so that no two performers play an identical part. In the outer two of its three movements, sheer changes of density and intensity replace melodic themes, while the middle movement draws on twelve-tone fragments and Fibonacci-derived note values."
+    },
+    "story": {
+      "ja": "1953年から54年にかけて作曲され、1955年10月16日、指揮ハンス・ロスバウトのもとドナウエッシンゲン音楽祭で初演された。曲名は「超えて」を意味するメタと「静止」を意味するスタシスの合成語で、運動と非方向性の対比を示す。作曲時に描かれた図形的な下書きは、のちに建築家ル・コルビュジエとの共作によるフィリップス・パヴィリオンの曲面デザインに直接生かされた。",
+      "en": "It was composed in 1953–54 and premiered on 16 October 1955 at the Donaueschingen Festival under the conductor Hans Rosbaud. Its title fuses the Greek for 'beyond' and 'stasis,' setting motion against non-directional stillness. Graphic sketches Xenakis made while composing it fed directly into the curved surfaces of the Philips Pavilion, his collaboration with the architect Le Corbusier."
+    }
+  },
   "1552": {
     "structure": {
       "ja": "単一楽章の交響詩、演奏時間はおよそ20分。神智学や哲学思想への傾倒が色濃く反映された、当時の彼の作風の転換点にあたる作品である。\n金管楽器、とりわけトランペットが官能的で高揚感のある主題を繰り返し提示し、曲全体が絶頂に向けて次第に高まっていく構成をとる。",
@@ -269,6 +299,16 @@
       "en": "Begun in April 1922 and orchestrated by August of the following year, it was premiered in Prague on 4 June 1924 under the composer's own baton. Zemlinsky reportedly described the work to his publisher as akin to Mahler's 'Das Lied von der Erde,' and Alban Berg later quoted a melody from its third movement in his own Lyric Suite."
     }
   },
+  "2068": {
+    "structure": {
+      "ja": "16声部に分かれた無伴奏混声合唱のための作品。死者のためのミサ曲から採られたラテン語のテキストを3つの部分に分けて扱い、各声部が異なるリズム細分で進行する。旋律や和声よりも音色そのものを聴かせる、ミクロポリフォニーとクラスター和音を特徴とする。",
+      "en": "A work for unaccompanied sixteen-part mixed chorus, setting a Latin text drawn from the Requiem Mass in three sections, with each voice moving through its own independent rhythmic subdivision. Built from micropolyphony and dense tone clusters, it favours pure sound colour over melody or harmony."
+    },
+    "story": {
+      "ja": "1966年に作曲された。当初は現代音楽の専門家の間でしか知られていなかったが、1968年にスタンリー・キューブリックが映画「2001年宇宙の旅」の音楽として無断で使用したことで、一躍広い聴衆に知られるようになった。以後、SF映画で好んで引用される作品のひとつとなっている。",
+      "en": "Composed in 1966, it was known at first mainly to specialists in contemporary music. That changed in 1968, when Stanley Kubrick used it, without permission, in the soundtrack of 2001: A Space Odyssey, bringing it to a far wider audience. It has since become one of the pieces most often echoed in science-fiction film scores."
+    }
+  },
   "2076": {
     "structure": {
       "ja": "単一楽章の管弦楽曲。明確な旋律・リズム・拍節を排し、密集した音の層が絶えず移ろい続ける響きそのものを聴かせる書法をとる。\n「ミクロポリフォニー」と呼ばれる、多数の声部が極めて近い音程でわずかにずれながら同時に進行する技法が用いられ、個々の声部を聴き分けることが不可能な、渾然とした音の雲のような効果を生み出している。",
@@ -307,6 +347,16 @@
     "story": {
       "ja": "1816年に作曲され、1821年にウィーン、パリ、ライプツィヒの3都市でほぼ同時に出版された。ピアニストとしても名高かったフンメルの代表作のひとつで、若きショパンやシューマンがこの協奏曲を研究し、自作のピアノ協奏曲の着想を得たとする説があるが、いずれも一次資料による確証はない。",
       "en": "It was composed in 1816 and published in 1821 by firms in Vienna, Paris, and Leipzig alike. One of the finest works by a composer celebrated in his day as a piano virtuoso, it is said to have been studied by both the young Chopin and Schumann, who drew on it for their own piano concertos, though neither claim rests on firsthand documentary evidence."
+    }
+  },
+  "2458": {
+    "structure": {
+      "ja": "エレクトリック弦楽四重奏のための全13楽章の作品で、「出発」「不在」「帰還」の3部に分かれる。クリスタルグラスや吊り下げたタムタムを加え、弓を指板上で弾く奏法や指ぬきで弦を叩く奏法、奏者自身の発声など特殊奏法を多用する。副題は「暗黒の国からの13の情景」。",
+      "en": "A thirteen-movement work for electric string quartet, grouped into three parts titled 'Departure,' 'Absence' and 'Return.' Crystal glasses and a suspended tam-tam join the quartet, and the players use extended techniques such as bowing on the fingerboard, tapping strings with thimbles, and vocalizing."
+    },
+    "story": {
+      "ja": "総譜には「1970年3月13日金曜日、戦時に」と記され、ベトナム戦争への応答として書かれた作品であることを示す。ミシガン大学の委嘱によりスタンリー弦楽四重奏団が初演し、1971年に出版された。シューベルトの弦楽四重奏曲第14番からの引用や、7と13という数字への数秘術的なこだわりが随所に見られ、映画「エクソシスト」の音楽としても用いられた。",
+      "en": "Crumb marked the score 'in tempore belli' — in time of war — and dated it to March 1970, underscoring its answer to the Vietnam War. Commissioned by the University of Michigan and premiered by the Stanley Quartet, it was published in 1971. It quotes Schubert's String Quartet No. 14 and is built around a numerological fascination with the numbers seven and thirteen, and was later used in the soundtrack of The Exorcist."
     }
   },
   "2484": {
@@ -1017,6 +1067,16 @@
     "story": {
       "ja": "2つの楽章は別々の時期に書かれ、第1曲「アリア」は1938年に、第2曲「ダンサ」は1945年に追加され、しばしば「1938/1945年」という表記で呼ばれる。1930年代から1940年代にかけて作曲された「ブラジル風バッハ」全9曲からなる連作の一部をなす。\nソプラノ歌手ビドゥ・サヨンはこの曲と深く結びついた歌手として知られ、1945年にはヴィラ=ロボス自身の指揮のもとで録音をおこなっている。",
       "en": "Its two movements were written at different times: the \"Ária\" in 1938, and the \"Dança\" added in 1945, which is why the work is often dated \"1938/1945.\" It belongs to the cycle of nine Bachianas Brasileiras composed across the 1930s and 1940s.\nThe soprano Bidu Sayão became closely identified with the piece, and in 1945 she recorded it under Villa-Lobos's own baton."
+    }
+  },
+  "4995": {
+    "structure": {
+      "ja": "全3楽章からなるが、演奏者はいかなる楽器音も出さない沈黙の作品。ウッドストックの手稿によれば各楽章の長さはおよそ30秒、2分23秒、1分40秒とされ、合計の演奏時間である「4分33秒」がそのまま曲名となっている。",
+      "en": "A three-movement piece in which the performer produces no instrumental sound at all. According to the Woodstock manuscript, the movements last roughly thirty seconds, two minutes twenty-three seconds, and one minute forty seconds, and their combined duration gives the piece its title."
+    },
+    "story": {
+      "ja": "1952年8月29日、ニューヨーク州ウッドストックのメイヴェリック・コンサートホールで、デイヴィッド・チューダーのピアノにより初演された。ラウシェンバーグの「ホワイト・ペインティングス」に着想を得たとされ、完全な無音は存在しないと悟った無響室での体験も背景にあるという。初演の聴衆の多くは、この作品を冗談か侮辱のどちらかとして受け止めた。",
+      "en": "It premiered on 29 August 1952 at the Maverick Concert Hall in Woodstock, New York, with the pianist David Tudor at the keyboard. Cage is said to have drawn on Rauschenberg's White Paintings, as well as on his realization, after visiting an anechoic chamber, that true silence does not exist. Many in the audience took the premiere as either a joke or an insult."
     }
   },
   "5031": {
@@ -2389,6 +2449,26 @@
       "en": "It was composed in 1981 on commission from CBS Records, becoming Glass's first release on a major commercial label. Unusually, it was conceived first and foremost for the recording studio rather than the concert hall, with the intimate, headphone-based listening of the then-emerging Walkman format in mind.\nIt was released on LP and cassette in 1982, and some of its movements later entered the Philip Glass Ensemble's live concert repertoire. In 1983 the choreographer Jerome Robbins used this and other Glass pieces for Glass Pieces, a work he made for New York City Ballet."
     }
   },
+  "10837": {
+    "structure": {
+      "ja": "全4幕、休憩なしで約5時間に及ぶオペラ。旋律的な物語構成を持たず、約20分の独立した9つの場面を「ニー・プレイ」と呼ばれる5つの間奏がつなぐ構成をとる。台本はソルフェージュ音節や数字、詩から成り、観客は上演中自由に出入りできる。",
+      "en": "A four-act opera lasting roughly five hours without intermission, built not on a conventional plot but on nine independent scenes of about twenty minutes each, linked by five interludes called 'Knee Plays.' The text is drawn from solfège syllables, numbers and verse, and audience members may come and go freely."
+    },
+    "story": {
+      "ja": "1975年、カナダのケープ・ブレトン島で作曲され、翌1976年7月25日、アヴィニョン音楽祭で初演された。演出家ロバート・ウィルソンとの共作であり、台本にはクリストファー・ノウルズらが参加した。グラスが後にサティヤーグラハやアクナーテンへと続けた「肖像画三部作」の第1作にあたる。",
+      "en": "Glass composed it in 1975 on Cape Breton Island in Canada, and it premiered the following year, on 25 July 1976, at the Avignon Festival. Created jointly with the director Robert Wilson, it is the first instalment of Glass's 'Portrait Trilogy,' which he went on to continue with Satyagraha and Akhnaten."
+    }
+  },
+  "10867": {
+    "structure": {
+      "ja": "ホピ語で「均衡を失った生活」を意味する題名を持つ、同名の映画のための音楽。冒頭は金管による持続低音で始まり、「有機体」「雲」「資源」など9つの楽章、13の独立した部分から構成される。フィリップ・グラス・アンサンブルと合唱団により演奏される。",
+      "en": "The film's title is a Hopi word meaning 'life out of balance,' and Glass's score opens with a sustained brass drone. It unfolds across nine named movements — from 'Organic' and 'Clouds' to 'Resource' and 'The Grid' — in thirteen sections, performed by the Philip Glass Ensemble with chorus."
+    },
+    "story": {
+      "ja": "1982年9月25日、テルライド映画祭でこの映画とともに初めて公開され、翌年4月にはサンフランシスコで劇場公開された。演奏はマイケル・リーズマン指揮のフィリップ・グラス・アンサンブルが担い、合唱にはウェスタン・ウィンド・ヴォーカル・アンサンブルが加わっている。",
+      "en": "It was first shown, together with the film, at the Telluride Film Festival on 25 September 1982, and had a limited theatrical release in San Francisco the following April. The score was performed by the Philip Glass Ensemble under the conductor Michael Riesman, joined by the Western Wind Vocal Ensemble as chorus."
+    }
+  },
   "10935": {
     "structure": {
       "ja": "トルストイの小説『クロイツェル・ソナタ』に着想を得た全4楽章の弦楽四重奏曲で、演奏時間は約18分。各楽章に共通して「コン・モート」の速度指示が現れ、切迫した情感が全曲を貫く。小説の題名自体はベートーヴェンのヴァイオリン・ソナタに由来する。",
@@ -2457,6 +2537,26 @@
     "story": {
       "ja": "1720年代から1730年ごろにかけて作曲されたとみられる。同時期の別の合奏協奏曲「ごしきひわ」の室内楽版と、まったく同じ紙が用いられていることが自筆譜の研究から分かっており、これが作曲時期を推定するうえでの重要な手がかりの一つとなっている。",
       "en": "Likely composed sometime between the 1720s and around 1730, the concerto's dating rests partly on manuscript research showing it shares the very same paper stock as a chamber version of his own concerto \"Il Gardellino,\" which was itself composed by Vivaldi around that same busy period of his own career."
+    }
+  },
+  "12569": {
+    "structure": {
+      "ja": "管弦楽と録音された鳥の声のテープのための全3楽章の作品。「湿原」「メランコリー」「白鳥の渡り」と題された各楽章で、木管・金管・弦楽器にチェレスタなどの鍵盤打楽器を加えた編成と、2チャンネルの鳥の声の録音とが重ね合わされる。",
+      "en": "A three-movement work for orchestra and a two-channel tape of recorded birdsong, its movements titled 'The Bog,' 'Melancholy' and 'Swans Migrating.' Woodwinds, brass and strings, coloured with keyboard percussion such as celesta, are layered against the taped bird sounds throughout."
+    },
+    "story": {
+      "ja": "1972年に作曲され、同年10月18日にオウル交響楽団によって初演された。当時のフィンランド大統領ウルホ・ケッコネンに献呈された作品で、同じ年にヘルシンキの出版社エディション・ファツェルから楽譜が出版されている。作曲家自身は、テープに収められた鳥の声こそがこの曲の独奏者だと評したと伝えられる。",
+      "en": "It was composed in 1972 and premiered on 18 October that year by the Oulu Symphony Orchestra. Dedicated to Urho Kekkonen, then President of Finland, the score was published the same year by the Helsinki firm Edition Fazer. Rautavaara himself is said to have remarked that the taped birds are effectively the piece's true soloists."
+    }
+  },
+  "12666": {
+    "structure": {
+      "ja": "3群に分けた109人編成のオーケストラのための作品で、各群にそれぞれ指揮者を置き、聴衆を馬蹄形に取り囲む配置で演奏される。全体は強弱・音色・音域などの特性で統一された174の「群」から構成され、対称的な音列に基づく十二音技法が用いられている。",
+      "en": "A work for a 109-piece orchestra divided into three groups, each led by its own conductor, arranged in a horseshoe around the audience. The piece unfolds as 174 'groups,' each unified by shared dynamics, timbre or register, built on a symmetrical twelve-tone row."
+    },
+    "story": {
+      "ja": "1955年から57年にかけて作曲され、1958年3月24日にケルンで初演された。演奏には指揮者3名が必要で、シュトックハウゼン自身とブルーノ・マデルナ、ピエール・ブーレーズがそれぞれのオーケストラ群を指揮した。作曲は、電子音楽スタジオの所長であったヘルベルト・アイメルトに献呈されている。",
+      "en": "It was composed between 1955 and 57 and premiered in Cologne on 24 March 1958. The performance calls for three conductors, and at the premiere Stockhausen himself, Bruno Maderna and Pierre Boulez each led one of the three orchestral groups. The work is dedicated to Herbert Eimert, head of the WDR electronic music studio."
     }
   },
   "12890": {
@@ -6303,6 +6403,26 @@
     "story": {
       "ja": "正確な作曲年は判然としないが、1820年代前半にロンドンまたはパリで出版されたとみられる。作曲者の実の弟であるカルロス・ソルに献呈された作品である。数あるソルのギター独奏曲の中でも、今日に至るまで最も広く演奏され続けている作品の一つに数えられている。",
       "en": "The precise date of composition is unknown, but the piece was published in either London or Paris in the early 1820s. It is dedicated to the composer's own brother, Carlos Sor, and it remains, to this day, one of the most widely performed of all his works for solo guitar."
+    }
+  },
+  "26470": {
+    "structure": {
+      "ja": "弦楽オーケストラのための単一楽章の作品。映画音楽家として活躍した早坂文雄への追悼として書かれた、静かに沈潜するような哀悼の音楽で、武満の初期作品の中でも重要な代表作のひとつに数えられている。",
+      "en": "A single-movement work for string orchestra, written in memory of the film composer Fumio Hayasaka. Quietly elegiac in tone, it stands among the earliest works to establish Takemitsu's reputation as one of Japan's leading twentieth-century composers."
+    },
+    "story": {
+      "ja": "1957年、映画音楽家として親交のあった早坂文雄の死を悼んで作曲された。翌1958年に来日中のイーゴリ・ストラヴィンスキーがこの曲を聴いて激賞したと伝えられ、この出会いをきっかけに武満はアーロン・コープランドの知遇を得て、クーセヴィツキー財団から作品を委嘱されるまでになった。",
+      "en": "Takemitsu wrote it in 1957 in memory of his friend the film composer Fumio Hayasaka. The following year, Igor Stravinsky, then visiting Japan, is said to have heard the piece and praised it highly; the encounter led in turn to an introduction to Aaron Copland and a commission from the Koussevitzky Foundation."
+    }
+  },
+  "26495": {
+    "structure": {
+      "ja": "尺八・琵琶と西洋オーケストラのための作品。武満自身が「段」に由来すると説明する11の変奏から構成され、琵琶の撥弦を打楽器が、尺八の息づかいを弦楽器のクラスターやグリッサンドが呼応するなど、東西の楽器をあえて融合させず対比させる書法をとる。",
+      "en": "A work for shakuhachi, biwa and Western orchestra, built from eleven variations that Takemitsu himself likened to the Japanese musical unit called dan. Rather than blending East and West, it deliberately sets them against each other, with percussion echoing the biwa's plucked attacks and string glissandi answering the shakuhachi's breath."
+    },
+    "story": {
+      "ja": "1967年、ニューヨーク・フィルハーモニック創立125周年の記念委嘱作として作曲され、同年11月、指揮小澤征爾のもと、尺八の横山勝也と琵琶の鶴田錦史を独奏に迎えて初演された。当初は懐疑的だったオーケストラの奏者たちも好意的に反応したと伝えられ、以後この作品は武満の作風を西洋的な形式から「音の流れ」へと向かわせる転機となった。",
+      "en": "It was commissioned for the New York Philharmonic's 125th anniversary and composed in 1967, premiering that November under the conductor Seiji Ozawa with Katsuya Yokoyama on shakuhachi and Kinshi Tsuruta on biwa as soloists. Orchestra players said to have been skeptical at first responded warmly, and the piece marked a turning point that pushed Takemitsu's music away from Western formal structure and toward what he called a 'stream of sound.'"
     }
   },
   "26562": {
