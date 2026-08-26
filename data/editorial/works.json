@@ -89,6 +89,16 @@
       "en": "Franck, then sixty-five, worked on it for two years and completed it on 22 August 1888. It is his only mature symphony among a small orchestral output.\nThe conductor Charles Lamoureux turned down the premiere, which went instead to Jules Garcin at the Paris Conservatoire on 17 February 1889. In the French musical world after the Franco-Prussian War, a style shaped by Wagner and Liszt was liable to be read as a kind of national betrayal, and critics complained the themes were too alike and the orchestration too thick. The composer Gounod is said to have called it \"incompetence pushed to dogmatic lengths.\" The premiere was a failure, but after Franck's death the symphony found its place in the international repertoire."
     }
   },
+  "1144": {
+    "structure": {
+      "ja": "序奏、主題と変奏、終曲の3部が切れ目なく続く、緩急急の協奏曲的な構成を持つ。嬰ヘ短調で開始し、終曲は嬰ヘ長調に転じる。ピアノ独奏に2管編成の木管、ホルン4、トランペット2、ティンパニを伴う。",
+      "en": "Variations symphoniques unfolds without pause across three linked sections — an introduction, a theme with variations, and a finale — in a concerto-like fast-slow-fast arc. It opens in F-sharp minor and closes in F-sharp major, scored for solo piano with double woodwinds, four horns, two trumpets, and timpani."
+    },
+    "story": {
+      "ja": "1885年に作曲され、翌年5月1日、パリの国民音楽協会の演奏会で独奏者ルイ・ディエメールに献呈のうえ、フランク自身の指揮で初演された。当初はほとんど注目されなかったが、作曲家の没後、弟子たちの尽力によって主要ピアニストの重要なレパートリーとして定着した。",
+      "en": "Composed in 1885 and dedicated to pianist Louis Diémer, the work premiered the following May at a Société Nationale concert in Paris, with Diémer at the keyboard and Franck himself conducting. Barely noticed at first, it was championed after the composer's death by his students and gradually entered the core repertoire of major pianists."
+    }
+  },
   "1155": {
     "structure": {
       "ja": "全4楽章。循環形式(複数の楽章にわたって主題が回帰し、姿を変えて現れる手法)による構成で知られる。第1楽章アレグレット・ベン・モデラートは調性感の曖昧な、抒情的な2つの主題を対置する形で開始される。第2楽章アレグロは荒々しいニ短調のスケルツォ。第3楽章はレチタティーヴォと幻想曲による、それまでの主題を回想する自由な楽章。終楽章アレグレット・ポコ・モッソは、ヴァイオリンとピアノが主題をカノン(追いかけっこ)のように歌い交わす書法で知られ、循環形式による第1楽章主題の再現とあわせて、この曲最大の聴きどころとなっている。",
@@ -97,6 +107,16 @@
     "story": {
       "ja": "1886年、フランク63歳の折、ベルギーの若きヴァイオリニスト、ウジェーヌ・イザイの結婚祝いとして作曲された。共通の友人シャルル・ボルド経由で、1886年9月26日、イザイの結婚式当日の朝に贈られたと伝えられ、ろくに練習する間もないまま、その日のうちにイザイとボルドの義理の姉にあたるピアニスト、マリー=レオンティーヌ・ボルド=ペーヌによって披露されたという。\n正式な初演は同年12月16日、ブリュッセルのムゼ・モデルヌ・ド・ペンチュールでおこなわれた。この会場では人工照明が禁じられていたため、演奏が進むうちに日が暮れて譜面が読めなくなり、イザイとボルド=ペーヌは終楽章近くをほとんど暗闇の中、記憶を頼りに弾き通したという逸話が広く語り継がれている。イザイはその後何十年にもわたりこの曲を演奏会で取り上げ続け、フランクの名を後世に広めるうえで大きな役割を果たした。",
       "en": "He composed it in 1886, at the age of sixty-three, as a wedding gift for the young Belgian violinist Eugène Ysaÿe. It is said to have been delivered via their mutual friend Charles Bordes on the morning of Ysaÿe's wedding, 26 September 1886, and performed that same day, with barely any rehearsal, by Ysaÿe and the pianist Marie-Léontine Bordes-Pène, Bordes's sister-in-law.\nThe formal premiere followed on 16 December that year in Brussels, at the Musée Moderne de Peinture. Artificial lighting was forbidden in the hall, and as dusk fell during the performance the players could no longer read the score — Ysaÿe and Bordes-Pène are said to have played the closing pages nearly in the dark, from memory. Ysaÿe went on performing the sonata for decades afterward, and his advocacy did much to secure Franck's posthumous reputation."
+    }
+  },
+  "1175": {
+    "structure": {
+      "ja": "前奏曲、コラール、フーガの3部が切れ目なく続く循環形式の作品で、循環主題が全体を貫いて回帰する。前奏曲はロ短調で始まり、コラールでハ短調を経て、フーガは再びロ短調からロ長調で結ばれる。",
+      "en": "Cast in cyclic form, the Prélude, choral et fugue moves without pause through three linked sections, its recurring theme returning throughout. The prelude opens in B minor, the chorale passes through C minor, and the fugue circles back to B minor before closing in B major."
+    },
+    "story": {
+      "ja": "1884年に作曲され、翌年1月、パリのサル・プレイエルで開かれた国民音楽協会の演奏会で、献呈を受けた独奏者マリー・ポワトヴァンにより初演され、好評を得たと伝えられる。楽譜は当初ブラウンシュヴァイクの出版社から刊行され、後にパリのエノック社から再刊された。",
+      "en": "Composed in 1884 and dedicated to pianist Marie Poitevin, the work received its premiere the following January at a Société Nationale concert at the Salle Pleyel in Paris, with Poitevin at the keyboard, and was reportedly well received. First published by a firm in Braunschweig, the score was later reissued by the Paris house Enoch."
     }
   },
   "1480": {
@@ -399,6 +419,16 @@
       "en": "Violinist Jascha Heifetz commissioned the concerto and gave its premiere with the Cleveland Orchestra on 7 December 1939; the British premiere followed in 1941, with Henry Holst as soloist under Walton's own baton. According to the composer, being bitten by a tarantula while working in Ravello left its mark on the score's tarantella-like passages."
     }
   },
+  "3731": {
+    "structure": {
+      "ja": "アンダンテ・マリンコニコの序奏とロンド・カプリチオーソの2部から成る、イ短調の技巧的なヴァイオリン小品。当初はヴァイオリン協奏曲第1番の終楽章として構想されたが、単独での高い評価を受けて独立した作品として出版された。",
+      "en": "Cast in A minor, this brilliant showpiece for violin pairs an Andante malinconico introduction with a Rondo capriccioso. Originally conceived as the finale of the First Violin Concerto, it was later published as a standalone work after its warm reception on its own."
+    },
+    "story": {
+      "ja": "1863年に作曲され、1867年4月4日、パリのシャンゼリゼで献呈相手のパブロ・デ・サラサーテの独奏、サン=サーンス自身の指揮により初演された。友人ビゼーによるヴァイオリンとピアノのための編曲や、ドビュッシーによる2台ピアノ版も残されている。",
+      "en": "Composed in 1863, the piece was premiered on 4 April 1867 in Paris, with dedicatee Pablo de Sarasate as soloist and Saint-Saëns himself conducting the orchestra. It later inspired arrangements by other composers, including a version for violin and piano by Bizet and a two-piano transcription by Debussy, both of which helped spread its popularity."
+    }
+  },
   "3785": {
     "structure": {
       "ja": "全2部からなる交響曲で、実質的には4楽章に相当する内容を2部構成にまとめている。パイプオルガンが2つの部の後半にそれぞれ加わるが、独奏楽器として技巧を披露するのではなく、オーケストラの響きに厚みと荘厳さを加える役割にとどまる。\n終結部ではオルガンとピアノ連弾が加わり、全楽器が同じ主題を高らかに歌い上げる壮麗な終わり方をする。",
@@ -447,6 +477,16 @@
     "story": {
       "ja": "1886年2月、謝肉祭の余興として友人たちのために書かれた。彼自身は「まじめな作曲家」としての評価を損なうことを恐れ、生前の出版・公開演奏を固く禁じていた。\n唯一の例外が「白鳥」で、1887年にチェロとピアノ用の編曲として出版されている。全曲の出版は遺言に従い、彼の死の翌年、1922年に実現した。",
       "en": "Written in February 1886 as light entertainment for friends around Carnival time. Saint-Saëns worried it would damage his standing as a \"serious\" composer, and firmly forbade its publication or public performance during his lifetime.\nThe one exception was The Swan, published in 1887 in an arrangement for cello and piano. The complete suite was published only after his death, as he had specified in his will, in 1922, the year after he died."
+    }
+  },
+  "3827": {
+    "structure": {
+      "ja": "旧約聖書士師記に基づく全3幕4場のグランド・オペラ。混声合唱を伴う大編成の管弦楽にハープやカスタネット、グロッケンシュピールなどの打楽器が彩りを添える。フランスでの上演が敬遠されたため、リストの尽力によりドイツ語訳でワイマールにて初演された。",
+      "en": "Based on the biblical Book of Judges, this grand opera unfolds across three acts and four scenes, its large orchestra and mixed chorus colored by harp, castanets, and glockenspiel. Deemed too risky for the French stage, it reached the theater only in a German translation, thanks to Liszt's advocacy."
+    },
+    "story": {
+      "ja": "着想から数年を経て1876年に総譜が完成し、翌年12月2日、ワイマール大公立劇場でエドゥアルト・ラッセンの指揮によりドイツ語訳で初演された。ダリラ役はメゾソプラノのポーリーヌ・ヴィアルドを念頭に書かれたが、高齢のため出演せず、代役アウグステ・フォン・ミュラーが歌った。",
+      "en": "Years in the making, Saint-Saëns completed the score in 1876, and the opera premiered the following December in Weimar under Eduard Lassen, sung in German translation. The role of Dalila had been written with mezzo-soprano Pauline Viardot in mind, but she was too old to perform it, and Auguste von Müller sang the part instead."
     }
   },
   "3909": {
@@ -607,6 +647,26 @@
     "story": {
       "ja": "1920年から1922年にかけて作曲され、総譜には1922年1月15日の日付が記されている。初演は同年1月24日、コペンハーゲンでニールセン自身の指揮によりおこなわれ、好評をもって迎えられた。\nしかし1924年1月20日、ストックホルムでゲオルグ・シュネーヴォイクトの指揮によりおこなわれたデンマーク国外での初演では一転、その不協和な響きと奔放な小太鼓の扱いに反発した聴衆の一部が途中退席し、非難のざわめきが起きるという、実際のスキャンダルとなったと伝えられる。",
       "en": "It was composed between 1920 and 1922, the full score dated 15 January 1922. It premiered on 24 January that year in Copenhagen, with Nielsen himself conducting, and was well received.\nIts reception outside Denmark was another matter: at its first performance abroad, in Stockholm on 20 January 1924 under Georg Schnéevoigt, some audience members are said to have walked out mid-performance and others hissed, unsettled by its dissonance and the unruly snare-drum writing — a genuine scandal at the time."
+    }
+  },
+  "4539": {
+    "structure": {
+      "ja": "前奏曲、糸を紡ぐ女、シチリアーノ、メリザンドの死の4曲から成る組曲。シチリアーノはト短調アレグロ・モルト・モデラート、終曲メリザンドの死はニ短調モルト・アダージョで閉じられ、原曲のオーボエとファゴットは各2本、ホルンは4本に拡大されている。",
+      "en": "The suite draws four movements from Fauré's incidental music: a Prélude, La fileuse, a Sicilienne in G minor, and La mort de Mélisande in D minor. For the concert version, Fauré expanded the scoring to two oboes, two bassoons, and four horns."
+    },
+    "story": {
+      "ja": "モーリス・メーテルリンクの戯曲の英国上演に付随音楽として1898年に作曲され、同年6月21日、ロンドンでフォーレ自身の指揮により初演された。組曲版は1901年にパリで初演され、ヴィナレッタ・シンガー（後のポリニャック公妃）に献呈された。終曲「メリザンドの死」は、後にフォーレ自身の葬儀でも演奏された。",
+      "en": "Written as incidental music for a London staging of Maeterlinck's play, the score premiered on 21 June 1898 under Fauré's own baton. The four-movement concert suite followed in 1901 in Paris and was dedicated to Winnaretta Singer, later Princesse de Polignac. Its final movement, La mort de Mélisande, was later performed at Fauré's own funeral."
+    }
+  },
+  "4582": {
+    "structure": {
+      "ja": "全4楽章から成るピアノ四重奏曲。ソナタ形式の第1楽章アレグロ・モルト・モデラート（ト短調）に続き、ハ短調の第2楽章スケルツォ、変ホ長調の緩徐楽章、そしてト長調の終楽章アレグロ・モルトで結ばれる。",
+      "en": "Fauré's Second Piano Quartet spans four movements: a sonata-form Allegro molto moderato in G minor, a C minor scherzo marked Allegro molto, a slow movement in E-flat major, and a G major finale marked Allegro molto. The scoring follows the standard piano quartet ensemble."
+    },
+    "story": {
+      "ja": "前年から作曲が進められ、1886年までに完成。翌年1月22日、パリの国民音楽協会でフォーレ自身がピアノを弾き、ギヨーム・レミらの演奏で初演された。指揮者ハンス・フォン・ビューローに献呈され、後年アーロン・コープランドは緩徐楽章を高く評したと伝えられる。",
+      "en": "Fauré completed the quartet in 1886, and it premiered the following January at a Société Nationale concert in Paris, with the composer himself at the piano alongside violinist Guillaume Remy and colleagues. Dedicated to conductor Hans von Bülow, the work later drew praise from Aaron Copland, who is said to have admired its slow movement."
     }
   },
   "4612": {
@@ -2029,6 +2089,26 @@
       "en": "In the winter of 1887, while finishing Borodin's unfinished opera Prince Igor, he was also mulling an orchestral piece drawing on The Arabian Nights. The autograph score is dated between 4 June and 7 August 1888.\nIt premiered on 28 October that year in St Petersburg, with the composer conducting. Each movement originally carried a title — \"The Sea and Sinbad's Ship,\" \"The Kalandar Prince's Tale,\" and so on — but Rimsky-Korsakov later removed them, not wanting listeners to tie specific scenes too literally to specific melodies."
     }
   },
+  "14347": {
+    "structure": {
+      "ja": "アフリカの創世神話を題材にしたバレエ音楽で、切れ目なく続く6部から成り、演奏時間は約15分。18人編成の室内アンサンブルにE♭アルトサクソフォーンを含み、当時のジャズ語法を本格的に取り入れた先駆的な作品として知られる。",
+      "en": "This ballet score draws on an African creation myth and unfolds in six continuous parts lasting roughly fifteen minutes. Scored for an eighteen-piece chamber ensemble that includes an E-flat alto saxophone, it is often cited as an early serious use of jazz idiom in concert music."
+    },
+    "story": {
+      "ja": "詩人ブレーズ・サンドラールの台本に基づき、美術・衣装をフェルナン・レジェが手がけ、1923年10月25日、パリのシャンゼリゼ劇場でバレエ・スエドワにより初演された。物議を醸しつつも成功を収め、ミヨーがロンドンやニューヨークで実際に耳にしたジャズの語法を本格的に取り入れた点で先駆的と評される。",
+      "en": "With a scenario by poet Blaise Cendrars and sets and costumes by Fernand Léger, the ballet premiered on 25 October 1923 in Paris at the Théâtre des Champs-Élysées, danced by the Ballets Suédois. Though it stirred controversy, the work succeeded, and its serious absorption of jazz idioms Milhaud had actually heard abroad marked it as groundbreaking."
+    }
+  },
+  "14452": {
+    "structure": {
+      "ja": "回帰する主題を軸としたロンド形式的な単一楽章のバレエ音楽。室内オーケストラ編成にタンバリンなどの打楽器を伴い、ギロや洗濯板の代用品が用いられることもある。もとはチャップリンの無声映画の伴奏として着想されたと伝えられる。",
+      "en": "Cast as a single continuous movement with a rondo-like recurring theme, the score is written for chamber orchestra with tambourine and other percussion, sometimes including a güiro or washboard substitute. It was reportedly first conceived as accompaniment for a Chaplin silent film."
+    },
+    "story": {
+      "ja": "着想からまもなく仕上げられ、1920年2月21日、パリのコメディ・デ・シャンゼリゼ劇場で、ヴラディーミル・ゴルシュマンの指揮、ジャン・コクトーの振付により初演された。曲名の由来は諸説あり、ミヨー自身はブラジルの舞曲用語に由来すると語ったと伝えられるが、酒場の看板に由来するという説も根強い。",
+      "en": "Written soon after it was conceived, the score reached the stage on 21 February 1920, given at a Paris theater near the Champs-Élysées with Vladimir Golschmann on the podium and Jean Cocteau staging the choreography. The title's origin remains debated: Milhaud himself reportedly traced it to a Brazilian dance term, though a rival theory points instead to a bar's painted sign."
+    }
+  },
   "14525": {
     "structure": {
       "ja": "単一楽章からなる管弦楽のための狂詩曲。スペイン旅行中に耳にした2つの舞曲、速く情熱的なホタと、より緩やかで官能的なマラゲーニャを融合させ、華麗な管弦楽法によって一続きの音楽として仕立てている。",
@@ -2037,6 +2117,26 @@
     "story": {
       "ja": "1882年、シャブリエは妻とともにサン・セバスティアン、ブルゴス、トレド、セビリア、グラナダなど各地をめぐるスペイン旅行に出かけ、そこで耳にした民俗舞踊にすっかり魅了された。帰国後、まず「ホタ」と題したピアノ幻想曲としてこの素材をまとめ、1883年1月から8月にかけて管弦楽版へと発展させ、同年10月に「スペイン」と改題した。\n初演は1883年11月4日、パリのシャルル・ラムルー指揮による新演奏会協会管弦楽団によりおこなわれ、初演の場でアンコールを求められるほどの熱狂を呼んだ。この一作でシャブリエはほとんど一夜にして名を知られるようになったと伝えられる。",
       "en": "In 1882 Chabrier and his wife travelled through Spain — San Sebastián, Burgos, Toledo, Seville, Granada and elsewhere — and he was captivated by the folk dances he heard there. Back home he first sketched the material as a piano fantasy titled \"Jota,\" then developed it into an orchestral work between January and August 1883, retitling it \"España\" that October.\nIt premiered on 4 November 1883 in Paris, performed by the Société des Nouveaux Concerts under Charles Lamoureux, and was received so enthusiastically that it was encored on the spot. The piece is said to have made Chabrier famous almost overnight."
+    }
+  },
+  "14580": {
+    "structure": {
+      "ja": "ゲーテの書簡体小説に基づく全4幕の抒情劇で、若者ウェルテルの叶わぬ恋と絶望を静かな筆致で描く。第3幕と第4幕の間には管弦楽による間奏曲が置かれ、編成にはアルトサクソフォーンが含まれる珍しい特徴を持つ。",
+      "en": "Based on Goethe's novel, Werther is cast as a drame lyrique in four acts, with an orchestral interlude bridging the third and fourth. Its unusual scoring includes an alto saxophone, a rare choice for French opera of the period."
+    },
+    "story": {
+      "ja": "数年をかけて作曲されたが、パリ・オペラ=コミック座は当初上演を見送り、1892年2月16日、ウィーン宮廷歌劇場でドイツ語訳により、エルネスト・ヴァン・ダイクの主演で初演される運びとなった。後に受理されたパリ上演は、以後半世紀で1100回を超える回数を重ねる人気演目となった。",
+      "en": "Composed over several years, Werther was initially turned down by the Paris Opéra-Comique and instead received its premiere in German translation at the Vienna Court Opera on 16 February 1892, with tenor Ernest Van Dyck in the title role. Once accepted in Paris, the opera went on to be performed more than eleven hundred times there over the following half century."
+    }
+  },
+  "14603": {
+    "structure": {
+      "ja": "アベ・プレヴォーの18世紀小説に基づく全5幕6場のオペラ・コミック。台本はアンリ・メイヤックとフィリップ・ジルによる。ヒロインが娼婦に身を落とす場面を含む、写実的で情感豊かな筋立てで知られる。",
+      "en": "Based on Abbé Prévost's eighteenth-century novel, Manon is an opéra comique in five acts and six tableaux, with a libretto by Henri Meilhac and Philippe Gille. Its vivid, emotionally charged plot follows the heroine's descent, blending comedy with tragedy in a manner typical of the genre."
+    },
+    "story": {
+      "ja": "1884年1月19日、パリ・オペラ=コミック座で、マリー・エルブロンとジャン=アレクサンドル・タラザックの主演、ジュール・ダンベの指揮により初演された。以後この劇場を代表する人気演目の一つとなり、後年には通算上演回数が1000回に到達したと伝えられる。",
+      "en": "The opera premiered on 19 January 1884 at the Paris Opéra-Comique, with Marie Heilbron and Jean-Alexandre Talazac in the leading roles under conductor Jules Danbé. It quickly became one of the house's signature works, and productions there are said to have reached their thousandth performance decades after the composer's death."
     }
   },
   "14629": {
@@ -4843,6 +4943,26 @@
     "story": {
       "ja": "作曲時期は諸説あり、1688年7月までには確実に書かれていたとみられる一方、1684年頃、国王チャールズ2世の宮廷で上演するために書かれたとする説もあるが、これは状況証拠に基づく推測の域を出ない。パーセルの生前に確実な記録が残る上演は、1689年春、ロンドン・チェルシーにあるジョサイアス・プリーストの女学校でおこなわれたものひとつのみである。プリーストは舞踊教師であり、生徒たちの踊りを見せる機会としてこの作品を求めたと考えられている。\n自筆譜は現存せず、当時の台本以外にこの作品を伝える最古の楽譜写本は、パーセルの死後半世紀以上を経た1750年頃のものにすぎない。序幕の音楽は完全に失われており、18世紀前半に演劇の幕間劇として流用される過程で欠落が生じたとみられている。",
       "en": "The date of composition is debated. It was certainly written by July 1688, and some scholars argue for an earlier date around 1684, connected with a possible court performance for King Charles II, though that theory rests only on circumstantial evidence. The only performance documented with certainty during Purcell's lifetime took place in spring 1689, at Josias Priest's boarding school for young gentlewomen in Chelsea, London — Priest, a dancing master, is thought to have wanted the piece as a showcase for his pupils' dancing.\nNo autograph score survives, and apart from the libretto, the earliest surviving music manuscript dates from no earlier than about 1750, more than half a century after Purcell's death. The music for the Prologue is lost entirely, apparently a casualty of the work's later use, cut up into interludes performed between the acts of spoken plays in the early eighteenth century."
+    }
+  },
+  "24902": {
+    "structure": {
+      "ja": "「怒りの日」アレグロ・マルカート、「深き淵より」アダージョ、「われらに平和を与えたまえ」アンダンテの全3楽章から成る。各楽章の題名が典礼文に由来することから「典礼風」と呼ばれ、フルート3本やコントラファゴット、ピアノを含む拡大編成で書かれている。",
+      "en": "Honegger's Third Symphony unfolds in three movements titled after liturgical texts — 'Dies irae,' 'De profundis clamavi,' and 'Dona nobis pacem' — which give the work its nickname 'Liturgique.' It calls for an expanded orchestra including three flutes, contrabassoon, and piano."
+    },
+    "story": {
+      "ja": "スイス文化財団プロ・ヘルヴェティアの委嘱により1946年に完成し、同年8月17日、チューリヒでシャルル・ミュンシュの指揮、スイス・ロマンド管弦楽団により初演された。ミュンシュに献呈されたこの交響曲は、初演後およそ10年にわたり現代音楽の中で最も頻繁に演奏される作品の一つとなった。",
+      "en": "Commissioned by the Pro Helvetia Foundation, Honegger completed the symphony in 1946, and it premiered that August in Zurich under Charles Munch, to whom the work is dedicated, with the Orchestre de la Suisse Romande. For roughly a decade afterward, it remained one of the most frequently performed works of contemporary music."
+    }
+  },
+  "24921": {
+    "structure": {
+      "ja": "拡大された木管・金管編成にコントラファゴットを含む、計32パートから成る単一楽章の交響的運動。当初は「交響的運動」の題で作曲され、後に蒸気機関車の車輪配置を示す形式番号「231型」にちなんで改題された。",
+      "en": "Scored for an expanded wind and brass section including contrabassoon, across thirty-two parts in all, this single-movement 'symphonic movement' was originally untitled beyond that generic label. It was later renamed after '231,' the wheel-arrangement code for a type of steam locomotive."
+    },
+    "story": {
+      "ja": "1923年に作曲され、翌年5月8日、パリ・オペラ座でセルゲイ・クーセヴィツキーの指揮により初演された。指揮者エルネスト・アンセルメに献呈されたこの曲は、蒸気機関車を描いたものと広く受け止められたが、ホネゲル自身はそれが作曲上の主眼ではなかったと語ったと伝えられる。",
+      "en": "Composed in 1923, the piece was premiered the following May at the Paris Opéra under conductor Serge Koussevitzky. Dedicated to Ernest Ansermet, it was widely heard as a musical portrait of a steam locomotive, though Honegger himself reportedly said that depicting the machine had not been his primary compositional aim."
     }
   },
   "25148": {

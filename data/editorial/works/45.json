@@ -1,4 +1,14 @@
 {
+  "3731": {
+    "structure": {
+      "ja": "アンダンテ・マリンコニコの序奏とロンド・カプリチオーソの2部から成る、イ短調の技巧的なヴァイオリン小品。当初はヴァイオリン協奏曲第1番の終楽章として構想されたが、単独での高い評価を受けて独立した作品として出版された。",
+      "en": "Cast in A minor, this brilliant showpiece for violin pairs an Andante malinconico introduction with a Rondo capriccioso. Originally conceived as the finale of the First Violin Concerto, it was later published as a standalone work after its warm reception on its own."
+    },
+    "story": {
+      "ja": "1863年に作曲され、1867年4月4日、パリのシャンゼリゼで献呈相手のパブロ・デ・サラサーテの独奏、サン=サーンス自身の指揮により初演された。友人ビゼーによるヴァイオリンとピアノのための編曲や、ドビュッシーによる2台ピアノ版も残されている。",
+      "en": "Composed in 1863, the piece was premiered on 4 April 1867 in Paris, with dedicatee Pablo de Sarasate as soloist and Saint-Saëns himself conducting the orchestra. It later inspired arrangements by other composers, including a version for violin and piano by Bizet and a two-piano transcription by Debussy, both of which helped spread its popularity."
+    }
+  },
   "3785": {
     "structure": {
       "ja": "全2部からなる交響曲で、実質的には4楽章に相当する内容を2部構成にまとめている。パイプオルガンが2つの部の後半にそれぞれ加わるが、独奏楽器として技巧を披露するのではなく、オーケストラの響きに厚みと荘厳さを加える役割にとどまる。\n終結部ではオルガンとピアノ連弾が加わり、全楽器が同じ主題を高らかに歌い上げる壮麗な終わり方をする。",
@@ -47,6 +57,16 @@
     "story": {
       "ja": "1886年2月、謝肉祭の余興として友人たちのために書かれた。彼自身は「まじめな作曲家」としての評価を損なうことを恐れ、生前の出版・公開演奏を固く禁じていた。\n唯一の例外が「白鳥」で、1887年にチェロとピアノ用の編曲として出版されている。全曲の出版は遺言に従い、彼の死の翌年、1922年に実現した。",
       "en": "Written in February 1886 as light entertainment for friends around Carnival time. Saint-Saëns worried it would damage his standing as a \"serious\" composer, and firmly forbade its publication or public performance during his lifetime.\nThe one exception was The Swan, published in 1887 in an arrangement for cello and piano. The complete suite was published only after his death, as he had specified in his will, in 1922, the year after he died."
+    }
+  },
+  "3827": {
+    "structure": {
+      "ja": "旧約聖書士師記に基づく全3幕4場のグランド・オペラ。混声合唱を伴う大編成の管弦楽にハープやカスタネット、グロッケンシュピールなどの打楽器が彩りを添える。フランスでの上演が敬遠されたため、リストの尽力によりドイツ語訳でワイマールにて初演された。",
+      "en": "Based on the biblical Book of Judges, this grand opera unfolds across three acts and four scenes, its large orchestra and mixed chorus colored by harp, castanets, and glockenspiel. Deemed too risky for the French stage, it reached the theater only in a German translation, thanks to Liszt's advocacy."
+    },
+    "story": {
+      "ja": "着想から数年を経て1876年に総譜が完成し、翌年12月2日、ワイマール大公立劇場でエドゥアルト・ラッセンの指揮によりドイツ語訳で初演された。ダリラ役はメゾソプラノのポーリーヌ・ヴィアルドを念頭に書かれたが、高齢のため出演せず、代役アウグステ・フォン・ミュラーが歌った。",
+      "en": "Years in the making, Saint-Saëns completed the score in 1876, and the opera premiered the following December in Weimar under Eduard Lassen, sung in German translation. The role of Dalila had been written with mezzo-soprano Pauline Viardot in mind, but she was too old to perform it, and Auguste von Müller sang the part instead."
     }
   }
 }

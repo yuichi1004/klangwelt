@@ -1,4 +1,24 @@
 {
+  "14580": {
+    "structure": {
+      "ja": "ゲーテの書簡体小説に基づく全4幕の抒情劇で、若者ウェルテルの叶わぬ恋と絶望を静かな筆致で描く。第3幕と第4幕の間には管弦楽による間奏曲が置かれ、編成にはアルトサクソフォーンが含まれる珍しい特徴を持つ。",
+      "en": "Based on Goethe's novel, Werther is cast as a drame lyrique in four acts, with an orchestral interlude bridging the third and fourth. Its unusual scoring includes an alto saxophone, a rare choice for French opera of the period."
+    },
+    "story": {
+      "ja": "数年をかけて作曲されたが、パリ・オペラ=コミック座は当初上演を見送り、1892年2月16日、ウィーン宮廷歌劇場でドイツ語訳により、エルネスト・ヴァン・ダイクの主演で初演される運びとなった。後に受理されたパリ上演は、以後半世紀で1100回を超える回数を重ねる人気演目となった。",
+      "en": "Composed over several years, Werther was initially turned down by the Paris Opéra-Comique and instead received its premiere in German translation at the Vienna Court Opera on 16 February 1892, with tenor Ernest Van Dyck in the title role. Once accepted in Paris, the opera went on to be performed more than eleven hundred times there over the following half century."
+    }
+  },
+  "14603": {
+    "structure": {
+      "ja": "アベ・プレヴォーの18世紀小説に基づく全5幕6場のオペラ・コミック。台本はアンリ・メイヤックとフィリップ・ジルによる。ヒロインが娼婦に身を落とす場面を含む、写実的で情感豊かな筋立てで知られる。",
+      "en": "Based on Abbé Prévost's eighteenth-century novel, Manon is an opéra comique in five acts and six tableaux, with a libretto by Henri Meilhac and Philippe Gille. Its vivid, emotionally charged plot follows the heroine's descent, blending comedy with tragedy in a manner typical of the genre."
+    },
+    "story": {
+      "ja": "1884年1月19日、パリ・オペラ=コミック座で、マリー・エルブロンとジャン=アレクサンドル・タラザックの主演、ジュール・ダンベの指揮により初演された。以後この劇場を代表する人気演目の一つとなり、後年には通算上演回数が1000回に到達したと伝えられる。",
+      "en": "The opera premiered on 19 January 1884 at the Paris Opéra-Comique, with Marie Heilbron and Jean-Alexandre Talazac in the leading roles under conductor Jules Danbé. It quickly became one of the house's signature works, and productions there are said to have reached their thousandth performance decades after the composer's death."
+    }
+  },
   "14629": {
     "structure": {
       "ja": "独奏ヴァイオリンと管弦楽のための、単独でも演奏される間奏曲。ハープの分散和音を伴奏に、独奏ヴァイオリンが瞑想的な旋律を歌う静謐な性格の曲である。\n歌劇「タイス」第2幕、娼婦タイスが放蕩な暮らしから信仰の道へと心を転じる場面の合間に置かれた管弦楽のみの間奏として書かれている。",
