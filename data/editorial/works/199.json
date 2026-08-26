@@ -8,5 +8,25 @@
       "ja": "作曲時期は諸説あり、1688年7月までには確実に書かれていたとみられる一方、1684年頃、国王チャールズ2世の宮廷で上演するために書かれたとする説もあるが、これは状況証拠に基づく推測の域を出ない。パーセルの生前に確実な記録が残る上演は、1689年春、ロンドン・チェルシーにあるジョサイアス・プリーストの女学校でおこなわれたものひとつのみである。プリーストは舞踊教師であり、生徒たちの踊りを見せる機会としてこの作品を求めたと考えられている。\n自筆譜は現存せず、当時の台本以外にこの作品を伝える最古の楽譜写本は、パーセルの死後半世紀以上を経た1750年頃のものにすぎない。序幕の音楽は完全に失われており、18世紀前半に演劇の幕間劇として流用される過程で欠落が生じたとみられている。",
       "en": "The date of composition is debated. It was certainly written by July 1688, and some scholars argue for an earlier date around 1684, connected with a possible court performance for King Charles II, though that theory rests only on circumstantial evidence. The only performance documented with certainty during Purcell's lifetime took place in spring 1689, at Josias Priest's boarding school for young gentlewomen in Chelsea, London — Priest, a dancing master, is thought to have wanted the piece as a showcase for his pupils' dancing.\nNo autograph score survives, and apart from the libretto, the earliest surviving music manuscript dates from no earlier than about 1750, more than half a century after Purcell's death. The music for the Prologue is lost entirely, apparently a casualty of the work's later use, cut up into interludes performed between the acts of spoken plays in the early eighteenth century."
     }
+  },
+  "24692": {
+    "structure": {
+      "ja": "シェイクスピア『夏の夜の夢』の翻案劇に付随音楽として作曲された全5幕の劇音楽で、原作の台詞そのものは歌われず、各幕の合間に挿入された仮面劇の場面で管弦楽と独唱・合唱が用いられる。各幕の冒頭には短い器楽シンフォニーが置かれる。",
+      "en": "Composed as incidental music for an anonymous stage adaptation of Shakespeare's A Midsummer Night's Dream, this five-act score sets none of Shakespeare's own lines but instead frames each act with newly written masque scenes for orchestra, soloists, and chorus, each act opening with a brief instrumental symphony."
+    },
+    "story": {
+      "ja": "1692年5月2日、ロンドンのドーセット・ガーデン劇場で初演され、翌年には評判の高さを受けて新たな場面を加えた改訂上演も行われた。作曲者の死後まもなく総譜の大部分は失われてしまい、20世紀に入ってからようやく再発見され、全曲がまとめて出版された。",
+      "en": "The work reached the stage on 2 May 1692 at a London theatre, and its popularity prompted a revised revival the following year with additional scenes. The full score was lost soon after the composer's death and was not rediscovered and published in its entirety until the early twentieth century."
+    }
+  },
+  "24720": {
+    "structure": {
+      "ja": "聖チェチェリアの祝日を祝う頌歌として作曲された声楽と管弦楽のための大作で、序曲風のシンフォニーに始まり、独唱・重唱・合唱を織り交ぜた13の楽曲から成る。サラバンドやメヌエットの舞曲形式、通奏低音を伴う楽章も含まれる。",
+      "en": "Written as a festive ode for the feast day of the patron saint of music, this large-scale work for soloists, chorus, and orchestra opens with an overture-like symphony and unfolds across thirteen movements mixing recitatives, airs, duets, and choruses, including a sarabande, a minuet, and a ground bass."
+    },
+    "story": {
+      "ja": "1692年、ロンドンの音楽愛好家団体が毎年11月に催す聖チェチェリア祭のために作曲され、初演は大きな成功を収めてアンコールを受けたと伝えられる。当時の刊行物にも非常に好意的な劇評が掲載され、今なお音楽の守護聖人を讃える頌歌の代表作として名高い。",
+      "en": "Composed in 1692 for the annual November celebration of Saint Cecilia mounted by a London society of music lovers, the ode was, by contemporary report, a great success at its premiere and was encored. A favorable notice appeared soon afterward in a periodical of the day, and the work remains among the finest odes written in the saint's honor."
+    }
   }
 }

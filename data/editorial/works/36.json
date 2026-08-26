@@ -9,6 +9,16 @@
       "en": "The original version for violin and piano was finished in 1914, but with the outbreak of the First World War that same year, Vaughan Williams, then forty-one, enlisted, and the piece was set aside for some time.\nThe score's head carries twelve lines quoted from the poet George Meredith's 122-line poem \"The Lark Ascending.\" Vaughan Williams lived near Box Hill, where Meredith spent his last years, and drew on the poem for inspiration. After the war he reworked it for solo violin and orchestra, and it premiered in that form in 1921."
     }
   },
+  "2776": {
+    "structure": {
+      "ja": "4楽章から成る交響曲で、瞑想的な前奏曲、スケルツォ、緩徐楽章のロマンツァ、そしてパッサカリア形式の終楽章という構成を取る。ホルンを2本のみとし、チューバやハープを欠く簡素な編成が特徴で、未完に終わったオペラの旋律素材も転用されている。",
+      "en": "Cast in four movements — a meditative Preludio, a Scherzo, a slow Romanza, and a finale built as a passacaglia — the symphony uses a pared-down orchestra with only two horns and no tuba or harp. Some of its themes were drawn from an opera the composer never completed."
+    },
+    "story": {
+      "ja": "第二次世界大戦さなかの数年をかけて作曲され、1943年6月24日、ロンドンのロイヤル・アルバート・ホールで作曲者自身の指揮により初演された。総譜はフィンランドの作曲家シベリウスに献呈され、静謐な作風は同時代の批評家から後期ベートーヴェンになぞらえられたと伝えられる。",
+      "en": "Composed over several years in the midst of the Second World War, the symphony was premiered on 24 June 1943 at London's Royal Albert Hall, with the composer himself conducting. The score is dedicated to the Finnish composer Sibelius, and its serene character reportedly led one contemporary critic to compare it to Beethoven's late style."
+    }
+  },
   "2797": {
     "structure": {
       "ja": "厳密な変奏形式ではなく、2つの弦楽合奏(一方は縮小編成)と弦楽四重奏の独奏群を組み合わせ、自由に展開していく単一楽章の瞑想的な作品。この「2群のオーケストラ」による呼び交わしの効果は、大聖堂の豊かな残響を想定して設計されている。\n主題として用いられるトマス・タリスの旋律が持つフリギア旋法の響きに基づく、機能和声によらない語法が全曲を貫く聴きどころとなっている。",
@@ -17,6 +27,16 @@
     "story": {
       "ja": "主題として用いられているのは、16世紀の作曲家トマス・タリスが1567年、大主教マシュー・パーカーの詩篇集のために書いた9つの詩篇歌のうちの1曲である。ヴォーン・ウィリアムズはこの旋律を、自身が編集に携わった1906年出版の「イングリッシュ・ヒムナル」に讃美歌として収めたことをきっかけに知ったとされる。\n作品は1910年に作曲され、同年9月6日、グロスター大聖堂で開かれたスリー・クワイアズ・フェスティヴァルにて、ヴォーン・ウィリアムズ自身の指揮、ロンドン交響楽団の演奏で初演された。同じ演目にエルガー指揮の「ゲロンティアスの夢」が組まれていたこともあり、当日の聴衆の多くはエルガー目当てであったと伝えられる。この後、1913年と1919年の2度にわたり改訂を加え、第一次世界大戦の影響で出版が遅れたのち、1921年に改訂版が刊行された。",
       "en": "Its theme is one of Nine Psalm Tunes the sixteenth-century composer Thomas Tallis wrote in 1567 for Archbishop Matthew Parker's psalter. Vaughan Williams is said to have come to know the tune through including it as a hymn in The English Hymnal, an edition he himself helped compile, published in 1906.\nHe composed the work in 1910, and it premiered on 6 September that year at the Three Choirs Festival in Gloucester Cathedral, with Vaughan Williams himself conducting the London Symphony Orchestra. Elgar's The Dream of Gerontius was on the same programme, and much of the audience that day is said to have come primarily for Elgar. Vaughan Williams revised the score twice more, in 1913 and 1919, and the revised version, delayed in publication by the First World War, finally appeared in print in 1921."
+    }
+  },
+  "2838": {
+    "structure": {
+      "ja": "歌劇の中で用いた「グリーンスリーヴス」の旋律をもとに編んだ管弦楽小品で、フルートとハープを伴う弦楽中心の編成で書かれている。原曲の牧歌的な旋律を活かした瞑想的な緩徐楽章として親しまれている。",
+      "en": "Arranged from a folk tune the composer had already used in one of his operas, this short orchestral piece is scored mainly for strings with flute and harp. It is often heard as a gently reflective interlude, letting the melody's pastoral character speak for itself."
+    },
+    "story": {
+      "ja": "1934年、歌劇『恋するサー・ジョン』の中で用いた「グリーンスリーヴス」の旋律を独立した演奏会用作品として編み直したもので、編曲は同僚の音楽家ラルフ・グリーヴズの手による。ヴォーン・ウィリアムズはこの旋律を、それより前の劇音楽でもすでに用いていた。",
+      "en": "In 1934 the tune of Greensleeves, which the composer had used in one of his operas, was reworked as a stand-alone concert piece by his colleague Ralph Greaves. Vaughan Williams had already drawn on the same folk melody in an earlier score for the theatre, well before the opera was written."
     }
   }
 }
