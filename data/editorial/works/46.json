@@ -1,4 +1,14 @@
 {
+  "3909": {
+    "structure": {
+      "ja": "全4楽章。第1楽章は侵攻を思わせる不気味な行進曲主題が繰り返し反復されながら次第に巨大化していく作りで知られる。終楽章は輝かしい金管の咆哮で幕を閉じる。ホルン8、トランペットとトロンボーン各6を含む破格の大編成が用いられ、演奏時間は約80分に及ぶ長大な交響曲である。",
+      "en": "Four movements. The first is famous for an eerie march theme repeated obsessively until it swells into an overwhelming climax, evoking invasion. The finale closes in a blaze of triumphant brass. Scored for an enormous orchestra — eight horns, six trumpets, six trombones — the symphony runs roughly eighty minutes."
+    },
+    "story": {
+      "ja": "1941年、ナチス・ドイツによる包囲下のレニングラードで作曲が始められた。翌1942年3月、疎開先のクイビシェフで初演され、同年8月にはレニングラード市内でも、飢餓と砲撃の中を生き延びた楽団員たちの手により、困難を極めた現地初演が行われている。",
+      "en": "Shostakovich began the symphony in 1941 inside Leningrad as German forces closed in around the city. It premiered the following March in Kuybyshev, where he had been evacuated, and that August a Leningrad performance followed, given by musicians who had survived the siege's hunger and shelling to play it in their own city."
+    }
+  },
   "3916": {
     "structure": {
       "ja": "全4楽章。第1楽章は緊迫感のある低弦の動機から始まり、次第に行進曲的な性格を強めていく。終楽章は勇壮な金管の斉奏で閉じられるが、この高揚が本心からの勝利の表現なのか、強制された歓喜を演じているだけなのか、演奏・解釈によって印象が大きく分かれる。\n反復されるリズムと執拗な強奏の多用が全曲を貫き、聴き手に高揚感と不穏さを同時に感じさせる書き方がなされている。",
@@ -9,6 +19,76 @@
       "en": "The previous year, 1936, his opera Lady Macbeth of the Mtsensk District had been denounced by name in the Communist Party newspaper Pravda; it vanished from Soviet stages overnight, and he himself came under fierce personal attack.\nThis symphony was written quickly the following spring, 1937, and presented as something both the authorities and the public could embrace. It premiered on 21 November that year in Leningrad under Yevgeny Mravinsky, to a triumphant reception with applause reportedly lasting over half an hour. The subtitle later attached to it — \"a Soviet artist's creative response to just criticism\" — is widely repeated, though whether Shostakovich himself actually said those words has been questioned."
     }
   },
+  "3923": {
+    "structure": {
+      "ja": "全4楽章。開始楽章は重く沈痛な気分に満ちる一方、第2楽章は嵐のように荒々しい短いスケルツォで、後年これをスターリンの音楽的肖像だとする説も語られてきた。終楽章では作曲家自身を示すDSCHの音型と、あるピアニストの名を音名に変換した主題が絡み合う。",
+      "en": "Four movements. The opening is heavy and grave, while the brief second-movement scherzo rages with violent energy — later described by some as a musical portrait of Stalin. In the finale, Shostakovich's own DSCH musical monogram intertwines with a theme spelling out a pianist's name in notes."
+    },
+    "story": {
+      "ja": "完成の経緯には諸説あるが、1953年に仕上げられ、同年12月17日にレニングラードでムラヴィンスキー指揮レニングラード・フィルにより初演された。スケルツォをスターリンの肖像とする逸話は、真偽が疑問視されている回想録「証言」に由来するとされる。",
+      "en": "Accounts of its genesis differ, but the symphony was completed in 1953 and premiered that December 17 in Leningrad under conductor Yevgeny Mravinsky and the Leningrad Philharmonic. The claim that its scherzo portrays Stalin traces back to the disputed memoir Testimony, and scholars have long questioned whether Shostakovich ever actually said any such thing."
+    }
+  },
+  "3969": {
+    "structure": {
+      "ja": "全4楽章。夜想曲、スケルツォ、パッサカリア、ブルレスクと題され、第3楽章から独奏カデンツァを経て切れ目なく終楽章へなだれ込む構成を持つ。編成にはトランペットとトロンボーンを含まず、シロフォンとチェレスタ、ハープ2台が独特の透明な響きを添えている。",
+      "en": "Four movements — Nocturne, Scherzo, Passacaglia, and Burlesque — with the Passacaglia flowing through an unaccompanied cadenza straight into the finale. The orchestra omits trumpets and trombones altogether, while xylophone, celesta, and two harps lend the scoring an unusually transparent color."
+    },
+    "story": {
+      "ja": "1948年に書き上げられたが、当局による「形式主義」批判の余波で公にされないまま長く留め置かれ、初演は7年後の1955年までずれ込んだ。献呈されたダヴィド・オイストラフの独奏、ムラヴィンスキー指揮レニングラード・フィルにより、同年10月にレニングラードで披露された。",
+      "en": "Shostakovich finished the concerto in 1948, but the anti-formalism campaign of the day kept it shelved out of public view, and its premiere was delayed some seven years, until 1955. It was finally heard that October in Leningrad, played by its dedicatee David Oistrakh with conductor Yevgeny Mravinsky and the Leningrad Philharmonic."
+    }
+  },
+  "3976": {
+    "structure": {
+      "ja": "全4楽章。独奏ピアノに加えトランペット1本が対等な役割を担い、弦楽合奏のみを伴う異色の編成で書かれる。随所にベートーヴェンの「熱情」や「失われた小銭への怒り」、ハイドンの旋律、「愛しのアウグスティン」の俗謡までが引用され、遊び心に満ちた作品となっている。",
+      "en": "Four movements for an unusual ensemble: solo piano paired with a co-equal solo trumpet, backed only by strings, no other winds or brass. The score playfully quotes Beethoven's Appassionata Sonata and Rage over a Lost Penny, a Haydn sonata, and the folk tune O du lieber Augustin."
+    },
+    "story": {
+      "ja": "1933年に作曲され、同年10月15日、レニングラード・フィルの新シーズン開幕演奏会で初演された。独奏ピアノはショスタコーヴィチ自身、トランペットはアレクサンドル・シュミットが務め、指揮はフリッツ・シュティードリーが担当し、作曲家は当夜見事な演奏を披露したと伝えられる。",
+      "en": "Written in 1933, the concerto premiered that October 15 at the season-opening concert of the Leningrad Philharmonic, and was repeated again two days later. Shostakovich himself played the piano part, with trumpeter Alexander Schmidt alongside him under conductor Fritz Stiedry, and contemporary accounts say he was in especially brilliant form that particular evening."
+    }
+  },
+  "3999": {
+    "structure": {
+      "ja": "スケルツォ、子守歌、セレナードの3曲からなる管弦楽組曲。オリジナルのフルスコアは失われ、現在演奏されるのはピアノ譜をもとに後年再構成された版で、軽妙な旋律に管楽器や打楽器が彩りを添える親しみやすい書法が特徴である。",
+      "en": "An orchestral suite in three movements — Scherzo, Lullaby, and Serenade. The original full score was lost, and performances today rely on a later reconstruction made from the surviving piano score, its light, tuneful writing colored by playful winds and percussion."
+    },
+    "story": {
+      "ja": "1938年、新設されたソ連国立ジャズ管弦楽団のために書かれ、同年11月28日にモスクワ放送で初演された。原譜は長らく失われたとされていたが、ピアノ譜のみが生き残り、これをもとに後年管弦楽版が復元された。長らく別の組曲の中の「ワルツ第2番」と混同されてきた経緯もある。",
+      "en": "Written in 1938 for the newly formed USSR State Jazz Orchestra, it was premiered that November 28 on Moscow Radio. The full orchestral score was long thought lost, surviving only in a piano reduction from which the suite was later reconstructed — and it has often been confused with an unrelated, similarly titled waltz."
+    }
+  },
+  "4004": {
+    "structure": {
+      "ja": "全5楽章が切れ目なく演奏される。冒頭でチェロが奏でるD-S-C-Hの音型が全曲を貫き、自作の交響曲第1番・第5番やチェロ協奏曲第1番、歌劇「ムツェンスク郡のマクベス夫人」からの引用が次々と織り込まれる、自伝的性格の強い作品である。",
+      "en": "Five movements played without pause. The DSCH monogram, stated by the cello at the opening, runs through the whole quartet, interwoven with quotations from his own Symphonies No. 1 and No. 5, the First Cello Concerto, and the opera Lady Macbeth of the Mtsensk District — a deeply autobiographical work."
+    },
+    "story": {
+      "ja": "1960年7月12日から14日までのわずか3日間で書き上げられ、同年レニングラードでベートーヴェン弦楽四重奏団により初演された。総譜には「ファシズムと戦争の犠牲者に捧げる」との献辞が記されているが、その真意については作曲家の家族の間でも解釈が分かれている。",
+      "en": "Composed in just three days, July 12 to 14, 1960, the quartet was premiered that same year in Leningrad by the Beethoven Quartet. The score carries the dedication \"to the victims of fascism and war,\" though even within Shostakovich's own family, accounts differ on what he truly meant by it."
+    }
+  },
+  "4012": {
+    "structure": {
+      "ja": "全4楽章のうち後半3楽章は切れ目なく演奏される。冒頭アレグレットに続き、モデラート、独奏カデンツァ、そして活力あるアレグロ・コン・モートへとなだれ込む構成を持つ。ホルンを1本のみとする簡素な木管・金管編成にチェレスタが独特の彩りを添えている。",
+      "en": "Of the four movements, the final three run together without a break — an Allegretto is followed by a Moderato, an unaccompanied cadenza, and a vigorous Allegro con moto. The scoring is spare, with only a single horn among the brass, while celesta lends a distinctive color."
+    },
+    "story": {
+      "ja": "1959年に作曲され、同年10月4日、レニングラード音楽院大ホールで、献呈を受けたムスチスラフ・ロストロポーヴィチの独奏、ムラヴィンスキー指揮レニングラード・フィルにより初演された。ロストロポーヴィチはわずか4日でスコア全体を暗譜したと伝えられている。",
+      "en": "Composed in 1959, the concerto premiered that October 4 in the Great Hall of the Leningrad Conservatory, with its dedicatee Mstislav Rostropovich as soloist under conductor Yevgeny Mravinsky and the Leningrad Philharmonic. Rostropovich reportedly memorized the entire solo part in just four days, an unusually fast feat even by his own standards."
+    }
+  },
+  "4045": {
+    "structure": {
+      "ja": "全5楽章。荒涼としたアダージョに始まる第1楽章は単独で約30分を要する長大な楽章で、下降・上昇する2音の動機が全曲を通じて繰り返し姿を変えて現れる。フルート4、拡大された打楽器群を含む大編成で、暗く深刻な作風が特徴である。",
+      "en": "Five movements. The first, opening in a bleak Adagio, runs roughly thirty minutes on its own, and a falling-and-rising two-note motif recurs throughout the symphony in ever-changing guises. Scored for a large orchestra with four flutes and an expanded percussion section, its character is dark and grave."
+    },
+    "story": {
+      "ja": "1943年夏に作曲され、同年11月4日、献呈を受けたムラヴィンスキー指揮ソ連国立交響楽団により初演された。翌年のアメリカ初演を機に「スターリングラード交響曲」の通称が一時期広まったが、戦後は演奏の機会が絶え、雪解けの時代になってようやく復権を果たした。",
+      "en": "Composed in the summer of 1943, the symphony premiered that November 4 under its dedicatee Yevgeny Mravinsky and the USSR State Symphony Orchestra. Its \"Stalingrad\" nickname briefly caught on after the American premiere the following year, but the grim, uncompromising work then fell from official favor for years before its eventual rehabilitation."
+    }
+  },
   "4058": {
     "structure": {
       "ja": "管弦楽のためのワルツ。物悲しさとユーモアを併せ持つ親しみやすい旋律が特徴で、サクソフォンが旋律を担う箇所が印象的な響きを作り出している。\n形式は単純な三部形式で、複雑な展開を避け、旋律そのものの魅力で聴かせる書き方がなされている。",
@@ -17,6 +97,36 @@
     "story": {
       "ja": "この曲は長らく1938年の「ジャズ組曲第2番」の一部だと誤解されてきたが、実際には彼が1940年代末ごろにまとめた「ヴァラエティ・オーケストラのための組曲」の一曲である。もともとは1955年から1956年にかけて公開されたソ連映画「第一梯団」のために書かれた音楽が元になっている。\nこの誤解は長く定着しており、現在でも「ジャズ組曲第2番」の演奏会で演奏される機会が少なくない。映画音楽としての性格が強い、彼の作品のなかでも異色の親しみやすさを持つ小品である。",
       "en": "This piece was long misidentified as part of his 1938 Jazz Suite No. 2, but it actually belongs to the Suite for Variety Orchestra, a compilation he assembled around the late 1940s. Its origin traces back to music he wrote for the Soviet film The First Echelon, released in 1955-56.\nThe misattribution has proven persistent, and the piece is still often programmed under the Jazz Suite No. 2 title today. Rooted in film scoring, it stands apart from much of his output for its straightforward warmth."
+    }
+  },
+  "4074": {
+    "structure": {
+      "ja": "ワルツ、ポルカ、フォックストロットの3曲からなる小組曲。サクソフォン群やバンジョー、ハワイアン・ギター、グロッケンシュピールなど、当時流行したダンスバンドを思わせる異色の編成が用いられ、演奏時間は約8分と短い。",
+      "en": "A short three-movement suite — Waltz, Polka, and Foxtrot. Its scoring, featuring saxophones, banjo, Hawaiian guitar, and glockenspiel, evokes the popular dance bands of its day, an unusual palette for a concert piece lasting only about eight minutes."
+    },
+    "story": {
+      "ja": "1934年に作曲され、同年3月24日に初演された、ショスタコーヴィチが軽音楽の語法に本格的に取り組んだ初期の作品である。第1曲のワルツは翌年、バレエ音楽「明るい小川」の中に転用されており、彼が自作の旋律を再利用する作曲家であったことをうかがわせる。",
+      "en": "Composed and premiered in 1934, this is one of Shostakovich's earliest serious ventures into light-music idiom. Its opening Waltz was reused the following year in his ballet The Limpid Stream, an early sign of how readily he recycled his own melodies across strikingly different kinds of works throughout his career."
+    }
+  },
+  "4088": {
+    "structure": {
+      "ja": "全5楽章。前奏曲、フーガ、スケルツォ、間奏曲、終曲という、バロック的な形式を意識した構成を持つ。もとは弦楽四重奏として着想されたが、自らピアノで参加してツアーを続けられるよう、ピアノを加えた五重奏に書き改められたと伝えられている。",
+      "en": "Five movements — Prelude, Fugue, Scherzo, Intermezzo, and Finale — in a form that consciously echoes Baroque models. Originally conceived as a string quartet, it was reportedly reworked to include piano so that Shostakovich himself could keep touring with the quartet as its pianist."
+    },
+    "story": {
+      "ja": "1940年に完成し、同年11月23日、モスクワ音楽院小ホールでベートーヴェン弦楽四重奏団と作曲家自身のピアノにより初演され、スケルツォと終曲が幾度もアンコールされる大成功を収めた。ある批評家は「美しさに欠ける」と批判したが、翌年にはスターリン賞第一席を受賞している。",
+      "en": "Completed in 1940, the quintet premiered that November 23 at the Moscow Conservatory's Small Hall, with the Beethoven Quartet joined by Shostakovich himself at the piano, its Scherzo and Finale encored so often that listeners joked the work really had seven movements. Despite one critic's complaint that it lacked \"genuine beauty,\" it went on to win a first-class Stalin Prize the following year."
+    }
+  },
+  "4089": {
+    "structure": {
+      "ja": "24の調すべてを網羅する前奏曲とフーガの対を、五度圏に沿って配列した壮大な曲集で、全曲を通すと演奏時間は2時間半に及ぶ。バッハの「平均律クラヴィーア曲集」への応答として書かれ、ピアノ独奏のために構想された。",
+      "en": "A monumental cycle of prelude-and-fugue pairs covering all twenty-four keys, arranged around the circle of fifths, running to roughly two and a half hours complete. Conceived as a response to Bach's Well-Tempered Clavier, it was written for solo piano."
+    },
+    "story": {
+      "ja": "1950年秋、ライプツィヒでのバッハ国際コンクールの審査員を務めた際、ピアニストのタチアナ・ニコラーエワの演奏に触発されて着想を得たとされ、翌年2月に完成、彼女に献呈された。全曲の公開初演は1952年12月、ニコラーエワ独りの手によりレニングラードで行われた。",
+      "en": "Inspired in the autumn of 1950 by pianist Tatiana Nikolayeva's playing at an international Bach competition in Leipzig, where he served as a judge, Shostakovich completed the cycle the following February and dedicated it to her. Its complete public premiere came in December 1952, given by Nikolayeva alone in Leningrad."
     }
   }
 }
