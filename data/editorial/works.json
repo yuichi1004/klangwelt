@@ -599,6 +599,16 @@
       "en": "It premiered in Paris on 3 August 1829. Rossini lived for almost another forty years but never wrote another opera. The reasons are not entirely clear, but the work was commercially successful enough that he could afford to stop; he spent his remaining decades on sacred and vocal music and, famously, on food.\nThe overture's finale went on to serve as the theme for the American radio, television and film versions of The Lone Ranger, and in the United States it is now remembered at least as much for that as for the opera it introduces."
     }
   },
+  "6209": {
+    "structure": {
+      "ja": "全4楽章。オルガン独奏と管弦楽のための協奏曲で、ある楽章でオルガンの高音域にカッコウとナイチンゲールの鳴き声を模した旋律が現れ、愛称の由来となっている。当時のオルガンにはペダル鍵盤がなく、鍵盤のみで演奏される。",
+      "en": "Four movements for solo organ and orchestra, one of which imitates birdsong — the calls of a cuckoo and a nightingale — high in the organ's register, giving the concerto its popular nickname. Written for the pedal-less chamber organs of Handel's own day, played entirely by hand."
+    },
+    "story": {
+      "ja": "1739年、オラトリオ「エジプトのイスラエル人」初演の幕間音楽として、ロンドンのキングズ劇場で披露された。ヘンデル自身がオルガンを弾いたと伝えられる。翌年、出版社ウォルシュから刊行された。この鳥の鳴き声を模した楽想は、後に自作の合奏協奏曲第9番にも転用されている。",
+      "en": "It was first heard in 1739 as interlude music at the premiere of the oratorio Israel in Egypt, at London's King's Theatre, with Handel himself reportedly at the organ. It was published the following year by the printer Walsh. Handel later reused its birdsong material in another work, the ninth of his Op. 6 concerti grossi."
+    }
+  },
   "6216": {
     "structure": {
       "ja": "3つの組曲からなる「水上の音楽」全体のうち、第1組曲(ヘ長調)。管楽器を中心とした複数の舞曲風楽章から構成され、屋外での演奏を意識してホルンが効果的に用いられている。\n水上を伝わる音を意識してか、屋内演奏用の作品に比べて管楽器の比重が高く、開放的な響きが特徴となっている。",
@@ -609,6 +619,46 @@
       "en": "It was composed and first performed on 17 July 1717, at King George I's request, to accompany a river excursion on the Thames. As the king's barge travelled up the river from Whitehall toward Chelsea, a separate barge provided by the City of London carried some fifty musicians playing the music.\nThe king was so taken with it that he reportedly had the roughly hour-long suites played through three times over. Contemporary accounts describe the river as covered with boats of onlookers."
     }
   },
+  "6233": {
+    "structure": {
+      "ja": "全5楽章。合奏協奏曲集『作品6』全12曲の中でも、独奏楽器群と合奏の対話が際立つ作品である。実は自作のオルガン協奏曲(HWV.296)を素材とし、緩徐楽章を中央に据えるよう楽章を並べ替えて作られている。",
+      "en": "Five movements, one of twelve concerti grossi in the Op. 6 set, marked by a vivid dialogue between the small solo group and the full string body. Handel adapted it from his own earlier organ concerto, HWV 296, reordering its movements to place the extended slow movement at the center."
+    },
+    "story": {
+      "ja": "1739年10月30日に完成された、作品6の12曲中もっとも遅く書き上げられた作品である。同年内に予約出版の形で刊行され、翌年には正式に「作品6」の一曲として第2版が出された。初演の詳しい記録は残っていないが、その冬の演奏会シーズンに披露されたとみられている。",
+      "en": "Completed on 30 October 1739, it was the last of the twelve Op. 6 concertos to be finished. It was issued that same year in a subscription edition, with a formal second printing as part of Op. 6 following the next year. No detailed record survives of its premiere, though it was likely heard that winter concert season."
+    }
+  },
+  "6367": {
+    "structure": {
+      "ja": "全3幕からなるオペラ・セリア。古代エジプトを舞台に、ジュリアス・シーザーとクレオパトラの物語を描く。4本のホルンやハープ、テオルボなど、当時としては異例なほど多彩な楽器編成が用いられている。",
+      "en": "A three-act opera seria set in ancient Egypt, telling the story of Julius Caesar and Cleopatra. The orchestration is unusually rich for its day, calling for four horns alongside harp and theorbo among a wide array of colorful instruments."
+    },
+    "story": {
+      "ja": "1724年2月20日、ロンドンのキングズ劇場で初演された。当時人気を誇った歌手セネジーノとクッツォーニがそれぞれ主役を歌い、初演から間もない時期の書簡には、7回目の公演でも初日同様に満員だったと記されている。以後、複数回にわたり改訂を重ねている。",
+      "en": "It premiered on 20 February 1724 at London's King's Theatre, with the celebrated singers Senesino and Cuzzoni in the title roles. A letter written soon afterward records that the house was still full at the seventh performance, just as it had been on opening night. Handel went on to revise the opera several more times."
+    }
+  },
+  "6393": {
+    "structure": {
+      "ja": "全4楽章。合奏協奏曲集『作品6』の中では標準的な楽章構成をとる。第2楽章はニ短調の対位法的なフーガ、第3楽章はヘ長調の落ち着いた緩徐楽章で、独奏楽器群の活躍する場面は限られている。",
+      "en": "Four movements following the standard shape within the Op. 6 set of concerti grossi. A contrapuntal fugue in D minor forms the second movement, followed by a calm slow movement in F major, with the solo group given only brief, limited moments of prominence throughout."
+    },
+    "story": {
+      "ja": "1739年10月8日に作曲された、わずか1か月ほどで書き上げられたとされる作品集の1曲である。同シーズン、ロンドンのリンカーンズ・イン・フィールズ劇場で、オラトリオ公演の幕間音楽として演奏されたとみられる。翌年、正式に「作品6」として出版された。",
+      "en": "Composed on 8 October 1739, one of a set Handel reportedly wrote in only about a month, it was likely performed that same season at London's Lincoln's Inn Fields Theatre as interlude music between oratorio performances. It was formally published in full, together with its eleven companions, as part of Op. 6 the following year."
+    }
+  },
+  "6422": {
+    "structure": {
+      "ja": "全4曲からなる、8曲の鍵盤組曲集の1曲。前奏曲、アルマンド、クーラントに続く終曲は、主題と5つの変奏からなる「エア」で、愛称はこの終曲のみを指して用いられる。全曲を通してホ長調で統一されている。",
+      "en": "Four movements from a set of eight harpsichord suites, closing with an air and five variations that alone carries the work's popular nickname, following an opening prelude, allemande, and courante. The whole suite is unified throughout in the key of E major."
+    },
+    "story": {
+      "ja": "作曲時期の詳細は定かでないが、1720年に出版された鍵盤組曲集に収められている。愛称はヘンデル自身が名付けたものではなく、19世紀に入ってから広まったとされ、鍛冶屋にまつわる逸話も後世になって語られるようになった、根拠に乏しい伝説にすぎないとみられている。",
+      "en": "The exact date of composition is unclear, but it appeared in a set of harpsichord suites published in 1720. The now-famous nickname was not Handel's own; it took hold only in the nineteenth century, and the popular tale linking it to a blacksmith's hammering is now regarded as a later legend rather than fact."
+    }
+  },
   "6431": {
     "structure": {
       "ja": "序曲に続き、シチリアーナ風の緩徐楽章「平和」、快活な「歓喜」、そして2曲の「メヌエット」からなる組曲。国王の要望により当初は弦楽器を含まない、トランペット・ホルン・オーボエ・ファゴット・打楽器のみの大編成吹奏楽として書かれた。\nのちに屋内での演奏のために弦楽器を加えた版も作られている。",
@@ -617,6 +667,36 @@
     "story": {
       "ja": "1748年に締結されたアーヘンの和約(オーストリア継承戦争の終結)を祝う目的で、1749年に作曲された。祝賀行事のため、ロンドンのグリーン・パークには全長120メートルにおよぶ木造の仮設パビリオンが建てられ、1万発近い花火と101門の大砲が用意された。\n4月21日におこなわれたリハーサルには1万2000人もの観客が集まり、ロンドン橋の交通が3時間にわたり麻痺したと伝えられる。しかし4月27日の本番では、花火の演出中に火災が発生し、催しは早々に打ち切られることになった。",
       "en": "It was composed in 1749 to celebrate the Treaty of Aix-la-Chapelle, signed the previous year, which ended the War of the Austrian Succession. A wooden pavilion some 120 metres long was built in London's Green Park for the occasion, with nearly ten thousand fireworks and 101 cannon assembled for the display.\nA rehearsal on 21 April drew an audience of some 12,000 and reportedly brought traffic on London Bridge to a halt for three hours. The actual event on 27 April, however, was cut short when the fireworks display caught fire."
+    }
+  },
+  "6446": {
+    "structure": {
+      "ja": "台本作家ドライデンの頌詩に基づく、独唱・合唱・管弦楽のための全2部からなる祝典的な作品。当初の上演では、幕間に器楽協奏曲が3曲挟み込まれ、その中にはハープ独奏の協奏曲も含まれていた。",
+      "en": "A festive work in two parts for soloists, chorus, and orchestra, setting a poem by Dryden. The original performances interspersed three instrumental concertos between the sections, including one featuring a solo harp — a rare and colorful addition to the ensemble."
+    },
+    "story": {
+      "ja": "1736年1月に作曲され、同年2月19日、ロンドンのコヴェント・ガーデン劇場で初演された。生前だけで25回上演されたと伝えられ、彼の最も成功した作品の一つに数えられる。イタリア・オペラから英語オラトリオへと軸足を移していく上での、重要な転機ともなった作品である。",
+      "en": "Composed in January 1736, it premiered that February at London's Covent Garden Theatre. It is said to have been performed twenty-five times during Handel's own lifetime, ranking among his most consistently successful works, and it marked an important turning point in his gradual shift away from Italian opera toward English-language oratorio."
+    }
+  },
+  "6480": {
+    "structure": {
+      "ja": "全3楽章の協奏曲。もともとハープ独奏のために書かれ、後にオルガン用としても演奏されるようになった珍しい成立経緯を持つ。2本のアルト・リコーダーと弦楽合奏を伴い、変ロ長調で統一されている。",
+      "en": "Three movements for solo instrument and orchestra, unusually composed originally for solo harp before later being adapted for performance on the organ. It is accompanied throughout by a pair of alto recorders and strings, all unified in the key of B-flat major."
+    },
+    "story": {
+      "ja": "1736年、ウェールズ出身のハープ奏者ウィリアム・パウエルのために書かれ、同年初演された祝典曲「アレクサンダーの祝宴」の幕間音楽として披露された。他の多くの協奏曲とは異なり、過去の自作からの転用を含まない、まったくの書き下ろしの作品である。",
+      "en": "Composed in 1736 for the Welsh harpist William Powell, it was first heard that same year as interlude music within the festive ode Alexander's Feast, performed alongside it at its own premiere. Unlike many of Handel's other concertos, it contains no material borrowed from his earlier works — an entirely original composition throughout."
+    }
+  },
+  "6485": {
+    "structure": {
+      "ja": "全4曲、ト短調で統一されたオルガン協奏曲。第2楽章は一定の低音型を繰り返す構成をとり、パッヘルベルのカノンと同じ和声進行を持つことで知られる。終曲のガヴォットは、後年の書き加えである可能性も指摘されている。",
+      "en": "Four movements for organ and orchestra, unified throughout in G minor. The second movement is built over a repeating bass line sharing the same harmonic progression as Pachelbel's Canon. The closing gavotte may possibly have been added later by another hand, rather than Handel's own."
+    },
+    "story": {
+      "ja": "1750年1月31日に作曲され、同年3月、オラトリオ「テオドーラ」の上演に合わせてロンドンのコヴェント・ガーデン劇場で初演された。ヘンデルの死後、長年の助手であったジョン・クリストファー・スミスの手によって遺稿から編纂され、正式に出版されている。",
+      "en": "Composed on 31 January 1750, it premiered that March at London's Covent Garden Theatre alongside the oratorio Theodora. It was formally published only after Handel's own death, carefully compiled from the composer's own surviving manuscripts by his longtime assistant John Christopher Smith and issued under his close personal supervision throughout."
     }
   },
   "6494": {
