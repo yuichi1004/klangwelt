@@ -1,4 +1,14 @@
 {
+  "7106": {
+    "structure": {
+      "ja": "吹奏楽のための組曲で、シャコンヌ、間奏曲、行進曲の3楽章から切れ目なく演奏される。シャコンヌは変ホ長調、間奏曲はハ短調と、共通の主題材料を異なる調で展開する構成が特徴。19の実質パートに任意パートを加えた編成で書かれている。",
+      "en": "Written for military band, this suite moves without pause through three movements — a Chaconne, an Intermezzo, and a March — built from shared thematic material recast in different keys. It is scored for nineteen essential parts plus seventeen further optional ones, suiting bands of varying size."
+    },
+    "story": {
+      "ja": "1909年に作曲されたが、実際に初演されたのは10年以上ものちのことだったと伝えられ、その空白の理由は今も定かでない。総譜の出版はさらに遅れ、当初はパート譜のみが刊行されるにとどまった。今日では吹奏楽の定番レパートリーとして世界中で演奏されている。",
+      "en": "Composed in 1909, the suite was reportedly not performed until more than a decade later, for reasons that remain unclear, and even then only the individual instrumental parts were published at first, with a full score appearing much later still. It is now a cornerstone of the wind band repertoire performed worldwide."
+    }
+  },
   "7109": {
     "structure": {
       "ja": "管弦楽と（終曲のみ）女声合唱のための組曲で、火星・金星・水星・木星・土星・天王星・海王星の7曲からなる。太陽系の惑星そのものではなく、占星術上の性格（好戦性、平和、俊敏さ、快活さなど）を音で描くという構想で書かれている。\n最初に着手されたのは「火星」で、5拍子の攻撃的なリズムが繰り返される。もっとも親しまれているのは「木星」で、中間部の広がりのある旋律は後年、賛美歌や愛国歌としても転用された。",
@@ -7,6 +17,16 @@
     "story": {
       "ja": "作曲は1914年から1916年にかけて行われた。「火星」の着想は1914年夏、第一次世界大戦の開戦前にすでに得られていたが、完成後に大戦が続くなかで発表されたこともあり、戦争への反応として書かれた曲だと受け取られることが多い。\n全曲の初演は私的な演奏会として1918年9月29日にロンドンで行われ、一般向けの完全な形での初演は1920年になってからだった。娘のイモージェン・ホルストは、4年におよぶ戦争のあとで「火星」の激しさは聴衆にはほとんど耐え難いものだったと後に振り返っている。",
       "en": "He composed it between 1914 and 1916. Mars was sketched in the summer of 1914, before war broke out, but because it appeared while the war was still going on, it is often assumed to be a direct response to it.\nThe complete suite was first heard privately in London on 29 September 1918; the first full public performance did not take place until 1920. His daughter Imogen Holst later recalled that after four years of war, audiences found the sheer violence of Mars almost unbearable."
+    }
+  },
+  "7125": {
+    "structure": {
+      "ja": "弦楽オーケストラのための組曲で、快活なジグ、オスティナート、緩徐楽章のインテルメッツォ、そして民謡「ダーガソン」と「グリーンスリーヴス」を対位法的に重ね合わせる終曲の4楽章から成る。ハ長調を基調とし、学生オーケストラでも演奏しやすい書法が用いられている。",
+      "en": "Scored for string orchestra, this suite comprises four movements — a lively Jig, an Ostinato, a slow Intermezzo, and a finale that layers the folk tunes Dargason and Greensleeves in counterpoint. Centred on C major, it is written in a manner well suited to student orchestras."
+    },
+    "story": {
+      "ja": "1913年、女子校の音楽棟新設を記念して同校の生徒オーケストラのために作曲され、献呈もその楽団に捧げられている。学校側は感謝の印としてホルストのために防音の作曲室を新たに用意し、これを機に彼は一家を挙げて近くの地区へと居を移したと伝えられる。",
+      "en": "The suite was written in 1913 for the student orchestra of a girls' school, to mark the opening of its new music wing, and is dedicated to that same ensemble. The school provided Holst with a soundproofed studio of his own, prompting him, it is said, to move house to the nearby neighbourhood."
     }
   }
 }
