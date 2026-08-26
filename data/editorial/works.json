@@ -1279,6 +1279,26 @@
       "en": "Thought to date from around 1707, during Bach's years in Arnstadt. The nickname 'Little,' added by later editors, distinguishes it from the larger G minor fugue, BWV 542, known as the 'Great.' It remains one of Bach's most famous organ fugues, still arranged and quoted across genres today, including orchestral transcriptions and appearances in film and popular music."
     }
   },
+  "9573": {
+    "structure": {
+      "ja": "序曲を中心に据えたフランス風の組曲。堂々とした序曲に続き、クーラント、ガヴォット、フォルラーヌ、メヌエット、ブーレ、パスピエと、対になった舞曲が次々と並ぶ。オーボエ2本とファゴットが弦楽に彩りを添える。",
+      "en": "A French-style orchestral suite built around a stately opening overture, followed by a run of paired dance movements — courante, gavottes, forlane, minuets, bourrées, and passepieds — with two oboes and bassoon coloring the string writing."
+    },
+    "story": {
+      "ja": "作曲年は1720年前後と推定されるにとどまり、確実な記録は残っていない。現存する筆写パート譜は、その数年後に4人の弟子たちの手によって書き写されたもので、これによって今日まで曲が伝わっている。バッハ自身はこれらの作品を「組曲」ではなく、冒頭楽章にちなんで「序曲」と呼んでいたという。",
+      "en": "The exact date is uncertain, but it likely dates from around 1720; no firm documentary record survives. The performing parts that preserve it today were copied out a few years later by four of Bach's pupils, working from a score that has since been lost. Bach himself referred to works of this kind not as suites but as \"overtures,\" after the name of the opening movement."
+    }
+  },
+  "9651": {
+    "structure": {
+      "ja": "福音書記者・イエス・ペテロなどの独唱と合唱を軸に、ヨハネ福音書に基づく受難物語を2部構成で描く。荒々しい民衆の合唱と、内省的なアリアやコラールとが交互に置かれ、全曲は40ほどの曲から構成される大規模な受難曲である。",
+      "en": "A two-part setting of the Passion narrative for evangelist, soloists, and choir, alternating turbulent crowd choruses with reflective arias and chorales across roughly forty movements drawn closely from the text of the Gospel of John."
+    },
+    "story": {
+      "ja": "1724年、ライプツィヒの聖トーマス教会音楽監督に着任して最初の受難節のために作曲され、同年の聖金曜日、聖ニコライ教会で初演された。オーボエ・ダ・カッチャやヴィオラ・ダモーレなど、当時すでに古風とされていた楽器が効果的に用いられており、後年にも複数回にわたり改訂の手が加えられている。",
+      "en": "It was written in 1724 for the first Good Friday of Bach's tenure as director of music in Leipzig and premiered that same day at St. Nicholas Church. The scoring makes striking use of instruments already considered old-fashioned in Bach's day, including the oboe da caccia and viola d'amore, and he continued revising the work in later years."
+    }
+  },
   "9664": {
     "structure": {
       "ja": "独奏楽器としてヴァイオリン、リコーダー、オーボエ、トランペットという異例の組み合わせを用いる合奏協奏曲、全3楽章。トランペットが自然倍音しか出せない当時の楽器でありながら、他の独奏楽器と対等以上に扱われ、しばしば全体を圧するほどの存在感を示す。\n第2楽章ではトランペットが休止し、残る3つの独奏楽器と通奏低音だけで演奏される。",
@@ -1319,6 +1339,16 @@
       "en": "The date of composition is not certain, but it is generally placed in the early 1730s, in Leipzig. The Air became known on its own chiefly through an 1871 arrangement by the violinist August Wilhelmj, who transposed the melody down more than an octave for solo violin and piano so that it could be played entirely on the instrument's lowest string — the source of the nickname \"Air on the G String.\"\nBach himself wrote no such requirement into the original."
     }
   },
+  "9845": {
+    "structure": {
+      "ja": "全3楽章の協奏曲。第1楽章と終楽章は同じイ短調で活発に音型を展開し、第2楽章は一定の低音型を繰り返す上に独奏ヴァイオリンが息の長い旋律を歌う、緩徐楽章の傑作として広く知られている。",
+      "en": "Three movements framing a central slow movement built over a repeating bass pattern, above which the solo violin spins a long-breathed melody — one of Bach's most admired slow movements — flanked by two vigorous outer Allegros in A minor."
+    },
+    "story": {
+      "ja": "自筆譜が失われているため作曲年代は確定していないが、ヴィヴァルディ風の協奏曲様式を色濃く反映しており、器楽を重んじたケーテン宮廷での在任期間、1720年前後に書かれたと推測されている。終楽章では同じ弦を交互に弾く「バリオラージュ」の技法が効果的に用いられ、演奏効果の高さから今日でも人気の高い演目となっている。",
+      "en": "The autograph score is lost, so its exact date is uncertain, but its markedly Vivaldi-influenced concerto style points to around 1720, during Bach's years at the instrumentally minded Köthen court. The finale makes striking use of \"bariolage,\" a technique of rapidly alternating across adjacent open and stopped strings, and remains one of his most frequently performed concertos today."
+    }
+  },
   "9848": {
     "structure": {
       "ja": "独唱・二重合唱・二群の管弦楽のための大規模な受難曲で、マタイによる福音書の記述に基づき、キリストの受難の物語を福音史家の語りとコラール(讃美歌)、アリアを織り交ぜて描く。\n二群の合唱と管弦楽を左右に配置する複合唱様式が用いられており、対話や呼び交わしの効果を生み出している。冒頭合唱では、一方の合唱が問いかけ、もう一方が答えるという構成がとられる。",
@@ -1327,6 +1357,36 @@
     "story": {
       "ja": "聖金曜日の礼拝のためにライプツィヒで作曲され、1727年ごろに初演されたとみられる。バッハの死後、この曲を含む大半の作品は急速に忘れ去られ、以後1世紀近くにわたりごく一部の専門家を除いて知られない存在となっていた。\n再発見のきっかけを作ったのは作曲家メンデルスゾーンである。祖母から14歳のころにこの曲の総譜を贈られていた彼は、1829年3月11日、初演からちょうど102年後に、自ら短縮編曲した版でベルリン・ジングアカデミーにおいて演奏会形式の上演を指揮した。この上演がバッハ音楽の再評価、ひいては西洋音楽史における「バッハ復興」の出発点になったとされる。",
       "en": "It was composed for the Good Friday liturgy in Leipzig and is generally dated to around 1727. After Bach's death, this work, like most of his output, was quickly forgotten and remained essentially unknown outside a small circle of specialists for close to a century.\nIts rediscovery is credited to Felix Mendelssohn, who had been given a copy of the full score by his grandmother at around age fourteen. On 11 March 1829 — a hundred and two years, almost to the day, after the premiere — he conducted a concert performance of his own abridged version at the Berlin Singakademie, an event generally regarded as the starting point of the wider Bach revival."
+    }
+  },
+  "9867": {
+    "structure": {
+      "ja": "全3楽章。この協奏曲はヴァイオリンを一切用いず、2挺のヴィオラと2挺のヴィオラ・ダ・ガンバを中心に低めの音域でまとめられており、6曲からなる協奏曲集の中でも際立って異色の響きを持つ。",
+      "en": "Three movements scored without any violins at all — built instead around two violas and two violas da gamba in a consistently low register — giving it a darker, more unusual sound than any other work in the set of six Brandenburg Concertos."
+    },
+    "story": {
+      "ja": "ケーテン宮廷楽長時代の1718年頃に書かれたとみられ、1721年3月24日付の献呈譜とともに、ブランデンブルク=シュヴェット辺境伯クリスティアン・ルートヴィヒに贈られた。辺境伯お抱えの楽団には、これらの曲を演奏できるだけの奏者が揃っていなかったとも伝えられており、生前に演奏された記録は残っていない。",
+      "en": "Likely composed around 1718 during Bach's years as court Kapellmeister at Köthen, it was presented, with a dedication score dated 24 March 1721, to Christian Ludwig, Margrave of Brandenburg-Schwedt. His court orchestra reportedly lacked players capable of performing the demanding set at all, and no record survives of it ever being performed in Bach's lifetime."
+    }
+  },
+  "9895": {
+    "structure": {
+      "ja": "全4部27曲からなる壮大なミサ曲。5人の独唱者と2組の混声合唱、3本のトランペットとティンパニを含む大編成の管弦楽を用い、教会音楽の集大成というべき圧倒的な規模と密度を誇る大作である。",
+      "en": "A vast setting of the Mass in four sections and twenty-seven movements, calling for five soloists, double choir, and a large orchestra including three trumpets and timpani — a summation of Bach's achievement in sacred music."
+    },
+    "story": {
+      "ja": "キリエとグローリアの部分は1733年、新しい選帝侯への官職を求めて献呈されたもので、その約15年後、生涯最後の時期にあたる1749年、これに新旧の楽章を組み合わせてミサ曲全体としてまとめ上げた。生前に全曲が演奏された記録は残っておらず、通しで演奏されるようになったのはずっと後世のことである。",
+      "en": "The Kyrie and Gloria were presented in 1733 in hope of a court appointment from the newly installed elector; roughly fifteen years later, in 1749, near the very end of his life, Bach assembled the complete mass by combining new and older movements. No record survives of the full work being performed in his lifetime."
+    }
+  },
+  "9971": {
+    "structure": {
+      "ja": "王から与えられた一つの主題に基づいて書かれた、性格の異なる複数の楽曲を集めた作品集。3声と6声の2つのリチェルカーレ、10のカノン、フルート・ヴァイオリン・通奏低音のためのトリオ・ソナタからなる。",
+      "en": "A collection of contrasting pieces all built on a single theme given by a king, comprising two ricercars in three and six voices, ten canons of varying kinds, and a four-movement trio sonata for flute, violin, and continuo."
+    },
+    "story": {
+      "ja": "1747年、プロイセン王フリードリヒ2世の宮廷を訪れた際、王から与えられた主題をその場で即興演奏するよう求められた。3声のフーガはただちに弾いてみせたが、6声への展開は後日に持ち越し、帰宅後この主題に基づく曲集を完成させて王に献呈したと伝えられる。",
+      "en": "During a 1747 visit to the Prussian court, King Frederick the Great reportedly handed Bach a theme and asked him to improvise a fugue on it at the keyboard. Bach obliged at once with a three-voice fugue, but the six-voice version he set aside for later, eventually completing and dedicating to the king an entire collection built on the royal theme."
     }
   },
   "10074": {
@@ -1347,6 +1407,36 @@
     "story": {
       "ja": "1721年、ブランデンブルク辺境伯クリスティアン・ルートヴィヒに献呈された6曲の協奏曲集の一つ。委嘱を受けて書かれたものではなく、バッハ自身が辺境伯の心証を得て仕官の道を開こうとした試みだったとされる。\n献呈用の写譜に収められたチェンバロのカデンツァは、とりわけ辺境伯の前で自らの鍵盤奏者としての腕前を誇示する目的で拡張されたとみられ、鍵盤楽器を主役とする協奏曲というジャンルの先駆けのひとつに数えられている。",
       "en": "It is one of six concertos dedicated to Christian Ludwig, Margrave of Brandenburg, in 1721 — not written to a commission, but apparently an attempt by Bach to win the margrave's favour and, perhaps, a position at his court.\nThe harpsichord cadenza in the dedication copy is thought to have been expanded specifically to display Bach's own skill as a keyboard player before the margrave, and the concerto is often counted among the earliest examples of the keyboard concerto as a genre."
+    }
+  },
+  "10160": {
+    "structure": {
+      "ja": "全6部64曲、演奏時間約3時間に及ぶ大作。降誕祭からエピファニーまでの12日間に分けて演奏されることを前提に書かれており、各部ごとに調性や編成が変化に富む構成をとる、カンタータの集合体というべき作品である。",
+      "en": "A large-scale work in six parts and sixty-four movements lasting roughly three hours, conceived to be performed across the twelve days of Christmas, with each part shifting in key and instrumentation for variety and occasion."
+    },
+    "story": {
+      "ja": "1734年、ライプツィヒの降誕祭のために作曲され、同年12月25日から翌年1月6日にかけて、市内の2つの教会で交互に、6回に分けて初演された。歌詞は台本作者ピカンダーによるもので、音楽の多くは直前に書かれた祝典用の世俗カンタータからの転用である。",
+      "en": "Composed in 1734 for Leipzig's Christmas season, it premiered in six installments between 25 December and 6 January the following year, given alternately at two of the city's churches. The text is by the poet Picander, and much of the music was reworked from secular cantatas Bach had written only shortly before."
+    }
+  },
+  "10164": {
+    "structure": {
+      "ja": "単一の主題から生まれた14のフーガと4つのカノンからなり、全曲がニ短調で統一されている。楽器の指定がなく、鍵盤楽器か合奏かをめぐって今も演奏形態が議論される、対位法の集大成というべき作品である。",
+      "en": "Fourteen fugues and four canons, all derived from a single theme and unified in D minor, with no instrumentation specified in the original print — a summation of contrapuntal technique still debated between keyboard and ensemble performance today."
+    },
+    "story": {
+      "ja": "生涯最後の10年ほどをかけて手を加え続けたとみられ、1750年に世を去った時点で未完のまま残された。最後のフーガには自身の名を音名にした主題が現れ、そのまま途切れるように曲は終わっている。翌年出版されたが、当時はほとんど注目されなかったと伝えられる。",
+      "en": "Bach appears to have worked on it over roughly the final decade of his life, leaving it unfinished when he died in 1750. The last fugue introduces a theme spelling out his own name in notes and simply breaks off mid-phrase. It was published the following year but reportedly drew little attention at the time."
+    }
+  },
+  "10172": {
+    "structure": {
+      "ja": "全3楽章、1台のチェンバロのために書かれた協奏曲。2段鍵盤の強弱の違いを用いて、合奏の総奏と独奏が交替する協奏曲ならではの効果を、独奏楽器一台だけで見事に模倣してみせる、鍵盤書法の巧妙さが際立つ作品である。",
+      "en": "Three movements written for a single harpsichord, using the contrasting loud and soft manuals of a two-keyboard instrument to imitate, on one solo instrument alone, the alternation of full orchestra and soloist heard in a real concerto."
+    },
+    "story": {
+      "ja": "1735年、鍵盤曲集「クラヴィーア練習曲集」第2巻の前半として出版された。原題は「イタリア趣味による協奏曲」といい、この呼び名がそのまま今日の通称となっている。当時ヨーロッパで流行していた多様な鍵盤様式を一冊で示そうとする意図があったとされる。",
+      "en": "It was published in 1735 as the first half of the second volume of the Clavier-Übung. Its original title, \"Concerto in the Italian Taste,\" gave rise directly to the name still used today. The collection aimed to display, within a single volume, the range of keyboard styles then fashionable across Europe."
     }
   },
   "10498": {
