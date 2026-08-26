@@ -39,6 +39,26 @@
       "en": "The first version was written between the summer of 1884 and August 1887. That September, he sent a copy of the score to the conductor Hermann Levi, who refused to conduct it, calling the orchestration \"quite impossible\" and the working-out of the themes \"dubious.\"\nShaken, Bruckner set about a major revision between 1889 and 1890, replacing the first movement's loud closing bars with a quiet one, rewriting the scherzo's trio entirely, and, at the urging of the conductor Franz Schalk, substantially reworking the slow movement and finale too. The revised version premiered in 1892, with Hans Richter conducting at the Musikverein in Vienna."
     }
   },
+  "68": {
+    "structure": {
+      "ja": "序奏付きのアレグロを持つ第1楽章と終楽章が変ロ長調の枠を成し、緩徐楽章はニ短調のアダージョ、スケルツォも同じくニ短調で書かれている。1878年の改訂でバスチューバが加えられ、重厚な響きが増した。",
+      "en": "Framed by two B-flat major movements with slow introductions, the Fifth Symphony places a D minor Adagio and a D minor scherzo at its center. A bass tuba, added during the 1878 revision, deepens the work's already weighty orchestral sonority."
+    },
+    "story": {
+      "ja": "数年をかけて改訂が重ねられた末、1878年に最終的な姿となったが、ブルックナーは病のため1894年4月8日のグラーツでの初演に立ち会えず、生前一度もオーケストラでこの曲を耳にすることがなかった。初演は弟子フランツ・シャルクによる改変版で行われた。",
+      "en": "Bruckner spent several years revising the symphony before arriving at its final form in 1878, but illness kept him from attending the premiere in Graz on 8 April 1894, conducted by his student Franz Schalk in an altered version — he never heard the work played by an orchestra in his lifetime."
+    }
+  },
+  "76": {
+    "structure": {
+      "ja": "「テ・デウム・ラウダームス」に始まり「イン・テ・ドミネ・スペラーヴィ」で閉じる全5楽章から成る。ハ長調の外枠楽章に対しヘ短調やニ短調の内側の楽章が対比され、オルガンは随意、コントラバスチューバも用いられる。",
+      "en": "Bruckner's Te Deum falls into five movements, opening with 'Te Deum laudamus' and closing with 'In te, Domine, speravi.' Outer movements in C major frame inner ones in F minor and D minor, scored with ad libitum organ and a contrabass tuba."
+    },
+    "story": {
+      "ja": "数年にわたる作曲期間を経て1884年に総譜が完成し、1886年1月10日、ウィーン楽友協会の大ホールでハンス・リヒター指揮により管弦楽版が初演された。総譜には「神のより大いなる栄光のために」との献辞が記され、後年マーラーは自らの所有譜に、清められた魂にふさわしい音楽だと書き添えたと伝えられる。",
+      "en": "After several years of intermittent work, Bruckner completed the full score in 1884, and the orchestral version premiered on 10 January 1886 at Vienna's Musikverein under Hans Richter. The score bears the inscription 'Ad maiorem Dei gloriam,' and Mahler is said to have later noted in his own copy that the music suited purified, angelic souls."
+    }
+  },
   "210": {
     "structure": {
       "ja": "無伴奏ヴァイオリンのための24曲からなる小品集。重音奏法、左手のピツィカート、フラジオレット(倍音奏法)、広い跳躍など、当時のヴァイオリン奏法の限界を押し広げるあらゆる技巧が詰め込まれている。\n第24番はテーマと変奏の形式で書かれ、単純な主題が曲を追うごとに技巧的な装いを増していく構成が特徴で、のちに多くの作曲家がこの主題を借りて自作の変奏曲を書いている。",
@@ -339,6 +359,16 @@
       "en": "It was composed in 1880 and dedicated to Franz Liszt, who admired Borodin's music and did much to promote it.\nIt had originally been conceived as one of several tableaux vivants to mark the twenty-fifth anniversary of Alexander II's reign, though that production never took place. The piece itself, however, went on to become a concert favourite after its premiere in St Petersburg under Rimsky-Korsakov."
     }
   },
+  "3659": {
+    "structure": {
+      "ja": "1937年の戴冠式のために書かれた祝典行進曲。単一楽章によるABABC形式で、快活なハ長調の主部と変イ長調のトリオが対比され、フルート3本やコーラングレ、バスクラリネット、コントラファゴットを含む大編成に任意のオルガンも加わる。",
+      "en": "Written as a ceremonial march for the 1937 coronation, Crown Imperial unfolds in a single ABABC-form movement. Its buoyant main section in C major contrasts with a trio shifting to A-flat major, scored for a large orchestra including triple flutes, cor anglais, bass clarinet, contrabassoon, and optional organ."
+    },
+    "story": {
+      "ja": "ジョージ6世の戴冠式に向けて英国放送協会から依頼され、普段は筆の遅いウォルトンが2週間足らずで書き上げたと伝えられる。曲名は楽譜冒頭に掲げたウィリアム・ダンバーの詩の一節に由来し、1937年5月12日、ウェストミンスター寺院での戴冠式で王太后メアリーの行列に合わせて演奏された。",
+      "en": "Commissioned by the BBC for King George VI's coronation, Walton — usually a slow, deliberate composer — reportedly completed the march in under two weeks. Its title comes from a line by poet William Dunbar printed at the head of the score, and the piece was performed on 12 May 1937 as Queen Mother Mary's procession entered Westminster Abbey."
+    }
+  },
   "3682": {
     "structure": {
       "ja": "全4楽章の交響曲。切迫感のある推進力に満ちたリズムと、なかなか解決へ向かわない終楽章の劇的な構えが特徴とされる。",
@@ -347,6 +377,26 @@
     "story": {
       "ja": "1932年から作曲が始まり、当時ウォルトンが交際していたドイツ人男爵夫人イマ・デルンベルクに献呈された。1934年秋までに最初の3楽章は完成していたが、終楽章の作曲は難航した。映画音楽の仕事に追われたことや、その年のうちにデルンベルクとの関係が終わりを迎えたことなどが重なったためとされる。\n初演を待ちきれない指揮者ハミルトン・ハーティは、1934年12月3日、ロンドンのクイーンズ・ホールで、ロンドン交響楽団を指揮し、未完成のまま最初の3楽章のみを演奏会にかけた。作曲家コンスタント・ランバートの助言をきっかけに終楽章の構想がまとまり、全曲は1935年11月6日、同じくクイーンズ・ホールでハーティ指揮BBC交響楽団により初演された。ウォルトンの相手が完成までに別の女性へと変わっていたにもかかわらず、献辞は当初のままイマ・デルンベルクに宛てて残された。",
       "en": "Walton began composing it in 1932, and it is dedicated to Baroness Imma Doernberg, a German widow with whom he was involved at the time. The first three movements were finished by autumn 1934, but the finale resisted him, not least because he was distracted by film-scoring work for money and because his relationship with Doernberg ended that same year.\nUnwilling to wait any longer, the conductor Hamilton Harty gave the unfinished symphony's first three movements alone at Queen's Hall, London, on 3 December 1934, with the London Symphony Orchestra. A suggestion from the composer Constant Lambert reportedly helped Walton find his way into the finale, and the complete symphony premiered on 6 November 1935, again at Queen's Hall, with Harty conducting the BBC Symphony Orchestra. Although his affections had moved on to another woman by the time the work was finished, the dedication to Doernberg was left unchanged."
+    }
+  },
+  "3689": {
+    "structure": {
+      "ja": "独唱バリトンと二重混声合唱に、左右に配置された2組の金管バンド（各トランペット3・トロンボーン3・テューバを含む）が加わる単一楽章の合唱作品。バビロン捕囚・饗宴・王国の崩壊を描く三部構成をとり、演奏時間は約35分に及ぶ。",
+      "en": "Belshazzar's Feast is a single-movement choral work for baritone soloist and double chorus, reinforced by two antiphonal brass bands placed on either side of the stage. Its three-part narrative traces the Babylonian captivity, the feast, and the kingdom's fall, running roughly thirty-five minutes."
+    },
+    "story": {
+      "ja": "英国放送協会からの委嘱で書かれ、1931年10月8日、リーズ・タウンホールでマルコム・サージェント指揮により初演された。友人であり支援者でもあったバーナーズ卿に献呈され、当初は異教的すぎるとの批評もあったが、後年カラヤンら指揮者からも高く評価されるようになった。",
+      "en": "Commissioned by the BBC and dedicated to Walton's friend and patron Lord Berners, the work premiered on 8 October 1931 at Leeds Town Hall under Malcolm Sargent, with baritone Dennis Noble and the London Symphony Orchestra. Early critics found it more pagan spectacle than oratorio, but conductors including Karajan later praised it as among the finest choral works of its era."
+    }
+  },
+  "3696": {
+    "structure": {
+      "ja": "全3楽章から成るヴァイオリン協奏曲。ロ短調の瞑想的な第1楽章アンダンテ・トランクィロに続き、ナポリ風のスケルツォ第2楽章プレスト・カプリッチョーソ、そしてロンド形式の終楽章ヴィヴァーチェが置かれる。",
+      "en": "Walton's Violin Concerto unfolds across three movements: a brooding Andante tranquillo in B minor, a Neapolitan-flavored scherzo marked Presto capriccioso alla Napolitana, and a rondo-form finale marked Vivace. A later revision trimmed the percussion section without altering the work's overall shape."
+    },
+    "story": {
+      "ja": "ヴァイオリニストのヤッシャ・ハイフェッツが自ら委嘱し、1939年12月7日にクリーヴランド管弦楽団との共演で初演。英国初演は1941年、独奏をヘンリー・ホルストが務め、ウォルトン自身が指揮した。ラヴェッロで作曲中にタランチュラに噛まれた体験が、舞曲風の楽想に影を落としたと伝えられる。",
+      "en": "Violinist Jascha Heifetz commissioned the concerto and gave its premiere with the Cleveland Orchestra on 7 December 1939; the British premiere followed in 1941, with Henry Holst as soloist under Walton's own baton. According to the composer, being bitten by a tarantula while working in Ravello left its mark on the score's tarantella-like passages."
     }
   },
   "3785": {
@@ -689,6 +739,16 @@
       "en": "It was written in 1874 for the celebrated Spanish violinist Pablo de Sarasate, to whom it is dedicated. It premiered on 7 February 1875 at the Théâtre du Châtelet in Paris, with Sarasate as soloist and Édouard Colonne conducting, and its exotic melodic colour and dazzling violin writing were received with immediate enthusiasm.\nBy a striking coincidence, Bizet's opera Carmen, also steeped in Spanish subject matter, premiered in Paris barely a month later, and the two works are often discussed together as reflecting the same vogue for things Spanish then sweeping the city."
     }
   },
+  "5344": {
+    "structure": {
+      "ja": "全2幕から成るドランマ・ジョコーソ。アルジェ太守に囚われたイタリア女性イザベッラの機知を描く筋書きで、フルートやオーボエ、クラリネットを含む中規模編成のオーケストラが軽妙な旋律を支える。",
+      "en": "Structured as a two-act dramma giocoso, L'italiana in Algeri follows the resourceful Isabella as she outwits the Bey of Algiers who holds her captive. A modest orchestra of flute, oboe, clarinet, bassoon, horns, trumpet, trombone, and timpani carries the score's buoyant comic energy."
+    },
+    "story": {
+      "ja": "サン・ベネデット劇場からの依頼で作曲され、1813年5月22日にヴェネツィアで初演。台本は、数年前に海賊にさらわれアルジェの太守のもとへ連れ去られたと伝わる実在の女性の逸話に着想を得たとされる。若きロッシーニはわずか数週間でこの快活な喜劇を書き上げた。",
+      "en": "Written on commission for the Teatro San Benedetto, the opera premiered in Venice on 22 May 1813 with Marietta Marcolini and Filippo Galli in the leading roles. Its plot is said to draw on the real-life ordeal of a woman reportedly abducted by pirates and taken to an Algerian harem some years earlier, a story the young Rossini turned into comedy in just weeks."
+    }
+  },
   "5371": {
     "structure": {
       "ja": "全2幕の喜歌劇。理髪師フィガロが機知を働かせ、後見人に閉じ込められた娘ロジーナと恋人アルマヴィーヴァ伯爵の結婚を取り持つ物語を描く。\nフィガロが登場して歌う「私は町の何でも屋」は、早口で自らの多才ぶりをまくしたてる技巧的な書き方が特徴で、この歌劇を象徴するナンバーとして知られる。",
@@ -697,6 +757,26 @@
     "story": {
       "ja": "原作となるボーマルシェの戯曲は、すでにジョヴァンニ・パイジエッロが1782年にオペラ化しており、ロッシーニの新作はその先行作への挑戦と受け止められた。\nロッシーニはこの曲をわずか13日間で書き上げたとされる。1816年2月20日、ローマのアルジェンティーナ劇場で初演されたが、完成が土壇場までかかりリハーサル不足だったこと、パイジエッロを支持する一派の妨害、伯爵役の歌手が転んで鼻血を出すなどの不運が重なり、初日は大混乱のうちに終わった。舞台に猫が迷い込んだという逸話も伝えられる。しかしその後まもなく評価は一変し、彼の代表作のひとつとして定着した。",
       "en": "The source play by Beaumarchais had already been turned into an opera by Giovanni Paisiello in 1782, and Rossini's new setting was widely taken as a challenge to that earlier work.\nHe is said to have written it in just thirteen days. The Teatro Argentina in Rome was the setting for the first night, 20 February 1816, and the last-minute completion left too little time to rehearse; supporters of Paisiello set out to disrupt the performance, and the singer playing the count tripped and bloodied his nose — a chaotic evening, with a stray cat wandering onstage for good measure, by one account. Its reputation turned around soon afterward, and it became one of his most enduring works."
+    }
+  },
+  "5406": {
+    "structure": {
+      "ja": "「善の勝利」の副題を持つ全2幕のドランマ・ジョコーソ。序曲は自作『ラ・ガッツェッタ』からの転用で、終幕のロンドは『セビリアの理髪師』のアルマヴィーヴァ伯爵のアリアに由来する旋律を発展させている。",
+      "en": "Subtitled La bontà in trionfo (Goodness Triumphant), this two-act dramma giocoso reuses the overture from Rossini's earlier La gazzetta, while its closing rondo grows out of melodic material from Count Almaviva's aria in The Barber of Seville."
+    },
+    "story": {
+      "ja": "わずか3週間ほどで書き上げられ、1817年1月25日にローマのヴァッレ劇場でロッシーニ自身の指揮により初演され、アンジェリーナ役はゲルトルーデ・リゲッティ・ジョルジが歌った。一部の回想録は初演の不評を伝えるが、実際には概ね好評で、批判は歌手の出来にのみ向けられたとする説もある。",
+      "en": "Composed in only about three weeks, the opera premiered in Rome at the Teatro Valle on 25 January 1817, with Rossini himself conducting and Geltrude Righetti Giorgi as Angelina. Though some later memoirs describe a poor first reception, contemporary accounts suggest the opera was in fact well received, with criticism directed mainly at the singers."
+    }
+  },
+  "5419": {
+    "structure": {
+      "ja": "キリエ、グロリア、クレードの三部を中心に、前奏曲や奉献唱を含む全14曲ほどから成る。原典版はソプラノ・アルト・テノール・バス独唱、混声合唱、ハルモニウムとピアノ2台という室内楽的編成で書かれている。",
+      "en": "Built around a tripartite Kyrie, Gloria, and Credo, the Petite messe solennelle comprises roughly fourteen sections, including a religious prelude and offertory. Its original chamber scoring calls for four vocal soloists, mixed chorus, harmonium, and two pianos rather than a full orchestra."
+    },
+    "story": {
+      "ja": "パリ郊外パッシーで1863年に作曲され、翌年、ピレ=ヴィル伯爵夫人邸で18歳のアルベール・ラヴィニャックの指揮により私的に初演された。ロッシーニ自身はこの曲を「老いの過ち」の掉尾と呼び、教会の女性歌手禁止規定を理由に、生前は公の演奏を控えたと伝えられる。",
+      "en": "Composed in 1863 at Passy outside Paris, the work received its first, private performance the following year at the Paris home of Countess Pillet-Will, conducted from the harmonium by eighteen-year-old Albert Lavignac. Rossini himself called it the last of his 'sins of old age,' and reportedly withheld public performance during his lifetime, citing the church's ban on female singers."
     }
   },
   "5441": {
@@ -3369,6 +3449,16 @@
       "en": "In September 1827, Berlioz saw the Irish actress Harriet Smithson play Ophelia in a Paris production of Hamlet and fell instantly in love; he pursued her for years afterward, and she reportedly refused even to meet him.\nThe symphony was finished in February 1830 and premiered in Paris on 5 December that year, accompanied by a written programme describing a lovesick young artist who poisons himself with opium. Handing out a written programme to the audience beforehand was, at the time, an almost unprecedented practice. Smithson herself did not hear the work, or realise she might be its subject, until 1832; the two married the following year, 1833."
     }
   },
+  "20013": {
+    "structure": {
+      "ja": "「トロイア陥落」と「カルタゴのトロイア人」から成る全5幕の大作。舞台裏に配置される金管・打楽器や、6台から8台にも及ぶハープ、サクソルンなど、大規模で色彩豊かな編成が用いられている。",
+      "en": "Les Troyens unfolds across five acts, divided into 'La Prise de Troie' and 'Les Troyens à Carthage.' Its vast orchestration calls for six to eight harps, saxhorns, offstage brass and percussion, and either ophicleide or tuba, yielding an unusually rich and colorful sound."
+    },
+    "story": {
+      "ja": "何年もかけて書き上げられながら、生前は全曲上演の機会に恵まれず、1863年11月4日、パリのリリック座で後半の「カルタゴのトロイア人」のみが部分初演された。ディドン役を歌ったシャルトン=デメールらの熱演もあり、規模の大きさゆえに長らく全曲上演は実現しなかった。",
+      "en": "Berlioz spent years composing this vast opera, yet never saw it staged in full during his lifetime. Only its second half, 'Les Troyens à Carthage,' reached the stage on 4 November 1863 at the Théâtre Lyrique in Paris, with Anne-Arsène Charton-Demeur singing Didon under Adolphe Deloffre's baton. The opera's sheer scale kept a complete staging out of reach for decades."
+    }
+  },
   "20029": {
     "structure": {
       "ja": "独奏ヴィオラを伴う全4楽章の交響曲。独奏ヴィオラは超絶技巧を披露する協奏曲的な役割ではなく、物思いにふける旅人ハロルドを表す固定楽想として、管弦楽の情景のなかを漂うように現れては消える。\nバイロンの詩「チャイルド・ハロルドの巡礼」に着想を得ており、山あいの情景、巡礼の行進、セレナード、山賊の乱痴気騒ぎという4つの場面が描かれる。",
@@ -3377,6 +3467,26 @@
     "story": {
       "ja": "1834年、名ヴァイオリニストのパガニーニが新たに入手したストラディヴァリウスのヴィオラを披露するための協奏曲を求め、ベルリオーズに作曲を依頼したことがきっかけとなった。\nしかしベルリオーズはヴィオラを技巧的に誇示する独奏楽器としてではなく、交響曲全体のなかに溶け込ませる構想を選んだ。楽譜を見たパガニーニは独奏部分の技巧的な地味さに失望し、演奏を辞退したと伝えられる。初演は同年11月23日、パリ音楽院でベルリオーズ自身の指揮、クレティアン・ユーランの独奏によりおこなわれた。パガニーニは4年後の1838年、実際にこの曲を耳にして深く感銘を受け、ベルリオーズの前にひざまずいて多額の謝礼を贈ったという逸話が伝えられている。",
       "en": "In 1834, the virtuoso Paganini, who had recently acquired a Stradivari viola, asked Berlioz to write a concerto to show it off.\nBerlioz instead conceived a work that folded the viola into a full symphonic design rather than treating it as a display instrument. Paganini, seeing the score, was disappointed by how technically modest the solo part was and declined to play it. It premiered on 23 November that year at the Paris Conservatoire, conducted by Berlioz with Chrétien Urhan as soloist. Four years later, in 1838, Paganini finally heard the work performed and was deeply moved — he is said to have knelt before Berlioz and given him a large sum of money."
+    }
+  },
+  "20031": {
+    "structure": {
+      "ja": "レクイエム・エテルナムとキリエに始まり、怒りの日、聖なるかな、アニュス・デイなど全10楽章から成る大作。四隅に配置された4組の金管群とティンパニ16台、約210名規模の合唱を要する破格の編成で書かれている。",
+      "en": "Berlioz's Requiem spans ten movements, from the opening Requiem aeternam and Kyrie through the Dies irae to a closing Agnus Dei. Its extraordinary scoring calls for four separate brass ensembles stationed at the four corners of the hall, sixteen timpani, and a chorus of roughly two hundred singers."
+    },
+    "story": {
+      "ja": "数年前に起きた革命の戦没者を追悼するため、内務大臣ガスパラン伯爵の依頼で1837年に作曲され、同年12月5日、パリのアンヴァリッドでアベネック指揮により初演された。ベルリオーズ自身、自作の中で一曲だけ残せるとしたらこの曲を選ぶと語ったと伝えられる。",
+      "en": "Commissioned by Interior Minister Comte de Gasparin to commemorate soldiers who died in a revolution some years earlier, Berlioz completed the Requiem in 1837 and heard it premiered that December at the Invalides in Paris under François Habeneck. He is said to have remarked that, if only one of his works could survive, this would be his choice."
+    }
+  },
+  "20063": {
+    "structure": {
+      "ja": "ゲーテの『ファウスト』第一部に基づく全4部の劇的物語（レジャンド・ドラマティック）。独唱4声部に児童合唱と混声合唱を重ね、大編成のオーケストラが壮大な音絵巻を描き出し、「ラコッツィ行進曲」を含む。",
+      "en": "Cast as a légende dramatique in four parts after Goethe's Faust, Part One, the work layers four vocal soloists over children's and mixed chorus against a large orchestra. Its best-known excerpt, the Rákóczi March, sits among richly pictorial scenes spanning heaven, hell, and the Hungarian plain."
+    },
+    "story": {
+      "ja": "1846年2月15日、ペシュトでの演奏会では「ラコッツィ行進曲」が熱狂的な成功を収めた一方、同年12月6日にパリ・オペラ=コミック座で行われた全曲初演はベルリオーズ自身の指揮にもかかわらず客足が伸びず、興行的には失敗に終わったと伝えられる。",
+      "en": "The Rákóczi March scored a triumphant success at a concert in Pest on 15 February 1846, but the complete work fared far worse: its premiere on 6 December that same year at the Paris Opéra-Comique, conducted by Berlioz himself, played to sparse houses and proved a costly financial failure that left the composer deeply in debt."
     }
   },
   "20225": {
