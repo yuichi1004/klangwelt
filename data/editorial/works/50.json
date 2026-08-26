@@ -1,0 +1,22 @@
+{
+  "4288": {
+    "structure": {
+      "ja": "4声のラテン語モテットで、歌詞の一節ごとに新たな模倣対称句を導入していく、当時としては先駆的な書法が特徴。各声部が同じ旋律を少しずつ遅れて歌い継ぐ、いわゆるポイント・オブ・イミテーションの技法を用いている。",
+      "en": "A four-voice Latin motet in which each new phrase of text introduces a fresh point of imitation, a forward-looking technique for its time. Successive voices enter with the same melodic idea in staggered succession, weaving the phrases together in turn."
+    },
+    "story": {
+      "ja": "ミラノの宮廷に仕えていた1485年頃に作曲されたとみられ、確実な年代を特定できる作曲者の作品としては最も早いものの一つとされる。1502年、ペトルッチが出版した最初のモテット曲集『モテッティA』の巻頭を飾り、16世紀を通じて広く愛唱される代表作となった。",
+      "en": "Composed around 1485, while the composer was in service at the Milanese court, it is considered one of his earliest reliably datable works. It headed Motetti A, the first printed volume of motets published by Ottaviano Petrucci in 1502, and went on to become one of the most beloved and widely performed pieces of the entire sixteenth century."
+    }
+  },
+  "4321": {
+    "structure": {
+      "ja": "聖歌「パンジェ・リングァ」の旋律に基づくパラフレーズ・ミサで、キリエからアニュス・デイまで全6曲から成る。楽章が進むにつれ聖歌旋律の扱いは徐々に自由になり、「クレド」の「受肉」の箇所では旋律全体が同時進行のホモフォニーで示される。",
+      "en": "A paraphrase mass built on the plainchant hymn 'Pange lingua,' comprising six movements from Kyrie to Agnus Dei. The chant melody is treated with increasing freedom as the mass proceeds, and in the Credo's 'Incarnatus' the whole tune appears in simple, homophonic block chords."
+    },
+    "story": {
+      "ja": "晩年の1515年頃に作曲され、作曲者最後のミサ曲と考えられている。キリエ冒頭の「ド・レ・ファ・ミ・レ・ド」という音型は後世にも影響を残し、バッハのフーガや、モーツァルトの交響曲第41番「ジュピター」終楽章の主題にもその面影が指摘されている。楽譜は作曲者の死後になってようやく出版された。",
+      "en": "Composed around 1515, near the end of his life, it is thought to be his final mass. The 'Do-Re-Fa-Mi-Re-Do' motif that opens the Kyrie left a lasting mark on later music, echoed in fugal writing by Bach and, some have suggested, in the finale theme of Mozart's 'Jupiter' Symphony. The score itself was not published until after the composer's death."
+    }
+  }
+}
