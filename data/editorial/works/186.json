@@ -1,4 +1,24 @@
 {
+  "21670": {
+    "structure": {
+      "ja": "単一楽章の交響詩。冒頭に添えられた詩句が北方の深い森の広がりと神秘を暗示し、静かな主題が繰り返し形を変えながら育ってゆく。終盤には荒々しい嵐が吹き荒れ、再び静寂へと沈んで曲を閉じる。",
+      "en": "A single-movement tone poem prefaced by verses evoking the vast, mysterious forests of the north. A hushed theme keeps returning in shifting guises before a violent storm breaks out, subsiding again into silence at the close."
+    },
+    "story": {
+      "ja": "1926年、指揮者ウォルター・ダムロッシュの依頼で作曲され、同年12月26日、ニューヨークでダムロッシュ指揮により初演された。フィンランド神話に登場する森の神タピオの領域を描いたこの曲は、シベリウスが完成させた最後の大規模な管弦楽作品となり、以後三十年余りにわたり新作を公にすることはなかった。",
+      "en": "Commissioned by conductor Walter Damrosch, it was completed in 1926 and premiered that December in New York under Damrosch's baton. Named for Tapio, the forest god of Finnish mythology, it depicts the vast, mysterious woodland he ruled. It turned out to be the last major orchestral work Sibelius ever completed, though he lived on for another three decades."
+    }
+  },
+  "21688": {
+    "structure": {
+      "ja": "「カレワラ」の英雄レンミンカイネンを描く4曲からなる管弦楽組曲。第2曲「トゥオネラの白鳥」は、死者の国を流れる川に浮かぶ白鳥をコーラングレの独奏が歌う、単独でも演奏される名曲として知られる。",
+      "en": "Four orchestral legends drawn from the Kalevala hero Lemminkäinen. The second, \"The Swan of Tuonela,\" is the best known, its cor anglais solo depicting a swan gliding on the river encircling the land of the dead, and is often performed alone."
+    },
+    "story": {
+      "ja": "はじめは未完に終わったオペラの構想から生まれ、1893年から翌年にかけて作曲、1896年にヘルシンキで作曲者自身の指揮により初演された。その後もたびたび改訂の手が加えられ、現在演奏される版が定まったのは初演から半世紀近くを経てからのことである。",
+      "en": "The music grew out of an opera project Sibelius abandoned, composed between 1893 and the following year and premiered in Helsinki in 1896 under his own baton. He kept revising the score over the following decades, and the version now performed did not take its final shape until nearly fifty years after the premiere."
+    }
+  },
   "21716": {
     "structure": {
       "ja": "単一楽章の交響詩。荒々しい金管の強奏で始まり、闘争的な楽想を経て、最後は讃美歌風の静かな旋律が現れて全曲を締めくくる。この最後の旋律はのちに独立した歌曲として広く歌われるようになった。\n劇的な緊張から解放へと向かう構成そのものが、抑圧からの解放を求める心情と重ね合わせて聴かれてきた。",
@@ -19,6 +39,16 @@
       "en": "He began it in 1902, had it down to a short score by the autumn of 1903, and finished the full score early the following year.\nIt premiered on 8 February 1904 in Helsinki, with Sibelius himself conducting and Viktor Nováček as soloist — and the premiere was a disaster. Nováček had too little time to prepare a punishingly difficult solo part and reportedly struggled through it badly. Sibelius banned further performances of that version and set about a substantial revision. The revised concerto was heard again on 19 October 1905 in Berlin, with Karl Halir as soloist and Richard Strauss conducting, and this time it succeeded."
     }
   },
+  "21901": {
+    "structure": {
+      "ja": "全4楽章。長調の解決を避けた陰鬱な和声と、随所に現れる三全音の動機が全曲を貫き、彼の作品の中でも際立って禁欲的な響きを持つ。グロッケンシュピールを効果的に用いた抑制された編成も特徴である。",
+      "en": "Four movements built from austere, often unresolved harmony and a recurring tritone motif, making this the starkest and most restrained of his symphonies. The spare orchestration includes a glockenspiel used sparingly for its cold, glinting color."
+    },
+    "story": {
+      "ja": "1909年から1911年にかけて作曲され、同年4月3日、ヘルシンキで作曲者自身の指揮により初演された。義弟にあたる画家エーロ・ヤルネフェルトに献呈されている。当時流行していた華美な作風とは一線を画す内省的な作品で、後年あるフィンランドの批評家からは、戦時中の代用食にちなみ「バルクブロード交響曲」と評された。",
+      "en": "Composed between 1909 and 1911, it premiered that April in Helsinki under Sibelius's own baton and is dedicated to his brother-in-law, the painter Eero Järnefelt. Deliberately austere at a time when showier styles were fashionable, it was later nicknamed the \"Bark Bread Symphony\" by a Finnish critic, alluding to wartime famine food."
+    }
+  },
   "21945": {
     "structure": {
       "ja": "全4楽章。終楽章は勝利を思わせる長調の高揚で閉じられ、初演当時のロシア支配下にあったフィンランドの独立運動と重ね合わせて聴かれることが多かった。\n全曲は、当初交響曲としてではなく、単独の管弦楽幻想曲として構想されていた断片的な素材が発展・統合されていく過程で形になったもので、着想の当初から一つの交響曲として計画されていたわけではない。",
@@ -27,6 +57,76 @@
     "story": {
       "ja": "1901年冬、イタリアのラパッロに滞在中に着手された。友人カルペランの尽力による資金援助で実現したこの旅行で、シベリウスは当初、ドン・ファン伝説やダンテ「神曲」に基づく別々の未完成作品の素材を組み合わせ、「幻想曲」としてまとめる構想を練っていた。\nこの素材はやがて交響曲としてまとめ直され、1902年3月8日、ヘルシンキで作曲者自身の指揮により初演された。前年に発表された「フィンランディア」の成功もあり、当時ロシア帝国からの独立を求める気運が高まっていたフィンランドで、この曲は希望に満ちた作品として熱狂的に受け止められた。",
       "en": "He began it in the winter of 1901 while staying in Rapallo, Italy, on a trip made possible by funds his friend Axel Carpelan had arranged. There, he initially planned to combine material from two separate, unfinished projects — one based on the Don Juan legend, another on Dante's Divine Comedy — into a single orchestral \"fantasy.\"\nThat material eventually reshaped itself into a symphony, which premiered on 8 March 1902 in Helsinki, with Sibelius conducting. Coming after the success of Finlandia the previous year, and amid rising Finnish agitation for independence from Russian rule, it was received with great enthusiasm as a work full of hope."
+    }
+  },
+  "21961": {
+    "structure": {
+      "ja": "全3曲からなる管弦楽組曲。第1曲「間奏曲」、第2曲「バラード」はコーラングレの旋律が印象的、第3曲「行進曲風に」が力強く曲集を締めくくる。もとは規模の大きな劇音楽から抜粋されたものである。",
+      "en": "A three-movement suite — Intermezzo, then a Ballade built around a cor anglais melody, and a march-like finale — drawn from a much larger score for a historical pageant, of which only these movements are now regularly heard."
+    },
+    "story": {
+      "ja": "1893年、ロシア帝国の圧政下にあったフィンランドで、ヴィープリ出身の学生団体が資金集めの福引のために企画した歴史活人画のための音楽として作曲された。同年11月、まず全曲版が初演され、その10日後には演奏会用に抜粋した組曲版が初演されている。",
+      "en": "It was written in 1893 for a series of historical tableaux staged by students from Viipuri to raise lottery funds, at a time when Finland still lived under the rule of the Russian empire. The full score premiered that November, and the concert suite drawn from it followed just ten days afterward, quickly outliving the pageant it was written for."
+    }
+  },
+  "21968": {
+    "structure": {
+      "ja": "単一楽章、演奏時間約20分の交響曲。表情の異なる複数の部分が切れ目なく連なり、トロンボーンが繰り返し提示する荘重な主題が全曲をまとめる要となっている。当初は「交響的幻想曲」と題されていた。",
+      "en": "A single continuous movement of about twenty minutes, moving through several contrasting sections without a break, unified by a solemn theme repeatedly sounded on trombone. Sibelius originally called the piece a \"symphonic fantasia\" rather than a symphony."
+    },
+    "story": {
+      "ja": "着想から完成まで長い年月を要した末に、1924年3月2日に脱稿し、同年3月24日にはストックホルムで作曲者自身の指揮のもと初演を迎えた。かつて放棄していた交響詩の草稿から素材の一部を転用して書かれており、これが生前に世に問うた最後の交響曲となった。",
+      "en": "The work took years to reach its final form, was finished on 2 March 1924, and premiered in Stockholm later that same month under Sibelius's own baton. It reuses material salvaged from an earlier tone poem he had once abandoned midway, and turned out to be the last symphony he ever published in his lifetime."
+    }
+  },
+  "21970": {
+    "structure": {
+      "ja": "単一楽章の交響詩。特定の物語を持たない自由な音の絵巻とされ、シベリウス自身も終生、明確な標題や筋書きを語ろうとはしなかった。編成にティンパニを用いず、トライアングルやバスドラムが独特な色彩を添えている。",
+      "en": "A single-movement tone poem without a fixed program, a free tale told purely in sound, one that Sibelius himself never explained in any detail throughout his life. Timpani are notably absent from the orchestration, while triangle and bass drum lend the music a distinctive color."
+    },
+    "story": {
+      "ja": "1892年に作曲され、翌年ヘルシンキで初演されたが、その後1902年に大幅な改訂が施され、現在よく知られる形となった。同年11月にベルリンで改訂版が披露された際、聴衆にいた作曲家フェルッチョ・ブゾーニが、演奏の後に感激のあまりシベリウスを抱擁したと伝えられている。",
+      "en": "Composed in 1892 and premiered in Helsinki the following year, it reached the familiar form now heard in concert only after a thorough revision in 1902. When that revised version was performed in Berlin later the same year, the composer Ferruccio Busoni, seated in the audience, is said to have embraced Sibelius warmly afterward."
+    }
+  },
+  "21988": {
+    "structure": {
+      "ja": "独唱、男声合唱、大管弦楽のための全5楽章の交響詩。「カレワラ」の悲劇的英雄クッレルヴォの物語を描き、第3楽章と第5楽章に独唱・合唱が加わる、当時としては異例なほど大規模な編成が用いられている。",
+      "en": "A five-movement work for vocal soloists, male chorus, and large orchestra telling the tragic story of the Kalevala hero Kullervo, with voices entering only in the third and final movements alongside an unusually large orchestral force for its time."
+    },
+    "story": {
+      "ja": "1891年から翌年にかけて作曲され、1892年4月にヘルシンキで作曲者自身の指揮により初演されると熱狂的に迎えられ、若きシベリウスの名を一躍高めた。しかし厳しい批評にさらされたのちスコアを演奏禁止とし、その後長きにわたり公の場で演奏されることはなかった。",
+      "en": "Composed between 1891 and the following year, it premiered in Helsinki in April 1892 under Sibelius's own baton to great public excitement, making the young composer's name overnight. But after harsh criticism from reviewers he withdrew the score from further performance, and it went unheard in public for a very long time afterward."
+    }
+  },
+  "22016": {
+    "structure": {
+      "ja": "全3楽章。第1楽章は途中でスケルツォ風の速い部分へとなだれ込み、終楽章では、ホルンが刻む固い動機の上に金管が壮大な旋律を奏でる「白鳥賛歌」で頂点を築き、変ホ長調の輝かしい響きのうちに全曲を結ぶ。",
+      "en": "Three movements, the first sweeping partway through into a fast, scherzo-like passage, and a finale built on a so-called \"swan hymn,\" where brass sing out a broad melody over a hard-edged horn ostinato, bringing the symphony to a radiant close in E-flat major."
+    },
+    "story": {
+      "ja": "1915年、シベリウス50歳の誕生日にあたる12月8日にヘルシンキで初演された。その後2度にわたり大幅な改訂が施され、現在演奏されている決定稿は1919年になって完成している。終楽章の旋律は、飛び立つ白鳥の群れを目にした体験から生まれたと伝えられている。",
+      "en": "It premiered in Helsinki on 8 December 1915, Sibelius's fiftieth birthday, and underwent two further rounds of substantial revision before reaching the definitive form now heard, finished only in 1919. The finale's soaring theme is said to have been inspired by the sight of a flock of swans rising suddenly into flight, an image the composer himself reportedly described afterward."
+    }
+  },
+  "22017": {
+    "structure": {
+      "ja": "小編成の弦楽オーケストラのための短い円舞曲。単一のティンパニが刻む鈍い響きに乗って、憂いを帯びた旋律が次第に高まっては沈み、優美さと不吉さを行き来しながら、最後は静かに消え入るように終わる。",
+      "en": "A brief waltz for a modest string orchestra, its melancholy melody rising and sinking over the muffled beat of a single timpani, drifting between graceful elegance and something more unsettling before fading away into near silence at the close."
+    },
+    "story": {
+      "ja": "1903年、義弟アルヴィド・ヤルネフェルトの戯曲「死」のための劇音楽の一曲として作曲され、死の床にある女性が幻の中で踊る場面に付けられた。翌年、演奏会用に改作されて独立した形で初演されるとたちまち人気を博したが、シベリウスは権利をまとめて売り渡していたため、その後の成功による利益をほとんど得られなかった。",
+      "en": "Written in 1903 as part of the incidental music for his brother-in-law Arvid Järnefelt's play Kuolema (Death), it accompanies a scene where a dying woman dances with a phantom vision. Reworked into a standalone concert piece the following year, it became an instant popular success — though Sibelius had sold the rights outright and earned little from its fame."
+    }
+  },
+  "22031": {
+    "structure": {
+      "ja": "全3楽章。それまでの作品に比べて簡潔で引き締まった書法へと転じ、明るいハ長調で開始して、第3楽章では変奏と展開が渾然一体となりながら次第に高揚してゆき、力強い凱歌のうちに全曲を閉じる。",
+      "en": "Three movements marking a turn toward leaner, more concise writing than his earlier works, opening in bright C major and closing with a finale that fuses variation and development into one continuous, rising sweep toward a triumphant close."
+    },
+    "story": {
+      "ja": "1904年から1907年にかけて作曲され、同年9月にヘルシンキで作曲者自身の指揮により初演された。イギリスで早くからシベリウスを擁護した作曲家グランヴィル・バントックに献呈されている。同じ演奏会では組曲「ベルシャザールの饗宴」も初演されている。",
+      "en": "Composed between 1904 and 1907, it premiered that September in Helsinki under Sibelius's own baton and is dedicated to the English composer Granville Bantock, one of his earliest and most enthusiastic champions abroad. The same concert also gave the first performance of the orchestral suite drawn from his incidental music to Belshazzar's Feast."
     }
   }
 }
