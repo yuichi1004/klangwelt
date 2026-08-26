@@ -1569,6 +1569,16 @@
       "en": "All three were finished by 1888, but they were not published together until ten years later, in 1898; before that they appeared only individually, and attracted little notice at the time.\nTheir rehabilitation is usually traced to 1896, when his friend Debussy orchestrated the first and third. Satie himself pointed to a specific source for the title Gymnopédies, though scholars have also proposed a different literary origin, and the question remains unsettled."
     }
   },
+  "13204": {
+    "structure": {
+      "ja": "全12曲からなるピアノ独奏の前奏曲集。各曲の標題は曲の冒頭ではなく末尾に添えられており、聴き手が先入観なく音楽そのものにまず向き合えるよう意図された、当時としては珍しい配慮とされる。",
+      "en": "Twelve preludes, each carrying its evocative title not at the head but printed at the very end of the piece — an unusual choice, reportedly meant to let the music be heard without a preconceived image shaping the listener's ear."
+    },
+    "story": {
+      "ja": "1909年12月から翌年2月にかけて作曲され、同年中にデュラン社から出版された。1911年5月、パリのサル・プレイエルで、ピアニストのジャンヌ・モルティエにより初演された。当時から今日に至るまで、全曲を続けて演奏するよりも、数曲ずつ選んで演奏される機会が多い。",
+      "en": "Composed between December 1909 and February the following year, and published that same year by Durand, it premiered in May 1911 at Paris's Salle Pleyel with pianist Jane Mortier. From the very start, performers — Debussy himself among them — have tended to play the preludes in small selected groups rather than straight through as a complete set."
+    }
+  },
   "13215": {
     "structure": {
       "ja": "単一楽章の管弦楽曲。冒頭、フルート独奏が半音階的に漂う旋律を無伴奏で奏でる場面が特に有名で、明確な拍節感や調性感をあえて曖昧にした書き方が全曲を貫いている。\n牧神が真昼の気だるさのなかでまどろみ、ニンフたちとの戯れを半ば夢のように回想する情景を音で描いており、はっきりした物語の筋よりも移ろう感覚や気分の描写に重きが置かれている。",
@@ -1579,6 +1589,16 @@
       "en": "Inspired by Stéphane Mallarmé's poem \"L'après-midi d'un faune,\" it premiered in Paris on 22 December 1894. Mallarmé is said to have been so struck by it that he called the music an extension of his own poem, going beyond what the words alone could do.\nIn 1912, a ballet set to the piece, choreographed by and starring Nijinsky, was staged in Paris and caused a major scandal over a gesture read as sexually explicit. Nijinsky, who reportedly had not read the poem closely, produced a controversy that had more to do with his own staging than with Debussy's score."
     }
   },
+  "13240": {
+    "structure": {
+      "ja": "第1集と同様、全12曲からなるピアノ独奏の前奏曲集で、標題は各曲の末尾に置かれる。曲想はより複雑で色彩豊かになり、印象主義的な語法がいっそう深化した、円熟期らしい作風を示している。",
+      "en": "Twelve preludes, following the same pattern as the first book with each title placed at the piece's end. The musical language here grows still more complex and colorful, marking a further deepening of Debussy's mature impressionist style."
+    },
+    "story": {
+      "ja": "1911年から翌年にかけて作曲された。1913年、ロンドンで、ピアニストのウォルター・モース・ラメルにより初演され、同年デュラン社から出版された。第4曲の標題は、劇作家バリの戯曲「ケンジントン公園のピーター・パン」の一節からの引用に基づいている。",
+      "en": "Composed between 1911 and the following year, it premiered in 1913 in London with pianist Walter Morse Rummel and was published that same year by Durand. The title of its fourth piece draws directly on a line taken from J. M. Barrie's well-known children's play Peter Pan in Kensington Gardens."
+    }
+  },
   "13251": {
     "structure": {
       "ja": "ピアノ独奏のための6曲からなる組曲。各曲に英語の題名が付けられており、練習曲のパロディや人形、象をかたどったおもちゃなど、娘の玩具箱にあったものたちを音で描いている。\n子供が弾くための曲ではなく、大人の視点から子供時代を懐かしむように描いた作品で、終曲「ゴリウォーグのケークウォーク」ではラグタイム風のリズムが取り入れられている。",
@@ -1587,6 +1607,26 @@
     "story": {
       "ja": "1906年から1908年にかけて作曲され、1908年に出版、同年12月18日にパリでハロルド・バウアーの演奏により初演された。\n献辞は、1905年生まれの娘クロード=エンマ、愛称「ショウショウ」に宛てられている。楽譜には「これから始まることについて、父からの優しいお詫びとともに、愛するショウショウへ」という趣旨の献辞が添えられている。",
       "en": "It was composed between 1906 and 1908, published in 1908, and premiered in Paris on 18 December that year, played by Harold Bauer.\nThe dedication is to his daughter, Claude-Emma, born in 1905 and known as \"Chou-Chou.\" The score carries an inscription addressed to her, offering, in his own words, a father's tender apology for what follows."
+    }
+  },
+  "13258": {
+    "structure": {
+      "ja": "「雲」「祭り」「シレーヌ」の3曲からなる、管弦楽のための三部作。第3曲「シレーヌ」では、歌詞を持たない女声合唱がオーケストラの一部として加わり、幻想的で神秘的な響きを生み出している。",
+      "en": "Three orchestral movements — Nuages, Fêtes, and Sirènes — the last of which adds a wordless women's chorus woven into the orchestral texture itself, conjuring an otherworldly, dreamlike sound unlike anything in the first two."
+    },
+    "story": {
+      "ja": "1897年から作曲を始め、1899年12月15日未明に完成させたと自筆譜に記されている。出版者ジョルジュ・アルトマンへの感謝を込めて献呈された。翌年12月、まず「雲」と「祭り」の2曲が先行して初演され、翌々年、3曲そろっての初演が行われた。",
+      "en": "Debussy began composing it in 1897 and, according to his own manuscript, finished it in the small hours of 15 December 1899. It is dedicated to his publisher and supporter Georges Hartmann. The first two movements premiered the following December, with the complete three-movement work following two years after that."
+    }
+  },
+  "13260": {
+    "structure": {
+      "ja": "全4楽章からなる、ドビュッシー唯一の弦楽四重奏曲。第1楽章の主要主題が全曲を通じて姿を変えながら繰り返し現れる循環形式的な書法が特徴で、第3楽章はニ長調による瞑想的な緩徐楽章となっている。",
+      "en": "Four movements for string quartet, unified by a cyclical technique in which the first movement's principal theme reappears, transformed, throughout the three movements that follow it. The third offers a meditative slow movement, set in the warm key of D-flat major."
+    },
+    "story": {
+      "ja": "1892年から翌年にかけて作曲された。当初は友人アーネスト・ショソンへの献呈が意図されていたが辞退され、最終的にはイザイ四重奏団の団員に献呈された。1893年12月29日、パリのサル・プレイエルで、その同四重奏団により初演された。ドビュッシーが完成させた唯一の弦楽四重奏曲である。",
+      "en": "Composed in 1892 and into the following year, it was originally intended for dedication to his friend Ernest Chausson, who declined; it was dedicated instead to the members of the Ysaÿe Quartet. It premiered on 29 December 1893 at Paris's Salle Pleyel, performed by that same quartet. It remains the only string quartet Debussy ever completed."
     }
   },
   "13270": {
@@ -1609,6 +1649,36 @@
       "en": "He began it around 1890, at 28, though it went unpublished at the time — the manuscript was sold to the publisher Choudens and then left untouched for years. He is said to have been reluctant to publish work in an early style he no longer felt represented him.\nIt was finally revised and published in 1905, when a publisher judged that a new piece from the now-famous Debussy would sell. The title Clair de lune itself, taken from a Verlaine poem, replaced an earlier title, Promenade sentimentale, at this same revision."
     }
   },
+  "13303": {
+    "structure": {
+      "ja": "「ジーグ」「イベリア」「春のロンド」の3曲からなる管弦楽曲集。中でも「イベリア」はさらに3部に分かれる規模の大きな楽曲で、シロフォンやチェレスタ、2台のハープを含む大編成のオーケストラが用いられている。",
+      "en": "Three orchestral pieces — Gigues, Ibéria, and Rondes de printemps — with Ibéria itself further divided into three sections and standing as the largest of the set. The scoring calls for a large orchestra including xylophone, celesta, and a pair of harps."
+    },
+    "story": {
+      "ja": "1905年に着手され、完成まで7年近くを要した大作である。妻エンマに献呈された。3曲の中でも「イベリア」は1910年2月にまず単独で初演され、3曲そろっての初演はその3年後、パリのシャトレ座で、ドビュッシー自身の指揮のもと行われている。今日でも彼の代表的な管弦楽曲の一つに数えられる。",
+      "en": "Debussy began the work in 1905, and it took him nearly seven years to complete. It is dedicated to his wife, Emma. Ibéria was premiered on its own first, in February 1910, with the complete three-movement work following three years later at the Théâtre du Châtelet in Paris, conducted by Debussy himself."
+    }
+  },
+  "13308": {
+    "structure": {
+      "ja": "単一楽章からなる華麗なピアノ独奏曲。曖昧な調性で開始し、次第に高揚しながらイ長調へと到達する。演奏時間は6、7分ほどで、きわめて技巧を要する終結部が全曲を輝かしく力強く締めくくる。",
+      "en": "A single-movement piano solo that opens in ambiguous, shifting tonality before building steadily toward a triumphant resolution in A major. Lasting around six or seven minutes, it closes with a brilliant, technically demanding final flourish of virtuosity."
+    },
+    "story": {
+      "ja": "1904年に作曲され、同年デュラン社から出版された。翌年2月、パリのサル・エオリアンで、ピアニストのリカルド・ビニェスにより初演された。曲名は、ヴァトーの絵画「シテール島への船出」に着想を得たとされるが、作曲者自身の言葉で確認された事実ではない。",
+      "en": "Composed in 1904 and published that same year by Durand, it premiered the following February at Paris's Salle Aeolian, played by pianist Ricardo Viñes. The title is presumed to have been inspired by Watteau's painting The Embarkation for Cythera, though that connection is not directly confirmed anywhere in Debussy's own words."
+    }
+  },
+  "13325": {
+    "structure": {
+      "ja": "単一楽章からなる、若き日のピアノ独奏曲。夢見るような穏やかな主題が繰り返し立ち現れる、平易で親しみやすい書法が特徴で、後年の複雑な和声語法とは対照的な、素朴な魅力を持つ小品である。",
+      "en": "A single-movement piano solo from Debussy's early years, built around a gently dreamlike theme that returns again and again in a simple, accessible style very different from his later, more harmonically adventurous and complex works."
+    },
+    "story": {
+      "ja": "1890年、出版社アルトマンへの厚意から急いで書き上げられたと伝えられる。1899年2月27日、ピアニストのジェルメーヌ・アレクサンドルにより公の場で初めて演奏された。後年、ドビュッシー自身はある手紙の中で、この曲を「取るに足らないもの」「出来が悪い」と評したという。",
+      "en": "Composed quickly in 1890, reportedly as a favor to his publisher Hartmann, it received its first known public performance on 27 February 1899, played by pianist Germaine Alexandre. In a later letter, Debussy himself dismissively called the piece unimportant and poorly made, despite its enduring popularity among his early works."
+    }
+  },
   "13331": {
     "structure": {
       "ja": "「3つの交響的素描」という副題を持つ全3楽章の管弦楽曲。「海の夜明けから真昼まで」「波の戯れ」「風と海の対話」という標題が付けられている。\n明確な旋律を追うよりも、音色と響きの移ろいそのもので情景を描く書き方が特徴で、楽器編成も多彩な音色を得るために大規模に拡張されている。",
@@ -1617,6 +1687,16 @@
     "story": {
       "ja": "1903年ごろに着手され、1905年3月に完成した。海への憧れを終生持ち続けていたとされるが、実際に作曲していたのは内陸のブルゴーニュやパリで、この時期に海辺を訪れることはほとんどなかった。\n彼は自筆譜の表紙に葛飾北斎の「神奈川沖浪裏」を配した。この版画は学生時代にローマ留学していた1880年代に入手したもので、以来手元に置き続けていたという。初演は1905年10月15日、シュヴィヤール指揮ラムルー管弦楽団によりおこなわれた。",
       "en": "He began it around 1903 and finished it in March 1905. He is said to have carried a lifelong fascination with the sea, yet he composed the piece mostly inland, in Burgundy and Paris, rarely visiting the coast during this period.\nHe had the score's title page printed with Hokusai's print The Great Wave off Kanagawa, a work he had owned since acquiring it during his student years in Rome in the 1880s. It premiered on 15 October 1905, with Camille Chevillard conducting the Lamoureux Orchestra."
+    }
+  },
+  "13332": {
+    "structure": {
+      "ja": "劇作家メーテルリンクの戯曲にほぼそのまま基づく、全5幕からなるオペラ。当時の舞台機構では場面転換に時間がかかったため、その間を埋める役割も兼ねて、幕間に管弦楽による間奏曲が置かれている。",
+      "en": "A five-act opera setting Maeterlinck's play in prose almost exactly as written, an unusual choice for French opera of the era. Orchestral interludes were composed to bridge scene changes, filling time the era's slow-moving stage machinery required between them."
+    },
+    "story": {
+      "ja": "1893年から1902年にかけて作曲された。1902年4月30日、パリのオペラ・コミック座で、指揮アンドレ・メサジェ、マリー・ガーデンらの出演により初演された。上演直前のリハーサルは荒れ、観客の失笑を買う場面もあったと伝えられ、一部批評家からは酷評されたが、若い世代の作曲家たちからは熱狂的に支持された。",
+      "en": "Composed between 1893 and 1902, it premiered on 30 April that year at the Opéra-Comique in Paris, conducted by André Messager with Mary Garden in the title role. An earlier rehearsal reportedly grew unruly, with the audience laughing at points meant to be taken seriously; some critics dismissed it harshly, but younger composers responded with real enthusiasm."
     }
   },
   "13876": {
