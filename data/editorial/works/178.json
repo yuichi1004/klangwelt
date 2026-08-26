@@ -8,5 +8,15 @@
       "ja": "台本はルイ・フュズリエによる。初演は1735年8月23日、パリのパレ・ロワイヤル劇場でおこなわれたが、この時点では序幕と2つの挿話(「寛大なトルコ人」「ペルーのインカ人」)のみが上演された。同年のうちに3挿話目「花、あるいはペルシャの祭り」が追加され、翌1736年3月10日には4挿話目「未開人たち」も加わった。ラモーはその後も数十年にわたり改訂を続け、1761年に「花」の挿話を削除して現在標準的な3挿話の形に整えている。\n初演当初の評判は芳しくなく、当時の観客には和声が耳慣れず、覚えやすい旋律に乏しいと映ったと伝えられる。ある挿話中の異性装の趣向をめぐって当時の雑誌が風紀上の異議を唱え、急遽改訂を迫られる一幕もあった。それでも作品は次第に人気を高め、ラモーの代表作のひとつとして定着していった。",
       "en": "The libretto is by Louis Fuzelier. It premiered on 23 August 1735 at the Palais-Royal theatre in Paris, though only the prologue and two entrées — \"Le Turc généreux\" and \"Les Incas du Pérou\" — were given at that first performance. A third entrée, \"Les Fleurs, ou La Fête persane,\" was added later the same year, and a fourth, \"Les Sauvages,\" followed on 10 March 1736. Rameau kept revising the work for decades afterward, and in 1761 he removed \"Les Fleurs\" altogether, leaving the three-entrée form now considered standard.\nThe premiere met a cool reception: audiences of the day are said to have found the harmonies unfamiliar and the melodies unmemorable. A cross-dressing plot device in one entrée drew moral objections from a contemporary journal, forcing a hasty revision. Even so, the work grew steadily in popularity and became one of Rameau's defining achievements."
     }
+  },
+  "20212": {
+    "structure": {
+      "ja": "プロローグと全5幕からなる抒情悲劇。ラシーヌの戯曲に基づき、テセウスの妻フェードルが義理の息子イポリートに寄せる禁じられた愛を軸に展開する。第1幕の雷鳴や第4幕の海の怪物など劇的な場面転換が特徴で、演奏困難な「運命の三女神の三重唱」は初演時に省かれた。",
+      "en": "A tragédie lyrique in a prologue and five acts, based on Racine, centred on Phèdre's forbidden love for her stepson Hippolyte. Vivid effects mark the drama, from thunder in Act 1 to a sea monster in Act 4, while the fiendish 'Trio of the Fates' was cut from the premiere."
+    },
+    "story": {
+      "ja": "1733年10月1日、パリのパレ・ロワイヤル劇場で初演された。従来のリュリ流の様式に慣れた聴衆には斬新すぎる和声と映り、伝統を守る「リュリ派」と支持する「ラモー派」の間で激しい論争を巻き起こした。この対立はのちに何度かの改訂を経て、しだいに沈静化していった。",
+      "en": "It premiered on 1 October 1733 at the Palais-Royal theatre in Paris. Its harmonies struck audiences accustomed to Lully's style as startlingly new, touching off a fierce and very public dispute between traditionalist 'Lullistes' and Rameau's supporters, the 'Ramistes.' The controversy gradually cooled as the composer revised the score over the years that followed."
+    }
   }
 }
