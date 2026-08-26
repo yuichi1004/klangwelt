@@ -69,6 +69,26 @@
       "en": "They were written in three phases, roughly between 1802 and 1817, and published around 1820 by Ricordi in Milan, dating from a relatively early period in Paganini's career in Genoa and Lucca.\nThey were so demanding that at first it was assumed only Paganini himself could play them. The theme of No. 24 in particular was taken up repeatedly by later composers — Liszt, Schumann and Brahms among them — helping to establish virtuosity itself as a subject worth composing about."
     }
   },
+  "507": {
+    "structure": {
+      "ja": "弦楽器がピツィカートで提示する8小節・ニ短調の主題に基づく23の変奏から成るパッサカリア。伝統的な3拍子ではなく2/4拍子を採用している点が特徴で、大編成の管弦楽のために書かれている。",
+      "en": "A passacaglia built from twenty-three variations on an eight-bar theme in D minor, first stated pizzicato in the strings. Unusually, it is cast in duple rather than the traditional triple meter, and it is scored for a large orchestra."
+    },
+    "story": {
+      "ja": "シェーンベルクに師事していたウェーベルンが書いた最初の出版作品で、1908年にウィーン楽友協会で作曲者自身の指揮により演奏された。初演時の批評は概して否定的だったが、エルザ・ビーネンフェルトはブラームスの交響曲第4番に比肩する円熟した作品と評したと伝えられる。",
+      "en": "It was Webern's official Opus 1, his first published work, written while he was studying under Schoenberg, and it was performed at the Vienna Musikverein in 1908 by the Tonkünstler Orchestra under the composer's own baton. Reviews were largely unfavorable, though the critic Elsa Bienenfeld is said to have compared its maturity to Brahms's Fourth Symphony."
+    }
+  },
+  "535": {
+    "structure": {
+      "ja": "3楽章から成るヴァイオリン協奏曲。第1楽章モデラート・ノービレはニ長調、第2楽章ロマンツェはト長調、終楽章アレグロ・アッサイ・ヴィヴァーチェは再びニ長調で、いずれの主題も作曲者がハリウッドで手がけた映画音楽から転用されている。",
+      "en": "A three-movement violin concerto opening with a Moderato nobile in D major, followed by a G major Romanze and a closing Allegro assai vivace back in D major, its themes drawn from film scores the composer had written in Hollywood."
+    },
+    "story": {
+      "ja": "第二次世界大戦の終結を機に、ヒトラー打倒までは映画音楽に専念すると誓っていたコルンゴルトが演奏会用作品の作曲に戻り、ヴァイオリニストのブロニスワフ・フーベルマンの勧めで書かれた。アルマ・マーラー＝ヴェルフェルに献呈され、1947年にヤッシャ・ハイフェッツの独奏で初演された。",
+      "en": "Korngold had vowed to write no concert music until Hitler's defeat, and returned to it once the war ended, encouraged by the violinist Bronisław Huberman. Dedicated to Alma Mahler-Werfel, the concerto was premiered in 1947 at the Kiel Opera House in St. Louis, with Jascha Heifetz as soloist under Vladimir Golschmann, and received a New York performance the following month at Carnegie Hall."
+    }
+  },
   "813": {
     "structure": {
       "ja": "序奏の器楽曲「行進曲風ロンド」に続き、テ・デウムの典礼文を11の楽曲に分けて作曲した、全12曲からなる作品。独唱8声部、合唱、弦楽・木管に加えトランペットとティンパニを含む管弦楽という、当時としては大規模な編成による、ニ長調の祝祭的な響きを持つ。\n冒頭の器楽曲「行進曲風ロンド」の主題が全曲を通じてたびたび回帰し、各楽曲間の統一感を生み出している。",
@@ -137,6 +157,16 @@
     "story": {
       "ja": "1611年、作曲者自身の居城に設けられた専用の印刷工房から出版された。半音階書法を大胆に用いたそれまでのマドリガーレ集の作風を宗教曲にまで持ち込んだ作品とされ、精神的な苦悩を色濃くにじませる劇的な表現は、後世の研究者にも強い印象を残してきた。",
       "en": "The collection was published in 1611 from a printing press established at the composer's own castle. It carries into sacred music the same bold chromatic language he had developed in his earlier madrigal books, and its intensely anguished, dramatic expression has continued to leave a strong impression on later scholars."
+    }
+  },
+  "1451": {
+    "structure": {
+      "ja": "グリム童話に基づく全3幕の歌劇。妹アーデルハイト・ヴェッテによる台本では両親が意図的に子を捨てる場面が省かれ、代わりに砂の精や露の精、そして14人の天使が眠る子供たちを見守る「夢のパントマイム」の場面が加えられている。",
+      "en": "A three-act opera based on the Brothers Grimm's fairy tale. The libretto, written by the composer's sister Adelheid Wette, omits the parents' deliberate abandonment of the children and instead adds a Sandman, a Dew Fairy, and a dream pantomime in which fourteen angels watch over the sleeping siblings."
+    },
+    "story": {
+      "ja": "1891年から翌92年にかけてフランクフルトで作曲され、1893年12月23日、ワイマール宮廷劇場でリヒャルト・シュトラウスの指揮により初演された。第2幕の二重唱「夕べの祈り」は特に広く知られ、菓子の家という後世に定着したイメージを広めた作品としても知られる。",
+      "en": "Composed in Frankfurt in 1891 and completed the following year, the opera was premiered on 23 December 1893 under the baton of Richard Strauss at the Weimar Court Theatre. The Act 2 duet 'Abendsegen' remains especially well known, and the opera helped popularize the now-familiar image of a house made of sweets."
     }
   },
   "1480": {
@@ -227,6 +257,16 @@
     "story": {
       "ja": "指揮者アンドレ・コステラネッツの依頼により1956年に作曲され、同年10月、マイアミ大学管弦楽団を指揮するコステラネッツにより初演された。シューマンはビリングスの旋律をそのまま変奏するのではなく、異なる様式を融合させることを意図したと伝えられる。",
       "en": "Commissioned by conductor André Kostelanetz, Schuman composed the work in 1956, and it premiered that October, conducted by Kostelanetz with the Orchestra of the University of Miami. Rather than writing straightforward variations on Billings's tunes, Schuman sought to blend differing musical styles into a single continuous work lasting roughly sixteen minutes."
+    }
+  },
+  "2003": {
+    "structure": {
+      "ja": "ソプラノとバリトンが交互に歌う全7楽章の管弦楽伴奏付き歌曲集。タゴールの詩集『園丁歌』（ドイツ語訳ハンス・エッフェンベルガー）に基づき、大規模な管弦楽が用いられる。マーラーの『大地の歌』との類似がしばしば指摘される。",
+      "en": "A song cycle with orchestra in seven movements for soprano and baritone in alternation, setting German translations of poems from Rabindranath Tagore's 'The Gardener.' Scored for a large orchestra, it is often compared to Mahler's 'Das Lied von der Erde.'"
+    },
+    "story": {
+      "ja": "1922年4月に着手され翌年8月に管弦楽化を終えた本作は、1924年6月4日にプラハ新ドイツ劇場で作曲者自身の指揮により初演された。作曲者は出版社への手紙で本作をマーラーの『大地の歌』に類するものと紹介したとされ、後年アルバン・ベルクが自作『抒情組曲』に第3楽章の旋律を引用している。",
+      "en": "Begun in April 1922 and orchestrated by August of the following year, it was premiered in Prague on 4 June 1924 under the composer's own baton. Zemlinsky reportedly described the work to his publisher as akin to Mahler's 'Das Lied von der Erde,' and Alban Berg later quoted a melody from its third movement in his own Lyric Suite."
     }
   },
   "2076": {
@@ -1079,6 +1119,26 @@
       "en": "Composed in 1896 while the composer was staying in Florence, the work was premiered in Nancy later that year and published the following year. Violinist Eugène Ysaÿe had asked for a full concerto, but finding himself unable to satisfy the request, the composer wrote this piece instead and dedicated it to him."
     }
   },
+  "5557": {
+    "structure": {
+      "ja": "リヒャルト・デーメルの詩「浄められた夜」に基づく単一楽章の標題音楽で、原曲はヴァイオリン2・ヴィオラ2・チェロ2による弦楽六重奏。「きわめて緩やかに」の速度指示のもと約28分をかけて演奏され、後に弦楽合奏版にも編曲された。",
+      "en": "A single-movement work of program music based on Richard Dehmel's poem 'Verklärte Nacht,' originally scored for a string sextet of two violins, two violas, and two cellos. Marked 'very slowly,' it lasts roughly twenty-eight minutes and was later arranged for string orchestra."
+    },
+    "story": {
+      "ja": "1899年、わずか3週間ほどで作曲され、1902年3月18日、ウィーン楽友協会にてローゼ四重奏団に2人の奏者を加えた編成で初演された。当時のウィーン楽友協会は本作の演奏を一度拒否したと伝えられ、詩の作者デーメルも自身の意図を超えて曲に感銘を受けたと語ったとされる。",
+      "en": "Composed in about three weeks in 1899, it was premiered on 18 March 1902 at the Vienna Musikverein by the Rosé Quartet joined by two additional players. The Musikverein is said to have once refused to perform the piece, and the poet Dehmel himself reportedly felt moved by it beyond what he had intended in writing the poem."
+    }
+  },
+  "5620": {
+    "structure": {
+      "ja": "アルベール・ジローの詩集から選ばれた21篇の詩に基づく、3部×7曲から成るメロドラマ。語り歌唱（シュプレヒシュティンメ）と、フルート・クラリネット・ヴァイオリン・チェロ・ピアノから成る、「ピエロ編成」と呼ばれる室内アンサンブルのために書かれている。",
+      "en": "A melodrama in three parts of seven poems each, setting twenty-one texts from Albert Giraud's collection in Otto Erich Hartleben's German translation. It calls for a reciter using Sprechstimme together with a chamber ensemble of flute, clarinet, violin, cello, and piano, later dubbed the 'Pierrot ensemble.'"
+    },
+    "story": {
+      "ja": "1912年3月から7月にかけて作曲され、この作品を自ら企画したとされる元女優アルベルティーネ・ツェーメの独唱（ピエロの衣装で登場）により、同年10月にベルリンで作曲者自身の指揮で初演された。初演までに約40回のリハーサルが重ねられ、聴衆の一部は敵意ある反応を示す一方、若い世代からは熱狂的に支持されたと伝えられる。",
+      "en": "Composed between March and July 1912, it was premiered that October in Berlin, with the former actress Albertine Zehme, dressed as Pierrot, as reciter, and the composer himself conducting. The premiere followed roughly forty rehearsals; some in the audience reacted with hostility, while younger listeners are said to have received it with enthusiasm."
+    }
+  },
   "6209": {
     "structure": {
       "ja": "全4楽章。オルガン独奏と管弦楽のための協奏曲で、ある楽章でオルガンの高音域にカッコウとナイチンゲールの鳴き声を模した旋律が現れ、愛称の由来となっている。当時のオルガンにはペダル鍵盤がなく、鍵盤のみで演奏される。",
@@ -1247,6 +1307,16 @@
     "story": {
       "ja": "1888年、出版者ソンゾーニョが、まだ舞台作品を発表していない若手イタリア人作曲家を対象に、1幕物のオペラを募る作曲コンクールを開催した。マスカーニが応募の存在を知ったのは締め切りのわずか2か月前のことだった。\n急いで書き上げた楽譜に自信を持てなかったマスカーニは、いったん引き出しにしまい込んでいたが、妻リーナが締め切り当日にそれを取り出し、代わりに応募したと伝えられる。73曲の応募作のなかから最終候補3作に選ばれ、1890年5月17日、ローマのコスタンツィ劇場で初演。この作品は瞬く間に成功を収め、暴力的で写実的な題材を扱う「ヴェリズモ」の流行を生み出す端緒となった。",
       "en": "In 1888 the publisher Edoardo Sonzogno launched a competition for a one-act opera, open to any young Italian who had never had a stage work performed. Mascagni learned of it only about two months before the deadline.\nUnsure of the score he had rushed together, he put it away in a drawer — until, the story goes, his wife Lina took it out and submitted it on the last possible day. Chosen among the three finalists from seventy-three entries, it reached the stage of the Teatro Costanzi in Rome on 17 May 1890, and success followed almost overnight, helping to launch the vogue for verismo, opera built on raw, violent, everyday subject matter."
+    }
+  },
+  "6781": {
+    "structure": {
+      "ja": "モーツァルトのピアノソナタ第11番 イ長調 K.331 第1楽章の主題（アンダンテ・グラツィオーソ）に基づく、8つの変奏とフーガから成る管弦楽曲。レーガー自身が宮廷楽長を務めたマイニンゲン宮廷楽団への追想として献呈されている。",
+      "en": "A theme, eight variations, and a concluding fugue for orchestra, built on the opening theme of Mozart's Piano Sonata No. 11 in A major, K. 331. Reger dedicated the work in remembrance of the Meiningen Court Orchestra, which he himself had once directed as court conductor."
+    },
+    "story": {
+      "ja": "1914年7月に作曲され、翌1915年2月5日にベルリンで作曲者自身の指揮により初演された。出版は同年、ベルリンのジムロック社による。レーガーの管弦楽作品の中でも最も人気が高く録音回数も多い一方、ブラームスの様式を模倣したにすぎないとする批判も後年なされている。",
+      "en": "Composed in July 1914, it was premiered in Berlin on 5 February of the following year under the composer's own baton, and was published that same year by the Berlin firm N. Simrock. It has remained the most popular and most frequently recorded of Reger's orchestral works, though later critics have dismissed it as merely imitating the style of Brahms."
     }
   },
   "7106": {
@@ -3779,6 +3849,16 @@
       "en": "The idea may go back as far as 1831, but serious work began in the later 1830s, and the set was completed during a stay in Majorca over the winter of 1838-39. He had gone there with his companion George Sand and her children to escape Paris's damp climate, and is said to have finished the preludes in poor health, making do with a shabby Spanish piano in a run-down monastery.\nIt was published in 1839, with a dedication to the German pianist Joseph Christoph Kessler."
     }
   },
+  "17369": {
+    "structure": {
+      "ja": "同名の歌劇から素材を抜粋・再構成した全3楽章の交響曲。マティアス・グリューネヴァルトの『イーゼンハイム祭壇画』に着想を得ており、第1楽章「天使の合奏」、第2楽章「埋葬」、第3楽章「聖アントニウスの誘惑」という副題を持つ。",
+      "en": "A three-movement symphony, lasting about twenty-five minutes, drawn from material in the composer's opera of the same name and inspired by Matthias Grünewald's Isenheim Altarpiece. The movements are subtitled 'Concert of Angels,' 'Entombment,' and 'The Temptation of Saint Anthony.'"
+    },
+    "story": {
+      "ja": "1934年3月12日、ベルリンでヴィルヘルム・フルトヴェングラー指揮ベルリン・フィルハーモニー管弦楽団により初演され、同年10月にはニューヨークでオットー・クレンペラーの指揮によりアメリカ初演も行われた。フルトヴェングラーは同年、新聞紙上でヒンデミットを擁護する論説を発表したが、これがナチス政権との軋轢を招き、後年ヒンデミットはスイスへ移住することになった。",
+      "en": "It was premiered in Berlin on 12 March 1934 by the Berlin Philharmonic under Wilhelm Furtwängler, and received its United States premiere later that year in New York under Otto Klemperer. That same year, Furtwängler published a newspaper article defending Hindemith, a stance that provoked conflict with the Nazi regime and eventually led the composer to emigrate to Switzerland."
+    }
+  },
   "17387": {
     "structure": {
       "ja": "全4楽章。第1楽章アレグロは、ヴェーバーがピアノ連弾のために書いた「8つの小品」作品60の第4曲を素材とする。第2楽章「トゥーランドット、スケルツォ」は、ヴェーバーが1809年にシラー版「トゥーランドット」への劇音楽として書いた序曲に基づき、五音音階による異国風の旋律が特徴的である。第3楽章アンダンティーノは、ヴェーバーが1803年に書いた「6つのやさしい小品」の第2曲を、終楽章「行進曲」は再び作品60の素材を用いている。\n実はこの「トゥーランドット」序曲の五音音階の旋律自体、ヴェーバーがルソーの著作「音楽辞典」(1768年)に「中国の歌」として収められていた旋律から借用したものであり、西洋音楽が実在の中国の旋律を取り入れた早い例のひとつとされる。",
@@ -3807,6 +3887,16 @@
     "story": {
       "ja": "1360年頃、ランス大聖堂の聖堂参事会員を務めていた作曲者によって書かれたとみられ、毎週土曜日に行われる聖母ミサのために用いられたと考えられている。単独の作曲家による現存最古の完全なミサ通常文の作曲例とされ、後世のミサ曲の書き方に大きな影響を残した。",
       "en": "Composed around 1360 while the composer held a canonry at Reims Cathedral, the mass is thought to have been written for the Saturday Lady Mass. It is widely regarded as the earliest complete setting of the Mass Ordinary by a single named composer, and it left a lasting mark on how later composers approached the mass as a unified musical whole."
+    }
+  },
+  "17971": {
+    "structure": {
+      "ja": "パウル・ハイゼによるイタリア民謡風恋愛詩のドイツ語訳詩集に基づく、全46曲（第1部22曲・第2部24曲）から成る歌曲集。高声用に書かれ、しばしば男女2人の歌手が交互に歌う形で演奏される。",
+      "en": "A collection of forty-six songs, twenty-two in the first part and twenty-four in the second, setting Paul Heyse's German translations of Italian folk love poetry. Written for high voice, it is often performed by two singers alternating between them."
+    },
+    "story": {
+      "ja": "第1部は1890年から翌91年にかけて、第2部はその約5年後の1896年に作曲された。この間にはオペラ『代官』の作曲があり、両部の間には長い空白がある。多くはイタリアの詩形リスペットに基づいており、晩年のヴォルフを代表する作品群の一つとされる。",
+      "en": "The first part was composed in 1890 and completed the following year; the second followed some five years later, in 1896, with his opera 'Der Corregidor' written in the years between. Many of the poems follow the Italian rispetto verse form, and the cycle stands among the works of Wolf's final creative period."
     }
   },
   "18023": {
@@ -3917,6 +4007,16 @@
     "story": {
       "ja": "1866年、プロイセンとの戦争（普墺戦争）でオーストリアが敗れた直後、意気消沈した市民を元気づける目的で、ウィーン男声合唱協会の指揮者ヘルベックが作曲を依頼した。\n当初は合唱団のための歌曲として書かれ、1867年2月15日に初演されたが、敗戦を揶揄する歌詞が不評でさほど評価されなかった。同年4月、パリ万国博覧会で歌詞なしの管弦楽版が演奏されると一転して熱狂的に迎えられ、以後彼の代名詞となる作品として定着した。",
       "en": "In 1866, just after Austria's defeat in its war with Prussia, the conductor Johann von Herbeck commissioned a piece from Strauss to lift the spirits of a demoralised Vienna, on behalf of the city's Men's Choral Association.\nIt was written first as a choral song and premiered on 15 February 1867, but the lyrics — which mocked the lost war — went over poorly, and the piece made little impression. Then, in April that year, a purely orchestral version performed at the Paris World's Fair was received with enthusiasm, and it has been inseparable from his name ever since."
+    }
+  },
+  "18998": {
+    "structure": {
+      "ja": "単一楽章から成るヴァイオリン協奏曲で、「劇唱の形式で」という副題を持つ。独奏ヴァイオリンに、フルート・クラリネット2・ファゴット・ホルン2・ティンパニ・弦楽器という比較的小編成の管弦楽が伴う、演奏時間約18分の作品。",
+      "en": "A single-movement violin concerto subtitled 'in the manner of a vocal scene.' The solo violin is accompanied by a relatively modest orchestra of flute, two clarinets, bassoon, two horns, timpani, and strings, in a work lasting about eighteen minutes."
+    },
+    "story": {
+      "ja": "1816年に作曲され、同年9月27日にミラノで初演されたが、独奏者の記録は残っていない。出版は1820年、ライプツィヒのペータース社による。20世紀にはヤッシャ・ハイフェッツが得意とした作品として知られ、近年ではヒラリー・ハーンも録音を残している。",
+      "en": "Composed in 1816, it was premiered that same year on 27 September in Milan. It was published in 1820 by the Leipzig firm C. F. Peters. In the twentieth century it became a favorite vehicle of Jascha Heifetz, and it has also been recorded by Hilary Hahn in more recent years."
     }
   },
   "19038": {
@@ -5913,6 +6013,16 @@
     "story": {
       "ja": "建築家ヴァルター・グロピウスと、グスタフ・マーラーの未亡人アルマ・マーラーとの間に生まれた娘、マノン・グロピウスが、1935年4月22日、18歳でポリオのため世を去った。ベルクは以前からヴァイオリニストのルイス・クラスナーより協奏曲の作曲を依頼されていたが、この死に触発され、短期間で作曲に集中した。作曲は同年7月15日に、管弦楽化を含む総譜は8月12日に完成し、「ある天使の思い出に」という献辞が添えられた。\nベルク自身は同年12月23日から24日にかけての夜、虫刺されによる敗血症のためウィーンで急逝し、この曲は彼の最後の完成作となった。そのため初演は没後となり、1936年4月19日、バルセロナのカタルーニャ音楽堂で、独奏クラスナー、パウ・カザルス管弦楽団によりおこなわれた。当初指揮を予定していたアントン・ヴェーベルンはリハーサル中に感情を抑えきれず降板し、代わってヘルマン・シェルヘンが、前夜に初めて総譜を見たとも伝えられるほどの短い準備期間で指揮を引き受けたという。",
       "en": "Manon Gropius, daughter of the architect Walter Gropius and Alma Mahler (widow of Gustav Mahler), died of polio on 22 April 1935 at the age of eighteen. Berg had already been commissioned to write a concerto by the violinist Louis Krasner, and, moved by her death, composed it in an intense burst: he finished the composition on 15 July that year and completed the full orchestration on 12 August, inscribing it \"To the memory of an angel.\"\nBerg himself died suddenly in Vienna on the night of 23–24 December that year, of blood poisoning from an insect bite, making the concerto his last completed work. Its premiere was therefore posthumous, given on 19 April 1936 at the Palau de la Música Catalana in Barcelona, with Krasner as soloist and the Pau Casals Orchestra. Anton Webern, originally engaged to conduct, withdrew, reportedly overcome with emotion during rehearsal, and Hermann Scherchen stepped in at short notice, said to have seen the score for the first time only the night before."
+    }
+  },
+  "26254": {
+    "structure": {
+      "ja": "ゲオルク・ビューヒナーの戯曲『ヴォイツェク』に基づく全3幕15場のオペラ。第1幕は性格描写的な5つの曲、第2幕はソナタ形式やフーガなどを含む交響曲形式の5楽章、第3幕は「インヴェンション」と題した5場から成る。",
+      "en": "An opera in three acts and fifteen scenes based on Georg Büchner's play 'Woyzeck.' Act One consists of five character pieces, Act Two forms a five-movement symphony including sonata and fugue forms, and Act Three comprises five scenes titled 'Inventions.'"
+    },
+    "story": {
+      "ja": "完成は1921年、初演は1925年12月14日で、指揮を執ったのはエーリヒ・クライバー、会場はベルリンの国立歌劇場であった。作品はアルマ・マーラー＝ヴェルフェルへの献呈作であり、彼女は出版費用の援助も行っている。ナチス体制のもとで上演が封じられていた時期を経て、戦後にはカール・ベームが尽力し、国際的な名声を取り戻すに至った。",
+      "en": "Completed in 1921, the opera was premiered on 14 December 1925 at the Berlin State Opera under Erich Kleiber. It is dedicated to Alma Mahler-Werfel, who also helped fund its publication. Banned under the Nazi regime, it regained international standing after the war largely through the advocacy of Karl Böhm."
     }
   },
   "26275": {

@@ -1,4 +1,14 @@
 {
+  "17369": {
+    "structure": {
+      "ja": "同名の歌劇から素材を抜粋・再構成した全3楽章の交響曲。マティアス・グリューネヴァルトの『イーゼンハイム祭壇画』に着想を得ており、第1楽章「天使の合奏」、第2楽章「埋葬」、第3楽章「聖アントニウスの誘惑」という副題を持つ。",
+      "en": "A three-movement symphony, lasting about twenty-five minutes, drawn from material in the composer's opera of the same name and inspired by Matthias Grünewald's Isenheim Altarpiece. The movements are subtitled 'Concert of Angels,' 'Entombment,' and 'The Temptation of Saint Anthony.'"
+    },
+    "story": {
+      "ja": "1934年3月12日、ベルリンでヴィルヘルム・フルトヴェングラー指揮ベルリン・フィルハーモニー管弦楽団により初演され、同年10月にはニューヨークでオットー・クレンペラーの指揮によりアメリカ初演も行われた。フルトヴェングラーは同年、新聞紙上でヒンデミットを擁護する論説を発表したが、これがナチス政権との軋轢を招き、後年ヒンデミットはスイスへ移住することになった。",
+      "en": "It was premiered in Berlin on 12 March 1934 by the Berlin Philharmonic under Wilhelm Furtwängler, and received its United States premiere later that year in New York under Otto Klemperer. That same year, Furtwängler published a newspaper article defending Hindemith, a stance that provoked conflict with the Nazi regime and eventually led the composer to emigrate to Switzerland."
+    }
+  },
   "17387": {
     "structure": {
       "ja": "全4楽章。第1楽章アレグロは、ヴェーバーがピアノ連弾のために書いた「8つの小品」作品60の第4曲を素材とする。第2楽章「トゥーランドット、スケルツォ」は、ヴェーバーが1809年にシラー版「トゥーランドット」への劇音楽として書いた序曲に基づき、五音音階による異国風の旋律が特徴的である。第3楽章アンダンティーノは、ヴェーバーが1803年に書いた「6つのやさしい小品」の第2曲を、終楽章「行進曲」は再び作品60の素材を用いている。\n実はこの「トゥーランドット」序曲の五音音階の旋律自体、ヴェーバーがルソーの著作「音楽辞典」(1768年)に「中国の歌」として収められていた旋律から借用したものであり、西洋音楽が実在の中国の旋律を取り入れた早い例のひとつとされる。",
