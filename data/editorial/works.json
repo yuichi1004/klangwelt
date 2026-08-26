@@ -3729,6 +3729,16 @@
       "en": "It was composed in Vienna in 1789 and 1790 and premiered at the Burgtheater on 26 January 1790. The run was halted after just five performances by the death of Emperor Joseph II and the court mourning that followed, resuming that June through August; Mozart himself conducted one of the June performances."
     }
   },
+  "23503": {
+    "structure": {
+      "ja": "全4楽章。第1楽章冒頭は不協和音を重ねた序奏に始まり、曲名の由来となっている。ハイドンに献呈された6曲の弦楽四重奏曲集の掉尾を飾る作品で、古典派室内楽の到達点の一つとして高く評価されている。",
+      "en": "Four movements opening with a slow introduction built from piled-up dissonances that gave the quartet its nickname, closing a set of six string quartets dedicated to Haydn and widely regarded as a summit of Classical-era chamber music."
+    },
+    "story": {
+      "ja": "1785年1月に作曲され、翌月、モーツァルト邸で父レオポルトらとともに初演された。ハイドンに献呈された6曲の弦楽四重奏曲集の最後を飾る作品である。冒頭の大胆な不協和音は、後にある版画職人によって出版譜の誤植と誤解され、版元に突き返されたこともあったと伝えられる。",
+      "en": "Composed in January 1785, it premiered the following month at Mozart's own home with his father Leopold among the performers. It closes a set of six quartets dedicated to Haydn. Its bold opening dissonances were reportedly once mistaken by an engraver for a printing error, so unusual did they sound at the time."
+    }
+  },
   "23512": {
     "structure": {
       "ja": "全3楽章のピアノソナタで、いずれの楽章もソナタ形式をとらない点が異例である。第1楽章は主題と6つの変奏、第2楽章はメヌエット、終楽章が有名な「トルコ行進曲」である。\n終楽章は当時ウィーンで流行していたオスマン帝国の軍楽（ジャニチャリ音楽）を模した書き方で、太鼓や打楽器を思わせる和音の連打を、ピアノという単一楽器の書法に置き換えて表現している。",
@@ -3759,6 +3769,26 @@
       "en": "It was written in collaboration with the librettist and impresario Emanuel Schikaneder, a fellow member of Mozart's Masonic lodge, for the Theater auf der Wieden, which Schikaneder ran.\nIt premiered on 30 September 1791 and was an immediate hit. Mozart, however, died barely two months later, on 5 December that year, and did not live to see the opera's growing success."
     }
   },
+  "23574": {
+    "structure": {
+      "ja": "全3楽章。第1楽章には「アレグロ・アペルト」という珍しい速度標語が用いられている。終楽章のロンドは中間部でイ短調に転じ、拍子も変化してトルコ風の勇壮な行進曲風の音楽となることから愛称の由来となっている。",
+      "en": "Three movements opening with the rare marking \"Allegro aperto.\" The rondo finale's middle section shifts to A minor and a different meter, evoking the sound of Turkish janissary bands with vigorous, march-like rhythms that gave the concerto its popular nickname."
+    },
+    "story": {
+      "ja": "1775年、19歳のモーツァルトがザルツブルクで作曲した、5曲からなるヴァイオリン協奏曲群の最後を飾る作品である。演奏時間は約28分に及び、彼のヴァイオリン協奏曲の中で最も規模の大きい曲として知られる。後年、第2楽章の代わりとなる別のアダージョ楽章も新たに書いている。",
+      "en": "Mozart composed it in 1775 at nineteen in Salzburg, the last and longest of his five violin concertos, running to roughly twenty-eight minutes in performance. He later wrote an entirely separate alternative slow movement, a second Adagio, that could be substituted for the concerto's own middle movement whenever the occasion required it."
+    }
+  },
+  "23595": {
+    "structure": {
+      "ja": "キリエ、グローリア、クレド、サンクトゥス、ベネディクトゥス、アニュス・デイの全6曲からなるミサ曲。当時のザルツブルクの教会音楽の慣習に従い、ヴィオラを欠く編成で書かれ、2本のトランペットとティンパニが荘厳な響きを加えている。",
+      "en": "A setting of the Mass in six movements — Kyrie, Gloria, Credo, Sanctus, Benedictus, and Agnus Dei — scored, after the custom of Salzburg church music at the time, without violas, while pairs of trumpets and timpani lend the music a festive, solemn grandeur."
+    },
+    "story": {
+      "ja": "1779年3月に作曲され、同年の復活祭の主日、ザルツブルク大聖堂で初演されたとみられる。後年、戴冠式など各地の祝典音楽として好んで用いられるようになったことから「戴冠ミサ」の愛称で呼ばれるようになったが、この名が正確にいつ生まれたのかは今も定かでない。",
+      "en": "Composed in March 1779, it was most likely premiered that Easter Sunday at Salzburg Cathedral. It later came to be widely favored as festive music for coronations and thanksgiving services across Europe, earning it the nickname \"Coronation Mass,\" though exactly when that name first took hold remains unclear even today."
+    }
+  },
   "23610": {
     "structure": {
       "ja": "弦楽合奏（または弦楽五重奏）のための小夜曲で、現在よく演奏されるのは4楽章。自筆の主題目録には本来5楽章と記されているが、第2のメヌエットと組になる楽章の楽譜は失われており、理由も経緯もわかっていない。\n第1楽章はソナタ形式、第2楽章「ロマンス」は緩徐楽章、第3楽章は短いメヌエット、終楽章は快活なロンドで締めくくられる。夜の音楽らしい軽やかさと均整の取れた書法が特徴で、複雑な対位法や劇的な起伏をあえて避けた、飾らない書き方がなされている。",
@@ -3785,6 +3815,16 @@
       "en": "It was composed in Vienna between late September and early October 1791, written for his friend, the clarinettist Anton Stadler, and its solo part is written for the basset clarinet — an instrument specially built for Stadler with an extended lower range.\nIt premiered on 16 October that year in Prague, with Stadler as soloist. It was the second-to-last work Mozart ever completed, and — given his death on 5 December that year — the last instrumental work he finished."
     }
   },
+  "23637": {
+    "structure": {
+      "ja": "全4楽章。ト短調で書かれた、モーツァルトの現存する交響曲中でも屈指の激情的な性格を持つ作品である。通常は2本のところ、4本のホルンを用いる編成が特徴で、劇的な響きに厚みを加えている。第40番と同じ調性のため「小ト短調交響曲」と呼ばれる。",
+      "en": "Four movements in G minor, among the most intensely dramatic of Mozart's surviving symphonies, scored unusually for four horns rather than the customary two, adding weight and depth to its stormy character. Sharing its key with the later No. 40, it is nicknamed the \"Little G minor Symphony.\""
+    },
+    "story": {
+      "ja": "1773年10月、17歳のモーツァルトがザルツブルクで完成させた。初演の記録は残っていないが、同じ調性を持つ後年の第40番と並び、彼の短調交響曲を代表する傑作として今日広く知られている。近年では映画音楽としても用いられ、より一層親しまれるようになった。",
+      "en": "Mozart completed it in October 1773 at seventeen, in Salzburg. No record survives of its premiere, but alongside the later Symphony No. 40, written in the same key, it stands as one of his most celebrated works in a minor key, and has more recently reached wider audiences through film."
+    }
+  },
   "23646": {
     "structure": {
       "ja": "独唱四重唱、合唱と管弦楽のための宗教曲。彼が書き上げたのは冒頭の「入祭唱」のみで、続く「キリエ」以降は声楽部分と低音の素描が残された段階で中断している。現在よく演奏されるのは、弟子のジュスマイヤーが補筆完成させた版である。\n編成からヴァイオリン以外の高音木管が外され、バセットホルンとファゴット、トロンボーンが厚みを担う。この暗い音色が全体の性格を決めている。",
@@ -3805,6 +3845,36 @@
       "en": "It was commissioned during Mozart's return visit to Prague, for the theatre there. The librettist Da Ponte drew on Giovanni Bertati's libretto for an opera on the same subject, staged in Venice only months earlier that same year.\nComposition continued right up to the premiere, and the overture is said to have been finished only days beforehand. It premiered on 29 October 1787 at the theatre in Prague's Old Town, with Mozart himself conducting. A local critic wrote that connoisseurs and musicians alike said Prague had never heard anything like it."
     }
   },
+  "23723": {
+    "structure": {
+      "ja": "全4楽章。クラリネットと弦楽四重奏のための作品。終楽章は主題と5つの変奏からなり、メヌエットには性格の異なる2つのトリオが置かれている。当時のクラリネットの音域を生かした、温かみのある音色が全曲を特徴づけている。",
+      "en": "Four movements for clarinet and string quartet, the finale a theme with five variations, and the minuet framing two contrasting trios. Written for the clarinet of Mozart's day, the writing draws out a warm, mellow color that colors the whole work."
+    },
+    "story": {
+      "ja": "1789年9月に完成され、同年12月、ウィーンの音楽家協会の演奏会で、クラリネット奏者アントン・シュタードラーと作曲者自身のヴィオラにより初演された。シュタードラーとの親交から生まれた作品で、モーツァルトは翌年の手紙の中で、この曲を「シュタードラーの五重奏曲」と呼んでいる。",
+      "en": "Completed in September 1789, it premiered that December in Vienna at a concert of the Tonkünstler-Societät, with clarinetist Anton Stadler and Mozart himself playing viola. Born of their close friendship, the work is one Mozart himself affectionately called the \"Stadler Quintet\" in a personal letter he wrote the following spring."
+    }
+  },
+  "23752": {
+    "structure": {
+      "ja": "アンダンテに始まり、アダージョ、プレストと速度を目まぐるしく変えながら進む単一楽章の幻想曲。全体はニ短調で統一され、即興的な性格を色濃く帯びている。演奏時間は5、6分ほどの小品である。",
+      "en": "A single-movement fantasia in D minor that shifts restlessly in tempo — from Andante through Adagio and Presto and back again — with an improvisatory, free-flowing character throughout. A brief work, it typically lasts only five or six minutes in performance."
+    },
+    "story": {
+      "ja": "1782年に作曲された。自筆譜の末尾が失われているため、曲は未完のまま後世に伝わっており、今日一般的に演奏される結びの部分は、モーツァルトを敬愛したある音楽家の手による補筆とされる。未完成にもかかわらず、彼のピアノ独奏曲の中でもとりわけ愛されている一曲である。",
+      "en": "Composed in 1782, the work survives incomplete: the closing pages of the autograph score are lost, and the ending commonly heard today is a later completion by another musician who admired Mozart, not Mozart's own hand. Despite its unfinished state, it remains one of his most beloved solo piano pieces."
+    }
+  },
+  "23779": {
+    "structure": {
+      "ja": "全3楽章。第2楽章では通常のオーボエに代えてフルートが用いられ、5曲あるヴァイオリン協奏曲の中でも独自の響きを持つ。終楽章のロンドには民謡風の舞曲の旋律が挿入され、愛称の由来となっている。",
+      "en": "Three movements, the second replacing the usual oboes with flutes for a distinctive color found in none of Mozart's other four violin concertos. The rondo finale weaves in a folk-like dance tune that gave the concerto its popular nickname."
+    },
+    "story": {
+      "ja": "1775年9月、19歳のモーツァルトがザルツブルクで作曲した。終楽章に挿入された舞曲風の旋律が、当時流行していたある曲を思わせることから「シュトラースブルク協奏曲」と呼ばれるようになったといい、モーツァルト自身も手紙の中でこの呼び名を用いている。",
+      "en": "Mozart composed it in September 1775 at nineteen, in Salzburg. A folk-dance tune woven into the finale reportedly recalled a popular melody widely known at the time, earning the work the nickname \"Strasbourg Concerto\" — a name Mozart himself is known to have used in one of his own letters."
+    }
+  },
   "23812": {
     "structure": {
       "ja": "全4幕の歌劇(オペラ・ブッファ)。伯爵に仕える従者フィガロと小間使いスザンナの結婚をめぐり、彼らの婚礼の権利を狙う伯爵の思惑を、当人たちが機知で出し抜いていく一日の騒動を描く。\n序曲は独立した演奏会用序曲としても人気が高く、劇の内容とは直接結びつかない快活なソナタ形式で書かれている。「手紙の二重唱」など、複数の登場人物の思惑が同時進行するアンサンブルの場面が随所にある。",
@@ -3813,6 +3883,26 @@
     "story": {
       "ja": "ボーマルシェの戯曲「フィガロの結婚」を原作とする。この戯曲は、召使いが知恵で主人を出し抜く筋書きが貴族社会への風刺と受け取られ、オーストリアでは上演が禁じられていた。\n台本作家ダ・ポンテはこうした政治色を薄め、フィガロが第4幕で貴族を糾弾する独白を、女性の移り気を嘆く場面に置き換えるなど内容を穏当にすることで、皇帝ヨーゼフ2世の上演許可を取り付けた。初演は1786年5月1日、ウィーンのブルク劇場でおこなわれ、初日だけで5回のアンコールが起きたと伝えられる。",
       "en": "It is based on Beaumarchais's play The Marriage of Figaro, banned in Austria at the time because its plot — servants outwitting their masters through wit alone — was read as a satire on the aristocracy.\nThe librettist Da Ponte defused the politics, replacing Figaro's Act 4 tirade against the nobility with a lament about the fickleness of women, among other changes, and secured Emperor Joseph II's permission to stage it. It premiered on 1 May 1786 at the Burgtheater in Vienna, and the opening night is said to have drawn five encores."
+    }
+  },
+  "23838": {
+    "structure": {
+      "ja": "全3楽章。ヴァイオリンとヴィオラの2つの独奏楽器のための協奏交響曲。ヴィオラ独奏者は実音より半音高く調弦する「変則調弦」を用いることで、より明るく通る音色を得るよう指定されている。",
+      "en": "Three movements for a pair of soloists, violin and viola, in a hybrid of symphony and concerto. The solo viola is written to be tuned a half-step sharp of normal pitch, a scordatura intended to give it a brighter, more penetrating tone against the orchestra."
+    },
+    "story": {
+      "ja": "1779年、パリとマンハイムへの旅から戻ったモーツァルトが、故郷ザルツブルクで作曲した。初演の記録は残っていないが、独奏ヴァイオリンと独奏ヴィオラを対等に扱う書法は高く評価されており、今日でも彼の協奏的作品の中でもとりわけ人気が高い一曲である。",
+      "en": "Mozart wrote it in 1779 after returning to his native Salzburg from his travels to Paris and Mannheim. No record survives of its premiere, but its writing, treating the solo violin and solo viola as equal partners, is highly admired, and it remains one of his most popular concertante works today."
+    }
+  },
+  "23860": {
+    "structure": {
+      "ja": "全3楽章、2台のピアノのための作品。両パートの旋律線が絡み合い、終止も同時に迎える緻密な書法が特徴で、モーツァルトが残した数少ない2台ピアノ作品の一つである。終楽章には軽快に駆けるような主題が現れる。",
+      "en": "Three movements for two pianos, the two parts interweaving closely and reaching their cadences together in a tightly wrought texture — one of Mozart's few works for two keyboards. The finale features a bright, galloping theme that dashes along throughout."
+    },
+    "story": {
+      "ja": "1781年、ウィーンで作曲され、弟子ヨゼファ・アウエルンハンマーとの演奏のために書かれたとみられる。後年、別の弟子バルバラ・プロイヤーとも共演したことが知られている。20世紀末には、この曲を聴くことで一時的に空間認識能力が高まるとする俗説「モーツァルト効果」の実験にも用いられたが、後の追試では再現性に乏しいとされている。",
+      "en": "Composed in Vienna in 1781, apparently written for a performance with his pupil Josepha Auernhammer, and later performed with another pupil, Barbara Ployer. In the late twentieth century it became the piece used in the widely popularized \"Mozart effect\" study, whose claimed cognitive benefits later studies largely failed to replicate."
     }
   },
   "23917": {
