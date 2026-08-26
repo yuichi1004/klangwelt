@@ -8,5 +8,25 @@
       "ja": "台本作家アレッサンドロ・ストリッジョ(子)との共作で、マントヴァ宮廷の毎年恒例のカーニヴァル余興のために書かれた。初演は1607年、マントヴァでおこなわれている。\nオペラという形式そのものの誕生は、これに先立つヤーコポ・ペーリの「ダフネ」に帰されるが、その楽譜は失われており、現存する最古のオペラで、かつ今日でも定期的に上演され続けている最初の作品として、この曲が挙げられる。",
       "en": "Written with the librettist Alessandro Striggio the Younger, it was composed for the annual Carnival entertainment at the Mantuan court and premiered there in 1607.\nThe birth of opera as a form is usually credited to Jacopo Peri's earlier Dafne, but that score is lost; this work stands instead as the earliest surviving opera, and the earliest still regularly performed today."
     }
+  },
+  "3107": {
+    "structure": {
+      "ja": "台本はジョヴァンニ・フランチェスコ・ブゼネッロ、プロローグと全3幕から成る。皇帝ネローネと愛人ポッペアが結ばれるまでを、皇后オッターヴィアや廷臣オットーネらの悲劇とともに描く、モンテヴェルディ最後のオペラである。",
+      "en": "The libretto is by Giovanni Francesco Busenello, in a prologue and three acts. Monteverdi's final opera traces Emperor Nero's pursuit of his mistress Poppea to the throne, entwined with the tragedies of Empress Ottavia and the courtier Ottone."
+    },
+    "story": {
+      "ja": "初演は1642年から翌年にかけての謝肉祭期間、ヴェネツィアのサンティ・ジョヴァンニ・エ・パオロ劇場で行われたとされるが、正確な日付は伝わっていない。作曲者自身の自筆譜は現存せず、現存する2種の写本の間には食い違いがあり、一部の場面はフランチェスコ・サクラーティやカヴァッリの手が入っている可能性も指摘されている(UNCERTAIN)。",
+      "en": "The premiere is thought to have taken place during the Carnival season of 1642 into the following year, at Venice's Teatro Santi Giovanni e Paolo, though the exact date is unrecorded. No autograph score survives, and the two surviving manuscripts disagree in places; some scenes may involve the hands of Francesco Sacrati or Cavalli (UNCERTAIN)."
+    }
+  },
+  "3291": {
+    "structure": {
+      "ja": "応唱、詩篇5篇、モテット4曲、連祷用ソナタ、7節から成る「めでたし海の星」、そしてマニフィカト2篇からなる、演奏時間約90分の大規模な宗教音楽集。最大10声の合唱と7名の独唱、コルネットやヴィオラ・ダ・ブラッチョを含む器楽を要する。",
+      "en": "A large-scale sacred collection lasting roughly ninety minutes: a responsory, five psalms, four motets, a sonata for the litany, the seven-verse 'Ave Maris Stella,' and two settings of the Magnificat, scored for up to ten-voice choir, seven soloists, and instruments including cornetto and viola da braccio."
+    },
+    "story": {
+      "ja": "1610年、ヴェネツィアの出版者リッチャルド・アマディーノより出版され、教皇パウロ5世に献呈された。作曲者の存命中に演奏された記録は確認されておらず、1613年にサン・マルコ大聖堂楽長に就任した後に同教会で演奏された可能性が指摘されるにとどまる(UNCERTAIN)。",
+      "en": "Published in Venice in 1610 by Ricciardo Amadino and dedicated to Pope Paul V, with the dedication dated 1 September of that year, the collection has no confirmed performance record from the composer's lifetime; it may have been performed at St Mark's after his appointment as maestro di cappella there in 1613, though this remains unconfirmed (UNCERTAIN)."
+    }
   }
 }

@@ -519,6 +519,16 @@
       "en": "The ballet grew out of a smaller pantomime, 'El corregidor y la molinera,' composed in 1916–17, which Sergei Diaghilev urged Falla to expand. The enlarged ballet was premiered by the Ballets Russes in July 1919 at the Alhambra Theatre in London, with choreography by Léonide Massine and set and costume designs by Pablo Picasso."
     }
   },
+  "3107": {
+    "structure": {
+      "ja": "台本はジョヴァンニ・フランチェスコ・ブゼネッロ、プロローグと全3幕から成る。皇帝ネローネと愛人ポッペアが結ばれるまでを、皇后オッターヴィアや廷臣オットーネらの悲劇とともに描く、モンテヴェルディ最後のオペラである。",
+      "en": "The libretto is by Giovanni Francesco Busenello, in a prologue and three acts. Monteverdi's final opera traces Emperor Nero's pursuit of his mistress Poppea to the throne, entwined with the tragedies of Empress Ottavia and the courtier Ottone."
+    },
+    "story": {
+      "ja": "初演は1642年から翌年にかけての謝肉祭期間、ヴェネツィアのサンティ・ジョヴァンニ・エ・パオロ劇場で行われたとされるが、正確な日付は伝わっていない。作曲者自身の自筆譜は現存せず、現存する2種の写本の間には食い違いがあり、一部の場面はフランチェスコ・サクラーティやカヴァッリの手が入っている可能性も指摘されている(UNCERTAIN)。",
+      "en": "The premiere is thought to have taken place during the Carnival season of 1642 into the following year, at Venice's Teatro Santi Giovanni e Paolo, though the exact date is unrecorded. No autograph score survives, and the two surviving manuscripts disagree in places; some scenes may involve the hands of Francesco Sacrati or Cavalli (UNCERTAIN)."
+    }
+  },
   "3174": {
     "structure": {
       "ja": "全5幕(プロローグ付き)の音楽劇。当時としては大規模な、フルート・コルネット・トランペット・トロンボーン・弦楽器・鍵盤楽器を含む約40の楽器からなる編成が用いられ、劇的な場面に応じて楽器を使い分けるという、それまでのオペラには見られなかった精緻な指定がなされている。\n題材は、竪琴の名手オルフェオが、死んだ妻エウリディーチェを取り戻すために冥界へ下る、ギリシャ神話の物語である。",
@@ -527,6 +537,16 @@
     "story": {
       "ja": "台本作家アレッサンドロ・ストリッジョ(子)との共作で、マントヴァ宮廷の毎年恒例のカーニヴァル余興のために書かれた。初演は1607年、マントヴァでおこなわれている。\nオペラという形式そのものの誕生は、これに先立つヤーコポ・ペーリの「ダフネ」に帰されるが、その楽譜は失われており、現存する最古のオペラで、かつ今日でも定期的に上演され続けている最初の作品として、この曲が挙げられる。",
       "en": "Written with the librettist Alessandro Striggio the Younger, it was composed for the annual Carnival entertainment at the Mantuan court and premiered there in 1607.\nThe birth of opera as a form is usually credited to Jacopo Peri's earlier Dafne, but that score is lost; this work stands instead as the earliest surviving opera, and the earliest still regularly performed today."
+    }
+  },
+  "3291": {
+    "structure": {
+      "ja": "応唱、詩篇5篇、モテット4曲、連祷用ソナタ、7節から成る「めでたし海の星」、そしてマニフィカト2篇からなる、演奏時間約90分の大規模な宗教音楽集。最大10声の合唱と7名の独唱、コルネットやヴィオラ・ダ・ブラッチョを含む器楽を要する。",
+      "en": "A large-scale sacred collection lasting roughly ninety minutes: a responsory, five psalms, four motets, a sonata for the litany, the seven-verse 'Ave Maris Stella,' and two settings of the Magnificat, scored for up to ten-voice choir, seven soloists, and instruments including cornetto and viola da braccio."
+    },
+    "story": {
+      "ja": "1610年、ヴェネツィアの出版者リッチャルド・アマディーノより出版され、教皇パウロ5世に献呈された。作曲者の存命中に演奏された記録は確認されておらず、1613年にサン・マルコ大聖堂楽長に就任した後に同教会で演奏された可能性が指摘されるにとどまる(UNCERTAIN)。",
+      "en": "Published in Venice in 1610 by Ricciardo Amadino and dedicated to Pope Paul V, with the dedication dated 1 September of that year, the collection has no confirmed performance record from the composer's lifetime; it may have been performed at St Mark's after his appointment as maestro di cappella there in 1613, though this remains unconfirmed (UNCERTAIN)."
     }
   },
   "3382": {
@@ -859,6 +879,26 @@
       "en": "Composed around 1515, near the end of his life, it is thought to be his final mass. The 'Do-Re-Fa-Mi-Re-Do' motif that opens the Kyrie left a lasting mark on later music, echoed in fugal writing by Bach and, some have suggested, in the finale theme of Mozart's 'Jupiter' Symphony. The score itself was not published until after the composer's death."
     }
   },
+  "4410": {
+    "structure": {
+      "ja": "台本はカルロ・ペーポリ伯爵による、清教徒革命期のイングランドを舞台にした悲恋劇。当初全2幕で書かれたが、ロッシーニの助言により全3幕に改められた。初演は「プリターニ四重唱団」と呼ばれたグリージ、ルビーニ、タンブリーニ、ラブラーシュの4人の名歌手が務めた。",
+      "en": "A libretto by Count Carlo Pepoli, set amid England's Puritan Revolution, was originally composed in two acts and revised into three on Rossini's advice. Its premiere starred the celebrated 'Puritani quartet' — Giulia Grisi, Giovanni Battista Rubini, Antonio Tamburini, and Luigi Lablache."
+    },
+    "story": {
+      "ja": "1834年から翌年にかけて作曲され、1835年1月24日、パリのイタリア劇場で初演。熱狂的に迎えられ、同シーズン中に17回も上演された。ベッリーニが完成させた最後の作品となり、彼自身はその年の9月、33歳で世を去ったため、この輝かしい成功を長くは味わえなかった。",
+      "en": "Composed between 1834 and 1835, the opera premiered on 24 January 1835 at the Théâtre Italien in Paris to rapturous acclaim, receiving seventeen performances that same season. It proved to be Bellini's last completed work: he died that September, at the age of thirty-three, leaving him little time to savor the triumph."
+    }
+  },
+  "4422": {
+    "structure": {
+      "ja": "台本はフェリーチェ・ロマーニによる、1827年にパリで上演されたバレエ・パントマイムに基づく、全2幕のオペラ・セミセリア。舞台となる村の祝祭では、実際の軍楽隊が舞台上に登場する演出が特徴となっている。",
+      "en": "A libretto by Felice Romani, based on a ballet-pantomime staged in Paris in 1827, forms this two-act opera semiseria set in a Swiss Alpine village. A distinctive touch has an actual military band appear onstage during the festival scene."
+    },
+    "story": {
+      "ja": "1831年3月6日、ミラノのカルカーノ劇場で初めて舞台にかけられた。ヒロインのアミーナをジュディッタ・パスタ、恋人エルヴィーノ役をジョヴァンニ・バッティスタ・ルビーニが歌い、いずれも当時屈指の歌手として知られていた。この上演に立ち会ったグリンカは、第2幕で歌手たちが涙ぐみながら歌う様子に心を打たれたと記している。終幕のアリアはベッリーニの墓碑にも刻まれている。",
+      "en": "Premiered on 6 March 1831 at Milan's Teatro Carcano, with Giuditta Pasta and Giovanni Battista Rubini in the leads, the opera was seen by Glinka, who wrote that the singers seemed overcome with emotion in Act Two. A line from the final aria is inscribed on Bellini's tomb in his native Catania."
+    }
+  },
   "4432": {
     "structure": {
       "ja": "全2幕の歌劇。古代ガリアを占領するローマに対し、密かに恋人であるローマの総督ポリオーネとの間に2児をもうけたドルイド僧の巫女ノルマの、愛と信仰の板挟みを描く。\n第1幕でノルマが歌う「清らかな女神よ」は、長い息と装飾的な旋律を要求する難曲として知られ、ベルカント様式を代表するアリアのひとつとされる。",
@@ -1137,6 +1177,16 @@
     "story": {
       "ja": "1912年3月から7月にかけて作曲され、この作品を自ら企画したとされる元女優アルベルティーネ・ツェーメの独唱（ピエロの衣装で登場）により、同年10月にベルリンで作曲者自身の指揮で初演された。初演までに約40回のリハーサルが重ねられ、聴衆の一部は敵意ある反応を示す一方、若い世代からは熱狂的に支持されたと伝えられる。",
       "en": "Composed between March and July 1912, it was premiered that October in Berlin, with the former actress Albertine Zehme, dressed as Pierrot, as reciter, and the composer himself conducting. The premiere followed roughly forty rehearsals; some in the audience reacted with hostility, while younger listeners are said to have received it with enthusiasm."
+    }
+  },
+  "5978": {
+    "structure": {
+      "ja": "弦楽五重奏曲(第2ヴァイオリン、ヴィオラ、チェロ2挺)、全4楽章(アモローソ、アレグロ・エ・コン・スピリト、トリオ付きメヌエット、ロンド)。第3楽章のメヌエットは、単独でも頻繁に演奏される有名な旋律として知られる。",
+      "en": "A string quintet for two violins, viola, and two cellos — reflecting Boccherini's own instrument — in four movements: Amoroso, Allegro e con spirito, a Minuet with trio, and a Rondo. The Minuet, in A major turning to D major, is often performed on its own."
+    },
+    "story": {
+      "ja": "1771年に作曲され、パリの出版者ヴェニエによって1775年頃に初めて出版された。作品番号には作品11の5番、作品13の5番という2通りの表記が伝わる。有名な「メヌエット」は当時さほど注目されなかったが、後年になって単独の小品として広く親しまれるようになり、鈴木鎮一のヴァイオリン教本などにも収められている。",
+      "en": "Composed in 1771 and first published around 1775 by the Paris publisher Venier, the work is known under two conflicting opus numbers, 11 No. 5 and 13 No. 5. The famous 'Minuet' attracted little notice at the time but later became widely loved as a standalone piece, later included in Shinichi Suzuki's violin teaching method."
     }
   },
   "6209": {
@@ -2229,6 +2279,26 @@
       "en": "It is based on Walter Scott's novel The Bride of Lammermoor, itself said to draw on a real incident of 1669, in which a Scottish noblewoman wounded her bridegroom on their wedding night, went mad, and died within a month.\nCommissioned by the Teatro di San Carlo in Naples in May 1835, Donizetti composed it in a remarkably short two months, finishing on 6 July. It premiered at the same theatre on 26 September that year, to great success."
     }
   },
+  "10562": {
+    "structure": {
+      "ja": "台本はジュール゠アンリ・ヴェルノワ・ド・サン゠ジョルジュとジャン゠フランソワ・バヤールによる、全2幕のオペラ・コミック。第1幕、トニオが歌うアリア「ああ、友よ」には高いドの音が楽譜上8つ書かれており、演奏の慣習で加えられる「9つ目」は伝説にすぎない(UNCERTAIN)。",
+      "en": "Vernoy de Saint-Georges and Bayard co-wrote the two-act libretto. Its best-known moment, Tonio's Act One aria 'Ah! mes amis,' has a reputation for nine punishing top Cs — though Donizetti's own score asks for only eight, a myth inflated by performers over time (UNCERTAIN)."
+    },
+    "story": {
+      "ja": "1840年2月11日、パリのオペラ・コミック座(ブルス劇場)で初演。しかしテノール歌手の音程に難があったとされ、批評家ベルリオーズも辛辣な評を書くなど、初演の評判は芳しくなかった。イタリア語版はカリスト・バッシによる翻訳で、ドニゼッティ自身が新たにレチタティーヴォを作曲している。",
+      "en": "Premiered on 11 February 1840 at the Salle de la Bourse in Paris, home of the Opéra-Comique, the reception was poor: the tenor reportedly struggled with intonation, and the critic Hector Berlioz wrote a scathing review. An Italian version, translated by Calisto Bassi, features new recitatives that Donizetti composed himself for Italian audiences."
+    }
+  },
+  "10583": {
+    "structure": {
+      "ja": "台本はフェリーチェ・ロマーニによる全2幕のメロドランマ・ジョコーソ。舞台は18世紀末、バスク地方のとある村。オーベールの歌劇「媚薬」のためにスクリーブが書いた台本を下敷きに、わずか6週間ほどで書き上げられたとされる。",
+      "en": "A two-act melodramma giocoso with a libretto by Felice Romani, set in a Basque village in the late eighteenth century. It draws on the libretto Scribe had written for Auber's opera 'Le philtre,' and is said to have been composed in only about six weeks."
+    },
+    "story": {
+      "ja": "1832年5月12日、ミラノのカノッビアーナ劇場で、アレッサンドロ・ロッラの指揮により初演された。翌年、ミラノのリコルディ社から出版されている。第2幕でネモリーノが歌うロマンツァ「人知れぬ涙」は、この作品でもっとも知られた旋律として、今なお世界中で愛されている。",
+      "en": "The opera premiered on 12 May 1832 at Milan's Teatro della Canobbiana, conducted by Alessandro Rolla, and was published the following year by Ricordi in Milan. The romanza 'Una furtiva lagrima,' sung by Nemorino in Act Two, remains the opera's best-known melody, cherished by audiences around the world to this day."
+    }
+  },
   "10694": {
     "structure": {
       "ja": "全9楽章から成るレクイエムで、旋律の大部分がグレゴリオ聖歌に由来する。「怒りの日」をほぼ用いず「慈しみ深きイエスよ」を残し、「われを解き放ちたまえ」と「楽園にて」を含める構成は、フォーレのレクイエムと共通し、慰めに満ちた性格を作品全体に与えている。",
@@ -2519,6 +2589,16 @@
       "en": "Pergolesi wrote it in 1736, in his final weeks, dying of tuberculosis, while convalescing at a Franciscan friary in Pozzuoli near Naples, where he died at the age of twenty-six. It was commissioned by a Neapolitan confraternity, the Knights of the Virgin of Sorrows, who had previously used a setting of the same text by Alessandro Scarlatti, composed in the 1720s and performed through 1735, but had come to consider it old-fashioned and sought a new setting from Pergolesi instead.\nAfter his death the work spread rapidly; first published in London in 1749, it is said to have become one of the most frequently reprinted pieces of music of the entire eighteenth century."
     }
   },
+  "13886": {
+    "structure": {
+      "ja": "ジェンナーロ・フェデリーコの台本による、全2部から成る幕間劇(インテルメッツォ)。序曲を持たず、演奏時間は約40分。登場人物は横暴な主人ウベルト、小間使いセルピーナ、そして一言も発しない使用人ヴェスポーネの3人のみで、弦楽と通奏低音のみで演奏される。",
+      "en": "An intermezzo in two parts with a libretto by Gennaro Federico, lasting about forty minutes and lacking a formal overture. Just three characters appear — the blustering master Uberto, his maid Serpina, and the mute servant Vespone — accompanied only by strings and continuo."
+    },
+    "story": {
+      "ja": "1733年9月5日、ナポリのサン・バルトロメオ劇場で初演。ペルゴレージ自身のオペラ・セリア「高慢な囚人」の幕間に上演される作品として書かれ、皇后エリーザベト・クリスティーネの誕生日に合わせた可能性も指摘される(UNCERTAIN)。今日では終幕の二重唱を、1735年の自作「イル・フラミニオ」からの曲に差し替えて上演する伝統がある。",
+      "en": "Premiered on 5 September 1733 at the Teatro San Bartolomeo in Naples, the intermezzo was written to be performed between the acts of Pergolesi's own opera seria 'Il prigioniero superbo,' possibly timed to Empress Elisabeth Christina's birthday (UNCERTAIN). Performances today often substitute the closing duet with one drawn from his 1735 work 'Il Flaminio.'"
+    }
+  },
   "14083": {
     "structure": {
       "ja": "3つのヴァイオリンと通奏低音のための作品で、カノン（各声部が同じ旋律を一定の間隔で追いかける手法）とジーグの2曲からなるが、演奏・録音されるのはほぼ常にカノンの部分だけである。\n通奏低音は全曲を通じて同じ2小節の低音型を28回繰り返し続け、その上で3声のヴァイオリンが8小節の主題を輪唱のように重ねていく。和声はほとんど動かず、変化は声部が徐々に増え、音型が細かくなっていく過程そのものにある。",
@@ -2577,6 +2657,16 @@
     "story": {
       "ja": "1887年に作曲され、同年10月31日、サンクトペテルブルクで帝室歌劇場管弦楽団を相手にリムスキー=コルサコフ自身の指揮により初演された。献呈を受けたのはこの楽団の奏者たちであった。批評家から「見事な管弦楽法の妙技」に過ぎないと評されたことに、作曲家自身は不満を示したと伝えられる。",
       "en": "Composed in 1887, the work premiered that October in Saint Petersburg, with Rimsky-Korsakov himself conducting the Imperial Opera orchestra, to whose musicians the piece is dedicated. He reportedly bristled at critics who dismissed it as mere brilliant orchestration, insisting that its real substance lay in its melodic and rhythmic invention."
+    }
+  },
+  "14307": {
+    "structure": {
+      "ja": "台本はフランソワ゠ブノワ・オフマンによる、エウリピデスに基づく全3幕の悲劇。当初は台詞を伴うオペラ・コミック形式で書かれた。コリントスを舞台に、裏切った夫イアソンへの復讐として、メデが我が子を手にかけるまでを描く。",
+      "en": "A three-act tragedy with a libretto by François-Benoît Hoffman after Euripides, originally composed as an opéra comique with spoken dialogue. Set in Corinth, it follows Medea's revenge against her unfaithful husband Jason, culminating in the killing of their own children."
+    },
+    "story": {
+      "ja": "1797年3月13日、パリのフェイドー劇場で初演され、ジュリー゠アンジェリック・シオとピエール・ガヴォーが主演した。作曲家エティエンヌ・メユールに献呈され、木管を効果的に用いた序曲でも知られる。初演時の評価は振るわず長く上演機会を失ったが、20世紀に入り、ある伝説的な歌手による上演を機に再評価が進んだと伝えられる(UNCERTAIN)。",
+      "en": "The lead roles at the premiere, on 13 March 1797 at Paris's Théâtre Feydeau, went to Julie-Angélique Scio and Pierre Gaveaux. Cherubini dedicated the score to Étienne Méhul, and its overture is prized for its striking use of the winds. Poorly received at the time, it fell into decades of neglect, only to be revived in the twentieth century by one legendary singer, so the story goes (UNCERTAIN)."
     }
   },
   "14347": {
@@ -3409,6 +3499,16 @@
       "en": "Puccini died suddenly in Brussels in November 1924, where he had gone for treatment of throat cancer, leaving the opera unfinished. He had completed the score up to the death of the servant girl Liù, but left only fragmentary sketches for the rest.\nAt his family's wishes, the composer Franco Alfano completed the final scene from those sketches, and the finished version reached the stage in 1926. The conductor Toscanini reportedly stopped that first performance where Puccini's own music ended and told the audience: \"Here the maestro laid down his pen.\""
     }
   },
+  "16503": {
+    "structure": {
+      "ja": "18世紀に刊行されたアベ・プレヴォーの小説を原作とする全4幕のオペラ。台本は最終的に複数の手を経て成立し、初版の総譜には台本作者の名が記されていない。舞台はアミアン、パリ、ル・アーヴル、そしてニューオーリンズと移り変わる。",
+      "en": "A four-act opera based on the Abbé Prévost's eighteenth-century novel. Its libretto passed through several hands before completion, and the published score's original edition credits no librettist by name. The action moves from Amiens to Paris, Le Havre, and finally New Orleans."
+    },
+    "story": {
+      "ja": "1889年から92年にかけて作曲され、プッチーニ3作目のオペラとなった。1893年2月1日、トリノのレージョ劇場でアレッサンドロ・ポメの指揮により初演され、フェッラーニとクレモニーニが主演を務めた。この作品でプッチーニは初めて大きな成功を収めることになった。",
+      "en": "Composed between 1889 and the following year, this was Puccini's third opera. It premiered on 1 February 1893 at the Teatro Regio in Turin, conducted by Alessandro Pomé, with Cesira Ferrani and Giuseppe Cremonini in the leading roles, and it marked Puccini's first major success, establishing him as a rising force in Italian opera."
+    }
+  },
   "16515": {
     "structure": {
       "ja": "歌劇「トゥーランドット」第3幕でカラフが歌うテノールのアリア。冷酷な皇女の心を得るため、誰も眠ってはならないという布告が出された夜、カラフが自らの勝利を確信して歌う場面である。\n静かに語りかけるように始まった旋律は次第に高揚し、最高音での「勝利するのは私だ」という一節に向けて音楽全体が盛り上がっていく、劇的な構成をとる。",
@@ -4199,6 +4299,16 @@
       "en": "The idea goes back to around the turn of the century, initially planned as a two-part work about an artist's tragedy titled \"The Antichrist: An Alpine Symphony\" — the first half of that title borrowed from a 1888 essay by Nietzsche, reflecting Strauss's fascination with the philosopher at the time.\nThe second half of that plan was never written, and the title's first half was eventually dropped, leaving the single-movement work known simply as An Alpine Symphony, composed between 1911 and 1915. It premiered on 28 October 1915 at the old Philharmonie in Berlin, with the composer himself leading the Dresden Court Orchestra."
     }
   },
+  "19884": {
+    "structure": {
+      "ja": "16世紀から17世紀にかけてのリュート曲を管弦楽用に編曲した組曲。フルート2、オーボエ2、コーラングレ、ファゴット2、ホルン2、トランペット、ハープ、チェンバロと弦楽で演奏される。",
+      "en": "A suite of sixteenth- and seventeenth-century lute pieces arranged for modern orchestra in four movements, scored for two flutes, two oboes, English horn, two bassoons, two horns, trumpet, harp, harpsichord, and strings, reflecting Respighi's antiquarian interest in early music."
+    },
+    "story": {
+      "ja": "1917年に作曲された。第1曲「イル・コンテ・オルランド」はシモーネ・モリナーロが16世紀末に編んだ曲集に、第2曲のガリアルダはヴィンチェンツォ・ガリレイの旋律に基づく。第3曲のヴィッラネッラと第4曲のパッソメッツォ・エ・マスケラーダは、いずれも作者不詳の16世紀末の旋律による。",
+      "en": "Composed in 1917, the suite draws its first movement, a balletto titled 'Il Conte Orlando,' from a collection assembled by Simone Molinaro at the end of the sixteenth century, and its second, a gagliarda, from a melody by Vincenzo Galilei. The third and fourth movements set anonymous melodies from the same late-sixteenth-century period."
+    }
+  },
   "19898": {
     "structure": {
       "ja": "全4楽章の交響詩。それぞれローマの異なる場所に立つ松の木を情景とし、「ボルゲーゼ荘の松」「カタコンベ付近の松」「ジャニコロの松」「アッピア街道の松」という標題が付けられている。\n第3楽章では、実際に録音されたナイチンゲールの鳴き声を再生する指示が楽譜に書き込まれており、当時としては異例の試みだった。前作「ローマの噴水」が自然の印象を音で再現しようとしたのに対し、この曲では自然の情景を出発点として記憶や幻視を呼び起こすことを狙ったと作曲者自身が説明している。",
@@ -4207,6 +4317,16 @@
     "story": {
       "ja": "構想から着手、中断を経て何年もかけて練られた末、1924年の夏に完成した。ローマを主題とした3部作交響詩の2作目で、1916年の「ローマの噴水」に続き、1928年の「ローマの祭り」へとつながる。\n初演は同年12月14日、ベルナルディーノ・モリナーリ指揮アウグステオ管弦楽団によりおこなわれた。",
       "en": "Conceived, begun, set aside and returned to over several years, it was finally finished in the summer of 1924. It is the second of his trilogy of Roman tone poems, following Fountains of Rome (1916) and preceding Feste Romane (1928).\nIt premiered on 14 December that year, conducted by Bernardino Molinari with the Augusteo Orchestra."
+    }
+  },
+  "19906": {
+    "structure": {
+      "ja": "「ローマの噴水」「ローマの松」に続く「ローマ三部作」の最後を飾る作品。「チルチェンセス」「五十年祭」「十月祭」「主顕祭前夜」の全4部から成り、剣闘士の死闘やローマの民衆の祝祭など、多彩な情景が管弦楽で描かれる。",
+      "en": "The final panel of Respighi's 'Roman Trilogy,' following 'Fountains of Rome' and 'Pines of Rome.' Its four parts — 'Circuses,' 'The Jubilee,' 'The October Festival,' and 'Epiphany' — depict scenes ranging from gladiators' combat to the festive crowds of Rome, all vividly rendered by the orchestra."
+    },
+    "story": {
+      "ja": "作曲は1928年、初演は翌1929年、指揮アルトゥーロ・トスカニーニ、ニューヨーク・フィルハーモニックによってニューヨークのカーネギーホールで行われ、出版も同年、リコルディ社からなされた。「ローマの噴水」「ローマの松」の前2作と比べると成功度で劣ると評されることが多い一方、指揮者ヤン・パスカル・トルトゥリエはその管弦楽法の洗練を称賛したとされる(UNCERTAIN)。",
+      "en": "Composed in 1928, the work was premiered the following year at Carnegie Hall in New York by Arturo Toscanini and the New York Philharmonic, and published that same year by Ricordi. It is often judged less successful than its two predecessors, though the conductor Yan Pascal Tortelier praised its sophisticated orchestration (UNCERTAIN)."
     }
   },
   "19915": {

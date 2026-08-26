@@ -8,5 +8,25 @@
       "ja": "スコットランドの作家ウォルター・スコットの小説「ラマモーアの花嫁」に基づく。原作自体、1669年にスコットランドの貴族の娘が結婚初夜に花婿を傷つけて発狂し、1か月後に亡くなったという実話に着想を得ているとされる。\n1835年5月、ナポリのサン・カルロ劇場からの依頼を受け、ドニゼッティはわずか2か月というきわめて短い期間で作曲し、7月6日に書き上げた。初演は同年9月26日、同劇場でおこなわれ、大成功を収めている。",
       "en": "It is based on Walter Scott's novel The Bride of Lammermoor, itself said to draw on a real incident of 1669, in which a Scottish noblewoman wounded her bridegroom on their wedding night, went mad, and died within a month.\nCommissioned by the Teatro di San Carlo in Naples in May 1835, Donizetti composed it in a remarkably short two months, finishing on 6 July. It premiered at the same theatre on 26 September that year, to great success."
     }
+  },
+  "10562": {
+    "structure": {
+      "ja": "台本はジュール゠アンリ・ヴェルノワ・ド・サン゠ジョルジュとジャン゠フランソワ・バヤールによる、全2幕のオペラ・コミック。第1幕、トニオが歌うアリア「ああ、友よ」には高いドの音が楽譜上8つ書かれており、演奏の慣習で加えられる「9つ目」は伝説にすぎない(UNCERTAIN)。",
+      "en": "Vernoy de Saint-Georges and Bayard co-wrote the two-act libretto. Its best-known moment, Tonio's Act One aria 'Ah! mes amis,' has a reputation for nine punishing top Cs — though Donizetti's own score asks for only eight, a myth inflated by performers over time (UNCERTAIN)."
+    },
+    "story": {
+      "ja": "1840年2月11日、パリのオペラ・コミック座(ブルス劇場)で初演。しかしテノール歌手の音程に難があったとされ、批評家ベルリオーズも辛辣な評を書くなど、初演の評判は芳しくなかった。イタリア語版はカリスト・バッシによる翻訳で、ドニゼッティ自身が新たにレチタティーヴォを作曲している。",
+      "en": "Premiered on 11 February 1840 at the Salle de la Bourse in Paris, home of the Opéra-Comique, the reception was poor: the tenor reportedly struggled with intonation, and the critic Hector Berlioz wrote a scathing review. An Italian version, translated by Calisto Bassi, features new recitatives that Donizetti composed himself for Italian audiences."
+    }
+  },
+  "10583": {
+    "structure": {
+      "ja": "台本はフェリーチェ・ロマーニによる全2幕のメロドランマ・ジョコーソ。舞台は18世紀末、バスク地方のとある村。オーベールの歌劇「媚薬」のためにスクリーブが書いた台本を下敷きに、わずか6週間ほどで書き上げられたとされる。",
+      "en": "A two-act melodramma giocoso with a libretto by Felice Romani, set in a Basque village in the late eighteenth century. It draws on the libretto Scribe had written for Auber's opera 'Le philtre,' and is said to have been composed in only about six weeks."
+    },
+    "story": {
+      "ja": "1832年5月12日、ミラノのカノッビアーナ劇場で、アレッサンドロ・ロッラの指揮により初演された。翌年、ミラノのリコルディ社から出版されている。第2幕でネモリーノが歌うロマンツァ「人知れぬ涙」は、この作品でもっとも知られた旋律として、今なお世界中で愛されている。",
+      "en": "The opera premiered on 12 May 1832 at Milan's Teatro della Canobbiana, conducted by Alessandro Rolla, and was published the following year by Ricordi in Milan. The romanza 'Una furtiva lagrima,' sung by Nemorino in Act Two, remains the opera's best-known melody, cherished by audiences around the world to this day."
+    }
   }
 }
