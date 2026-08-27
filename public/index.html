@@ -7,6 +7,15 @@
     <link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48" />
     <link rel="icon" href="/icon-32.png" type="image/png" sizes="32x32" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
+    <!--
+      This splash redirects before a visitor can act on either tag below, so
+      neither one does much work here in practice. They exist only for
+      parity with the two `[locale]` pages' own metadata (`layout.tsx`),
+      which this hand-written head otherwise duplicates by hand throughout.
+      `lang="ja"` above is why the ja manifest is the one linked here.
+    -->
+    <link rel="manifest" href="/manifest.ja.webmanifest" />
+    <meta name="theme-color" content="#2c3630" />
     <link rel="alternate" hreflang="ja" href="/ja" />
     <link rel="alternate" hreflang="en" href="/en" />
     <link rel="alternate" hreflang="x-default" href="/ja" />

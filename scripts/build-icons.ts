@@ -54,6 +54,52 @@ function render(size: number): Promise<Buffer> {
 }
 
 /**
+ * Sampled from the corners of `CROP` (i.e. the same background `render()`
+ * already puts around the K for every icon above) — averages to roughly
+ * rgb(239, 236, 223). Used to pad the maskable variants below so they blend
+ * with the rest of the set rather than introducing a new tone.
+ */
+const PARCHMENT = { r: 0xef, g: 0xec, b: 0xdf, alpha: 1 };
+
+/**
+ * Maskable icons for Android's adaptive-icon system: the OS applies its own
+ * shape mask (circle, squircle, ...) over the full square, so only the
+ * inner ~80% "safe zone" is guaranteed to stay visible. `CROP` fills ~87% of
+ * its square with the K — safe for a favicon, which is never masked, but
+ * enough to clip the glyph here. This shrinks the K to 72% of the frame
+ * (comfortably inside the 80% zone, since the K's own flourish already eats
+ * into its margin) and pads the rest with the same parchment tone the other
+ * icons already carry, so the full square stays opaque as the maskable spec
+ * requires.
+ */
+const MASKABLE_INNER_RATIO = 0.72;
+
+const MASKABLE_ICONS = [
+  { file: "icon-maskable-192.png", size: 192 },
+  { file: "icon-maskable-512.png", size: 512 },
+];
+
+async function renderMaskable(size: number): Promise<Buffer> {
+  const inner = Math.round(size * MASKABLE_INNER_RATIO);
+  const pad = Math.floor((size - inner) / 2);
+  const trailingPad = size - inner - pad;
+  const glyph = await sharp(SOURCE)
+    .extract(CROP)
+    .resize(inner, inner, { kernel: "lanczos3" })
+    .toBuffer();
+  return sharp(glyph)
+    .extend({
+      top: pad,
+      bottom: trailingPad,
+      left: pad,
+      right: trailingPad,
+      background: PARCHMENT,
+    })
+    .png({ compressionLevel: 9 })
+    .toBuffer();
+}
+
+/**
  * Wraps PNGs in an ICO container.
  *
  * The format is a 6-byte header, one 16-byte directory entry per image, then
@@ -96,6 +142,11 @@ async function main() {
   for (const { file, size } of PNG_ICONS) {
     await writeFile(path.join(OUT_DIR, file), await render(size));
     console.log(`${file.padEnd(22)} ${size}×${size}`);
+  }
+
+  for (const { file, size } of MASKABLE_ICONS) {
+    await writeFile(path.join(OUT_DIR, file), await renderMaskable(size));
+    console.log(`${file.padEnd(22)} ${size}×${size} (maskable)`);
   }
 
   const icoImages = await Promise.all(

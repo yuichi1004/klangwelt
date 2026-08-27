@@ -48,6 +48,13 @@ export function SiteFooter({ locale }: { locale: Locale }) {
           >
             {messages.nav.terms}
           </Link>
+          {" · "}
+          <Link
+            href={`/${locale}/install`}
+            className="text-accent underline underline-offset-2"
+          >
+            {messages.nav.install}
+          </Link>
         </p>
       </div>
     </footer>
