@@ -1,0 +1,20 @@
+{
+  "id": "/ja",
+  "lang": "ja",
+  "dir": "ltr",
+  "name": "Klangwelt — クラシック音楽を、探して、知って、聴く。",
+  "short_name": "Klangwelt",
+  "description": "作曲家・年代・定番度から検索できるクラシック音楽ポータル。楽曲ごとに解説とエピソードを添え、Spotify と YouTube Music へのリンクからすぐに聴けます。",
+  "start_url": "/ja",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2c3630",
+  "theme_color": "#2c3630",
+  "categories": ["music", "education"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

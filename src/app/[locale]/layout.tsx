@@ -1,16 +1,27 @@
 import { Analytics } from "@vercel/analytics/next";
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Lora } from "next/font/google";
 import { notFound } from "next/navigation";
 
 import "../globals.css";
 
+import { InstallPrompt } from "@/components/install-prompt";
+import { ServiceWorkerRegistration } from "@/components/service-worker-registration";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { FavoritesProvider } from "@/components/favorites-provider";
 import { getMessages, isLocale, LOCALES, type Locale } from "@/i18n/config";
 import { buildOpenGraph } from "@/lib/og";
 import { SITE_URL } from "@/lib/site";
+
+// Kept in sync by hand with `--color-paper` in globals.css and with
+// `background_color`/`theme_color` in both `public/manifest.*.webmanifest`
+// files — none of those can reference this constant, being CSS and static
+// JSON respectively.
+export const viewport: Viewport = {
+  themeColor: "#2c3630",
+  colorScheme: "dark",
+};
 
 const inter = Inter({
   subsets: ["latin"],
@@ -78,6 +89,26 @@ export async function generateMetadata(
       ],
       apple: { url: "/apple-touch-icon.png", sizes: "180x180" },
     },
+    // One manifest per locale rather than the `app/manifest.ts` file
+    // convention: a manifest has exactly one `start_url`, and pointing every
+    // locale at `/` would make the installed app open through the
+    // redirect-splash `public/index.html` every launch. `name`/`description`
+    // inside each `public/manifest.*.webmanifest` are kept in sync by hand
+    // with `site.name`/`site.tagline`/`site.description` below — same
+    // arrangement as the OG tags hardcoded in `public/index.html`.
+    manifest: `/manifest.${locale}.webmanifest`,
+    // `capable: true` is what actually makes iOS launch this as a
+    // standalone app instead of a bookmark that opens in Safari.
+    // `statusBarStyle` deliberately stays at the default rather than
+    // `black-translucent`: that variant draws content under the status bar,
+    // which would need `viewportFit: "cover"` plus safe-area padding
+    // threaded through the header, footer and every sheet — out of scope
+    // here.
+    appleWebApp: {
+      capable: true,
+      title: messages.site.name,
+      statusBarStyle: "default",
+    },
     // Every page below repeats this in full rather than relying on
     // inheritance — see the comment on `buildOpenGraph` in `@/lib/og`.
     ...buildOpenGraph(locale, { title, description: messages.site.description }),
@@ -100,6 +131,8 @@ export default async function LocaleLayout(props: LayoutProps<"/[locale]">) {
           <main className="flex-1">{props.children}</main>
           <SiteFooter locale={locale as Locale} />
         </FavoritesProvider>
+        <InstallPrompt locale={locale as Locale} />
+        <ServiceWorkerRegistration />
         <Analytics />
       </body>
     </html>

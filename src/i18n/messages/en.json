@@ -11,6 +11,7 @@
     "favorites": "Favourites",
     "credits": "Credits",
     "terms": "Terms",
+    "install": "Install app",
     "language": "Language",
     "menu": "Menu",
     "close": "Close"
@@ -301,6 +302,38 @@
         "linkText": ""
       }
     ]
+  },
+  "install": {
+    "heading": "Install app",
+    "intro": "Add this site to your home screen and it opens full-screen, with no address bar — one tap on the icon and you're in.",
+    "platformsHeading": "How to add it",
+    "platforms": [
+      {
+        "heading": "iPhone and iPad (Safari)",
+        "body": "1. Open this site in Safari.\n2. Tap the share icon at the bottom of the screen (top, on iPad).\n3. Scroll down the menu and tap \"Add to Home Screen\".\n4. Tap \"Add\" in the top-right corner to finish.\n・This only works in Safari — reopen the site there if you're in another browser, such as Chrome."
+      },
+      {
+        "heading": "Android (Chrome)",
+        "body": "1. Open this site in Chrome.\n2. Tap the \"Install\" banner that appears at the bottom of the screen.\n3. If no banner appears, open the ⋮ menu in the top-right corner and choose \"Install app\"."
+      },
+      {
+        "heading": "Desktop (Chrome, Edge)",
+        "body": "1. Open this site in Chrome or Edge.\n2. Click the install icon at the right edge of the address bar.\n3. Click \"Install\" in the dialog that appears."
+      }
+    ],
+    "favoritesNoteHeading": "Carrying over your favourites",
+    "favoritesNoteBody": "Favourites are saved only in the browser you used before installing. The installed app is treated as a separate browser, so it can start out with no favourites at all. Export them from the favourites page first if you want to keep them.",
+    "favoritesNoteLinkText": "Open the favourites page",
+    "removeHeading": "Removing it",
+    "removeBody": "Press and hold the icon on your home screen or app list, and remove it the same way you would any other app."
+  },
+  "installPrompt": {
+    "heading": "Install app",
+    "androidBody": "Add this to your home screen, then open it with one tap next time.",
+    "iosBody": "Use the share icon and \"Add to Home Screen\" to use this like an app.",
+    "install": "Install",
+    "guide": "See how",
+    "later": "Later"
   },
   "common": {
     "years": "{birth}-{death}",

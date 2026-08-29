@@ -140,8 +140,9 @@ export function SiteHeader({ locale }: { locale: Locale }) {
           catalog-browser.tsx's sticky search/filter row (z-20 — same level
           would let it paint over the scrim, since it comes later in the
           DOM) but below the header's own z-30, so the dropdown stays crisp
-          on top of it. The sheets themselves sit at z-40, above all of
-          it. */}
+          on top of it. Above z-30 sits install-prompt.tsx's bottom sheet
+          (z-[35] — a non-modal banner, not part of this trap), and above
+          that the modal sheets themselves sit at z-40, over all of it. */}
       {menuOpen && (
         <button
           type="button"
